@@ -1450,9 +1450,13 @@ const ETHNICS_IN_CATALOG = Object.keys(ETHNIC_COUNTS).sort(
 
 boot();
 
+let navStackDepth = 0;
+
 function boot() {
   bindShellEvents();
   applyUrlState();
+  syncUrl();
+  window.addEventListener("popstate", handlePopState);
   state.isNavigating = !document.startViewTransition;
   render();
   setTimeout(() => {
@@ -1462,6 +1466,25 @@ function boot() {
       appContainer.classList.remove("ios-navigation-active");
     }
   }, 420);
+}
+
+function handlePopState() {
+  navStackDepth = Math.max(0, navStackDepth - 1);
+  const sheetWasVisible = Boolean(state.sheet) || sheet.classList.contains("visible");
+  applyUrlState();
+  syncNav();
+  if (sheetWasVisible && !state.sheet) {
+    dismissSheetChrome();
+  }
+  render();
+}
+
+function buildHistorySnapshot() {
+  return {
+    foodwiseNav: true,
+    view: state.view,
+    sheet: state.sheet ? { ...state.sheet } : null
+  };
 }
 
 function bindShellEvents() {
@@ -1475,8 +1498,27 @@ function bindShellEvents() {
   closeSheet.addEventListener("click", closeDetailSheet);
   sheetBackdrop.addEventListener("click", closeDetailSheet);
   bindSheetSwipeClose();
+  bindZoomGuards();
   document.addEventListener("click", handleDelegatedActionClick);
   document.addEventListener("keydown", handleDelegatedActionKeydown);
+}
+
+function bindZoomGuards() {
+  document.addEventListener("touchmove", (event) => {
+    if (event.touches.length > 1) {
+      event.preventDefault();
+    }
+  }, { passive: false });
+
+  document.addEventListener("gesturestart", (event) => {
+    event.preventDefault();
+  }, { passive: false });
+
+  document.addEventListener("wheel", (event) => {
+    if (event.ctrlKey) {
+      event.preventDefault();
+    }
+  }, { passive: false });
 }
 
 function handleDelegatedActionClick(event) {
@@ -1589,6 +1631,8 @@ function applyUrlState() {
   const view = params.get("view");
   if (view && ["home", "library", "checker", "recipes", "profile"].includes(view)) {
     state.view = view;
+  } else {
+    state.view = "home";
   }
 
   const query = params.get("q");
@@ -1621,6 +1665,7 @@ function applyUrlState() {
 
   const foodId = params.get("food");
   const recipeId = params.get("recipe");
+  const filtersScope = params.get("filters");
   const pair = params.get("pair");
 
   if (pair) {
@@ -1628,13 +1673,16 @@ function applyUrlState() {
     state.checkerSelected = pair.split(",").filter((id) => foodMap.has(id)).slice(0, 4);
   }
 
+  state.sheet = null;
+
   if (foodId && foodMap.has(foodId)) {
     state.sheet = { type: "food", id: foodId };
-  }
-
-  if (recipeId && recipes.find((item) => item.id === recipeId)) {
+  } else if (recipeId && recipes.find((item) => item.id === recipeId)) {
     state.view = "recipes";
     state.sheet = { type: "recipe", id: recipeId };
+  } else if (filtersScope === "library" || filtersScope === "recipes") {
+    state.view = filtersScope;
+    state.sheet = { type: "filters", scope: filtersScope };
   }
 }
 
@@ -1832,6 +1880,10 @@ function navigate(view) {
   if (state.view === view) return;
 
   state.view = view;
+  if (state.sheet) {
+    state.sheet = null;
+    dismissSheetChrome();
+  }
   syncNav();
 
   const transitionUpdate = () => {
@@ -1866,6 +1918,7 @@ function navigate(view) {
     }
     transitionUpdate();
   }
+  syncUrl({ push: true });
 }
 
 function syncNav() {
@@ -1930,8 +1983,9 @@ function render() {
   }
   if (state.sheet) {
     openSheetFromState();
+  } else if (sheet.classList.contains("visible")) {
+    dismissSheetChrome();
   }
-  syncUrl();
   triggerStaggeredAnimation();
 }
 
@@ -2260,6 +2314,7 @@ function bindProfileEvents() {
 
 function rerenderCurrent(options = {}) {
   render();
+  syncUrl();
   if (options.preserveFocusId) {
     restoreInputFocus(options.preserveFocusId);
   }
@@ -2513,7 +2568,7 @@ function openFilterSheet(scope) {
     ? renderLibraryFilterDrawerContent(filterFoods().length)
     : renderRecipesFilterDrawerContent(filterRecipes().length);
   showFilterSheet(html);
-  syncUrl();
+  syncUrl({ push: true });
 }
 
 function showFilterSheet(html) {
@@ -3347,7 +3402,7 @@ function openFoodDetail(id) {
   pushRecentFood(id);
   state.sheet = { type: "food", id };
   showSheet(renderFoodDetail(foodMap.get(id)));
-  syncUrl();
+  syncUrl({ push: true });
 }
 
 function openRecipeDetail(id) {
@@ -3359,23 +3414,39 @@ function openRecipeDetail(id) {
   pushRecentRecipe(id);
   state.sheet = { type: "recipe", id };
   showSheet(renderRecipeDetail(item));
-  syncUrl();
+  syncUrl({ push: true });
 }
 
-function closeDetailSheet() {
-  const wasFilterSheet = state.sheet?.type === "filters";
-  state.sheet = null;
+function dismissSheetChrome() {
   sheet.classList.remove("visible", "filter-sheet");
   sheetBackdrop.classList.remove("visible");
   setTimeout(() => {
+    if (state.sheet) return;
     sheet.hidden = true;
     sheetBackdrop.hidden = true;
     sheetContent.innerHTML = "";
   }, 180);
-  syncUrl();
+}
+
+function finalizeCloseDetailSheet(options = {}) {
+  const wasFilterSheet = options.wasFilterSheet ?? state.sheet?.type === "filters";
+  state.sheet = null;
+  dismissSheetChrome();
+  if (!options.skipUrl) syncUrl();
   if (wasFilterSheet) {
     scrollToResultAnchor();
   }
+}
+
+function closeDetailSheet() {
+  if (!state.sheet) return;
+
+  if (navStackDepth > 0) {
+    history.back();
+    return;
+  }
+
+  finalizeCloseDetailSheet();
 }
 
 function showSheet(html) {
@@ -3758,7 +3829,8 @@ function profileLabel(id) {
   return PROFILE_OPTIONS.find((option) => option.id === id)?.label || id;
 }
 
-function syncUrl() {
+function syncUrl(options = {}) {
+  const { push = false } = options;
   const params = new URLSearchParams();
   if (state.view !== "home") params.set("view", state.view);
   if (state.view === "home" && state.homeQuery) params.set("q", state.homeQuery);
@@ -3783,7 +3855,15 @@ function syncUrl() {
   if (state.view === "checker" && state.checkerSelected.length) params.set("pair", state.checkerSelected.join(","));
   if (state.sheet?.type === "food") params.set("food", state.sheet.id);
   if (state.sheet?.type === "recipe") params.set("recipe", state.sheet.id);
-  history.replaceState(null, "", `${window.location.pathname}${params.toString() ? `?${params.toString()}` : ""}`);
+  if (state.sheet?.type === "filters") params.set("filters", state.sheet.scope);
+  const url = `${window.location.pathname}${params.toString() ? `?${params.toString()}` : ""}`;
+  const snapshot = buildHistorySnapshot();
+  if (push) {
+    history.pushState(snapshot, "", url);
+    navStackDepth += 1;
+  } else {
+    history.replaceState(snapshot, "", url);
+  }
 }
 
 function showToast(message, options = {}) {
