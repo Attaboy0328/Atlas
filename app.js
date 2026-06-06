@@ -7128,18 +7128,16 @@ function renderHomeV2() {
         : ""}
     </section>
 
-    <section class="page-title page-title-compact">
-      <p class="eyebrow">Traditional Nature</p>
-      <h1>按传统食性浏览</h1>
-      <p>点选食性，直接进入食材库查看。</p>
+    <section class="home-section">
+      <h2 class="section-title">按传统食性浏览</h2>
+      <p class="section-copy">点选食性，直接进入食材库查看。</p>
     </section>
 
     <section class="nature-grid">${natureTiles}</section>
 
-    <section class="page-title page-title-compact">
-      <p class="eyebrow">Qi Terms</p>
-      <h1>传统气机术语</h1>
-      <p>进阶专题入口，点击后进入食材库继续筛选。</p>
+    <section class="home-section">
+      <h2 class="section-title">传统气机术语</h2>
+      <p class="section-copy">进阶专题入口，点击后进入食材库继续筛选。</p>
     </section>
 
     <div class="filter-group filter-group-wrap">
@@ -7158,7 +7156,6 @@ function renderLibrary() {
 
   return `
     <section class="page-title page-title-compact">
-      <p class="eyebrow">Ingredient Library</p>
       <h1>食材库</h1>
     </section>
 
@@ -7306,7 +7303,6 @@ function renderProfile() {
 
   return `
     <section class="page-title page-title-compact">
-      <p class="eyebrow">My Food Profile</p>
       <h1>我的食养档案</h1>
       <p>个人提醒会影响食材详情与搭配检查的提示优先级，数据仅保存在当前浏览器。</p>
     </section>
