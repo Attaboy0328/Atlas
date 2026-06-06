@@ -5913,6 +5913,14 @@ function openLibraryFromHome() {
 }
 
 function handleDelegatedActionClick(event) {
+  const filterTrigger = event.target.closest("[data-open-filters]");
+  if (filterTrigger) {
+    event.preventDefault();
+    event.stopPropagation();
+    openFilterSheet(filterTrigger.dataset.openFilters);
+    return;
+  }
+
   const homeFilterTrigger = event.target.closest("[data-home-library-toggle]");
   if (homeFilterTrigger) {
     event.preventDefault();
@@ -6266,6 +6274,18 @@ function render() {
 
   app.innerHTML = views[state.view]();
   bindViewEvents();
+  if (state.sheet?.type === "filters") {
+    const validScope = (state.sheet.scope === "library" && state.view === "library")
+      || (state.sheet.scope === "recipes" && state.view === "recipes");
+    if (!validScope) {
+      state.sheet = null;
+      sheet.classList.remove("visible", "filter-sheet");
+      sheetBackdrop.classList.remove("visible");
+      sheet.hidden = true;
+      sheetBackdrop.hidden = true;
+      sheetContent.innerHTML = "";
+    }
+  }
   if (state.sheet) {
     openSheetFromState();
   }
@@ -6393,11 +6413,15 @@ function bindLibraryEvents() {
     input.value = state.libraryQuery;
     bindReactiveInput(input, (value) => {
       state.libraryQuery = cleanString(value);
-      rerenderCurrent({ preserveFocusId: "libraryQuery" });
+      afterLibraryFilterChange({ preserveFocusId: "libraryQuery", scrollToResults: true });
     });
   }
 
-  app.querySelectorAll("[data-library-nature]").forEach((button) => {
+  bindLibraryFilterControls(app);
+}
+
+function bindLibraryFilterControls(root) {
+  root.querySelectorAll("[data-library-nature]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.libraryNature = button.dataset.libraryNature;
@@ -6406,11 +6430,11 @@ function bindLibraryEvents() {
         navigate("library");
         return;
       }
-      rerenderCurrent();
+      afterLibraryFilterChange({ scrollToResults: true });
     });
   });
 
-  app.querySelectorAll("[data-library-category]").forEach((button) => {
+  root.querySelectorAll("[data-library-category]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.libraryCategory = button.dataset.libraryCategory;
@@ -6419,11 +6443,11 @@ function bindLibraryEvents() {
         navigate("library");
         return;
       }
-      rerenderCurrent();
+      afterLibraryFilterChange({ scrollToResults: true });
     });
   });
 
-  app.querySelectorAll("[data-library-region]").forEach((button) => {
+  root.querySelectorAll("[data-library-region]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.libraryRegion = button.dataset.libraryRegion;
@@ -6432,11 +6456,11 @@ function bindLibraryEvents() {
         navigate("library");
         return;
       }
-      rerenderCurrent();
+      afterLibraryFilterChange({ scrollToResults: true });
     });
   });
 
-  app.querySelectorAll("[data-library-topic]").forEach((button) => {
+  root.querySelectorAll("[data-library-topic]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.libraryTopic = button.dataset.libraryTopic === state.libraryTopic ? "" : button.dataset.libraryTopic;
@@ -6445,7 +6469,7 @@ function bindLibraryEvents() {
         navigate("library");
         return;
       }
-      rerenderCurrent();
+      afterLibraryFilterChange({ scrollToResults: true });
     });
   });
 }
@@ -6486,94 +6510,102 @@ function bindRecipeEvents() {
   input.value = state.recipesQuery;
   bindReactiveInput(input, (value) => {
     state.recipesQuery = cleanString(value);
-    rerenderCurrent({ preserveFocusId: "recipesQuery" });
+    afterRecipeFilterChange({ preserveFocusId: "recipesQuery", scrollToResults: true });
   });
 
-  app.querySelectorAll("[data-recipes-nature]").forEach((button) => {
-    button.addEventListener("click", () => {
-      triggerHapticFeedback();
-      state.recipesNature = button.dataset.recipesNature;
-      rerenderCurrent();
+  bindRecipeFilterControls(app);
+}
+
+function bindRecipeFilterControls(root, options = {}) {
+  const { advancedOnly = false } = options;
+
+  if (!advancedOnly) {
+    root.querySelectorAll("[data-recipes-nature]").forEach((button) => {
+      button.addEventListener("click", () => {
+        triggerHapticFeedback();
+        state.recipesNature = button.dataset.recipesNature;
+        afterRecipeFilterChange({ scrollToResults: true });
+      });
     });
-  });
 
-  app.querySelectorAll("[data-recipes-syndrome]").forEach((button) => {
-    button.addEventListener("click", () => {
-      triggerHapticFeedback();
-      state.recipesSyndrome = button.dataset.recipesSyndrome;
-      rerenderCurrent();
+    root.querySelectorAll("[data-recipes-syndrome]").forEach((button) => {
+      button.addEventListener("click", () => {
+        triggerHapticFeedback();
+        state.recipesSyndrome = button.dataset.recipesSyndrome;
+        afterRecipeFilterChange({ scrollToResults: true });
+      });
     });
-  });
 
-  app.querySelectorAll("[data-recipes-usefor]").forEach((button) => {
+    root.querySelectorAll("[data-recipes-corefood]").forEach((button) => {
+      button.addEventListener("click", () => {
+        triggerHapticFeedback();
+        state.recipesCoreFood = button.dataset.recipesCorefood;
+        afterRecipeFilterChange({ scrollToResults: true });
+      });
+    });
+  }
+
+  root.querySelectorAll("[data-recipes-usefor]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.recipesUseFor = button.dataset.recipesUsefor;
-      rerenderCurrent();
+      afterRecipeFilterChange({ scrollToResults: true });
     });
   });
 
-  app.querySelectorAll("[data-recipes-avoidfor]").forEach((button) => {
+  root.querySelectorAll("[data-recipes-avoidfor]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.recipesAvoidFor = button.dataset.recipesAvoidfor;
-      rerenderCurrent();
+      afterRecipeFilterChange({ scrollToResults: true });
     });
   });
 
-  app.querySelectorAll("[data-recipes-timing]").forEach((button) => {
+  root.querySelectorAll("[data-recipes-timing]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.recipesTiming = button.dataset.recipesTiming;
-      rerenderCurrent();
+      afterRecipeFilterChange({ scrollToResults: true });
     });
   });
 
-  app.querySelectorAll("[data-recipes-cooking]").forEach((button) => {
+  root.querySelectorAll("[data-recipes-cooking]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.recipesCooking = button.dataset.recipesCooking;
-      rerenderCurrent();
+      afterRecipeFilterChange({ scrollToResults: true });
     });
   });
 
-  app.querySelectorAll("[data-recipes-corefood]").forEach((button) => {
-    button.addEventListener("click", () => {
-      triggerHapticFeedback();
-      state.recipesCoreFood = button.dataset.recipesCorefood;
-      rerenderCurrent();
-    });
-  });
-
-  app.querySelectorAll("[data-recipes-season]").forEach((button) => {
+  root.querySelectorAll("[data-recipes-season]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.recipesSeason = button.dataset.recipesSeason;
-      rerenderCurrent();
+      afterRecipeFilterChange({ scrollToResults: true });
     });
   });
 
-  app.querySelectorAll("[data-recipes-bodyfeel]").forEach((button) => {
+  root.querySelectorAll("[data-recipes-bodyfeel]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.recipesBodyFeel = button.dataset.recipesBodyfeel;
-      rerenderCurrent();
+      afterRecipeFilterChange({ scrollToResults: true });
     });
   });
 
-  app.querySelectorAll("[data-recipes-tonify]").forEach((button) => {
+  root.querySelectorAll("[data-recipes-tonify]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.recipesTonify = button.dataset.recipesTonify;
-      rerenderCurrent();
+      afterRecipeFilterChange({ scrollToResults: true });
     });
   });
 
-  app.querySelectorAll("[data-recipes-clear]").forEach((button) => {
+  root.querySelectorAll("[data-recipes-clear]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.recipesClear = button.dataset.recipesClear;
-      rerenderCurrent();
+      afterRecipeFilterChange({ scrollToResults: true });
     });
   });
 }
@@ -6598,12 +6630,296 @@ function rerenderCurrent(options = {}) {
   if (options.preserveFocusId) {
     restoreInputFocus(options.preserveFocusId);
   }
+  if (options.scrollToResults) {
+    scrollToResultAnchor();
+  }
+}
+
+function scrollToResultAnchor() {
+  requestAnimationFrame(() => {
+    const anchor = document.getElementById("result-anchor");
+    if (anchor) {
+      anchor.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  });
+}
+
+function countLibraryActiveFilters() {
+  let count = 0;
+  if (state.libraryNature !== "全部") count += 1;
+  if (state.libraryTopic) count += 1;
+  if (state.libraryCategory !== "全部") count += 1;
+  if (state.libraryRegion !== "ALL") count += 1;
+  return count;
+}
+
+function countRecipesAdvancedFilters() {
+  let count = 0;
+  if (state.recipesUseFor !== "全部") count += 1;
+  if (state.recipesAvoidFor !== "全部") count += 1;
+  if (state.recipesTiming !== "全部") count += 1;
+  if (state.recipesCooking !== "全部") count += 1;
+  if (state.recipesSeason !== "全部") count += 1;
+  if (state.recipesBodyFeel !== "全部") count += 1;
+  if (state.recipesTonify !== "全部") count += 1;
+  if (state.recipesClear !== "全部") count += 1;
+  return count;
+}
+
+function countRecipesActiveFilters() {
+  let count = countRecipesAdvancedFilters();
+  if (state.recipesNature !== "全部") count += 1;
+  if (state.recipesSyndrome !== "全部") count += 1;
+  if (state.recipesCoreFood !== "全部") count += 1;
+  return count;
+}
+
+function getLibraryFilterSummary() {
+  const parts = [];
+  if (state.libraryNature !== "全部") parts.push(state.libraryNature);
+  if (state.libraryTopic) parts.push(state.libraryTopic);
+  if (state.libraryCategory !== "全部") parts.push(state.libraryCategory);
+  if (state.libraryRegion !== "ALL") parts.push(REGION_LABELS[state.libraryRegion] || state.libraryRegion);
+  return parts.length ? parts.join(" · ") : "全部食材";
+}
+
+function getRecipesFilterSummary() {
+  const parts = [];
+  if (state.recipesNature !== "全部") parts.push(state.recipesNature);
+  if (state.recipesSyndrome !== "全部") parts.push(state.recipesSyndrome);
+  if (state.recipesCoreFood !== "全部") parts.push(state.recipesCoreFood);
+  if (state.recipesUseFor !== "全部") parts.push(state.recipesUseFor);
+  if (state.recipesAvoidFor !== "全部") parts.push(state.recipesAvoidFor);
+  if (state.recipesTiming !== "全部") parts.push(state.recipesTiming);
+  if (state.recipesCooking !== "全部") parts.push(state.recipesCooking);
+  if (state.recipesSeason !== "全部") parts.push(state.recipesSeason);
+  if (state.recipesBodyFeel !== "全部") parts.push(state.recipesBodyFeel);
+  if (state.recipesTonify !== "全部") parts.push(state.recipesTonify);
+  if (state.recipesClear !== "全部") parts.push(state.recipesClear);
+  return parts.length ? parts.join(" · ") : "全部食疗方";
+}
+
+function renderStickyBrowseToolbar({
+  searchId,
+  placeholder,
+  queryValue,
+  filterScope,
+  summary,
+  activeFilterCount,
+  resultCount,
+  resultUnit,
+  resultMeta = "",
+  quickFiltersHtml = "",
+  filterButtonLabel = ""
+}) {
+  const filterLabel = filterButtonLabel || (activeFilterCount > 0 ? `筛选 · ${activeFilterCount}` : "筛选");
+  return `
+    <section class="sticky-toolbar">
+      ${searchField({ id: searchId, placeholder, value: queryValue })}
+      ${quickFiltersHtml}
+      <div class="sticky-toolbar-meta">
+        <p class="sticky-toolbar-summary">${summary}</p>
+        <button type="button" class="filter-open-button" data-open-filters="${filterScope}">${filterLabel}</button>
+      </div>
+      <div class="result-summary result-summary-sticky" id="result-anchor">
+        <span>找到 ${resultCount} 个${resultUnit}</span>
+        ${resultMeta ? `<span>${resultMeta}</span>` : ""}
+      </div>
+    </section>
+  `;
+}
+
+function resetLibraryFilters() {
+  state.libraryNature = "全部";
+  state.libraryCategory = "全部";
+  state.libraryRegion = "ALL";
+  state.libraryTopic = "";
+}
+
+function resetRecipesAdvancedFilters() {
+  state.recipesUseFor = "全部";
+  state.recipesAvoidFor = "全部";
+  state.recipesTiming = "全部";
+  state.recipesCooking = "全部";
+  state.recipesSeason = "全部";
+  state.recipesBodyFeel = "全部";
+  state.recipesTonify = "全部";
+  state.recipesClear = "全部";
+}
+
+function renderLibraryFilterDrawerContent(resultCount) {
+  return `
+    <section class="filter-drawer">
+      <div class="filter-drawer-head">
+        <h2 class="filter-drawer-title">筛选食材库</h2>
+        <p class="filter-drawer-copy">按食性、专题、分类与地区组合查找。</p>
+      </div>
+      ${renderLibraryFilterSections()}
+      <div class="filter-drawer-footer">
+        <button type="button" class="plain-button" data-reset-filters="library">重置</button>
+        <button type="button" class="action-button filter-drawer-apply" data-close-filter-sheet="true">查看 ${resultCount} 个食材</button>
+      </div>
+    </section>
+  `;
+}
+
+function renderRecipesFilterDrawerContent(resultCount) {
+  return `
+    <section class="filter-drawer">
+      <div class="filter-drawer-head">
+        <h2 class="filter-drawer-title">更多筛选</h2>
+        <p class="filter-drawer-copy">安全提醒、时段、季节等进阶条件。</p>
+      </div>
+      <section class="filter-panel recipe-filter-panel filter-drawer-panel">
+        <div class="filter-subsection">
+          <div class="filter-label">安全提醒</div>
+          <div class="filter-group filter-group-wrap recipe-syndrome-group">
+            ${["全部", ...RECIPE_USE_FOR_OPTIONS].map((item) => chip(item, item, "data-recipes-usefor", state.recipesUseFor === item)).join("")}
+          </div>
+        </div>
+        <div class="filter-subsection">
+          <div class="filter-label">慎用提示</div>
+          <div class="filter-group filter-group-wrap recipe-syndrome-group">
+            ${["全部", ...RECIPE_AVOID_FOR_OPTIONS].map((item) => chip(item, item, "data-recipes-avoidfor", state.recipesAvoidFor === item)).join("")}
+          </div>
+        </div>
+        <div class="filter-subsection">
+          <div class="filter-label">建议时段</div>
+          <div class="filter-group filter-group-wrap recipe-syndrome-group">
+            ${["全部", ...RECIPE_TIMING_OPTIONS].map((item) => chip(item, item, "data-recipes-timing", state.recipesTiming === item)).join("")}
+          </div>
+        </div>
+        <div class="filter-subsection">
+          <div class="filter-label">烹调方式</div>
+          <div class="filter-group filter-group-wrap recipe-syndrome-group">
+            ${["全部", ...RECIPE_COOKING_OPTIONS].map((item) => chip(item, item, "data-recipes-cooking", state.recipesCooking === item)).join("")}
+          </div>
+        </div>
+        <div class="filter-subsection">
+          <div class="filter-label">适宜季节</div>
+          <div class="filter-group filter-group-wrap recipe-syndrome-group">
+            ${["全部", ...RECIPE_SEASON_OPTIONS].map((item) => chip(item, item, "data-recipes-season", state.recipesSeason === item)).join("")}
+          </div>
+        </div>
+        <div class="filter-subsection">
+          <div class="filter-label">身体感受</div>
+          <div class="filter-group filter-group-wrap recipe-syndrome-group">
+            ${["全部", ...RECIPE_BODY_FEEL_OPTIONS].map((item) => chip(item, item, "data-recipes-bodyfeel", state.recipesBodyFeel === item)).join("")}
+          </div>
+        </div>
+        <div class="filter-subsection">
+          <div class="filter-label">补神/益气</div>
+          <div class="filter-group filter-group-wrap recipe-syndrome-group">
+            ${["全部", ...RECIPE_TONIFY_OPTIONS].map((item) => chip(item, item, "data-recipes-tonify", state.recipesTonify === item)).join("")}
+          </div>
+        </div>
+        <div class="filter-subsection">
+          <div class="filter-label">清热/祛湿</div>
+          <div class="filter-group filter-group-wrap recipe-syndrome-group">
+            ${["全部", ...RECIPE_CLEAR_OPTIONS].map((item) => chip(item, item, "data-recipes-clear", state.recipesClear === item)).join("")}
+          </div>
+        </div>
+      </section>
+      <div class="filter-drawer-footer">
+        <button type="button" class="plain-button" data-reset-filters="recipes-advanced">重置</button>
+        <button type="button" class="action-button filter-drawer-apply" data-close-filter-sheet="true">查看 ${resultCount} 个食疗方</button>
+      </div>
+    </section>
+  `;
+}
+
+function renderRecipesQuickFilters(syndromes) {
+  return `
+    <div class="quick-filter-stack">
+      <div class="filter-subsection quick-filter-block">
+        <div class="filter-label">食性</div>
+        <div class="filter-group filter-group-scroll quick-filter-row">
+          ${["全部", "平", "温", "热", "凉", "寒"].map((item) => chip(item, item, "data-recipes-nature", state.recipesNature === item)).join("")}
+        </div>
+      </div>
+      <div class="filter-subsection quick-filter-block">
+        <div class="filter-label">证候</div>
+        <div class="filter-group filter-group-scroll quick-filter-row">
+          ${["全部", ...syndromes].map((item) => chip(item, item, "data-recipes-syndrome", state.recipesSyndrome === item)).join("")}
+        </div>
+      </div>
+      <div class="filter-subsection quick-filter-block">
+        <div class="filter-label">核心食材</div>
+        <div class="filter-group filter-group-scroll quick-filter-row">
+          ${["全部", ...RECIPE_CORE_FOOD_OPTIONS].map((item) => chip(item, item, "data-recipes-corefood", state.recipesCoreFood === item)).join("")}
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+function afterLibraryFilterChange(options = {}) {
+  rerenderCurrent({
+    preserveFocusId: options.preserveFocusId,
+    scrollToResults: options.scrollToResults && state.sheet?.type !== "filters"
+  });
+}
+
+function afterRecipeFilterChange(options = {}) {
+  rerenderCurrent({
+    preserveFocusId: options.preserveFocusId,
+    scrollToResults: options.scrollToResults && state.sheet?.type !== "filters"
+  });
+}
+
+function openFilterSheet(scope) {
+  triggerHapticFeedback();
+  state.sheet = { type: "filters", scope };
+  const html = scope === "library"
+    ? renderLibraryFilterDrawerContent(filterFoods().length)
+    : renderRecipesFilterDrawerContent(filterRecipes().length);
+  showFilterSheet(html);
+  syncUrl();
+}
+
+function showFilterSheet(html) {
+  sheet.classList.add("filter-sheet");
+  sheetContent.innerHTML = html;
+  sheet.hidden = false;
+  sheetBackdrop.hidden = false;
+  requestAnimationFrame(() => {
+    sheet.classList.add("visible");
+    sheetBackdrop.classList.add("visible");
+  });
+  bindFilterSheetEvents();
+}
+
+function bindFilterSheetEvents() {
+  bindLibraryFilterControls(sheetContent);
+  bindRecipeFilterControls(sheetContent, { advancedOnly: true });
+
+  sheetContent.querySelectorAll("[data-close-filter-sheet]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      closeDetailSheet();
+    });
+  });
+
+  sheetContent.querySelectorAll("[data-reset-filters]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      if (button.dataset.resetFilters === "library") {
+        resetLibraryFilters();
+        afterLibraryFilterChange();
+        return;
+      }
+      if (button.dataset.resetFilters === "recipes-advanced") {
+        resetRecipesAdvancedFilters();
+        afterRecipeFilterChange();
+      }
+    });
+  });
 }
 
 function renderLibraryFilterSections() {
   const teaTopics = ["茶", "绿茶", "白茶", "黄茶", "乌龙茶", "黑茶", "药食同源", "行气", "理气", "破气", "降气"];
   return `
-    <section class="filter-panel filter-panel-library home-library-filter-panel">
+    <section class="filter-panel filter-panel-library filter-drawer-panel">
       <div class="filter-subsection">
         <div class="filter-label">传统食性</div>
         <div class="filter-group filter-group-wrap">
@@ -6811,67 +7127,24 @@ function renderHome() {
 
 function renderLibrary() {
   const items = filterFoods();
-  const teaTopics = ["茶", "绿茶", "白茶", "黄茶", "乌龙茶", "黑茶", "药食同源", "行气", "理气", "破气", "降气"];
 
   return `
-    <section class="page-title">
+    <section class="page-title page-title-compact">
       <p class="eyebrow">Ingredient Library</p>
       <h1>食材库</h1>
-      <p>中日韩美英日常食材的统一索引。药食同源按2025版卫健委106种目录维护，并扩充茶类、柴米油盐酱醋茶与高频日常食材。</p>
     </section>
 
-    <div class="filter-group filter-group-wrap">
-      <span class="meta-pill">2025药食同源：${OFFICIAL_COUNT}种</span>
-      <span class="meta-pill">茶类与高频日常食材持续补充中</span>
-      <span class="meta-pill">核验日期 2026-06-03</span>
-    </div>
-
-    <section class="sticky-search sticky-search-library">
-      ${searchField({
-        id: "libraryQuery",
-        placeholder: "搜索食材、茶类、别名或首字母，如：木姜子 / mjz",
-        value: state.libraryQuery
-      })}
-    </section>
-
-    <section class="filter-panel filter-panel-library">
-      <div class="filter-subsection">
-        <div class="filter-label">传统食性</div>
-        <div class="filter-group filter-group-wrap">
-          ${["全部", "寒", "凉", "平", "温", "热", "复合"].map((item) => chip(item, item, "data-library-nature", state.libraryNature === item)).join("")}
-        </div>
-      </div>
-
-      <div class="filter-subsection">
-        <div class="filter-label">气机与专题</div>
-        <div class="filter-group filter-group-wrap">
-          ${teaTopics.map((item) => chip(item, item, "data-library-topic", state.libraryTopic === item)).join("")}
-        </div>
-      </div>
-
-      <div class="filter-subsection">
-        <div class="filter-label">食材分类</div>
-        <div class="filter-group filter-group-wrap">
-          ${["全部", ...CATEGORY_ORDER.filter((category) => CATEGORY_COUNTS[category])].map((item) => chip(item, item, "data-library-category", state.libraryCategory === item)).join("")}
-        </div>
-      </div>
-
-      <div class="filter-subsection">
-        <div class="filter-label">地区来源</div>
-        <div class="filter-group filter-group-wrap">
-          ${chip("全部地区", "ALL", "data-library-region", state.libraryRegion === "ALL")}
-          ${Object.entries(REGION_LABELS)
-            .filter(([region]) => REGION_COUNTS[region])
-            .map(([region, label]) => chip(label, region, "data-library-region", state.libraryRegion === region))
-            .join("")}
-        </div>
-      </div>
-    </section>
-
-    <div class="result-summary">
-      <span>找到 ${items.length} 个食材</span>
-      <span>药食同源 ${OFFICIAL_COUNT} 项 · 茶类 ${TEA_COUNT} 个</span>
-    </div>
+    ${renderStickyBrowseToolbar({
+      searchId: "libraryQuery",
+      placeholder: "搜索食材、茶类、别名或首字母，如：木姜子 / mjz",
+      queryValue: state.libraryQuery,
+      filterScope: "library",
+      summary: getLibraryFilterSummary(),
+      activeFilterCount: countLibraryActiveFilters(),
+      resultCount: items.length,
+      resultUnit: "食材",
+      resultMeta: `药食同源 ${OFFICIAL_COUNT} · 茶类 ${TEA_COUNT}`
+    })}
 
     <section class="food-list">
       ${items.length ? items.map(foodRow).join("") : emptyState("暂时没有匹配项", "换个别名、功效词或地区试试。", true)}
@@ -6948,91 +7221,34 @@ function renderChecker() {
 function renderRecipes() {
   const items = filterRecipes();
   const syndromes = uniq(recipes.map((item) => item.primarySyndrome).filter(Boolean));
+  const advancedCount = countRecipesAdvancedFilters();
 
   return `
-    <section class="page-title">
+    <section class="page-title page-title-compact">
       <p class="eyebrow">Food Therapy Recipes</p>
       <h1>食疗方</h1>
-      <p>这里只搜索食疗方本身，不串到食材库。可按食性、证候、适用场景、慎用提示、进食时段、烹调方式和核心食材查找。</p>
     </section>
 
-    <section class="sticky-search sticky-search-recipes">
-      ${searchField({
-        id: "recipesQuery",
-        placeholder: "搜索食疗方、食材、证候，如：胃阴虚 / 脾气虚 / 银耳",
-        value: state.recipesQuery
-      })}
-      <section class="filter-panel recipe-filter-panel">
-        <div class="filter-group filter-group-wrap filter-group-compact">
-          ${["全部", "平", "温", "热", "凉", "寒"].map((item) => chip(item, item, "data-recipes-nature", state.recipesNature === item)).join("")}
-        </div>
-        <div class="filter-group filter-group-wrap recipe-syndrome-group">
-          ${["全部", ...syndromes].map((item) => chip(item, item, "data-recipes-syndrome", state.recipesSyndrome === item)).join("")}
-        </div>
-        <div class="filter-subsection">
-          <div class="filter-label">安全提醒</div>
-          <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_USE_FOR_OPTIONS].map((item) => chip(item, item, "data-recipes-usefor", state.recipesUseFor === item)).join("")}
-          </div>
-        </div>
-        <div class="filter-subsection">
-          <div class="filter-label">慎用提示</div>
-          <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_AVOID_FOR_OPTIONS].map((item) => chip(item, item, "data-recipes-avoidfor", state.recipesAvoidFor === item)).join("")}
-          </div>
-        </div>
-        <div class="filter-subsection">
-          <div class="filter-label">建议时段</div>
-          <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_TIMING_OPTIONS].map((item) => chip(item, item, "data-recipes-timing", state.recipesTiming === item)).join("")}
-          </div>
-        </div>
-        <div class="filter-subsection">
-          <div class="filter-label">烹调方式</div>
-          <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_COOKING_OPTIONS].map((item) => chip(item, item, "data-recipes-cooking", state.recipesCooking === item)).join("")}
-          </div>
-        </div>
-        <div class="filter-subsection">
-          <div class="filter-label">核心食材</div>
-          <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_CORE_FOOD_OPTIONS].map((item) => chip(item, item, "data-recipes-corefood", state.recipesCoreFood === item)).join("")}
-          </div>
-        </div>
-        <div class="filter-subsection">
-          <div class="filter-label">适宜季节</div>
-          <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_SEASON_OPTIONS].map((item) => chip(item, item, "data-recipes-season", state.recipesSeason === item)).join("")}
-          </div>
-        </div>
-        <div class="filter-subsection">
-          <div class="filter-label">身体感受</div>
-          <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_BODY_FEEL_OPTIONS].map((item) => chip(item, item, "data-recipes-bodyfeel", state.recipesBodyFeel === item)).join("")}
-          </div>
-        </div>
-        <div class="filter-subsection">
-          <div class="filter-label">补神/益气</div>
-          <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_TONIFY_OPTIONS].map((item) => chip(item, item, "data-recipes-tonify", state.recipesTonify === item)).join("")}
-          </div>
-        </div>
-        <div class="filter-subsection">
-          <div class="filter-label">清热/祛湿</div>
-          <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_CLEAR_OPTIONS].map((item) => chip(item, item, "data-recipes-clear", state.recipesClear === item)).join("")}
-          </div>
-        </div>
-      </section>
-    </section>
-
-    <section class="notice">
-      <strong>使用提示</strong>
-      食疗方用于日常饮食整理，不替代面诊、处方和疾病治疗，孕期、慢病、正在用药或症状持续加重者优先就医。
-    </section>
+    ${renderStickyBrowseToolbar({
+      searchId: "recipesQuery",
+      placeholder: "搜索食疗方、食材、证候，如：胃阴虚 / 脾气虚 / 银耳",
+      queryValue: state.recipesQuery,
+      filterScope: "recipes",
+      summary: getRecipesFilterSummary(),
+      activeFilterCount: countRecipesActiveFilters(),
+      resultCount: items.length,
+      resultUnit: "食疗方",
+      quickFiltersHtml: renderRecipesQuickFilters(syndromes),
+      filterButtonLabel: advancedCount > 0 ? `更多 · ${advancedCount}` : "更多筛选"
+    })}
 
     <section class="recipe-list">
       ${items.length ? items.map(recipeRow).join("") : emptyState("没搜到对应食疗方", "可换证候词、核心食材或放宽筛选条件。", true)}
+    </section>
+
+    <section class="notice notice-compact">
+      <strong>使用提示</strong>
+      食疗方用于日常饮食整理，不替代面诊、处方和疾病治疗，孕期、慢病、正在用药或症状持续加重者优先就医。
     </section>
   `;
 }
@@ -7522,6 +7738,13 @@ function escapeHtml(value) {
 
 function openSheetFromState() {
   if (!state.sheet) return;
+  if (state.sheet.type === "filters") {
+    const html = state.sheet.scope === "library"
+      ? renderLibraryFilterDrawerContent(filterFoods().length)
+      : renderRecipesFilterDrawerContent(filterRecipes().length);
+    showFilterSheet(html);
+    return;
+  }
   if (state.sheet.type === "food") {
     const food = foodMap.get(state.sheet.id);
     if (food) showSheet(renderFoodDetail(food));
@@ -7550,8 +7773,9 @@ function openRecipeDetail(id) {
 }
 
 function closeDetailSheet() {
+  const wasFilterSheet = state.sheet?.type === "filters";
   state.sheet = null;
-  sheet.classList.remove("visible");
+  sheet.classList.remove("visible", "filter-sheet");
   sheetBackdrop.classList.remove("visible");
   setTimeout(() => {
     sheet.hidden = true;
@@ -7559,9 +7783,13 @@ function closeDetailSheet() {
     sheetContent.innerHTML = "";
   }, 180);
   syncUrl();
+  if (wasFilterSheet) {
+    scrollToResultAnchor();
+  }
 }
 
 function showSheet(html) {
+  sheet.classList.remove("filter-sheet");
   sheetContent.innerHTML = html;
   sheet.hidden = false;
   sheetBackdrop.hidden = false;

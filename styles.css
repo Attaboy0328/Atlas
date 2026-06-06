@@ -840,6 +840,159 @@ button {
   border-bottom: 0;
 }
 
+.sticky-toolbar {
+  position: sticky;
+  z-index: 10;
+  top: 68px;
+  margin: 0 0 14px;
+  padding: 12px 0 8px;
+  background: linear-gradient(180deg, color-mix(in srgb, var(--paper) 97%, transparent), color-mix(in srgb, var(--paper) 92%, transparent));
+  backdrop-filter: blur(22px) saturate(1.15);
+}
+
+.sticky-toolbar .search-input {
+  box-shadow: none;
+  border-color: var(--line);
+}
+
+.sticky-toolbar-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.sticky-toolbar-summary {
+  margin: 0;
+  flex: 1;
+  min-width: 0;
+  color: var(--ink-soft);
+  font-size: 12px;
+  line-height: 1.5;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.filter-open-button {
+  flex: 0 0 auto;
+  min-height: 36px;
+  padding: 0 14px;
+  border: 1px solid color-mix(in srgb, var(--green) 35%, var(--line));
+  border-radius: var(--radius-pill);
+  background: color-mix(in srgb, var(--green-pale) 40%, var(--surface));
+  color: var(--green-deep);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.filter-open-button:active {
+  transform: scale(0.96);
+}
+
+.result-summary-sticky {
+  padding: 8px 2px 0;
+  margin: 0;
+}
+
+.page-title-compact {
+  margin-bottom: 8px;
+}
+
+.page-title-compact h1 {
+  margin-bottom: 0;
+}
+
+.quick-filter-stack {
+  display: grid;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.quick-filter-block {
+  gap: 6px;
+}
+
+.quick-filter-block .filter-label {
+  margin-bottom: 0;
+}
+
+.quick-filter-row {
+  flex-wrap: nowrap;
+  margin-top: 0;
+  padding-bottom: 0;
+}
+
+.quick-filter-row .chip {
+  min-height: 34px;
+  font-size: 11px;
+}
+
+.filter-drawer {
+  display: grid;
+  gap: 14px;
+}
+
+.filter-drawer-head {
+  padding: 4px 2px 0;
+}
+
+.filter-drawer-title {
+  margin: 0;
+  font-size: 22px;
+  letter-spacing: 0.02em;
+}
+
+.filter-drawer-copy {
+  margin: 6px 0 0;
+  color: var(--ink-soft);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.filter-drawer-panel {
+  margin: 0;
+  padding: 14px;
+  box-shadow: none;
+}
+
+.filter-drawer-footer {
+  position: sticky;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 4px;
+  padding: 12px 0 calc(8px + env(safe-area-inset-bottom));
+  background: linear-gradient(180deg, color-mix(in srgb, var(--surface) 0%, transparent), color-mix(in srgb, var(--surface) 94%, white) 24%);
+}
+
+.filter-drawer-footer .plain-button {
+  flex: 0 0 auto;
+  min-height: 42px;
+}
+
+.filter-drawer-apply {
+  flex: 1;
+  min-height: 42px;
+}
+
+.detail-sheet.filter-sheet {
+  max-height: 88vh;
+}
+
+.detail-sheet.filter-sheet .sheet-content {
+  max-height: calc(88vh - 14px);
+  padding-top: 8px;
+}
+
+.notice-compact {
+  margin-top: 18px;
+  font-size: 12px;
+}
+
 .filter-stack {
   display: grid;
   gap: 12px;
