@@ -318,7 +318,57 @@ const PAIRING_RULES = [
     ids: ["banana", "yogurt"],
     title: "香蕉与酸奶",
     level: "notice",
+    category: "现代安全",
     text: "并非禁配，但对本就腹泻、怕冷或空腹吃冷食容易不适的人，这组偏凉偏滑，可能让肠胃更敏感。"
+  },
+  {
+    ids: ["green-tea", "ginseng"],
+    title: "绿茶与人参",
+    level: "notice",
+    category: "传统食养",
+    text: "传统整理里常提醒浓茶与人参类不宜同服过量，现代重点仍是咖啡因、空腹和个体耐受。"
+  },
+  {
+    ids: ["spinach", "vinegar"],
+    title: "菠菜与醋",
+    level: "notice",
+    category: "现代安全",
+    text: "不是相克，但草酸与部分矿物质吸收相关，肾结石、腹泻明显者不宜大量。"
+  },
+  {
+    ids: ["honey", "green-tea"],
+    title: "蜂蜜与绿茶",
+    level: "gold",
+    category: "民间迷思",
+    text: "民间偶有“不宜同饮”说法，现代更关注空腹、失眠与甜饮叠加后的个体不适。"
+  },
+  {
+    ids: ["doubanjiang", "honey"],
+    title: "豆瓣与蜂蜜",
+    level: "gold",
+    category: "民间迷思",
+    text: "更接近传统相克条目提醒，不应直接等同于有毒结论。"
+  },
+  {
+    ids: ["hotpot-base", "beer"],
+    title: "火锅与啤酒",
+    level: "caution",
+    category: "现代安全",
+    text: "辛辣油腻与酒精叠加，反流、痛风、肝病和服药期间应尽量避免。"
+  },
+  {
+    ids: ["sichuan-peppercorn", "lamb"],
+    title: "花椒与羊肉",
+    level: "notice",
+    category: "传统食养",
+    text: "川西北常见组合，偏温热，口干便秘、炎症期明显者不宜一次过重。"
+  },
+  {
+    ids: ["milk", "tea"],
+    title: "奶茶式同饮",
+    level: "notice",
+    category: "现代安全",
+    text: "不是禁配，但部分人对单宁与蛋白组合更敏感，空腹或反流时更容易不适。"
   }
 ];
 
@@ -337,7 +387,50 @@ const RECIPE_CLASSIC_SOURCES = {
   "sharen-chenpi-fish": [{ title: "《本草纲目》", summary: "砂仁、陈皮理气和胃，鲫鱼和中。" }],
   "danggui-huangqi-chicken": [{ title: "《千金要方·食治》", summary: "当归、黄芪与鸡肉同炖的补气养血食治方。" }],
   "chuanbei-pear": [{ title: "《本草纲目》", summary: "川贝与梨用于润肺止咳类整理。" }],
-  "shashen-yuzhu-duck": [{ title: "《本草纲目》", summary: "沙参、玉竹养阴润燥，老鸭为血肉有情之品。" }]
+  "shashen-yuzhu-duck": [{ title: "《本草纲目》", summary: "沙参、玉竹养阴润燥，老鸭为血肉有情之品。" }],
+  "longan-millet-porridge": [{ title: "《随园食单》", summary: "桂圆与小米粥的养血安神类民间食养。" }],
+  "black-sesame-walnut-paste": [{ title: "《本草纲目》", summary: "黑芝麻、核桃用于润燥补益类整理。" }],
+  "mulberry-red-date-drink": [{ title: "《本草纲目》", summary: "桑葚与红枣并用的养血生津思路。" }],
+  "duck-pear-soup": [{ title: "《饮膳正要》", summary: "禽肉与梨类同炖的润养汤方传统。" }],
+  "apricot-lily-soup": [{ title: "《本草纲目》", summary: "杏仁、百合用于润肺和中。" }],
+  "shepherd-purse-lean-soup": [{ title: "《本草纲目》", summary: "荠菜为民间常用春令菜，常入汤羹。" }],
+  "beef-yam-soup": [{ title: "《千金要方·食治》", summary: "牛肉与山药并用的益气健脾食治思路。" }],
+  "pumpkin-rice-paste": [{ title: "《随园食单》", summary: "南瓜与米类同煮的和中辅食传统。" }],
+  "chicken-poria-stew": [{ title: "《本草纲目》", summary: "茯苓与鸡肉同炖的健脾祛湿方。" }],
+  "yam-lotus-bowl": [{ title: "《本草纲目》", summary: "山药、莲子健脾和中。" }],
+  "astragalus-chicken-soup": [{ title: "《脾胃论》", summary: "黄芪与鸡肉补气养中的常见食治方。" }],
+  "chenpi-rice-water": [{ title: "《食疗本草》", summary: "陈皮与米汤理气和胃。" }],
+  "white-fungus-lily-bowl": [{ title: "《随园食单》", summary: "银耳、百合润养生津。" }],
+  "lotus-jujube-congee": [{ title: "《本草纲目》", summary: "莲子、红枣补脾养心。" }],
+  "ginger-chenpi-drink": [{ title: "《食疗本草》", summary: "生姜、陈皮温中理气。" }],
+  "millet-poria-bowl": [{ title: "《本草纲目》", summary: "小米与茯苓健脾渗湿。" }],
+  "bergamot-pear-drink": [{ title: "《本草纲目》", summary: "佛手理气，梨类生津。" }],
+  "biandou-yam-congee": [{ title: "《本草纲目》", summary: "白扁豆健脾化湿，常与山药同用。" }],
+  "lianzi-qianshi-millet": [{ title: "《本草纲目》", summary: "莲子、芡实固摄，小米养胃。" }],
+  "dangshen-baizhu-lean-soup": [{ title: "《脾胃论》", summary: "党参、白术益气健脾的经典组合。" }],
+  "chaomi-shanzha-drink": [{ title: "《丹溪心法》", summary: "炒米与山楂消食和胃。" }],
+  "pumpkin-biancong-soup": [{ title: "《本草纲目》", summary: "南瓜、白扁豆补中助运。" }],
+  "longan-goji-steamed-egg": [{ title: "《随园食单》", summary: "桂圆、枸杞与蛋羹的养血安神整理。" }],
+  "redbean-jujube-congee": [{ title: "《本草纲目》", summary: "红豆、红枣养血和中。" }],
+  "black-chicken-danggui": [{ title: "《千金要方·食治》", summary: "乌鸡与当归养血调中。" }],
+  "rose-chenpi-drink": [{ title: "《随园食单》", summary: "玫瑰、陈皮疏肝理气类茶饮整理。" }],
+  "foshou-maiya-drink": [{ title: "《本草纲目》", summary: "佛手、麦芽理气和胃。" }],
+  "radish-beef-soup": [{ title: "《食疗本草》", summary: "萝卜顺气，牛肉补形。" }],
+  "zisu-sharen-congee": [{ title: "《本草纲目》", summary: "紫苏、砂仁醒脾和胃。" }],
+  "huangqi-longan-millet": [{ title: "《脾胃论》", summary: "黄芪、桂圆补气养血。" }],
+  "yuzhu-maidong-congee": [{ title: "《本草纲目》", summary: "玉竹、麦冬养阴润燥。" }],
+  "almond-lily-soup": [{ title: "《本草纲目》", summary: "南北杏与百合润肺。" }],
+  "whitefungus-loquat-drink": [{ title: "《随园食单》", summary: "银耳、枇杷清润生津。" }],
+  "luohanguo-wuhuaguo": [{ title: "《本草纲目》", summary: "罗汉果、无花果润肺利咽。" }],
+  "yinchen-redbean-soup": [{ title: "《本草纲目》", summary: "茵陈、赤小豆清利湿热。" }],
+  "coix-wintermelon-soup": [{ title: "《本草纲目》", summary: "薏米、冬瓜、赤小豆利湿。" }],
+  "cornsilk-heye-drink": [{ title: "《本草纲目》", summary: "玉米须、荷叶轻清利湿。" }],
+  "meigui-foshou-tea": [{ title: "《随园食单》", summary: "玫瑰、佛手疏肝解郁。" }],
+  "qingpi-chenpi-lean": [{ title: "《丹溪心法》", summary: "青皮、陈皮理气和中。" }],
+  "celery-mungbean-drink": [{ title: "《本草纲目》", summary: "芹菜、绿豆清利轻养。" }],
+  "mumian-fuling-lean": [{ title: "《本草纲目》", summary: "木棉花、茯苓健脾祛湿。" }],
+  "jigucao-lean-soup": [{ title: "《岭南采药录》", summary: "鸡骨草为岭南常用利湿药食材。" }],
+  "xiakucao-chrysanthemum": [{ title: "《本草纲目》", summary: "夏枯草、菊花清舒头目。" }]
 };
 
 function recipe(id, name, nature, syndromes, foodIds, subtitle, ingredients, steps, note) {
@@ -5223,6 +5316,7 @@ const state = {
   libraryCategory: "全部",
   libraryRegion: "ALL",
   libraryProvince: "全部",
+  libraryEthnic: "全部",
   libraryTopic: "",
   checkerQuery: "",
   checkerSelected: [],
@@ -5942,6 +6036,27 @@ const REGION_COUNTS = countBy(
   (item) => item.region
 );
 
+function collectTagCounts(items, tagKey) {
+  const counts = {};
+  items.forEach((food) => {
+    (food[tagKey] || []).forEach((tag) => {
+      if (!tag) return;
+      counts[tag] = (counts[tag] || 0) + 1;
+    });
+  });
+  return counts;
+}
+
+const libraryCatalog = foods.filter((food) => !food.hiddenFromLibrary);
+const PROVINCE_COUNTS = collectTagCounts(libraryCatalog, "provinces");
+const ETHNIC_COUNTS = collectTagCounts(libraryCatalog, "ethnicGroups");
+const PROVINCES_IN_CATALOG = Object.keys(PROVINCE_COUNTS).sort(
+  (a, b) => PROVINCE_COUNTS[b] - PROVINCE_COUNTS[a] || a.localeCompare(b, "zh-CN")
+);
+const ETHNICS_IN_CATALOG = Object.keys(ETHNIC_COUNTS).sort(
+  (a, b) => ETHNIC_COUNTS[b] - ETHNIC_COUNTS[a] || a.localeCompare(b, "zh-CN")
+);
+
 boot();
 
 function boot() {
@@ -6104,6 +6219,7 @@ function applyUrlState() {
   if (params.get("lc")) state.libraryCategory = params.get("lc");
   if (params.get("lr")) state.libraryRegion = params.get("lr");
   if (params.get("lp")) state.libraryProvince = params.get("lp") || "全部";
+  if (params.get("le")) state.libraryEthnic = params.get("le") || "全部";
   if (params.has("lt")) state.libraryTopic = params.get("lt") || "";
 
   if (params.get("rn")) state.recipesNature = params.get("rn");
@@ -6571,6 +6687,14 @@ function bindLibraryFilterControls(root) {
     });
   });
 
+  root.querySelectorAll("[data-library-ethnic]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.libraryEthnic = button.dataset.libraryEthnic;
+      afterLibraryFilterChange({ scrollToResults: true });
+    });
+  });
+
   root.querySelectorAll("[data-library-topic]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
@@ -6769,6 +6893,7 @@ function countLibraryActiveFilters() {
   if (state.libraryCategory !== "全部") count += 1;
   if (state.libraryRegion !== "ALL") count += 1;
   if (state.libraryProvince !== "全部") count += 1;
+  if (state.libraryEthnic !== "全部") count += 1;
   return count;
 }
 
@@ -6800,6 +6925,7 @@ function getLibraryFilterSummary() {
   if (state.libraryCategory !== "全部") parts.push(state.libraryCategory);
   if (state.libraryRegion !== "ALL") parts.push(REGION_LABELS[state.libraryRegion] || state.libraryRegion);
   if (state.libraryProvince !== "全部") parts.push(state.libraryProvince);
+  if (state.libraryEthnic !== "全部") parts.push(state.libraryEthnic);
   return parts.length ? parts.join(" · ") : "全部食材";
 }
 
@@ -6854,6 +6980,7 @@ function resetLibraryFilters() {
   state.libraryCategory = "全部";
   state.libraryRegion = "ALL";
   state.libraryProvince = "全部";
+  state.libraryEthnic = "全部";
   state.libraryTopic = "";
 }
 
@@ -7073,9 +7200,18 @@ function renderLibraryFilterSections() {
         <div class="filter-label">中国省份 / 地区</div>
         <div class="filter-group filter-group-wrap">
           ${chip("全部", "全部", "data-library-province", state.libraryProvince === "全部")}
-          ${CN_PROVINCES.map((province) => chip(province, province, "data-library-province", state.libraryProvince === province)).join("")}
+          ${PROVINCES_IN_CATALOG.map((province) => chip(`${province} · ${PROVINCE_COUNTS[province]}`, province, "data-library-province", state.libraryProvince === province)).join("")}
         </div>
       </div>
+      ${ETHNICS_IN_CATALOG.length ? `
+      <div class="filter-subsection">
+        <div class="filter-label">民族风味</div>
+        <div class="filter-group filter-group-wrap">
+          ${chip("全部", "全部", "data-library-ethnic", state.libraryEthnic === "全部")}
+          ${ETHNICS_IN_CATALOG.map((ethnic) => chip(`${ethnic} · ${ETHNIC_COUNTS[ethnic]}`, ethnic, "data-library-ethnic", state.libraryEthnic === ethnic)).join("")}
+        </div>
+      </div>
+      ` : ""}
     </section>
   `;
 }
@@ -7113,7 +7249,7 @@ function renderHomeV2() {
                 <button class="suggestion-row hero-suggestion-row" data-open-home-food="${food.id}">
                   <div class="food-main">
                     <strong>${food.name}</strong>
-                    <small>${[food.en, food.category, food.teaClass].filter(Boolean).join(" · ")}</small>
+                    <small>${foodListMeta(food)}</small>
                   </div>
                   ${natureBadge(food.nature)}
                 </button>
@@ -7218,7 +7354,7 @@ function renderChecker() {
                 <button class="suggestion-row" data-add-food="${food.id}">
                   <div class="food-main">
                     <strong>${food.name}</strong>
-                    <small>${food.en || food.category} · ${food.category}</small>
+                    <small>${foodListMeta(food) || food.category}</small>
                   </div>
                   ${natureBadge(food.nature)}
                 </button>
@@ -7365,8 +7501,10 @@ function filterFoods() {
     const byProvince = state.libraryProvince === "全部"
       || (food.provinces || []).includes(state.libraryProvince)
       || (food.regions || []).includes(state.libraryProvince);
+    const byEthnic = state.libraryEthnic === "全部"
+      || (food.ethnicGroups || []).includes(state.libraryEthnic);
     const byTopic = !state.libraryTopic || matchTopic(food, state.libraryTopic);
-    return byNature && byCategory && byRegion && byProvince && byTopic;
+    return byNature && byCategory && byRegion && byProvince && byEthnic && byTopic;
   });
 }
 
@@ -7515,7 +7653,7 @@ function foodRow(food) {
     <button class="food-row" data-open-food="${food.id}">
       <div class="food-main">
         <strong>${food.name}</strong>
-        <small>${[food.en, food.category, food.teaClass].filter(Boolean).join(" · ")}</small>
+        <small>${foodListMeta(food)}</small>
       </div>
       ${natureBadge(food.nature)}
     </button>
@@ -7644,6 +7782,10 @@ function handleFeedbackSubmit(event) {
 }
 
 
+
+function foodListMeta(food) {
+  return [food.category, food.teaClass].filter(Boolean).join(" · ");
+}
 
 function chip(label, value, dataAttr, active = false) {
   const attr = dataAttr ? `${dataAttr}="${value}"` : "";
@@ -7893,7 +8035,7 @@ function renderFoodDetail(food) {
         <div class="nature-seal" style="background:${(NATURE_META[food.nature] || NATURE_META.复合).pale};color:${(NATURE_META[food.nature] || NATURE_META.复合).tone}">${food.nature}</div>
         <div>
           <h2 class="sheet-title">${food.name}</h2>
-          <p class="sheet-subtitle">${[food.en, food.category, food.teaClass].filter(Boolean).join(" · ")}</p>
+          <p class="sheet-subtitle">${[food.category, food.teaClass].filter(Boolean).join(" · ")}</p>
         </div>
       </div>
       <div class="filter-group filter-group-wrap">
@@ -8234,6 +8376,7 @@ function syncUrl() {
     if (state.libraryCategory !== "全部") params.set("lc", state.libraryCategory);
     if (state.libraryRegion !== "ALL") params.set("lr", state.libraryRegion);
     if (state.libraryProvince !== "全部") params.set("lp", state.libraryProvince);
+    if (state.libraryEthnic !== "全部") params.set("le", state.libraryEthnic);
     if (state.libraryTopic) params.set("lt", state.libraryTopic);
   }
   if (state.view === "recipes") {
