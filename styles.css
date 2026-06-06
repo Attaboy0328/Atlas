@@ -194,9 +194,9 @@ button {
   width: min(100%, 480px);
   height: calc(72px + env(safe-area-inset-bottom));
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   align-items: start;
-  padding: 10px 12px env(safe-area-inset-bottom);
+  padding: 10px 6px env(safe-area-inset-bottom);
   background: color-mix(in srgb, #fffdfa 96%, transparent);
   border-top: 1px solid color-mix(in srgb, var(--line) 78%, transparent);
   backdrop-filter: blur(32px) saturate(140%);
@@ -209,9 +209,9 @@ button {
   display: grid;
   place-items: center;
   align-content: center;
-  gap: 3px;
+  gap: 2px;
   color: #727c76;
-  font-size: 11px;
+  font-size: 10px;
   border-radius: 16px;
   transition: transform 120ms cubic-bezier(0.2, 0.8, 0.2, 1), color 240ms ease;
   will-change: transform;
@@ -991,6 +991,100 @@ button {
 .notice-compact {
   margin-top: 18px;
   font-size: 12px;
+}
+
+.hero-view-all {
+  width: 100%;
+  margin-top: 10px;
+  min-height: 38px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.recipe-scenario-row {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  margin: 0 0 12px;
+  padding-bottom: 2px;
+  scrollbar-width: none;
+}
+
+.recipe-scenario-row::-webkit-scrollbar {
+  display: none;
+}
+
+.recipe-scenario-row .chip {
+  min-height: 34px;
+  font-size: 11px;
+}
+
+.sheet-subnav {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  margin: 0 0 14px;
+  padding: 0 2px 4px;
+  scrollbar-width: none;
+}
+
+.sheet-subnav::-webkit-scrollbar {
+  display: none;
+}
+
+.sheet-subnav-link {
+  flex: 0 0 auto;
+  min-height: 34px;
+  padding: 0 12px;
+  border-radius: var(--radius-pill);
+  background: color-mix(in srgb, var(--green-pale) 35%, var(--surface));
+  color: var(--green-deep);
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+}
+
+.sheet-profile-alert {
+  margin: 0 0 14px;
+}
+
+.checker-food-link {
+  display: inline-flex;
+  margin-top: 8px;
+  min-height: 32px;
+  padding: 0 12px;
+  border: 0;
+  border-radius: var(--radius-pill);
+  background: color-mix(in srgb, var(--green-pale) 40%, white);
+  color: var(--green-deep);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.selected-chip-button {
+  border: 0;
+  cursor: pointer;
+  font: inherit;
+}
+
+.selected-chip-button .remove-chip {
+  border: 0;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  padding: 0 0 0 4px;
+  font-size: 16px;
+  line-height: 1;
+}
+
+.section-subtitle {
+  margin: 16px 0 8px;
+  color: var(--ink-soft);
+  font-size: 13px;
+  font-weight: 700;
 }
 
 .filter-stack {

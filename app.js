@@ -56,6 +56,15 @@ const PROFILE_OPTIONS = [
 
 const QUICK_TERMS = ["行气", "理气", "破气", "降气", "药食同源"];
 
+const RECIPE_SCENARIO_SHORTCUTS = [
+  { label: "想暖胃", nature: "温", syndrome: "全部" },
+  { label: "饭后胀满", nature: "全部", syndrome: "肝胃不和" },
+  { label: "想润燥", nature: "凉", syndrome: "胃阴虚" },
+  { label: "健脾祛湿", nature: "平", syndrome: "痰湿困脾" }
+];
+
+const RECENT_LIMIT = 12;
+
 const EXTRA_SHORTCUTS = {
   "辣椒": ["lj"],
   "空心菜": ["kxc"],
@@ -5161,9 +5170,6 @@ const closeSheet = document.getElementById("closeSheet");
 const state = {
   view: "home",
   homeQuery: "",
-  homeExploreType: "",
-  homeExploreValue: "",
-  homeLibraryFiltersOpen: false,
   libraryQuery: "",
   libraryNature: "全部",
   libraryCategory: "全部",
@@ -5185,6 +5191,9 @@ const state = {
   recipesClear: "全部",
   profile: loadJson("foodwise-profile", {}),
   favorites: loadJson("foodwise-favorites", []),
+  favoriteRecipes: loadJson("foodwise-favorite-recipes", []),
+  recentFoods: loadJson("foodwise-recent-foods", []),
+  recentRecipes: loadJson("foodwise-recent-recipes", []),
   sheet: null
 };
 
@@ -5980,6 +5989,48 @@ function handleDelegatedActionKeydown(event) {
   openRecipeDetail(recipeTrigger.dataset.openRecipe);
 }
 
+function pushRecentFood(id) {
+  if (!foodMap.has(id)) return;
+  state.recentFoods = uniq([id, ...state.recentFoods.filter((item) => item !== id)]).slice(0, RECENT_LIMIT);
+  saveJson("foodwise-recent-foods", state.recentFoods);
+}
+
+function pushRecentRecipe(id) {
+  if (!recipes.find((item) => item.id === id)) return;
+  state.recentRecipes = uniq([id, ...state.recentRecipes.filter((item) => item !== id)]).slice(0, RECENT_LIMIT);
+  saveJson("foodwise-recent-recipes", state.recentRecipes);
+}
+
+function navigateToLibraryFromHome({ nature, topic, query } = {}) {
+  if (nature) {
+    state.libraryNature = nature;
+    state.libraryTopic = "";
+  }
+  if (topic !== undefined) {
+    state.libraryTopic = topic;
+    state.libraryNature = "全部";
+  }
+  if (query !== undefined) {
+    state.libraryQuery = query;
+  }
+  state.homeQuery = "";
+  navigate("library");
+}
+
+function applyRecipeScenario(scenario) {
+  resetRecipesAdvancedFilters();
+  state.recipesNature = scenario.nature || "全部";
+  state.recipesSyndrome = scenario.syndrome || "全部";
+  state.recipesCoreFood = "全部";
+}
+
+function isRecipeScenarioActive(scenario) {
+  return state.recipesNature === (scenario.nature || "全部")
+    && state.recipesSyndrome === (scenario.syndrome || "全部")
+    && countRecipesAdvancedFilters() === 0
+    && state.recipesCoreFood === "全部";
+}
+
 function applyUrlState() {
   const params = new URLSearchParams(window.location.search);
   const view = params.get("view");
@@ -6001,6 +6052,17 @@ function applyUrlState() {
       state.libraryQuery = query;
     }
   }
+
+  if (params.get("ln")) state.libraryNature = params.get("ln");
+  if (params.get("lc")) state.libraryCategory = params.get("lc");
+  if (params.get("lr")) state.libraryRegion = params.get("lr");
+  if (params.has("lt")) state.libraryTopic = params.get("lt") || "";
+
+  if (params.get("rn")) state.recipesNature = params.get("rn");
+  if (params.get("rs")) state.recipesSyndrome = params.get("rs");
+  if (params.get("rcf")) state.recipesCoreFood = params.get("rcf");
+  if (params.get("ruf")) state.recipesUseFor = params.get("ruf");
+  if (params.get("raf")) state.recipesAvoidFor = params.get("raf");
 
   const foodId = params.get("food");
   const recipeId = params.get("recipe");
@@ -6312,11 +6374,7 @@ function bindViewEvents() {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       if (state.view === "home") {
-        const value = button.dataset.quickTerm;
-        const isSame = state.homeExploreType === "topic" && state.homeExploreValue === value;
-        state.homeExploreType = isSame ? "" : "topic";
-        state.homeExploreValue = isSame ? "" : value;
-        rerenderCurrent();
+        navigateToLibraryFromHome({ topic: button.dataset.quickTerm });
         return;
       }
       state.libraryQuery = button.dataset.quickTerm;
@@ -6328,11 +6386,7 @@ function bindViewEvents() {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       if (state.view === "home") {
-        const value = button.dataset.libraryNatureLink;
-        const isSame = state.homeExploreType === "nature" && state.homeExploreValue === value;
-        state.homeExploreType = isSame ? "" : "nature";
-        state.homeExploreValue = isSame ? "" : value;
-        rerenderCurrent();
+        navigateToLibraryFromHome({ nature: button.dataset.libraryNatureLink });
         return;
       }
       state.libraryNature = button.dataset.libraryNatureLink;
@@ -6341,30 +6395,21 @@ function bindViewEvents() {
     });
   });
 
-  app.querySelectorAll("[data-home-expand-close]").forEach((button) => {
+  app.querySelectorAll("[data-home-view-library]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
-      state.homeExploreType = "";
-      state.homeExploreValue = "";
-      rerenderCurrent();
+      navigateToLibraryFromHome({ query: state.homeQuery });
     });
   });
 
-  app.querySelectorAll("[data-home-expand-library]").forEach((button) => {
+  app.querySelectorAll("[data-recipe-scenario]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
-      const type = button.dataset.homeExpandLibrary;
-      const value = button.dataset.value || "";
-      if (type === "nature") {
-        state.libraryNature = value;
-        state.libraryTopic = "";
-        state.libraryQuery = "";
-      } else {
-        state.libraryTopic = value;
-        state.libraryNature = "全部";
-        state.libraryQuery = "";
-      }
-      navigate("library");
+      const index = Number(button.dataset.recipeScenario);
+      const scenario = RECIPE_SCENARIO_SHORTCUTS[index];
+      if (!scenario) return;
+      applyRecipeScenario(scenario);
+      afterRecipeFilterChange({ scrollToResults: true });
     });
   });
 
@@ -6425,11 +6470,6 @@ function bindLibraryFilterControls(root) {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.libraryNature = button.dataset.libraryNature;
-      if (state.view === "home") {
-        state.homeLibraryFiltersOpen = false;
-        navigate("library");
-        return;
-      }
       afterLibraryFilterChange({ scrollToResults: true });
     });
   });
@@ -6438,11 +6478,6 @@ function bindLibraryFilterControls(root) {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.libraryCategory = button.dataset.libraryCategory;
-      if (state.view === "home") {
-        state.homeLibraryFiltersOpen = false;
-        navigate("library");
-        return;
-      }
       afterLibraryFilterChange({ scrollToResults: true });
     });
   });
@@ -6451,11 +6486,6 @@ function bindLibraryFilterControls(root) {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.libraryRegion = button.dataset.libraryRegion;
-      if (state.view === "home") {
-        state.homeLibraryFiltersOpen = false;
-        navigate("library");
-        return;
-      }
       afterLibraryFilterChange({ scrollToResults: true });
     });
   });
@@ -6464,11 +6494,6 @@ function bindLibraryFilterControls(root) {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.libraryTopic = button.dataset.libraryTopic === state.libraryTopic ? "" : button.dataset.libraryTopic;
-      if (state.view === "home") {
-        state.homeLibraryFiltersOpen = false;
-        navigate("library");
-        return;
-      }
       afterLibraryFilterChange({ scrollToResults: true });
     });
   });
@@ -6496,10 +6521,18 @@ function bindCheckerEvents() {
   });
 
   app.querySelectorAll("[data-remove-food]").forEach((button) => {
-    button.addEventListener("click", () => {
+    button.addEventListener("click", (event) => {
+      event.stopPropagation();
       triggerHapticFeedback();
       state.checkerSelected = state.checkerSelected.filter((id) => id !== button.dataset.removeFood);
       rerenderCurrent();
+    });
+  });
+
+  app.querySelectorAll("[data-open-checker-food]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      openFoodDetail(button.dataset.openCheckerFood);
     });
   });
 }
@@ -6952,33 +6985,14 @@ function renderLibraryFilterSections() {
   `;
 }
 
-function renderHomeLibraryFilterPanel() {
-  return `
-    <div class="home-library-filter-container ${state.homeLibraryFiltersOpen ? "open" : ""}" id="homeLibraryFilterContainer">
-      <div class="home-library-filter-inner">
-        <section class="home-library-filter-wrap">
-          <div class="home-library-filter-head">
-            <div>
-              <p class="eyebrow">Filter Library</p>
-              <h2>进一步筛选食材库</h2>
-              <p>点选食性、专题、分类或地区后，带着条件进入食材库继续细看。</p>
-            </div>
-          </div>
-          ${renderLibraryFilterSections()}
-        </section>
-      </div>
-    </div>
-  `;
-}
-
 function renderHomeV2() {
   const homeMatches = state.homeQuery ? searchFoods(state.homeQuery, { limit: 6 }) : [];
-  const homeExplorePanel = renderHomeExplorePanel();
+  const totalHomeMatches = state.homeQuery ? searchFoods(state.homeQuery).length : 0;
   const natureTiles = ["寒", "凉", "平", "温", "热"]
     .map((nature) => {
       const meta = NATURE_META[nature];
       return `
-        <button class="nature-tile ${state.homeExploreType === "nature" && state.homeExploreValue === nature ? "active" : ""}" data-library-nature-link="${nature}" style="background:${meta.pale};border-color:${meta.tone}22">
+        <button class="nature-tile" data-library-nature-link="${nature}" style="background:${meta.pale};border-color:${meta.tone}22">
           <strong style="color:${meta.tone}">${nature}</strong>
           <small>${NATURE_COUNTS[nature] || 0}种</small>
         </button>
@@ -7005,12 +7019,17 @@ function renderHomeV2() {
                 <button class="suggestion-row hero-suggestion-row" data-open-home-food="${food.id}">
                   <div class="food-main">
                     <strong>${food.name}</strong>
-                    <small>${[food.en, food.category, food.teaClass].filter(Boolean).join(" 路 ")}</small>
+                    <small>${[food.en, food.category, food.teaClass].filter(Boolean).join(" · ")}</small>
                   </div>
                   ${natureBadge(food.nature)}
                 </button>
               `).join("")
               : `<div class="empty-inline">没搜到匹配食材，试试别名、拼音首字母或功效词。</div>`}
+            ${totalHomeMatches > homeMatches.length
+              ? `<button class="plain-button hero-view-all" type="button" data-home-view-library="true">在食材库查看全部 ${totalHomeMatches} 条</button>`
+              : totalHomeMatches > 1
+                ? `<button class="plain-button hero-view-all" type="button" data-home-view-library="true">在食材库查看 ${totalHomeMatches} 条结果</button>`
+                : ""}
           </div>`
         : ""}
       <button class="hero-filter-trigger" type="button" data-home-library-toggle="true">
@@ -7018,105 +7037,23 @@ function renderHomeV2() {
       </button>
     </section>
 
-    <section class="page-title">
+    <section class="page-title page-title-compact">
       <p class="eyebrow">Traditional Nature</p>
       <h1>按传统食性浏览</h1>
-      <p>食性不是食物温度，也不是医学诊断，用来帮助你组织日常饮食线索。</p>
+      <p>点选食性，直接进入食材库查看。</p>
     </section>
 
     <section class="nature-grid">${natureTiles}</section>
 
-    ${state.homeExploreType === "nature" ? homeExplorePanel : ""}
-
-    <section class="page-title">
+    <section class="page-title page-title-compact">
       <p class="eyebrow">Qi Terms</p>
       <h1>传统气机术语</h1>
-      <p>把行气、理气、破气、降气放在食材搜索里讲清楚，不把传统术语直接当成医疗结论。</p>
+      <p>进阶专题入口，点击后进入食材库继续筛选。</p>
     </section>
 
     <div class="filter-group filter-group-wrap">
-      ${["行气", "理气", "破气", "降气"].map((term) => chip(term, term, "data-quick-term", state.homeExploreType === "topic" && state.homeExploreValue === term)).join("")}
+      ${["行气", "理气", "破气", "降气"].map((term) => chip(term, term, "data-quick-term")).join("")}
     </div>
-
-    ${state.homeExploreType === "topic" ? homeExplorePanel : ""}
-
-    <section class="notice gold">
-      <strong>数据边界</strong>
-      传统食养条目用于日常整理，不替代诊断、处方或疾病治疗；正在服药、孕期、慢病和持续不适者优先就医。
-    </section>
-  `;
-}
-
-function renderHome() {
-  const homeMatches = state.homeQuery ? searchFoods(state.homeQuery, { limit: 6 }) : [];
-  const homeExplorePanel = renderHomeExplorePanel();
-  const homeLibraryFilterPanel = renderHomeLibraryFilterPanel();
-  const natureTiles = ["寒", "凉", "平", "温", "热"]
-    .map((nature) => {
-      const meta = NATURE_META[nature];
-      return `
-        <button class="nature-tile ${state.homeExploreType === "nature" && state.homeExploreValue === nature ? "active" : ""}" data-library-nature-link="${nature}" style="background:${meta.pale};border-color:${meta.tone}22">
-          <strong style="color:${meta.tone}">${nature}</strong>
-          <small>${NATURE_COUNTS[nature] || 0}种</small>
-        </button>
-      `;
-    })
-    .join("");
-
-  return `
-    <section class="hero">
-      <p class="eyebrow">Food Nature Atlas</p>
-      <h1>查食性，也查真正需要留意的搭配</h1>
-      <p>把传统食养属性、日常吃法、个人状态与现代安全提示放在同一处。</p>
-      ${searchField({
-        id: "homeSearch",
-        placeholder: "搜食材、别名、功效或首字母，如：木姜子 / mjz",
-        buttonAttr: "data-home-search",
-        buttonLabel: "搜索食材",
-        action: true,
-        value: state.homeQuery
-      })}
-      ${state.homeQuery
-        ? `<div class="hero-search-results">
-            ${homeMatches.length
-              ? homeMatches.map((food) => `
-                <button class="suggestion-row hero-suggestion-row" data-open-home-food="${food.id}">
-                  <div class="food-main">
-                    <strong>${food.name}</strong>
-                    <small>${[food.en, food.category, food.teaClass].filter(Boolean).join(" · ")}</small>
-                  </div>
-                  ${natureBadge(food.nature)}
-                </button>
-              `).join("")
-              : `<div class="empty-inline">没搜到匹配食材，试试别名、拼音首字母或功效词。</div>`}
-          </div>`
-        : ""}
-      <div class="filter-group filter-group-wrap">
-        ${QUICK_TERMS.map((term) => chip(term, term, "data-quick-term", state.homeExploreType === "topic" && state.homeExploreValue === term)).join("")}
-      </div>
-    </section>
-
-    <section class="page-title">
-      <p class="eyebrow">Traditional Nature</p>
-      <h1>按传统食性浏览</h1>
-      <p>食性不是食物温度，也不是医学诊断，用来帮助你组织日常饮食线索。</p>
-    </section>
-
-    <section class="nature-grid">${natureTiles}</section>
-
-    ${state.homeExploreType === "nature" ? homeExplorePanel : ""}
-
-    <section class="page-title">
-      <p class="eyebrow">Qi Terms</p>
-      <h1>传统气机术语</h1>
-      <p>把行气、理气、破气、降气放在食材搜索里讲清楚，不把传统术语直接当成医疗结论。</p>
-    </section>
-
-    <div class="filter-group filter-group-wrap">
-      ${["行气", "理气", "破气", "降气"].map((term) => chip(term, term, "data-quick-term", state.homeExploreType === "topic" && state.homeExploreValue === term)).join("")}
-    </div>
-
-    ${state.homeExploreType === "topic" ? homeExplorePanel : ""}
 
     <section class="notice gold">
       <strong>数据边界</strong>
@@ -7171,10 +7108,10 @@ function renderChecker() {
       <div class="selected-tray">
         ${selectedFoods.length
           ? selectedFoods.map((food) => `
-            <span class="selected-chip">
+            <button class="selected-chip selected-chip-button" type="button" data-open-checker-food="${food.id}">
               ${food.name}
-              <button data-remove-food="${food.id}" aria-label="移除 ${food.name}">×</button>
-            </span>
+              <span class="remove-chip" data-remove-food="${food.id}" aria-label="移除 ${food.name}">×</span>
+            </button>
           `).join("")
           : "<span class='section-copy'>从下方搜索并添加食材</span>"}
       </div>
@@ -7218,6 +7155,19 @@ function renderChecker() {
   `;
 }
 
+function renderRecipeScenarioShortcuts() {
+  return `
+    <div class="recipe-scenario-row">
+      ${RECIPE_SCENARIO_SHORTCUTS.map((scenario, index) => chip(
+        scenario.label,
+        String(index),
+        "data-recipe-scenario",
+        isRecipeScenarioActive(scenario)
+      )).join("")}
+    </div>
+  `;
+}
+
 function renderRecipes() {
   const items = filterRecipes();
   const syndromes = uniq(recipes.map((item) => item.primarySyndrome).filter(Boolean));
@@ -7228,6 +7178,8 @@ function renderRecipes() {
       <p class="eyebrow">Food Therapy Recipes</p>
       <h1>食疗方</h1>
     </section>
+
+    ${renderRecipeScenarioShortcuts()}
 
     ${renderStickyBrowseToolbar({
       searchId: "recipesQuery",
@@ -7255,12 +7207,19 @@ function renderRecipes() {
 
 function renderProfile() {
   const favorites = state.favorites.map((id) => foodMap.get(id)).filter(Boolean);
+  const recentFoodItems = state.recentFoods.map((id) => foodMap.get(id)).filter(Boolean);
+  const favoriteRecipeItems = state.favoriteRecipes
+    .map((id) => recipes.find((item) => item.id === id))
+    .filter(Boolean);
+  const recentRecipeItems = state.recentRecipes
+    .map((id) => recipes.find((item) => item.id === id))
+    .filter(Boolean);
 
   return `
-    <section class="page-title">
+    <section class="page-title page-title-compact">
       <p class="eyebrow">My Food Profile</p>
       <h1>我的食养档案</h1>
-      <p>开启与你相关的状态后，食材详情和搭配检查会优先显示对应提醒。此档案只保存在当前浏览器。</p>
+      <p>个人提醒会影响食材详情与搭配检查的提示优先级，数据仅保存在当前浏览器。</p>
     </section>
 
     <section class="profile-panel">
@@ -7275,10 +7234,28 @@ function renderProfile() {
     </section>
 
     <section class="detail-section">
-      <h2 class="section-title">我的收藏</h2>
-      <p class="section-copy">收藏常查食材，方便反复查看。</p>
+      <h2 class="section-title">最近查看</h2>
+      <p class="section-copy">最近打开的食材与食疗方，方便快速回到常查内容。</p>
+      <h3 class="section-subtitle">食材</h3>
       <div class="food-list">
-        ${favorites.length ? favorites.map(foodRow).join("") : emptyState("还没有收藏", "在食材详情里点一下“收藏这个食材”。")}
+        ${recentFoodItems.length ? recentFoodItems.map(foodRow).join("") : emptyState("还没有浏览记录", "打开食材详情后会出现在这里。")}
+      </div>
+      <h3 class="section-subtitle">食疗方</h3>
+      <div class="recipe-list">
+        ${recentRecipeItems.length ? recentRecipeItems.map(recipeRow).join("") : emptyState("还没有浏览记录", "打开食疗方详情后会出现在这里。")}
+      </div>
+    </section>
+
+    <section class="detail-section">
+      <h2 class="section-title">我的收藏</h2>
+      <p class="section-copy">收藏常查食材和食疗方，方便反复查看。</p>
+      <h3 class="section-subtitle">食材</h3>
+      <div class="food-list">
+        ${favorites.length ? favorites.map(foodRow).join("") : emptyState("还没有收藏食材", "在食材详情里点“收藏这个食材”。")}
+      </div>
+      <h3 class="section-subtitle">食疗方</h3>
+      <div class="recipe-list">
+        ${favoriteRecipeItems.length ? favoriteRecipeItems.map(recipeRow).join("") : emptyState("还没有收藏食疗方", "在食疗方详情里点“收藏这个食疗方”。")}
       </div>
     </section>
 
@@ -7412,7 +7389,12 @@ function buildCheckerResult(selectedFoods) {
   selectedFoods.forEach((food) => {
     const hitTags = food.cautionTags.filter((tag) => activeProfileTags.includes(tag));
     if (hitTags.length) {
-      notices.push(renderNotice("caution", `${food.name} 与你的个人提醒有关`, `${food.name} 在当前档案下需要优先看安全提示：${hitTags.map(profileLabel).join("、")}。`));
+      notices.push(renderNotice(
+        "caution",
+        `${food.name} 与你的个人提醒有关`,
+        `${food.name} 在当前档案下需要优先看安全提示：${hitTags.map(profileLabel).join("、")}。`,
+        food.id
+      ));
     }
   });
 
@@ -7434,9 +7416,9 @@ function buildCheckerResult(selectedFoods) {
   return notices.join("") + balance;
 }
 
-function renderNotice(level, title, text) {
+function renderNotice(level, title, text, foodId = "") {
   const className = level === "caution" ? "notice caution" : level === "gold" ? "notice gold" : "notice";
-  return `<section class="${className}"><strong>${title}</strong>${text}</section>`;
+  return `<section class="${className}"><strong>${title}</strong>${text}${foodId ? `<button type="button" class="checker-food-link" data-open-checker-food="${foodId}">查看食材详情</button>` : ""}</section>`;
 }
 
 function foodRow(food) {
@@ -7597,46 +7579,23 @@ function recipeRow(item) {
   `;
 }
 
-function buildHomeExploreItems() {
-  if (!state.homeExploreType || !state.homeExploreValue) return [];
-  const items = foods.filter((food) => {
-    if (state.homeExploreType === "nature") {
-      return food.nature === state.homeExploreValue;
-    }
-    return matchTopic(food, state.homeExploreValue);
-  });
-  return items.slice(0, 8);
+function renderFoodProfileAlert(food) {
+  const activeProfileTags = PROFILE_OPTIONS.filter((option) => state.profile[option.id]).map((option) => option.id);
+  const hitTags = food.cautionTags.filter((tag) => activeProfileTags.includes(tag));
+  if (!hitTags.length) return "";
+  return `
+    <section class="notice caution sheet-profile-alert">
+      <strong>与你的个人提醒相关</strong>
+      ${hitTags.map(profileLabel).join("、")}：请优先阅读下方「宜忌」与「怎么吃」。
+    </section>
+  `;
 }
 
-function renderHomeExplorePanel() {
-  const items = buildHomeExploreItems();
-  if (!state.homeExploreType || !state.homeExploreValue) return "";
-  const title = state.homeExploreType === "nature"
-    ? `先看${state.homeExploreValue}性食材`
-    : `先看“${state.homeExploreValue}”相关食材`;
-  const description = state.homeExploreType === "nature"
-    ? "首页先给你一层代表性结果；需要更细分类、地区或茶类专题，再进入食材库继续筛。"
-    : "先在首页看一层常见结果；如果要进一步按分类和地区收窄，再进入食材库。";
-
+function renderSheetSubnav(items) {
   return `
-    <section class="home-explore-panel">
-      <div class="home-explore-head">
-        <div>
-          <p class="eyebrow">Quick Explore</p>
-          <h2>${title}</h2>
-          <p>${description}</p>
-        </div>
-        <div class="home-explore-actions">
-          <button class="chip" data-home-expand-close="true">收起</button>
-          <button class="chip active" data-home-expand-library="${state.homeExploreType}" data-value="${escapeHtml(state.homeExploreValue)}">查看全部</button>
-        </div>
-      </div>
-      <div class="list-block">
-        ${items.length
-          ? items.map((food) => foodRow(food)).join("")
-          : `<div class="empty-inline">暂时还没有可展示的条目，稍后我们再继续往这组里补厚。</div>`}
-      </div>
-    </section>
+    <nav class="sheet-subnav" aria-label="详情导航">
+      ${items.map((item) => `<a class="sheet-subnav-link" href="#${item.id}">${item.label}</a>`).join("")}
+    </nav>
   `;
 }
 
@@ -7715,7 +7674,12 @@ function handleHomeSearchSubmit() {
     return;
   }
 
-  showToast(matches.length ? "已在首页展开候选结果，可直接点开食材。" : "没有搜到匹配食材，换个别名或拼音试试。");
+  if (matches.length > 1) {
+    navigateToLibraryFromHome({ query: term });
+    return;
+  }
+
+  showToast("没有搜到匹配食材，换个别名或拼音试试。");
 }
 
 function findExactFoodMatch(items, term) {
@@ -7756,6 +7720,8 @@ function openSheetFromState() {
 }
 
 function openFoodDetail(id) {
+  if (!foodMap.has(id)) return;
+  pushRecentFood(id);
   state.sheet = { type: "food", id };
   showSheet(renderFoodDetail(foodMap.get(id)));
   syncUrl();
@@ -7767,6 +7733,7 @@ function openRecipeDetail(id) {
     showToast("这个食疗方暂时没加载完整，请刷新后再试。");
     return;
   }
+  pushRecentRecipe(id);
   state.sheet = { type: "recipe", id };
   showSheet(renderRecipeDetail(item));
   syncUrl();
@@ -7807,6 +7774,12 @@ function showSheet(html) {
   sheetContent.querySelectorAll("[data-toggle-favorite]").forEach((button) => {
     button.addEventListener("click", () => toggleFavorite(button.dataset.toggleFavorite));
   });
+  sheetContent.querySelectorAll("[data-toggle-recipe-favorite]").forEach((button) => {
+    button.addEventListener("click", () => toggleRecipeFavorite(button.dataset.toggleRecipeFavorite));
+  });
+  sheetContent.querySelectorAll("[data-open-checker-food]").forEach((button) => {
+    button.addEventListener("click", () => openFoodDetail(button.dataset.openCheckerFood));
+  });
 
   const feedbackForm = sheetContent.querySelector("#feedbackForm");
   if (feedbackForm) {
@@ -7819,9 +7792,18 @@ function renderFoodDetail(food) {
   const classics = buildClassicNotes(food);
   const sources = Array.isArray(food.sources) ? food.sources : [];
   const favorite = state.favorites.includes(food.id);
+  const hasSuitability = Boolean(food.faCategory || food.faNote || food.suitableFor.length || food.avoidFor.length || food.contraindications.length);
+  const sheetNav = renderSheetSubnav([
+    { id: "sheet-overview", label: "概览" },
+    { id: "sheet-eating", label: "怎么吃" },
+    ...(hasSuitability ? [{ id: "sheet-suitability", label: "宜忌" }] : []),
+    { id: "sheet-sources", label: "依据" }
+  ]);
 
   return `
-    <section class="sheet-hero">
+    ${renderFoodProfileAlert(food)}
+    ${sheetNav}
+    <section class="sheet-hero" id="sheet-overview">
       <div class="sheet-hero-top">
         <div class="nature-seal" style="background:${(NATURE_META[food.nature] || NATURE_META.复合).pale};color:${(NATURE_META[food.nature] || NATURE_META.复合).tone}">${food.nature}</div>
         <div>
@@ -7839,7 +7821,7 @@ function renderFoodDetail(food) {
     </section>
 
     <section class="detail-section">
-      <h3>传统食养属性</h3>
+      <h3 id="sheet-nature">传统食养属性</h3>
       <div class="detail-grid">
         <div class="detail-block"><strong>食性</strong><p>${food.nature} · ${(NATURE_META[food.nature] || NATURE_META.复合).label}</p></div>
         <div class="detail-block"><strong>五味</strong><p>${food.flavor || "未标注"}</p></div>
@@ -7848,7 +7830,7 @@ function renderFoodDetail(food) {
       </div>
     </section>
 
-    <section class="detail-section">
+    <section class="detail-section" id="sheet-eating">
       <h3>食用建议</h3>
       <div class="detail-grid">
         <div class="detail-block"><strong>单独吃是否合适</strong><p>${food.alone || "少量、熟食、结合个人耐受来判断。"}</p></div>
@@ -7858,9 +7840,9 @@ function renderFoodDetail(food) {
       </div>
     </section>
 
-    ${(food.faCategory || food.faNote || food.suitableFor.length || food.avoidFor.length || food.contraindications.length)
+    ${hasSuitability
       ? `
-      <section class="detail-section">
+      <section class="detail-section" id="sheet-suitability">
         <h3>宜食与忌食人群</h3>
         ${food.faCategory ? `<p><strong>发物分类：</strong>${food.faCategory}${food.faNote ? `；${food.faNote}` : ""}</p>` : ""}
         ${food.suitableFor.length ? `<p><strong>更适合：</strong>${food.suitableFor.join("、")}</p>` : ""}
@@ -7868,7 +7850,7 @@ function renderFoodDetail(food) {
         ${food.contraindications.length ? `<p><strong>禁忌提示：</strong>${food.contraindications.join("、")}</p>` : ""}
       </section>` : ""}
 
-    <section class="detail-section">
+    <section class="detail-section" id="sheet-sources">
       <h3>经典依据</h3>
       ${sources.length
         ? `<div class="source-list">${sources.map(renderSourceEntry).join("")}</div>`
@@ -7898,6 +7880,7 @@ function renderRecipeDetail(item) {
   const cooking = Array.isArray(item.cooking) ? item.cooking : [];
   const coreFoods = Array.isArray(item.coreFoods) ? item.coreFoods : [];
   const foods = Array.isArray(item.foods) ? item.foods : [];
+  const favorite = state.favoriteRecipes.includes(item.id);
 
   return `
     <section class="sheet-hero">
@@ -7912,6 +7895,7 @@ function renderRecipeDetail(item) {
         ${item.primarySyndrome ? `<span class="pill-badge">主证：${item.primarySyndrome}</span>` : ""}${secondarySyndromes.map((syndrome) => `<span class="pill-badge">兼见：${syndrome}</span>`).join("")}
       </div>
       <p class="sheet-summary">${item.note || "这是一条用于日常饮食整理的食疗方条目。"}</p>
+      <button class="plain-button cta-button" data-toggle-recipe-favorite="${item.id}">${favorite ? "已收藏" : "收藏这个食疗方"}</button>
     </section>
 
     <section class="detail-section">
@@ -7974,6 +7958,27 @@ function toggleFavorite(foodId) {
     showToast("已加入收藏");
   }
   saveJson("foodwise-favorites", state.favorites);
+  if (state.sheet?.type === "food" && state.sheet.id === foodId) {
+    showSheet(renderFoodDetail(foodMap.get(foodId)));
+    return;
+  }
+  render();
+}
+
+function toggleRecipeFavorite(recipeId) {
+  if (state.favoriteRecipes.includes(recipeId)) {
+    state.favoriteRecipes = state.favoriteRecipes.filter((id) => id !== recipeId);
+    showToast("已取消收藏");
+  } else {
+    state.favoriteRecipes = uniq([...state.favoriteRecipes, recipeId]);
+    showToast("已加入收藏");
+  }
+  saveJson("foodwise-favorite-recipes", state.favoriteRecipes);
+  const item = recipes.find((recipeItem) => recipeItem.id === recipeId);
+  if (state.sheet?.type === "recipe" && state.sheet.id === recipeId && item) {
+    showSheet(renderRecipeDetail(item));
+    return;
+  }
   render();
 }
 
@@ -7985,8 +7990,21 @@ function syncUrl() {
   const params = new URLSearchParams();
   if (state.view !== "home") params.set("view", state.view);
   if (state.view === "home" && state.homeQuery) params.set("q", state.homeQuery);
-  if (state.view === "library" && state.libraryQuery) params.set("q", state.libraryQuery);
-  if (state.view === "recipes" && state.recipesQuery) params.set("q", state.recipesQuery);
+  if (state.view === "library") {
+    if (state.libraryQuery) params.set("q", state.libraryQuery);
+    if (state.libraryNature !== "全部") params.set("ln", state.libraryNature);
+    if (state.libraryCategory !== "全部") params.set("lc", state.libraryCategory);
+    if (state.libraryRegion !== "ALL") params.set("lr", state.libraryRegion);
+    if (state.libraryTopic) params.set("lt", state.libraryTopic);
+  }
+  if (state.view === "recipes") {
+    if (state.recipesQuery) params.set("q", state.recipesQuery);
+    if (state.recipesNature !== "全部") params.set("rn", state.recipesNature);
+    if (state.recipesSyndrome !== "全部") params.set("rs", state.recipesSyndrome);
+    if (state.recipesCoreFood !== "全部") params.set("rcf", state.recipesCoreFood);
+    if (state.recipesUseFor !== "全部") params.set("ruf", state.recipesUseFor);
+    if (state.recipesAvoidFor !== "全部") params.set("raf", state.recipesAvoidFor);
+  }
   if (state.view === "checker" && state.checkerQuery) params.set("q", state.checkerQuery);
   if (state.view === "checker" && state.checkerSelected.length) params.set("pair", state.checkerSelected.join(","));
   if (state.sheet?.type === "food") params.set("food", state.sheet.id);
