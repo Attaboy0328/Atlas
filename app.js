@@ -5916,25 +5916,12 @@ function bindShellEvents() {
   document.addEventListener("keydown", handleDelegatedActionKeydown);
 }
 
-function openLibraryFromHome() {
-  triggerHapticFeedback();
-  navigate("library");
-}
-
 function handleDelegatedActionClick(event) {
   const filterTrigger = event.target.closest("[data-open-filters]");
   if (filterTrigger) {
     event.preventDefault();
     event.stopPropagation();
     openFilterSheet(filterTrigger.dataset.openFilters);
-    return;
-  }
-
-  const homeFilterTrigger = event.target.closest("[data-home-library-toggle]");
-  if (homeFilterTrigger) {
-    event.preventDefault();
-    event.stopPropagation();
-    openLibraryFromHome();
     return;
   }
 
@@ -5971,17 +5958,20 @@ function handleDelegatedActionClick(event) {
     event.stopPropagation();
     triggerHapticFeedback();
     toggleFavorite(favoriteTrigger.dataset.toggleFavorite);
+    return;
+  }
+
+  const recipeFavoriteTrigger = event.target.closest("[data-toggle-recipe-favorite]");
+  if (recipeFavoriteTrigger) {
+    event.preventDefault();
+    event.stopPropagation();
+    triggerHapticFeedback();
+    toggleRecipeFavorite(recipeFavoriteTrigger.dataset.toggleRecipeFavorite);
   }
 }
 
 function handleDelegatedActionKeydown(event) {
   if (event.key !== "Enter" && event.key !== " ") return;
-  const homeFilterTrigger = event.target.closest("[data-home-library-toggle]");
-  if (homeFilterTrigger) {
-    event.preventDefault();
-    openLibraryFromHome();
-    return;
-  }
 
   const recipeTrigger = event.target.closest("[data-open-recipe]");
   if (!recipeTrigger) return;
@@ -6653,9 +6643,6 @@ function bindProfileEvents() {
     });
   });
 
-  app.querySelectorAll("[data-toggle-favorite]").forEach((button) => {
-    button.addEventListener("click", () => toggleFavorite(button.dataset.toggleFavorite));
-  });
 }
 
 function rerenderCurrent(options = {}) {
@@ -7032,9 +7019,6 @@ function renderHomeV2() {
                 : ""}
           </div>`
         : ""}
-      <button class="hero-filter-trigger" type="button" data-home-library-toggle="true">
-        <span>食材库</span>
-      </button>
     </section>
 
     <section class="page-title page-title-compact">
@@ -7770,12 +7754,6 @@ function showSheet(html) {
   });
   sheetContent.querySelectorAll("[data-open-recipe]").forEach((button) => {
     button.addEventListener("click", () => openRecipeDetail(button.dataset.openRecipe));
-  });
-  sheetContent.querySelectorAll("[data-toggle-favorite]").forEach((button) => {
-    button.addEventListener("click", () => toggleFavorite(button.dataset.toggleFavorite));
-  });
-  sheetContent.querySelectorAll("[data-toggle-recipe-favorite]").forEach((button) => {
-    button.addEventListener("click", () => toggleRecipeFavorite(button.dataset.toggleRecipeFavorite));
   });
   sheetContent.querySelectorAll("[data-open-checker-food]").forEach((button) => {
     button.addEventListener("click", () => openFoodDetail(button.dataset.openCheckerFood));
