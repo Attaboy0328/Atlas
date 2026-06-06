@@ -1,0 +1,324 @@
+[
+  {
+    "id": "peanut",
+    "name": "花生",
+    "en": "peanut",
+    "category": "坚果种子",
+    "nature": "平",
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河南",
+      "辽宁"
+    ],
+    "searchTerms": [
+      "huasheng",
+      "hs",
+      "peanut"
+    ],
+    "aliases": [
+      "落花生"
+    ],
+    "summary": "常见坚果与榨油原料，偏平和。",
+    "caution": "油脂含量高，湿热、反流明显时不宜一次吃太多。"
+  },
+  {
+    "id": "black-tea",
+    "name": "红茶",
+    "en": "black tea",
+    "category": "茶饮",
+    "nature": "温",
+    "effects": [
+      "提神"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "云南",
+      "安徽"
+    ],
+    "teaClass": "红茶",
+    "searchTerms": [
+      "hongcha",
+      "hc",
+      "black tea"
+    ],
+    "summary": "全发酵茶，偏温，鞣酸与咖啡因含量相对更高。",
+    "caution": "空腹、失眠、缺铁或胃敏感者不宜浓饮。"
+  },
+  {
+    "id": "green-tea",
+    "name": "绿茶",
+    "en": "green tea",
+    "category": "茶饮",
+    "nature": "凉",
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "江苏",
+      "安徽"
+    ],
+    "teaClass": "绿茶",
+    "searchTerms": [
+      "lvcha",
+      "lc",
+      "green tea"
+    ],
+    "summary": "不发酵茶，偏凉，常用于日常清润与解腻。",
+    "caution": "空腹、畏寒、失眠者不宜浓饮。"
+  },
+  {
+    "id": "tea",
+    "name": "茶",
+    "en": "tea",
+    "category": "茶饮",
+    "nature": "凉",
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "cha",
+      "c",
+      "tea"
+    ],
+    "aliases": [
+      "茶叶",
+      "浓茶"
+    ],
+    "summary": "泛指日常茶叶，偏凉，具体仍要看茶类与浓度。",
+    "caution": "与补铁、空腹、失眠场景需错开。"
+  },
+  {
+    "id": "beer",
+    "name": "啤酒",
+    "en": "beer",
+    "category": "饮品",
+    "nature": "寒",
+    "effects": [
+      "行气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "pijiu",
+      "pj",
+      "beer"
+    ],
+    "summary": "酒精饮品，偏寒湿，传统整理里常与滋腻、湿热并论。",
+    "caution": "痛风、肝病、孕期及服药期间不宜。"
+  },
+  {
+    "id": "spinach",
+    "name": "菠菜",
+    "en": "spinach",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "searchTerms": [
+      "bocai",
+      "bc",
+      "spinach"
+    ],
+    "summary": "常见叶菜，偏凉，含草酸，宜熟食。",
+    "caution": "肾结石、腹泻明显者不宜大量。"
+  },
+  {
+    "id": "grape",
+    "name": "葡萄",
+    "en": "grape",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆",
+      "宁夏",
+      "山东"
+    ],
+    "searchTerms": [
+      "putao",
+      "pt",
+      "grape"
+    ],
+    "summary": "常见水果，偏平，鲜食与制干皆宜。"
+  },
+  {
+    "id": "ginseng",
+    "name": "人参",
+    "en": "ginseng",
+    "category": "食药物质",
+    "nature": "温",
+    "effects": [
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "吉林",
+      "辽宁"
+    ],
+    "searchTerms": [
+      "renshen",
+      "rs",
+      "ginseng"
+    ],
+    "officialFoodMedicine": true,
+    "summary": "补气类食药物质，不宜与破气、消食重剂同用过量。",
+    "cautionTags": [
+      "medication"
+    ],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "列为上品，传统用于补气扶正类整理。"
+      }
+    ]
+  },
+  {
+    "id": "honey",
+    "name": "蜂蜜",
+    "en": "honey",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "润燥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "searchTerms": [
+      "fengmi",
+      "fm",
+      "honey"
+    ],
+    "summary": "天然甜味剂，偏润，传统与葱蒜同用有争议条目。",
+    "caution": "一岁以下婴儿、糖尿病管理期不宜。"
+  },
+  {
+    "id": "vinegar",
+    "name": "醋",
+    "en": "vinegar",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山西",
+      "江苏"
+    ],
+    "searchTerms": [
+      "cu",
+      "c",
+      "vinegar"
+    ],
+    "aliases": [
+      "米醋",
+      "陈醋",
+      "香醋"
+    ],
+    "summary": "酸性调味，传统与羊肉等同用有整理性提醒。"
+  },
+  {
+    "id": "celery",
+    "name": "芹菜",
+    "en": "celery",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "降气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "searchTerms": [
+      "qincai",
+      "qc",
+      "celery"
+    ],
+    "summary": "常见蔬菜，偏凉，纤维丰富。"
+  },
+  {
+    "id": "rabbit",
+    "name": "兔肉",
+    "en": "rabbit",
+    "category": "肉蛋奶",
+    "nature": "凉",
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川",
+      "重庆",
+      "福建"
+    ],
+    "searchTerms": [
+      "turou",
+      "tr",
+      "rabbit"
+    ],
+    "aliases": [
+      "兔"
+    ],
+    "summary": "地方常见肉类，蛋白质较高，偏凉。"
+  },
+  {
+    "id": "iron-rich-meal",
+    "name": "富铁餐",
+    "en": "iron-rich meal",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "标签"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "futiecang"
+    ],
+    "summary": "搭配检查用概念标签：指红肉、动物血、部分内脏与深绿叶菜等富铁场景，非单一食材。",
+    "hiddenFromLibrary": true
+  }
+]

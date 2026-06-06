@@ -1,4 +1,4 @@
-/** @file China supplement foods + pairing alias entries (Phase 3 batch 1) */
+/** @deprecated Source moved to data/cn/*.json — use npm run build:data → generated/foods-cn-bundle.js */
 const CN_SUPPLEMENT_FOODS = [
   { id: "peanut", name: "花生", en: "peanut", category: "坚果种子", nature: "平", effects: ["和中"], regions: ["CN"], provinces: ["山东", "河南", "辽宁"], searchTerms: ["huasheng", "hs", "peanut"], aliases: ["落花生"], summary: "常见坚果与榨油原料，偏平和。", caution: "油脂含量高，湿热、反流明显时不宜一次吃太多。" },
   { id: "black-tea", name: "红茶", en: "black tea", category: "茶饮", nature: "温", effects: ["提神"], regions: ["CN"], provinces: ["福建", "云南", "安徽"], teaClass: "红茶", searchTerms: ["hongcha", "hc", "black tea"], summary: "全发酵茶，偏温，鞣酸与咖啡因含量相对更高。", caution: "空腹、失眠、缺铁或胃敏感者不宜浓饮。" },

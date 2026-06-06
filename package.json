@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite --port 3000 --host 0.0.0.0",
-    "build": "node -e \"const fs=require('fs');const p='dist';fs.mkdirSync(p,{recursive:true});['index.html','styles.css','app.js','foods-expanded.js','foods-cn-supplement.js'].forEach(f=>fs.copyFileSync(f,p+'/'+f));\"",
+    "build:data": "node scripts/build-data.mjs",
+    "build": "npm run build:data && node -e \"const fs=require('fs');const p='dist';fs.mkdirSync(p,{recursive:true});fs.mkdirSync(p+'/generated',{recursive:true});fs.mkdirSync(p+'/public/data/cn',{recursive:true});['index.html','styles.css','app.js','foods-expanded.js'].forEach(f=>fs.copyFileSync(f,p+'/'+f));['generated/foods-cn-bundle.js','generated/recipes-bulk.js'].forEach(f=>fs.copyFileSync(f,p+'/'+f));const pub='public/data/cn';if(fs.existsSync(pub)){fs.readdirSync(pub).forEach(f=>fs.copyFileSync(pub+'/'+f,p+'/public/data/cn/'+f));}\"",
     "validate-data": "node scripts/validate-data.mjs",
     "preview": "vite preview --port 3000 --host 0.0.0.0"
   },
