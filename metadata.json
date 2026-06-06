@@ -1,0 +1,5 @@
+{
+  "name": "食养知行",
+  "description": "传统食养与现代安全提示查询工具，融合现代安全、食材检索、搭配检查和食疗方整理于一体。",
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

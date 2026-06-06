@@ -1,0 +1,14 @@
+{
+  "name": "shiyang-zhixing",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 3000 --host 0.0.0.0",
+    "build": "mkdir -p dist && cp index.html styles.css app.js foods-expanded.js dist/",
+    "preview": "vite preview --port 3000 --host 0.0.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
