@@ -5907,27 +5907,9 @@ function bindShellEvents() {
   document.addEventListener("keydown", handleDelegatedActionKeydown);
 }
 
-function toggleHomeLibraryFilters() {
-  state.homeLibraryFiltersOpen = !state.homeLibraryFiltersOpen;
+function openLibraryFromHome() {
   triggerHapticFeedback();
-
-  const container = document.getElementById("homeLibraryFilterContainer");
-  const trigger = document.querySelector("[data-home-library-toggle]");
-
-  if (container && trigger) {
-    const meta = trigger.querySelector(".hero-filter-trigger-meta");
-    if (state.homeLibraryFiltersOpen) {
-      container.classList.add("open");
-      trigger.classList.add("active");
-      if (meta) meta.textContent = "收起筛选";
-    } else {
-      container.classList.remove("open");
-      trigger.classList.remove("active");
-      if (meta) meta.textContent = "按食性、专题、分类与地区展开";
-    }
-  } else {
-    rerenderCurrent();
-  }
+  navigate("library");
 }
 
 function handleDelegatedActionClick(event) {
@@ -5935,7 +5917,7 @@ function handleDelegatedActionClick(event) {
   if (homeFilterTrigger) {
     event.preventDefault();
     event.stopPropagation();
-    toggleHomeLibraryFilters();
+    openLibraryFromHome();
     return;
   }
 
@@ -5980,7 +5962,7 @@ function handleDelegatedActionKeydown(event) {
   const homeFilterTrigger = event.target.closest("[data-home-library-toggle]");
   if (homeFilterTrigger) {
     event.preventDefault();
-    toggleHomeLibraryFilters();
+    openLibraryFromHome();
     return;
   }
 
@@ -6676,7 +6658,6 @@ function renderHomeLibraryFilterPanel() {
 function renderHomeV2() {
   const homeMatches = state.homeQuery ? searchFoods(state.homeQuery, { limit: 6 }) : [];
   const homeExplorePanel = renderHomeExplorePanel();
-  const homeLibraryFilterPanel = renderHomeLibraryFilterPanel();
   const natureTiles = ["寒", "凉", "平", "温", "热"]
     .map((nature) => {
       const meta = NATURE_META[nature];
@@ -6692,8 +6673,7 @@ function renderHomeV2() {
   return `
     <section class="hero">
       <p class="eyebrow">Food Nature Atlas</p>
-      <h1>察食性，明食理<br>知食性，辨宜忌。</h1>
-      <p>把传统食养属性、日常吃法、个人状态与现代安全提示放在同一处。</p>
+      <h1>察食性，明食理<br>知食性，辨宜忌</h1>
       ${searchField({
         id: "homeSearch",
         placeholder: "搜索食材、别名、功效或首字母，如：木姜子 / mjz",
@@ -6717,11 +6697,9 @@ function renderHomeV2() {
               : `<div class="empty-inline">没搜到匹配食材，试试别名、拼音首字母或功效词。</div>`}
           </div>`
         : ""}
-      <button class="hero-filter-trigger ${state.homeLibraryFiltersOpen ? "active" : ""}" type="button" data-home-library-toggle="true">
-        <span>筛选食材库</span>
-        <span class="hero-filter-trigger-meta">${state.homeLibraryFiltersOpen ? "收起筛选" : "按食性、专题、分类与地区展开"}</span>
+      <button class="hero-filter-trigger" type="button" data-home-library-toggle="true">
+        <span>食材库</span>
       </button>
-      ${homeLibraryFilterPanel}
     </section>
 
     <section class="page-title">
