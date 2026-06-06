@@ -3,8 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <meta name="theme-color" content="#f7f4ea">
+  <meta name="theme-color" content="#f6f3eb">
   <title>食养知行 - 食材属性与搭配查询</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -29,7 +32,7 @@
       </button>
       <button class="nav-button" data-view="library">
         <span class="nav-glyph">库</span>
-        <span>食材库</span>
+        <span>食材</span>
       </button>
       <button class="nav-button" data-view="checker">
         <span class="nav-glyph">配</span>
@@ -37,7 +40,7 @@
       </button>
       <button class="nav-button" data-view="recipes">
         <span class="nav-glyph">方</span>
-        <span>食疗方</span>
+        <span>食疗</span>
       </button>
       <button class="nav-button" data-view="profile">
         <span class="nav-glyph">我</span>
@@ -55,6 +58,7 @@
 
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
   <script src="foods-expanded.js"></script>
+  <script src="foods-cn-supplement.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

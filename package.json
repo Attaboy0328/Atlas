@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite --port 3000 --host 0.0.0.0",
-    "build": "mkdir -p dist && cp index.html styles.css app.js foods-expanded.js dist/",
+    "build": "node -e \"const fs=require('fs');const p='dist';fs.mkdirSync(p,{recursive:true});['index.html','styles.css','app.js','foods-expanded.js','foods-cn-supplement.js'].forEach(f=>fs.copyFileSync(f,p+'/'+f));\"",
+    "validate-data": "node scripts/validate-data.mjs",
     "preview": "vite preview --port 3000 --host 0.0.0.0"
   },
   "devDependencies": {

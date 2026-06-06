@@ -22,6 +22,24 @@ const REGION_LABELS = {
   RU: "俄罗斯"
 };
 
+const CN_PROVINCES = [
+  "北京", "天津", "上海", "重庆", "河北", "山西", "辽宁", "吉林", "黑龙江",
+  "江苏", "浙江", "安徽", "福建", "江西", "山东", "河南", "湖北", "湖南",
+  "广东", "海南", "四川", "贵州", "云南", "陕西", "甘肃", "青海", "台湾",
+  "内蒙古", "广西", "西藏", "宁夏", "新疆", "香港", "澳门"
+];
+
+const CN_ETHNIC_GROUPS = [
+  "汉族", "壮族", "回族", "满族", "维吾尔族", "苗族", "彝族", "土家族", "藏族",
+  "蒙古族", "侗族", "布依族", "瑶族", "朝鲜族", "白族", "哈尼族", "哈萨克族",
+  "黎族", "傣族", "畲族", "傈僳族", "仡佬族", "东乡族", "高山族", "拉祜族",
+  "水族", "佤族", "纳西族", "羌族", "土族", "仫佬族", "锡伯族", "柯尔克孜族",
+  "达斡尔族", "景颇族", "毛南族", "撒拉族", "布朗族", "塔吉克族", "阿昌族",
+  "普米族", "鄂温克族", "怒族", "京族", "基诺族", "德昂族", "保安族",
+  "俄罗斯族", "裕固族", "乌孜别克族", "门巴族", "鄂伦春族", "独龙族",
+  "塔塔尔族", "赫哲族", "珞巴族"
+];
+
 const CATEGORY_ORDER = [
   "食药物质",
   "调料",
@@ -304,6 +322,40 @@ const PAIRING_RULES = [
   }
 ];
 
+const RECIPE_CLASSIC_SOURCES = {
+  "ginger-jujube-tea": [{ title: "《千金要方·食治》", summary: "姜枣类饮品常用于温中、和营的日常食治整理。" }, { title: "《饮膳正要》", summary: "将生姜、红枣纳入日常饮食调养场景。" }],
+  "yam-red-date-porridge": [{ title: "《本草纲目》", summary: "山药与红枣并用的健脾养胃思路。" }, { title: "《神农本草经》", summary: "山药列为药食同源类平和食材。" }],
+  "lotus-lily-congee": [{ title: "《本草纲目》", summary: "莲子、百合用于清心安神、润肺。" }],
+  "white-fungus-pear-soup": [{ title: "《随园食单》", summary: "银耳、梨类润燥汤羹的民间食养传统。" }],
+  "codonopsis-astragalus-congee": [{ title: "《脾胃论》", summary: "党参、黄芪类补气粥方思路。" }, { title: "《千金要方·食治》", summary: "以粥养脾胃、益气的食治路径。" }],
+  "poria-coix-congee": [{ title: "《本草纲目》", summary: "茯苓、薏米渗湿健脾。" }],
+  "chenpi-millet-congee": [{ title: "《食疗本草》", summary: "陈皮理气和胃，常与米粥同用。" }],
+  "radish-soup": [{ title: "《食疗本草》", summary: "萝卜顺气消食，陈皮和胃。" }],
+  "lamb-ginger-soup": [{ title: "《饮膳正要》", summary: "羊肉温补，生姜散寒，为北方常见冬令食养。" }],
+  "lotus-root-soup": [{ title: "《本草纲目》", summary: "莲藕与排骨同炖的民间养血和中方。" }],
+  "hawthorn-malt-drink": [{ title: "《丹溪心法》", summary: "山楂、麦芽消食导滞的常用组合。" }],
+  "sharen-chenpi-fish": [{ title: "《本草纲目》", summary: "砂仁、陈皮理气和胃，鲫鱼和中。" }],
+  "danggui-huangqi-chicken": [{ title: "《千金要方·食治》", summary: "当归、黄芪与鸡肉同炖的补气养血食治方。" }],
+  "chuanbei-pear": [{ title: "《本草纲目》", summary: "川贝与梨用于润肺止咳类整理。" }],
+  "shashen-yuzhu-duck": [{ title: "《本草纲目》", summary: "沙参、玉竹养阴润燥，老鸭为血肉有情之品。" }]
+};
+
+function recipe(id, name, nature, syndromes, foodIds, subtitle, ingredients, steps, note) {
+  return {
+    id,
+    name,
+    nature,
+    syndromes,
+    foodIds,
+    subtitle,
+    ingredients,
+    steps,
+    note,
+    sources: RECIPE_CLASSIC_SOURCES[id] || [],
+    draft: false
+  };
+}
+
 const RECIPES = [
   recipe("ginger-jujube-tea", "姜枣饮", "温", ["脾阳虚", "胃气虚"], ["ginger", "jujube"], "日常暖胃饮", ["生姜 3 片", "红枣 5 枚", "清水 500 ml"], ["红枣去核，与生姜同煮 12 分钟", "温热少量饮用"], "偏寒、胃脘不舒、晨起怕冷时更常用。"),
   recipe("yam-red-date-porridge", "山药红枣粥", "平", ["脾气虚", "胃气虚"], ["yam", "jujube", "rice"], "益气养胃", ["山药 80 克", "红枣 6 枚", "大米 80 克"], ["山药切小块", "与大米、红枣同煮成粥"], "更适合食欲差、疲乏、饭后易胀的人。"),
@@ -334,10 +386,6 @@ const RECIPES = [
   recipe("millet-poria-bowl", "小米茯苓粥", "平", ["脾气虚", "痰湿困脾"], ["millet", "poria"], "健脾渗湿", ["小米 80 克", "茯苓 12 克"], ["茯苓煎汁", "以汁煮小米成粥"], "比重补更轻，更适合日常慢慢调。"),
   recipe("bergamot-pear-drink", "佛手雪梨饮", "凉", ["肝胃不和", "胃阴虚"], ["bergamot", "pear"], "理气生津", ["佛手 5 克", "雪梨 1 个"], ["佛手先煮", "再下雪梨稍煮"], "适合胀闷伴口干场景，腹泻时不宜偏凉多饮。")
 ];
-
-function recipe(id, name, nature, syndromes, foodIds, subtitle, ingredients, steps, note) {
-  return { id, name, nature, syndromes, foodIds, subtitle, ingredients, steps, note };
-}
 
 /* BEGIN RESTORED BULK APP DATA */
 const RESTORED_PAIRING_RULES = [
@@ -5122,7 +5170,7 @@ const RESTORED_BULK_RECIPES = [
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。"
   }
 ];
-RECIPES.push(...RESTORED_BULK_RECIPES);
+RECIPES.push(...RESTORED_BULK_RECIPES.map((item) => ({ ...item, draft: true, sources: [] })));
 
 const SYNDROME_RECIPE_EXPANSION_PACK = [
   recipe("biandou-yam-congee", "白扁豆山药粥", "平", ["脾气虚", "痰湿困脾"], ["yam", "soybean", "rice"], "健脾和中", ["山药 100 克", "白扁豆 30 克", "粳米 80 克"], ["白扁豆提前浸泡", "与山药、粳米同煮成粥"], "更适合食欲差、饭后困重、脾虚夹湿的清淡调养。"),
@@ -5174,9 +5222,11 @@ const state = {
   libraryNature: "全部",
   libraryCategory: "全部",
   libraryRegion: "ALL",
+  libraryProvince: "全部",
   libraryTopic: "",
   checkerQuery: "",
   checkerSelected: [],
+  checkerScrollPending: false,
   recipesQuery: "",
   recipesNature: "全部",
   recipesSyndrome: "全部",
@@ -5690,8 +5740,13 @@ RUNTIME_FOOD_EXPANSION.push(
   if (entry) Object.assign(entry, patch);
 });
 
-const foods = dedupeFoods(normalizeFoods([...(Array.isArray(EXPANDED_FOODS) ? EXPANDED_FOODS : []), ...RUNTIME_FOOD_EXPANSION]));
+const foods = dedupeFoods(normalizeFoods([
+  ...(Array.isArray(EXPANDED_FOODS) ? EXPANDED_FOODS : []),
+  ...(typeof CN_SUPPLEMENT_FOODS !== "undefined" ? CN_SUPPLEMENT_FOODS : []),
+  ...RUNTIME_FOOD_EXPANSION
+]));
 const foodMap = new Map(foods.map((food) => [food.id, food]));
+const publishedRecipeItems = RECIPES.filter((item) => !item.draft);
 const RECIPE_SYNDROME_META = {
   "脾气虚": {
     useFor: ["食欲差", "饭后易胀", "疲乏乏力", "大便偏稀"],
@@ -5856,8 +5911,9 @@ function inferRecipeStructure(item) {
   };
 }
 
-const recipes = RECIPES.map((item) => ({
+const recipes = publishedRecipeItems.map((item) => ({
   ...item,
+  sources: item.sources || RECIPE_CLASSIC_SOURCES[item.id] || [],
   primarySyndrome: item.primarySyndrome || item.syndromes[0] || "",
   secondarySyndromes: (item.syndromes || []).slice(1),
   useFor: uniq((item.useFor || []).concat(RECIPE_SYNDROME_META[item.primarySyndrome || item.syndromes[0] || ""]?.useFor || [])),
@@ -5912,6 +5968,7 @@ function bindShellEvents() {
 
   closeSheet.addEventListener("click", closeDetailSheet);
   sheetBackdrop.addEventListener("click", closeDetailSheet);
+  bindSheetSwipeClose();
   document.addEventListener("click", handleDelegatedActionClick);
   document.addEventListener("keydown", handleDelegatedActionKeydown);
 }
@@ -6046,6 +6103,7 @@ function applyUrlState() {
   if (params.get("ln")) state.libraryNature = params.get("ln");
   if (params.get("lc")) state.libraryCategory = params.get("lc");
   if (params.get("lr")) state.libraryRegion = params.get("lr");
+  if (params.get("lp")) state.libraryProvince = params.get("lp") || "全部";
   if (params.has("lt")) state.libraryTopic = params.get("lt") || "";
 
   if (params.get("rn")) state.recipesNature = params.get("rn");
@@ -6073,9 +6131,32 @@ function applyUrlState() {
   }
 }
 
+function partitionRegionTags(rawRegions = [], explicit = {}) {
+  const countries = [];
+  const provinces = [...(explicit.provinces || [])];
+  const ethnicGroups = [...(explicit.ethnicGroups || [])];
+  (rawRegions || []).forEach((tag) => {
+    const value = cleanString(tag);
+    if (!value) return;
+    if (REGION_LABELS[value]) {
+      countries.push(value);
+    } else if (value.endsWith("族") || CN_ETHNIC_GROUPS.includes(value)) {
+      ethnicGroups.push(value);
+    } else {
+      provinces.push(value);
+    }
+  });
+  return {
+    regions: countries.length ? uniq(countries) : ["CN"],
+    provinces: uniq(provinces),
+    ethnicGroups: uniq(ethnicGroups)
+  };
+}
+
 function normalizeFoods(items) {
   return items.map((food) => {
     const enrichment = FOOD_DETAIL_ENRICHMENTS[food.id] || FOOD_DETAIL_ENRICHMENTS[food.name] || {};
+    const regionParts = partitionRegionTags(food.regions, food);
     const indexEntry =
       FOOD_SEARCH_INDEX_MAP.get(food.id) ||
       FOOD_SEARCH_INDEX_MAP.get(food.name) ||
@@ -6122,7 +6203,7 @@ function normalizeFoods(items) {
       faCategory: cleanString(enrichment.faCategory || food.faCategory || ""),
       faNote: cleanString(enrichment.faNote || food.faNote || ""),
       aliases,
-      regions: (food.regions || []).filter((region) => REGION_LABELS[region]),
+      ...regionParts,
       effects: uniq((food.effects || []).map(cleanString).filter(Boolean)),
       benefits: uniq([...(food.benefits || []), ...(enrichment.benefits || [])].map(cleanString).filter(Boolean)),
       suitableFor: uniq([...(food.suitableFor || []), ...(enrichment.suitableFor || [])].map(cleanString).filter(Boolean)),
@@ -6162,6 +6243,8 @@ function mergeFoodEntries(current, incoming) {
     ...primary,
     aliases: uniq([...(current.aliases || []), ...(incoming.aliases || [])].map(cleanString)),
     regions: uniq([...(current.regions || []), ...(incoming.regions || [])].filter(Boolean)),
+    provinces: uniq([...(current.provinces || []), ...(incoming.provinces || [])].filter(Boolean)),
+    ethnicGroups: uniq([...(current.ethnicGroups || []), ...(incoming.ethnicGroups || [])].filter(Boolean)),
     effects: uniq([...(current.effects || []), ...(incoming.effects || [])].map(cleanString)),
     benefits: uniq([...(current.benefits || []), ...(incoming.benefits || [])].map(cleanString)),
     suitableFor: uniq([...(current.suitableFor || []), ...(incoming.suitableFor || [])].map(cleanString)),
@@ -6480,6 +6563,14 @@ function bindLibraryFilterControls(root) {
     });
   });
 
+  root.querySelectorAll("[data-library-province]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.libraryProvince = button.dataset.libraryProvince;
+      afterLibraryFilterChange({ scrollToResults: true });
+    });
+  });
+
   root.querySelectorAll("[data-library-topic]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
@@ -6505,6 +6596,7 @@ function bindCheckerEvents() {
       if (!state.checkerSelected.includes(id) && state.checkerSelected.length < 4) {
         state.checkerSelected.push(id);
         state.checkerQuery = "";
+        state.checkerScrollPending = true;
         rerenderCurrent();
       }
     });
@@ -6515,6 +6607,7 @@ function bindCheckerEvents() {
       event.stopPropagation();
       triggerHapticFeedback();
       state.checkerSelected = state.checkerSelected.filter((id) => id !== button.dataset.removeFood);
+      state.checkerScrollPending = state.checkerSelected.length >= 2;
       rerenderCurrent();
     });
   });
@@ -6525,6 +6618,11 @@ function bindCheckerEvents() {
       openFoodDetail(button.dataset.openCheckerFood);
     });
   });
+
+  if (state.checkerScrollPending && state.checkerSelected.length >= 2) {
+    state.checkerScrollPending = false;
+    requestAnimationFrame(() => scrollCheckerResults());
+  }
 }
 
 function bindRecipeEvents() {
@@ -6670,6 +6768,7 @@ function countLibraryActiveFilters() {
   if (state.libraryTopic) count += 1;
   if (state.libraryCategory !== "全部") count += 1;
   if (state.libraryRegion !== "ALL") count += 1;
+  if (state.libraryProvince !== "全部") count += 1;
   return count;
 }
 
@@ -6700,6 +6799,7 @@ function getLibraryFilterSummary() {
   if (state.libraryTopic) parts.push(state.libraryTopic);
   if (state.libraryCategory !== "全部") parts.push(state.libraryCategory);
   if (state.libraryRegion !== "ALL") parts.push(REGION_LABELS[state.libraryRegion] || state.libraryRegion);
+  if (state.libraryProvince !== "全部") parts.push(state.libraryProvince);
   return parts.length ? parts.join(" · ") : "全部食材";
 }
 
@@ -6753,6 +6853,7 @@ function resetLibraryFilters() {
   state.libraryNature = "全部";
   state.libraryCategory = "全部";
   state.libraryRegion = "ALL";
+  state.libraryProvince = "全部";
   state.libraryTopic = "";
 }
 
@@ -6968,6 +7069,13 @@ function renderLibraryFilterSections() {
             .join("")}
         </div>
       </div>
+      <div class="filter-subsection">
+        <div class="filter-label">中国省份 / 地区</div>
+        <div class="filter-group filter-group-wrap">
+          ${chip("全部", "全部", "data-library-province", state.libraryProvince === "全部")}
+          ${CN_PROVINCES.map((province) => chip(province, province, "data-library-province", state.libraryProvince === province)).join("")}
+        </div>
+      </div>
     </section>
   `;
 }
@@ -6989,7 +7097,6 @@ function renderHomeV2() {
 
   return `
     <section class="hero">
-      <p class="eyebrow">Food Nature Atlas</p>
       <h1>察食性，明食理<br>知食性，辨宜忌</h1>
       ${searchField({
         id: "homeSearch",
@@ -7081,7 +7188,6 @@ function renderChecker() {
 
   return `
     <section class="page-title">
-      <p class="eyebrow">Pairing Checker</p>
       <h1>搭配检查</h1>
       <p>一次选择 2–4 种食材，查看传统搭配、现代安全提醒和常见“相克”迷思。</p>
     </section>
@@ -7131,7 +7237,7 @@ function renderChecker() {
         : ""}
     </section>
 
-    <section class="detail-section">
+    <section class="detail-section checker-results" id="checker-results">
       <h2 class="section-title">检查结果</h2>
       <p class="section-copy">优先级：药物与过敏 &gt; 营养与疾病状态 &gt; 传统食养。</p>
       ${result}
@@ -7159,7 +7265,6 @@ function renderRecipes() {
 
   return `
     <section class="page-title page-title-compact">
-      <p class="eyebrow">Food Therapy Recipes</p>
       <h1>食疗方</h1>
     </section>
 
@@ -7257,11 +7362,15 @@ function renderProfile() {
 
 function filterFoods() {
   return searchFoods(state.libraryQuery).filter((food) => {
+    if (food.hiddenFromLibrary) return false;
     const byNature = state.libraryNature === "全部" || food.nature === state.libraryNature;
     const byCategory = state.libraryCategory === "全部" || food.category === state.libraryCategory;
     const byRegion = state.libraryRegion === "ALL" || food.regions.includes(state.libraryRegion);
+    const byProvince = state.libraryProvince === "全部"
+      || (food.provinces || []).includes(state.libraryProvince)
+      || (food.regions || []).includes(state.libraryProvince);
     const byTopic = !state.libraryTopic || matchTopic(food, state.libraryTopic);
-    return byNature && byCategory && byRegion && byTopic;
+    return byNature && byCategory && byRegion && byProvince && byTopic;
   });
 }
 
@@ -7763,6 +7872,8 @@ function showSheet(html) {
   if (feedbackForm) {
     feedbackForm.addEventListener("submit", handleFeedbackSubmit);
   }
+
+  bindSheetSubnavSpy(sheetContent);
 }
 
 function renderFoodDetail(food) {
@@ -7803,7 +7914,7 @@ function renderFoodDetail(food) {
       <div class="detail-grid">
         <div class="detail-block"><strong>食性</strong><p>${food.nature} · ${(NATURE_META[food.nature] || NATURE_META.复合).label}</p></div>
         <div class="detail-block"><strong>五味</strong><p>${food.flavor || "未标注"}</p></div>
-        <div class="detail-block"><strong>地区来源</strong><p>${food.regions.map((region) => REGION_LABELS[region]).join("、") || "未标注"}</p></div>
+        <div class="detail-block"><strong>地区来源</strong><p>${renderRegionSummary(food)}</p></div>
         <div class="detail-block"><strong>传统关键词</strong><p>${food.effects.join("、") || "未标注"}</p></div>
       </div>
     </section>
@@ -7848,6 +7959,105 @@ function renderFoodDetail(food) {
   `;
 }
 
+function scrollCheckerResults() {
+  const anchor = app.querySelector("#checker-results");
+  if (!anchor) return;
+  anchor.classList.add("checker-results-highlight");
+  anchor.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  clearTimeout(scrollCheckerResults.timer);
+  scrollCheckerResults.timer = setTimeout(() => {
+    anchor.classList.remove("checker-results-highlight");
+  }, 1400);
+}
+
+function bindSheetSubnavSpy(container = sheetContent) {
+  const nav = container.querySelector(".sheet-subnav");
+  if (!nav) return;
+
+  const links = [...nav.querySelectorAll(".sheet-subnav-link")];
+  const sections = links
+    .map((link) => {
+      const id = link.getAttribute("href")?.slice(1);
+      return id ? document.getElementById(id) : null;
+    })
+    .filter(Boolean);
+
+  if (!sections.length) return;
+
+  const setActive = (id) => {
+    links.forEach((link) => {
+      link.classList.toggle("active", link.getAttribute("href") === `#${id}`);
+    });
+  };
+
+  links.forEach((link) => {
+    link.addEventListener("click", (event) => {
+      event.preventDefault();
+      const id = link.getAttribute("href")?.slice(1);
+      const target = id ? document.getElementById(id) : null;
+      if (target) {
+        target.scrollIntoView({ behavior: "smooth", block: "start" });
+        setActive(id);
+      }
+    });
+  });
+
+  if (bindSheetSubnavSpy.observer) {
+    bindSheetSubnavSpy.observer.disconnect();
+  }
+
+  bindSheetSubnavSpy.observer = new IntersectionObserver(
+    (entries) => {
+      const visible = entries
+        .filter((entry) => entry.isIntersecting)
+        .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
+      if (visible[0]?.target?.id) {
+        setActive(visible[0].target.id);
+      }
+    },
+    { root: container, rootMargin: "-20% 0px -55% 0px", threshold: [0.15, 0.35, 0.6] }
+  );
+
+  sections.forEach((section) => bindSheetSubnavSpy.observer.observe(section));
+  setActive(sections[0].id);
+}
+
+function bindSheetSwipeClose() {
+  const handle = sheet.querySelector(".sheet-handle");
+  if (!handle || handle.dataset.swipeBound === "true") return;
+  handle.dataset.swipeBound = "true";
+
+  let startY = 0;
+  let dragging = false;
+
+  handle.addEventListener("touchstart", (event) => {
+    if (event.touches.length !== 1) return;
+    startY = event.touches[0].clientY;
+    dragging = true;
+  }, { passive: true });
+
+  handle.addEventListener("touchmove", (event) => {
+    if (!dragging || event.touches.length !== 1) return;
+    const delta = event.touches[0].clientY - startY;
+    if (delta > 72) {
+      dragging = false;
+      closeDetailSheet();
+    }
+  }, { passive: true });
+
+  handle.addEventListener("touchend", () => {
+    dragging = false;
+  }, { passive: true });
+}
+
+function renderRegionSummary(food) {
+  const country = (food.regions || []).map((region) => REGION_LABELS[region]).filter(Boolean);
+  const provinces = food.provinces || [];
+  const ethnic = food.ethnicGroups || [];
+  const parts = [...country, ...provinces, ...ethnic];
+  return parts.length ? parts.join("、") : "未标注";
+}
+
 function renderRecipeDetail(item) {
   const secondarySyndromes = Array.isArray(item.secondarySyndromes) ? item.secondarySyndromes : [];
   const ingredients = Array.isArray(item.ingredients) ? item.ingredients : [];
@@ -7858,10 +8068,18 @@ function renderRecipeDetail(item) {
   const cooking = Array.isArray(item.cooking) ? item.cooking : [];
   const coreFoods = Array.isArray(item.coreFoods) ? item.coreFoods : [];
   const foods = Array.isArray(item.foods) ? item.foods : [];
+  const sources = Array.isArray(item.sources) ? item.sources : [];
   const favorite = state.favoriteRecipes.includes(item.id);
+  const sheetNav = renderSheetSubnav([
+    { id: "recipe-overview", label: "概览" },
+    { id: "recipe-ingredients", label: "材料" },
+    { id: "recipe-steps", label: "做法" },
+    ...(sources.length ? [{ id: "recipe-sources", label: "依据" }] : [])
+  ]);
 
   return `
-    <section class="sheet-hero">
+    ${sheetNav}
+    <section class="sheet-hero" id="recipe-overview">
       <div class="sheet-hero-top">
         <div class="nature-seal" style="background:${(NATURE_META[item.nature] || NATURE_META.复合).pale};color:${(NATURE_META[item.nature] || NATURE_META.复合).tone}">${item.nature}</div>
         <div>
@@ -7876,7 +8094,7 @@ function renderRecipeDetail(item) {
       <button class="plain-button cta-button" data-toggle-recipe-favorite="${item.id}">${favorite ? "已收藏" : "收藏这个食疗方"}</button>
     </section>
 
-    <section class="detail-section">
+    <section class="detail-section" id="recipe-ingredients">
       <h3>材料</h3>
       <ul>${ingredients.length ? ingredients.map((line) => `<li>${line}</li>`).join("") : "<li>材料信息还在继续补全。</li>"}</ul>
     </section>
@@ -7891,10 +8109,20 @@ function renderRecipeDetail(item) {
       <p><strong>使用方式：</strong>更适合作为正餐结构、阶段性轻调养或恢复期饮食整理，不替代辨证处方。</p>
     </section>
 
-    <section class="detail-section">
+    <section class="detail-section" id="recipe-steps">
       <h3>做法</h3>
       <ol class="recipe-steps">${steps.length ? steps.map((line) => `<li>${line}</li>`).join("") : "<li>做法步骤还在继续补全。</li>"}</ol>
     </section>
+
+    ${sources.length ? `
+    <section class="detail-section" id="recipe-sources">
+      <h3>经典依据</h3>
+      <div class="source-list">
+        ${sources.map(renderSourceEntry).join("")}
+      </div>
+      <p class="section-copy">依据条目用于说明整理来源，不替代个体辨证与医嘱。</p>
+    </section>
+    ` : ""}
 
     <section class="detail-section">
       <h3>相关食材</h3>
@@ -7928,32 +8156,68 @@ function buildClassicNotes(food) {
 }
 
 function toggleFavorite(foodId) {
-  if (state.favorites.includes(foodId)) {
+  const wasFavorite = state.favorites.includes(foodId);
+  if (wasFavorite) {
     state.favorites = state.favorites.filter((id) => id !== foodId);
-    showToast("已取消收藏");
+    saveJson("foodwise-favorites", state.favorites);
+    showToast("已取消收藏", {
+      undoLabel: "撤销",
+      onUndo: () => {
+        state.favorites = uniq([...state.favorites, foodId]);
+        saveJson("foodwise-favorites", state.favorites);
+        refreshFavoriteUi(foodId, "food");
+      }
+    });
   } else {
     state.favorites = uniq([...state.favorites, foodId]);
-    showToast("已加入收藏");
+    saveJson("foodwise-favorites", state.favorites);
+    showToast("已加入收藏", {
+      undoLabel: "撤销",
+      onUndo: () => {
+        state.favorites = state.favorites.filter((id) => id !== foodId);
+        saveJson("foodwise-favorites", state.favorites);
+        refreshFavoriteUi(foodId, "food");
+      }
+    });
   }
-  saveJson("foodwise-favorites", state.favorites);
-  if (state.sheet?.type === "food" && state.sheet.id === foodId) {
-    showSheet(renderFoodDetail(foodMap.get(foodId)));
-    return;
-  }
-  render();
+  refreshFavoriteUi(foodId, "food");
 }
 
 function toggleRecipeFavorite(recipeId) {
-  if (state.favoriteRecipes.includes(recipeId)) {
+  const wasFavorite = state.favoriteRecipes.includes(recipeId);
+  if (wasFavorite) {
     state.favoriteRecipes = state.favoriteRecipes.filter((id) => id !== recipeId);
-    showToast("已取消收藏");
+    saveJson("foodwise-favorite-recipes", state.favoriteRecipes);
+    showToast("已取消收藏", {
+      undoLabel: "撤销",
+      onUndo: () => {
+        state.favoriteRecipes = uniq([...state.favoriteRecipes, recipeId]);
+        saveJson("foodwise-favorite-recipes", state.favoriteRecipes);
+        refreshFavoriteUi(recipeId, "recipe");
+      }
+    });
   } else {
     state.favoriteRecipes = uniq([...state.favoriteRecipes, recipeId]);
-    showToast("已加入收藏");
+    saveJson("foodwise-favorite-recipes", state.favoriteRecipes);
+    showToast("已加入收藏", {
+      undoLabel: "撤销",
+      onUndo: () => {
+        state.favoriteRecipes = state.favoriteRecipes.filter((id) => id !== recipeId);
+        saveJson("foodwise-favorite-recipes", state.favoriteRecipes);
+        refreshFavoriteUi(recipeId, "recipe");
+      }
+    });
   }
-  saveJson("foodwise-favorite-recipes", state.favoriteRecipes);
-  const item = recipes.find((recipeItem) => recipeItem.id === recipeId);
-  if (state.sheet?.type === "recipe" && state.sheet.id === recipeId && item) {
+  refreshFavoriteUi(recipeId, "recipe");
+}
+
+function refreshFavoriteUi(id, type) {
+  if (type === "food" && state.sheet?.type === "food" && state.sheet.id === id) {
+    showSheet(renderFoodDetail(foodMap.get(id)));
+    return;
+  }
+  const item = recipes.find((recipeItem) => recipeItem.id === id);
+  if (type === "recipe" && state.sheet?.type === "recipe" && state.sheet.id === id && item) {
     showSheet(renderRecipeDetail(item));
     return;
   }
@@ -7973,6 +8237,7 @@ function syncUrl() {
     if (state.libraryNature !== "全部") params.set("ln", state.libraryNature);
     if (state.libraryCategory !== "全部") params.set("lc", state.libraryCategory);
     if (state.libraryRegion !== "ALL") params.set("lr", state.libraryRegion);
+    if (state.libraryProvince !== "全部") params.set("lp", state.libraryProvince);
     if (state.libraryTopic) params.set("lt", state.libraryTopic);
   }
   if (state.view === "recipes") {
@@ -7990,9 +8255,25 @@ function syncUrl() {
   history.replaceState(null, "", `${window.location.pathname}${params.toString() ? `?${params.toString()}` : ""}`);
 }
 
-function showToast(message) {
-  toastEl.textContent = message;
-  toastEl.classList.add("visible");
+function showToast(message, options = {}) {
+  const { undoLabel = "", onUndo } = options;
   clearTimeout(showToast.timer);
-  showToast.timer = setTimeout(() => toastEl.classList.remove("visible"), 1800);
+
+  if (undoLabel && typeof onUndo === "function") {
+    toastEl.innerHTML = `<span class="toast-message">${escapeHtml(message)}</span><button type="button" class="toast-undo">${escapeHtml(undoLabel)}</button>`;
+    toastEl.classList.add("toast-with-action");
+    toastEl.querySelector(".toast-undo")?.addEventListener("click", () => {
+      clearTimeout(showToast.timer);
+      toastEl.classList.remove("visible", "toast-with-action");
+      onUndo();
+    });
+  } else {
+    toastEl.textContent = message;
+    toastEl.classList.remove("toast-with-action");
+  }
+
+  toastEl.classList.add("visible");
+  showToast.timer = setTimeout(() => {
+    toastEl.classList.remove("visible", "toast-with-action");
+  }, undoLabel ? 3200 : 1800);
 }
