@@ -582,8 +582,33 @@ button {
   font-weight: 600;
 }
 
-.home-daodi-system-tile span {
+.home-daodi-system-tile {
+  align-content: start;
+  align-items: start;
+  min-height: 96px;
+  grid-template-rows: auto auto 1fr;
+}
+
+.home-daodi-system-title {
+  display: block;
+  line-height: 1.2;
+  min-height: 1.2em;
+}
+
+.home-daodi-count,
+.home-daodi-region {
+  display: block;
+  line-height: 1.45;
+  font-size: 12px;
   color: color-mix(in srgb, var(--ink-soft) 88%, transparent);
+}
+
+.home-daodi-count {
+  margin-top: 2px;
+}
+
+.home-daodi-region {
+  margin-top: 1px;
 }
 
 .qi-term-tile span {

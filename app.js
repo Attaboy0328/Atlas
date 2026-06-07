@@ -3469,8 +3469,9 @@ function renderHomeV2() {
           title="${row.summary || row.name}"
           style="background:${colors.pale};border-color:${colors.tone}28"
         >
-          <strong style="color:${colors.tone}">${row.name}</strong>
-          <span>${row.herbCount || 0} 种 · ${row.region || ""}</span>
+          <strong class="home-daodi-system-title" style="color:${colors.tone}">${row.name}</strong>
+          <span class="home-daodi-count">${row.herbCount || 0} 种</span>
+          <span class="home-daodi-region">${row.region || ""}</span>
         </button>
       `;
       }).join("")}
