@@ -1,0 +1,128 @@
+[
+  {
+    "ids": ["hairtail", "vinegar"],
+    "title": "带鱼与醋",
+    "level": "notice",
+    "category": "现代安全",
+    "text": "河海鲜配醋常见，重点在彻底做熟与个体肠胃耐受，并非绝对禁忌。"
+  },
+  {
+    "ids": ["kelp", "vinegar"],
+    "title": "海带与醋",
+    "level": "notice",
+    "category": "现代安全",
+    "text": "海带含碘，甲亢控碘期需遵医嘱；与醋同食更常见的是口感与消化感受差异。"
+  },
+  {
+    "ids": ["cucumber", "peanut"],
+    "title": "黄瓜与花生",
+    "level": "gold",
+    "category": "民间迷思",
+    "text": "传统相克条目之一，现代无毒性依据，更应关注凉拌卫生与一次吃太多是否腹胀。"
+  },
+  {
+    "ids": ["spinach", "tofu"],
+    "title": "菠菜与豆腐",
+    "level": "notice",
+    "category": "现代安全",
+    "text": "草酸可能影响钙吸收感受，焯水后搭配更稳妥，不是食物相克。"
+  },
+  {
+    "ids": ["banana", "milk"],
+    "title": "香蕉与牛奶",
+    "level": "notice",
+    "category": "现代安全",
+    "text": "部分人同餐后会腹胀，多与乳糖不耐或一次吃太多有关，不是必然中毒。"
+  },
+  {
+    "ids": ["white-radish", "honey"],
+    "title": "白萝卜与蜂蜜",
+    "level": "caution",
+    "category": "传统食养",
+    "text": "传统食养里常提醒「下气」与「润燥」方向不同，一岁以下婴幼儿不宜食用蜂蜜。"
+  },
+  {
+    "ids": ["shrimp", "orange"],
+    "title": "虾与柑橘",
+    "level": "gold",
+    "category": "民间迷思",
+    "text": "经典「砒霜」迷思已被现代证据否定；更应关注海鲜过敏与是否做熟。"
+  },
+  {
+    "ids": ["lychee", "beer"],
+    "title": "荔枝与酒",
+    "level": "caution",
+    "category": "现代安全",
+    "text": "空腹大量食荔枝后再饮酒，部分人更易低血糖或胃部不适，宜适量、勿空腹。"
+  },
+  {
+    "ids": ["mango", "beer"],
+    "title": "芒果与酒",
+    "level": "notice",
+    "category": "现代安全",
+    "text": "热带水果与酒精同餐时，过敏或湿热体质者更易皮肤发痒或胃部不适。"
+  },
+  {
+    "ids": ["bamboo-shoot", "pork"],
+    "title": "春笋与猪肉",
+    "level": "gold",
+    "category": "传统食养",
+    "text": "春令常见搭配，春笋纤维高，消化不良者宜少量、煮透。"
+  },
+  {
+    "ids": ["eel", "perilla-leaf"],
+    "title": "黄鳝与紫苏",
+    "level": "notice",
+    "category": "传统食养",
+    "text": "江南常见河鲜做法，重点在河鲜彻底做熟与个体过敏史。"
+  },
+  {
+    "ids": ["crab", "persimmon"],
+    "title": "螃蟹与柿子（河鲜）",
+    "level": "caution",
+    "category": "传统食养",
+    "text": "与海蟹同类提醒：寒凉叠加与鞣酸影响消化，脾胃虚寒者尤其注意。"
+  },
+  {
+    "ids": ["river-shrimp", "pumpkin"],
+    "title": "河虾与南瓜",
+    "level": "gold",
+    "category": "民间迷思",
+    "text": "传统条目常见，现代更应理解为高蛋白与果胶同餐的消化负担提醒。"
+  },
+  {
+    "ids": ["swimming-crab", "persimmon"],
+    "title": "梭子蟹与柿子",
+    "level": "caution",
+    "category": "传统食养",
+    "text": "秋蟹上市高频组合提醒，核心是胃部负担与空腹，不是见一次必中毒。"
+  },
+  {
+    "ids": ["radix-ginseng", "chicken"],
+    "title": "人参与鸡肉",
+    "level": "notice",
+    "category": "传统食养",
+    "text": "补气类药膳常见，感冒发热、实热体质不宜随意进补。"
+  },
+  {
+    "ids": ["watermelon", "milk"],
+    "title": "西瓜与牛奶",
+    "level": "notice",
+    "category": "现代安全",
+    "text": "部分肠胃敏感者同饮易腹泻，与食物相克无关，宜少量、勿冰镇过量。"
+  },
+  {
+    "ids": ["clam", "orange"],
+    "title": "蛤蜊与柑橘",
+    "level": "gold",
+    "category": "民间迷思",
+    "text": "传统「砒霜」类迷思的现代澄清：更应关注贝类新鲜度与是否做熟。"
+  },
+  {
+    "ids": ["peach", "honey"],
+    "title": "桃子与蜂蜜",
+    "level": "notice",
+    "category": "传统食养",
+    "text": "夏令润燥常见，糖尿病患者需控糖，一岁以下婴幼儿不宜蜂蜜。"
+  }
+]

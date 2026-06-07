@@ -52,25 +52,6 @@ export function manifestRowToOrigin(row, defaults = {}) {
   };
 }
 
-export async function fetchJsonUrl(url, timeoutMs = 15000) {
-  const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), timeoutMs);
-  try {
-    const res = await fetch(url, {
-      signal: controller.signal,
-      headers: {
-        Accept: "application/json,text/plain,*/*",
-        "User-Agent": "AtlasOriginFetcher/1.0"
-      }
-    });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const text = await res.text();
-    return JSON.parse(text);
-  } finally {
-    clearTimeout(timer);
-  }
-}
-
 export function parseRegistryPayload(payload, defaults) {
   const rows = Array.isArray(payload)
     ? payload
@@ -99,12 +80,6 @@ export function parseCsvText(text, defaults) {
   }).filter((r) => r.name);
 }
 
-export function loadFetchSources() {
-  const file = path.join(root, "data", "raw", "origin", "fetch-sources.json");
-  if (!fs.existsSync(file)) return { sources: [], defaults: {} };
-  return JSON.parse(fs.readFileSync(file, "utf8"));
-}
-
 export function loadRegistryManifest() {
   const file = path.join(root, "data", "raw", "origin", "registry-manifest.json");
   if (!fs.existsSync(file)) return [];
@@ -129,39 +104,6 @@ export function loadIncomingDropFiles() {
   return out;
 }
 
-export async function runConfiguredFetches(sources) {
-  const results = [];
-  for (const source of sources) {
-    if (source.enabled === false) continue;
-    try {
-      if (source.type === "json" && source.url) {
-        const payload = await fetchJsonUrl(source.url, source.timeoutMs);
-        const items = parseRegistryPayload(payload, {
-          system: source.system,
-          sourceUrl: source.url,
-          note: source.note
-        });
-        results.push({ source: source.id, ok: true, count: items.length, items });
-      } else if (source.type === "csv" && source.url) {
-        const controller = new AbortController();
-        const timer = setTimeout(() => controller.abort(), source.timeoutMs || 15000);
-        const res = await fetch(source.url, { signal: controller.signal });
-        clearTimeout(timer);
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const items = parseCsvText(await res.text(), {
-          system: source.system,
-          sourceUrl: source.url,
-          note: source.note
-        });
-        results.push({ source: source.id, ok: true, count: items.length, items });
-      }
-    } catch (error) {
-      results.push({ source: source.id, ok: false, error: error.message, items: [] });
-    }
-  }
-  return results;
-}
-
 export function writeFetchedBatch(outDir, label, items) {
   fs.mkdirSync(outDir, { recursive: true });
   const date = new Date().toISOString().slice(0, 10);
@@ -169,7 +111,7 @@ export function writeFetchedBatch(outDir, label, items) {
   const payload = {
     registry: label,
     fetchedAt: date,
-    note: "Auto-fetched by scripts/fetch-origin-registry.mjs",
+    note: "Auto-materialized by scripts/materialize-origin-manifest.mjs",
     items
   };
   fs.writeFileSync(file, `${JSON.stringify(payload, null, 2)}\n`, "utf8");

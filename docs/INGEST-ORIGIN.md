@@ -5,7 +5,10 @@
 | 路径 | 用途 |
 |------|------|
 | `data/cn/origin-products.seed.json` | 手工种子（MVP / 回退） |
-| `data/raw/origin/*.json` | 公开库抓取或转换后的导入批次 |
+| `data/raw/origin/registry-manifest.json` | 离线索引（常搜 GI 名录） |
+| `data/raw/origin/incoming/` | 手工拖入的 JSON/CSV 批次 |
+| `data/raw/origin/fetched-*.json` | 物化输出（由 manifest + incoming 生成） |
+| `data/raw/origin/*-batch*.json` | 整理好的导入批次 |
 | `data/cn/origin-products.json` | ingest 归一化输出（勿手改） |
 | `data/tcm/dao-di-regions.json` | 道地产区映射（canonicalId → 产区） |
 | `generated/origin-products.js` | 前端 bundle |
@@ -14,14 +17,11 @@
 ## 命令
 
 ```bash
-# 完整数据构建（含归一化、重名合并、离线抓取、产地 ingest）
+# 完整数据构建（含归一化、重名合并、产地物化、ingest）
 npm run build:data
 
-# 尝试联网抓取 + manifest + incoming 落盘
-npm run fetch:origin
-
-# 仅 manifest / incoming（无网络）
-npm run fetch:origin:offline
+# 将 manifest + incoming 物化到 fetched-*.json（纯本地，无网络）
+npm run materialize:origin
 
 # 重名自动合并为 alias + hiddenFromLibrary
 npm run consolidate:aliases
@@ -30,14 +30,14 @@ npm run consolidate:aliases
 npm run ingest:origin
 ```
 
-## 抓取配置
+## 扩库方式（无 API）
 
-1. 编辑 `data/raw/origin/fetch-sources.json`，填入公开 JSON/CSV 导出 URL 并设 `enabled: true`
-2. 或将下载文件放入 `data/raw/origin/incoming/`（`.json` / `.csv`）
-3. 运行 `npm run fetch:origin` 生成 `data/raw/origin/fetched-*.json`
+1. 编辑 `data/raw/origin/registry-manifest.json`，追加 `items`（含 `name`、`system`、`region`、`sourceId`，可选 `baseFoodId`）
+2. 或将整理好的 JSON/CSV 放入 `data/raw/origin/incoming/`
+3. 运行 `npm run materialize:origin` 生成 `fetched-*.json`
 4. 再跑 `npm run ingest:origin` 或 `npm run build:data`
 
-`registry-manifest.json` 为离线索引；联网失败时仍会物化到 `fetched-registry-manifest-*.json`。
+详见 [DATA-EXPANSION.md](./DATA-EXPANSION.md)。
 
 ## 导入格式
 

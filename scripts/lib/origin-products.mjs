@@ -170,7 +170,6 @@ export function originProductToFood(product, aliasMap) {
 }
 
 const RAW_ORIGIN_SKIP = new Set([
-  "fetch-sources.json",
   "registry-manifest.json"
 ]);
 

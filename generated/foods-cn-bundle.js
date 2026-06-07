@@ -1141,6 +1141,42 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "发酵豆制品，地方差异大。"
   },
   {
+    "id": "bamboo-shoot",
+    "name": "春笋",
+    "en": "spring bamboo shoot",
+    "category": "蔬菜",
+    "nature": "微寒",
+    "effects": [
+      "化痰",
+      "利膈"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建",
+      "四川"
+    ],
+    "aliases": [
+      "雷笋",
+      "毛笋"
+    ],
+    "pinyin": "chunsun",
+    "initials": "cs",
+    "searchTerms": [
+      "chunsun",
+      "cs",
+      "spring bamboo shoot",
+      "春笋",
+      "雷笋",
+      "毛笋",
+      "惊蛰",
+      "谷雨"
+    ],
+    "summary": "惊蛰至谷雨时令笋品，纤维高宜油焖、腌笃鲜；胃溃疡、消化不良者少量。"
+  },
+  {
     "id": "spring-bamboo-shoot",
     "name": "春笋",
     "en": "spring bamboo shoot",
@@ -1172,22 +1208,22 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "water-shield",
     "name": "莼菜",
     "en": "water shield",
-    "category": "水生蔬菜",
-    "nature": "凉",
+    "category": "蔬菜",
+    "nature": "寒",
     "effects": [
-      "清润",
-      "和胃"
+      "清热",
+      "利水"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
       "江苏",
-      "浙江",
-      "湖北"
+      "浙江"
     ],
     "aliases": [
-      "水葵"
+      "太湖莼菜",
+      "西湖莼菜"
     ],
     "pinyin": "chuncai",
     "initials": "cc",
@@ -1196,10 +1232,11 @@ const CN_SUPPLEMENT_FOODS = [
       "cc",
       "water shield",
       "莼菜",
-      "水葵"
+      "太湖莼菜",
+      "西湖莼菜",
+      "春菜"
     ],
-    "summary": "莼菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "江南春令水产蔬菜，滑嫩宜羹汤；脾胃虚寒、腹泻者少食。"
   },
   {
     "id": "arrowhead",
@@ -1520,10 +1557,12 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "provinces": [
       "浙江",
-      "山东"
+      "山东",
+      "福建"
     ],
     "aliases": [
-      "刀鱼"
+      "刀鱼",
+      "白带鱼"
     ],
     "pinyin": "daiyu",
     "initials": "dy",
@@ -1532,10 +1571,11 @@ const CN_SUPPLEMENT_FOODS = [
       "dy",
       "hairtail",
       "带鱼",
-      "刀鱼"
+      "刀鱼",
+      "白带鱼",
+      "冬汛"
     ],
-    "summary": "带鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "秋冬汛常见海鱼，宜红烧、干煎；高脂血症者适量，海鲜过敏者禁食。"
   },
   {
     "id": "mussel",
@@ -2566,18 +2606,20 @@ const CN_SUPPLEMENT_FOODS = [
     "category": "海产",
     "nature": "寒",
     "effects": [
-      "清热",
-      "滋阴"
+      "滋阴",
+      "利水"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
       "山东",
+      "江苏",
       "辽宁"
     ],
     "aliases": [
-      "花蛤"
+      "花蛤",
+      "文蛤"
     ],
     "pinyin": "geli",
     "initials": "gl",
@@ -2586,10 +2628,11 @@ const CN_SUPPLEMENT_FOODS = [
       "gl",
       "clam",
       "蛤蜊",
-      "花蛤"
+      "花蛤",
+      "文蛤",
+      "夏初"
     ],
-    "summary": "蛤蜊，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "夏初滩涂小鲜，宜辣炒、煮汤；须吐沙干净、彻底做熟，脾胃虚寒者慎食。"
   },
   {
     "id": "sea-cucumber",
@@ -2920,10 +2963,12 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "provinces": [
       "江苏",
+      "浙江",
       "湖北"
     ],
     "aliases": [
-      "草虾"
+      "草虾",
+      "青虾"
     ],
     "pinyin": "hexia",
     "initials": "hx",
@@ -2932,10 +2977,12 @@ const CN_SUPPLEMENT_FOODS = [
       "hx",
       "river shrimp",
       "河虾",
-      "草虾"
+      "草虾",
+      "青虾",
+      "清明",
+      "立夏"
     ],
-    "summary": "河虾，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "清明至立夏河鲜小鲜，宜盐水、爆炒；过敏者禁食，痛风急性期慎食。"
   },
   {
     "id": "walnut",
@@ -3620,6 +3667,42 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "eel",
+    "name": "黄鳝",
+    "en": "eel",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "补虚",
+      "暖中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "湖北",
+      "安徽"
+    ],
+    "aliases": [
+      "鳝鱼",
+      "长鱼"
+    ],
+    "pinyin": "shanyu",
+    "initials": "sy",
+    "searchTerms": [
+      "shanyu",
+      "sy",
+      "eel",
+      "黄鳝",
+      "鳝鱼",
+      "长鱼",
+      "初夏",
+      "小暑"
+    ],
+    "summary": "初夏至小暑河鲜代表，宜红烧、炖汤；需彻底做熟，湿热、疮疡期慎食。"
+  },
+  {
     "id": "yellow-croaker",
     "name": "黄鱼",
     "en": "yellow croaker",
@@ -3824,30 +3907,35 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "shepherds-purse",
     "name": "荠菜",
     "en": "shepherd's purse",
-    "category": "野菜",
+    "category": "蔬菜",
     "nature": "凉",
     "effects": [
-      "清热",
-      "利湿"
+      "明目",
+      "止血"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "江苏",
-      "浙江"
+      "全国"
     ],
-    "aliases": [],
+    "aliases": [
+      "地米菜",
+      "春菜"
+    ],
     "pinyin": "jicai",
     "initials": "jc",
     "searchTerms": [
       "jicai",
       "jc",
       "shepherd's purse",
-      "荠菜"
+      "荠菜",
+      "地米菜",
+      "春菜",
+      "立春",
+      "清明"
     ],
-    "summary": "荠菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "早春野蔬代表，宜馄饨、炒香；需洗净焯水，体虚畏寒者不宜多食。"
   },
   {
     "id": "crucian-carp",
@@ -7325,38 +7413,6 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
-    "id": "eel",
-    "name": "鳝鱼",
-    "en": "eel",
-    "category": "海产",
-    "nature": "温",
-    "effects": [
-      "补虚",
-      "养血"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "江苏",
-      "湖北"
-    ],
-    "aliases": [
-      "黄鳝"
-    ],
-    "pinyin": "shanyu",
-    "initials": "sy",
-    "searchTerms": [
-      "shanyu",
-      "sy",
-      "eel",
-      "鳝鱼",
-      "黄鳝"
-    ],
-    "summary": "鳝鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
-  },
-  {
     "id": "she-minced-tea",
     "name": "畲族擂茶",
     "en": "She minced tea",
@@ -7800,55 +7856,26 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "黔东南酸汤鱼，开胃暖身。"
   },
   {
-    "id": "bamboo-shoot",
-    "name": "笋",
-    "en": "bamboo shoot",
-    "category": "蔬菜",
-    "nature": "凉",
-    "effects": [
-      "清热",
-      "化痰"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "浙江",
-      "福建"
-    ],
-    "aliases": [
-      "竹笋"
-    ],
-    "pinyin": "sun",
-    "initials": "s",
-    "searchTerms": [
-      "sun",
-      "s",
-      "bamboo shoot",
-      "笋",
-      "竹笋"
-    ],
-    "summary": "笋，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
-  },
-  {
     "id": "swimming-crab",
     "name": "梭子蟹",
     "en": "swimming crab",
     "category": "海产",
     "nature": "寒",
     "effects": [
-      "清热"
+      "清热",
+      "散结"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
       "浙江",
-      "福建"
+      "福建",
+      "山东"
     ],
     "aliases": [
-      "海蟹"
+      "海蟹",
+      "枪蟹"
     ],
     "pinyin": "suozixie",
     "initials": "szx",
@@ -7857,10 +7884,12 @@ const CN_SUPPLEMENT_FOODS = [
       "szx",
       "swimming crab",
       "梭子蟹",
-      "海蟹"
+      "海蟹",
+      "枪蟹",
+      "立秋",
+      "中秋"
     ],
-    "summary": "梭子蟹，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "立秋至中秋海产高峰，宜清蒸、姜炒；痛风、孕妇及过敏体质慎食。"
   },
   {
     "id": "pond-loach",

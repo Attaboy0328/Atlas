@@ -1031,7 +1031,7 @@
     "searchTerms": [
       "郫县豆瓣"
     ],
-    "baseFoodId": "doubanjiang",
+    "baseFoodId": "cat-bean-product-177",
     "giSystems": [
       {
         "system": "cnipa",
@@ -1121,7 +1121,7 @@
     "searchTerms": [
       "德州扒鸡"
     ],
-    "baseFoodId": "dezhou-chicken",
+    "baseFoodId": null,
     "giSystems": [
       {
         "system": "cnipa",
@@ -2253,6 +2253,1416 @@
     }
   },
   {
+    "id": "mara-zhoushan-hairtail",
+    "name": "舟山带鱼",
+    "category": "海产",
+    "nature": "平",
+    "provinces": [
+      "浙江"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "舟山带鱼"
+    ],
+    "baseFoodId": "hairtail",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "舟山带鱼为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-zhoushan-hairtail",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-zhanjiang-oyster",
+    "name": "湛江生蚝",
+    "category": "海产",
+    "nature": "平",
+    "provinces": [
+      "广东"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "湛江生蚝"
+    ],
+    "baseFoodId": "oyster",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "湛江生蚝为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-zhanjiang-oyster",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-rongcheng-kelp",
+    "name": "荣成海带",
+    "category": "海产",
+    "nature": "平",
+    "provinces": [
+      "山东"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "荣成海带"
+    ],
+    "baseFoodId": "kelp",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "荣成海带为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-rongcheng-kelp",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "cnipa-dalian-sea-cucumber",
+    "name": "大连海参",
+    "category": "海产",
+    "nature": "平",
+    "provinces": [
+      "辽宁"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "大连海参"
+    ],
+    "baseFoodId": "sea-cucumber",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "大连海参为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-dalian-sea-cucumber",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-ningde-yellow-croaker",
+    "name": "宁德大黄鱼",
+    "category": "海产",
+    "nature": "平",
+    "provinces": [
+      "福建"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "宁德大黄鱼"
+    ],
+    "baseFoodId": "yellow-croaker",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "宁德大黄鱼为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-ningde-yellow-croaker",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-xinghua-crab",
+    "name": "兴化大闸蟹",
+    "category": "海产",
+    "nature": "平",
+    "provinces": [
+      "江苏"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "兴化大闸蟹"
+    ],
+    "baseFoodId": "crab",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "兴化大闸蟹为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-xinghua-crab",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-pinggu-peach",
+    "name": "平谷大桃",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "北京"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "平谷大桃"
+    ],
+    "baseFoodId": "peach",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "平谷大桃为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-pinggu-peach",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-cixi-bayberry",
+    "name": "慈溪杨梅",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "浙江"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "慈溪杨梅"
+    ],
+    "baseFoodId": "bayberry",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "慈溪杨梅为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-cixi-bayberry",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-lingshan-lychee",
+    "name": "灵山荔枝",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "灵山荔枝"
+    ],
+    "baseFoodId": "lychee",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "灵山荔枝为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-lingshan-lychee",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-dangshan-pear",
+    "name": "砀山酥梨",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "安徽"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "砀山酥梨"
+    ],
+    "baseFoodId": "pear",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "砀山酥梨为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-dangshan-pear",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-xuwen-pineapple",
+    "name": "徐闻菠萝",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "广东"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "徐闻菠萝"
+    ],
+    "baseFoodId": "pineapple",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "徐闻菠萝为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-xuwen-pineapple",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "prov-gd-leizhou-pineapple",
+    "name": "雷州菠萝",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "广东"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "雷州菠萝"
+    ],
+    "baseFoodId": "pineapple",
+    "giSystems": [
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "雷州菠萝为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "provincial",
+      "sourceUrl": "",
+      "sourceId": "prov-gd-leizhou-pineapple",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-hainan-coconut",
+    "name": "海南椰子",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "海南"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "海南椰子"
+    ],
+    "baseFoodId": "coconut",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "海南椰子为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-hainan-coconut",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-ningxia-sandmelon",
+    "name": "宁夏硒砂瓜",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "宁夏"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "宁夏硒砂瓜"
+    ],
+    "baseFoodId": "watermelon",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "宁夏硒砂瓜为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-ningxia-sandmelon",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-hotan-jujube",
+    "name": "和田大枣",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "和田大枣"
+    ],
+    "baseFoodId": "jujube",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "和田大枣为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-hotan-jujube",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-ruoqiang-jujube",
+    "name": "若羌红枣",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "若羌红枣"
+    ],
+    "baseFoodId": "jujube",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "若羌红枣为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-ruoqiang-jujube",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "prov-hn-danzhou-sweet-potato",
+    "name": "儋州地瓜",
+    "category": "薯类",
+    "nature": "平",
+    "provinces": [
+      "海南"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "儋州地瓜"
+    ],
+    "baseFoodId": "sweet-potato",
+    "giSystems": [
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "儋州地瓜为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "provincial",
+      "sourceUrl": "",
+      "sourceId": "prov-hn-danzhou-sweet-potato",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "prov-gx-longji-rice",
+    "name": "龙脊梯田米",
+    "category": "谷物",
+    "nature": "平",
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "龙脊梯田米"
+    ],
+    "baseFoodId": "rice",
+    "giSystems": [
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "龙脊梯田米为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "provincial",
+      "sourceUrl": "",
+      "sourceId": "prov-gx-longji-rice",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-gutian-white-fungus",
+    "name": "古田银耳",
+    "category": "食药物质",
+    "nature": "平",
+    "provinces": [
+      "福建"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "古田银耳"
+    ],
+    "baseFoodId": "white-fungus",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "古田银耳为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-gutian-white-fungus",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-tongjiang-white-fungus",
+    "name": "通江银耳",
+    "category": "食药物质",
+    "nature": "平",
+    "provinces": [
+      "四川"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "通江银耳"
+    ],
+    "baseFoodId": "white-fungus",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "通江银耳为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-tongjiang-white-fungus",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-wendeng-ginseng-american",
+    "name": "文登西洋参",
+    "category": "中药材",
+    "nature": "平",
+    "provinces": [
+      "山东"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "文登西洋参"
+    ],
+    "baseFoodId": "panax-quinquefolius",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "文登西洋参为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-wendeng-ginseng-american",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "cnipa-changbai-ginseng",
+    "name": "长白山人参",
+    "category": "中药材",
+    "nature": "平",
+    "provinces": [
+      "吉林"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "长白山人参"
+    ],
+    "baseFoodId": "radix-ginseng",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "长白山人参为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-changbai-ginseng",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "cnipa-fenghuang-dancong",
+    "name": "凤凰单丛",
+    "category": "茶饮",
+    "nature": "平",
+    "provinces": [
+      "广东"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "凤凰单丛"
+    ],
+    "baseFoodId": "oolong-tea",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "凤凰单丛为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-fenghuang-dancong",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "prov-gd-chaozhou-dancong",
+    "name": "潮州单丛",
+    "category": "茶饮",
+    "nature": "平",
+    "provinces": [
+      "广东"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "潮州单丛"
+    ],
+    "baseFoodId": "oolong-tea",
+    "giSystems": [
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "潮州单丛为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "provincial",
+      "sourceUrl": "",
+      "sourceId": "prov-gd-chaozhou-dancong",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "cnipa-huoshan-huangya",
+    "name": "霍山黄芽",
+    "category": "茶饮",
+    "nature": "平",
+    "provinces": [
+      "安徽"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "霍山黄芽"
+    ],
+    "baseFoodId": "green-tea",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "霍山黄芽为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-huoshan-huangya",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "cnipa-mogan-huangya",
+    "name": "莫干黄芽",
+    "category": "茶饮",
+    "nature": "平",
+    "provinces": [
+      "浙江"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "莫干黄芽"
+    ],
+    "baseFoodId": "green-tea",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "莫干黄芽为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-mogan-huangya",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-jingyang-fuzhuan-tea",
+    "name": "泾阳茯茶",
+    "category": "茶饮",
+    "nature": "平",
+    "provinces": [
+      "陕西"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "泾阳茯茶"
+    ],
+    "baseFoodId": null,
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "泾阳茯茶为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-jingyang-fuzhuan-tea",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-yunnan-arabica-coffee",
+    "name": "云南小粒咖啡",
+    "category": "饮品",
+    "nature": "平",
+    "provinces": [
+      "云南"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "云南小粒咖啡"
+    ],
+    "baseFoodId": null,
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "云南小粒咖啡为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-yunnan-arabica-coffee",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-wuwei-pressed-duck",
+    "name": "无为板鸭",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "provinces": [
+      "安徽"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "无为板鸭"
+    ],
+    "baseFoodId": "duck",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "无为板鸭为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-wuwei-pressed-duck",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "prov-hn-changde-duck",
+    "name": "常德酱板鸭",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "provinces": [
+      "湖南"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "常德酱板鸭"
+    ],
+    "baseFoodId": "duck",
+    "giSystems": [
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "常德酱板鸭为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "provincial",
+      "sourceUrl": "",
+      "sourceId": "prov-hn-changde-duck",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-xiangxi-cured-pork",
+    "name": "湘西腊肉",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "provinces": [
+      "湖南"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "湘西腊肉"
+    ],
+    "baseFoodId": "larou",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "湘西腊肉为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-xiangxi-cured-pork",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-yuyao-pickled-mustard",
+    "name": "余姚榨菜",
+    "category": "蔬菜",
+    "nature": "平",
+    "provinces": [
+      "浙江"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "余姚榨菜"
+    ],
+    "baseFoodId": "zhacai",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "余姚榨菜为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-yuyao-pickled-mustard",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-tongxiang-chrysanthemum",
+    "name": "杭白菊",
+    "category": "饮品",
+    "nature": "平",
+    "provinces": [
+      "浙江"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "杭白菊"
+    ],
+    "baseFoodId": "chrysanthemum-morifolium",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "杭白菊为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-tongxiang-chrysanthemum",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "cnipa-tongxiang-chrysanthemum",
+    "name": "桐乡杭白菊",
+    "category": "饮品",
+    "nature": "平",
+    "provinces": [
+      "浙江"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "桐乡杭白菊"
+    ],
+    "baseFoodId": "chrysanthemum-morifolium",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "桐乡杭白菊为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-tongxiang-chrysanthemum",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-yangcheng-bream",
+    "name": "阳澄湖鳊鱼",
+    "category": "海产",
+    "nature": "平",
+    "provinces": [
+      "江苏"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "阳澄湖鳊鱼"
+    ],
+    "baseFoodId": "flat-bream",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "阳澄湖鳊鱼为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-yangcheng-bream",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-honghu-lotus-root",
+    "name": "洪湖莲藕",
+    "category": "蔬菜",
+    "nature": "平",
+    "provinces": [
+      "湖北"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "洪湖莲藕"
+    ],
+    "baseFoodId": "lotus-root",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "洪湖莲藕为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-honghu-lotus-root",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "prov-sd-zhangqiu-chicken",
+    "name": "章丘铁锅炖鸡",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "provinces": [
+      "山东"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "章丘铁锅炖鸡"
+    ],
+    "baseFoodId": null,
+    "giSystems": [
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "章丘铁锅炖鸡为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "provincial",
+      "sourceUrl": "",
+      "sourceId": "prov-sd-zhangqiu-chicken",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-neijiang-sugarcane",
+    "name": "内江甘蔗",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "四川"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "内江甘蔗"
+    ],
+    "baseFoodId": "sugarcane",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "内江甘蔗为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-neijiang-sugarcane",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-fuping-persimmon",
+    "name": "富平柿饼",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "陕西"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "富平柿饼"
+    ],
+    "baseFoodId": "persimmon",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "富平柿饼为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-fuping-persimmon",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-linan-green-plum",
+    "name": "临安青梅",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "浙江"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "临安青梅"
+    ],
+    "baseFoodId": null,
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "临安青梅为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-linan-green-plum",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-jianou-bamboo-shoot",
+    "name": "建瓯笋干",
+    "category": "蔬菜",
+    "nature": "平",
+    "provinces": [
+      "福建"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "建瓯笋干"
+    ],
+    "baseFoodId": "bamboo-shoot",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "建瓯笋干为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-jianou-bamboo-shoot",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-enshi-potato",
+    "name": "恩施土豆",
+    "category": "薯类",
+    "nature": "平",
+    "provinces": [
+      "湖北"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "恩施土豆"
+    ],
+    "baseFoodId": "cat-veg-221",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "恩施土豆为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-enshi-potato",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-zhaotong-gastrodia",
+    "name": "昭通天麻",
+    "category": "中药材",
+    "nature": "平",
+    "provinces": [
+      "云南"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "昭通天麻"
+    ],
+    "baseFoodId": "gastrodia-elata",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "昭通天麻为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-zhaotong-gastrodia",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-wenshan-dendrobium",
+    "name": "文山铁皮石斛",
+    "category": "中药材",
+    "nature": "平",
+    "provinces": [
+      "云南"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "文山铁皮石斛"
+    ],
+    "baseFoodId": "dendrobium-officinale",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "文山铁皮石斛为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-wenshan-dendrobium",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-bozhou-peony-root",
+    "name": "亳州白芍",
+    "category": "中药材",
+    "nature": "平",
+    "provinces": [
+      "安徽"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "亳州白芍"
+    ],
+    "baseFoodId": "paeonia-lactiflora",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "亳州白芍为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-bozhou-peony-root",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-minxian-codonopsis",
+    "name": "岷县党参",
+    "category": "食药物质",
+    "nature": "平",
+    "provinces": [
+      "甘肃"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "岷县党参"
+    ],
+    "baseFoodId": "codonopsis",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "岷县党参为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-minxian-codonopsis",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "mara-yuexi-poria",
+    "name": "岳西茯苓",
+    "category": "食药物质",
+    "nature": "平",
+    "provinces": [
+      "安徽"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "岳西茯苓"
+    ],
+    "baseFoodId": "poria-cocos",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": null,
+    "summary": "岳西茯苓为公开地理标志名录整理条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-yuexi-poria",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    }
+  },
+  {
     "id": "yangcheng-lake-crab",
     "name": "阳澄湖大闸蟹",
     "category": "海产",
@@ -2862,7 +4272,7 @@
       "sourceId": "mara-enshi-yulu",
       "fetchedAt": "2026-06-08"
     },
-    "baseFoodId": null
+    "baseFoodId": "mara-enshi-yulu-manifest"
   },
   {
     "id": "duyun-maojian-gi",
