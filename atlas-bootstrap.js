@@ -67,9 +67,16 @@
 
   window.__atlasDeferBoot = true;
 
+  function notifyInstallPromptReady() {
+    if (window.__atlasInstallPrompt) {
+      window.dispatchEvent(new Event("atlas:beforeinstallprompt"));
+    }
+  }
+
   function startApp() {
     return loadScript("app.js").then(() => {
       if (typeof window.atlasBoot === "function") window.atlasBoot();
+      notifyInstallPromptReady();
     });
   }
 

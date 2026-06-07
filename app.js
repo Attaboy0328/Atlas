@@ -1445,33 +1445,72 @@ else window.atlasBoot = boot;
 
 let navStackDepth = 0;
 
+function isPwaStandalone() {
+  return window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
+}
+
+function hasPwaInstallPrompt() {
+  return Boolean(window.__atlasInstallPrompt);
+}
+
 function setupPwaInstallUi() {
-  const banner = document.getElementById("pwaInstallBanner");
-  const installBtn = document.getElementById("pwaInstallBtn");
-  const dismissBtn = document.getElementById("pwaInstallDismiss");
-  if (!banner || !installBtn || !dismissBtn) return;
-
-  const dismissed = localStorage.getItem("atlas-pwa-install-dismissed") === "1";
-  const showBanner = () => {
-    if (dismissed || window.matchMedia("(display-mode: standalone)").matches) return;
-    banner.hidden = false;
+  const refreshProfileInstall = () => {
+    if (state.view === "profile") render();
   };
-
-  window.addEventListener("atlas:beforeinstallprompt", showBanner);
-
-  installBtn.addEventListener("click", async () => {
-    const prompt = window.__atlasInstallPrompt;
-    if (!prompt) return;
-    await prompt.prompt();
-    await prompt.userChoice;
+  window.addEventListener("atlas:beforeinstallprompt", refreshProfileInstall);
+  window.addEventListener("appinstalled", () => {
     window.__atlasInstallPrompt = null;
-    banner.hidden = true;
+    if (state.view === "profile") render();
+    showToast("已安装到主屏幕");
   });
+}
 
-  dismissBtn.addEventListener("click", () => {
-    localStorage.setItem("atlas-pwa-install-dismissed", "1");
-    banner.hidden = true;
-  });
+async function triggerPwaInstall() {
+  const prompt = window.__atlasInstallPrompt;
+  if (!prompt) {
+    showToast("当前环境无法一键安装，请用浏览器菜单「添加到主屏幕」");
+    return;
+  }
+  try {
+    prompt.prompt();
+    const choice = await prompt.userChoice;
+    window.__atlasInstallPrompt = null;
+    if (choice.outcome === "accepted") {
+      showToast("正在安装…");
+    } else {
+      showToast("已取消安装");
+    }
+    render();
+  } catch {
+    showToast("安装未完成，请用浏览器菜单「添加到主屏幕」");
+  }
+}
+
+function renderPwaInstallSection() {
+  if (isPwaStandalone()) {
+    return `
+      <section class="detail-section pwa-install-panel">
+        <h2 class="section-title">安装应用</h2>
+        <p class="section-copy">你正在以独立应用方式使用食养知行，数据会缓存在本机以便更快打开。</p>
+      </section>
+    `;
+  }
+
+  const canInstall = hasPwaInstallPrompt();
+  return `
+    <section class="detail-section pwa-install-panel">
+      <h2 class="section-title">安装到主屏幕</h2>
+      <p class="section-copy">可选安装为桌面应用，离线缓存食材与食疗数据，打开更快。需要时在此主动安装，不会自动弹窗打扰。</p>
+      <button type="button" class="action-button pwa-install-button" id="pwaInstallBtn" ${canInstall ? "" : "disabled"}>
+        ${canInstall ? "安装应用" : "暂不可一键安装"}
+      </button>
+      <p class="section-copy pwa-install-hint">
+        ${canInstall
+          ? "点击后将由浏览器弹出安装确认。"
+          : "iPhone：Safari 打开本页 → 分享 →「添加到主屏幕」。Android / 电脑：Chrome 或 Edge 菜单中的「安装应用」或「添加到主屏幕」。"}
+      </p>
+    </section>
+  `;
 }
 
 function boot() {
@@ -2527,6 +2566,13 @@ function bindProfileEvents() {
     });
   });
 
+  const installBtn = app.querySelector("#pwaInstallBtn");
+  if (installBtn && !installBtn.disabled) {
+    installBtn.addEventListener("click", () => {
+      triggerHapticFeedback();
+      triggerPwaInstall();
+    });
+  }
 }
 
 function rerenderCurrent(options = {}) {
@@ -3298,6 +3344,8 @@ function renderProfile() {
       <h1>我的食养档案</h1>
       <p>个人提醒会影响食材详情与搭配检查的提示优先级，数据仅保存在当前浏览器。</p>
     </section>
+
+    ${renderPwaInstallSection()}
 
     <section class="profile-panel">
       <h2 class="section-title">个人提醒</h2>
