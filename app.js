@@ -67,6 +67,17 @@ const HOME_LIBRARY_SHORTCUTS = [
   { label: "道地产区", cert: "道地", tone: "#6b5b8a", pale: "#ece8f2", hint: "药材志道地整理" },
   { label: "中药材", kind: "tcm-herb", tone: "#7a4a4a", pale: "#f3e8e8", hint: "药典2025参考查阅" }
 ];
+
+const FOOD_SEARCH_NEAR_HINTS = [
+  { terms: ["牛排", "牛扒", "steak", "niupai", "niupaai"], ids: ["beef-steak", "beef-sirloin-steak", "beef-ribeye-steak", "beef-tenderloin-steak", "beef"] },
+  { terms: ["水牛奶", "水牛乳", "buffalo milk", "shuiniunai"], ids: ["buffalo-milk", "milk"] },
+  { terms: ["蟛蜞", "招潮蟹", "蟳蜞", "pengqi"], ids: ["sesarmid-crab", "crab"] },
+  { terms: ["西冷", "sirloin"], ids: ["beef-sirloin-steak", "beef-steak", "beef"] },
+  { terms: ["菲力", "tenderloin", "fillet"], ids: ["beef-tenderloin-steak", "beef-steak", "beef"] },
+  { terms: ["眼肉", "肋眼", "ribeye"], ids: ["beef-ribeye-steak", "beef-steak", "beef"] }
+];
+
+const FOOD_SEARCH_PLACEHOLDER = "搜索食材、茶类、别名或首字母，如：木姜子 / mjz";
 const PROVINCE_FILTER_EXPAND_LIMIT = 12;
 const ETHNIC_FILTER_EXPAND_LIMIT = 10;
 const PAIRING_CATEGORY_ORDER = ["现代安全", "传统食养", "民间迷思"];
@@ -1829,6 +1840,18 @@ function navigateToLibraryFromHome({ nature, topic, kind, cert, daoDiSystem, que
   }
   if (query !== undefined) {
     state.libraryQuery = query;
+    if (cleanString(query)) {
+      state.libraryKind = "全部";
+      state.libraryCertFilter = "";
+      state.libraryDaoDiSystem = "";
+      state.libraryOfficialBatch = "全部";
+      state.libraryNature = "全部";
+      state.libraryCategory = "全部";
+      state.libraryRegion = "ALL";
+      state.libraryProvince = "全部";
+      state.libraryEthnic = "全部";
+      state.libraryTopic = "";
+    }
   }
   state.homeQuery = "";
   navigate("library");
@@ -3311,6 +3334,9 @@ function renderLibraryFilterSections() {
 function renderHomeV2() {
   const homeMatches = state.homeQuery ? searchFoods(state.homeQuery, { limit: 6 }) : [];
   const totalHomeMatches = state.homeQuery ? searchFoods(state.homeQuery).length : 0;
+  const homeNearMatches = state.homeQuery && !homeMatches.length
+    ? suggestNearFoodMatches(state.homeQuery)
+    : [];
   const natureTiles = ["寒", "凉", "平", "温", "热"]
     .map((nature) => {
       const meta = NATURE_META[nature];
@@ -3356,7 +3382,7 @@ function renderHomeV2() {
       <h1>察食性，明食理<br>知食性，辨宜忌</h1>
       ${searchField({
         id: "homeSearch",
-        placeholder: "搜索食材、别名、功效或首字母，如：木姜子 / mjz",
+        placeholder: FOOD_SEARCH_PLACEHOLDER,
         buttonAttr: "data-home-search",
         buttonLabel: "搜索食材",
         action: true,
@@ -3365,16 +3391,9 @@ function renderHomeV2() {
       ${state.homeQuery
         ? `<div class="hero-search-results">
             ${homeMatches.length
-              ? homeMatches.map((food) => `
-                <button class="suggestion-row hero-suggestion-row" data-open-home-food="${food.id}">
-                  <div class="food-main">
-                    <strong>${food.name}</strong>
-                    <small>${foodListMeta(food)}</small>
-                  </div>
-                  ${natureBadge(food.nature)}
-                </button>
-              `).join("")
-              : `<div class="empty-inline">没搜到匹配食材，试试别名、拼音首字母或功效词。</div>`}
+              ? homeMatches.map((food) => foodRow(food, { compact: true, showOriginBadges: false, home: true })).join("")
+              : `${renderNearMatchBlock(state.homeQuery, homeNearMatches, { dataAttr: "data-open-home-food" })}
+                 ${homeNearMatches.length ? "" : `<div class="empty-inline">没搜到匹配食材，试试别名、拼音首字母或功效词。</div>`}`}
             ${totalHomeMatches > homeMatches.length
               ? `<button class="plain-button hero-view-all" type="button" data-home-view-library="true">在食材库查看全部 ${totalHomeMatches} 条</button>`
               : totalHomeMatches > 1
@@ -3444,7 +3463,7 @@ function renderLibrary() {
 
     ${renderStickyBrowseToolbar({
       searchId: "libraryQuery",
-      placeholder: "搜索食材、茶类、别名或首字母，如：木姜子 / mjz",
+      placeholder: FOOD_SEARCH_PLACEHOLDER,
       queryValue: state.libraryQuery,
       filterScope: "library",
       summary: getLibraryFilterSummary(),
@@ -3456,7 +3475,11 @@ function renderLibrary() {
     })}
 
     <section class="food-list">
-      ${items.length ? items.map(foodRow).join("") : emptyState("暂时没有匹配项", "换个别名、功效词或地区试试。", true)}
+      ${items.length
+        ? items.map((food) => foodRow(food)).join("")
+        : `${cleanString(state.libraryQuery)
+          ? renderNearMatchBlock(state.libraryQuery, suggestNearFoodMatches(state.libraryQuery))
+          : ""}${emptyState("暂时没有匹配项", cleanString(state.libraryQuery) && suggestNearFoodMatches(state.libraryQuery).length ? "也可点击上方相近条目继续查看。" : "换个别名、功效词或地区试试。", true)}`}
     </section>
   `;
 }
@@ -3565,15 +3588,7 @@ function renderChecker() {
         ? `
           <div class="suggestion-list suggestion-list-card">
             ${suggestions.length
-              ? suggestions.map((food) => `
-                <button class="suggestion-row" data-add-food="${food.id}">
-                  <div class="food-main">
-                    <strong>${food.name}</strong>
-                    <small>${foodListMeta(food) || food.category}</small>
-                  </div>
-                  ${natureBadge(food.nature)}
-                </button>
-              `).join("")
+              ? suggestions.map((food) => foodRow(food, { compact: true, showOriginBadges: false, checkerPick: true })).join("")
               : `
                 <div class="empty-suggestion-state" style="text-align: center; padding: 18px 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;">
                   <span style="color: var(--ink-soft); font-size: 13px;">没搜到对应食材，试试名称、别名、全拼或首字母。</span>
@@ -3803,10 +3818,56 @@ function matchLibraryKind(food, kind) {
   return true;
 }
 
+function isFoodSearchVisible(food) {
+  return Boolean(food) && !food.hiddenFromLibrary;
+}
+
+function suggestNearFoodMatches(query, excludeIds = []) {
+  const term = cleanString(query).toLowerCase();
+  if (!term) return [];
+
+  const exclude = new Set((excludeIds || []).map((id) => resolveFoodId(id)));
+  const hits = [];
+  const seen = new Set();
+
+  FOOD_SEARCH_NEAR_HINTS.forEach((hint) => {
+    if (!hint.terms.some((item) => {
+      const normalized = cleanString(item).toLowerCase();
+      return normalized === term || term.includes(normalized) || normalized.includes(term);
+    })) return;
+
+    hint.ids.forEach((id) => {
+      const resolved = resolveFoodId(id);
+      const food = foodMap.get(resolved);
+      if (!isFoodSearchVisible(food) || exclude.has(resolved) || seen.has(resolved)) return;
+      seen.add(resolved);
+      hits.push(food);
+    });
+  });
+
+  return hits;
+}
+
+function renderNearMatchBlock(query, matches, { dataAttr = "data-open-food", limit = 4 } = {}) {
+  const items = (matches || []).slice(0, limit);
+  if (!items.length) return "";
+
+  return `
+    <div class="near-match-block">
+      <strong>没找到「${escapeHtml(cleanString(query))}」的精确条目，是否查看：</strong>
+      <div class="near-match-links">
+        ${items.map((food) => `
+          <button type="button" class="plain-button" ${dataAttr}="${food.id}">${food.name}</button>
+        `).join("")}
+      </div>
+    </div>
+  `;
+}
+
 function searchFoods(query, options = {}) {
   const term = cleanString(query).toLowerCase();
   const excludeIds = options.excludeIds || [];
-  let items = foods.filter((food) => !excludeIds.includes(food.id));
+  let items = foods.filter((food) => !excludeIds.includes(food.id) && isFoodSearchVisible(food));
 
   if (term) {
     items = items.filter((food) => food.searchBlob.includes(term));
@@ -3969,13 +4030,22 @@ function foodOriginBadges(food) {
   return badges.length ? `<div class="food-row-badges">${badges.join("")}</div>` : "";
 }
 
-function foodRow(food) {
+function foodRow(food, options = {}) {
+  const { compact = false, showOriginBadges = true, home = false, checkerPick = false } = options;
+  const dataAttr = checkerPick ? "data-add-food" : (home ? "data-open-home-food" : "data-open-food");
+  const classes = [
+    "food-row",
+    "suggestion-row",
+    compact ? "food-row-compact" : "",
+    home ? "hero-suggestion-row" : ""
+  ].filter(Boolean).join(" ");
+
   return `
-    <button class="food-row" data-open-food="${food.id}">
+    <button type="button" class="${classes}" ${dataAttr}="${food.id}">
       <div class="food-main">
         <div class="food-main-head">
           <strong>${food.name}</strong>
-          ${foodOriginBadges(food)}
+          ${showOriginBadges ? foodOriginBadges(food) : ""}
         </div>
         <small>${foodListMeta(food)}</small>
       </div>
@@ -4307,6 +4377,18 @@ function handleHomeSearchSubmit() {
   }
 
   if (matches.length > 1) {
+    navigateToLibraryFromHome({ query: term });
+    return;
+  }
+
+  const nearMatches = suggestNearFoodMatches(term);
+  if (nearMatches.length === 1) {
+    state.homeQuery = "";
+    openFoodDetail(nearMatches[0].id);
+    render();
+    return;
+  }
+  if (nearMatches.length > 1) {
     navigateToLibraryFromHome({ query: term });
     return;
   }

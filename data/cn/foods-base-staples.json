@@ -109,7 +109,7 @@
     "aliases": ["牛腩", "牛腱"],
     "pinyin": "niurou",
     "initials": "nr",
-    "searchTerms": ["niurou", "nr", "beef", "牛肉"],
+    "searchTerms": ["niurou", "nr", "beef", "牛肉", "牛扒", "steak"],
     "summary": "高蛋白红肉，偏温，宜炖、卤、清汤。",
     "caution": "高尿酸、湿热内盛者适量。"
   },
@@ -157,7 +157,7 @@
     "aliases": ["牛乳", "鲜奶"],
     "pinyin": "niunai",
     "initials": "nn",
-    "searchTerms": ["niunai", "nn", "milk", "牛奶"],
+    "searchTerms": ["niunai", "nn", "milk", "牛奶", "牛乳", "鲜奶"],
     "summary": "常见乳制品，偏平，宜温饮。",
     "caution": "乳糖不耐受者慎用；一岁以下婴儿不宜替代母乳。"
   },

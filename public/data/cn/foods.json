@@ -1306,6 +1306,38 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "sashimi-salmon",
+    "name": "刺身三文鱼",
+    "en": "sashimi salmon",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "补虚",
+      "润燥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "三文鱼刺身",
+      "生三文鱼"
+    ],
+    "pinyin": "cishensguiyu",
+    "initials": "cssgy",
+    "searchTerms": [
+      "cishen",
+      "cs",
+      "sashimi salmon",
+      "刺身三文鱼",
+      "三文鱼刺身"
+    ],
+    "summary": "生食级三文鱼切片，偏平，宜冷链可靠来源。",
+    "caution": "孕妇、免疫低下者慎生食；注意寄生虫与冷链风险。"
+  },
+  {
     "id": "vinegar",
     "name": "醋",
     "en": "vinegar",
@@ -2240,6 +2272,41 @@
     ],
     "summary": "番石榴，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "beef-tenderloin-steak",
+    "name": "菲力牛排",
+    "en": "tenderloin steak",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补气",
+      "强筋"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "里脊牛排",
+      "嫩里脊"
+    ],
+    "pinyin": "feiliniupai",
+    "initials": "flnp",
+    "searchTerms": [
+      "feili",
+      "fl",
+      "tenderloin",
+      "fillet",
+      "菲力",
+      "菲力牛排",
+      "里脊牛排"
+    ],
+    "baseFoodId": "beef",
+    "summary": "牛里脊最嫩段，纤维细，偏温，宜快煎或低温烹调。",
+    "caution": "高尿酸者适量；不宜半生。"
   },
   {
     "id": "vermicelli",
@@ -4065,6 +4132,40 @@
     "caution": "实热、外感初起者不宜。"
   },
   {
+    "id": "yellowfin-bream",
+    "name": "黄鳍鲷",
+    "en": "yellowfin bream",
+    "category": "河鲜",
+    "nature": "平",
+    "effects": [
+      "补虚",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建",
+      "海南"
+    ],
+    "aliases": [
+      "黄脚立",
+      "黄鳍立"
+    ],
+    "pinyin": "huangqidiao",
+    "initials": "hqd",
+    "searchTerms": [
+      "huangqidiao",
+      "hqd",
+      "yellowfin bream",
+      "黄鳍鲷",
+      "黄脚立"
+    ],
+    "summary": "岭南近海常见鲷类，肉质细嫩，宜清蒸、煎焗。",
+    "caution": "海鲜过敏者禁食。"
+  },
+  {
     "id": "yellow-catfish",
     "name": "黄颡鱼",
     "en": "yellow catfish",
@@ -4239,6 +4340,39 @@
       "hgdl"
     ],
     "summary": "川渝复合调味，偏热辣。"
+  },
+  {
+    "id": "hotpot-beef-slice",
+    "name": "火锅肥牛",
+    "en": "hotpot beef slice",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补气",
+      "暖胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "肥牛卷",
+      "涮牛肉"
+    ],
+    "pinyin": "huoguofeiniu",
+    "initials": "hgfn",
+    "searchTerms": [
+      "feiniu",
+      "fn",
+      "hotpot beef",
+      "火锅肥牛",
+      "肥牛卷"
+    ],
+    "baseFoodId": "beef",
+    "summary": "薄切涮火锅牛肉，偏温，宜搭配蔬菜、少蘸高油酱料。",
+    "caution": "痛风、湿热者适量；不宜过烫久涮。"
   },
   {
     "id": "dragon-fruit",
@@ -6211,6 +6345,39 @@
     "caution": "必须彻底煮熟；脾胃虚寒、腹泻者不宜多食。"
   },
   {
+    "id": "camel-milk",
+    "name": "骆驼奶",
+    "en": "camel milk",
+    "category": "饮品",
+    "nature": "平",
+    "effects": [
+      "补虚",
+      "润燥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆",
+      "内蒙古"
+    ],
+    "aliases": [
+      "驼奶"
+    ],
+    "pinyin": "luotuonai",
+    "initials": "ltn",
+    "searchTerms": [
+      "luotuonai",
+      "ltn",
+      "camel milk",
+      "骆驼奶",
+      "驼奶"
+    ],
+    "baseFoodId": "milk",
+    "summary": "西北特色乳品，传统游牧饮食常见。",
+    "caution": "乳糖不耐受者慎用；婴幼儿不宜替代配方奶。"
+  },
+  {
     "id": "purslane",
     "name": "马齿苋",
     "en": "purslane",
@@ -6441,6 +6608,43 @@
     ],
     "summary": "毛笋，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "yak-milk",
+    "name": "牦牛奶",
+    "en": "yak milk",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "补虚",
+      "御寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏",
+      "青海",
+      "四川"
+    ],
+    "ethnicGroups": [
+      "藏族"
+    ],
+    "aliases": [
+      "酥油奶源"
+    ],
+    "pinyin": "maoniunai",
+    "initials": "mnn",
+    "searchTerms": [
+      "maoniunai",
+      "mnn",
+      "yak milk",
+      "牦牛奶",
+      "藏区乳品"
+    ],
+    "baseFoodId": "milk",
+    "summary": "高原牦牛乳，多用于酥油茶、酸奶等传统饮食。",
+    "caution": "乳糖不耐受者慎用。"
   },
   {
     "id": "tibetan-yak-butter",
@@ -7127,10 +7331,47 @@
       "niunai",
       "nn",
       "milk",
-      "牛奶"
+      "牛奶",
+      "牛乳",
+      "鲜奶"
     ],
     "summary": "常见乳制品，偏平，宜温饮。",
     "caution": "乳糖不耐受者慎用；一岁以下婴儿不宜替代母乳。"
+  },
+  {
+    "id": "beef-steak",
+    "name": "牛排",
+    "en": "beef steak",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补气",
+      "强筋"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "牛扒",
+      "煎牛排"
+    ],
+    "pinyin": "niupaai",
+    "initials": "np",
+    "searchTerms": [
+      "niupai",
+      "np",
+      "niupaai",
+      "steak",
+      "beef steak",
+      "牛排",
+      "牛扒"
+    ],
+    "baseFoodId": "beef",
+    "summary": "西式牛里脊或外脊煎烤部位，偏温，宜适量、少油烹调。",
+    "caution": "高尿酸、湿热内盛者适量；不宜半生食用。"
   },
   {
     "id": "beef",
@@ -7160,7 +7401,9 @@
       "niurou",
       "nr",
       "beef",
-      "牛肉"
+      "牛肉",
+      "牛扒",
+      "steak"
     ],
     "summary": "高蛋白红肉，偏温，宜炖、卤、清汤。",
     "caution": "高尿酸、湿热内盛者适量。"
@@ -7295,6 +7538,44 @@
     ],
     "summary": "常见淡水蟹，多秋季食用。",
     "caution": "脾胃虚寒、孕妇慎食。"
+  },
+  {
+    "id": "sesarmid-crab",
+    "name": "蟛蜞",
+    "en": "sesarmid crab",
+    "category": "河鲜",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "通络"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "广西",
+      "福建"
+    ],
+    "aliases": [
+      "招潮蟹",
+      "蟳蜞",
+      "海蟛蜞"
+    ],
+    "pinyin": "pengqi",
+    "initials": "pq",
+    "searchTerms": [
+      "pengqi",
+      "pq",
+      "sesarmid crab",
+      "fiddler crab",
+      "蟛蜞",
+      "招潮蟹",
+      "蟳蜞",
+      "岭南河鲜"
+    ],
+    "summary": "岭南河滩小蟹，多腌渍、炒制或入羹；与河蟹、青蟹品类不同。",
+    "caution": "脾胃虚寒、孕妇及痛风者慎食；须彻底做熟。"
   },
   {
     "id": "preserved-egg",
@@ -8644,6 +8925,40 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "buffalo-milk",
+    "name": "水牛奶",
+    "en": "buffalo milk",
+    "category": "饮品",
+    "nature": "平",
+    "effects": [
+      "补虚",
+      "润燥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "aliases": [
+      "水牛乳",
+      "顺德水牛奶"
+    ],
+    "pinyin": "shuiniunai",
+    "initials": "snn",
+    "searchTerms": [
+      "shuiniunai",
+      "snn",
+      "buffalo milk",
+      "水牛奶",
+      "双皮奶",
+      "姜撞奶"
+    ],
+    "baseFoodId": "milk",
+    "summary": "岭南特色乳品，脂肪与蛋白含量常高于普通牛奶，多用于双皮奶、姜撞奶等。",
+    "caution": "乳糖不耐受者慎用；婴幼儿不宜替代配方奶。"
+  },
+  {
     "id": "water-celery",
     "name": "水芹",
     "en": "water celery",
@@ -9256,6 +9571,40 @@
     "summary": "国家食药同源目录条目，常见于饮品和酸收类整理场景。"
   },
   {
+    "id": "grey-mullet",
+    "name": "乌头",
+    "en": "grey mullet",
+    "category": "河鲜",
+    "nature": "平",
+    "effects": [
+      "补虚",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建"
+    ],
+    "aliases": [
+      "乌鱼",
+      "鲻鱼"
+    ],
+    "pinyin": "wutou",
+    "initials": "wt",
+    "searchTerms": [
+      "wutou",
+      "wt",
+      "mullet",
+      "乌头",
+      "乌鱼",
+      "鲻鱼"
+    ],
+    "summary": "咸淡水兼宜鱼类，岭南常见，宜清蒸、煲汤。",
+    "caution": "海鲜过敏者禁食。"
+  },
+  {
     "id": "fig",
     "name": "无花果",
     "en": "fig",
@@ -9490,6 +9839,40 @@
     ],
     "summary": "十字花科蔬菜，纤维与维生素丰富。",
     "caution": "甲状腺问题者大量生食需咨询医生。"
+  },
+  {
+    "id": "beef-sirloin-steak",
+    "name": "西冷牛排",
+    "en": "sirloin steak",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补气",
+      "强筋"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "西冷",
+      "沙朗牛排"
+    ],
+    "pinyin": "xilengniupai",
+    "initials": "xlnp",
+    "searchTerms": [
+      "xileng",
+      "xl",
+      "sirloin",
+      "西冷",
+      "西冷牛排",
+      "沙朗"
+    ],
+    "baseFoodId": "beef",
+    "summary": "牛外脊部位，脂香明显，偏温，煎烤常见。",
+    "caution": "控脂、痛风人群适量。"
   },
   {
     "id": "celery-stalk",
@@ -10470,6 +10853,40 @@
       "yjlm"
     ],
     "summary": "延边朝鲜族冷面。"
+  },
+  {
+    "id": "beef-ribeye-steak",
+    "name": "眼肉牛排",
+    "en": "ribeye steak",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补气",
+      "强筋"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "肋眼牛排",
+      "肉眼牛排"
+    ],
+    "pinyin": "yanrouniupai",
+    "initials": "yrnp",
+    "searchTerms": [
+      "yanrou",
+      "yr",
+      "ribeye",
+      "眼肉",
+      "眼肉牛排",
+      "肋眼"
+    ],
+    "baseFoodId": "beef",
+    "summary": "牛肋脊附近油花丰富部位，偏温，香嫩但脂含量较高。",
+    "caution": "高脂血症、控脂期注意份量。"
   },
   {
     "id": "oats",
@@ -11549,6 +11966,39 @@
     ],
     "summary": "香气浓郁，宜凉拌、出锅提香。",
     "caution": "油脂含量高，腹泻、肥胖者适量。"
+  },
+  {
+    "id": "pork-chop",
+    "name": "猪扒",
+    "en": "pork chop",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "滋阴",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "猪排",
+      "里脊猪扒"
+    ],
+    "pinyin": "zhupa",
+    "initials": "zp",
+    "searchTerms": [
+      "zhupa",
+      "zp",
+      "pork chop",
+      "猪扒",
+      "猪排"
+    ],
+    "baseFoodId": "pork",
+    "summary": "西式猪里脊或梅花部位切片，多煎、炸、焗。",
+    "caution": "高脂、控重人群注意用油与份量。"
   },
   {
     "id": "pork",

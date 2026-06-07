@@ -698,12 +698,9 @@ button {
 .recipe-row,
 .suggestion-row {
   width: 100%;
-  min-height: 84px;
   display: grid;
-  grid-template-columns: auto 1fr auto;
-  gap: 12px;
+  gap: 10px;
   align-items: center;
-  padding: 16px 16px;
   border: 1px solid color-mix(in srgb, var(--line) 78%, transparent);
   text-align: left;
   border-radius: var(--radius-card);
@@ -1646,9 +1643,31 @@ button {
   text-underline-offset: 2px;
 }
 
+.food-row,
+.suggestion-row {
+  grid-template-columns: minmax(0, 1fr) auto;
+  min-height: 64px;
+  padding: 11px 12px;
+}
+
+.food-row .pill-badge {
+  justify-self: end;
+  flex-shrink: 0;
+  min-height: 24px;
+  padding: 0 10px;
+  white-space: nowrap;
+}
+
+.food-row-compact {
+  min-height: 56px;
+  padding: 10px 12px;
+}
+
 .recipe-row {
-  grid-template-columns: auto 1fr;
+  grid-template-columns: auto minmax(0, 1fr);
   align-items: start;
+  min-height: 72px;
+  padding: 12px 12px;
 }
 
 .recipe-row-main {
@@ -1676,6 +1695,13 @@ button {
   justify-content: flex-end;
   gap: 6px;
   flex-shrink: 0;
+}
+
+.recipe-row-syndrome {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
 }
 
 .recipe-row-subtitle {
@@ -1960,11 +1986,14 @@ button {
 }
 
 .hero-suggestion-row {
-  min-height: 56px;
-  padding: 12px;
   border: 1px solid color-mix(in srgb, var(--line) 72%, transparent);
   border-radius: 14px;
   background: color-mix(in srgb, var(--surface) 94%, white);
+}
+
+.hero-search-results .food-row + .food-row,
+.hero-search-results .near-match-block + .food-row {
+  margin-top: 8px;
 }
 
 .hero-suggestion-row:hover,
@@ -2087,7 +2116,27 @@ button {
 
 .suggestion-row {
   min-height: 58px;
-  grid-template-columns: 1fr auto;
+}
+
+.near-match-block {
+  margin-top: 8px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--green-pale) 24%, var(--surface));
+  border: 1px solid color-mix(in srgb, var(--green) 18%, var(--line));
+}
+
+.near-match-block strong {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+
+.near-match-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 .suggestion-row[disabled] {

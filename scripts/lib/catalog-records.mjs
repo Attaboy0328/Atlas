@@ -27,6 +27,7 @@ const CN_FILE_PRIORITY = {
   "regional-foods.json": "cn",
   "foods-regional-batch2.json": "cn",
   "foods-seasonal-river.json": "cn",
+  "foods-modern-regional-batch.json": "cn-ingredients",
   "foods-pairing-supplement.json": "cn"
 };
 

@@ -1,4 +1,4 @@
-const CACHE_NAME = "atlas-v14";
+const CACHE_NAME = "atlas-v15";
 const PRECACHE = [
   "./",
   "./index.html",

@@ -540,6 +540,11 @@
     "note": "auto: duplicate name「金针菇」→ enoki-mushroom"
   },
   {
+    "alias": "fiddler-crab",
+    "canonical": "sesarmid-crab",
+    "note": "招潮蟹/蟛蜞英文别名"
+  },
+  {
     "alias": "fructus-piperis",
     "canonical": "pepper-spice",
     "note": "胡椒"
@@ -653,6 +658,11 @@
     "alias": "ningxia-goji",
     "canonical": "goji-berry",
     "note": "宁夏枸杞区域条目归并到枸杞基原"
+  },
+  {
+    "alias": "niupai",
+    "canonical": "beef-steak",
+    "note": "牛排拼音 id 别名"
   },
   {
     "alias": "official-almond",
@@ -1080,6 +1090,11 @@
     "note": "auto: duplicate name「酸笋」→ dai-sour-bamboo"
   },
   {
+    "alias": "steak",
+    "canonical": "beef-steak",
+    "note": "西式牛排检索别名"
+  },
+  {
     "alias": "tremella",
     "canonical": "white-fungus",
     "note": "银耳"
@@ -1093,6 +1108,11 @@
     "alias": "vinegar-cu",
     "canonical": "vinegar",
     "note": "auto: duplicate name「醋」→ vinegar"
+  },
+  {
+    "alias": "water-buffalo-milk",
+    "canonical": "buffalo-milk",
+    "note": "水牛奶英文检索别名"
   },
   {
     "alias": "whiteleg-shrimp",
