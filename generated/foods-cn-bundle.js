@@ -50,7 +50,8 @@ const CN_SUPPLEMENT_FOODS = [
       "白豆蔻",
       "豆蔻"
     ],
-    "summary": "白豆蔻，常见于中式饮食与地方菜。"
+    "summary": "白豆蔻，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "white-pepper",
@@ -78,7 +79,8 @@ const CN_SUPPLEMENT_FOODS = [
       "white pepper",
       "白胡椒"
     ],
-    "summary": "白胡椒，常见于中式饮食与地方菜。"
+    "summary": "白胡椒，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "white-radish",
@@ -109,7 +111,8 @@ const CN_SUPPLEMENT_FOODS = [
       "白萝卜",
       "萝卜"
     ],
-    "summary": "白萝卜，常见于中式饮食与地方菜。"
+    "summary": "白萝卜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "bai-three-course-tea",
@@ -168,7 +171,8 @@ const CN_SUPPLEMENT_FOODS = [
       "百香果",
       "鸡蛋果"
     ],
-    "summary": "百香果，常见于中式饮食与地方菜。"
+    "summary": "百香果，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "cabbage",
@@ -201,7 +205,8 @@ const CN_SUPPLEMENT_FOODS = [
       "卷心菜",
       "圆白菜"
     ],
-    "summary": "包菜，常见于中式饮食与地方菜。"
+    "summary": "包菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "mint",
@@ -232,7 +237,8 @@ const CN_SUPPLEMENT_FOODS = [
       "薄荷",
       "银丹草"
     ],
-    "summary": "薄荷，常见于中式饮食与地方菜。"
+    "summary": "薄荷，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "chinese-artichoke",
@@ -264,7 +270,8 @@ const CN_SUPPLEMENT_FOODS = [
       "地蚕",
       "甘露子"
     ],
-    "summary": "宝塔菜，常见于中式饮食与地方菜。"
+    "summary": "宝塔菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "brussels-sprouts",
@@ -294,7 +301,8 @@ const CN_SUPPLEMENT_FOODS = [
       "抱子甘蓝",
       "小卷心菜"
     ],
-    "summary": "抱子甘蓝，常见于中式饮食与地方菜。"
+    "summary": "抱子甘蓝，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "abalone",
@@ -322,7 +330,8 @@ const CN_SUPPLEMENT_FOODS = [
       "abalone",
       "鲍鱼"
     ],
-    "summary": "鲍鱼，常见于中式饮食与地方菜。"
+    "summary": "鲍鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "beijing-douzhi",
@@ -398,7 +407,8 @@ const CN_SUPPLEMENT_FOODS = [
       "马蹄",
       "地栗"
     ],
-    "summary": "荸荠，常见于中式饮食与地方菜。"
+    "summary": "荸荠，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "flat-bream",
@@ -459,7 +469,8 @@ const CN_SUPPLEMENT_FOODS = [
       "spinach",
       "菠菜"
     ],
-    "summary": "菠菜，常见于中式饮食与地方菜。"
+    "summary": "菠菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "pineapple",
@@ -490,7 +501,8 @@ const CN_SUPPLEMENT_FOODS = [
       "菠萝",
       "凤梨"
     ],
-    "summary": "菠萝，常见于中式饮食与地方菜。"
+    "summary": "菠萝，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "buyi-cuomian",
@@ -549,7 +561,8 @@ const CN_SUPPLEMENT_FOODS = [
       "菜心",
       "菜薹"
     ],
-    "summary": "菜心，常见于中式饮食与地方菜。"
+    "summary": "菜心，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "broad-bean",
@@ -579,7 +592,8 @@ const CN_SUPPLEMENT_FOODS = [
       "蚕豆",
       "胡豆"
     ],
-    "summary": "蚕豆，常见于中式饮食与地方菜。"
+    "summary": "蚕豆，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "broad-bean-pod",
@@ -642,7 +656,8 @@ const CN_SUPPLEMENT_FOODS = [
       "藏红花",
       "西红花"
     ],
-    "summary": "藏红花，常见于中式饮食与地方菜。"
+    "summary": "藏红花，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "straw-mushroom",
@@ -670,7 +685,8 @@ const CN_SUPPLEMENT_FOODS = [
       "straw mushroom",
       "草菇"
     ],
-    "summary": "草菇，常见于中式饮食与地方菜。"
+    "summary": "草菇，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "tsaoko",
@@ -698,7 +714,8 @@ const CN_SUPPLEMENT_FOODS = [
       "tsaoko",
       "草果"
     ],
-    "summary": "草果，常见于中式饮食与地方菜。"
+    "summary": "草果，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "strawberry",
@@ -726,7 +743,8 @@ const CN_SUPPLEMENT_FOODS = [
       "strawberry",
       "草莓"
     ],
-    "summary": "草莓，常见于中式饮食与地方菜。"
+    "summary": "草莓，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "grass-carp",
@@ -762,7 +780,8 @@ const CN_SUPPLEMENT_FOODS = [
       "脆肉鲩",
       "脆肉皖"
     ],
-    "summary": "草鱼，常见于中式饮食与地方菜。"
+    "summary": "草鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "tea",
@@ -817,7 +836,8 @@ const CN_SUPPLEMENT_FOODS = [
       "茶树菇",
       "柱状田头菇"
     ],
-    "summary": "茶树菇，常见于中式饮食与地方菜。"
+    "summary": "茶树菇，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "pomfret",
@@ -848,7 +868,8 @@ const CN_SUPPLEMENT_FOODS = [
       "鲳鱼",
       "平鱼"
     ],
-    "summary": "鲳鱼，常见于中式饮食与地方菜。"
+    "summary": "鲳鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "shahe-fen",
@@ -950,7 +971,8 @@ const CN_SUPPLEMENT_FOODS = [
       "dried tangerine peel",
       "陈皮"
     ],
-    "summary": "陈皮，常见于中式饮食与地方菜。"
+    "summary": "陈皮，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "razor-clam",
@@ -977,7 +999,8 @@ const CN_SUPPLEMENT_FOODS = [
       "razor clam",
       "蛏子"
     ],
-    "summary": "蛏子，常见于中式饮食与地方菜。"
+    "summary": "蛏子，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "orange",
@@ -1008,7 +1031,8 @@ const CN_SUPPLEMENT_FOODS = [
       "橙子",
       "甜橙"
     ],
-    "summary": "橙子，常见于中式饮食与地方菜。"
+    "summary": "橙子，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "adzuki-bean",
@@ -1070,7 +1094,8 @@ const CN_SUPPLEMENT_FOODS = [
       "虫草花",
       "北虫草"
     ],
-    "summary": "虫草花，常见于中式饮食与地方菜。"
+    "summary": "虫草花，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "chongqing-noodles",
@@ -1140,7 +1165,8 @@ const CN_SUPPLEMENT_FOODS = [
       "spring bamboo shoot",
       "春笋"
     ],
-    "summary": "春笋，常见于中式饮食与地方菜。"
+    "summary": "春笋，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "water-shield",
@@ -1172,7 +1198,8 @@ const CN_SUPPLEMENT_FOODS = [
       "莼菜",
       "水葵"
     ],
-    "summary": "莼菜，常见于中式饮食与地方菜。"
+    "summary": "莼菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "arrowhead",
@@ -1205,7 +1232,8 @@ const CN_SUPPLEMENT_FOODS = [
       "茨菰",
       "燕尾菇"
     ],
-    "summary": "慈姑，常见于中式饮食与地方菜。"
+    "summary": "慈姑，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "arrowhead-bamboo-shoot",
@@ -1232,7 +1260,8 @@ const CN_SUPPLEMENT_FOODS = [
       "arrowhead bamboo shoot",
       "慈竹笋"
     ],
-    "summary": "慈竹笋，常见于中式饮食与地方菜。"
+    "summary": "慈竹笋，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "vinegar",
@@ -1291,7 +1320,8 @@ const CN_SUPPLEMENT_FOODS = [
       "大白菜",
       "白菜"
     ],
-    "summary": "大白菜，常见于中式饮食与地方菜。"
+    "summary": "大白菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "scallion",
@@ -1322,7 +1352,8 @@ const CN_SUPPLEMENT_FOODS = [
       "大葱",
       "葱白"
     ],
-    "summary": "大葱，常见于中式饮食与地方菜。"
+    "summary": "大葱，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "star-anise",
@@ -1355,7 +1386,8 @@ const CN_SUPPLEMENT_FOODS = [
       "八角",
       "大料"
     ],
-    "summary": "大茴香，常见于中式饮食与地方菜。"
+    "summary": "大茴香，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "barley",
@@ -1438,7 +1470,8 @@ const CN_SUPPLEMENT_FOODS = [
       "大蒜",
       "蒜头"
     ],
-    "summary": "大蒜，常见于中式饮食与地方菜。"
+    "summary": "大蒜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "hairy-crab",
@@ -1469,7 +1502,8 @@ const CN_SUPPLEMENT_FOODS = [
       "大闸蟹",
       "中华绒螯蟹"
     ],
-    "summary": "大闸蟹，常见于中式饮食与地方菜。"
+    "summary": "大闸蟹，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "hairtail",
@@ -1500,7 +1534,8 @@ const CN_SUPPLEMENT_FOODS = [
       "带鱼",
       "刀鱼"
     ],
-    "summary": "带鱼，常见于中式饮食与地方菜。"
+    "summary": "带鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "mussel",
@@ -1533,7 +1568,8 @@ const CN_SUPPLEMENT_FOODS = [
       "贻贝",
       "青口"
     ],
-    "summary": "淡菜，常见于中式饮食与地方菜。"
+    "summary": "淡菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "sword-bean",
@@ -1560,7 +1596,8 @@ const CN_SUPPLEMENT_FOODS = [
       "sword bean",
       "刀豆"
     ],
-    "summary": "刀豆，常见于中式饮食与地方菜。"
+    "summary": "刀豆，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "dezhou-chicken",
@@ -1644,7 +1681,8 @@ const CN_SUPPLEMENT_FOODS = [
       "clove",
       "丁香"
     ],
-    "summary": "丁香，常见于中式饮食与地方菜。"
+    "summary": "丁香，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "sour-cabbage-hotpot",
@@ -1716,7 +1754,8 @@ const CN_SUPPLEMENT_FOODS = [
       "winter melon",
       "冬瓜"
     ],
-    "summary": "冬瓜，常见于中式饮食与地方菜。"
+    "summary": "冬瓜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "wax-gourd-peel",
@@ -1762,7 +1801,8 @@ const CN_SUPPLEMENT_FOODS = [
       "winter bamboo shoot",
       "冬笋"
     ],
-    "summary": "冬笋，常见于中式饮食与地方菜。"
+    "summary": "冬笋，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "dong-sour-meat",
@@ -1866,7 +1906,8 @@ const CN_SUPPLEMENT_FOODS = [
       "明虾",
       "大虾"
     ],
-    "summary": "对虾，常见于中式饮食与地方菜。"
+    "summary": "对虾，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "changsha-chili",
@@ -1920,7 +1961,8 @@ const CN_SUPPLEMENT_FOODS = [
       "抱子芥",
       "母子菜"
     ],
-    "summary": "儿菜，常见于中式饮食与地方菜。"
+    "summary": "儿菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "custard-apple",
@@ -1947,7 +1989,8 @@ const CN_SUPPLEMENT_FOODS = [
       "custard apple",
       "番荔枝"
     ],
-    "summary": "番荔枝，常见于中式饮食与地方菜。"
+    "summary": "番荔枝，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "guava",
@@ -1978,7 +2021,8 @@ const CN_SUPPLEMENT_FOODS = [
       "番石榴",
       "芭乐"
     ],
-    "summary": "番石榴，常见于中式饮食与地方菜。"
+    "summary": "番石榴，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "fengrourou",
@@ -2074,7 +2118,8 @@ const CN_SUPPLEMENT_FOODS = [
       "anchovy",
       "凤尾鱼"
     ],
-    "summary": "凤尾鱼，常见于中式饮食与地方菜。"
+    "summary": "凤尾鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "chayote",
@@ -2105,7 +2150,8 @@ const CN_SUPPLEMENT_FOODS = [
       "佛手瓜",
       "合掌瓜"
     ],
-    "summary": "佛手瓜，常见于中式饮食与地方菜。"
+    "summary": "佛手瓜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "buddha-jumps-wall",
@@ -2199,7 +2245,8 @@ const CN_SUPPLEMENT_FOODS = [
       "sugarcane",
       "甘蔗"
     ],
-    "summary": "甘蔗，常见于中式饮食与地方菜。"
+    "summary": "甘蔗，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "dried-chili",
@@ -2230,7 +2277,8 @@ const CN_SUPPLEMENT_FOODS = [
       "干辣椒",
       "辣椒干"
     ],
-    "summary": "干辣椒，常见于中式饮食与地方菜。"
+    "summary": "干辣椒，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "sorghum",
@@ -2260,7 +2308,8 @@ const CN_SUPPLEMENT_FOODS = [
       "高粱",
       "蜀黍"
     ],
-    "summary": "高粱，常见于中式饮食与地方菜。"
+    "summary": "高粱，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "goji-berry",
@@ -2323,7 +2372,8 @@ const CN_SUPPLEMENT_FOODS = [
       "枸杞芽",
       "枸杞嫩头"
     ],
-    "summary": "枸杞头，常见于中式饮食与地方菜。"
+    "summary": "枸杞头，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "cantonese-sausage",
@@ -2453,7 +2503,8 @@ const CN_SUPPLEMENT_FOODS = [
       "桂鱼",
       "季花鱼"
     ],
-    "summary": "鳜鱼，常见于中式饮食与地方菜。"
+    "summary": "鳜鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "crossing-bridge-noodle",
@@ -2505,7 +2556,8 @@ const CN_SUPPLEMENT_FOODS = [
       "哈密瓜",
       "甜瓜之王"
     ],
-    "summary": "哈密瓜，常见于中式饮食与地方菜。"
+    "summary": "哈密瓜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "clam",
@@ -2536,7 +2588,8 @@ const CN_SUPPLEMENT_FOODS = [
       "蛤蜊",
       "花蛤"
     ],
-    "summary": "蛤蜊，常见于中式饮食与地方菜。"
+    "summary": "蛤蜊，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "sea-cucumber",
@@ -2564,7 +2617,8 @@ const CN_SUPPLEMENT_FOODS = [
       "sea cucumber",
       "海参"
     ],
-    "summary": "海参，常见于中式饮食与地方菜。"
+    "summary": "海参，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "seaweed-salad",
@@ -2595,7 +2649,8 @@ const CN_SUPPLEMENT_FOODS = [
       "海草",
       "海藻"
     ],
-    "summary": "海草，常见于中式饮食与地方菜。"
+    "summary": "海草，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "kelp",
@@ -2626,7 +2681,8 @@ const CN_SUPPLEMENT_FOODS = [
       "海带",
       "昆布"
     ],
-    "summary": "海带，常见于中式饮食与地方菜。"
+    "summary": "海带，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "sea-urchin",
@@ -2653,7 +2709,8 @@ const CN_SUPPLEMENT_FOODS = [
       "sea urchin",
       "海胆"
     ],
-    "summary": "海胆，常见于中式饮食与地方菜。"
+    "summary": "海胆，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "xiamen-oyster-omelette",
@@ -2701,7 +2758,8 @@ const CN_SUPPLEMENT_FOODS = [
       "conch",
       "海螺"
     ],
-    "summary": "海螺，常见于中式饮食与地方菜。"
+    "summary": "海螺，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "hainan-chicken-rice",
@@ -2750,7 +2808,8 @@ const CN_SUPPLEMENT_FOODS = [
       "jellyfish",
       "海蜇"
     ],
-    "summary": "海蜇，常见于中式饮食与地方菜。"
+    "summary": "海蜇，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "leaf-celery",
@@ -2780,7 +2839,8 @@ const CN_SUPPLEMENT_FOODS = [
       "旱芹",
       "药芹"
     ],
-    "summary": "旱芹，常见于中式饮食与地方菜。"
+    "summary": "旱芹，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "river-mussel",
@@ -2811,7 +2871,8 @@ const CN_SUPPLEMENT_FOODS = [
       "河蚌",
       "蚌肉"
     ],
-    "summary": "河蚌，常见于中式饮食与地方菜。"
+    "summary": "河蚌，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "pufferfish",
@@ -2873,7 +2934,8 @@ const CN_SUPPLEMENT_FOODS = [
       "河虾",
       "草虾"
     ],
-    "summary": "河虾，常见于中式饮食与地方菜。"
+    "summary": "河虾，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "walnut",
@@ -2924,7 +2986,8 @@ const CN_SUPPLEMENT_FOODS = [
       "荷兰豆",
       "甜豆"
     ],
-    "summary": "荷兰豆，常见于中式饮食与地方菜。"
+    "summary": "荷兰豆，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "lotus-leaf",
@@ -2991,7 +3054,8 @@ const CN_SUPPLEMENT_FOODS = [
       "black pepper",
       "黑胡椒"
     ],
-    "summary": "黑胡椒，常见于中式饮食与地方菜。"
+    "summary": "黑胡椒，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "blackberry",
@@ -3018,7 +3082,8 @@ const CN_SUPPLEMENT_FOODS = [
       "blackberry",
       "黑莓"
     ],
-    "summary": "黑莓，常见于中式饮食与地方菜。"
+    "summary": "黑莓，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "snakehead",
@@ -3051,7 +3116,8 @@ const CN_SUPPLEMENT_FOODS = [
       "乌鳢",
       "生鱼"
     ],
-    "summary": "黑鱼，常见于中式饮食与地方菜。"
+    "summary": "黑鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "black-sesame",
@@ -3137,7 +3203,8 @@ const CN_SUPPLEMENT_FOODS = [
       "赤小豆",
       "红小豆"
     ],
-    "summary": "红豆，常见于中式饮食与地方菜。"
+    "summary": "红豆，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "rambutan",
@@ -3164,7 +3231,8 @@ const CN_SUPPLEMENT_FOODS = [
       "rambutan",
       "红毛丹"
     ],
-    "summary": "红毛丹，常见于中式饮食与地方菜。"
+    "summary": "红毛丹，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "sweet-potato",
@@ -3197,7 +3265,8 @@ const CN_SUPPLEMENT_FOODS = [
       "地瓜",
       "番薯"
     ],
-    "summary": "红薯，常见于中式饮食与地方菜。"
+    "summary": "红薯，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "red-dates",
@@ -3228,7 +3297,8 @@ const CN_SUPPLEMENT_FOODS = [
       "红枣",
       "大枣"
     ],
-    "summary": "红枣，常见于中式饮食与地方菜。"
+    "summary": "红枣，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "lion-mane-mushroom",
@@ -3259,7 +3329,8 @@ const CN_SUPPLEMENT_FOODS = [
       "猴头菇",
       "猴头蘑"
     ],
-    "summary": "猴头菇，常见于中式饮食与地方菜。"
+    "summary": "猴头菇，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "carrot",
@@ -3290,7 +3361,8 @@ const CN_SUPPLEMENT_FOODS = [
       "胡萝卜",
       "红萝卜"
     ],
-    "summary": "胡萝卜，常见于中式饮食与地方菜。"
+    "summary": "胡萝卜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "cauliflower",
@@ -3322,7 +3394,8 @@ const CN_SUPPLEMENT_FOODS = [
       "菜花",
       "花椰菜"
     ],
-    "summary": "花菜，常见于中式饮食与地方菜。"
+    "summary": "花菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "fish-maw",
@@ -3353,7 +3426,8 @@ const CN_SUPPLEMENT_FOODS = [
       "花胶",
       "鱼鳔"
     ],
-    "summary": "花胶，常见于中式饮食与地方菜。"
+    "summary": "花胶，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "sichuan-peppercorn",
@@ -3384,7 +3458,8 @@ const CN_SUPPLEMENT_FOODS = [
       "花椒",
       "川椒"
     ],
-    "summary": "花椒，常见于中式饮食与地方菜。"
+    "summary": "花椒，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "peanut",
@@ -3415,7 +3490,8 @@ const CN_SUPPLEMENT_FOODS = [
       "花生",
       "落花生"
     ],
-    "summary": "花生，常见于中式饮食与地方菜。"
+    "summary": "花生，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "nameko-mushroom",
@@ -3442,7 +3518,8 @@ const CN_SUPPLEMENT_FOODS = [
       "nameko mushroom",
       "滑子菇"
     ],
-    "summary": "滑子菇，常见于中式饮食与地方菜。"
+    "summary": "滑子菇，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "soybean",
@@ -3473,7 +3550,8 @@ const CN_SUPPLEMENT_FOODS = [
       "黄豆",
       "大豆"
     ],
-    "summary": "黄豆，常见于中式饮食与地方菜。"
+    "summary": "黄豆，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "cucumber",
@@ -3504,7 +3582,8 @@ const CN_SUPPLEMENT_FOODS = [
       "黄瓜",
       "胡瓜"
     ],
-    "summary": "黄瓜，常见于中式饮食与地方菜。"
+    "summary": "黄瓜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "yellow-catfish",
@@ -3537,7 +3616,8 @@ const CN_SUPPLEMENT_FOODS = [
       "黄骨鱼",
       "昂刺鱼"
     ],
-    "summary": "黄颡鱼，常见于中式饮食与地方菜。"
+    "summary": "黄颡鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "yellow-croaker",
@@ -3570,7 +3650,8 @@ const CN_SUPPLEMENT_FOODS = [
       "大黄鱼",
       "小黄鱼"
     ],
-    "summary": "黄鱼，常见于中式饮食与地方菜。"
+    "summary": "黄鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "huizhou-stinky-fish",
@@ -3673,7 +3754,8 @@ const CN_SUPPLEMENT_FOODS = [
       "火龙果",
       "红龙果"
     ],
-    "summary": "火龙果，常见于中式饮食与地方菜。"
+    "summary": "火龙果，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "termitomyces",
@@ -3704,7 +3786,8 @@ const CN_SUPPLEMENT_FOODS = [
       "鸡枞",
       "鸡枞菌"
     ],
-    "summary": "鸡枞，常见于中式饮食与地方菜。"
+    "summary": "鸡枞，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "jizha-shrimp",
@@ -3734,7 +3817,8 @@ const CN_SUPPLEMENT_FOODS = [
       "基围虾",
       "基围"
     ],
-    "summary": "基围虾，常见于中式饮食与地方菜。"
+    "summary": "基围虾，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "shepherds-purse",
@@ -3762,7 +3846,8 @@ const CN_SUPPLEMENT_FOODS = [
       "shepherd's purse",
       "荠菜"
     ],
-    "summary": "荠菜，常见于中式饮食与地方菜。"
+    "summary": "荠菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "crucian-carp",
@@ -3790,7 +3875,8 @@ const CN_SUPPLEMENT_FOODS = [
       "crucian carp",
       "鲫鱼"
     ],
-    "summary": "鲫鱼，常见于中式饮食与地方菜。"
+    "summary": "鲫鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "eggplant",
@@ -3821,7 +3907,8 @@ const CN_SUPPLEMENT_FOODS = [
       "茄子",
       "矮瓜"
     ],
-    "summary": "茄子，常见于中式饮食与地方菜。"
+    "summary": "茄子，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "turmeric",
@@ -3849,7 +3936,8 @@ const CN_SUPPLEMENT_FOODS = [
       "turmeric",
       "姜黄"
     ],
-    "summary": "姜黄，常见于中式饮食与地方菜。"
+    "summary": "姜黄，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "yardlong-bean",
@@ -3879,7 +3967,8 @@ const CN_SUPPLEMENT_FOODS = [
       "豇豆",
       "长豆角"
     ],
-    "summary": "豇豆，常见于中式饮食与地方菜。"
+    "summary": "豇豆，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "water-bamboo",
@@ -3913,7 +4002,8 @@ const CN_SUPPLEMENT_FOODS = [
       "高笋",
       "茭笋"
     ],
-    "summary": "茭白，常见于中式饮食与地方菜。"
+    "summary": "茭白，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "water-bamboo-shoot",
@@ -3978,7 +4068,8 @@ const CN_SUPPLEMENT_FOODS = [
       "芥菜",
       "大叶芥"
     ],
-    "summary": "芥菜，常见于中式饮食与地方菜。"
+    "summary": "芥菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "jinhua-ham",
@@ -4049,7 +4140,8 @@ const CN_SUPPLEMENT_FOODS = [
       "金针菇",
       "金菇"
     ],
-    "summary": "金针菇，常见于中式饮食与地方菜。"
+    "summary": "金针菇，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "garlic-chive",
@@ -4077,7 +4169,8 @@ const CN_SUPPLEMENT_FOODS = [
       "garlic chive",
       "韭菜"
     ],
-    "summary": "韭菜，常见于中式饮食与地方菜。"
+    "summary": "韭菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "chinese-chive",
@@ -4105,7 +4198,8 @@ const CN_SUPPLEMENT_FOODS = [
       "yellow chive",
       "韭黄"
     ],
-    "summary": "韭黄，常见于中式饮食与地方菜。"
+    "summary": "韭黄，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "chrysanthemum-greens",
@@ -4138,7 +4232,8 @@ const CN_SUPPLEMENT_FOODS = [
       "菊花菜",
       "菊花叶"
     ],
-    "summary": "菊花脑，常见于中式饮食与地方菜。"
+    "summary": "菊花脑，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "chicory",
@@ -4165,7 +4260,8 @@ const CN_SUPPLEMENT_FOODS = [
       "chicory",
       "菊苣"
     ],
-    "summary": "菊苣，常见于中式饮食与地方菜。"
+    "summary": "菊苣，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "tangerine",
@@ -4198,7 +4294,8 @@ const CN_SUPPLEMENT_FOODS = [
       "桔",
       "柑橘"
     ],
-    "summary": "橘子，常见于中式饮食与地方菜。"
+    "summary": "橘子，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "bracken",
@@ -4304,7 +4401,8 @@ const CN_SUPPLEMENT_FOODS = [
       "口蘑",
       "白蘑菇"
     ],
-    "summary": "口蘑，常见于中式饮食与地方菜。"
+    "summary": "口蘑，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "bitter-melon",
@@ -4335,7 +4433,8 @@ const CN_SUPPLEMENT_FOODS = [
       "苦瓜",
       "凉瓜"
     ],
-    "summary": "苦瓜，常见于中式饮食与地方菜。"
+    "summary": "苦瓜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "endive",
@@ -4365,7 +4464,8 @@ const CN_SUPPLEMENT_FOODS = [
       "苦菊",
       "苦苣菜"
     ],
-    "summary": "苦菊，常见于中式饮食与地方菜。"
+    "summary": "苦菊，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "lahu-bamboo-rice",
@@ -4475,7 +4575,8 @@ const CN_SUPPLEMENT_FOODS = [
       "blueberry",
       "蓝莓"
     ],
-    "summary": "蓝莓，常见于中式饮食与地方菜。"
+    "summary": "蓝莓，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "laoganma",
@@ -4529,7 +4630,8 @@ const CN_SUPPLEMENT_FOODS = [
       "雪梨",
       "鸭梨"
     ],
-    "summary": "梨，常见于中式饮食与地方菜。"
+    "summary": "梨，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "artemisia-selengensis",
@@ -4563,7 +4665,8 @@ const CN_SUPPLEMENT_FOODS = [
       "芦蒿",
       "蒌蒿"
     ],
-    "summary": "春季江南常见野菜，清香脆嫩，多炒腊肉或清炒。"
+    "summary": "春季江南常见野菜，清香脆嫩，多炒腊肉或清炒。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "quinoa",
@@ -4591,7 +4694,8 @@ const CN_SUPPLEMENT_FOODS = [
       "quinoa",
       "藜麦"
     ],
-    "summary": "藜麦，常见于中式饮食与地方菜。"
+    "summary": "藜麦，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "plum",
@@ -4619,7 +4723,8 @@ const CN_SUPPLEMENT_FOODS = [
       "plum",
       "李子"
     ],
-    "summary": "李子，常见于中式饮食与地方菜。"
+    "summary": "李子，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "carp",
@@ -4647,7 +4752,8 @@ const CN_SUPPLEMENT_FOODS = [
       "carp",
       "鲤鱼"
     ],
-    "summary": "鲤鱼，常见于中式饮食与地方菜。"
+    "summary": "鲤鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "lychee",
@@ -4709,7 +4815,8 @@ const CN_SUPPLEMENT_FOODS = [
       "藕",
       "藕节"
     ],
-    "summary": "莲藕，常见于中式饮食与地方菜。"
+    "summary": "莲藕，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "wax-apple",
@@ -4740,7 +4847,8 @@ const CN_SUPPLEMENT_FOODS = [
       "莲雾",
       "洋蒲桃"
     ],
-    "summary": "莲雾，常见于中式饮食与地方菜。"
+    "summary": "莲雾，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "silver-carp",
@@ -4771,7 +4879,8 @@ const CN_SUPPLEMENT_FOODS = [
       "鲢鱼",
       "白鲢"
     ],
-    "summary": "鲢鱼，常见于中式饮食与地方菜。"
+    "summary": "鲢鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "water-caltrop",
@@ -4803,7 +4912,8 @@ const CN_SUPPLEMENT_FOODS = [
       "菱角",
       "菱实"
     ],
-    "summary": "菱角，常见于中式饮食与地方菜。"
+    "summary": "菱角，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "durian",
@@ -4887,7 +4997,8 @@ const CN_SUPPLEMENT_FOODS = [
       "桂圆",
       "桂圆肉"
     ],
-    "summary": "龙眼，常见于中式饮食与地方菜。"
+    "summary": "龙眼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "asparagus",
@@ -4915,7 +5026,8 @@ const CN_SUPPLEMENT_FOODS = [
       "asparagus",
       "芦笋"
     ],
-    "summary": "芦笋，常见于中式饮食与地方菜。"
+    "summary": "芦笋，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "sea-bass",
@@ -4946,7 +5058,8 @@ const CN_SUPPLEMENT_FOODS = [
       "鲈鱼",
       "花鲈"
     ],
-    "summary": "鲈鱼，常见于中式饮食与地方菜。"
+    "summary": "鲈鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "luzhu-huoshao",
@@ -5021,7 +5134,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mung bean",
       "绿豆"
     ],
-    "summary": "绿豆，常见于中式饮食与地方菜。"
+    "summary": "绿豆，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "tilapia",
@@ -5052,7 +5166,8 @@ const CN_SUPPLEMENT_FOODS = [
       "罗非鱼",
       "非洲鲫鱼"
     ],
-    "summary": "罗非鱼，常见于中式饮食与地方菜。"
+    "summary": "罗非鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "basil",
@@ -5085,7 +5200,8 @@ const CN_SUPPLEMENT_FOODS = [
       "九层塔",
       "金不换"
     ],
-    "summary": "罗勒，常见于中式饮食与地方菜。"
+    "summary": "罗勒，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "romaine",
@@ -5115,7 +5231,8 @@ const CN_SUPPLEMENT_FOODS = [
       "罗马生菜",
       "长叶生菜"
     ],
-    "summary": "罗马生菜，常见于中式饮食与地方菜。"
+    "summary": "罗马生菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "daikon-leaf",
@@ -5145,7 +5262,8 @@ const CN_SUPPLEMENT_FOODS = [
       "萝卜缨",
       "萝卜叶"
     ],
-    "summary": "萝卜缨，常见于中式饮食与地方菜。"
+    "summary": "萝卜缨，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "liuzhou-luosifen",
@@ -5231,7 +5349,8 @@ const CN_SUPPLEMENT_FOODS = [
       "purslane",
       "马齿苋"
     ],
-    "summary": "马齿苋，常见于中式饮食与地方菜。"
+    "summary": "马齿苋，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "malantou",
@@ -5265,7 +5384,8 @@ const CN_SUPPLEMENT_FOODS = [
       "马兰",
       "鸡儿肠"
     ],
-    "summary": "马兰头，常见于中式饮食与地方菜。"
+    "summary": "马兰头，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "manchurian-sauerkraut",
@@ -5323,7 +5443,8 @@ const CN_SUPPLEMENT_FOODS = [
       "cranberry",
       "蔓越莓"
     ],
-    "summary": "蔓越莓，常见于中式饮食与地方菜。"
+    "summary": "蔓越莓，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "mango",
@@ -5351,7 +5472,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mango",
       "芒果"
     ],
-    "summary": "芒果，常见于中式饮食与地方菜。"
+    "summary": "芒果，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "edamame",
@@ -5381,7 +5503,8 @@ const CN_SUPPLEMENT_FOODS = [
       "毛豆",
       "青大豆"
     ],
-    "summary": "毛豆，常见于中式饮食与地方菜。"
+    "summary": "毛豆，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "hairy-bamboo-shoot",
@@ -5411,7 +5534,8 @@ const CN_SUPPLEMENT_FOODS = [
       "毛笋",
       "毛竹笋"
     ],
-    "summary": "毛笋，常见于中式饮食与地方菜。"
+    "summary": "毛笋，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "tibetan-yak-butter",
@@ -5542,7 +5666,8 @@ const CN_SUPPLEMENT_FOODS = [
       "猕猴桃",
       "奇异果"
     ],
-    "summary": "猕猴桃，常见于中式饮食与地方菜。"
+    "summary": "猕猴桃，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "proso-millet",
@@ -5573,7 +5698,8 @@ const CN_SUPPLEMENT_FOODS = [
       "糜子",
       "黍子"
     ],
-    "summary": "糜子，常见于中式饮食与地方菜。"
+    "summary": "糜子，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "miao-glutinous-rice-wine",
@@ -5656,7 +5782,8 @@ const CN_SUPPLEMENT_FOODS = [
       "明虾",
       "海虾"
     ],
-    "summary": "明虾，常见于中式饮食与地方菜。"
+    "summary": "明虾，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "cuttlefish",
@@ -5687,7 +5814,8 @@ const CN_SUPPLEMENT_FOODS = [
       "墨鱼",
       "乌贼"
     ],
-    "summary": "墨鱼，常见于中式饮食与地方菜。"
+    "summary": "墨鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "pitaya-leaf",
@@ -5717,7 +5845,8 @@ const CN_SUPPLEMENT_FOODS = [
       "木菠萝",
       "菠萝蜜"
     ],
-    "summary": "木菠萝，常见于中式饮食与地方菜。"
+    "summary": "木菠萝，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "wood-ear",
@@ -5750,7 +5879,8 @@ const CN_SUPPLEMENT_FOODS = [
       "黑木耳",
       "云耳"
     ],
-    "summary": "木耳，常见于中式饮食与地方菜。"
+    "summary": "木耳，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "papaya-fruit",
@@ -5781,7 +5911,8 @@ const CN_SUPPLEMENT_FOODS = [
       "木瓜",
       "番木瓜"
     ],
-    "summary": "木瓜，常见于中式饮食与地方菜。"
+    "summary": "木瓜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "naxi-grilled-fish",
@@ -5839,7 +5970,8 @@ const CN_SUPPLEMENT_FOODS = [
       "南瓜",
       "倭瓜"
     ],
-    "summary": "南瓜，常见于中式饮食与地方菜。"
+    "summary": "南瓜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "nanjing-salt-duck",
@@ -5946,7 +6078,8 @@ const CN_SUPPLEMENT_FOODS = [
       "loach",
       "泥鳅"
     ],
-    "summary": "泥鳅，常见于中式饮食与地方菜。"
+    "summary": "泥鳅，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "catfish",
@@ -5977,7 +6110,8 @@ const CN_SUPPLEMENT_FOODS = [
       "鲶鱼",
       "鲇鱼"
     ],
-    "summary": "鲶鱼，常见于中式饮食与地方菜。"
+    "summary": "鲶鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "ningxia-goji",
@@ -6004,7 +6138,8 @@ const CN_SUPPLEMENT_FOODS = [
     "aliases": [
       "枸杞子"
     ],
-    "summary": "中宁枸杞，平补肝肾。"
+    "summary": "中宁枸杞，平补肝肾。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "boletus",
@@ -6032,7 +6167,8 @@ const CN_SUPPLEMENT_FOODS = [
       "boletus",
       "牛肝菌"
     ],
-    "summary": "牛肝菌，常见于中式饮食与地方菜。"
+    "summary": "牛肝菌，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "flat-cabbage",
@@ -6062,7 +6198,8 @@ const CN_SUPPLEMENT_FOODS = [
       "牛心菜",
       "牛心白"
     ],
-    "summary": "牛心菜，常见于中式饮食与地方菜。"
+    "summary": "牛心菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "avocado",
@@ -6095,7 +6232,8 @@ const CN_SUPPLEMENT_FOODS = [
       "鳄梨",
       "油梨"
     ],
-    "summary": "牛油果，常见于中式饮食与地方菜。"
+    "summary": "牛油果，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "lotus-shoot",
@@ -6128,7 +6266,8 @@ const CN_SUPPLEMENT_FOODS = [
       "藕尖",
       "藕鞭"
     ],
-    "summary": "藕带，常见于中式饮食与地方菜。"
+    "summary": "藕带，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "crab",
@@ -6188,7 +6327,8 @@ const CN_SUPPLEMENT_FOODS = [
       "loquat",
       "枇杷"
     ],
-    "summary": "枇杷，常见于中式饮食与地方菜。"
+    "summary": "枇杷，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "doubanjiang",
@@ -6264,7 +6404,8 @@ const CN_SUPPLEMENT_FOODS = [
       "平菇",
       "侧耳"
     ],
-    "summary": "平菇，常见于中式饮食与地方菜。"
+    "summary": "平菇，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "apple",
@@ -6292,7 +6433,8 @@ const CN_SUPPLEMENT_FOODS = [
       "apple",
       "苹果"
     ],
-    "summary": "苹果，常见于中式饮食与地方菜。"
+    "summary": "苹果，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "grape",
@@ -6320,7 +6462,8 @@ const CN_SUPPLEMENT_FOODS = [
       "grape",
       "葡萄"
     ],
-    "summary": "葡萄，常见于中式饮食与地方菜。"
+    "summary": "葡萄，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "cattail-shoot",
@@ -6352,7 +6495,8 @@ const CN_SUPPLEMENT_FOODS = [
       "香蒲菜",
       "蒲笋"
     ],
-    "summary": "蒲菜，常见于中式饮食与地方菜。"
+    "summary": "蒲菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "dandelion-greens",
@@ -6383,7 +6527,8 @@ const CN_SUPPLEMENT_FOODS = [
       "蒲公英",
       "婆婆丁"
     ],
-    "summary": "蒲公英，常见于中式饮食与地方菜。"
+    "summary": "蒲公英，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "dandelion",
@@ -6477,7 +6622,8 @@ const CN_SUPPLEMENT_FOODS = [
       "荞麦",
       "三角麦"
     ],
-    "summary": "荞麦，常见于中式饮食与地方菜。"
+    "summary": "荞麦，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "topmouth-culter",
@@ -6545,7 +6691,8 @@ const CN_SUPPLEMENT_FOODS = [
       "小白菜",
       "油菜"
     ],
-    "summary": "青菜，常见于中式饮食与地方菜。"
+    "summary": "青菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "green-pepper",
@@ -6578,7 +6725,8 @@ const CN_SUPPLEMENT_FOODS = [
       "甜椒",
       "菜椒"
     ],
-    "summary": "青椒，常见于中式饮食与地方菜。"
+    "summary": "青椒，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "qingke",
@@ -6633,7 +6781,8 @@ const CN_SUPPLEMENT_FOODS = [
       "青稞",
       "裸大麦"
     ],
-    "summary": "青稞，常见于中式饮食与地方菜。"
+    "summary": "青稞，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "mud-crab",
@@ -6663,7 +6812,8 @@ const CN_SUPPLEMENT_FOODS = [
       "青蟹",
       "锯缘青蟹"
     ],
-    "summary": "青蟹，常见于中式饮食与地方菜。"
+    "summary": "青蟹，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "mackerel",
@@ -6694,7 +6844,8 @@ const CN_SUPPLEMENT_FOODS = [
       "鲭鱼",
       "青花鱼"
     ],
-    "summary": "鲭鱼，常见于中式饮食与地方菜。"
+    "summary": "鲭鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "agar",
@@ -6724,7 +6875,8 @@ const CN_SUPPLEMENT_FOODS = [
       "琼脂",
       "洋菜"
     ],
-    "summary": "琼脂，常见于中式饮食与地方菜。"
+    "summary": "琼脂，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "saury",
@@ -6751,7 +6903,8 @@ const CN_SUPPLEMENT_FOODS = [
       "saury",
       "秋刀鱼"
     ],
-    "summary": "秋刀鱼，常见于中式饮食与地方菜。"
+    "summary": "秋刀鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "wakame",
@@ -6781,7 +6934,8 @@ const CN_SUPPLEMENT_FOODS = [
       "裙带菜",
       "裙带"
     ],
-    "summary": "裙带菜，常见于中式饮食与地方菜。"
+    "summary": "裙带菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "hot-dry-noodle",
@@ -6866,7 +7020,8 @@ const CN_SUPPLEMENT_FOODS = [
       "肉桂",
       "桂皮"
     ],
-    "summary": "肉桂，常见于中式饮食与地方菜。"
+    "summary": "肉桂，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "roujiamo",
@@ -6920,7 +7075,8 @@ const CN_SUPPLEMENT_FOODS = [
       "桑椹",
       "桑甚"
     ],
-    "summary": "桑葚，常见于中式饮食与地方菜。"
+    "summary": "桑葚，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "mulberry-leaf",
@@ -6990,7 +7146,8 @@ const CN_SUPPLEMENT_FOODS = [
       "sardine",
       "沙丁鱼"
     ],
-    "summary": "沙丁鱼，常见于中式饮食与地方菜。"
+    "summary": "沙丁鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "amomum",
@@ -7018,7 +7175,8 @@ const CN_SUPPLEMENT_FOODS = [
       "amomum",
       "砂仁"
     ],
-    "summary": "砂仁，常见于中式饮食与地方菜。"
+    "summary": "砂仁，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "shanxi-vinegar-noodle",
@@ -7072,7 +7230,8 @@ const CN_SUPPLEMENT_FOODS = [
       "淮山",
       "薯蓣"
     ],
-    "summary": "山药，常见于中式饮食与地方菜。"
+    "summary": "山药，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "hawthorn-fruit",
@@ -7103,7 +7262,8 @@ const CN_SUPPLEMENT_FOODS = [
       "山楂",
       "红果"
     ],
-    "summary": "山楂，常见于中式饮食与地方菜。"
+    "summary": "山楂，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "mangosteen",
@@ -7131,7 +7291,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mangosteen",
       "山竹"
     ],
-    "summary": "山竹，常见于中式饮食与地方菜。"
+    "summary": "山竹，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "scallop",
@@ -7159,7 +7320,8 @@ const CN_SUPPLEMENT_FOODS = [
       "scallop",
       "扇贝"
     ],
-    "summary": "扇贝，常见于中式饮食与地方菜。"
+    "summary": "扇贝，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "eel",
@@ -7190,7 +7352,8 @@ const CN_SUPPLEMENT_FOODS = [
       "鳝鱼",
       "黄鳝"
     ],
-    "summary": "鳝鱼，常见于中式饮食与地方菜。"
+    "summary": "鳝鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "she-minced-tea",
@@ -7250,7 +7413,8 @@ const CN_SUPPLEMENT_FOODS = [
       "生菜",
       "叶用莴苣"
     ],
-    "summary": "生菜，常见于中式饮食与地方菜。"
+    "summary": "生菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "oyster",
@@ -7315,7 +7479,8 @@ const CN_SUPPLEMENT_FOODS = [
       "生姜",
       "姜"
     ],
-    "summary": "生姜，常见于中式饮食与地方菜。"
+    "summary": "生姜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "grouper",
@@ -7345,7 +7510,8 @@ const CN_SUPPLEMENT_FOODS = [
       "石斑",
       "石斑鱼"
     ],
-    "summary": "石斑，常见于中式饮食与地方菜。"
+    "summary": "石斑，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "pomegranate",
@@ -7373,7 +7539,8 @@ const CN_SUPPLEMENT_FOODS = [
       "pomegranate",
       "石榴"
     ],
-    "summary": "石榴，常见于中式饮食与地方菜。"
+    "summary": "石榴，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "persimmon",
@@ -7401,7 +7568,8 @@ const CN_SUPPLEMENT_FOODS = [
       "persimmon",
       "柿子"
     ],
-    "summary": "柿子，常见于中式饮食与地方菜。"
+    "summary": "柿子，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "sugar-apple",
@@ -7431,7 +7599,8 @@ const CN_SUPPLEMENT_FOODS = [
       "释迦",
       "番荔枝"
     ],
-    "summary": "释迦，常见于中式饮食与地方菜。"
+    "summary": "释迦，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "hand-grasp-mutton",
@@ -7487,7 +7656,8 @@ const CN_SUPPLEMENT_FOODS = [
       "树莓",
       "覆盆子"
     ],
-    "summary": "树莓，常见于中式饮食与地方菜。"
+    "summary": "树莓，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "water-celery",
@@ -7514,7 +7684,8 @@ const CN_SUPPLEMENT_FOODS = [
       "water celery",
       "水芹"
     ],
-    "summary": "水芹，常见于中式饮食与地方菜。"
+    "summary": "水芹，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "luffa",
@@ -7542,7 +7713,8 @@ const CN_SUPPLEMENT_FOODS = [
       "luffa",
       "丝瓜"
     ],
-    "summary": "丝瓜，常见于中式饮食与地方菜。"
+    "summary": "丝瓜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "matsutake",
@@ -7573,7 +7745,8 @@ const CN_SUPPLEMENT_FOODS = [
       "松茸",
       "松蕈"
     ],
-    "summary": "松茸，常见于中式饮食与地方菜。"
+    "summary": "松茸，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "tibetan-butter-tea",
@@ -7654,7 +7827,8 @@ const CN_SUPPLEMENT_FOODS = [
       "笋",
       "竹笋"
     ],
-    "summary": "笋，常见于中式饮食与地方菜。"
+    "summary": "笋，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "swimming-crab",
@@ -7684,7 +7858,8 @@ const CN_SUPPLEMENT_FOODS = [
       "梭子蟹",
       "海蟹"
     ],
-    "summary": "梭子蟹，常见于中式饮食与地方菜。"
+    "summary": "梭子蟹，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "pond-loach",
@@ -7749,7 +7924,8 @@ const CN_SUPPLEMENT_FOODS = [
       "桃子",
       "桃"
     ],
-    "summary": "桃子，常见于中式饮食与地方菜。"
+    "summary": "桃子，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "tianjin-mahua",
@@ -7826,7 +8002,8 @@ const CN_SUPPLEMENT_FOODS = [
       "sweet melon",
       "甜瓜"
     ],
-    "summary": "甜瓜，常见于中式饮食与地方菜。"
+    "summary": "甜瓜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "tieguanyin",
@@ -7956,7 +8133,8 @@ const CN_SUPPLEMENT_FOODS = [
       "娃娃菜",
       "小白菜心"
     ],
-    "summary": "娃娃菜，常见于中式饮食与地方菜。"
+    "summary": "娃娃菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "green-pea",
@@ -7983,7 +8161,8 @@ const CN_SUPPLEMENT_FOODS = [
       "green pea",
       "豌豆"
     ],
-    "summary": "豌豆，常见于中式饮食与地方菜。"
+    "summary": "豌豆，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "pea-tips",
@@ -8079,7 +8258,8 @@ const CN_SUPPLEMENT_FOODS = [
       "空心菜",
       "通菜"
     ],
-    "summary": "蕹菜，常见于中式饮食与地方菜。"
+    "summary": "蕹菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "smoked-plum",
@@ -8126,7 +8306,8 @@ const CN_SUPPLEMENT_FOODS = [
       "fig",
       "无花果"
     ],
-    "summary": "无花果，常见于中式饮食与地方菜。"
+    "summary": "无花果，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "wuxi-rib",
@@ -8178,7 +8359,8 @@ const CN_SUPPLEMENT_FOODS = [
       "芜菁",
       "圆萝卜"
     ],
-    "summary": "芜菁，常见于中式饮食与地方菜。"
+    "summary": "芜菁，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "wuxianglu",
@@ -8283,7 +8465,8 @@ const CN_SUPPLEMENT_FOODS = [
       "watermelon",
       "西瓜"
     ],
-    "summary": "西瓜，常见于中式饮食与地方菜。"
+    "summary": "西瓜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "xihu-lotus-powder",
@@ -8335,7 +8518,8 @@ const CN_SUPPLEMENT_FOODS = [
       "西兰花",
       "绿花菜"
     ],
-    "summary": "西兰花，常见于中式饮食与地方菜。"
+    "summary": "西兰花，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "celery-stalk",
@@ -8362,7 +8546,8 @@ const CN_SUPPLEMENT_FOODS = [
       "celery stalk",
       "西芹"
     ],
-    "summary": "西芹，常见于中式饮食与地方菜。"
+    "summary": "西芹，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "watercress",
@@ -8393,7 +8578,8 @@ const CN_SUPPLEMENT_FOODS = [
       "西洋菜",
       "豆瓣菜"
     ],
-    "summary": "西洋菜，常见于中式饮食与地方菜。"
+    "summary": "西洋菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "celery",
@@ -8423,7 +8609,8 @@ const CN_SUPPLEMENT_FOODS = [
       "西洋芹",
       "西芹"
     ],
-    "summary": "西洋芹，常见于中式饮食与地方菜。"
+    "summary": "西洋芹，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "dim-sum-shrimp",
@@ -8475,7 +8662,8 @@ const CN_SUPPLEMENT_FOODS = [
       "仙人掌果",
       "仙人果"
     ],
-    "summary": "仙人掌果，常见于中式饮食与地方菜。"
+    "summary": "仙人掌果，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "fresh-corn",
@@ -8508,7 +8696,8 @@ const CN_SUPPLEMENT_FOODS = [
       "甜玉米",
       "水果玉米"
     ],
-    "summary": "鲜玉米，常见于中式饮食与地方菜。"
+    "summary": "鲜玉米，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "amaranth-greens",
@@ -8541,7 +8730,8 @@ const CN_SUPPLEMENT_FOODS = [
       "红苋",
       "青苋"
     ],
-    "summary": "苋菜，常见于中式饮食与地方菜。"
+    "summary": "苋菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "toona-sprout",
@@ -8608,7 +8798,8 @@ const CN_SUPPLEMENT_FOODS = [
       "冬菇",
       "花菇"
     ],
-    "summary": "香菇，常见于中式饮食与地方菜。"
+    "summary": "香菇，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "muskmelon",
@@ -8635,7 +8826,8 @@ const CN_SUPPLEMENT_FOODS = [
       "muskmelon",
       "香瓜"
     ],
-    "summary": "香瓜，常见于中式饮食与地方菜。"
+    "summary": "香瓜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "banana",
@@ -8663,7 +8855,8 @@ const CN_SUPPLEMENT_FOODS = [
       "banana",
       "香蕉"
     ],
-    "summary": "香蕉，常见于中式饮食与地方菜。"
+    "summary": "香蕉，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "whelk",
@@ -8690,7 +8883,8 @@ const CN_SUPPLEMENT_FOODS = [
       "whelk",
       "香螺"
     ],
-    "summary": "香螺，常见于中式饮食与地方菜。"
+    "summary": "香螺，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "chinese-celery",
@@ -8720,7 +8914,8 @@ const CN_SUPPLEMENT_FOODS = [
       "香芹",
       "本芹"
     ],
-    "summary": "香芹，常见于中式饮食与地方菜。"
+    "summary": "香芹，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "geoduck",
@@ -8747,7 +8942,8 @@ const CN_SUPPLEMENT_FOODS = [
       "geoduck",
       "象拔蚌"
     ],
-    "summary": "象拔蚌，常见于中式饮食与地方菜。"
+    "summary": "象拔蚌，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "shallot",
@@ -8778,7 +8974,8 @@ const CN_SUPPLEMENT_FOODS = [
       "小葱",
       "香葱"
     ],
-    "summary": "小葱，常见于中式饮食与地方菜。"
+    "summary": "小葱，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "fennel-herb",
@@ -8809,7 +9006,8 @@ const CN_SUPPLEMENT_FOODS = [
       "小茴香",
       "茴香苗"
     ],
-    "summary": "小茴香，常见于中式饮食与地方菜。"
+    "summary": "小茴香，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "crayfish",
@@ -8870,7 +9068,8 @@ const CN_SUPPLEMENT_FOODS = [
       "蟹味菇",
       "真姬菇"
     ],
-    "summary": "蟹味菇，常见于中式饮食与地方菜。"
+    "summary": "蟹味菇，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "xinjiang-chaomifen",
@@ -8922,7 +9121,8 @@ const CN_SUPPLEMENT_FOODS = [
       "apricot",
       "杏"
     ],
-    "summary": "杏，常见于中式饮食与地方菜。"
+    "summary": "杏，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "king-oyster-mushroom",
@@ -8950,7 +9150,8 @@ const CN_SUPPLEMENT_FOODS = [
       "king oyster mushroom",
       "杏鲍菇"
     ],
-    "summary": "杏鲍菇，常见于中式饮食与地方菜。"
+    "summary": "杏鲍菇，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "yunnan-ham",
@@ -9026,7 +9227,8 @@ const CN_SUPPLEMENT_FOODS = [
       "雪里蕻",
       "雪菜"
     ],
-    "summary": "雪里蕻，常见于中式饮食与地方菜。"
+    "summary": "雪里蕻，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "duck",
@@ -9115,7 +9317,8 @@ const CN_SUPPLEMENT_FOODS = [
       "燕麦",
       "莜麦片原料"
     ],
-    "summary": "燕麦，常见于中式饮食与地方菜。"
+    "summary": "燕麦，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "morel",
@@ -9143,7 +9346,8 @@ const CN_SUPPLEMENT_FOODS = [
       "morel",
       "羊肚菌"
     ],
-    "summary": "羊肚菌，常见于中式饮食与地方菜。"
+    "summary": "羊肚菌，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "lamb-skewer",
@@ -9197,7 +9401,8 @@ const CN_SUPPLEMENT_FOODS = [
       "bayberry",
       "杨梅"
     ],
-    "summary": "杨梅，常见于中式饮食与地方菜。"
+    "summary": "杨梅，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "starfruit",
@@ -9228,7 +9433,8 @@ const CN_SUPPLEMENT_FOODS = [
       "杨桃",
       "羊桃"
     ],
-    "summary": "杨桃，常见于中式饮食与地方菜。"
+    "summary": "杨桃，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "onion",
@@ -9256,7 +9462,8 @@ const CN_SUPPLEMENT_FOODS = [
       "onion",
       "洋葱"
     ],
-    "summary": "洋葱，常见于中式饮食与地方菜。"
+    "summary": "洋葱，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "coconut",
@@ -9284,7 +9491,8 @@ const CN_SUPPLEMENT_FOODS = [
       "coconut",
       "椰子"
     ],
-    "summary": "椰子，常见于中式饮食与地方菜。"
+    "summary": "椰子，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "wild-lotus-root",
@@ -9313,7 +9521,8 @@ const CN_SUPPLEMENT_FOODS = [
       "wild lotus root",
       "野藕"
     ],
-    "summary": "野藕，常见于中式饮食与地方菜。"
+    "summary": "野藕，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "yunnan-mushroom-hotpot",
@@ -9397,7 +9606,8 @@ const CN_SUPPLEMENT_FOODS = [
       "白木耳",
       "雪耳"
     ],
-    "summary": "银耳，常见于中式饮食与地方菜。"
+    "summary": "银耳，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "tremella",
@@ -9453,7 +9663,8 @@ const CN_SUPPLEMENT_FOODS = [
       "银鱼",
       "面条鱼"
     ],
-    "summary": "银鱼，常见于中式饮食与地方菜。"
+    "summary": "银鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "silver-fish-fresh",
@@ -9517,7 +9728,8 @@ const CN_SUPPLEMENT_FOODS = [
       "樱桃",
       "车厘子"
     ],
-    "summary": "樱桃，常见于中式饮食与地方菜。"
+    "summary": "樱桃，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "chickpea",
@@ -9547,7 +9759,8 @@ const CN_SUPPLEMENT_FOODS = [
       "鹰嘴豆",
       "鸡心豆"
     ],
-    "summary": "鹰嘴豆，常见于中式饮食与地方菜。"
+    "summary": "鹰嘴豆，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "bighead-carp",
@@ -9580,7 +9793,8 @@ const CN_SUPPLEMENT_FOODS = [
       "胖头鱼",
       "花鲢"
     ],
-    "summary": "鳙鱼，常见于中式饮食与地方菜。"
+    "summary": "鳙鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "a-choy",
@@ -9610,7 +9824,8 @@ const CN_SUPPLEMENT_FOODS = [
       "油麦菜",
       "莴笋尖菜"
     ],
-    "summary": "油麦菜，常见于中式饮食与地方菜。"
+    "summary": "油麦菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "squid",
@@ -9641,7 +9856,8 @@ const CN_SUPPLEMENT_FOODS = [
       "鱿鱼",
       "枪乌贼"
     ],
-    "summary": "鱿鱼，常见于中式饮食与地方菜。"
+    "summary": "鱿鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "pomelo",
@@ -9672,7 +9888,8 @@ const CN_SUPPLEMENT_FOODS = [
       "柚子",
       "文旦"
     ],
-    "summary": "柚子，常见于中式饮食与地方菜。"
+    "summary": "柚子，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "shark-fin",
@@ -9755,7 +9972,8 @@ const CN_SUPPLEMENT_FOODS = [
       "苞谷",
       "棒子"
     ],
-    "summary": "玉米，常见于中式饮食与地方菜。"
+    "summary": "玉米，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "polygonatum",
@@ -9817,7 +10035,8 @@ const CN_SUPPLEMENT_FOODS = [
       "芋头",
       "芋艿"
     ],
-    "summary": "芋头，常见于中式饮食与地方菜。"
+    "summary": "芋头，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "cloud-ear",
@@ -9848,7 +10067,8 @@ const CN_SUPPLEMENT_FOODS = [
       "云耳",
       "毛木耳"
     ],
-    "summary": "云耳，常见于中式饮食与地方菜。"
+    "summary": "云耳，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "kidney-bean",
@@ -9880,7 +10100,8 @@ const CN_SUPPLEMENT_FOODS = [
       "菜豆",
       "四季豆"
     ],
-    "summary": "芸豆，常见于中式饮食与地方菜。"
+    "summary": "芸豆，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "tsampa",
@@ -9937,7 +10158,8 @@ const CN_SUPPLEMENT_FOODS = [
       "红枣",
       "大枣"
     ],
-    "summary": "枣，常见于中式饮食与地方菜。"
+    "summary": "枣，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "zhacai",
@@ -9989,7 +10211,8 @@ const CN_SUPPLEMENT_FOODS = [
       "章鱼",
       "八爪鱼"
     ],
-    "summary": "章鱼，常见于中式饮食与地方菜。"
+    "summary": "章鱼，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "sesame",
@@ -10020,7 +10243,8 @@ const CN_SUPPLEMENT_FOODS = [
       "芝麻",
       "胡麻"
     ],
-    "summary": "芝麻，常见于中式饮食与地方菜。"
+    "summary": "芝麻，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "arugula",
@@ -10050,7 +10274,8 @@ const CN_SUPPLEMENT_FOODS = [
       "芝麻菜",
       "火箭菜"
     ],
-    "summary": "芝麻菜，常见于中式饮食与地方菜。"
+    "summary": "芝麻菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "bamboo-fungus",
@@ -10081,7 +10306,8 @@ const CN_SUPPLEMENT_FOODS = [
       "竹荪",
       "竹笙"
     ],
-    "summary": "竹荪，常见于中式饮食与地方菜。"
+    "summary": "竹荪，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "tender-bamboo",
@@ -10111,7 +10337,8 @@ const CN_SUPPLEMENT_FOODS = [
       "竹笋尖",
       "笋尖"
     ],
-    "summary": "竹笋尖，常见于中式饮食与地方菜。"
+    "summary": "竹笋尖，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "bamboo-rice",
@@ -10193,7 +10420,8 @@ const CN_SUPPLEMENT_FOODS = [
       "cumin",
       "孜然"
     ],
-    "summary": "孜然，常见于中式饮食与地方菜。"
+    "summary": "孜然，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "nori",
@@ -10221,7 +10449,8 @@ const CN_SUPPLEMENT_FOODS = [
       "nori",
       "紫菜"
     ],
-    "summary": "紫菜，常见于中式饮食与地方菜。"
+    "summary": "紫菜，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "purple-cabbage",
@@ -10251,7 +10480,8 @@ const CN_SUPPLEMENT_FOODS = [
       "紫甘蓝",
       "紫包菜"
     ],
-    "summary": "紫甘蓝，常见于中式饮食与地方菜。"
+    "summary": "紫甘蓝，常见于中式饮食与地方菜。",
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
     "id": "perilla-leaf",

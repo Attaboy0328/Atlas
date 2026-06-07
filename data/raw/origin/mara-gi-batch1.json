@@ -1,0 +1,627 @@
+{
+  "registry": "mara-gi-batch1",
+  "fetchedAt": "2026-06-08",
+  "note": "整理自公开地理标志名录结构样例；以登记机关最新公告为准。",
+  "items": [
+    {
+      "id": "yangcheng-lake-crab",
+      "name": "阳澄湖大闸蟹",
+      "category": "海产",
+      "nature": "寒",
+      "provinces": [
+        "江苏",
+        "苏州"
+      ],
+      "baseFoodId": "crab",
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "阳澄湖大闸蟹为江浙常见地理标志水产。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-yangcheng-crab",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "gannan-navel-orange",
+      "name": "赣南脐橙",
+      "category": "水果",
+      "nature": "凉",
+      "provinces": [
+        "江西",
+        "赣州"
+      ],
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "赣南脐橙为江西赣州地理标志柑橘。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-gannan-orange",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "zigui-navel-orange",
+      "name": "秭归脐橙",
+      "category": "水果",
+      "nature": "凉",
+      "provinces": [
+        "湖北",
+        "宜昌"
+      ],
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "秭归脐橙为湖北宜昌地理标志柑橘。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-zigui-orange",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "yantai-apple-gi",
+      "name": "烟台苹果",
+      "category": "水果",
+      "nature": "凉",
+      "provinces": [
+        "山东",
+        "烟台"
+      ],
+      "baseFoodId": "apple",
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "烟台苹果为山东沿海常见地理标志水果。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-yantai-apple",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "luochuan-apple-gi",
+      "name": "洛川苹果",
+      "category": "水果",
+      "nature": "凉",
+      "provinces": [
+        "陕西",
+        "延安"
+      ],
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "洛川苹果为陕北黄土高原地理标志苹果。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-luochuan-apple",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "korla-pear-gi",
+      "name": "库尔勒香梨",
+      "category": "水果",
+      "nature": "凉",
+      "provinces": [
+        "新疆",
+        "巴州"
+      ],
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "库尔勒香梨为新疆巴州地理标志梨品。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-korla-pear",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "turpan-grape-gi",
+      "name": "吐鲁番葡萄",
+      "category": "水果",
+      "nature": "平",
+      "provinces": [
+        "新疆",
+        "吐鲁番"
+      ],
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "吐鲁番葡萄为新疆绿洲农业地理标志葡萄。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-turpan-grape",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "hami-melon-gi",
+      "name": "哈密瓜",
+      "category": "水果",
+      "nature": "寒",
+      "provinces": [
+        "新疆",
+        "哈密"
+      ],
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "哈密瓜为新疆哈密地理标志甜瓜。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-hami-melon",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "jinhua-ham-gi",
+      "name": "金华火腿",
+      "category": "肉蛋奶",
+      "nature": "温",
+      "provinces": [
+        "浙江",
+        "金华"
+      ],
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "金华火腿为浙江金华地理标志腌腊肉制品。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-jinhua-ham",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "xuanwei-ham-gi",
+      "name": "宣威火腿",
+      "category": "肉蛋奶",
+      "nature": "温",
+      "provinces": [
+        "云南",
+        "宣威"
+      ],
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "宣威火腿为云南宣威地理标志火腿。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-xuanwei-ham",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "xinhui-chenpi-gi",
+      "name": "新会陈皮",
+      "category": "食药物质",
+      "nature": "温",
+      "provinces": [
+        "广东",
+        "江门"
+      ],
+      "baseFoodId": "chenpi",
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "daoDi": {
+        "isAuthentic": true,
+        "regions": [
+          "广东新会"
+        ]
+      },
+      "summary": "新会陈皮为广陈皮道地产区地理标志产品。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-xinhui-chenpi",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "huazhou-juhong-gi",
+      "name": "化州橘红",
+      "category": "中药材",
+      "nature": "温",
+      "provinces": [
+        "广东",
+        "化州"
+      ],
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "化州橘红为广东化州地理标志橘红药材。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-huazhou-juhong",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "fuling-mustard-tuber",
+      "name": "涪陵榨菜",
+      "category": "腌菜",
+      "nature": "温",
+      "provinces": [
+        "重庆",
+        "涪陵"
+      ],
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "涪陵榨菜为重庆涪陵地理标志腌菜。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-fuling-pickle",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "zhangqiu-scallion-gi",
+      "name": "章丘大葱",
+      "category": "蔬菜",
+      "nature": "温",
+      "provinces": [
+        "山东",
+        "济南"
+      ],
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "章丘大葱为山东济南章丘地理标志蔬菜。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-zhangqiu-scallion",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "yantai-cherry-gi",
+      "name": "烟台大樱桃",
+      "category": "水果",
+      "nature": "温",
+      "provinces": [
+        "山东",
+        "烟台"
+      ],
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "烟台大樱桃为山东烟台地理标志樱桃。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-yantai-cherry",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "cangzhou-jujube-gi",
+      "name": "沧州金丝小枣",
+      "category": "水果",
+      "nature": "温",
+      "provinces": [
+        "河北",
+        "沧州"
+      ],
+      "baseFoodId": "jujube",
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "沧州金丝小枣为河北沧州地理标志枣品。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-cangzhou-jujube",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "chongming-crab-gi",
+      "name": "崇明清水蟹",
+      "category": "海产",
+      "nature": "寒",
+      "provinces": [
+        "上海",
+        "崇明"
+      ],
+      "baseFoodId": "crab",
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "崇明清水蟹为上海崇明地理标志河蟹。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-chongming-crab",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "longkou-vermicelli-gi",
+      "name": "龙口粉丝",
+      "category": "主食",
+      "nature": "平",
+      "provinces": [
+        "山东",
+        "烟台"
+      ],
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "龙口粉丝为山东烟台龙口地理标志粉丝。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-longkou-vermicelli",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "anji-white-tea-gi",
+      "name": "安吉白茶",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": [
+        "浙江",
+        "湖州"
+      ],
+      "teaClass": "绿茶",
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "安吉白茶为浙江湖州地理标志绿茶。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-anji-white-tea",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "huangshan-maofeng-gi",
+      "name": "黄山毛峰",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": [
+        "安徽",
+        "黄山"
+      ],
+      "teaClass": "绿茶",
+      "baseFoodId": "green-tea",
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "黄山毛峰为安徽黄山地理标志绿茶。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-huangshan-maofeng",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "keemun-black-tea-gi",
+      "name": "祁门红茶",
+      "category": "茶饮",
+      "nature": "温",
+      "provinces": [
+        "安徽",
+        "祁门"
+      ],
+      "teaClass": "红茶",
+      "baseFoodId": "black-tea",
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "祁门红茶为安徽祁门地理标志红茶。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-keemun-black-tea",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "liubao-tea-gi",
+      "name": "六堡茶",
+      "category": "茶饮",
+      "nature": "温",
+      "provinces": [
+        "广西",
+        "梧州"
+      ],
+      "teaClass": "黑茶",
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "六堡茶为广西梧州地理标志黑茶。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-liubao-tea",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "fuzhuan-brick-tea-gi",
+      "name": "茯砖茶",
+      "category": "茶饮",
+      "nature": "温",
+      "provinces": [
+        "湖南",
+        "益阳"
+      ],
+      "teaClass": "黑茶",
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "茯砖茶为湖南益阳地理标志黑茶。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-fuzhuan-tea",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "enshi-yulu-gi",
+      "name": "恩施玉露",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": [
+        "湖北",
+        "恩施"
+      ],
+      "teaClass": "绿茶",
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "恩施玉露为湖北恩施地理标志蒸青绿茶。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-enshi-yulu",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "duyun-maojian-gi",
+      "name": "都匀毛尖",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": [
+        "贵州",
+        "都匀"
+      ],
+      "teaClass": "绿茶",
+      "giSystems": [
+        {
+          "system": "mara",
+          "type": "农产品地理标志",
+          "label": "农业农村部农产品地理标志"
+        }
+      ],
+      "summary": "都匀毛尖为贵州都匀地理标志绿茶。",
+      "provenance": {
+        "source": "mara",
+        "sourceUrl": "https://www.moa.gov.cn/",
+        "sourceId": "mara-duyun-maojian",
+        "fetchedAt": "2026-06-08"
+      }
+    }
+  ]
+}

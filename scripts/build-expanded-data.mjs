@@ -19,7 +19,7 @@ const CATEGORY_MAP = {
   CAT_FUNGI: "菌菇",
   CAT_FRUIT: "水果",
   CAT_PROTEIN: "肉蛋奶",
-  CAT_SEA: "水产",
+  CAT_SEA: "海产",
   CAT_CONDIMENT: "调料",
   CAT_PICKLE: "腌菜",
   CAT_TONIC: "滋补食材",

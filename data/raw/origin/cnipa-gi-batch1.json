@@ -1,0 +1,373 @@
+{
+  "registry": "cnipa-gi-batch1",
+  "fetchedAt": "2026-06-08",
+  "note": "整理自公开地理标志名录结构样例；以登记机关最新公告为准。",
+  "items": [
+    {
+      "id": "shaoxing-rice-wine-gi",
+      "name": "绍兴酒",
+      "category": "饮品",
+      "nature": "温",
+      "provinces": [
+        "浙江",
+        "绍兴"
+      ],
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "绍兴酒为浙江绍兴地理标志黄酒。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-shaoxing-wine",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "fenjiu-gi",
+      "name": "汾酒",
+      "category": "饮品",
+      "nature": "温",
+      "provinces": [
+        "山西",
+        "汾阳"
+      ],
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "汾酒为山西汾阳地理标志白酒。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-fenjiu",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "wuliangye-gi",
+      "name": "五粮液",
+      "category": "饮品",
+      "nature": "温",
+      "provinces": [
+        "四川",
+        "宜宾"
+      ],
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "五粮液为四川宜宾地理标志白酒。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-wuliangye",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "moutai-gi",
+      "name": "茅台酒",
+      "category": "饮品",
+      "nature": "温",
+      "provinces": [
+        "贵州",
+        "茅台镇"
+      ],
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "茅台酒为贵州仁怀地理标志酱香白酒。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-moutai",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "luzhou-laojiao-gi",
+      "name": "泸州老窖",
+      "category": "饮品",
+      "nature": "温",
+      "provinces": [
+        "四川",
+        "泸州"
+      ],
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "泸州老窖为四川泸州地理标志白酒。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-luzhou-laojiao",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "jingdezhen-tea-gi",
+      "name": "庐山云雾茶",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": [
+        "江西",
+        "庐山"
+      ],
+      "teaClass": "绿茶",
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "庐山云雾茶为江西庐山地理标志绿茶。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-lushan-tea",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "junshan-yinzhen-gi",
+      "name": "君山银针",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": [
+        "湖南",
+        "岳阳"
+      ],
+      "teaClass": "黄茶",
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "君山银针为湖南岳阳地理标志黄茶。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-junshan-yinzhen",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "mengding-ganlu-gi",
+      "name": "蒙顶甘露",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": [
+        "四川",
+        "雅安"
+      ],
+      "teaClass": "绿茶",
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "蒙顶甘露为四川雅安地理标志绿茶。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-mengding-ganlu",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "biluochun-dongting-gi",
+      "name": "洞庭山碧螺春",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": [
+        "江苏",
+        "苏州"
+      ],
+      "teaClass": "绿茶",
+      "baseFoodId": "green-tea",
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "洞庭山碧螺春为江苏苏州地理标志绿茶。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-biluochun",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "zhengshan-souchong-gi",
+      "name": "正山小种",
+      "category": "茶饮",
+      "nature": "温",
+      "provinces": [
+        "福建",
+        "武夷山"
+      ],
+      "teaClass": "红茶",
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "正山小种为福建武夷山地理标志红茶。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-zhengshan-souchong",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "taihe-wuji-gi",
+      "name": "泰和乌鸡",
+      "category": "肉蛋奶",
+      "nature": "平",
+      "provinces": [
+        "江西",
+        "泰和"
+      ],
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "泰和乌鸡为江西泰和地理标志禽肉。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-taihe-wuji",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "jinzhai-shiitake-gi",
+      "name": "金寨香菇",
+      "category": "菌菇",
+      "nature": "平",
+      "provinces": [
+        "安徽",
+        "金寨"
+      ],
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "金寨香菇为安徽金寨地理标志菌菇。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-jinzhai-shiitake",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "qingyuan-mushroom-gi",
+      "name": "庆元香菇",
+      "category": "菌菇",
+      "nature": "平",
+      "provinces": [
+        "浙江",
+        "庆元"
+      ],
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "庆元香菇为浙江庆元地理标志菌菇。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-qingyuan-mushroom",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "suixing-honey-gi",
+      "name": "遂昌蜂蜜",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "浙江",
+        "遂昌"
+      ],
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "遂昌蜂蜜为浙江遂昌地理标志蜂蜜。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-suixing-honey",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "tianshui-guagua-gi",
+      "name": "天水花牛苹果",
+      "category": "水果",
+      "nature": "凉",
+      "provinces": [
+        "甘肃",
+        "天水"
+      ],
+      "giSystems": [
+        {
+          "system": "cnipa",
+          "type": "地理标志保护产品",
+          "label": "国家知识产权局地理标志"
+        }
+      ],
+      "summary": "天水花牛苹果为甘肃天水地理标志苹果。",
+      "provenance": {
+        "source": "cnipa",
+        "sourceUrl": "https://www.cnipa.gov.cn/",
+        "sourceId": "cnipa-tianshui-apple",
+        "fetchedAt": "2026-06-08"
+      }
+    }
+  ]
+}

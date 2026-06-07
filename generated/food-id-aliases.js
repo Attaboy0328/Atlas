@@ -29,5 +29,7 @@ const FOOD_ID_ALIASES = {
   "juglans-regia-kernel": "walnut",
   "fructus-piperis": "pepper-spice",
   "zanthoxylum-bungeanum-peel": "sichuan-pepper",
-  "official-fennel": "fennel-seed"
+  "official-fennel": "fennel-seed",
+  "ningxia-goji": "goji-berry",
+  "lycium-barbarum-ningxia": "goji-berry"
 };

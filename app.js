@@ -60,6 +60,13 @@ const QI_TERM_META = {
 };
 
 const QI_TERMS_HOME = ["行气", "理气", "破气", "降气"];
+
+const HOME_LIBRARY_SHORTCUTS = [
+  { label: "药食同源", kind: "food-medicine", tone: "#8a7340", pale: "#f3ecda", hint: "国家目录可追溯条目" },
+  { label: "地理标志", cert: "地理标志", tone: "#4a6a8a", pale: "#e5edf5", hint: "GI · 公开登记名录" },
+  { label: "道地产区", cert: "道地", tone: "#6b5b8a", pale: "#ece8f2", hint: "药材志道地整理" },
+  { label: "中药材", kind: "tcm-herb", tone: "#7a4a4a", pale: "#f3e8e8", hint: "药典2025参考查阅" }
+];
 const PROVINCE_FILTER_EXPAND_LIMIT = 12;
 const ETHNIC_FILTER_EXPAND_LIMIT = 10;
 const PAIRING_CATEGORY_ORDER = ["现代安全", "传统食养", "民间迷思"];
@@ -1777,11 +1784,16 @@ function pushRecentRecipe(id) {
   saveJson("foodwise-recent-recipes", state.recentRecipes);
 }
 
-function navigateToLibraryFromHome({ nature, topic, kind, query } = {}) {
+function navigateToLibraryFromHome({ nature, topic, kind, cert, query } = {}) {
   if (nature) {
     state.libraryNature = nature;
     state.libraryTopic = "";
     state.libraryCertFilter = "";
+  }
+  if (cert) {
+    state.libraryCertFilter = cert;
+    state.libraryTopic = "";
+    state.libraryNature = "全部";
   }
   if (kind) {
     state.libraryKind = kind;
@@ -2336,6 +2348,18 @@ function bindViewEvents() {
     });
   });
 
+  app.querySelectorAll("[data-home-library-shortcut]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      const kind = button.dataset.shortcutKind || "";
+      const cert = button.dataset.shortcutCert || "";
+      navigateToLibraryFromHome({
+        kind: kind || undefined,
+        cert: cert || undefined
+      });
+    });
+  });
+
   app.querySelectorAll("[data-library-nature-link]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
@@ -2788,6 +2812,14 @@ function scrollToResultAnchor() {
   });
 }
 
+function countPinnedLibraryFiltersWhenSearch() {
+  let count = 0;
+  if (state.libraryKind !== "全部") count += 1;
+  if (state.libraryCertFilter) count += 1;
+  if (state.libraryOfficialBatch !== "全部") count += 1;
+  return count;
+}
+
 function countLibraryActiveFilters() {
   let count = 0;
   if (state.libraryKind !== "全部") count += 1;
@@ -2872,12 +2904,14 @@ function renderStickyBrowseToolbar({
   searchBypassesFilters = false
 }) {
   const filterLabel = filterButtonLabel || (activeFilterCount > 0 ? `筛选 · ${activeFilterCount}` : "筛选");
-  const summaryClass = searchBypassesFilters && activeFilterCount > 0 ? "sticky-toolbar-summary is-muted" : "sticky-toolbar-summary";
+  const summaryClass = searchBypassesFilters && activeFilterCount > countPinnedLibraryFiltersWhenSearch()
+    ? "sticky-toolbar-summary is-muted"
+    : "sticky-toolbar-summary";
   return `
     <section class="sticky-toolbar">
       ${searchField({ id: searchId, placeholder, value: queryValue })}
       ${quickFiltersHtml}
-      ${searchBypassesFilters && activeFilterCount > 0 ? '<p class="sticky-toolbar-search-hint">搜索时已忽略下方筛选条件</p>' : ""}
+      ${searchBypassesFilters && activeFilterCount > countPinnedLibraryFiltersWhenSearch() ? '<p class="sticky-toolbar-search-hint">搜索时已忽略食性、分类与地区等筛选；条目类型与产地认证仍生效</p>' : ""}
       <div class="sticky-toolbar-meta">
         <p class="${summaryClass}">${summary}</p>
         <button type="button" class="filter-open-button" data-open-filters="${filterScope}">${filterLabel}</button>
@@ -2981,38 +3015,24 @@ function renderRecipesFilterDrawerContent(resultCount) {
       </div>
       <section class="filter-panel recipe-filter-panel filter-drawer-panel">
         ${renderFilterDisclosureGroup({
-          id: "body-fit",
-          title: "适用与慎用",
-          open: isRecipeFilterGroupOpen("body-fit"),
+          id: "recipe-scene",
+          title: "场景与做法",
+          open: isRecipeFilterGroupOpen("recipe-scene"),
           bodyHtml: [
             renderRecipeFilterTagSection("适用场景", RECIPE_USE_FOR_TAG_OPTIONS, "data-recipes-usefor", state.recipesUseFor),
-            renderRecipeFilterTagSection("慎用提示", RECIPE_AVOID_FOR_TAG_OPTIONS, "data-recipes-avoidfor", state.recipesAvoidFor)
-          ].join("")
-        })}
-        ${renderFilterDisclosureGroup({
-          id: "timing-cooking",
-          title: "时段与做法",
-          open: isRecipeFilterGroupOpen("timing-cooking"),
-          bodyHtml: [
+            renderRecipeFilterTagSection("慎用提示", RECIPE_AVOID_FOR_TAG_OPTIONS, "data-recipes-avoidfor", state.recipesAvoidFor),
             renderChipSection("建议时段", RECIPE_TIMING_OPTIONS, "data-recipes-timing", state.recipesTiming),
             renderChipSection("烹调方式", RECIPE_COOKING_OPTIONS, "data-recipes-cooking", state.recipesCooking)
           ].join("")
         })}
         ${renderFilterDisclosureGroup({
-          id: "season-feel",
-          title: "季节与感受",
-          open: isRecipeFilterGroupOpen("season-feel"),
+          id: "recipe-season-tonify",
+          title: "时令与补泻",
+          open: isRecipeFilterGroupOpen("recipe-season-tonify"),
           bodyHtml: [
             renderChipSection("适宜季节", RECIPE_SEASON_OPTIONS, "data-recipes-season", state.recipesSeason),
             renderChipSection("节气", RECIPE_SOLAR_TERM_OPTIONS, "data-recipes-solarterm", state.recipesSolarTerm),
-            renderChipSection("身体感受", RECIPE_BODY_FEEL_OPTIONS, "data-recipes-bodyfeel", state.recipesBodyFeel)
-          ].join("")
-        })}
-        ${renderFilterDisclosureGroup({
-          id: "tonify-clear",
-          title: "补泻倾向",
-          open: isRecipeFilterGroupOpen("tonify-clear"),
-          bodyHtml: [
+            renderChipSection("身体感受", RECIPE_BODY_FEEL_OPTIONS, "data-recipes-bodyfeel", state.recipesBodyFeel),
             renderChipSection("补神/益气", RECIPE_TONIFY_OPTIONS, "data-recipes-tonify", state.recipesTonify),
             renderChipSection("清热/祛湿", RECIPE_CLEAR_OPTIONS, "data-recipes-clear", state.recipesClear)
           ].join("")
@@ -3263,6 +3283,21 @@ function renderHomeV2() {
     })
     .join("");
 
+  const libraryShortcutTiles = HOME_LIBRARY_SHORTCUTS
+    .map((item) => `
+      <button
+        class="qi-term-tile home-library-shortcut"
+        data-home-library-shortcut="${item.label}"
+        data-shortcut-kind="${item.kind || ""}"
+        data-shortcut-cert="${item.cert || ""}"
+        style="background:${item.pale};border-color:${item.tone}22"
+      >
+        <strong style="color:${item.tone}">${item.label}</strong>
+        <span>${item.hint}</span>
+      </button>
+    `)
+    .join("");
+
   return `
     <section class="hero">
       <h1>察食性，明食理<br>知食性，辨宜忌</h1>
@@ -3309,6 +3344,13 @@ function renderHomeV2() {
     </section>
 
     <section class="qi-term-grid">${qiTermTiles}</section>
+
+    <section class="home-section">
+      <h2 class="section-title">专题与产地</h2>
+      <p class="section-copy">药食同源、地理标志与道地产区，一键进入食材库筛选。</p>
+    </section>
+
+    <section class="qi-term-grid home-library-shortcut-grid">${libraryShortcutTiles}</section>
 
     <section class="notice gold">
       <strong>数据边界</strong>
@@ -3622,10 +3664,12 @@ function filterFoods() {
   const term = cleanString(state.libraryQuery).toLowerCase();
   return searchFoods(state.libraryQuery).filter((food) => {
     if (food.hiddenFromLibrary) return false;
-    if (term) return true;
+    const byKind = matchLibraryKind(food, state.libraryKind);
+    const byCert = !state.libraryCertFilter || matchCertFilter(food, state.libraryCertFilter);
+    const byOfficialBatch = matchOfficialBatch(food);
+    if (term) return byKind && byCert && byOfficialBatch;
     const byNature = state.libraryNature === "全部" || food.nature === state.libraryNature;
     const byCategory = foodMatchesCategory(food, state.libraryCategory);
-    const byCert = !state.libraryCertFilter || matchCertFilter(food, state.libraryCertFilter);
     const byRegion = state.libraryRegion === "ALL" || food.regions.includes(state.libraryRegion);
     const byProvince = state.libraryProvince === "全部"
       || (food.provinces || []).includes(state.libraryProvince)
@@ -3633,8 +3677,6 @@ function filterFoods() {
     const byEthnic = state.libraryEthnic === "全部"
       || (food.ethnicGroups || []).includes(state.libraryEthnic);
     const byTopic = !state.libraryTopic || matchTopic(food, state.libraryTopic);
-    const byKind = matchLibraryKind(food, state.libraryKind);
-    const byOfficialBatch = matchOfficialBatch(food);
     return byNature && byCategory && byCert && byRegion && byProvince && byEthnic && byTopic && byKind && byOfficialBatch;
   });
 }
@@ -3829,11 +3871,25 @@ function renderNotice(level, title, text, foodId = "", category = "") {
   return `<section class="${className}"><strong>${title}</strong>${categoryTag}<p>${text}</p>${foodId ? `<button type="button" class="checker-food-link" data-open-checker-food="${foodId}">查看食材详情</button>` : ""}</section>`;
 }
 
+function foodOriginBadges(food) {
+  const badges = [];
+  if (food.isOriginProduct || (food.giSystems || []).length) badges.push('<span class="food-row-badge food-row-badge-gi">GI</span>');
+  if (food.peop) badges.push('<span class="food-row-badge food-row-badge-peop">PEOP</span>');
+  if (food.daoDi?.isAuthentic || DAO_DI_BY_CANONICAL.has(resolveFoodId(food.id))) {
+    badges.push('<span class="food-row-badge food-row-badge-daodi">道地</span>');
+  }
+  if (food.officialFoodMedicine) badges.push('<span class="food-row-badge food-row-badge-fm">药食</span>');
+  return badges.length ? `<div class="food-row-badges">${badges.join("")}</div>` : "";
+}
+
 function foodRow(food) {
   return `
     <button class="food-row" data-open-food="${food.id}">
       <div class="food-main">
-        <strong>${food.name}</strong>
+        <div class="food-main-head">
+          <strong>${food.name}</strong>
+          ${foodOriginBadges(food)}
+        </div>
         <small>${foodListMeta(food)}</small>
       </div>
       ${natureBadge(food.nature)}
@@ -3989,13 +4045,13 @@ function filterTagChip(tag, dataAttr, active, extraClass = "filter-chip-compact"
 
 function isRecipeFilterGroupOpen(groupId) {
   const activeChecks = {
-    "body-fit": () => state.recipesUseFor !== "全部" || state.recipesAvoidFor !== "全部",
-    "timing-cooking": () => state.recipesTiming !== "全部" || state.recipesCooking !== "全部",
-    "season-feel": () => state.recipesSeason !== "全部" || state.recipesSolarTerm !== "全部" || state.recipesBodyFeel !== "全部",
-    "tonify-clear": () => state.recipesTonify !== "全部" || state.recipesClear !== "全部"
+    "recipe-scene": () => state.recipesUseFor !== "全部" || state.recipesAvoidFor !== "全部"
+      || state.recipesTiming !== "全部" || state.recipesCooking !== "全部",
+    "recipe-season-tonify": () => state.recipesSeason !== "全部" || state.recipesSolarTerm !== "全部"
+      || state.recipesBodyFeel !== "全部" || state.recipesTonify !== "全部" || state.recipesClear !== "全部"
   };
   if (activeChecks[groupId]?.()) return true;
-  return groupId === "body-fit";
+  return groupId === "recipe-scene";
 }
 
 function renderFilterDisclosureGroup({ id, title, open, bodyHtml }) {

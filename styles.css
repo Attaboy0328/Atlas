@@ -1592,6 +1592,54 @@ button {
   opacity: 0.72;
 }
 
+.food-main-head {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.food-row-badges {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.food-row-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 1px 6px;
+  border-radius: 999px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  line-height: 1.4;
+}
+
+.food-row-badge-gi {
+  background: color-mix(in srgb, var(--accent) 16%, var(--surface-raised));
+  color: var(--accent-strong, var(--accent));
+}
+
+.food-row-badge-peop {
+  background: #e8f2ea;
+  color: #3d6b4a;
+}
+
+.food-row-badge-daodi {
+  background: #ece8f2;
+  color: #5a4a7a;
+}
+
+.food-row-badge-fm {
+  background: #f3ecda;
+  color: #7a6230;
+}
+
+.home-library-shortcut-grid {
+  margin-bottom: 8px;
+}
+
 .recipe-filter-tag-group .chip[title] {
   text-decoration: underline dotted;
   text-decoration-color: color-mix(in srgb, var(--green) 42%, transparent);

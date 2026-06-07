@@ -182,6 +182,7 @@
     "ethnicGroups": ["回族"],
     "searchTerms": ["gouqi", "gq"],
     "aliases": ["枸杞子"],
-    "summary": "中宁枸杞，平补肝肾。"
+    "summary": "中宁枸杞，平补肝肾。",
+    "hiddenFromLibrary": true
   }
 ]

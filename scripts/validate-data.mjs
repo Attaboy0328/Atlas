@@ -212,6 +212,9 @@ if (!originProducts?.length) {
   errors.push("Missing or empty origin products — run npm run ingest:origin");
 } else {
   const originIds = new Set();
+  if (originProducts.length < 50) {
+    warnings.push(`Origin products ${originProducts.length} — target is 50+ after raw ingest`);
+  }
   originProducts.forEach((product) => {
     if (!product.id) errors.push("Origin product missing id");
     if (originIds.has(product.id)) errors.push(`Duplicate origin product id: ${product.id}`);

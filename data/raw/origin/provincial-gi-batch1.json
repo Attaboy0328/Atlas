@@ -1,0 +1,254 @@
+{
+  "registry": "provincial-gi-batch1",
+  "fetchedAt": "2026-06-08",
+  "note": "整理自公开地理标志名录结构样例；以登记机关最新公告为准。",
+  "items": [
+    {
+      "id": "piyazi-apple-gi",
+      "name": "花牛苹果",
+      "category": "水果",
+      "nature": "凉",
+      "provinces": [
+        "甘肃",
+        "天水"
+      ],
+      "giSystems": [
+        {
+          "system": "provincial",
+          "type": "省级地理标志",
+          "label": "甘肃省级地理标志"
+        }
+      ],
+      "summary": "花牛苹果为甘肃省级地理标志苹果品种。",
+      "provenance": {
+        "source": "provincial",
+        "sourceUrl": "",
+        "sourceId": "prov-gansu-apple",
+        "fetchedAt": "2026-06-08",
+        "note": "省级名录整理条目。"
+      }
+    },
+    {
+      "id": "chaozhou-gongfu-tea-gi",
+      "name": "潮州工夫茶",
+      "category": "茶饮",
+      "nature": "温",
+      "provinces": [
+        "广东",
+        "潮州"
+      ],
+      "teaClass": "乌龙茶",
+      "giSystems": [
+        {
+          "system": "provincial",
+          "type": "省级地理标志",
+          "label": "广东省级地理标志"
+        }
+      ],
+      "summary": "潮州工夫茶为广东潮州省级地理标志茶文化产品。",
+      "provenance": {
+        "source": "provincial",
+        "sourceUrl": "",
+        "sourceId": "prov-gd-chaozhou-tea",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "wuchang-rice-prov-gi",
+      "name": "五常大米",
+      "category": "谷物",
+      "nature": "平",
+      "provinces": [
+        "黑龙江",
+        "五常"
+      ],
+      "baseFoodId": "rice",
+      "giSystems": [
+        {
+          "system": "provincial",
+          "type": "省级地理标志",
+          "label": "黑龙江省级地理标志"
+        }
+      ],
+      "summary": "五常大米为黑龙江省级地理标志大米。",
+      "provenance": {
+        "source": "provincial",
+        "sourceUrl": "",
+        "sourceId": "prov-hlj-wuchang-rice",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "xiangxi-ciba-gi",
+      "name": "湘西糍粑",
+      "category": "主食",
+      "nature": "平",
+      "provinces": [
+        "湖南",
+        "湘西"
+      ],
+      "giSystems": [
+        {
+          "system": "provincial",
+          "type": "省级地理标志",
+          "label": "湖南省级地理标志"
+        }
+      ],
+      "summary": "湘西糍粑为湖南湘西省级地理标志米制品。",
+      "provenance": {
+        "source": "provincial",
+        "sourceUrl": "",
+        "sourceId": "prov-hn-xiangxi-ciba",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "yibin-bamboo-shoot-gi",
+      "name": "宜宾竹笋",
+      "category": "蔬菜",
+      "nature": "寒",
+      "provinces": [
+        "四川",
+        "宜宾"
+      ],
+      "giSystems": [
+        {
+          "system": "provincial",
+          "type": "省级地理标志",
+          "label": "四川省级地理标志"
+        }
+      ],
+      "summary": "宜宾竹笋为四川宜宾省级地理标志笋品。",
+      "provenance": {
+        "source": "provincial",
+        "sourceUrl": "",
+        "sourceId": "prov-sc-yibin-bamboo",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "wenshan-cordyceps-gi",
+      "name": "文山虫草花",
+      "category": "菌菇",
+      "nature": "平",
+      "provinces": [
+        "云南",
+        "文山"
+      ],
+      "giSystems": [
+        {
+          "system": "provincial",
+          "type": "省级地理标志",
+          "label": "云南省级地理标志"
+        }
+      ],
+      "summary": "文山虫草花为云南文山省级地理标志菌菇。",
+      "provenance": {
+        "source": "provincial",
+        "sourceUrl": "",
+        "sourceId": "prov-yn-wenshan-cordyceps",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "hangzhou-longjing-prov-gi",
+      "name": "西湖龙井",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": [
+        "浙江",
+        "杭州"
+      ],
+      "teaClass": "绿茶",
+      "baseFoodId": "longjing-tea",
+      "giSystems": [
+        {
+          "system": "provincial",
+          "type": "省级地理标志",
+          "label": "浙江省级地理标志"
+        }
+      ],
+      "summary": "西湖龙井为浙江省级地理标志绿茶。",
+      "provenance": {
+        "source": "provincial",
+        "sourceUrl": "",
+        "sourceId": "prov-zj-longjing",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "ruian-orange-gi",
+      "name": "瑞安脐橙",
+      "category": "水果",
+      "nature": "凉",
+      "provinces": [
+        "浙江",
+        "温州"
+      ],
+      "giSystems": [
+        {
+          "system": "provincial",
+          "type": "省级地理标志",
+          "label": "浙江省级地理标志"
+        }
+      ],
+      "summary": "瑞安脐橙为浙江温州省级地理标志柑橘。",
+      "provenance": {
+        "source": "provincial",
+        "sourceUrl": "",
+        "sourceId": "prov-zj-ruian-orange",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "fuding-white-tea-gi",
+      "name": "福鼎白茶",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": [
+        "福建",
+        "宁德"
+      ],
+      "teaClass": "白茶",
+      "baseFoodId": "white-tea",
+      "giSystems": [
+        {
+          "system": "provincial",
+          "type": "省级地理标志",
+          "label": "福建省级地理标志"
+        }
+      ],
+      "summary": "福鼎白茶为福建宁德省级地理标志白茶。",
+      "provenance": {
+        "source": "provincial",
+        "sourceUrl": "",
+        "sourceId": "prov-fj-fuding-white-tea",
+        "fetchedAt": "2026-06-08"
+      }
+    },
+    {
+      "id": "zhangzhou-pomelo-gi",
+      "name": "琯溪蜜柚",
+      "category": "水果",
+      "nature": "凉",
+      "provinces": [
+        "福建",
+        "漳州"
+      ],
+      "giSystems": [
+        {
+          "system": "provincial",
+          "type": "省级地理标志",
+          "label": "福建省级地理标志"
+        }
+      ],
+      "summary": "琯溪蜜柚为福建漳州省级地理标志柚类。",
+      "provenance": {
+        "source": "provincial",
+        "sourceUrl": "",
+        "sourceId": "prov-fj-zhangzhou-pomelo",
+        "fetchedAt": "2026-06-08"
+      }
+    }
+  ]
+}

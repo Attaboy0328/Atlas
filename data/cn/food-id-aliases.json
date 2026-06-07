@@ -28,5 +28,7 @@
   { "alias": "juglans-regia-kernel", "canonical": "walnut", "note": "核桃仁" },
   { "alias": "fructus-piperis", "canonical": "pepper-spice", "note": "胡椒" },
   { "alias": "zanthoxylum-bungeanum-peel", "canonical": "sichuan-pepper", "note": "花椒" },
-  { "alias": "official-fennel", "canonical": "fennel-seed", "note": "小茴香" }
+  { "alias": "official-fennel", "canonical": "fennel-seed", "note": "小茴香" },
+  { "alias": "ningxia-goji", "canonical": "goji-berry", "note": "宁夏枸杞区域条目归并到枸杞基原" },
+  { "alias": "lycium-barbarum-ningxia", "canonical": "goji-berry", "note": "宁夏枸杞别名" }
 ]

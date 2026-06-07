@@ -2,8 +2,8 @@
   {
     "id": "cistanche-roucongrong",
     "name": "肉苁蓉",
-    "nature": "\\u6e29",
-    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "nature": "温",
+    "category": "食药物质",
     "aliases": [
       "苁蓉",
       "大芸",
@@ -34,8 +34,8 @@
   {
     "id": "dendrobium-tiepi",
     "name": "铁皮石斛",
-    "nature": "\\u51c9",
-    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "nature": "凉",
+    "category": "食药物质",
     "aliases": [
       "铁皮枫斗",
       "枫斗",
@@ -67,8 +67,8 @@
   {
     "id": "baizhu",
     "name": "白术",
-    "nature": "\\u6e29",
-    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "nature": "温",
+    "category": "食药物质",
     "aliases": [
       "於术",
       "冬术",
@@ -130,8 +130,8 @@
   {
     "id": "shrimp",
     "name": "虾",
-    "nature": "\\u6e29",
-    "category": "\\u6d77\\u4ea7",
+    "nature": "温",
+    "category": "海产",
     "aliases": [
       "鲜虾",
       "海虾",
@@ -160,8 +160,8 @@
   {
     "id": "lobster",
     "name": "龙虾",
-    "nature": "\\u6e29",
-    "category": "\\u6d77\\u4ea7",
+    "nature": "温",
+    "category": "海产",
     "aliases": [
       "大龙虾",
       "澳龙",
@@ -191,8 +191,8 @@
   {
     "id": "black-tiger-shrimp",
     "name": "黑虎虾",
-    "nature": "\\u6e29",
-    "category": "\\u6d77\\u4ea7",
+    "nature": "温",
+    "category": "海产",
     "aliases": [
       "草虾",
       "斑节虾",
@@ -220,8 +220,8 @@
   {
     "id": "whiteleg-shrimp",
     "name": "南美白对虾",
-    "nature": "\\u6e29",
-    "category": "\\u6d77\\u4ea7",
+    "nature": "温",
+    "category": "海产",
     "aliases": [
       "白虾",
       "凡纳滨对虾",
@@ -249,8 +249,8 @@
   {
     "id": "kuruma-prawn",
     "name": "竹节虾",
-    "nature": "\\u6e29",
-    "category": "\\u6d77\\u4ea7",
+    "nature": "温",
+    "category": "海产",
     "aliases": [
       "竹节对虾",
       "九节虾",
@@ -278,8 +278,8 @@
   {
     "id": "ming-prawn",
     "name": "明虾",
-    "nature": "\\u6e29",
-    "category": "\\u6d77\\u4ea7",
+    "nature": "温",
+    "category": "海产",
     "aliases": [
       "对虾",
       "大明虾",
@@ -306,8 +306,8 @@
   {
     "id": "argentine-red-shrimp",
     "name": "阿根廷红虾",
-    "nature": "\\u6e29",
-    "category": "\\u6d77\\u4ea7",
+    "nature": "温",
+    "category": "海产",
     "aliases": [
       "红虾",
       "阿根廷甜虾",
@@ -334,8 +334,8 @@
   {
     "id": "greasyback-shrimp",
     "name": "基围虾",
-    "nature": "\\u6e29",
-    "category": "\\u6d77\\u4ea7",
+    "nature": "温",
+    "category": "海产",
     "aliases": [
       "基围",
       "沙虾",
@@ -362,8 +362,8 @@
   {
     "id": "fish-generic",
     "name": "鱼",
-    "nature": "\\u5e73",
-    "category": "\\u6d77\\u4ea7",
+    "nature": "平",
+    "category": "海产",
     "aliases": [
       "鲜鱼",
       "鱼肉",
@@ -391,8 +391,8 @@
   {
     "id": "pandan-leaf",
     "name": "斑斓叶",
-    "nature": "\\u5e73",
-    "category": "\\u8c03\\u6599",
+    "nature": "平",
+    "category": "调料",
     "aliases": [
       "班兰叶",
       "香兰叶",
@@ -422,8 +422,8 @@
   {
     "id": "peach",
     "name": "桃",
-    "nature": "\\u6e29",
-    "category": "\\u6c34\\u679c",
+    "nature": "温",
+    "category": "水果",
     "aliases": [
       "桃子",
       "水蜜桃",
@@ -449,8 +449,8 @@
   {
     "id": "durian",
     "name": "榴莲",
-    "nature": "\\u70ed",
-    "category": "\\u6c34\\u679c",
+    "nature": "热",
+    "category": "水果",
     "aliases": [
       "榴梿",
       "金枕榴莲",
@@ -480,8 +480,8 @@
   {
     "id": "rice-mi",
     "name": "米",
-    "nature": "\\u5e73",
-    "category": "\\u8c37\\u7269",
+    "nature": "平",
+    "category": "谷物",
     "aliases": [
       "大米",
       "粳米",
@@ -506,8 +506,8 @@
   {
     "id": "cooking-oil",
     "name": "油",
-    "nature": "\\u5e73",
-    "category": "\\u8c03\\u6599",
+    "nature": "平",
+    "category": "调料",
     "aliases": [
       "食用油",
       "菜籽油",
@@ -533,8 +533,8 @@
   {
     "id": "salt",
     "name": "盐",
-    "nature": "\\u5e73",
-    "category": "\\u8c03\\u6599",
+    "nature": "平",
+    "category": "调料",
     "aliases": [
       "食盐",
       "海盐",
@@ -559,8 +559,8 @@
   {
     "id": "sauce-jiang",
     "name": "酱",
-    "nature": "\\u5e73",
-    "category": "\\u8c03\\u6599",
+    "nature": "平",
+    "category": "调料",
     "aliases": [
       "酱油",
       "黄豆酱",
@@ -587,8 +587,8 @@
   {
     "id": "vinegar-cu",
     "name": "醋",
-    "nature": "\\u6e29",
-    "category": "\\u8c03\\u6599",
+    "nature": "温",
+    "category": "调料",
     "aliases": [
       "米醋",
       "陈醋",
