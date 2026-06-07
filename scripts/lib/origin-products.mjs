@@ -169,16 +169,34 @@ export function originProductToFood(product, aliasMap) {
   };
 }
 
+const RAW_ORIGIN_SKIP = new Set([
+  "fetch-sources.json",
+  "registry-manifest.json"
+]);
+
 export function loadRawOriginImports() {
   const rawDir = path.join(root, "data", "raw", "origin");
   if (!fs.existsSync(rawDir)) return [];
+  const incomingDir = path.join(rawDir, "incoming");
   const out = [];
-  fs.readdirSync(rawDir).filter((name) => name.endsWith(".json")).forEach((name) => {
-    const payload = JSON.parse(fs.readFileSync(path.join(rawDir, name), "utf8"));
+
+  function ingestFile(filePath) {
+    const payload = JSON.parse(fs.readFileSync(filePath, "utf8"));
     if (Array.isArray(payload)) out.push(...payload);
     else if (payload?.items) out.push(...payload.items);
-    else out.push(payload);
-  });
+    else if (payload?.id && payload?.name) out.push(payload);
+  }
+
+  fs.readdirSync(rawDir)
+    .filter((name) => name.endsWith(".json") && !RAW_ORIGIN_SKIP.has(name))
+    .forEach((name) => ingestFile(path.join(rawDir, name)));
+
+  if (fs.existsSync(incomingDir)) {
+    fs.readdirSync(incomingDir)
+      .filter((name) => name.endsWith(".json"))
+      .forEach((name) => ingestFile(path.join(incomingDir, name)));
+  }
+
   return out;
 }
 

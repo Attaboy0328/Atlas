@@ -5,7 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite --port 3000 --host 0.0.0.0",
-    "build:data": "node scripts/normalize-cn-sources.mjs && node scripts/enrich-food-metadata.mjs && node scripts/deflake-bulk-recipes.mjs && node scripts/build-origin-raw-batches.mjs && node scripts/build-expanded-data.mjs && node scripts/ingest-origin-products.mjs && node scripts/build-origin-data.mjs && node scripts/build-data.mjs && node scripts/build-tcm-data.mjs",
+    "build:data": "node scripts/normalize-cn-sources.mjs && node scripts/enrich-food-metadata.mjs && node scripts/deflake-bulk-recipes.mjs && node scripts/consolidate-duplicate-aliases.mjs --write && node scripts/fetch-origin-registry.mjs --offline && node scripts/build-origin-raw-batches.mjs && node scripts/build-expanded-data.mjs && node scripts/ingest-origin-products.mjs && node scripts/build-origin-data.mjs && node scripts/build-data.mjs && node scripts/build-tcm-data.mjs",
+    "fetch:origin": "node scripts/fetch-origin-registry.mjs",
+    "fetch:origin:offline": "node scripts/fetch-origin-registry.mjs --offline",
+    "consolidate:aliases": "node scripts/consolidate-duplicate-aliases.mjs --write",
     "ingest:origin": "node scripts/ingest-origin-products.mjs && node scripts/build-origin-data.mjs",
     "test": "npm run validate-data && node scripts/audit-data.mjs",
     "validate": "npm run build:data && npm run validate-data",

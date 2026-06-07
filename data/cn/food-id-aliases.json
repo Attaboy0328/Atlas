@@ -1,34 +1,697 @@
 [
-  { "alias": "lycium-barbarum", "canonical": "goji-berry", "note": "枸杞子入膳归并到枸杞食材卡" },
-  { "alias": "official-goji-berry", "canonical": "goji-berry", "note": "药食同源目录条目" },
-  { "alias": "longan-aril", "canonical": "longan-dried", "note": "桂圆肉" },
-  { "alias": "dried-longan", "canonical": "longan-dried", "note": "桂圆干" },
-  { "alias": "tremella", "canonical": "white-fungus", "note": "银耳" },
-  { "alias": "zingiber-officinale-fresh", "canonical": "ginger", "note": "生姜" },
-  { "alias": "garlic-bulb", "canonical": "garlic", "note": "大蒜" },
-  { "alias": "jujube-fruit-dried", "canonical": "jujube", "note": "大枣" },
-  { "alias": "official-walnut", "canonical": "walnut", "note": "核桃仁" },
-  { "alias": "official-lotus-leaf", "canonical": "lotus-leaf", "note": "荷叶" },
-  { "alias": "official-perilla-leaf", "canonical": "perilla-leaf", "note": "紫苏叶" },
-  { "alias": "official-plum", "canonical": "smoked-plum", "note": "乌梅" },
-  { "alias": "mume-fructus", "canonical": "smoked-plum", "note": "乌梅" },
-  { "alias": "official-honeysuckle", "canonical": "honeysuckle", "note": "金银花" },
-  { "alias": "official-dandelion", "canonical": "dandelion", "note": "蒲公英" },
-  { "alias": "official-mulberry-leaf", "canonical": "mulberry-leaf", "note": "桑叶" },
-  { "alias": "official-houttuynia", "canonical": "fish-mint", "note": "鱼腥草" },
-  { "alias": "citrus-reticulata-peel", "canonical": "chenpi", "note": "陈皮" },
-  { "alias": "astragalus-membranaceus", "canonical": "astragalus", "note": "黄芪" },
-  { "alias": "codonopsis-pilosula", "canonical": "codonopsis", "note": "党参" },
-  { "alias": "coix-lacryma-jobi", "canonical": "coix-seed", "note": "薏米" },
-  { "alias": "dioscorea-opposita", "canonical": "yam", "note": "山药" },
-  { "alias": "lily-bulb-white", "canonical": "lily-bulb", "note": "百合" },
-  { "alias": "vigna-angularis", "canonical": "adzuki-bean", "note": "赤小豆" },
-  { "alias": "glycine-max-black", "canonical": "black-bean", "note": "黑豆" },
-  { "alias": "sesamum-nigrum", "canonical": "black-sesame", "note": "黑芝麻" },
-  { "alias": "juglans-regia-kernel", "canonical": "walnut", "note": "核桃仁" },
-  { "alias": "fructus-piperis", "canonical": "pepper-spice", "note": "胡椒" },
-  { "alias": "zanthoxylum-bungeanum-peel", "canonical": "sichuan-pepper", "note": "花椒" },
-  { "alias": "official-fennel", "canonical": "fennel-seed", "note": "小茴香" },
-  { "alias": "ningxia-goji", "canonical": "goji-berry", "note": "宁夏枸杞区域条目归并到枸杞基原" },
-  { "alias": "lycium-barbarum-ningxia", "canonical": "goji-berry", "note": "宁夏枸杞别名" }
+  {
+    "alias": "argentine-red-shrimp",
+    "canonical": "prawn-red-argentine",
+    "note": "auto: duplicate name「阿根廷红虾」→ prawn-red-argentine"
+  },
+  {
+    "alias": "astragalus-membranaceus",
+    "canonical": "astragalus",
+    "note": "黄芪"
+  },
+  {
+    "alias": "black-tiger-shrimp",
+    "canonical": "prawn-black-tiger",
+    "note": "auto: duplicate name「黑虎虾」→ prawn-black-tiger"
+  },
+  {
+    "alias": "caixin",
+    "canonical": "choy-sum",
+    "note": "auto: duplicate name「菜心」→ choy-sum"
+  },
+  {
+    "alias": "cat-bean-148",
+    "canonical": "kidney-bean",
+    "note": "auto: duplicate name「芸豆」→ kidney-bean"
+  },
+  {
+    "alias": "cat-bean-150",
+    "canonical": "chickpea",
+    "note": "auto: duplicate name「鹰嘴豆」→ chickpea"
+  },
+  {
+    "alias": "cat-bean-153",
+    "canonical": "green-pea",
+    "note": "auto: duplicate name「豌豆」→ green-pea"
+  },
+  {
+    "alias": "cat-bean-154",
+    "canonical": "broad-bean",
+    "note": "auto: duplicate name「蚕豆」→ broad-bean"
+  },
+  {
+    "alias": "cat-bean-156",
+    "canonical": "snow-pea",
+    "note": "auto: duplicate name「荷兰豆」→ snow-pea"
+  },
+  {
+    "alias": "cat-bean-157",
+    "canonical": "edamame",
+    "note": "auto: duplicate name「毛豆」→ edamame"
+  },
+  {
+    "alias": "cat-bean-product-176",
+    "canonical": "douchi",
+    "note": "auto: duplicate name「豆豉」→ douchi"
+  },
+  {
+    "alias": "cat-condiment-003",
+    "canonical": "cassia-bark",
+    "note": "auto: duplicate name「桂皮」→ cassia-bark"
+  },
+  {
+    "alias": "cat-condiment-004",
+    "canonical": "white-pepper",
+    "note": "auto: duplicate name「白胡椒」→ white-pepper"
+  },
+  {
+    "alias": "cat-condiment-005",
+    "canonical": "black-pepper",
+    "note": "auto: duplicate name「黑胡椒」→ black-pepper"
+  },
+  {
+    "alias": "cat-condiment-006",
+    "canonical": "chili-pepper",
+    "note": "auto: duplicate name「辣椒」→ chili-pepper"
+  },
+  {
+    "alias": "cat-condiment-007",
+    "canonical": "dried-chili",
+    "note": "auto: duplicate name「干辣椒」→ dried-chili"
+  },
+  {
+    "alias": "cat-condiment-008",
+    "canonical": "pickled-chili",
+    "note": "auto: duplicate name「泡椒」→ pickled-chili"
+  },
+  {
+    "alias": "cat-condiment-017",
+    "canonical": "fermented-tofu",
+    "note": "auto: duplicate name「腐乳」→ fermented-tofu"
+  },
+  {
+    "alias": "cat-condiment-019",
+    "canonical": "changsha-chili",
+    "note": "auto: duplicate name「剁椒」→ changsha-chili"
+  },
+  {
+    "alias": "cat-condiment-034",
+    "canonical": "mustard-seed",
+    "note": "auto: duplicate name「芥末」→ mustard-seed"
+  },
+  {
+    "alias": "cat-condiment-035",
+    "canonical": "cumin",
+    "note": "auto: duplicate name「孜然」→ cumin"
+  },
+  {
+    "alias": "cat-condiment-043",
+    "canonical": "honey",
+    "note": "auto: duplicate name「蜂蜜」→ honey"
+  },
+  {
+    "alias": "cat-condiment-073",
+    "canonical": "basil",
+    "note": "auto: duplicate name「罗勒」→ basil"
+  },
+  {
+    "alias": "cat-fruit-336",
+    "canonical": "grape",
+    "note": "auto: duplicate name「葡萄」→ grape"
+  },
+  {
+    "alias": "cat-fungi-300",
+    "canonical": "shiitake",
+    "note": "auto: duplicate name「香菇」→ shiitake"
+  },
+  {
+    "alias": "cat-fungi-301",
+    "canonical": "oyster-mushroom",
+    "note": "auto: duplicate name「平菇」→ oyster-mushroom"
+  },
+  {
+    "alias": "cat-fungi-302",
+    "canonical": "enoki-mushroom",
+    "note": "auto: duplicate name「金针菇」→ enoki-mushroom"
+  },
+  {
+    "alias": "cat-fungi-303",
+    "canonical": "king-oyster-mushroom",
+    "note": "auto: duplicate name「杏鲍菇」→ king-oyster-mushroom"
+  },
+  {
+    "alias": "cat-fungi-305",
+    "canonical": "button-mushroom",
+    "note": "auto: duplicate name「口蘑」→ button-mushroom"
+  },
+  {
+    "alias": "cat-fungi-306",
+    "canonical": "tea-tree-mushroom",
+    "note": "auto: duplicate name「茶树菇」→ tea-tree-mushroom"
+  },
+  {
+    "alias": "cat-fungi-307",
+    "canonical": "nameko-mushroom",
+    "note": "auto: duplicate name「滑子菇」→ nameko-mushroom"
+  },
+  {
+    "alias": "cat-fungi-310",
+    "canonical": "cordyceps-flower",
+    "note": "auto: duplicate name「虫草花」→ cordyceps-flower"
+  },
+  {
+    "alias": "cat-fungi-311",
+    "canonical": "morel",
+    "note": "auto: duplicate name「羊肚菌」→ morel"
+  },
+  {
+    "alias": "cat-fungi-312",
+    "canonical": "matsutake",
+    "note": "auto: duplicate name「松茸」→ matsutake"
+  },
+  {
+    "alias": "cat-fungi-313",
+    "canonical": "boletus",
+    "note": "auto: duplicate name「牛肝菌」→ boletus"
+  },
+  {
+    "alias": "cat-fungi-315",
+    "canonical": "bamboo-fungus",
+    "note": "auto: duplicate name「竹荪」→ bamboo-fungus"
+  },
+  {
+    "alias": "cat-fungi-316",
+    "canonical": "wood-ear",
+    "note": "auto: duplicate name「木耳」→ wood-ear"
+  },
+  {
+    "alias": "cat-fungi-320",
+    "canonical": "shimeji-mushroom",
+    "note": "auto: duplicate name「蟹味菇」→ shimeji-mushroom"
+  },
+  {
+    "alias": "cat-fungi-324",
+    "canonical": "hazel-mushroom",
+    "note": "auto: duplicate name「榛蘑」→ hazel-mushroom"
+  },
+  {
+    "alias": "cat-fungi-325",
+    "canonical": "yuanmo",
+    "note": "auto: duplicate name「元蘑」→ yuanmo"
+  },
+  {
+    "alias": "cat-grain-127",
+    "canonical": "sorghum",
+    "note": "auto: duplicate name「高粱」→ sorghum"
+  },
+  {
+    "alias": "cat-grain-128",
+    "canonical": "highland-barley",
+    "note": "auto: duplicate name「青稞」→ highland-barley"
+  },
+  {
+    "alias": "cat-grain-129",
+    "canonical": "quinoa",
+    "note": "auto: duplicate name「藜麦」→ quinoa"
+  },
+  {
+    "alias": "cat-grain-137",
+    "canonical": "proso-millet",
+    "note": "auto: duplicate name「糜子」→ proso-millet"
+  },
+  {
+    "alias": "cat-veg-189",
+    "canonical": "lettuce",
+    "note": "auto: duplicate name「生菜」→ lettuce"
+  },
+  {
+    "alias": "cat-veg-191",
+    "canonical": "garlic-chive",
+    "note": "auto: duplicate name「韭菜」→ garlic-chive"
+  },
+  {
+    "alias": "cat-veg-192",
+    "canonical": "scallion",
+    "note": "auto: duplicate name「大葱」→ scallion"
+  },
+  {
+    "alias": "cat-veg-193",
+    "canonical": "shallot",
+    "note": "auto: duplicate name「小葱」→ shallot"
+  },
+  {
+    "alias": "cat-veg-194",
+    "canonical": "onion",
+    "note": "auto: duplicate name「洋葱」→ onion"
+  },
+  {
+    "alias": "cat-veg-197",
+    "canonical": "green-pepper",
+    "note": "auto: duplicate name「青椒」→ green-pepper"
+  },
+  {
+    "alias": "cat-veg-199",
+    "canonical": "eggplant",
+    "note": "auto: duplicate name「茄子」→ eggplant"
+  },
+  {
+    "alias": "cat-veg-200",
+    "canonical": "zucchini",
+    "note": "auto: duplicate name「西葫芦」→ zucchini"
+  },
+  {
+    "alias": "cat-veg-201",
+    "canonical": "luffa",
+    "note": "auto: duplicate name「丝瓜」→ luffa"
+  },
+  {
+    "alias": "cat-veg-202",
+    "canonical": "endive",
+    "note": "auto: duplicate name「苦菊」→ endive"
+  },
+  {
+    "alias": "cat-veg-203",
+    "canonical": "a-choy",
+    "note": "auto: duplicate name「油麦菜」→ a-choy"
+  },
+  {
+    "alias": "cat-veg-204",
+    "canonical": "celtuce",
+    "note": "auto: duplicate name「莴笋」→ celtuce"
+  },
+  {
+    "alias": "cat-veg-206",
+    "canonical": "choy-sum",
+    "note": "auto: duplicate name「菜心」→ choy-sum"
+  },
+  {
+    "alias": "cat-veg-208",
+    "canonical": "amaranth-greens",
+    "note": "auto: duplicate name「苋菜」→ amaranth-greens"
+  },
+  {
+    "alias": "cat-veg-209",
+    "canonical": "spinach",
+    "note": "auto: duplicate name「菠菜」→ spinach"
+  },
+  {
+    "alias": "cat-veg-212",
+    "canonical": "cabbage",
+    "note": "auto: duplicate name「包菜」→ cabbage"
+  },
+  {
+    "alias": "cat-veg-213",
+    "canonical": "purple-cabbage",
+    "note": "auto: duplicate name「紫甘蓝」→ purple-cabbage"
+  },
+  {
+    "alias": "cat-veg-215",
+    "canonical": "broccoli",
+    "note": "auto: duplicate name「西兰花」→ broccoli"
+  },
+  {
+    "alias": "cat-veg-216",
+    "canonical": "carrot",
+    "note": "auto: duplicate name「胡萝卜」→ carrot"
+  },
+  {
+    "alias": "cat-veg-219",
+    "canonical": "daikon-leaf",
+    "note": "auto: duplicate name「萝卜缨」→ daikon-leaf"
+  },
+  {
+    "alias": "cat-veg-222",
+    "canonical": "yam-leaf",
+    "note": "auto: duplicate name「山药豆」→ yam-leaf"
+  },
+  {
+    "alias": "cat-veg-223",
+    "canonical": "taro",
+    "note": "auto: duplicate name「芋头」→ taro"
+  },
+  {
+    "alias": "cat-veg-225",
+    "canonical": "sweet-potato",
+    "note": "auto: duplicate name「红薯」→ sweet-potato"
+  },
+  {
+    "alias": "cat-veg-229",
+    "canonical": "water-bamboo",
+    "note": "auto: duplicate name「茭白」→ water-bamboo"
+  },
+  {
+    "alias": "cat-veg-231",
+    "canonical": "water-chestnut",
+    "note": "auto: duplicate name「荸荠」→ water-chestnut"
+  },
+  {
+    "alias": "cat-veg-233",
+    "canonical": "yardlong-bean",
+    "note": "auto: duplicate name「豇豆」→ yardlong-bean"
+  },
+  {
+    "alias": "cat-veg-236",
+    "canonical": "chayote",
+    "note": "auto: duplicate name「佛手瓜」→ chayote"
+  },
+  {
+    "alias": "cat-veg-237",
+    "canonical": "daylily",
+    "note": "auto: duplicate name「黄花菜」→ daylily"
+  },
+  {
+    "alias": "cat-veg-257",
+    "canonical": "malantou",
+    "note": "auto: duplicate name「马兰头」→ malantou"
+  },
+  {
+    "alias": "cat-veg-263",
+    "canonical": "goji-shoots",
+    "note": "auto: duplicate name「枸杞头」→ goji-shoots"
+  },
+  {
+    "alias": "cat-veg-268",
+    "canonical": "turnip",
+    "note": "auto: duplicate name「芜菁」→ turnip"
+  },
+  {
+    "alias": "cat-veg-270",
+    "canonical": "brussels-sprouts",
+    "note": "auto: duplicate name「抱子甘蓝」→ brussels-sprouts"
+  },
+  {
+    "alias": "cat-wild-275",
+    "canonical": "shepherds-purse",
+    "note": "auto: duplicate name「荠菜」→ shepherds-purse"
+  },
+  {
+    "alias": "cat-wild-276",
+    "canonical": "toon-bud",
+    "note": "auto: duplicate name「香椿」→ toon-bud"
+  },
+  {
+    "alias": "cat-wild-277",
+    "canonical": "malantou",
+    "note": "auto: duplicate name「马兰头」→ malantou"
+  },
+  {
+    "alias": "cat-wild-283",
+    "canonical": "goji-shoots",
+    "note": "auto: duplicate name「枸杞头」→ goji-shoots"
+  },
+  {
+    "alias": "chives",
+    "canonical": "garlic-chive",
+    "note": "auto: duplicate name「韭菜」→ garlic-chive"
+  },
+  {
+    "alias": "citrus-reticulata-peel",
+    "canonical": "chenpi",
+    "note": "陈皮"
+  },
+  {
+    "alias": "codonopsis-pilosula",
+    "canonical": "codonopsis",
+    "note": "党参"
+  },
+  {
+    "alias": "coix-lacryma-jobi",
+    "canonical": "coix-seed",
+    "note": "薏米"
+  },
+  {
+    "alias": "dioscorea-opposita",
+    "canonical": "yam",
+    "note": "山药"
+  },
+  {
+    "alias": "dried-longan",
+    "canonical": "longan-dried",
+    "note": "桂圆干"
+  },
+  {
+    "alias": "fructus-piperis",
+    "canonical": "pepper-spice",
+    "note": "胡椒"
+  },
+  {
+    "alias": "garlic-bulb",
+    "canonical": "garlic",
+    "note": "大蒜"
+  },
+  {
+    "alias": "glycine-max-black",
+    "canonical": "black-bean",
+    "note": "黑豆"
+  },
+  {
+    "alias": "greasyback-shrimp",
+    "canonical": "jizha-shrimp",
+    "note": "auto: duplicate name「基围虾」→ jizha-shrimp"
+  },
+  {
+    "alias": "juglans-regia-kernel",
+    "canonical": "walnut",
+    "note": "核桃仁"
+  },
+  {
+    "alias": "jujube-fruit-dried",
+    "canonical": "jujube",
+    "note": "大枣"
+  },
+  {
+    "alias": "kiwifruit",
+    "canonical": "kiwi",
+    "note": "auto: duplicate name「猕猴桃」→ kiwi"
+  },
+  {
+    "alias": "kuruma-prawn",
+    "canonical": "prawn-kuruma",
+    "note": "auto: duplicate name「竹节虾」→ prawn-kuruma"
+  },
+  {
+    "alias": "lily-bulb-white",
+    "canonical": "lily-bulb",
+    "note": "百合"
+  },
+  {
+    "alias": "lobster",
+    "canonical": "lobster-fresh",
+    "note": "auto: duplicate name「龙虾」→ lobster-fresh"
+  },
+  {
+    "alias": "longan-aril",
+    "canonical": "longan-dried",
+    "note": "桂圆肉"
+  },
+  {
+    "alias": "loofah",
+    "canonical": "luffa",
+    "note": "auto: duplicate name「丝瓜」→ luffa"
+  },
+  {
+    "alias": "lycium-barbarum",
+    "canonical": "goji-berry",
+    "note": "枸杞子入膳归并到枸杞食材卡"
+  },
+  {
+    "alias": "lycium-barbarum-ningxia",
+    "canonical": "goji-berry",
+    "note": "宁夏枸杞别名"
+  },
+  {
+    "alias": "millet-noodle",
+    "canonical": "proso-millet",
+    "note": "auto: duplicate name「糜子」→ proso-millet"
+  },
+  {
+    "alias": "ming-prawn",
+    "canonical": "shrimp",
+    "note": "auto: duplicate name「明虾」→ shrimp"
+  },
+  {
+    "alias": "mume-fructus",
+    "canonical": "smoked-plum",
+    "note": "乌梅"
+  },
+  {
+    "alias": "needle-mushroom",
+    "canonical": "enoki-mushroom",
+    "note": "auto: duplicate name「金针菇」→ enoki-mushroom"
+  },
+  {
+    "alias": "ningxia-goji",
+    "canonical": "goji-berry",
+    "note": "宁夏枸杞区域条目归并到枸杞基原"
+  },
+  {
+    "alias": "official-chinese-barley",
+    "canonical": "barley",
+    "note": "auto: duplicate name「大麦」→ barley"
+  },
+  {
+    "alias": "official-dandelion",
+    "canonical": "dandelion",
+    "note": "蒲公英"
+  },
+  {
+    "alias": "official-fennel",
+    "canonical": "fennel-seed",
+    "note": "小茴香"
+  },
+  {
+    "alias": "official-fig",
+    "canonical": "fig",
+    "note": "auto: duplicate name「无花果」→ fig"
+  },
+  {
+    "alias": "official-goji-berry",
+    "canonical": "goji-berry",
+    "note": "药食同源目录条目"
+  },
+  {
+    "alias": "official-honeysuckle",
+    "canonical": "honeysuckle",
+    "note": "金银花"
+  },
+  {
+    "alias": "official-houttuynia",
+    "canonical": "fish-mint",
+    "note": "鱼腥草"
+  },
+  {
+    "alias": "official-longan-pulp",
+    "canonical": "dried-longan",
+    "note": "auto: duplicate name「桂圆肉」→ dried-longan"
+  },
+  {
+    "alias": "official-lotus-leaf",
+    "canonical": "lotus-leaf",
+    "note": "荷叶"
+  },
+  {
+    "alias": "official-mulberry",
+    "canonical": "mulberry",
+    "note": "auto: duplicate name「桑葚」→ mulberry"
+  },
+  {
+    "alias": "official-mulberry-leaf",
+    "canonical": "mulberry-leaf",
+    "note": "桑叶"
+  },
+  {
+    "alias": "official-perilla-leaf",
+    "canonical": "perilla-leaf",
+    "note": "紫苏叶"
+  },
+  {
+    "alias": "official-plum",
+    "canonical": "smoked-plum",
+    "note": "乌梅"
+  },
+  {
+    "alias": "official-sand-ginger",
+    "canonical": "sand-ginger",
+    "note": "auto: duplicate name「沙姜」→ sand-ginger"
+  },
+  {
+    "alias": "official-walnut",
+    "canonical": "walnut",
+    "note": "核桃仁"
+  },
+  {
+    "alias": "oyster-fresh",
+    "canonical": "oyster",
+    "note": "auto: duplicate name「生蚝」→ oyster"
+  },
+  {
+    "alias": "pine-nut-kernel",
+    "canonical": "official-pine-nut",
+    "note": "auto: duplicate name「松子仁」→ official-pine-nut"
+  },
+  {
+    "alias": "prawn-jwei",
+    "canonical": "jizha-shrimp",
+    "note": "auto: duplicate name「基围虾」→ jizha-shrimp"
+  },
+  {
+    "alias": "prawn-ming",
+    "canonical": "shrimp",
+    "note": "auto: duplicate name「明虾」→ shrimp"
+  },
+  {
+    "alias": "qingke",
+    "canonical": "highland-barley",
+    "note": "auto: duplicate name「青稞」→ highland-barley"
+  },
+  {
+    "alias": "rabbit-meat",
+    "canonical": "rabbit",
+    "note": "auto: duplicate name「兔肉」→ rabbit"
+  },
+  {
+    "alias": "seaweed",
+    "canonical": "nori",
+    "note": "auto: duplicate name「紫菜」→ nori"
+  },
+  {
+    "alias": "sesamum-nigrum",
+    "canonical": "black-sesame",
+    "note": "黑芝麻"
+  },
+  {
+    "alias": "silver-fish-fresh",
+    "canonical": "whitebait",
+    "note": "auto: duplicate name「银鱼」→ whitebait"
+  },
+  {
+    "alias": "snakehead-fish",
+    "canonical": "snakehead",
+    "note": "auto: duplicate name「黑鱼」→ snakehead"
+  },
+  {
+    "alias": "snow-cabbage",
+    "canonical": "pickled-mustard",
+    "note": "auto: duplicate name「雪里蕻」→ pickled-mustard"
+  },
+  {
+    "alias": "tremella",
+    "canonical": "white-fungus",
+    "note": "银耳"
+  },
+  {
+    "alias": "vigna-angularis",
+    "canonical": "adzuki-bean",
+    "note": "赤小豆"
+  },
+  {
+    "alias": "vinegar-cu",
+    "canonical": "vinegar",
+    "note": "auto: duplicate name「醋」→ vinegar"
+  },
+  {
+    "alias": "whiteleg-shrimp",
+    "canonical": "prawn-whiteleg",
+    "note": "auto: duplicate name「南美白对虾」→ prawn-whiteleg"
+  },
+  {
+    "alias": "wolfberry-leaf",
+    "canonical": "official-medlar-leaf",
+    "note": "auto: duplicate name「枸杞叶」→ official-medlar-leaf"
+  },
+  {
+    "alias": "wormgrass-flower",
+    "canonical": "cordyceps-flower",
+    "note": "auto: duplicate name「虫草花」→ cordyceps-flower"
+  },
+  {
+    "alias": "zanthoxylum-bungeanum-peel",
+    "canonical": "sichuan-pepper",
+    "note": "花椒"
+  },
+  {
+    "alias": "zingiber-officinale-fresh",
+    "canonical": "ginger",
+    "note": "生姜"
+  }
 ]

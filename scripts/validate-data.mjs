@@ -212,8 +212,8 @@ if (!originProducts?.length) {
   errors.push("Missing or empty origin products — run npm run ingest:origin");
 } else {
   const originIds = new Set();
-  if (originProducts.length < 50) {
-    warnings.push(`Origin products ${originProducts.length} — target is 50+ after raw ingest`);
+  if (originProducts.length < 80) {
+    warnings.push(`Origin products ${originProducts.length} — target is 80+ after raw ingest`);
   }
   originProducts.forEach((product) => {
     if (!product.id) errors.push("Origin product missing id");

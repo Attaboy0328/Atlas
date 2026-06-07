@@ -613,7 +613,8 @@
       "qingke",
       "qk"
     ],
-    "summary": "高原主粮，可磨粉、酿酒、做糌粑。"
+    "summary": "高原主粮，可磨粉、酿酒、做糌粑。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "tsampa",
@@ -863,7 +864,8 @@
       "xuelihong",
       "xlh"
     ],
-    "summary": "常见腌制叶菜。"
+    "summary": "常见腌制叶菜。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "dongpo-pork",

@@ -5,13 +5,30 @@
     "en": "wuchang bream",
     "category": "海产",
     "nature": "平",
-    "effects": ["和中", "滋养"],
-    "regions": ["CN"],
-    "provinces": ["湖北"],
-    "aliases": ["团头鲂", "缩项鳊"],
+    "effects": [
+      "和中",
+      "滋养"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "aliases": [
+      "团头鲂",
+      "缩项鳊"
+    ],
     "pinyin": "wuchangyu",
     "initials": "wcy",
-    "searchTerms": ["wuchangyu", "wcy", "wuchang bream", "武昌鱼", "团头鲂", "缩项鳊"],
+    "searchTerms": [
+      "wuchangyu",
+      "wcy",
+      "wuchang bream",
+      "武昌鱼",
+      "团头鲂",
+      "缩项鳊"
+    ],
     "summary": "长江中游名鱼，肉质细嫩，宜清蒸、红烧，四季皆宜以鲜为主。"
   },
   {
@@ -20,13 +37,33 @@
     "en": "topmouth culter",
     "category": "海产",
     "nature": "平",
-    "effects": ["和中", "滋养"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "湖北", "安徽", "江西"],
-    "aliases": ["翘嘴", "白鱼"],
+    "effects": [
+      "和中",
+      "滋养"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "湖北",
+      "安徽",
+      "江西"
+    ],
+    "aliases": [
+      "翘嘴",
+      "白鱼"
+    ],
     "pinyin": "qiaozuibai",
     "initials": "qzb",
-    "searchTerms": ["qiaozuibai", "qzb", "topmouth culter", "翘嘴鲌", "翘嘴", "白鱼"],
+    "searchTerms": [
+      "qiaozuibai",
+      "qzb",
+      "topmouth culter",
+      "翘嘴鲌",
+      "翘嘴",
+      "白鱼"
+    ],
     "summary": "淡水掠食性鱼类，肉质洁白，适合清蒸、香煎。"
   },
   {
@@ -35,13 +72,31 @@
     "en": "flat bream",
     "category": "海产",
     "nature": "平",
-    "effects": ["和中"],
-    "regions": ["CN"],
-    "provinces": ["湖北", "江苏", "安徽"],
-    "aliases": ["武昌鳊", "三角鲂"],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北",
+      "江苏",
+      "安徽"
+    ],
+    "aliases": [
+      "武昌鳊",
+      "三角鲂"
+    ],
     "pinyin": "bianyu",
     "initials": "by",
-    "searchTerms": ["bianyu", "by", "flat bream", "鳊鱼", "武昌鳊", "三角鲂"],
+    "searchTerms": [
+      "bianyu",
+      "by",
+      "flat bream",
+      "鳊鱼",
+      "武昌鳊",
+      "三角鲂"
+    ],
     "summary": "常见淡水鱼，体阔肉厚，宜红烧、炖汤。"
   },
   {
@@ -50,13 +105,33 @@
     "en": "reed shoot",
     "category": "水生蔬菜",
     "nature": "凉",
-    "effects": ["清利", "生津"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "湖北", "湖南", "江西"],
-    "aliases": ["芦苇笋", "江滩笋"],
+    "effects": [
+      "清利",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "湖北",
+      "湖南",
+      "江西"
+    ],
+    "aliases": [
+      "芦苇笋",
+      "江滩笋"
+    ],
     "pinyin": "disun",
     "initials": "ds",
-    "searchTerms": ["disun", "ds", "reed shoot", "荻笋", "芦苇笋", "江滩笋"],
+    "searchTerms": [
+      "disun",
+      "ds",
+      "reed shoot",
+      "荻笋",
+      "芦苇笋",
+      "江滩笋"
+    ],
     "summary": "春末夏初江滩时蔬，脆嫩清香，宜快炒、焯水。"
   },
   {
@@ -65,13 +140,31 @@
     "en": "pea tips",
     "category": "蔬菜",
     "nature": "平",
-    "effects": ["和中", "生津"],
-    "regions": ["CN"],
-    "provinces": ["四川", "重庆", "云南"],
-    "aliases": ["豌豆苗尖", "豆尖"],
+    "effects": [
+      "和中",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川",
+      "重庆",
+      "云南"
+    ],
+    "aliases": [
+      "豌豆苗尖",
+      "豆尖"
+    ],
     "pinyin": "wandoujian",
     "initials": "wdj",
-    "searchTerms": ["wandoujian", "wdj", "pea tips", "豌豆尖", "豆尖"],
+    "searchTerms": [
+      "wandoujian",
+      "wdj",
+      "pea tips",
+      "豌豆尖",
+      "豆尖"
+    ],
     "summary": "冬春至初夏时蔬，嫩梢可涮锅、做汤或快炒。"
   },
   {
@@ -80,13 +173,30 @@
     "en": "broad bean pod",
     "category": "蔬菜",
     "nature": "平",
-    "effects": ["和中"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "浙江", "云南"],
-    "aliases": ["带壳蚕豆", "嫩蚕豆"],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "云南"
+    ],
+    "aliases": [
+      "带壳蚕豆",
+      "嫩蚕豆"
+    ],
     "pinyin": "candoujia",
     "initials": "cdj",
-    "searchTerms": ["candoujia", "cdj", "broad bean pod", "蚕豆荚", "嫩蚕豆"],
+    "searchTerms": [
+      "candoujia",
+      "cdj",
+      "broad bean pod",
+      "蚕豆荚",
+      "嫩蚕豆"
+    ],
     "summary": "春令时蔬，带壳嫩荚可清炒、葱油，宜充分做熟。"
   },
   {
@@ -95,13 +205,31 @@
     "en": "river snail meat",
     "category": "海产",
     "nature": "寒",
-    "effects": ["清利"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "浙江", "湖南", "广西"],
-    "aliases": ["田螺肉", "石螺肉"],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "湖南",
+      "广西"
+    ],
+    "aliases": [
+      "田螺肉",
+      "石螺肉"
+    ],
     "pinyin": "luoshirou",
     "initials": "lsr",
-    "searchTerms": ["luoshirou", "lsr", "river snail meat", "螺蛳肉", "田螺肉"],
+    "searchTerms": [
+      "luoshirou",
+      "lsr",
+      "river snail meat",
+      "螺蛳肉",
+      "田螺肉"
+    ],
     "summary": "春夏季常见河鲜，需充分做熟，宜辣炒、粉面浇头。",
     "caution": "必须彻底煮熟；脾胃虚寒、腹泻者不宜多食。"
   },
@@ -111,13 +239,32 @@
     "en": "pond loach",
     "category": "海产",
     "nature": "温",
-    "effects": ["滋养", "和中"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "浙江", "上海"],
-    "aliases": ["沙塘鳢", "土婆鱼"],
+    "effects": [
+      "滋养",
+      "和中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "上海"
+    ],
+    "aliases": [
+      "沙塘鳢",
+      "土婆鱼"
+    ],
     "pinyin": "tangliyu",
     "initials": "tly",
-    "searchTerms": ["tangliyu", "tly", "pond loach", "塘鳢鱼", "沙塘鳢", "土婆鱼"],
+    "searchTerms": [
+      "tangliyu",
+      "tly",
+      "pond loach",
+      "塘鳢鱼",
+      "沙塘鳢",
+      "土婆鱼"
+    ],
     "summary": "江南小河鲜，肉质滑嫩，宜炖豆腐、做汤。"
   },
   {
@@ -126,14 +273,33 @@
     "en": "whitebait",
     "category": "海产",
     "nature": "平",
-    "effects": ["滋养"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "太湖", "云南"],
-    "aliases": ["面条鱼", "太湖银鱼"],
+    "effects": [
+      "滋养"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "太湖",
+      "云南"
+    ],
+    "aliases": [
+      "面条鱼",
+      "太湖银鱼"
+    ],
     "pinyin": "yinyu",
     "initials": "yy",
-    "searchTerms": ["yinyu", "yy", "whitebait", "银鱼", "面条鱼", "太湖银鱼"],
-    "summary": "春汛前后名鲜，可蒸蛋、做羹，整体偏平补。"
+    "searchTerms": [
+      "yinyu",
+      "yy",
+      "whitebait",
+      "银鱼",
+      "面条鱼",
+      "太湖银鱼"
+    ],
+    "summary": "春汛前后名鲜，可蒸蛋、做羹，整体偏平补。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "water-bamboo-shoot",
@@ -141,13 +307,32 @@
     "en": "young water bamboo",
     "category": "水生蔬菜",
     "nature": "凉",
-    "effects": ["清利", "生津"],
-    "regions": ["CN"],
-    "provinces": ["浙江", "江苏", "上海"],
-    "aliases": ["早茭", "嫩茭白"],
+    "effects": [
+      "清利",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "江苏",
+      "上海"
+    ],
+    "aliases": [
+      "早茭",
+      "嫩茭白"
+    ],
     "pinyin": "jiaobaishun",
     "initials": "jbs",
-    "searchTerms": ["jiaobaishun", "jbs", "young water bamboo", "茭白笋", "早茭", "嫩茭白"],
+    "searchTerms": [
+      "jiaobaishun",
+      "jbs",
+      "young water bamboo",
+      "茭白笋",
+      "早茭",
+      "嫩茭白"
+    ],
     "summary": "初夏嫩茭，脆甜多汁，宜快炒、油焖。"
   },
   {
@@ -156,13 +341,32 @@
     "en": "tender water caltrop",
     "category": "水生蔬菜",
     "nature": "凉",
-    "effects": ["清利", "健脾"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "浙江", "湖北"],
-    "aliases": ["鲜菱角", "青菱"],
+    "effects": [
+      "清利",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "湖北"
+    ],
+    "aliases": [
+      "鲜菱角",
+      "青菱"
+    ],
     "pinyin": "nenlingjiao",
     "initials": "nlj",
-    "searchTerms": ["nenlingjiao", "nlj", "tender water caltrop", "嫩菱角", "鲜菱角", "青菱"],
+    "searchTerms": [
+      "nenlingjiao",
+      "nlj",
+      "tender water caltrop",
+      "嫩菱角",
+      "鲜菱角",
+      "青菱"
+    ],
     "summary": "夏秋时令，嫩菱可生食少量或清炒，老菱宜熟食。"
   },
   {
@@ -171,13 +375,32 @@
     "en": "toona sprout",
     "category": "野菜",
     "nature": "温",
-    "effects": ["行气", "温中"],
-    "regions": ["CN"],
-    "provinces": ["山东", "河南", "河北"],
-    "aliases": ["香椿头", "春芽"],
+    "effects": [
+      "行气",
+      "温中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河南",
+      "河北"
+    ],
+    "aliases": [
+      "香椿头",
+      "春芽"
+    ],
     "pinyin": "xiangchunya",
     "initials": "xcy",
-    "searchTerms": ["xiangchunya", "xcy", "toona sprout", "香椿芽", "香椿头", "春芽"],
+    "searchTerms": [
+      "xiangchunya",
+      "xcy",
+      "toona sprout",
+      "香椿芽",
+      "香椿头",
+      "春芽"
+    ],
     "summary": "早春限定野蔬，香气浓郁，宜炒蛋、拌豆腐，不宜过量。"
   },
   {
@@ -186,13 +409,32 @@
     "en": "duck",
     "category": "肉蛋奶",
     "nature": "凉",
-    "effects": ["滋阴", "清补"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "北京", "广东"],
-    "aliases": ["老鸭", "水鸭"],
+    "effects": [
+      "滋阴",
+      "清补"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "北京",
+      "广东"
+    ],
+    "aliases": [
+      "老鸭",
+      "水鸭"
+    ],
     "pinyin": "yarou",
     "initials": "yr",
-    "searchTerms": ["yarou", "yr", "duck", "鸭肉", "老鸭", "水鸭"],
+    "searchTerms": [
+      "yarou",
+      "yr",
+      "duck",
+      "鸭肉",
+      "老鸭",
+      "水鸭"
+    ],
     "summary": "常见禽肉，偏凉滋，宜炖汤、卤制；虚寒、腹泻明显者不宜多食。"
   }
 ]

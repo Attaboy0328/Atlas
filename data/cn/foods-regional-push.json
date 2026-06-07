@@ -91,7 +91,8 @@
         "shengyu"
       ],
       "confidence": "中国地方水产扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "crucian-carp",
@@ -298,7 +299,8 @@
         "tr"
       ],
       "confidence": "中国地方肉类扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "pigeon",
@@ -1153,7 +1155,8 @@
         "guangdongcaixin"
       ],
       "confidence": "两广常用蔬菜扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "watercress",
@@ -1207,7 +1210,8 @@
         "hakka"
       ],
       "confidence": "客家与岭南汤料蔬菜扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "wuzhi-maotao",
@@ -1736,7 +1740,8 @@
         "songren"
       ],
       "confidence": "东北山货坚果扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "sour-cabbage",
@@ -1918,7 +1923,8 @@
         "huangmi"
       ],
       "confidence": "西北粮食扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "daylily",
@@ -2372,7 +2378,8 @@
         "yongchongcao"
       ],
       "confidence": "粤闽常用煲汤菌菇扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "dried-scallop",

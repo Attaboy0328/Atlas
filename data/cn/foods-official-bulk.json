@@ -294,7 +294,8 @@
     "effects": [
       "养血",
       "安神"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-safflower",
@@ -474,7 +475,8 @@
     "effects": [
       "养阴",
       "生津"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-fig",
@@ -483,7 +485,8 @@
     "effects": [
       "润燥",
       "和中"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-date",
@@ -708,7 +711,8 @@
     "effects": [
       "行气",
       "温中"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-bellflower",
@@ -789,7 +793,8 @@
     "effects": [
       "和中",
       "助运"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-snow-lotus-fruit",

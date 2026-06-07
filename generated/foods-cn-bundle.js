@@ -6751,7 +6751,8 @@ const CN_SUPPLEMENT_FOODS = [
       "qingke",
       "qk"
     ],
-    "summary": "高原主粮，可磨粉、酿酒、做糌粑。"
+    "summary": "高原主粮，可磨粉、酿酒、做糌粑。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "highland-barley",
@@ -9196,7 +9197,8 @@ const CN_SUPPLEMENT_FOODS = [
       "xuelihong",
       "xlh"
     ],
-    "summary": "常见腌制叶菜。"
+    "summary": "常见腌制叶菜。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "pickled-mustard",
@@ -9697,7 +9699,8 @@ const CN_SUPPLEMENT_FOODS = [
       "面条鱼",
       "太湖银鱼"
     ],
-    "summary": "春汛前后名鲜，可蒸蛋、做羹，整体偏平补。"
+    "summary": "春汛前后名鲜，可蒸蛋、做羹，整体偏平补。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cherry",
