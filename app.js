@@ -74,8 +74,37 @@ const FOOD_SEARCH_NEAR_HINTS = [
   { terms: ["蟛蜞", "招潮蟹", "蟳蜞", "pengqi"], ids: ["sesarmid-crab", "crab"] },
   { terms: ["西冷", "sirloin"], ids: ["beef-sirloin-steak", "beef-steak", "beef"] },
   { terms: ["菲力", "tenderloin", "fillet"], ids: ["beef-tenderloin-steak", "beef-steak", "beef"] },
-  { terms: ["眼肉", "肋眼", "ribeye"], ids: ["beef-ribeye-steak", "beef-steak", "beef"] }
+  { terms: ["眼肉", "肋眼", "ribeye"], ids: ["beef-ribeye-steak", "beef-steak", "beef"] },
+  { terms: ["禾虫", "hechong", "禾虫膏"], ids: ["rice-field-worm"] },
+  { terms: ["沙虫", "海肠", "shachong"], ids: ["sand-worm", "sipunculus-worm"] },
+  { terms: ["土笋", "tusun", "土笋冻"], ids: ["sipunculus-worm", "sand-worm"] },
+  { terms: ["牛欢喜", "niuhuanxi"], ids: ["beef-offal-joy", "beef"] },
+  { terms: ["毛肚", "牛百叶", "maodu"], ids: ["beef-tripe-omasum", "beef"] },
+  { terms: ["黄喉", "huanghou"], ids: ["beef-aorta", "beef"] },
+  { terms: ["九肚鱼", "龙头鱼", "豆腐鱼"], ids: ["bombay-duck"] },
+  { terms: ["濑尿虾", "皮皮虾", "虾蛄"], ids: ["mantis-shrimp"] },
+  { terms: ["鲮鱼", "鲮鱼饼", "lingyu"], ids: ["mud-carp"] },
+  { terms: ["田鸡", "牛蛙", "tianji"], ids: ["frog"] },
+  { terms: ["跳跳鱼", "弹涂鱼"], ids: ["mudskipper"] }
 ];
+
+const DAO_DI_SYSTEM_COLORS = {
+  guanyao: { tone: "#2f5d45", pale: "#e3efe8" },
+  beiyao: { tone: "#4a6278", pale: "#e8eef3" },
+  huaiyao: { tone: "#8a6b3d", pale: "#f3ecda" },
+  "huaiyao-huai": { tone: "#7a7340", pale: "#f0ecd8" },
+  zheyao: { tone: "#3d6b5a", pale: "#e5f0eb" },
+  nanyao: { tone: "#3a7a62", pale: "#e2f0ea" },
+  chuanyao: { tone: "#6b4a7a", pale: "#efe8f2" },
+  yunyao: { tone: "#5a6b4a", pale: "#edf0e8" },
+  guiyao: { tone: "#5a6878", pale: "#e9edf2" },
+  guangyao: { tone: "#b36a45", pale: "#f4e5da" },
+  zangyao: { tone: "#8a3d45", pale: "#f3e5e7" },
+  qinyao: { tone: "#8a7340", pale: "#f3ecda" },
+  weiyao: { tone: "#6b5b8a", pale: "#ece8f2" },
+  haiyao: { tone: "#3a6a8a", pale: "#e3edf5" },
+  mengyao: { tone: "#5a7a45", pale: "#eaf0e3" }
+};
 
 const FOOD_SEARCH_PLACEHOLDER = "搜索食材、茶类、别名或首字母，如：木姜子 / mjz";
 const PROVINCE_FILTER_EXPAND_LIMIT = 12;
@@ -3430,17 +3459,21 @@ function renderHomeV2() {
       <p class="section-copy">关药、川药、怀药等十五大道地产区，点击进入中药材库按体系浏览。</p>
     </section>
     <section class="qi-term-grid home-daodi-system-grid">
-      ${DAO_DI_SYSTEMS_LIST.map((row) => `
+      ${DAO_DI_SYSTEMS_LIST.map((row) => {
+        const colors = DAO_DI_SYSTEM_COLORS[row.id] || { tone: "#3d6b4a", pale: "#e8f2ea" };
+        return `
         <button
           type="button"
           class="qi-term-tile home-daodi-system-tile"
           data-home-daodi-system="${row.id}"
           title="${row.summary || row.name}"
+          style="background:${colors.pale};border-color:${colors.tone}28"
         >
-          <strong>${row.name}</strong>
+          <strong style="color:${colors.tone}">${row.name}</strong>
           <span>${row.herbCount || 0} 种 · ${row.region || ""}</span>
         </button>
-      `).join("")}
+      `;
+      }).join("")}
     </section>
     ` : ""}
 

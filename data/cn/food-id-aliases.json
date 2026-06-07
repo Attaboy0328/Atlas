@@ -35,6 +35,11 @@
     "note": "auto: duplicate name「黑虎虾」→ prawn-black-tiger"
   },
   {
+    "alias": "bullfrog",
+    "canonical": "frog",
+    "note": "牛蛙→田鸡"
+  },
+  {
     "alias": "caixin",
     "canonical": "choy-sum",
     "note": "auto: duplicate name「菜心」→ choy-sum"
@@ -570,6 +575,11 @@
     "note": "山楂"
   },
   {
+    "alias": "hechong",
+    "canonical": "rice-field-worm",
+    "note": "禾虫拼音 id"
+  },
+  {
     "alias": "juglans-regia-kernel",
     "canonical": "walnut",
     "note": "核桃仁"
@@ -658,6 +668,11 @@
     "alias": "ningxia-goji",
     "canonical": "goji-berry",
     "note": "宁夏枸杞区域条目归并到枸杞基原"
+  },
+  {
+    "alias": "niuhuanxi",
+    "canonical": "beef-offal-joy",
+    "note": "牛欢喜"
   },
   {
     "alias": "niupai",
@@ -1010,6 +1025,11 @@
     "note": "auto: duplicate name「松子仁」→ official-pine-nut"
   },
   {
+    "alias": "pipixia",
+    "canonical": "mantis-shrimp",
+    "note": "皮皮虾→濑尿虾"
+  },
+  {
     "alias": "poria-cocos",
     "canonical": "poria",
     "note": "茯苓药典 id 归并到 catalog 短 id"
@@ -1070,6 +1090,11 @@
     "note": "黑芝麻"
   },
   {
+    "alias": "shachong",
+    "canonical": "sand-worm",
+    "note": "沙虫拼音 id"
+  },
+  {
     "alias": "silver-fish-fresh",
     "canonical": "whitebait",
     "note": "auto: duplicate name「银鱼」→ whitebait"
@@ -1098,6 +1123,11 @@
     "alias": "tremella",
     "canonical": "white-fungus",
     "note": "银耳"
+  },
+  {
+    "alias": "tripe-omasum",
+    "canonical": "beef-tripe-omasum",
+    "note": "毛肚英文 id"
   },
   {
     "alias": "vigna-angularis",

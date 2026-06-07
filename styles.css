@@ -582,6 +582,10 @@ button {
   font-weight: 600;
 }
 
+.home-daodi-system-tile span {
+  color: color-mix(in srgb, var(--ink-soft) 88%, transparent);
+}
+
 .qi-term-tile span {
   color: var(--ink-soft);
   font-size: 12px;
