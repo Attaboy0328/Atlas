@@ -4,13 +4,16 @@
  */
 import fs from "fs";
 import path from "path";
-import { fileURLToPath } from "url";
 import {
   loadFoodCatalogMeta,
   loadFoodIdAliasMap,
   resolveFoodId,
   root
 } from "./lib/food-catalog.mjs";
+import {
+  DAO_DI_MANUAL_LINK,
+  DAO_DI_ORPHAN_ID_BY_NAME
+} from "./lib/dao-di-orphan-ids.mjs";
 
 const MANUAL_NAME_TO_CANONICAL = {
   "延胡索（元胡）": "延胡索",
@@ -19,7 +22,6 @@ const MANUAL_NAME_TO_CANONICAL = {
   虎掌南星: "天南星",
   百合花: "百合",
   巫山淫羊藿: "淫羊藿",
-  哈蟆油: "蛤蟆油",
   蛤蟆油: "蛤蟆油",
   滑石粉: "滑石",
   马钱子粉: "马钱子",
@@ -27,16 +29,11 @@ const MANUAL_NAME_TO_CANONICAL = {
   苦参实: "苦参",
   银耳: "white-fungus",
   白木耳: "white-fungus",
-  蛹虫草: "cordyceps-militaris",
-  虫草: "cordyceps-militaris",
   沙苑子: "astragalus-complanatus",
   沙苑蒺藜: "astragalus-complanatus",
-  红芪: "astragalus",
   黄芪: "astragalus",
   广防己: "aristolochia-fangchi",
   防己: "stephania-tetrandra",
-  鸡桑根: "mulberry-root",
-  巴旦杏仁: "almond-bitter",
   苦杏仁: "almond-bitter",
   柑皮: "chenpi",
   柚果: "pomelo",
@@ -84,6 +81,8 @@ function buildNameIndex() {
   });
 
   loadFoodCatalogMeta().forEach((food) => register(food.name, food.id));
+  Object.entries(DAO_DI_MANUAL_LINK).forEach(([name, id]) => register(name, id));
+  Object.entries(DAO_DI_ORPHAN_ID_BY_NAME).forEach(([name, id]) => register(name, id));
 
   Object.entries(MANUAL_NAME_TO_CANONICAL).forEach(([name, target]) => {
     const targetKey = normalizeName(target);
@@ -98,6 +97,12 @@ function resolveCanonicalId(raw, index) {
   const { aliasMap, byName, byAlias } = index;
   const name = normalizeName(raw.name);
   if (!name) return null;
+
+  const manualId = DAO_DI_MANUAL_LINK[raw.name];
+  if (manualId) return resolveFoodId(manualId, aliasMap);
+
+  const orphanId = DAO_DI_ORPHAN_ID_BY_NAME[raw.name];
+  if (orphanId) return orphanId;
 
   if (MANUAL_NAME_TO_CANONICAL[raw.name]) {
     const manualKey = normalizeName(MANUAL_NAME_TO_CANONICAL[raw.name]);

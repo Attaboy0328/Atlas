@@ -1121,7 +1121,8 @@ const CN_SUPPLEMENT_FOODS = [
       "广东"
     ],
     "aliases": [
-      "北虫草"
+      "北虫草",
+      "蛹虫草"
     ],
     "pinyin": "chongcaohua",
     "initials": "cch",
@@ -1130,7 +1131,8 @@ const CN_SUPPLEMENT_FOODS = [
       "cch",
       "cordyceps flower",
       "虫草花",
-      "北虫草"
+      "北虫草",
+      "蛹虫草"
     ],
     "summary": "虫草花，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"

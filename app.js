@@ -4556,7 +4556,8 @@ function renderFoodDetail(food) {
   const favorite = state.favorites.includes(food.id);
   const hasSuitability = Boolean(food.faCategory || food.faNote || food.suitableFor.length || food.avoidFor.length || food.contraindications.length);
   const isTcmHerb = food.itemKind === "tcm-herb" || food.category === "中药材";
-  const isReferenceOnly = food.usageScope === "reference-only";
+  const isDaoDiReference = food.usageScope === "dao-di-reference";
+  const isReferenceOnly = food.usageScope === "reference-only" || isDaoDiReference;
   const relatedFormFoods = (food.relatedForms || []).map((id) => foodMap.get(id)).filter(Boolean);
   const originSection = renderOriginCertificationSection(food);
   const sheetNav = renderSheetSubnav([
@@ -4572,8 +4573,10 @@ function renderFoodDetail(food) {
     ${renderFoodProfileAlert(food)}
     ${isReferenceOnly ? `
     <section class="notice caution sheet-profile-alert">
-      <strong>中药信息参考</strong>
-      本条为《中国药典》2025年版整理信息，仅供查阅，不替代诊断、处方或医嘱；不可自行当作普通食材大量食用。
+      <strong>${isDaoDiReference ? "道地药材参考档" : "中药信息参考"}</strong>
+      ${isDaoDiReference
+        ? "本条为道地药材参考档，非药典2025正名，仅供查阅，不替代诊断、处方或医嘱；不可自行当作普通食材大量食用。"
+        : "本条为《中国药典》2025年版整理信息，仅供查阅，不替代诊断、处方或医嘱；不可自行当作普通食材大量食用。"}
     </section>` : ""}
     ${sheetNav}
     <section class="sheet-hero" id="sheet-overview">

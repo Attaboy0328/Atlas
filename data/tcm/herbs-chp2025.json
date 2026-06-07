@@ -46,7 +46,9 @@
   {
     "id": "asafoetida",
     "name": "阿魏",
-    "aliases": [],
+    "aliases": [
+      "松花"
+    ],
     "en": "",
     "pinyin": "awei",
     "initials": "aw",

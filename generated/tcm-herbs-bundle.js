@@ -47,7 +47,9 @@ const TCM_HERBS_CORE = [
   {
     "id": "asafoetida",
     "name": "阿魏",
-    "aliases": [],
+    "aliases": [
+      "松花"
+    ],
     "en": "",
     "pinyin": "awei",
     "initials": "aw",
@@ -350,6 +352,60 @@ const TCM_HERBS_CORE = [
       "byz",
       "预知子"
     ]
+  },
+  {
+    "id": "dao-di-orphan-333",
+    "name": "巴旦杏仁",
+    "aliases": [
+      "八担仁",
+      "巴达杏仁",
+      "叭哒杏仁"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "润肺",
+      "止咳",
+      "化痰",
+      "下气"
+    ],
+    "relatedForms": [
+      "almond-bitter"
+    ],
+    "summary": "巴旦杏仁为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其维药、关药、淮药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 333。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-333.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "巴旦杏仁",
+      "八担仁",
+      "巴达杏仁",
+      "叭哒杏仁",
+      "SEMEN AMYGDALI COMMUNIS",
+      "化痰止咳平喘药",
+      "维药",
+      "关药",
+      "淮药",
+      "新疆、甘肃、陕西等地"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "croton-seed",
@@ -734,6 +790,56 @@ const TCM_HERBS_CORE = [
       "bg",
       "银杏"
     ]
+  },
+  {
+    "id": "dao-di-orphan-289",
+    "name": "白鹤藤",
+    "aliases": [
+      "金鸡独立草",
+      "翠翎草",
+      "矮脚凤毛"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "祛风除湿",
+      "化痰止咳",
+      "散瘀止血",
+      "解毒消痈"
+    ],
+    "relatedForms": [],
+    "summary": "白鹤藤为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其广药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 289。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-289.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "白鹤藤",
+      "金鸡独立草",
+      "翠翎草",
+      "矮脚凤毛",
+      "Argyreia acuta",
+      "化湿药",
+      "广药",
+      "广东、广西"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "oldenlandia-diffusa",
@@ -2338,6 +2444,52 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-70",
+    "name": "波棱瓜子",
+    "aliases": [],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "清肝利胆",
+      "健脾助运",
+      "泻肝火",
+      "胆热"
+    ],
+    "relatedForms": [],
+    "summary": "波棱瓜子为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其关药、怀药、云药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 70。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-70.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "波棱瓜子",
+      "HerpetospermumcaudigerumWall",
+      "清热药",
+      "关药",
+      "怀药",
+      "云药",
+      "藏药",
+      "云南、西藏"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "psoralea-corylifolia",
     "name": "补骨脂",
     "aliases": [
@@ -2593,6 +2745,107 @@ const TCM_HERBS_CORE = [
       "cangchangpu",
       "ccp"
     ]
+  },
+  {
+    "id": "dao-di-orphan-63",
+    "name": "藏茴香",
+    "aliases": [
+      "黄蒿",
+      "马缨子",
+      "小防风"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "理气开胃",
+      "散寒止痛"
+    ],
+    "relatedForms": [
+      "fennel-seed"
+    ],
+    "summary": "藏茴香为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其藏药、关药、怀药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 63。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-63.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "藏茴香",
+      "黄蒿",
+      "马缨子",
+      "小防风",
+      "CarumcarviL.",
+      "理气药",
+      "藏药",
+      "关药",
+      "怀药",
+      "西藏"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
+    "id": "dao-di-orphan-384",
+    "name": "草苁蓉",
+    "aliases": [
+      "金笋",
+      "地精",
+      "肉松蓉"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "补肾壮阳",
+      "润肠通便",
+      "止血"
+    ],
+    "relatedForms": [],
+    "summary": "草苁蓉为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其关药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 384。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-384.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "草苁蓉",
+      "金笋",
+      "地精",
+      "肉松蓉",
+      "产区分布：黑龙江、吉林和内蒙古",
+      "补虚药",
+      "关药",
+      "黑龙江、吉林和内蒙古"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "alpinia-katsumadai",
@@ -4240,6 +4493,54 @@ const TCM_HERBS_CORE = [
       "dadouhuangjuan",
       "ddhj"
     ]
+  },
+  {
+    "id": "dao-di-orphan-257",
+    "name": "大风子",
+    "aliases": [
+      "大枫子",
+      "麻风子",
+      "驱虫大风子"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "祛风燥湿",
+      "攻毒杀虫"
+    ],
+    "relatedForms": [],
+    "summary": "大风子为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其广药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 257。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-257.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "大风子",
+      "大枫子",
+      "麻风子",
+      "驱虫大风子",
+      "HYDNOCARPI SEMEN",
+      "杀虫止痒药",
+      "广药",
+      "海南、广西"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "areca-peel",
@@ -7206,6 +7507,56 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-302",
+    "name": "岗梅根",
+    "aliases": [
+      "糟楼星",
+      "金包银",
+      "上甘草"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "清热",
+      "生津",
+      "散瘀",
+      "解毒"
+    ],
+    "relatedForms": [],
+    "summary": "岗梅根为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其广药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 302。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-302.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "岗梅根",
+      "糟楼星",
+      "金包银",
+      "上甘草",
+      "产区分布：广东",
+      "清热药",
+      "广药",
+      "广东"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "polygonum-perfoliatum",
     "name": "杠板归",
     "aliases": [
@@ -8445,6 +8796,54 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-383",
+    "name": "哈蟆油",
+    "aliases": [
+      "田鸡油",
+      "哈什蟆油",
+      "蛤蚂油"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "补肾益精",
+      "养阴润肺"
+    ],
+    "relatedForms": [],
+    "summary": "哈蟆油为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其关药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 383。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-383.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "哈蟆油",
+      "田鸡油",
+      "哈什蟆油",
+      "蛤蚂油",
+      "RANAE OVIDUCTUS",
+      "补虚药",
+      "关药",
+      "黑龙江、吉林、辽宁、四川、内蒙古等地"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "gecko",
     "name": "蛤蚧",
     "aliases": [],
@@ -8766,6 +9165,55 @@ const TCM_HERBS_CORE = [
       "hailong",
       "hl"
     ]
+  },
+  {
+    "id": "dao-di-orphan-391",
+    "name": "海麻雀",
+    "aliases": [
+      "海鹅",
+      "海雀",
+      "海燕"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "化痰止咳",
+      "消瘿散结",
+      "消肿解毒"
+    ],
+    "relatedForms": [],
+    "summary": "海麻雀为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其海药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 391。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-391.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "海麻雀",
+      "海鹅",
+      "海雀",
+      "海燕",
+      "PEGASUS",
+      "化痰止咳平喘药",
+      "海药",
+      "我国南海、东海"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "hippocampus",
@@ -9510,6 +9958,54 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-271",
+    "name": "红豆蔻",
+    "aliases": [
+      "红蔻",
+      "良姜子",
+      "红扣"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "散寒燥湿",
+      "醒脾消食"
+    ],
+    "relatedForms": [],
+    "summary": "红豆蔻为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其广药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 271。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-271.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "红豆蔻",
+      "红蔻",
+      "良姜子",
+      "红扣",
+      "GALANGAE FRUCTUS",
+      "消食药",
+      "广药",
+      "广西、广东、海南等地"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "lead-tetraoxide",
     "name": "红粉",
     "aliases": [],
@@ -9711,6 +10207,59 @@ const TCM_HERBS_CORE = [
       "hongniangzi",
       "hnz"
     ]
+  },
+  {
+    "id": "dao-di-orphan-316",
+    "name": "红芪",
+    "aliases": [
+      "纳洼善马",
+      "真盘子",
+      "岩黄芪"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "补气升阳",
+      "固表止汗",
+      "利水消肿",
+      "生津养血"
+    ],
+    "relatedForms": [
+      "astragalus"
+    ],
+    "summary": "红芪为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其关药、秦药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 316。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-316.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "红芪",
+      "纳洼善马",
+      "真盘子",
+      "岩黄芪",
+      "HEDYSARI RADIX",
+      "补虚药",
+      "关药",
+      "秦药",
+      "甘肃"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "magnolia-officinalis",
@@ -9921,6 +10470,58 @@ const TCM_HERBS_CORE = [
       "hlb",
       "芦巴"
     ]
+  },
+  {
+    "id": "dao-di-orphan-351",
+    "name": "胡桐泪",
+    "aliases": [
+      "胡桐律",
+      "石律",
+      "石泪"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "清热解毒",
+      "化痰软坚",
+      "清热",
+      "化痰"
+    ],
+    "relatedForms": [],
+    "summary": "胡桐泪为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其维药、关药、淮药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 351。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-351.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "胡桐泪",
+      "胡桐律",
+      "石律",
+      "石泪",
+      "RESINA POPULI EUPHRATICAE",
+      "清热药",
+      "维药",
+      "关药",
+      "淮药",
+      "新疆"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "fritillaria-hupehensis",
@@ -10611,6 +11212,100 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-235",
+    "name": "黄山药",
+    "aliases": [],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "理气止痛",
+      "解毒消肿"
+    ],
+    "relatedForms": [
+      "yam"
+    ],
+    "summary": "黄山药为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其关药、云药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 235。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-235.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "黄山药",
+      "DIOSCOREA PANTHAICAE RHIZOMA",
+      "理气药",
+      "关药",
+      "云药",
+      "云南"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
+    "id": "dao-di-orphan-239",
+    "name": "黄藤",
+    "aliases": [
+      "土黄连",
+      "黄连藤",
+      "伸筋藤"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "清热解毒",
+      "泻火通便"
+    ],
+    "relatedForms": [],
+    "summary": "黄藤为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其广药、云药、关药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 239。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-239.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "黄藤",
+      "土黄连",
+      "黄连藤",
+      "伸筋藤",
+      "FIBRAUREAE CAULIS",
+      "清热药",
+      "广药",
+      "云药",
+      "关药",
+      "广东、广西、云南等地"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "cannabis-seed",
     "name": "火麻仁",
     "aliases": [
@@ -10873,6 +11568,51 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-330",
+    "name": "鸡桑根",
+    "aliases": [
+      "小叶桑根"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "清肺",
+      "凉血",
+      "利湿"
+    ],
+    "relatedForms": [],
+    "summary": "鸡桑根为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其淮药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 330。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-330.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "鸡桑根",
+      "小叶桑根",
+      "产区分布：河北、山东、安徽、江西、福建、台湾、河南、湖南、广东、广西、四川、贵州、云南等地",
+      "清热药",
+      "淮药",
+      "河北鸡桑根"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "millettia-stem",
     "name": "鸡血藤",
     "aliases": [],
@@ -10999,6 +11739,55 @@ const TCM_HERBS_CORE = [
       "jl",
       "刺蒺藜"
     ]
+  },
+  {
+    "id": "dao-di-orphan-288",
+    "name": "剑花",
+    "aliases": [
+      "龙骨花",
+      "霸王鞭",
+      "三角柱"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "肺热咳嗽",
+      "肺痨",
+      "瘰疬"
+    ],
+    "relatedForms": [],
+    "summary": "剑花为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其广药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 288。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-288.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "剑花",
+      "龙骨花",
+      "霸王鞭",
+      "三角柱",
+      "Hylocereus undatus (Haw.) Britton et Rose",
+      "化痰止咳平喘药",
+      "广药",
+      "广东、广西"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "pinellia-prep",
@@ -11518,6 +12307,57 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-87",
+    "name": "金莲花",
+    "aliases": [
+      "旱地莲",
+      "金芙蓉",
+      "旱金莲"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "清热解毒",
+      "消肿",
+      "明目",
+      "抗菌消炎"
+    ],
+    "relatedForms": [],
+    "summary": "金莲花为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其蒙药、北药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 87。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-87.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "金莲花",
+      "旱地莲",
+      "金芙蓉",
+      "旱金莲",
+      "FLOS TROLLII",
+      "清热药",
+      "蒙药",
+      "北药",
+      "山西、河南、河北、辽宁、吉林"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "sophora-albescens",
     "name": "金龙胆草",
     "aliases": [],
@@ -11600,6 +12440,56 @@ const TCM_HERBS_CORE = [
       "jinmengshi",
       "jms"
     ]
+  },
+  {
+    "id": "dao-di-orphan-275",
+    "name": "金钱白花蛇",
+    "aliases": [
+      "金钱蛇",
+      "小白花蛇"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "祛风",
+      "通络",
+      "止痉"
+    ],
+    "relatedForms": [
+      "dao-di-orphan-337",
+      "dao-di-orphan-372"
+    ],
+    "summary": "金钱白花蛇为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其广药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 275。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-275.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "金钱白花蛇",
+      "金钱蛇",
+      "小白花蛇",
+      "BUNGARUS PARVUS",
+      "祛风湿药",
+      "广药",
+      "广东、广西"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "lysimachia-christinae",
@@ -12028,6 +12918,58 @@ const TCM_HERBS_CORE = [
       "jingjietan",
       "jjt"
     ]
+  },
+  {
+    "id": "dao-di-orphan-8",
+    "name": "九节菖蒲",
+    "aliases": [
+      "小菖蒲",
+      "外菖蒲",
+      "节菖蒲"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "开窍",
+      "化痰",
+      "醒脾安神",
+      "化痰开窍"
+    ],
+    "relatedForms": [],
+    "summary": "九节菖蒲为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其秦药、关药、北药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 8。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-8.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "九节菖蒲",
+      "小菖蒲",
+      "外菖蒲",
+      "节菖蒲",
+      "RHIZOMA ANEMONES ALTAICAE",
+      "开窍药",
+      "秦药",
+      "关药",
+      "北药",
+      "陕西、山西"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "murraya-paniculata",
@@ -12622,6 +13564,50 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-243",
+    "name": "苦玄参",
+    "aliases": [],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "清热解毒",
+      "消肿止痛"
+    ],
+    "relatedForms": [],
+    "summary": "苦玄参为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其关药、云药、贵药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 243。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-243.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "苦玄参",
+      "PICRIAE HERBA",
+      "清热药",
+      "关药",
+      "云药",
+      "贵药",
+      "广药",
+      "广东、广西、贵州和云南南部"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "tinospora-sinensis-stem",
     "name": "宽筋藤",
     "aliases": [],
@@ -12827,6 +13813,52 @@ const TCM_HERBS_CORE = [
       "lfz",
       "萝卜子"
     ]
+  },
+  {
+    "id": "dao-di-orphan-34",
+    "name": "狼毒",
+    "aliases": [
+      "续毒"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "散结",
+      "杀虫"
+    ],
+    "relatedForms": [
+      "dao-di-orphan-398"
+    ],
+    "summary": "狼毒为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其关药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 34。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-34.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "狼毒",
+      "续毒",
+      "EUPHORBIAE EBRACTEOLATAE RADIX",
+      "杀虫止痒药",
+      "关药",
+      "黑龙江"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "geranium-wilfordii",
@@ -14475,6 +15507,49 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-245",
+    "name": "萝芙木",
+    "aliases": [],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "清风热",
+      "降肝火",
+      "消肿毒"
+    ],
+    "relatedForms": [],
+    "summary": "萝芙木为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其云药、关药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 245。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-245.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "萝芙木",
+      "RADIX ET CAULIS RAUVOLFIAE",
+      "解表药",
+      "云药",
+      "关药",
+      "主产于云南西双版纳"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "trachelospermum-jasminoides",
     "name": "络石藤",
     "aliases": [],
@@ -14846,6 +15921,56 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-88",
+    "name": "麦饭石",
+    "aliases": [
+      "炼山石",
+      "马牙砂",
+      "豆渣石"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "解毒生肌",
+      "祛湿健脾",
+      "解毒散结",
+      "去腐生肌"
+    ],
+    "relatedForms": [],
+    "summary": "麦饭石为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其北药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 88。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-88.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "麦饭石",
+      "炼山石",
+      "马牙砂",
+      "豆渣石",
+      "MAIFANITUM",
+      "拔毒生肌药",
+      "北药",
+      "天津、内蒙古、辽宁、吉林"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "hordeum-vulgare-sprout",
     "name": "麦芽",
     "aliases": [
@@ -14888,6 +16013,53 @@ const TCM_HERBS_CORE = [
       "my",
       "大麦芽"
     ]
+  },
+  {
+    "id": "dao-di-orphan-379",
+    "name": "满山红",
+    "aliases": [
+      "映山红",
+      "迎山红",
+      "山崩子"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "止咳祛痰"
+    ],
+    "relatedForms": [],
+    "summary": "满山红为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其关药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 379。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-379.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "满山红",
+      "映山红",
+      "迎山红",
+      "山崩子",
+      "RHODODENDRI DAURICI FOLIUM",
+      "化痰止咳平喘药",
+      "关药",
+      "黑龙江、内蒙古、吉林"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "vitex-rotundifolia",
@@ -15475,6 +16647,53 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-21",
+    "name": "缅茄",
+    "aliases": [
+      "沔茄",
+      "木茄"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "解毒消肿",
+      "去翳"
+    ],
+    "relatedForms": [],
+    "summary": "缅茄为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其云药、关药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 21。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-21.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "缅茄",
+      "沔茄",
+      "木茄",
+      "产区分布：广东、海南、广西、云南。",
+      "拔毒生肌药",
+      "云药",
+      "关药",
+      "广东、海南、广西、云南。"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "changium-smyrnioides",
     "name": "明党参",
     "aliases": [
@@ -15948,6 +17167,47 @@ const TCM_HERBS_CORE = [
       "mumianhua",
       "mmh"
     ]
+  },
+  {
+    "id": "dao-di-orphan-264",
+    "name": "木棉皮",
+    "aliases": [],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "宣散风湿",
+      "消肿止痛"
+    ],
+    "relatedForms": [],
+    "summary": "木棉皮为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其广药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 264。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-264.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "木棉皮",
+      "CORTEX BOMBACIS",
+      "祛风湿药",
+      "广药",
+      "广东、广西等地"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "akebia-quinata",
@@ -17056,6 +18316,58 @@ const TCM_HERBS_CORE = [
       "puhuangtan",
       "pht"
     ]
+  },
+  {
+    "id": "dao-di-orphan-337",
+    "name": "蕲蛇",
+    "aliases": [
+      "大白花蛇",
+      "棋盘蛇",
+      "五步蛇"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "祛风",
+      "通络",
+      "止痉"
+    ],
+    "relatedForms": [
+      "dao-di-orphan-275",
+      "dao-di-orphan-372"
+    ],
+    "summary": "蕲蛇为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其淮药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 337。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-337.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "蕲蛇",
+      "大白花蛇",
+      "棋盘蛇",
+      "五步蛇",
+      "AGKISTRODON",
+      "祛风湿药",
+      "淮药",
+      "安徽蕲蛇"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "euphorbia-lathyris",
@@ -18662,6 +19974,58 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-398",
+    "name": "瑞香狼毒",
+    "aliases": [
+      "蒲厘花粉",
+      "蒲花",
+      "蒲棒花粉"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "止血",
+      "化瘀",
+      "通淋"
+    ],
+    "relatedForms": [
+      "dao-di-orphan-34"
+    ],
+    "summary": "瑞香狼毒为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其蒙药、淮药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 398。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-398.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "瑞香狼毒",
+      "蒲厘花粉",
+      "蒲花",
+      "蒲棒花粉",
+      "TYPHAE POLLEN",
+      "止血药",
+      "蒙药",
+      "淮药",
+      "江苏、浙江、河南、山东、安徽、湖北等地"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "saururus-chinensis",
     "name": "三白草",
     "aliases": [],
@@ -19803,6 +21167,56 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-213",
+    "name": "蛇六谷",
+    "aliases": [
+      "蒟蒻",
+      "蒻头",
+      "白蒟蒻"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "化痰散积",
+      "行瘀消肿"
+    ],
+    "relatedForms": [],
+    "summary": "蛇六谷为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其川药、关药、蒙药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 213。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-213.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "蛇六谷",
+      "蒟蒻",
+      "蒻头",
+      "白蒟蒻",
+      "AMORPHOPHALLI RHIZOMA",
+      "化痰止咳平喘药",
+      "川药",
+      "关药",
+      "蒙药",
+      "四川、贵州"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "belamcanda-chinensis",
     "name": "射干",
     "aliases": [
@@ -20105,6 +21519,56 @@ const TCM_HERBS_CORE = [
       "shengjiang",
       "sj"
     ]
+  },
+  {
+    "id": "dao-di-orphan-198",
+    "name": "蓍草",
+    "aliases": [
+      "蓍",
+      "蜈蚣草",
+      "飞天蜈蚣"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "解毒利湿",
+      "活血止痛"
+    ],
+    "relatedForms": [
+      "dao-di-orphan-80"
+    ],
+    "summary": "蓍草为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其南药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 198。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-198.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "蓍草",
+      "蓍",
+      "蜈蚣草",
+      "飞天蜈蚣",
+      "ACHILLEAE HERBA",
+      "利水渗湿药",
+      "南药",
+      "江西、湖南、陕西"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "acorus-tatarinowii",
@@ -22213,6 +23677,56 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-44",
+    "name": "万寿竹",
+    "aliases": [
+      "竹叶参",
+      "白龙须",
+      "石竹根"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "益气养阴",
+      "润肺止咳",
+      "养血活络"
+    ],
+    "relatedForms": [],
+    "summary": "万寿竹为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其关药、云药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 44。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-44.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "万寿竹",
+      "竹叶参",
+      "白龙须",
+      "石竹根",
+      "RADIX ET RHIZOMA DISPORI",
+      "补虚药",
+      "关药",
+      "云药",
+      "产于云南，为彝族地区习用药材。"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "vaccaria-seeds",
     "name": "王不留行",
     "aliases": [
@@ -22382,6 +23896,58 @@ const TCM_HERBS_CORE = [
       "wumei",
       "wm"
     ]
+  },
+  {
+    "id": "dao-di-orphan-372",
+    "name": "乌梢蛇",
+    "aliases": [
+      "风蛇",
+      "乌花蛇",
+      "黑风蛇"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "祛风",
+      "通络",
+      "止痉"
+    ],
+    "relatedForms": [
+      "dao-di-orphan-275",
+      "dao-di-orphan-337"
+    ],
+    "summary": "乌梢蛇为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其淮药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 372。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-372.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "乌梢蛇",
+      "风蛇",
+      "乌花蛇",
+      "黑风蛇",
+      "ZAOCYS",
+      "祛风药",
+      "淮药",
+      "安徽"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "lindera-aggregata",
@@ -23229,6 +24795,57 @@ const TCM_HERBS_CORE = [
       "xf",
       "莎草根"
     ]
+  },
+  {
+    "id": "dao-di-orphan-64",
+    "name": "香青兰",
+    "aliases": [
+      "野薄荷",
+      "小兰花",
+      "香花花"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "清热止咳",
+      "凉肝止血",
+      "清肺解表"
+    ],
+    "relatedForms": [],
+    "summary": "香青兰为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其维药、关药、淮药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 64。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-64.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "香青兰",
+      "野薄荷",
+      "小兰花",
+      "香花花",
+      "产区分布：内蒙古、新疆、吉林等地",
+      "解表药",
+      "维药",
+      "关药",
+      "淮药",
+      "内蒙古、新疆、吉林等地"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "mosla-chinensis",
@@ -24203,6 +25820,56 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-281",
+    "name": "鸦胆子",
+    "aliases": [
+      "老鸦胆",
+      "鸦胆",
+      "苦榛子"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "清热解毒",
+      "截疟",
+      "止痢",
+      "外用腐蚀赘疣"
+    ],
+    "relatedForms": [],
+    "summary": "鸦胆子为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其广药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 281。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-281.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "鸦胆子",
+      "老鸦胆",
+      "鸦胆",
+      "苦榛子",
+      "BRUCEAE FRUCTUS",
+      "清热药",
+      "广药",
+      "广东、广西"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "cissampelos-pareira",
     "name": "亚乎奴",
     "aliases": [
@@ -24831,6 +26498,97 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "dao-di-orphan-80",
+    "name": "翼首草",
+    "aliases": [
+      "棒子头",
+      "狮子草"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "解毒除瘟",
+      "清热止痢",
+      "祛风通痹"
+    ],
+    "relatedForms": [],
+    "summary": "翼首草为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其藏药、关药、怀药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 80。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-80.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "翼首草",
+      "棒子头",
+      "狮子草",
+      "PTEROCEPHALI HERBA",
+      "清热药",
+      "藏药",
+      "关药",
+      "怀药",
+      "青海、四川、云南、西藏等地"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
+    "id": "dao-di-orphan-260",
+    "name": "阴香根",
+    "aliases": [],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "祛风散寒",
+      "温中止痛",
+      "止血"
+    ],
+    "relatedForms": [],
+    "summary": "阴香根为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其广药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 260。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-260.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "阴香根",
+      "RADIX CINNAMOMI BURMANNII",
+      "温里药",
+      "广药",
+      "广东、广西、云南、福建等地"
+    ],
+    "pharmacopoeiaEdition": "2025"
+  },
+  {
     "id": "artemisia-capillaris",
     "name": "茵陈",
     "aliases": [
@@ -24959,6 +26717,57 @@ const TCM_HERBS_CORE = [
       "yinchaihu",
       "ych"
     ]
+  },
+  {
+    "id": "dao-di-orphan-248",
+    "name": "罂粟壳",
+    "aliases": [
+      "御米壳",
+      "米囊皮",
+      "米罂皮"
+    ],
+    "en": "",
+    "pinyin": "",
+    "initials": "",
+    "itemKind": "tcm-herb",
+    "usageScope": "dao-di-reference",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "待考",
+    "flavor": "",
+    "meridians": [],
+    "partUsed": "",
+    "effects": [
+      "敛肺",
+      "涩肠",
+      "止痛"
+    ],
+    "relatedForms": [],
+    "summary": "罂粟壳为道地药材参考条目，Atlas 当前未对应到药典2025正名；可查阅其关药、云药、贵药等体系与产区摘要。",
+    "caution": "道地药材参考档，非药典2025正名；仅供查阅，不替代诊断、处方或医嘱。",
+    "sources": [
+      {
+        "title": "道地药材网",
+        "summary": "站点参考条目整理；非药典2025正名。 detailId 248。",
+        "url": "http://www.chinadaodiyaocai.com/article/detail-248.html"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "罂粟壳",
+      "御米壳",
+      "米囊皮",
+      "米罂皮",
+      "PAPAVERIS PERICARPIUM",
+      "收涩药",
+      "关药",
+      "云药",
+      "贵药",
+      "云南、贵州"
+    ],
+    "pharmacopoeiaEdition": "2025"
   },
   {
     "id": "pinus-tabulaeformis",

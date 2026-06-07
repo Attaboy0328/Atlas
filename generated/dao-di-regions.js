@@ -114,6 +114,31 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-333",
+    "name": "巴旦杏仁",
+    "daoDiRegions": [
+      {
+        "place": "新疆、甘肃、陕西等地",
+        "province": "陕西"
+      }
+    ],
+    "daoDiSystemIds": [
+      "weiyao",
+      "guanyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "维药",
+      "关药",
+      "淮药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "croton-seed",
     "name": "巴豆",
     "daoDiRegions": [
@@ -205,6 +230,27 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "daodi-site-289",
+    "name": "白鹤藤",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西",
+        "province": "广东"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-289",
     "name": "白鹤藤",
     "daoDiRegions": [
       {
@@ -782,6 +828,33 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-70",
+    "name": "波棱瓜子",
+    "daoDiRegions": [
+      {
+        "place": "云南、西藏",
+        "province": "云南"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guanyao",
+      "huaiyao",
+      "yunyao",
+      "zangyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "怀药",
+      "云药",
+      "藏药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "psoralea-corylifolia",
     "name": "补骨脂",
     "daoDiRegions": [
@@ -880,7 +953,53 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-63",
+    "name": "藏茴香",
+    "daoDiRegions": [
+      {
+        "place": "西藏",
+        "province": "西藏"
+      }
+    ],
+    "daoDiSystemIds": [
+      "zangyao",
+      "guanyao",
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "藏药",
+      "关药",
+      "怀药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "daodi-site-384",
+    "name": "草苁蓉",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江、吉林和内蒙古",
+        "province": "黑龙江"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-384",
     "name": "草苁蓉",
     "daoDiRegions": [
       {
@@ -1424,6 +1543,27 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "daodi-site-257",
+    "name": "大风子",
+    "daoDiRegions": [
+      {
+        "place": "海南、广西",
+        "province": "广西"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-257",
     "name": "大风子",
     "daoDiRegions": [
       {
@@ -2362,6 +2502,27 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-302",
+    "name": "岗梅根",
+    "daoDiRegions": [
+      {
+        "place": "广东",
+        "province": "广东"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "galangal-officinarum",
     "name": "高良姜",
     "daoDiRegions": [
@@ -2774,6 +2935,27 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-383",
+    "name": "哈蟆油",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江、吉林、辽宁、四川、内蒙古等地",
+        "province": "黑龙江"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "gecko",
     "name": "蛤蚧",
     "daoDiRegions": [
@@ -2821,6 +3003,27 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "daodi-site-391",
+    "name": "海麻雀",
+    "daoDiRegions": [
+      {
+        "place": "我国南海、东海",
+        "province": ""
+      }
+    ],
+    "daoDiSystemIds": [
+      "haiyao"
+    ],
+    "daoDiSystems": [
+      "海药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-391",
     "name": "海麻雀",
     "daoDiRegions": [
       {
@@ -3065,6 +3268,27 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-271",
+    "name": "红豆蔻",
+    "daoDiRegions": [
+      {
+        "place": "广西、广东、海南等地",
+        "province": "广东"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "carthamus-tinctorius",
     "name": "红花",
     "daoDiRegions": [
@@ -3093,6 +3317,29 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "daodi-site-316",
+    "name": "红芪",
+    "daoDiRegions": [
+      {
+        "place": "甘肃",
+        "province": "甘肃"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guanyao",
+      "qinyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "秦药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-316",
     "name": "红芪",
     "daoDiRegions": [
       {
@@ -3216,6 +3463,31 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "daodi-site-351",
+    "name": "胡桐泪",
+    "daoDiRegions": [
+      {
+        "place": "新疆",
+        "province": "新疆"
+      }
+    ],
+    "daoDiSystemIds": [
+      "weiyao",
+      "guanyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "维药",
+      "关药",
+      "淮药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-351",
     "name": "胡桐泪",
     "daoDiRegions": [
       {
@@ -3619,7 +3891,55 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-235",
+    "name": "黄山药",
+    "daoDiRegions": [
+      {
+        "place": "云南",
+        "province": "云南"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guanyao",
+      "yunyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "云药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "daodi-site-239",
+    "name": "黄藤",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、云南等地",
+        "province": "广东"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guangyao",
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "广药",
+      "云药",
+      "关药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-239",
     "name": "黄藤",
     "daoDiRegions": [
       {
@@ -3743,6 +4063,27 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-330",
+    "name": "鸡桑根",
+    "daoDiRegions": [
+      {
+        "place": "河北鸡桑根",
+        "province": "河北"
+      }
+    ],
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "millettia-stem",
     "name": "鸡血藤",
     "daoDiRegions": [
@@ -3786,6 +4127,27 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "daodi-site-288",
+    "name": "剑花",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西",
+        "province": "广东"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-288",
     "name": "剑花",
     "daoDiRegions": [
       {
@@ -4002,7 +4364,51 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-87",
+    "name": "金莲花",
+    "daoDiRegions": [
+      {
+        "place": "山西、河南、河北、辽宁、吉林",
+        "province": "吉林"
+      }
+    ],
+    "daoDiSystemIds": [
+      "mengyao",
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "蒙药",
+      "北药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "daodi-site-275",
+    "name": "金钱白花蛇",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西",
+        "province": "广东"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-275",
     "name": "金钱白花蛇",
     "daoDiRegions": [
       {
@@ -4182,6 +4588,31 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-8",
+    "name": "九节菖蒲",
+    "daoDiRegions": [
+      {
+        "place": "陕西、山西",
+        "province": "山西"
+      }
+    ],
+    "daoDiSystemIds": [
+      "qinyao",
+      "guanyao",
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "秦药",
+      "关药",
+      "北药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "murraya-paniculata",
     "name": "九里香",
     "daoDiRegions": [
@@ -4334,6 +4765,33 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-243",
+    "name": "苦玄参",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、贵州和云南南部",
+        "province": "广东"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guanyao",
+      "yunyao",
+      "guiyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "云药",
+      "贵药",
+      "广药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "tussilago-farfara",
     "name": "款冬花",
     "daoDiRegions": [
@@ -4381,6 +4839,27 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "daodi-site-34",
+    "name": "狼毒",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江",
+        "province": "黑龙江"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-34",
     "name": "狼毒",
     "daoDiRegions": [
       {
@@ -4737,6 +5216,29 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-245",
+    "name": "萝芙木",
+    "daoDiRegions": [
+      {
+        "place": "主产于云南西双版纳",
+        "province": "云南"
+      }
+    ],
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "ephedra-sinica",
     "name": "麻黄",
     "daoDiRegions": [
@@ -4920,7 +5422,49 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-88",
+    "name": "麦饭石",
+    "daoDiRegions": [
+      {
+        "place": "天津、内蒙古、辽宁、吉林",
+        "province": "内蒙古"
+      }
+    ],
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "daodi-site-379",
+    "name": "满山红",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江、内蒙古、吉林",
+        "province": "黑龙江"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-379",
     "name": "满山红",
     "daoDiRegions": [
       {
@@ -5009,6 +5553,29 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "daodi-site-21",
+    "name": "缅茄",
+    "daoDiRegions": [
+      {
+        "place": "广东、海南、广西、云南。",
+        "province": "广东"
+      }
+    ],
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-21",
     "name": "缅茄",
     "daoDiRegions": [
       {
@@ -5189,6 +5756,27 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "daodi-site-264",
+    "name": "木棉皮",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西等地",
+        "province": "广东"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-264",
     "name": "木棉皮",
     "daoDiRegions": [
       {
@@ -5484,6 +6072,27 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "daodi-site-337",
+    "name": "蕲蛇",
+    "daoDiRegions": [
+      {
+        "place": "安徽蕲蛇",
+        "province": "安徽"
+      }
+    ],
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-337",
     "name": "蕲蛇",
     "daoDiRegions": [
       {
@@ -6044,6 +6653,29 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-398",
+    "name": "瑞香狼毒",
+    "daoDiRegions": [
+      {
+        "place": "江苏、浙江、河南、山东、安徽、湖北等地",
+        "province": "山东"
+      }
+    ],
+    "daoDiSystemIds": [
+      "mengyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "蒙药",
+      "淮药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "sparganium-stoloniferum",
     "name": "三棱",
     "daoDiRegions": [
@@ -6404,6 +7036,31 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-213",
+    "name": "蛇六谷",
+    "daoDiRegions": [
+      {
+        "place": "四川、贵州",
+        "province": "四川"
+      }
+    ],
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "belamcanda-chinensis",
     "name": "射干",
     "daoDiRegions": [
@@ -6453,6 +7110,27 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "daodi-site-198",
+    "name": "蓍草",
+    "daoDiRegions": [
+      {
+        "place": "江西、湖南、陕西",
+        "province": "江西"
+      }
+    ],
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-198",
     "name": "蓍草",
     "daoDiRegions": [
       {
@@ -7091,6 +7769,29 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-44",
+    "name": "万寿竹",
+    "daoDiRegions": [
+      {
+        "place": "产于云南，为彝族地区习用药材。",
+        "province": "云南"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guanyao",
+      "yunyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "云药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "clematis-chinensis",
     "name": "威灵仙",
     "daoDiRegions": [
@@ -7146,6 +7847,27 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "daodi-site-372",
+    "name": "乌梢蛇",
+    "daoDiRegions": [
+      {
+        "place": "安徽",
+        "province": "安徽"
+      }
+    ],
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-372",
     "name": "乌梢蛇",
     "daoDiRegions": [
       {
@@ -7555,6 +8277,31 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-64",
+    "name": "香青兰",
+    "daoDiRegions": [
+      {
+        "place": "内蒙古、新疆、吉林等地",
+        "province": "内蒙古"
+      }
+    ],
+    "daoDiSystemIds": [
+      "weiyao",
+      "guanyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "维药",
+      "关药",
+      "淮药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "mosla-chinensis",
     "name": "香薷",
     "daoDiRegions": [
@@ -7848,6 +8595,27 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-281",
+    "name": "鸦胆子",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西",
+        "province": "广东"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "corydalis-yanhusuo",
     "name": "延胡索（元胡）",
     "daoDiRegions": [
@@ -8001,7 +8769,53 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-80",
+    "name": "翼首草",
+    "daoDiRegions": [
+      {
+        "place": "青海、四川、云南、西藏等地",
+        "province": "四川"
+      }
+    ],
+    "daoDiSystemIds": [
+      "zangyao",
+      "guanyao",
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "藏药",
+      "关药",
+      "怀药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "daodi-site-260",
+    "name": "阴香根",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、云南、福建等地",
+        "province": "福建"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "dao-di-orphan-260",
     "name": "阴香根",
     "daoDiRegions": [
       {
@@ -8169,7 +8983,59 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
+    "canonicalId": "dao-di-orphan-248",
+    "name": "罂粟壳",
+    "daoDiRegions": [
+      {
+        "place": "云南、贵州",
+        "province": "贵州"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guanyao",
+      "yunyao",
+      "guiyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "云药",
+      "贵药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "daodi-site-233",
+    "name": "蛹虫草",
+    "daoDiRegions": [
+      {
+        "place": "内蒙古蛹虫草",
+        "province": "内蒙古"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guanyao",
+      "yunyao",
+      "huaiyao-huai",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "云药",
+      "淮药",
+      "蒙药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "cordyceps-flower",
     "name": "蛹虫草",
     "daoDiRegions": [
       {

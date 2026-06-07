@@ -141,9 +141,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-333",
+    "canonicalId": "dao-di-orphan-333",
     "name": "巴旦杏仁",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "weiyao",
       "guanyao",
@@ -321,9 +321,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-289",
+    "canonicalId": "dao-di-orphan-289",
     "name": "白鹤藤",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guangyao"
     ],
@@ -1121,9 +1121,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-70",
+    "canonicalId": "dao-di-orphan-70",
     "name": "波棱瓜子",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guanyao",
       "huaiyao",
@@ -1273,9 +1273,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-63",
+    "canonicalId": "dao-di-orphan-63",
     "name": "藏茴香",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "zangyao",
       "guanyao",
@@ -1311,9 +1311,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-384",
+    "canonicalId": "dao-di-orphan-384",
     "name": "草苁蓉",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guanyao"
     ],
@@ -2119,9 +2119,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-257",
+    "canonicalId": "dao-di-orphan-257",
     "name": "大风子",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guangyao"
     ],
@@ -3411,9 +3411,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-302",
+    "canonicalId": "dao-di-orphan-302",
     "name": "岗梅根",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guangyao"
     ],
@@ -4051,9 +4051,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-383",
+    "canonicalId": "dao-di-orphan-383",
     "name": "哈蟆油",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guanyao"
     ],
@@ -4157,9 +4157,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-391",
+    "canonicalId": "dao-di-orphan-391",
     "name": "海麻雀",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "haiyao"
     ],
@@ -4511,9 +4511,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-271",
+    "canonicalId": "dao-di-orphan-271",
     "name": "红豆蔻",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guangyao"
     ],
@@ -4585,9 +4585,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-316",
+    "canonicalId": "dao-di-orphan-316",
     "name": "红芪",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guanyao",
       "qinyao"
@@ -4773,9 +4773,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-351",
+    "canonicalId": "dao-di-orphan-351",
     "name": "胡桐泪",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "weiyao",
       "guanyao",
@@ -5301,9 +5301,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-235",
+    "canonicalId": "dao-di-orphan-235",
     "name": "黄山药",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guanyao",
       "yunyao"
@@ -5337,9 +5337,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-239",
+    "canonicalId": "dao-di-orphan-239",
     "name": "黄藤",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guangyao",
       "yunyao",
@@ -5477,9 +5477,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-330",
+    "canonicalId": "dao-di-orphan-330",
     "name": "鸡桑根",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "huaiyao-huai"
     ],
@@ -5579,9 +5579,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-288",
+    "canonicalId": "dao-di-orphan-288",
     "name": "剑花",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guangyao"
     ],
@@ -5911,9 +5911,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-87",
+    "canonicalId": "dao-di-orphan-87",
     "name": "金莲花",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "mengyao",
       "beiyao"
@@ -5947,9 +5947,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-275",
+    "canonicalId": "dao-di-orphan-275",
     "name": "金钱白花蛇",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guangyao"
     ],
@@ -6193,9 +6193,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-8",
+    "canonicalId": "dao-di-orphan-8",
     "name": "九节菖蒲",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "qinyao",
       "guanyao",
@@ -6413,9 +6413,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-243",
+    "canonicalId": "dao-di-orphan-243",
     "name": "苦玄参",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guanyao",
       "yunyao",
@@ -6525,9 +6525,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-34",
+    "canonicalId": "dao-di-orphan-34",
     "name": "狼毒",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guanyao"
     ],
@@ -7023,9 +7023,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-245",
+    "canonicalId": "dao-di-orphan-245",
     "name": "萝芙木",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "yunyao",
       "guanyao"
@@ -7299,9 +7299,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-88",
+    "canonicalId": "dao-di-orphan-88",
     "name": "麦饭石",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "beiyao"
     ],
@@ -7333,9 +7333,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-379",
+    "canonicalId": "dao-di-orphan-379",
     "name": "满山红",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guanyao"
     ],
@@ -7473,9 +7473,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-21",
+    "canonicalId": "dao-di-orphan-21",
     "name": "缅茄",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "yunyao",
       "guanyao"
@@ -7753,9 +7753,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-264",
+    "canonicalId": "dao-di-orphan-264",
     "name": "木棉皮",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guangyao"
     ],
@@ -8213,9 +8213,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-337",
+    "canonicalId": "dao-di-orphan-337",
     "name": "蕲蛇",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "huaiyao-huai"
     ],
@@ -9015,9 +9015,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-398",
+    "canonicalId": "dao-di-orphan-398",
     "name": "瑞香狼毒",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "mengyao",
       "huaiyao-huai"
@@ -9515,9 +9515,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-213",
+    "canonicalId": "dao-di-orphan-213",
     "name": "蛇六谷",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "chuanyao",
       "guanyao",
@@ -9627,9 +9627,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-198",
+    "canonicalId": "dao-di-orphan-198",
     "name": "蓍草",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "nanyao"
     ],
@@ -9913,40 +9913,6 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-143",
-    "name": "松花",
-    "linkStatus": "site-only",
-    "daoDiSystemIds": [
-      "zheyao"
-    ],
-    "daoDiSystems": [
-      "浙药"
-    ],
-    "taxonomy": {
-      "latinName": "POLLEN PINI",
-      "family": "松科"
-    },
-    "originDistribution": "江苏、浙江、安徽、江西、福建、湖北",
-    "daoDiRegions": [
-      {
-        "place": "江苏、浙江、安徽、江西、福建、湖北",
-        "province": "江苏"
-      }
-    ],
-    "efficacyClass": "祛风湿药",
-    "efficacy": "益气，燥湿，止血。（《中药大辞典》） 祛风，益气，收湿，止血。（《中华本草》）",
-    "indications": "主治久泻久痢，胃脘疼痛，湿疹湿疮，创伤出血。（《中药大辞典》） 主治头痛眩晕，泄泻下痢，湿疹湿疮，创伤出血。（《中华本草》） 用法用量 内服：煎汤，3-9g；或冲服。外用：干撒或调敷。（《中药大辞典》） 内服：煎汤，3-9g；或冲服。外用：适量，干撒或调敷。（《中华本草》） 用药禁忌 血虚、内热者慎服。（《中药大辞典》） 血虚、内热者慎服。（《中华本草》）",
-    "partUsed": "",
-    "productVariants": [],
-    "overview": "松花为松科植物马尾松Pinus massoniana Lamb.、油松Pinus tabuliformis Carr.、赤松Pinus densiflora Sieb. et Zucc.、黑松Pinus thunbergii Parl.等的花粉。4-6月开花期间采收雄花穗，晾干，搓下花粉，过筛，收取细粉，再晒。马尾松主产于江苏、浙江、安徽、江西、福建、湖北；油松主产于辽宁、河北、山东、河南、山西、陕西、甘肃；赤松主产于黑龙江、吉林、辽宁、山东及江苏；黑松主产于辽宁、山东。 来源 本品为松科植物马尾松Pinus massoniana Lamb.、油松Pin",
-    "provenance": {
-      "source": "chinadaodiyaocai.com",
-      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-143.html",
-      "detailId": "143",
-      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
-    }
-  },
-  {
     "canonicalId": "pinus-massoniana-pollen",
     "name": "松花粉",
     "linkStatus": "linked",
@@ -9967,9 +9933,9 @@ const DAO_DI_HERB_PROFILES = [
         "province": "江苏"
       }
     ],
-    "efficacyClass": "止血药",
-    "efficacy": "收敛止血，燥湿敛疮。（《中国药典2015》）",
-    "indications": "用于外伤出血，湿疹，黄水疮，皮肤糜烂，脓水淋漓。（《中国药典2015》） 用法用量 外用适量，撒敷患处。（《中国药典2015》） 用药禁忌 血虚、内热者慎服。（《中药大辞典》） 贮藏保存 置干燥处，防潮。（《中国药典2015》）",
+    "efficacyClass": "祛风湿药",
+    "efficacy": "益气，燥湿，止血。（《中药大辞典》） 祛风，益气，收湿，止血。（《中华本草》）",
+    "indications": "主治久泻久痢，胃脘疼痛，湿疹湿疮，创伤出血。（《中药大辞典》） 主治头痛眩晕，泄泻下痢，湿疹湿疮，创伤出血。（《中华本草》） 用法用量 内服：煎汤，3-9g；或冲服。外用：干撒或调敷。（《中药大辞典》） 内服：煎汤，3-9g；或冲服。外用：适量，干撒或调敷。（《中华本草》） 用药禁忌 血虚、内热者慎服。（《中药大辞典》） 血虚、内热者慎服。（《中华本草》）",
     "partUsed": "",
     "productVariants": [],
     "overview": "松花粉为松科植物马尾松Pinus massoniana Lamb.、油松Pinus tabuliformis Carr.或同属数种植物的干燥花粉。春季花刚开时，采摘花穗，晒干，收集花粉，除去杂质。马尾松主产于江苏、浙江、安徽、江西、福建、湖北；油松主产于辽宁、河北、山东、河南、山西、陕西、甘肃。 来源 本品为松科植物马尾松Pinus massoniana Lamb.、油松Pinus tabuliformis Carr.或同属数种植物的干燥花粉。（《中国药典2015》） 分布产地 马尾松主产于江苏、浙江、安徽、江西、福建、湖北；油松主产于辽宁、河北、山东、",
@@ -10585,9 +10551,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-44",
+    "canonicalId": "dao-di-orphan-44",
     "name": "万寿竹",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guanyao",
       "yunyao"
@@ -10701,9 +10667,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-372",
+    "canonicalId": "dao-di-orphan-372",
     "name": "乌梢蛇",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "huaiyao-huai"
     ],
@@ -11277,9 +11243,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-64",
+    "canonicalId": "dao-di-orphan-64",
     "name": "香青兰",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "weiyao",
       "guanyao",
@@ -11743,9 +11709,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-281",
+    "canonicalId": "dao-di-orphan-281",
     "name": "鸦胆子",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guangyao"
     ],
@@ -11953,9 +11919,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-80",
+    "canonicalId": "dao-di-orphan-80",
     "name": "翼首草",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "zangyao",
       "guanyao",
@@ -11991,9 +11957,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-260",
+    "canonicalId": "dao-di-orphan-260",
     "name": "阴香根",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guangyao"
     ],
@@ -12191,9 +12157,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-248",
+    "canonicalId": "dao-di-orphan-248",
     "name": "罂粟壳",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guanyao",
       "yunyao",
@@ -12229,9 +12195,9 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "daodi-site-233",
+    "canonicalId": "cordyceps-flower",
     "name": "蛹虫草",
-    "linkStatus": "site-only",
+    "linkStatus": "linked",
     "daoDiSystemIds": [
       "guanyao",
       "yunyao",

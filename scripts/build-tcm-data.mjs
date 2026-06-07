@@ -49,7 +49,10 @@ function normalizeHerb(herb) {
   };
 }
 
-const rawHerbs = readJson("herbs-chp2025.json", []);
+const rawHerbs = [
+  ...readJson("herbs-chp2025.json", []),
+  ...readJson("dao-di-orphan-herbs.json", [])
+];
 const idSet = new Set();
 const nameSet = new Set();
 const herbs = [];
@@ -136,7 +139,7 @@ fs.mkdirSync(publicDir, { recursive: true });
 fs.writeFileSync(path.join(publicDir, "herbs-chp2025.json"), JSON.stringify(herbs, null, 2));
 fs.writeFileSync(path.join(publicDir, "classic-diet-recipes.json"), JSON.stringify(classicRecipes, null, 2));
 
-console.log(`TCM herbs: ${herbs.length} (from herbs-chp2025.json)`);
+console.log(`TCM herbs: ${herbs.length} (including dao-di orphan references)`);
 console.log(`Handcrafted recipes: ${handcraftedRecipes.length} / ${rawHandcrafted.length}`);
 console.log(`Classic diet recipes published: ${classicRecipes.length} / ${rawClassic.length}`);
 console.log(`Output: generated/tcm-herbs-bundle.js, generated/handcrafted-recipes.js, generated/classic-diet-recipes.js`);
