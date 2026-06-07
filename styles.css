@@ -555,6 +555,15 @@ button {
   transition: transform 240ms var(--ease-ios), box-shadow 240ms var(--ease-ios), border-color 220ms var(--ease-ios), background-color 220ms var(--ease-ios);
 }
 
+.qi-term-tile:hover,
+.qi-term-tile:active {
+  box-shadow: var(--shadow-soft);
+}
+
+.qi-term-tile:active {
+  transform: scale(0.98) translateY(1px);
+}
+
 .qi-term-tile strong {
   font-family: var(--serif);
   color: var(--green-deep);
@@ -1214,6 +1223,9 @@ button {
 .chip {
   min-height: 40px;
   flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   padding: 0 14px;
   border: 1px solid color-mix(in srgb, var(--line) 86%, transparent);
   border-radius: var(--radius-pill);
@@ -1301,12 +1313,67 @@ button {
 
 .filter-panel-library {
   display: grid;
-  gap: 16px;
+  gap: 12px;
 }
 
 .filter-subsection {
   display: grid;
-  gap: 10px;
+  gap: 8px;
+}
+
+.filter-label-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.filter-expand-button {
+  min-height: 28px;
+  font-size: 11px;
+  color: var(--green);
+  white-space: nowrap;
+}
+
+.filter-drawer-panel .filter-group-wrap,
+.filter-drawer-panel .filter-province-grid {
+  gap: 6px;
+  margin-top: 0;
+  padding-bottom: 0;
+}
+
+.filter-drawer-panel .filter-chip-compact,
+.filter-drawer-panel .filter-group-wrap .chip,
+.filter-drawer-panel .filter-province-grid .chip {
+  min-height: 30px;
+  padding: 0 9px;
+  font-size: 11px;
+}
+
+.filter-province-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+}
+
+.filter-province-grid .chip {
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.qi-term-grid + .notice,
+.qi-term-grid + .home-section {
+  margin-top: 24px;
+}
+
+.home-section + .qi-term-grid {
+  margin-top: 4px;
 }
 
 .filter-subsection + .filter-subsection {

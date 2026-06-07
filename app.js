@@ -19,8 +19,62 @@ const REGION_LABELS = {
   FR: "法国",
   DE: "德国",
   AU: "澳大利亚",
-  RU: "俄罗斯"
+  RU: "俄罗斯",
+  IN: "印度",
+  AR: "阿根廷",
+  IT: "意大利",
+  NZ: "新西兰",
+  ES: "西班牙",
+  VN: "越南",
+  ID: "印度尼西亚",
+  PH: "菲律宾",
+  CA: "加拿大",
+  MX: "墨西哥",
+  BR: "巴西",
+  NL: "荷兰",
+  CH: "瑞士",
+  SE: "瑞典",
+  NO: "挪威",
+  PT: "葡萄牙",
+  GR: "希腊",
+  TR: "土耳其",
+  EG: "埃及",
+  SA: "沙特阿拉伯",
+  AE: "阿联酋",
+  IL: "以色列",
+  PK: "巴基斯坦",
+  BD: "孟加拉国",
+  LK: "斯里兰卡",
+  MM: "缅甸",
+  KH: "柬埔寨",
+  LA: "老挝",
+  NP: "尼泊尔",
+  MN: "蒙古"
 };
+
+const QI_TERM_META = {
+  行气: { tone: "#4a7c59", pale: "#e3f0e8", hint: "气机郁滞 · 饭后胀" },
+  理气: { tone: "#8a7340", pale: "#f3ecda", hint: "嗳气 · 胃堵 · 胀满" },
+  破气: { tone: "#a65d45", pale: "#f5e8e2", hint: "积滞 · 行气偏猛" },
+  降气: { tone: "#6b5b8a", pale: "#ece8f2", hint: "反胃 · 嗳气上逆" }
+};
+
+const QI_TERMS_HOME = ["行气", "理气", "破气", "降气"];
+const PROVINCE_FILTER_EXPAND_LIMIT = 12;
+
+function isCountryCodeTag(tag) {
+  return /^[A-Z]{2,3}$/.test(tag);
+}
+
+function isProvinceFilterTag(tag) {
+  if (!tag || isCountryCodeTag(tag) || REGION_LABELS[tag]) return false;
+  if (CN_PROVINCES.includes(tag)) return true;
+  return /[\u4e00-\u9fff]/.test(tag);
+}
+
+function regionDisplayLabel(tag) {
+  return REGION_LABELS[tag] || tag;
+}
 
 const CN_PROVINCES = [
   "北京", "天津", "上海", "重庆", "河北", "山西", "辽宁", "吉林", "黑龙江",
@@ -712,6 +766,7 @@ const state = {
   libraryEthnic: "全部",
   libraryTopic: "",
   libraryKind: "全部",
+  libraryProvincesExpanded: false,
   checkerQuery: "",
   checkerSelected: [],
   checkerScrollPending: false,
@@ -1446,11 +1501,24 @@ function collectTagCounts(items, tagKey) {
 const libraryCatalog = foods.filter((food) => !food.hiddenFromLibrary);
 const PROVINCE_COUNTS = collectTagCounts(libraryCatalog, "provinces");
 const ETHNIC_COUNTS = collectTagCounts(libraryCatalog, "ethnicGroups");
-const PROVINCES_IN_CATALOG = Object.keys(PROVINCE_COUNTS).sort(
-  (a, b) => PROVINCE_COUNTS[b] - PROVINCE_COUNTS[a] || a.localeCompare(b, "zh-CN")
-);
+const PROVINCES_IN_CATALOG = Object.keys(PROVINCE_COUNTS)
+  .filter(isProvinceFilterTag)
+  .sort(
+    (a, b) => PROVINCE_COUNTS[b] - PROVINCE_COUNTS[a] || a.localeCompare(b, "zh-CN")
+  );
 const ETHNICS_IN_CATALOG = Object.keys(ETHNIC_COUNTS).sort(
   (a, b) => ETHNIC_COUNTS[b] - ETHNIC_COUNTS[a] || a.localeCompare(b, "zh-CN")
+);
+
+function foodMatchesQiTerm(food, term) {
+  return (food.effects || []).includes(term) || (food.qiTerms || []).includes(term);
+}
+
+const QI_TERM_COUNTS = Object.fromEntries(
+  QI_TERMS_HOME.map((term) => [
+    term,
+    libraryCatalog.filter((food) => food.itemKind !== "tcm-herb" && foodMatchesQiTerm(food, term)).length
+  ])
 );
 
 boot();
@@ -1699,7 +1767,7 @@ function partitionRegionTags(rawRegions = [], explicit = {}) {
   (rawRegions || []).forEach((tag) => {
     const value = cleanString(tag);
     if (!value) return;
-    if (REGION_LABELS[value]) {
+    if (REGION_LABELS[value] || isCountryCodeTag(value)) {
       countries.push(value);
     } else if (value.endsWith("族") || CN_ETHNIC_GROUPS.includes(value)) {
       ethnicGroups.push(value);
@@ -2187,6 +2255,14 @@ function bindLibraryFilterControls(root) {
       afterLibraryFilterChange({ scrollToResults: true });
     });
   });
+
+  root.querySelectorAll("[data-toggle-library-provinces]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.libraryProvincesExpanded = !state.libraryProvincesExpanded;
+      refreshOpenFilterSheet();
+    });
+  });
 }
 
 function bindCheckerEvents() {
@@ -2473,6 +2549,27 @@ function resetLibraryFilters() {
   state.libraryProvince = "全部";
   state.libraryEthnic = "全部";
   state.libraryTopic = "";
+  state.libraryProvincesExpanded = false;
+}
+
+function getVisibleProvinces() {
+  if (state.libraryProvincesExpanded || PROVINCES_IN_CATALOG.length <= PROVINCE_FILTER_EXPAND_LIMIT) {
+    return PROVINCES_IN_CATALOG;
+  }
+  const head = PROVINCES_IN_CATALOG.slice(0, PROVINCE_FILTER_EXPAND_LIMIT);
+  if (state.libraryProvince !== "全部" && !head.includes(state.libraryProvince)) {
+    return [...head, state.libraryProvince];
+  }
+  return head;
+}
+
+function refreshOpenFilterSheet() {
+  if (state.sheet?.type !== "filters") return;
+  const html = state.sheet.scope === "library"
+    ? renderLibraryFilterDrawerContent(filterFoods().length)
+    : renderRecipesFilterDrawerContent(filterRecipes().length);
+  sheetContent.innerHTML = html;
+  bindFilterSheetEvents();
 }
 
 function resetRecipesAdvancedFilters() {
@@ -2513,49 +2610,49 @@ function renderRecipesFilterDrawerContent(resultCount) {
         <div class="filter-subsection">
           <div class="filter-label">安全提醒</div>
           <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_USE_FOR_OPTIONS].map((item) => chip(item, item, "data-recipes-usefor", state.recipesUseFor === item)).join("")}
+            ${["全部", ...RECIPE_USE_FOR_OPTIONS].map((item) => chip(item, item, "data-recipes-usefor", state.recipesUseFor === item, "filter-chip-compact")).join("")}
           </div>
         </div>
         <div class="filter-subsection">
           <div class="filter-label">慎用提示</div>
           <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_AVOID_FOR_OPTIONS].map((item) => chip(item, item, "data-recipes-avoidfor", state.recipesAvoidFor === item)).join("")}
+            ${["全部", ...RECIPE_AVOID_FOR_OPTIONS].map((item) => chip(item, item, "data-recipes-avoidfor", state.recipesAvoidFor === item, "filter-chip-compact")).join("")}
           </div>
         </div>
         <div class="filter-subsection">
           <div class="filter-label">建议时段</div>
           <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_TIMING_OPTIONS].map((item) => chip(item, item, "data-recipes-timing", state.recipesTiming === item)).join("")}
+            ${["全部", ...RECIPE_TIMING_OPTIONS].map((item) => chip(item, item, "data-recipes-timing", state.recipesTiming === item, "filter-chip-compact")).join("")}
           </div>
         </div>
         <div class="filter-subsection">
           <div class="filter-label">烹调方式</div>
           <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_COOKING_OPTIONS].map((item) => chip(item, item, "data-recipes-cooking", state.recipesCooking === item)).join("")}
+            ${["全部", ...RECIPE_COOKING_OPTIONS].map((item) => chip(item, item, "data-recipes-cooking", state.recipesCooking === item, "filter-chip-compact")).join("")}
           </div>
         </div>
         <div class="filter-subsection">
           <div class="filter-label">适宜季节</div>
           <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_SEASON_OPTIONS].map((item) => chip(item, item, "data-recipes-season", state.recipesSeason === item)).join("")}
+            ${["全部", ...RECIPE_SEASON_OPTIONS].map((item) => chip(item, item, "data-recipes-season", state.recipesSeason === item, "filter-chip-compact")).join("")}
           </div>
         </div>
         <div class="filter-subsection">
           <div class="filter-label">身体感受</div>
           <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_BODY_FEEL_OPTIONS].map((item) => chip(item, item, "data-recipes-bodyfeel", state.recipesBodyFeel === item)).join("")}
+            ${["全部", ...RECIPE_BODY_FEEL_OPTIONS].map((item) => chip(item, item, "data-recipes-bodyfeel", state.recipesBodyFeel === item, "filter-chip-compact")).join("")}
           </div>
         </div>
         <div class="filter-subsection">
           <div class="filter-label">补神/益气</div>
           <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_TONIFY_OPTIONS].map((item) => chip(item, item, "data-recipes-tonify", state.recipesTonify === item)).join("")}
+            ${["全部", ...RECIPE_TONIFY_OPTIONS].map((item) => chip(item, item, "data-recipes-tonify", state.recipesTonify === item, "filter-chip-compact")).join("")}
           </div>
         </div>
         <div class="filter-subsection">
           <div class="filter-label">清热/祛湿</div>
           <div class="filter-group filter-group-wrap recipe-syndrome-group">
-            ${["全部", ...RECIPE_CLEAR_OPTIONS].map((item) => chip(item, item, "data-recipes-clear", state.recipesClear === item)).join("")}
+            ${["全部", ...RECIPE_CLEAR_OPTIONS].map((item) => chip(item, item, "data-recipes-clear", state.recipesClear === item, "filter-chip-compact")).join("")}
           </div>
         </div>
       </section>
@@ -2663,55 +2760,63 @@ function renderLibraryFilterSections() {
     { label: "药食同源", value: "food-medicine" },
     { label: "中药材", value: "tcm-herb" }
   ];
+  const compact = "filter-chip-compact";
+  const visibleProvinces = getVisibleProvinces();
+  const provinceToggle = PROVINCES_IN_CATALOG.length > PROVINCE_FILTER_EXPAND_LIMIT
+    ? `<button type="button" class="plain-button filter-expand-button" data-toggle-library-provinces>${state.libraryProvincesExpanded ? "收起省份" : `展开全部 ${PROVINCES_IN_CATALOG.length} 个`}</button>`
+    : "";
   return `
     <section class="filter-panel filter-panel-library filter-drawer-panel">
       <div class="filter-subsection">
         <div class="filter-label">条目类型</div>
         <div class="filter-group filter-group-wrap">
-          ${kindOptions.map((item) => chip(item.label, item.value, "data-library-kind", state.libraryKind === item.value)).join("")}
+          ${kindOptions.map((item) => chip(item.label, item.value, "data-library-kind", state.libraryKind === item.value, compact)).join("")}
         </div>
       </div>
       <div class="filter-subsection">
         <div class="filter-label">传统食性</div>
         <div class="filter-group filter-group-wrap">
-          ${["全部", "寒", "凉", "平", "温", "热", "复合"].map((item) => chip(item, item, "data-library-nature", state.libraryNature === item)).join("")}
+          ${["全部", "寒", "凉", "平", "温", "热", "复合"].map((item) => chip(item, item, "data-library-nature", state.libraryNature === item, compact)).join("")}
         </div>
       </div>
       <div class="filter-subsection">
         <div class="filter-label">气机与专题</div>
         <div class="filter-group filter-group-wrap">
-          ${teaTopics.map((item) => chip(item, item, "data-library-topic", state.libraryTopic === item)).join("")}
+          ${teaTopics.map((item) => chip(item, item, "data-library-topic", state.libraryTopic === item, compact)).join("")}
         </div>
       </div>
       <div class="filter-subsection">
         <div class="filter-label">食材分类</div>
         <div class="filter-group filter-group-wrap">
-          ${["全部", ...CATEGORY_ORDER.filter((category) => CATEGORY_COUNTS[category])].map((item) => chip(item, item, "data-library-category", state.libraryCategory === item)).join("")}
+          ${["全部", ...CATEGORY_ORDER.filter((category) => CATEGORY_COUNTS[category])].map((item) => chip(item, item, "data-library-category", state.libraryCategory === item, compact)).join("")}
         </div>
       </div>
       <div class="filter-subsection">
         <div class="filter-label">地区来源</div>
         <div class="filter-group filter-group-wrap">
-          ${chip("全部地区", "ALL", "data-library-region", state.libraryRegion === "ALL")}
+          ${chip("全部地区", "ALL", "data-library-region", state.libraryRegion === "ALL", compact)}
           ${Object.entries(REGION_LABELS)
             .filter(([region]) => REGION_COUNTS[region])
-            .map(([region, label]) => chip(label, region, "data-library-region", state.libraryRegion === region))
+            .map(([region, label]) => chip(label, region, "data-library-region", state.libraryRegion === region, compact))
             .join("")}
         </div>
       </div>
       <div class="filter-subsection">
-        <div class="filter-label">中国省份 / 地区</div>
-        <div class="filter-group filter-group-wrap">
-          ${chip("全部", "全部", "data-library-province", state.libraryProvince === "全部")}
-          ${PROVINCES_IN_CATALOG.map((province) => chip(`${province} · ${PROVINCE_COUNTS[province]}`, province, "data-library-province", state.libraryProvince === province)).join("")}
+        <div class="filter-label-row">
+          <div class="filter-label">中国省份 / 地区</div>
+          ${provinceToggle}
+        </div>
+        <div class="filter-group filter-province-grid">
+          ${chip("全部", "全部", "data-library-province", state.libraryProvince === "全部", compact)}
+          ${visibleProvinces.map((province) => chip(province, province, "data-library-province", state.libraryProvince === province, compact)).join("")}
         </div>
       </div>
       ${ETHNICS_IN_CATALOG.length ? `
       <div class="filter-subsection">
         <div class="filter-label">民族风味</div>
         <div class="filter-group filter-group-wrap">
-          ${chip("全部", "全部", "data-library-ethnic", state.libraryEthnic === "全部")}
-          ${ETHNICS_IN_CATALOG.map((ethnic) => chip(`${ethnic} · ${ETHNIC_COUNTS[ethnic]}`, ethnic, "data-library-ethnic", state.libraryEthnic === ethnic)).join("")}
+          ${chip("全部", "全部", "data-library-ethnic", state.libraryEthnic === "全部", compact)}
+          ${ETHNICS_IN_CATALOG.map((ethnic) => chip(ethnic, ethnic, "data-library-ethnic", state.libraryEthnic === ethnic, compact)).join("")}
         </div>
       </div>
       ` : ""}
@@ -2729,6 +2834,19 @@ function renderHomeV2() {
         <button class="nature-tile" data-library-nature-link="${nature}" style="background:${meta.pale};border-color:${meta.tone}22">
           <strong style="color:${meta.tone}">${nature}</strong>
           <small>${NATURE_COUNTS[nature] || 0}种</small>
+        </button>
+      `;
+    })
+    .join("");
+
+  const qiTermTiles = QI_TERMS_HOME
+    .map((term) => {
+      const meta = QI_TERM_META[term];
+      return `
+        <button class="qi-term-tile" data-quick-term="${term}" style="background:${meta.pale};border-color:${meta.tone}22">
+          <strong style="color:${meta.tone}">${term}</strong>
+          <span>${meta.hint}</span>
+          <small>${QI_TERM_COUNTS[term] || 0}种</small>
         </button>
       `;
     })
@@ -2779,9 +2897,7 @@ function renderHomeV2() {
       <p class="section-copy">进阶专题入口，点击后进入食材库继续筛选。</p>
     </section>
 
-    <div class="filter-group filter-group-wrap">
-      ${["行气", "理气", "破气", "降气"].map((term) => chip(term, term, "data-quick-term")).join("")}
-    </div>
+    <section class="qi-term-grid">${qiTermTiles}</section>
 
     <section class="notice gold">
       <strong>数据边界</strong>
@@ -3308,9 +3424,10 @@ function foodListMeta(food) {
   return parts.filter(Boolean).join(" · ");
 }
 
-function chip(label, value, dataAttr, active = false) {
+function chip(label, value, dataAttr, active = false, extraClass = "") {
   const attr = dataAttr ? `${dataAttr}="${value}"` : "";
-  return `<button class="chip ${active ? "active" : ""}" ${attr}>${label}</button>`;
+  const classes = ["chip", extraClass, active ? "active" : ""].filter(Boolean).join(" ");
+  return `<button type="button" class="${classes}" ${attr}>${label}</button>`;
 }
 
 function recipeRow(item) {
