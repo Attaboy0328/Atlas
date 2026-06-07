@@ -45,6 +45,11 @@
     "note": "auto: duplicate name「鹰嘴豆」→ chickpea"
   },
   {
+    "alias": "cat-bean-152",
+    "canonical": "canavalia-gladiata",
+    "note": "auto: bulk duplicate「刀豆」→ canavalia-gladiata"
+  },
+  {
     "alias": "cat-bean-153",
     "canonical": "green-pea",
     "note": "auto: duplicate name「豌豆」→ green-pea"
@@ -68,6 +73,11 @@
     "alias": "cat-bean-product-176",
     "canonical": "douchi",
     "note": "auto: duplicate name「豆豉」→ douchi"
+  },
+  {
+    "alias": "cat-condiment-001",
+    "canonical": "zanthoxylum-bungeanum-peel",
+    "note": "auto: bulk duplicate「花椒」→ zanthoxylum-bungeanum-peel"
   },
   {
     "alias": "cat-condiment-003",
@@ -290,6 +300,11 @@
     "note": "auto: duplicate name「洋葱」→ onion"
   },
   {
+    "alias": "cat-veg-195",
+    "canonical": "garlic-bulb",
+    "note": "auto: bulk duplicate「大蒜」→ garlic-bulb"
+  },
+  {
     "alias": "cat-veg-197",
     "canonical": "green-pepper",
     "note": "auto: duplicate name「青椒」→ green-pepper"
@@ -430,6 +445,11 @@
     "note": "auto: duplicate name「抱子甘蓝」→ brussels-sprouts"
   },
   {
+    "alias": "cat-veg-272",
+    "canonical": "fructus-arctii",
+    "note": "auto: bulk duplicate「牛蒡」→ fructus-arctii"
+  },
+  {
     "alias": "cat-wild-275",
     "canonical": "shepherds-purse",
     "note": "auto: duplicate name「荠菜」→ shepherds-purse"
@@ -445,9 +465,19 @@
     "note": "auto: duplicate name「马兰头」→ malantou"
   },
   {
+    "alias": "cat-wild-282",
+    "canonical": "plantago-asiatca-herb",
+    "note": "auto: bulk duplicate「车前草」→ plantago-asiatca-herb"
+  },
+  {
     "alias": "cat-wild-283",
     "canonical": "goji-shoots",
     "note": "auto: duplicate name「枸杞头」→ goji-shoots"
+  },
+  {
+    "alias": "cat-wild-290",
+    "canonical": "flos-sophorae",
+    "note": "auto: bulk duplicate「槐花」→ flos-sophorae"
   },
   {
     "alias": "celery-celery",
@@ -615,14 +645,134 @@
     "note": "宁夏枸杞区域条目归并到枸杞基原"
   },
   {
+    "alias": "official-almond",
+    "canonical": "prunus-armeniaca-seed",
+    "note": "auto: bulk duplicate「杏仁」→ prunus-armeniaca-seed"
+  },
+  {
+    "alias": "official-american-ginseng",
+    "canonical": "panax-quinquefolius",
+    "note": "auto: bulk duplicate「西洋参」→ panax-quinquefolius"
+  },
+  {
+    "alias": "official-amomum",
+    "canonical": "amomi-fructus",
+    "note": "auto: bulk duplicate「砂仁」→ amomi-fructus"
+  },
+  {
+    "alias": "official-angelica",
+    "canonical": "angelica-sinensis",
+    "note": "auto: bulk duplicate「当归」→ angelica-sinensis"
+  },
+  {
+    "alias": "official-bamboo-leaf",
+    "canonical": "lophatherum-gracile",
+    "note": "auto: bulk duplicate「淡竹叶」→ lophatherum-gracile"
+  },
+  {
+    "alias": "official-bellflower",
+    "canonical": "platycodon-grandiflorus",
+    "note": "auto: bulk duplicate「桔梗」→ platycodon-grandiflorus"
+  },
+  {
+    "alias": "official-bitter-almond",
+    "canonical": "prunus-processed",
+    "note": "auto: bulk duplicate「苦杏仁」→ prunus-processed"
+  },
+  {
+    "alias": "official-black-sesame",
+    "canonical": "sesamum-nigrum",
+    "note": "auto: bulk duplicate「黑芝麻」→ sesamum-nigrum"
+  },
+  {
+    "alias": "official-broomcorn",
+    "canonical": "galangal-officinarum",
+    "note": "auto: bulk duplicate「高良姜」→ galangal-officinarum"
+  },
+  {
+    "alias": "official-burdock-seed",
+    "canonical": "arctium-lappa",
+    "note": "auto: bulk duplicate「牛蒡子」→ arctium-lappa"
+  },
+  {
+    "alias": "official-cardamom",
+    "canonical": "amomi-kravanh-white",
+    "note": "auto: bulk duplicate「白豆蔻」→ amomi-kravanh-white"
+  },
+  {
+    "alias": "official-cassia-seed",
+    "canonical": "cassia-seed",
+    "note": "auto: bulk duplicate「决明子」→ cassia-seed"
+  },
+  {
     "alias": "official-chinese-barley",
     "canonical": "barley",
     "note": "auto: duplicate name「大麦」→ barley"
   },
   {
+    "alias": "official-chinese-olive",
+    "canonical": "canarium-fruit",
+    "note": "auto: bulk duplicate「青果」→ canarium-fruit"
+  },
+  {
+    "alias": "official-chive-seed",
+    "canonical": "semen-allii-tuberosi",
+    "note": "auto: bulk duplicate「韭菜子」→ semen-allii-tuberosi"
+  },
+  {
+    "alias": "official-cinnamon",
+    "canonical": "cinnamon-bark",
+    "note": "auto: bulk duplicate「肉桂」→ cinnamon-bark"
+  },
+  {
+    "alias": "official-citron",
+    "canonical": "citron-fruit",
+    "note": "auto: bulk duplicate「香橼」→ citron-fruit"
+  },
+  {
+    "alias": "official-clove",
+    "canonical": "caryophylli-flos",
+    "note": "auto: bulk duplicate「丁香」→ caryophylli-flos"
+  },
+  {
+    "alias": "official-cordia-fruit",
+    "canonical": "sterculia-seed",
+    "note": "auto: bulk duplicate「胖大海」→ sterculia-seed"
+  },
+  {
+    "alias": "official-cyperus",
+    "canonical": "cyperus-rotundus",
+    "note": "auto: bulk duplicate「香附」→ cyperus-rotundus"
+  },
+  {
     "alias": "official-dandelion",
     "canonical": "dandelion",
     "note": "蒲公英"
+  },
+  {
+    "alias": "official-date",
+    "canonical": "jujube-fruit-dried",
+    "note": "auto: bulk duplicate「大枣」→ jujube-fruit-dried"
+  },
+  {
+    "alias": "official-dendrobium",
+    "canonical": "dendrobium-nobile",
+    "note": "auto: bulk duplicate「石斛」→ dendrobium-nobile"
+  },
+  {
+    "alias": "official-dragon-eye",
+    "canonical": "longan-aril",
+    "note": "auto: bulk duplicate「龙眼肉」→ longan-aril"
+  },
+  {
+    "alias": "official-dried-ginger",
+    "canonical": "dried-ginger",
+    "note": "auto: bulk duplicate「干姜」→ dried-ginger"
+  },
+  {
+    "alias": "official-euryale",
+    "canonical": "euryale-seed",
+    "note": "auto: bulk duplicate「芡实」→ euryale-seed"
   },
   {
     "alias": "official-fennel",
@@ -633,6 +783,16 @@
     "alias": "official-fig",
     "canonical": "fig",
     "note": "auto: duplicate name「无花果」→ fig"
+  },
+  {
+    "alias": "official-gardenia",
+    "canonical": "gardenia-jasminoides",
+    "note": "auto: bulk duplicate「栀子」→ gardenia-jasminoides"
+  },
+  {
+    "alias": "official-ginseng",
+    "canonical": "radix-ginseng",
+    "note": "auto: bulk duplicate「人参」→ radix-ginseng"
   },
   {
     "alias": "official-goji-berry",
@@ -650,9 +810,34 @@
     "note": "鱼腥草"
   },
   {
+    "alias": "official-imperata-root",
+    "canonical": "imperata-cylindrica",
+    "note": "auto: bulk duplicate「白茅根」→ imperata-cylindrica"
+  },
+  {
+    "alias": "official-kudzu",
+    "canonical": "pueraria-lobata",
+    "note": "auto: bulk duplicate「葛根」→ pueraria-lobata"
+  },
+  {
+    "alias": "official-licorice",
+    "canonical": "glycyrrhiza-uralensis",
+    "note": "auto: bulk duplicate「甘草」→ glycyrrhiza-uralensis"
+  },
+  {
     "alias": "official-longan-pulp",
     "canonical": "dried-longan",
     "note": "auto: duplicate name「桂圆肉」→ dried-longan"
+  },
+  {
+    "alias": "official-loquat-leaf",
+    "canonical": "eriobotrya-japonica-leaf",
+    "note": "auto: bulk duplicate「枇杷叶」→ eriobotrya-japonica-leaf"
+  },
+  {
+    "alias": "official-lotus-heart",
+    "canonical": "lotus-plumule",
+    "note": "auto: bulk duplicate「莲子心」→ lotus-plumule"
   },
   {
     "alias": "official-lotus-leaf",
@@ -665,6 +850,11 @@
     "note": "枸杞 official 条目"
   },
   {
+    "alias": "official-morinda",
+    "canonical": "morinda-officinalis",
+    "note": "auto: bulk duplicate「巴戟天」→ morinda-officinalis"
+  },
+  {
     "alias": "official-mulberry",
     "canonical": "mulberry",
     "note": "auto: duplicate name「桑葚」→ mulberry"
@@ -675,9 +865,29 @@
     "note": "桑叶"
   },
   {
+    "alias": "official-nutmeg",
+    "canonical": "myristica-fragrans",
+    "note": "auto: bulk duplicate「肉豆蔻」→ myristica-fragrans"
+  },
+  {
+    "alias": "official-ophiopogon",
+    "canonical": "ophiopogon-japonicus",
+    "note": "auto: bulk duplicate「麦冬」→ ophiopogon-japonicus"
+  },
+  {
+    "alias": "official-peach-kernel",
+    "canonical": "prunus-persica-seed",
+    "note": "auto: bulk duplicate「桃仁」→ prunus-persica-seed"
+  },
+  {
     "alias": "official-perilla-leaf",
     "canonical": "perilla-leaf",
     "note": "紫苏叶"
+  },
+  {
+    "alias": "official-perilla-seed",
+    "canonical": "perilla-seed",
+    "note": "auto: bulk duplicate「紫苏子」→ perilla-seed"
   },
   {
     "alias": "official-plum",
@@ -685,14 +895,89 @@
     "note": "乌梅"
   },
   {
+    "alias": "official-polygoni-odorati",
+    "canonical": "polygonatum-odoratum",
+    "note": "auto: bulk duplicate「玉竹」→ polygonatum-odoratum"
+  },
+  {
+    "alias": "official-quince",
+    "canonical": "chaenomeles-fruit",
+    "note": "auto: bulk duplicate「木瓜」→ chaenomeles-fruit"
+  },
+  {
+    "alias": "official-raspberry",
+    "canonical": "rubus-chingii",
+    "note": "auto: bulk duplicate「覆盆子」→ rubus-chingii"
+  },
+  {
+    "alias": "official-red-bean",
+    "canonical": "vigna-angularis",
+    "note": "auto: bulk duplicate「赤小豆」→ vigna-angularis"
+  },
+  {
+    "alias": "official-reed-rhizome",
+    "canonical": "phragmites-rhizoma",
+    "note": "auto: bulk duplicate「芦根」→ phragmites-rhizoma"
+  },
+  {
+    "alias": "official-rehmannia",
+    "canonical": "rehmannia-raw",
+    "note": "auto: bulk duplicate「生地黄」→ rehmannia-raw"
+  },
+  {
+    "alias": "official-rose",
+    "canonical": "rosa-rugosa",
+    "note": "auto: bulk duplicate「玫瑰花」→ rosa-rugosa"
+  },
+  {
+    "alias": "official-safflower",
+    "canonical": "carthamus-tinctorius",
+    "note": "auto: bulk duplicate「红花」→ carthamus-tinctorius"
+  },
+  {
     "alias": "official-sand-ginger",
     "canonical": "sand-ginger",
     "note": "auto: duplicate name「沙姜」→ sand-ginger"
   },
   {
+    "alias": "official-sea-buckthorn",
+    "canonical": "hippophae-fruit",
+    "note": "auto: bulk duplicate「沙棘」→ hippophae-fruit"
+  },
+  {
+    "alias": "official-solomon-seal",
+    "canonical": "polygonatum-sibiricum",
+    "note": "auto: bulk duplicate「黄精」→ polygonatum-sibiricum"
+  },
+  {
+    "alias": "official-sour-jujube-seed",
+    "canonical": "zizyphus-jujuba-seed",
+    "note": "auto: bulk duplicate「酸枣仁」→ zizyphus-jujuba-seed"
+  },
+  {
+    "alias": "official-tangerine-kernel",
+    "canonical": "citri-seed",
+    "note": "auto: bulk duplicate「橘核」→ citri-seed"
+  },
+  {
+    "alias": "official-tsaoko",
+    "canonical": "amomi-tsao-ko",
+    "note": "auto: bulk duplicate「草果」→ amomi-tsao-ko"
+  },
+  {
+    "alias": "official-turmeric",
+    "canonical": "curcuma-longa",
+    "note": "auto: bulk duplicate「姜黄」→ curcuma-longa"
+  },
+  {
     "alias": "official-walnut",
     "canonical": "walnut",
     "note": "核桃仁"
+  },
+  {
+    "alias": "official-white-peony",
+    "canonical": "paeonia-lactiflora",
+    "note": "auto: bulk duplicate「白芍」→ paeonia-lactiflora"
   },
   {
     "alias": "oyster-fresh",

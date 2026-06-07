@@ -27,24 +27,67 @@ const aliasMap = loadFoodIdAliasMap();
 const originIds = loadOriginProductIds();
 const groups = findDuplicateNameGroups(aliasMap);
 
+function isTcmRow(row) {
+  return row.record?.category === "中药材" || row.record?.itemKind === "tcm-herb";
+}
+
+function isBulkNoiseRow(row) {
+  return row.source === "expanded-bulk" && (/^official-|^cat-/.test(row.id));
+}
+
+function isIngredientShadowRow(row, canonical) {
+  return row.source === "cn-ingredients" && canonical.source === "cn";
+}
+
 const proposed = [];
+const originHideTargets = new Set();
+
 groups.forEach((group) => {
   const canonical = pickCanonicalRow(group.rows, originIds);
   if (!canonical) return;
+
+  const originRows = group.rows.filter((row) => originIds.has(row.id) || row.record?.isOriginProduct);
+  const baseFoodIds = new Set(
+    originRows.map((row) => resolveFoodId(row.record?.baseFoodId || "", aliasMap)).filter(Boolean)
+  );
+
   group.rows.forEach((row) => {
     if (row.id === canonical.id) return;
     if (originIds.has(row.id)) return;
     if (resolveFoodId(row.id, aliasMap) === resolveFoodId(canonical.id, aliasMap)) return;
     if (row.record?.hiddenFromLibrary) return;
-    const isTcm = row.record?.category === "中药材" || row.record?.itemKind === "tcm-herb";
-    const canonTcm = canonical.record?.category === "中药材" || canonical.record?.itemKind === "tcm-herb";
-    if (isTcm !== canonTcm) return;
+
+    const isTcm = isTcmRow(row);
+    const canonTcm = isTcmRow(canonical);
+    const bulkNoise = isBulkNoiseRow(row);
+    const ingredientShadow = isIngredientShadowRow(row, canonical);
+
+    if (!bulkNoise && !ingredientShadow && isTcm !== canonTcm) return;
+
+    if (
+      originRows.length
+      && !isTcm
+      && !canonTcm
+      && !baseFoodIds.has(row.id)
+      && row.source === "expanded-bulk"
+    ) {
+      const sharesOriginName = originRows.some((originRow) => originRow.name === row.name);
+      if (sharesOriginName) {
+        originHideTargets.add(row.id);
+        return;
+      }
+    }
+
     proposed.push({
       alias: row.id,
       canonical: canonical.id,
       name: group.name,
       from: row.sourceFile,
-      note: `auto: duplicate name「${group.name}」→ ${canonical.id}`
+      note: bulkNoise
+        ? `auto: bulk duplicate「${group.name}」→ ${canonical.id}`
+        : ingredientShadow
+          ? `auto: ingredient duplicate「${group.name}」→ ${canonical.id}`
+          : `auto: duplicate name「${group.name}」→ ${canonical.id}`
     });
   });
 });
@@ -73,7 +116,10 @@ const nextMap = { ...aliasMap };
   nextMap[row.alias] = row.canonical;
 });
 
-const hideTargets = new Set([...unique.values()].map((r) => r.alias));
+const hideTargets = new Set([
+  ...[...unique.values()].map((r) => r.alias),
+  ...originHideTargets
+]);
 const patchFiles = [
   ...CN_JSON_SOURCES,
   ...EXPANDED_BULK_JSON_SOURCES

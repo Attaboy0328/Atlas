@@ -6,7 +6,8 @@
     "effects": [
       "补气",
       "扶正"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-american-ginseng",
@@ -15,7 +16,8 @@
     "effects": [
       "益气",
       "生津"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-licorice",
@@ -24,7 +26,8 @@
     "effects": [
       "和中",
       "调和"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-dried-ginger",
@@ -33,7 +36,8 @@
     "effects": [
       "温中",
       "散寒"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-cinnamon",
@@ -42,7 +46,8 @@
     "effects": [
       "温阳",
       "散寒"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-fennel",
@@ -60,7 +65,8 @@
     "effects": [
       "化湿",
       "行气"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-amomum",
@@ -69,7 +75,8 @@
     "effects": [
       "行气",
       "和中"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-clove",
@@ -78,7 +85,8 @@
     "effects": [
       "温中",
       "降逆"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-nutmeg",
@@ -87,7 +95,8 @@
     "effects": [
       "温中",
       "涩肠"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-gardenia",
@@ -96,7 +105,8 @@
     "effects": [
       "清利",
       "除烦"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-cassia-seed",
@@ -105,7 +115,8 @@
     "effects": [
       "清利",
       "润肠"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-honeysuckle",
@@ -141,7 +152,8 @@
     "effects": [
       "生津",
       "清利"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-lotus-leaf",
@@ -177,7 +189,8 @@
     "effects": [
       "降气",
       "润肠"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-plum",
@@ -195,7 +208,8 @@
     "effects": [
       "生津",
       "和中"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-goji-berry",
@@ -213,7 +227,8 @@
     "effects": [
       "温补",
       "强筋"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-euryale",
@@ -222,7 +237,8 @@
     "effects": [
       "补脾",
       "固摄"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-polygoni-odorati",
@@ -231,7 +247,8 @@
     "effects": [
       "养阴",
       "润燥"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-dendrobium",
@@ -240,7 +257,8 @@
     "effects": [
       "养阴",
       "生津"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-olive",
@@ -258,7 +276,8 @@
     "effects": [
       "养心",
       "安神"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-broomcorn",
@@ -267,7 +286,8 @@
     "effects": [
       "温中",
       "散寒"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-cyperus",
@@ -276,7 +296,8 @@
     "effects": [
       "理气",
       "解郁"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-angelica",
@@ -285,7 +306,8 @@
     "effects": [
       "养血",
       "活络"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-longan-pulp",
@@ -304,7 +326,8 @@
     "effects": [
       "活络",
       "行散"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-peach-kernel",
@@ -313,7 +336,8 @@
     "effects": [
       "润肠",
       "活络"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-black-sesame",
@@ -322,7 +346,8 @@
     "effects": [
       "滋补",
       "润燥"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-walnut",
@@ -340,7 +365,8 @@
     "effects": [
       "降气",
       "润燥"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-pine-nut",
@@ -358,7 +384,8 @@
     "effects": [
       "降气",
       "润燥"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-chinese-olive",
@@ -367,7 +394,8 @@
     "effects": [
       "利咽",
       "生津"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-bamboo-leaf",
@@ -376,7 +404,8 @@
     "effects": [
       "清利",
       "除烦"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-cordia-fruit",
@@ -385,7 +414,8 @@
     "effects": [
       "利咽",
       "润燥"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-lotus-heart",
@@ -394,7 +424,8 @@
     "effects": [
       "清利",
       "安神"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-gingko",
@@ -412,7 +443,8 @@
     "effects": [
       "行气",
       "活络"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-galanga",
@@ -430,7 +462,8 @@
     "effects": [
       "燥湿",
       "和中"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-kaempferia",
@@ -457,7 +490,8 @@
     "effects": [
       "理气",
       "和中"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-medlar-leaf",
@@ -495,7 +529,8 @@
     "effects": [
       "补中",
       "养血"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-dragon-eye",
@@ -504,7 +539,8 @@
     "effects": [
       "养心",
       "补血"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-chive-seed",
@@ -513,7 +549,8 @@
     "effects": [
       "温补",
       "助阳"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-quince",
@@ -522,7 +559,8 @@
     "effects": [
       "和胃",
       "舒展"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-ophiopogon",
@@ -531,7 +569,8 @@
     "effects": [
       "养阴",
       "生津"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-raspberry",
@@ -540,7 +579,8 @@
     "effects": [
       "固摄",
       "补养"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-rehmannia",
@@ -549,7 +589,8 @@
     "effects": [
       "养阴",
       "生津"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-solomon-seal",
@@ -558,7 +599,8 @@
     "effects": [
       "滋补",
       "养阴"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-white-peony",
@@ -567,7 +609,8 @@
     "effects": [
       "养阴",
       "和营"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-imperata-root",
@@ -576,7 +619,8 @@
     "effects": [
       "清利",
       "生津"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-bupleurum-tip",
@@ -594,7 +638,8 @@
     "effects": [
       "理气",
       "和中"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-jasmine",
@@ -621,7 +666,8 @@
     "effects": [
       "生津",
       "舒展"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-kudzu-flower",
@@ -648,7 +694,8 @@
     "effects": [
       "理气",
       "散结"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-orange-blossom",
@@ -666,7 +713,8 @@
     "effects": [
       "疏利",
       "清爽"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-sweet-osmanthus",
@@ -721,7 +769,8 @@
     "effects": [
       "宣利",
       "和中"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-caper-spurge",
@@ -739,7 +788,8 @@
     "effects": [
       "利水",
       "和中"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-foxnut",
@@ -766,7 +816,8 @@
     "effects": [
       "和胃",
       "润燥"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-perilla-stem",

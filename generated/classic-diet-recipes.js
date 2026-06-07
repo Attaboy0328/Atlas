@@ -5600,6 +5600,39 @@ const CLASSIC_DIET_RECIPES = [
     "classicTier": 1
   },
   {
+    "id": "classic2-shanyu-shengbu",
+    "name": "黄鳝生姜煲（经典）",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "eel",
+      "ginger",
+      "jujube"
+    ],
+    "subtitle": "温中补血",
+    "ingredients": [
+      "黄鳝 2 条",
+      "生姜 5 片",
+      "红枣 3 枚"
+    ],
+    "steps": [
+      "黄鳝洗净切段",
+      "与生姜、红枣同炖至熟烂"
+    ],
+    "note": "须彻底煮熟；湿热疮疡期慎食。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "黄鳝配生姜，温中补血。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
     "id": "classic2-lvdou-yimi-tang",
     "name": "绿豆薏米汤",
     "nature": "寒",

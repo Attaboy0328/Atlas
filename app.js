@@ -4357,8 +4357,9 @@ function recipesForFood(foodId, limit = 6) {
     resolveFoodId(foodId),
     food?.baseFoodId ? resolveFoodId(food.baseFoodId) : ""
   ].filter(Boolean));
+  const relatedSet = new Set(relatedIds);
   return publishedRecipeItems
-    .filter((item) => (item.foodIds || []).some((id) => relatedIds.includes(foodByRecipeId(id)?.id)))
+    .filter((item) => (item.foodIds || []).some((id) => relatedSet.has(resolveFoodId(id))))
     .slice(0, limit)
     .map((item) => recipes.find((recipe) => recipe.id === item.id) || item);
 }

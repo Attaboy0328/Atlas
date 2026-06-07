@@ -68,7 +68,10 @@ export function autoLinkBaseFoodId(product, catalogIndex, aliasMap) {
 
   if (product.baseFoodId) {
     const resolved = resolveFoodId(product.baseFoodId, aliasMap);
-    return pick(catalogIndex.index.has(resolved) ? resolved : product.baseFoodId);
+    if (catalogIndex.index.has(resolved)) {
+      const linked = pick(resolved);
+      if (linked) return linked;
+    }
   }
 
   const name = String(product.name || "").trim();
@@ -92,6 +95,50 @@ export function autoLinkBaseFoodId(product, catalogIndex, aliasMap) {
   }
 
   return null;
+}
+
+function originNameRank(product, seedIds) {
+  let score = 0;
+  if (seedIds.has(product.id)) score += 100;
+  if (/-gi$/.test(product.id)) score += 50;
+  if (!/manifest/.test(product.id)) score += 20;
+  score += (product.giSystems?.length || 0) * 5;
+  return score;
+}
+
+/** Collapse manifest duplicates that share a display name with an existing GI seed row. */
+export function dedupeOriginProductsByName(items, seedIds = new Set()) {
+  const byName = new Map();
+  items.forEach((product) => {
+    const name = String(product.name || "").trim();
+    if (!name) return;
+    if (!byName.has(name)) byName.set(name, []);
+    byName.get(name).push(product);
+  });
+
+  const dropIds = new Set();
+  const mergedById = new Map(items.map((item) => [item.id, { ...item }]));
+
+  byName.forEach((rows) => {
+    if (rows.length <= 1) return;
+    const ranked = [...rows].sort(
+      (a, b) => originNameRank(b, seedIds) - originNameRank(a, seedIds) || a.id.localeCompare(b.id)
+    );
+    const canonical = mergedById.get(ranked[0].id);
+    ranked.slice(1).forEach((dup) => {
+      dropIds.add(dup.id);
+      canonical.giSystems = uniq([...(canonical.giSystems || []), ...(dup.giSystems || [])]);
+      canonical.aliases = uniq([...(canonical.aliases || []), dup.id, ...(dup.aliases || [])]);
+      canonical.searchTerms = uniq([...(canonical.searchTerms || []), ...(dup.searchTerms || [])]);
+      canonical.provinces = uniq([...(canonical.provinces || []), ...(dup.provinces || [])]);
+      if (!canonical.summary && dup.summary) canonical.summary = dup.summary;
+      if (!canonical.provenance?.sourceId && dup.provenance?.sourceId) {
+        canonical.provenance = { ...(canonical.provenance || {}), ...dup.provenance };
+      }
+    });
+  });
+
+  return [...mergedById.values()].filter((product) => !dropIds.has(product.id));
 }
 
 export function mergeOriginProducts(items) {
