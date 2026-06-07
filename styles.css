@@ -863,14 +863,12 @@ button {
 }
 
 .sticky-search {
-  position: sticky;
-  z-index: 10;
-  top: 68px;
+  position: relative;
+  z-index: 1;
   margin: 0 0 18px;
   padding: 12px 0 10px;
   background: linear-gradient(180deg, color-mix(in srgb, var(--paper) 97%, transparent), color-mix(in srgb, var(--paper) 90%, transparent));
   border-bottom: 0;
-  backdrop-filter: blur(22px) saturate(1.15);
 }
 
 .sticky-search .search-input {
@@ -888,13 +886,11 @@ button {
 }
 
 .sticky-toolbar {
-  position: sticky;
-  z-index: 10;
-  top: 68px;
+  position: relative;
+  z-index: 1;
   margin: 0 0 14px;
   padding: 12px 0 8px;
   background: linear-gradient(180deg, color-mix(in srgb, var(--paper) 97%, transparent), color-mix(in srgb, var(--paper) 92%, transparent));
-  backdrop-filter: blur(22px) saturate(1.15);
 }
 
 .sticky-toolbar .search-input {
