@@ -1453,6 +1453,16 @@ function hasPwaInstallPrompt() {
   return Boolean(window.__atlasInstallPrompt);
 }
 
+function getPwaBrowserKind() {
+  const ua = navigator.userAgent || "";
+  if (/iPhone|iPad|iPod/i.test(ua)) return "ios";
+  if (/SamsungBrowser/i.test(ua)) return "samsung";
+  if (/EdgA|EdgiOS|Edg\//i.test(ua)) return "edge";
+  if (/Chrome/i.test(ua) && /Android/i.test(ua)) return "chrome-android";
+  if (/MSIE|Trident/i.test(ua)) return "legacy";
+  return "generic";
+}
+
 function setupPwaInstallUi() {
   const refreshProfileInstall = () => {
     if (state.view === "profile") render();
@@ -1463,12 +1473,13 @@ function setupPwaInstallUi() {
     if (state.view === "profile") render();
     showToast("已安装到主屏幕");
   });
+  if (window.__atlasInstallPrompt) refreshProfileInstall();
 }
 
 async function triggerPwaInstall() {
   const prompt = window.__atlasInstallPrompt;
   if (!prompt) {
-    showToast("当前环境无法一键安装，请用浏览器菜单「添加到主屏幕」");
+    openPwaInstallGuide();
     return;
   }
   try {
@@ -1482,8 +1493,85 @@ async function triggerPwaInstall() {
     }
     render();
   } catch {
-    showToast("安装未完成，请用浏览器菜单「添加到主屏幕」");
+    openPwaInstallGuide();
   }
+}
+
+function renderPwaInstallGuideSheet() {
+  const kind = getPwaBrowserKind();
+  const guides = {
+    "chrome-android": {
+      title: "Chrome 安装步骤",
+      steps: [
+        "确认地址栏为 atlas.282913.xyz（或你的部署域名）",
+        "点右上角 ⋮ 菜单",
+        "选择「安装应用」或「添加到主屏幕」",
+        "在弹窗中确认安装"
+      ],
+      note: "若菜单里没有「安装应用」，可多访问几次本站或先进入「我的」再试一键安装。"
+    },
+    edge: {
+      title: "Edge 安装步骤",
+      steps: [
+        "点底部或右上角菜单",
+        "选择「添加到手机」或「安装此站点」",
+        "按提示确认"
+      ],
+      note: "部分 Edge 版本名称略有不同，找带「安装」或「主屏幕」的项即可。"
+    },
+    samsung: {
+      title: "三星浏览器安装步骤",
+      steps: [
+        "点右下角菜单",
+        "选择「添加页面到」→「主屏幕」",
+        "确认添加"
+      ],
+      note: "三星浏览器不支持一键安装 API，需用手动添加。"
+    },
+    ios: {
+      title: "iPhone 安装步骤",
+      steps: [
+        "必须使用 Safari 打开本站（微信内请点右上角用浏览器打开）",
+        "点底部分享按钮",
+        "选择「添加到主屏幕」",
+        "点「添加」"
+      ],
+      note: "iOS 不支持网站内一键安装，只能手动添加。"
+    },
+    legacy: {
+      title: "当前浏览器不支持",
+      steps: [
+        "系统自带/IE 内核浏览器无法安装 PWA",
+        "请复制网址，用 Chrome 或 Edge 打开",
+        "再到「我的」页按提示安装"
+      ],
+      note: ""
+    },
+    generic: {
+      title: "手动安装步骤",
+      steps: [
+        "使用 Chrome 或 Edge 打开本站",
+        "打开浏览器菜单",
+        "选择「安装应用」或「添加到主屏幕」"
+      ],
+      note: "安装入口因浏览器而异，一般在菜单中。"
+    }
+  };
+  const guide = guides[kind] || guides.generic;
+  return `
+    <section class="detail-section">
+      <h2>${guide.title}</h2>
+      <ol class="pwa-guide-steps">
+        ${guide.steps.map((step) => `<li>${step}</li>`).join("")}
+      </ol>
+      ${guide.note ? `<p class="section-copy">${guide.note}</p>` : ""}
+      <p class="section-copy">说明：网站无法关闭 Chrome 地址栏旁的安装图标，但不会在首页弹出我们自己的安装条；请只在需要时从这里操作。</p>
+    </section>
+  `;
+}
+
+function openPwaInstallGuide() {
+  showSheet(renderPwaInstallGuideSheet());
 }
 
 function renderPwaInstallSection() {
@@ -1497,18 +1585,22 @@ function renderPwaInstallSection() {
   }
 
   const canInstall = hasPwaInstallPrompt();
+  const browserKind = getPwaBrowserKind();
+  const browserNote = browserKind === "legacy"
+    ? "当前浏览器不支持安装，请换用 Chrome 或 Edge。"
+    : canInstall
+      ? "浏览器已就绪，可一键安装。"
+      : "一键安装暂不可用时可查看分步说明（三星浏览器、部分内置浏览器需手动添加）。";
+
   return `
     <section class="detail-section pwa-install-panel">
       <h2 class="section-title">安装到主屏幕</h2>
-      <p class="section-copy">可选安装为桌面应用，离线缓存食材与食疗数据，打开更快。需要时在此主动安装，不会自动弹窗打扰。</p>
-      <button type="button" class="action-button pwa-install-button" id="pwaInstallBtn" ${canInstall ? "" : "disabled"}>
-        ${canInstall ? "安装应用" : "暂不可一键安装"}
+      <p class="section-copy">可选安装为桌面应用，离线缓存食材与食疗数据。仅在此页操作，首页不会弹出安装条。</p>
+      <button type="button" class="action-button pwa-install-button" id="pwaInstallBtn">
+        ${canInstall ? "一键安装" : "安装到主屏幕"}
       </button>
-      <p class="section-copy pwa-install-hint">
-        ${canInstall
-          ? "点击后将由浏览器弹出安装确认。"
-          : "iPhone：Safari 打开本页 → 分享 →「添加到主屏幕」。Android / 电脑：Chrome 或 Edge 菜单中的「安装应用」或「添加到主屏幕」。"}
-      </p>
+      <button type="button" class="plain-button pwa-install-guide-button" id="pwaInstallGuideBtn">查看安装说明</button>
+      <p class="section-copy pwa-install-hint">${browserNote}</p>
     </section>
   `;
 }
@@ -2567,10 +2659,18 @@ function bindProfileEvents() {
   });
 
   const installBtn = app.querySelector("#pwaInstallBtn");
-  if (installBtn && !installBtn.disabled) {
+  if (installBtn) {
     installBtn.addEventListener("click", () => {
       triggerHapticFeedback();
       triggerPwaInstall();
+    });
+  }
+
+  const guideBtn = app.querySelector("#pwaInstallGuideBtn");
+  if (guideBtn) {
+    guideBtn.addEventListener("click", () => {
+      triggerHapticFeedback();
+      openPwaInstallGuide();
     });
   }
 }

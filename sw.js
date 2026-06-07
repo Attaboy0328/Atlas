@@ -1,4 +1,4 @@
-const CACHE_NAME = "atlas-v1";
+const CACHE_NAME = "atlas-v2";
 const PRECACHE = [
   "./",
   "./index.html",
@@ -9,6 +9,8 @@ const PRECACHE = [
   "./generated/foods-expanded-bulk.js",
   "./manifest.webmanifest",
   "./icons/icon.svg",
+  "./icons/icon-192.png",
+  "./icons/icon-512.png",
   "./generated/foods-cn-bundle.js",
   "./generated/food-id-aliases.js",
   "./generated/pairing-rules-extra.js",

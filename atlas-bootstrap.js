@@ -51,20 +51,6 @@
 
   window.atlasEnsureDeferredBundles = loadDeferredBundles;
 
-  if ("serviceWorker" in navigator) {
-    window.addEventListener("load", () => {
-      navigator.serviceWorker.register("./sw.js").catch((error) => {
-        console.warn("[atlas-bootstrap] SW register failed", error);
-      });
-    });
-  }
-
-  window.addEventListener("beforeinstallprompt", (event) => {
-    event.preventDefault();
-    window.__atlasInstallPrompt = event;
-    window.dispatchEvent(new Event("atlas:beforeinstallprompt"));
-  });
-
   window.__atlasDeferBoot = true;
 
   function notifyInstallPromptReady() {

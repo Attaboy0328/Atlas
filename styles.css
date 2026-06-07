@@ -1278,20 +1278,26 @@ button {
   margin-top: 8px;
 }
 
-.pwa-install-panel .pwa-install-button {
+.pwa-install-panel .pwa-install-button,
+.pwa-install-panel .pwa-install-guide-button {
   width: 100%;
   margin-top: 10px;
-}
-
-.pwa-install-panel .pwa-install-button:disabled {
-  opacity: 0.55;
-  cursor: not-allowed;
 }
 
 .pwa-install-hint {
   margin-top: 10px;
   font-size: 12px;
   line-height: 1.55;
+}
+
+.pwa-guide-steps {
+  margin: 12px 0 0;
+  padding-left: 1.2rem;
+  line-height: 1.6;
+}
+
+.pwa-guide-steps li + li {
+  margin-top: 8px;
 }
 
 .selected-chip-button {
