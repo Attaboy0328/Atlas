@@ -1,0 +1,13301 @@
+/** Auto-generated — do not edit */
+const DAO_DI_HERB_PROFILES = [
+  {
+    "canonicalId": "asafoetida",
+    "name": "阿魏",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "weiyao",
+      "guanyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "维药",
+      "关药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "FERULAE RESINA",
+      "family": "伞形科"
+    },
+    "originDistribution": "新疆",
+    "daoDiRegions": [
+      {
+        "place": "新疆",
+        "province": "新疆"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "消积，化癥，散痞，杀虫。（《中国药典2015》）",
+    "indications": "用于肉食积滞，瘀血癥瘕，腹中痞块，虫积腹痛。（《中国药典2015》） 用法用量 1-1.5g，多入丸散和外用膏药。（《中国药典2015》） 用药禁忌 孕妇禁用。（《中国药典2015》） 贮藏保存 密闭，置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "阿魏为伞形科植物新疆阿魏Ferula sinkiangensis K. M. Shen或阜康阿魏Ferula fukanensis K. M. Shen的树脂。春末夏初盛花期至初果期，分次由茎上部往下斜割，收集渗出的乳状树脂，阴干。新疆阿魏主产于新疆伊宁；阜康阿魏主产于新疆阜康等地。 来源 本品为伞形科植物新疆阿魏Ferula sinkiangensis K. M. Shen或阜康阿魏Ferula fukanensis K. M. Shen的树脂。（《中国药典2015》） 分布产地 新疆阿魏主产于新疆伊宁；阜康阿魏主产于新疆阜康等地。 入药部位 树脂 采",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-340.html",
+      "detailId": "340",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "artemisia-argyi",
+    "name": "艾叶",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "ARTEMISIAE ARGYI FOLIUM",
+      "family": "菊科"
+    },
+    "originDistribution": "安徽、山东",
+    "daoDiRegions": [
+      {
+        "place": "安徽、山东",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "艾叶：温经止血，散寒止痛；外用祛湿止痒。 醋艾炭：温经止血。（《中国药典2015》）",
+    "indications": "艾叶：用于吐血，衄血，崩漏，月经过多，胎漏下血，少腹冷痛，经寒不调，官冷不孕；外治皮肤瘙痒。 醋艾炭：用于虚寒性出血。（《中国药典2015》） 用法用量 3-9g。外用适量，供灸治或熏洗用。（《中国药典2015》） 用药禁忌 阴虚血热者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "艾叶为菊科植物艾Artemisia argyi Levl.et Vant.的干燥叶。夏季花未开时采摘，除去杂质，晒干。主产于安徽、山东。 来源 本品为菊科植物艾Artemisia argyi  Levl.et Vant.的干燥叶。（《中国药典2015》） 分布产地 主产于安徽、山东。 入药部位 叶 采收加工 夏季花未开时采摘，除去杂质，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-369.html",
+      "detailId": "369",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "styrax-benzoin",
+    "name": "安息香",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "BENZOINUM",
+      "family": "安息香科"
+    },
+    "originDistribution": "云南、广西、广东、贵州等地",
+    "daoDiRegions": [
+      {
+        "place": "云南、广西、广东、贵州等地",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "开窍药",
+    "efficacy": "开窍醒神，行气活血，止痛。（《中国药典2015》）",
+    "indications": "用于中风痰厥，气郁暴厥，中恶昏迷，心腹疼痛，产后血晕，小儿惊风。（《中国药典2015》） 用法用量 0.6-1.5g，多入丸散用。（《中国药典2015》） 用药禁忌 阴虚火旺者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "安息香为安息香科植物白花树Styrax tonkinensis (Pierre) Craib ex Hartw.的干燥树脂。树干经自然损伤或于夏、秋二季割裂树干，收集流出的树脂，阴干。产于云南、广西、广东、贵州等地。 来源 本品为安息香科植物白花树Styrax tonkinensis (Pierre) Craib ex Hartw.的干燥树脂。（《中国药典2015》） 分布产地 产于云南、广西、广东、贵州等地。 入药部位 树脂 采收加工 树干经自然损伤或于夏、秋二季割裂树干，收集流出的树脂，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-293.html",
+      "detailId": "293",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "illicium-verum",
+    "name": "八角茴香",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "ANISI STELLATI FRUCTUS",
+      "family": "木兰科"
+    },
+    "originDistribution": "广西、云南",
+    "daoDiRegions": [
+      {
+        "place": "广西、云南",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "温里药",
+    "efficacy": "温阳散寒，理气止痛。（《中国药典2015》）",
+    "indications": "用于寒疝腹痛，肾虚腰痛，胃寒呕吐，脘腹冷痛。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 火旺者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "八角茴香为木兰科植物八角茴香Illicium verum Hook. f.的干燥成熟果实。秋、冬二季果实由绿变黄时采摘，置沸水中略烫后干燥或直接干燥。主产于广西、云南。 来源 本品为木兰科八角茴香Illicium verum Hook. f.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于广西、云南。 入药部位 果实及种子 采收加工 秋、冬二季果实由绿变黄时采摘，置沸水中略烫后干燥或直接干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-270.html",
+      "detailId": "270",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-333",
+    "name": "巴旦杏仁",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "weiyao",
+      "guanyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "维药",
+      "关药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "SEMEN AMYGDALI COMMUNIS",
+      "family": "蔷薇科"
+    },
+    "originDistribution": "新疆、甘肃、陕西等地",
+    "daoDiRegions": [
+      {
+        "place": "新疆、甘肃、陕西等地",
+        "province": "陕西"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "润肺，止咳，化痰，下气。（《中华本草》）",
+    "indications": "主治虚劳咳嗽，心腹满闷。甜巴旦杏性偏于润肺化痰，苦巴旦杏仁偏于化痰下气。（《中华本草》） 用法用量 内服：煎汤，4-10g。（《中华本草》） 用药禁忌 寒湿痰饮咳嗽，脾虚泄泻者禁服。（《中华本草》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "巴旦杏仁为蔷薇科植物扁桃Amygdalus communis L.的种子。夏季果实成熟后时采收，除去果肉及核壳，取种仁，晒干。产于新疆、甘肃、陕西等地。 来源 本品为蔷薇科植物扁桃Amygdalus communis L.的种子。（《中华本草》） 分布产地 产于新疆、甘肃、陕西等地。 入药部位 果实及种子 采收加工 夏季果实成熟后时采收，除去果肉及核壳，取种仁，晒干。（《中华本草》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-333.html",
+      "detailId": "333",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "croton-seed",
+    "name": "巴豆",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "CROTONIS FRUCTUS",
+      "family": "大戟科"
+    },
+    "originDistribution": "四川、云南、广西、贵州、湖北等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、云南、广西、贵州、湖北等地",
+        "province": "湖北"
+      }
+    ],
+    "efficacyClass": "拔毒生肌药",
+    "efficacy": "外用蚀疮。（《中国药典2015》）",
+    "indications": "用于恶疮疥癣，疣痣。（《中国药典2015》） 用法用量 外用适量，研末涂患处，或捣烂以纱布包擦患处。（《中国药典2015》） 用药禁忌 孕妇禁用；不宜与牵牛子同用。（《中国药典2015》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "巴豆为大戟科植物巴豆Croton tiglium L.的干燥成熟果实。秋季果实成熟时采收，堆置2-3天，摊开，干燥。主产于四川、云南、广西、贵州、湖北等地，以四川产量大。 来源 本品为大戟科植物巴豆Croton tiglium L.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于四川、云南、广西、贵州、湖北等地，以四川产量最大。 入药部位 果实及种子 采收加工 秋季果实成熟时采收，堆置2-3天，摊开，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-207.html",
+      "detailId": "207",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "morinda-officinalis",
+    "name": "巴戟天",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "MORINDAE OFFICINALIS RADIX",
+      "family": "茜草科"
+    },
+    "originDistribution": "广东、广西等",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西等",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肾阳，强筋骨，祛风湿。（《中国药典2015》）",
+    "indications": "用于阳痿遗精，宫冷不孕，月经不调，少腹冷痛，风湿痹痛，筋骨痿软。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 阴虚火旺及有湿热之证禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "巴戟天为茜草科植物巴戟天Morinda officinalis How的干燥根。全年均可采挖，洗净，除去须根，晒至六七成干，轻轻捶扁，晒干。主产于广东、广西等地。 来源 本品为茜草科植物巴戟天Morinda officinalis How的干燥根。（《中国药典2015》） 分布产地 主产于广东、广西等地。 入药部位 根及根茎 采收加工 全年均可采挖，洗净，除去须根，晒至六七成干，轻轻捶扁，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-300.html",
+      "detailId": "300",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "typhonium-giganteum",
+    "name": "白附子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "TYPHONII RHIZOMA",
+      "family": "天南星科"
+    },
+    "originDistribution": "河南禹县、长葛，甘肃天水、武都，湖北等地",
+    "daoDiRegions": [
+      {
+        "place": "河南禹县、长葛，甘肃天水、武都，湖北等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "祛风痰，定惊搐，解毒散结，止痛。（《中国药典2015》）",
+    "indications": "用于中风痰壅，口眼唱斜，语言謇涩，惊风癫痫，破伤风，痰厥头痛，偏正头痛，瘰疬痰核，毒蛇咬伤。（《中国药典2015》） 用法用量 3-6g。一般炮制后用，外用生品适量捣烂，熬膏或研末以酒调敷患处。（《中国药典2015》） 用药禁忌 孕妇慎用；生品内服宜慎。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "白附子为天南星科植物独角莲Typhonium giganteum Engl.的干燥块茎。秋季采挖，除去须根和外皮，晒干。主产于河南禹县、长葛，甘肃天水、武都，湖北等地。 来源 本品为天南星科植物独角莲Typhonium giganteum Engl.的干燥块茎。（《中国药典2015》） 分布产地 主产于河南禹县、长葛，甘肃天水、武都，湖北等地。 入药部位 根及根茎 采收加工 秋季采挖，除去须根和外皮，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-117.html",
+      "detailId": "117",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "ginkgo-biloba-seed",
+    "name": "白果",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "GINKGO SEMEN",
+      "family": "银杏科"
+    },
+    "originDistribution": "科：银杏科",
+    "daoDiRegions": [
+      {
+        "place": "科：银杏科",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "敛肺定喘，止带缩尿。（《中国药典2015》）",
+    "indications": "用于痰多喘咳，带下白浊，遗尿尿频。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 生食有毒。（《中国药典2015》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "白果为银杏科植物银杏Ginkgo biloba L.的干燥成熟种子。秋季种子成熟时采收，除去肉质外种皮，洗净，稍蒸或略煮后，烘干。主产于广西、四川、河南、山东、湖北、辽宁、江苏，以广西产品为佳。 来源 本品为银杏科植物银杏Ginkgo biloba L.的干燥成熟种子。（《中国药典2015》） 分布产地 主产于广西、四川、河南、山东、湖北、辽宁、江苏，以广西产品为佳。 入药部位 果实及种子 采收加工 秋季种子成熟时采收，除去肉质外种皮，洗净，稍蒸或略煮后，烘干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-370.html",
+      "detailId": "370",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-289",
+    "name": "白鹤藤",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "Argyreia acuta",
+      "family": "旋花科"
+    },
+    "originDistribution": "广东、广西",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "化湿药",
+    "efficacy": "祛风除湿；化痰止咳；散瘀止血；解毒消痈。（《中药大辞典》）",
+    "indications": "风湿痹痛；水肿；膨胀；咳喘痰多；带下；崩漏；内伤吐血；跌打积瘀；乳痈；疮疖；烂脚；湿疹。（《中药大辞典》） 用法用量 内服：煎汤，3～5钱。外用：煎水熏洗或捣敷。（《中药大辞典》） 贮藏保存 置干燥处。（《中药大辞典》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "白鹤藤来源于为旋花科植物白鹤藤Argyreia acuta Lour.；全藤药用，有化痰止咳、润肺、止血、拔毒之功。治急慢性支气管炎、肺痨、肝硬化、肾炎水肿、疮疖、乳痈、皮肤湿疹、脚癣感染、水火烫伤、血崩、外伤止血以及治猪瘟等（广东，广西）。 来源 为旋花科植物白鹤藤Argyreia acuta Lour.的茎叶。（《中药大辞典》） 分布产地 产广东、广西等地。 入药部位 叶 采收加工 全年或夏、秋季采收，鲜用或晒干。 （《中药大辞典》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-289.html",
+      "detailId": "289",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "oldenlandia-diffusa",
+    "name": "白花蛇舌草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "HERBA HEDYOTIDIS",
+      "family": "茜草科"
+    },
+    "originDistribution": "福建、广东、广西等地",
+    "daoDiRegions": [
+      {
+        "place": "福建、广东、广西等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，消痈散结，利水消肿。（《湖南省中药材标准2009年版》）",
+    "indications": "用于咽喉肿痛，肺热喘咳，热淋涩痛，湿热黄疸，毒蛇咬伤，疮肿热痈。（《湖南省中药材标准2009年版》） 用法用量 15-30g。外用适量。（《湖南省中药材标准2009年版》） 用药禁忌 《广西中药志》：&ldquo;孕妇慎用。&rdquo; 贮藏保存 置干燥处。（《湖南省中药材标准2009年版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "白花蛇舌草为茜草科植物白花蛇舌草Hedyotis diffusa Willd.的干燥全草。夏、秋两季采挖，除去杂质，洗净，晒干。主产于福建、广东、广西等地。 来源 本品为茜草科植物白花蛇舌草Hedyotis diffusa Willd.的干燥全草。（《湖南省中药材标准2009年版》） 分布产地 主产于福建、广东、广西等地。 入药部位 全草 采收加工 夏、秋两季采挖，除去杂质，洗净，晒干。（《湖南省中药材标准2009年版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-181.html",
+      "detailId": "181",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "bletilla-striata",
+    "name": "白及",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao",
+      "guiyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "南药",
+      "贵药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "BLETILLAE RHIZOMA",
+      "family": "兰科"
+    },
+    "originDistribution": "贵州、四川、湖南、湖北、安徽、河南、浙江、陕西",
+    "daoDiRegions": [
+      {
+        "place": "贵州、四川、湖南、湖北、安徽、河南、浙江、陕西",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "收敛止血，消肿生肌。（《中国药典2015》）",
+    "indications": "用于咯血，吐血，外伤出血，疮疡肿毒，皮肤皲裂。（《中国药典2015》） 用法用量 6-15g；研末吞服3-6g。外用适量。（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、草乌、制草乌、附子同用。（《中国药典2015》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "白及为兰科植物白及Bletilla striata (Thunb. ex A. Murray) Rchb. f.的干燥块茎。地夏、秋二季采挖，除去须根，洗净，置沸水中煮或蒸至无白心，晒至半干，除去外皮，晒干。主产于贵州、四川、湖南、湖北、安徽、河南、浙江、陕西。以贵州产量大，质量较好。 来源 本品为兰科植物白及Bletilla striata (Thunb. ex A. Murray) Rchb. f.的干燥块茎。（《中国药典2015》） 分布产地 主产于贵州、四川、湖南、湖北、安徽、河南、浙江、陕西。以贵州产量最大，质量较好。 入药部位 根及根茎 采收",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-195.html",
+      "detailId": "195",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "ampelopsis-japonica",
+    "name": "白蔹",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "AMPELOPSIS RADIX",
+      "family": "葡萄科"
+    },
+    "originDistribution": "河南、湖北、江西、安徽",
+    "daoDiRegions": [
+      {
+        "place": "河南、湖北、江西、安徽",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，消痈散结，敛疮生肌。（《中国药典2015》）",
+    "indications": "用于痈疽发背，疔疮，瘰疬，烧烫伤。（《中国药典2015》） 用法用量 5-10g。外用适量，煎汤洗或研成极细粉敷患处。（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、草乌、制草乌、附子同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "白蔹为葡萄科植物白蔹Ampelopsis japonica (Thunb.) Makino的干燥块根。春、秋二季采挖，除去泥沙和细根，切成纵瓣或斜片，晒干。主产于河南、湖北、江西、安徽。 来源 本品为葡萄科植物白蔹Ampelopsis japonica (Thunb.) Makino的干燥块根。（《中国药典2015》） 分布产地 主产于河南、湖北、江西、安徽。 入药部位 根及根茎 采收加工 春、秋二季采挖，除去泥沙和细根，切成纵瓣或斜片，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-368.html",
+      "detailId": "368",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "radix-anthricae",
+    "name": "白前",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "zheyao",
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "浙药",
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "CYNANCHI STAUNTONII RHIZOMA ET RADIX",
+      "family": "萝藦科"
+    },
+    "originDistribution": "浙江、安徽、福建、江西、湖北、湖南、广西等地",
+    "daoDiRegions": [
+      {
+        "place": "浙江、安徽、福建、江西、湖北、湖南、广西等地",
+        "province": "安徽"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "降气，消痰，止咳。（《中国药典2015》）",
+    "indications": "用于肺气壅实，咳嗽痰多，胸满喘急。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 肺虚喘咳者慎用。生品用量过大，对胃有一定刺激。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "白前为萝藦科植物柳叶白前Cynanchum stauntonii (Decne.) Schltr. ex Levl.或芫花叶白前Cynanchum glaucescens (Decne.) Hand.-Mazz.的干燥根茎和根。秋季采挖，洗净，晒干。产于浙江、安徽、福建、江西、湖北、湖南、广西等地。 来源 本品为萝藦科植物柳叶白前Cynanchum stauntonii (Decne.) Schltr. ex Levl.或芫花叶白前Cynanchum glaucescens (Decne.) Hand.-Mazz.的干燥根茎和根。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-138.html",
+      "detailId": "138",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "paeonia-lactiflora",
+    "name": "白芍",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "PAEONIAE RADIX ALBA",
+      "family": "毛茛科"
+    },
+    "originDistribution": "浙江、安徽、山东等地",
+    "daoDiRegions": [
+      {
+        "place": "浙江、安徽、山东等地",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "养血调经，敛阴止汗，柔肝止痛，平抑肝阳。（《中国药典2015》）",
+    "indications": "用于血虚萎黄，月经不调，自汗，盗汗，胁痛，腹痛，四肢挛痛，头痛眩晕。（《中国药典2015》） 用法用量 6-15g。（《中国药典2015》） 用药禁忌 不宜与藜芦同用。（《中国药典2015》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "白芍为毛茛科植物芍药Paeonia lactiflora Pall.的干燥根。夏、秋二季采挖，洗净，除去头尾和细根，置沸水中煮后除去外皮或去皮后再煮，晒干。主产于安徽亳州（习称&ldquo;亳白芍&rdquo;）、浙江杭州（习称&ldquo;杭白芍&rdquo;）和山东菏泽。 来源 本品为毛茛科植物芍药Paeonia lactiflora Pall.的干燥根。（《中国药典2015》） 分布产地 主产于安徽亳州（习称&ldquo;亳白芍&rdquo;）、浙江杭州（习称&ldquo;杭白芍&rdquo;）和山东菏泽。 入药部位 根及根茎 采收加工 夏、秋二季",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-154.html",
+      "detailId": "154",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "atractylodes-macrocephala",
+    "name": "白术",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "ATRACTΜLODIS MACROCEPHALAE RHIZOMA",
+      "family": "菊科"
+    },
+    "originDistribution": "浙江、安徽",
+    "daoDiRegions": [
+      {
+        "place": "浙江、安徽",
+        "province": "安徽"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "健脾益气，燥湿利水，止汗，安胎。（《中国药典2015》）",
+    "indications": "用于脾虚食少，腹胀泄泻，痰饮眩悸，水肿，自汗，胎动不安。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 阴虚津亏者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "白术为菊科植物白术Atractylodes macrocephala Koidz.的干燥根茎。冬季下部叶枯黄、上部叶变脆时采挖，除去泥沙，烘干或晒干，再除去须根。主产于浙江、安徽，以浙江产量大。 来源 本品为菊科植物白术Atractylodes macrocephala Koidz.的干燥根茎。（《中国药典2015》） 分布产地 主产于浙江、安徽，以浙江产量最大。 入药部位 根及根茎 采收加工 冬季下部叶枯黄、上部叶变脆时采挖，除去泥沙，烘干或晒干，再除去须根。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-156.html",
+      "detailId": "156",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "pulsatilla-chinensis",
+    "name": "白头翁",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "PULSATILLAE RADIX",
+      "family": "毛茛科"
+    },
+    "originDistribution": "吉林、黑龙江、辽宁、河北、山东、山西、陕西、江苏、河南、安徽等地",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江白头翁",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，凉血止痢。（《中国药典2015》）",
+    "indications": "用于热毒血痢，阴痒带下。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 虚寒泻痢患者慎服。 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "白头翁为毛莨科植物白头翁Pulsatilla chinensis (Bunge) Regel的干燥根。春、秋二季采挖，除去泥沙，干燥。主产于吉林、黑龙江、辽宁、河北、山东、山西、陕西、江苏、河南、安徽等地。 来源 本品为毛莨科植物白头翁Pulsatilla chinensis (Bunge) Regel的干燥根。（《中国药典2015》） 分布产地 主产于吉林、黑龙江、辽宁、河北、山东、山西、陕西、江苏、河南、安徽等地。 入药部位 根及根茎 采收加工 春、秋二季采挖，除去泥沙，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-367.html",
+      "detailId": "367",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cynanchum-atratum",
+    "name": "白薇",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "CYNANCHI ATRATI RADIX ET RHIZOMA",
+      "family": "萝藦科"
+    },
+    "originDistribution": "安徽、湖北、辽宁等地",
+    "daoDiRegions": [
+      {
+        "place": "安徽、湖北、辽宁等地",
+        "province": "辽宁"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热凉血，利尿通淋，解毒疗疮。（《中国药典2015》）",
+    "indications": "用于温邪伤营发热，阴虚发热，骨蒸劳热，产后血虚发热，热淋，血淋，痈疽肿毒。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 血分无热、中寒便滑者慎服。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "来源 本品为萝藦科植物白薇Cynanchum atratum Bunge或蔓生白薇Cynanchum versicolor Bunge的干燥根和根茎。（《中国药典2015》） 分布产地 白薇主产于安徽、湖北、辽宁等地。蔓生白薇产于河北、河南、山西、山东、安徽等地。 入药部位 根及根茎 采收加工 春、秋二季采挖，洗净，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-50.html",
+      "detailId": "50",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "dictamnus-dasycarpus",
+    "name": "白鲜皮",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "DICTAMNI CORTEX",
+      "family": "芸香科"
+    },
+    "originDistribution": "辽宁、河北、山东等地。以辽宁的产品质优",
+    "daoDiRegions": [
+      {
+        "place": "辽宁、河北、山东等地。以辽宁的产品质优",
+        "province": "辽宁"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热燥湿，祛风解毒。（《中国药典2015》）",
+    "indications": "用于湿热疮毒，黄水淋漓，湿疹，风疹，疥癣疮癞，风湿热痹，黄疸尿赤。（《中国药典2015》） 用法用量 5-10g。外用适量，煎汤洗或研粉敷。（《中国药典2015》） 用药禁忌 虚寒证禁服。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "白鲜皮为芸香科植物白鲜Dictamnus dasycarpus Turcz.的干燥根皮。春、秋二季采挖根部，除去泥沙和粗皮，剥取根皮，干燥。主产于辽宁、河北、山东等地。以辽宁的产品质优。 来源 本品为芸香科植物白鲜Dictamnus dasycarpus Turcz.的干燥根皮。（《中国药典2015》） 分布产地 主产于辽宁、河北、山东等地。以辽宁的产品质优。 入药部位 皮 采收加工 春、秋二季采挖根部，除去泥沙和粗皮，剥取根皮，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-377.html",
+      "detailId": "377",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "angelica-dahurica",
+    "name": "白芷",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao",
+      "zheyao",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "怀药",
+      "浙药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "ANGELICAE DAHURICAE RADIX",
+      "family": "伞形科"
+    },
+    "originDistribution": "浙江、四川、重庆等地",
+    "daoDiRegions": [
+      {
+        "place": "浙江、四川、重庆等地",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "解表散寒，祛风止痛，宣通鼻窍，燥湿止带，消肿排脓。（《中国药典2015》）",
+    "indications": "用于感冒头痛，眉棱骨痛，鼻塞流涕，鼻鼽，鼻渊，牙痛，带下，疮疡肿痛。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 血虚有热及阴虚阳亢头痛者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "白芷为伞形科植物白芷Angelica dahurica (Fisch. ex Hoffm.) Benth. et Hook. f. ex Franch. et Sav.或杭白芷Angelica dahurica (Fisch. ex Hoffm.) Benth. et Hook. f. ex Franch. et Sav. cv. Hangbaizhi; Yuan et Shan的干燥根。夏、秋间叶黄时采挖，除去须根和泥沙，晒干或低温干燥。杭白芷主产于浙江杭州、余姚、临海等地；川白芷主产于四川遂宁、绵阳、达县、内江、重庆等地市；禹白芷主产于河南禹县、长葛",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-51.html",
+      "detailId": "51",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "stemona-japonica",
+    "name": "百部",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "STEMONAE RADIX",
+      "family": "百部科"
+    },
+    "originDistribution": "安徽、江苏、湖北、浙江、山东",
+    "daoDiRegions": [
+      {
+        "place": "安徽、江苏、湖北、浙江、山东",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "百部：润肺下气止咳，杀虫灭虱。 蜜百部：润肺止咳。（《中国药典2015》）",
+    "indications": "百部：用于新久咳嗽，肺痨咳嗽，顿咳；外用于头虱，体虱，蛲虫病，阴痒。 蜜百部：用于阴虚劳嗽。（《中国药典2015》） 用法用量 3-9g。外用适量，水煎或酒浸。（《中国药典2015》） 用药禁忌 脾胃虚弱者慎服。（《中药大辞典》） 贮藏保存 置通风干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "百部为百部科植物直立百部Stemona sessilifolia (Miq.) Miq.、蔓生百部Stemona japonica (Bl.) Miq.或对叶百部Stemona tuberosa Lour.的干燥块根。春、秋二季采挖，除去须根，洗净，置沸水中略烫或蒸至无白心，取出，晒干。直立百部主产于安徽、江苏、湖北、浙江、山东；蔓生百部主产于浙江；对叶百部主产于湖南、湖北、广东、福建、四川、贵州。 来源 本品为百部科植物直立百部Stemona sessilifolia (Miq.) Miq.、蔓生百部Stemona japonica (Bl.) Miq",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-172.html",
+      "detailId": "172",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lily-bulb",
+    "name": "百合",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "zheyao",
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "浙药",
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "LILII BULBUS",
+      "family": "百合科"
+    },
+    "originDistribution": "河北、河南、安徽、江西、浙江、湖北、湖南、陕西等地",
+    "daoDiRegions": [
+      {
+        "place": "河北百合",
+        "province": "河北"
+      },
+      {
+        "place": "江苏、浙江、湖南、安徽。",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "安神药",
+    "efficacy": "清热润肺，宁心安神。（《湖南省中药材标准2009年版》）",
+    "indications": "用于咳嗽痰少或粘，眩晕，心烦，夜寐不安。（《湖南省中药材标准2009年版》） 用法用量 6-12g。（《湖南省中药材标准2009年版》） 用药禁忌 《滇南本草》：&ldquo;味酸者，剑肺，有风邪者忌用。&rdquo; 贮藏保存 置阴凉干燥处。 （《湖南省中药材标准2009年版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "百合为百合科植物卷丹Lilium lancifolium Thunb.、百合Lilium brownii F. E. Brown var. viridulum Baker或细叶百合Lilium pumilum DC.的干燥肉质鳞叶。秋季采挖，洗净，剥取鳞叶，置沸水中略烫，干燥。卷丹产于河北、河南、山东、江苏、安徽、浙江、江西、湖北、湖南、广东、广西、四川、云南、西藏、陕西、甘肃等地；百合产于河北、河南、安徽、江西、浙江、湖北、湖南、陕西等地；细叶百合产于辽宁、吉林、黑龙江、河北、山东、河南、山西、内蒙古、陕西、甘肃、宁夏、青海等地。 来源 本品为百合科植",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-137.html",
+      "detailId": "137",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "patrinia-villosa",
+    "name": "败酱草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "南药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "HERBA PATRINIAE",
+      "family": "败酱科"
+    },
+    "originDistribution": "四川、江西、福建等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、江西、福建等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，祛瘀排脓。（《湖南省中药材标准2009版》）",
+    "indications": "肠痈，下痢，肠炎，赤白带下，赤眼，障膜，胬肉，产后腹痛，痈肿，疔疮。（《湖南省中药材标准2009版》） 用法用量 9-15g。（《湖南省中药材标准2009版》） 用药禁忌 《本草汇言》：久病胃虚脾弱，泄泻不食之症，一切虚寒下脱之疾，咸忌之。 贮藏保存 置干燥处。（《湖南省中药材标准2009版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "败酱草为败酱科植物败酱Patrinia scabiosaefolia Fisch. ex Trev.或攀倒甑Patrinia villosa (Thunb.) Juss.的干燥全草。产于四川、江西、福建等地。夏季开花前采收，晒至半干，扎成束，阴干。 来源 本品为败酱科植物败酱Patrinia scabiosaefolia Fisch. ex Trev.或攀倒甑Patrinia villosa (Thunb.) Juss.的干燥全草。（《湖南省中药材标准2009版》） 分布产地 产于四川、江西、福建等地。 入药部位 全草 采收加工 夏季开花前采收，晒至半干",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-174.html",
+      "detailId": "174",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "mylabris",
+    "name": "斑蝥",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "MYLABRIS",
+      "family": "动物药"
+    },
+    "originDistribution": "河南、安徽、江苏、湖南、贵州、广西等地",
+    "daoDiRegions": [
+      {
+        "place": "河南、安徽、江苏、湖南、贵州、广西等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "破血逐瘀，散结消癥，攻毒蚀疮。（《中国药典2015》）",
+    "indications": "用于癥瘕，经闭，顽癣，瘰疬，赘疣，痈疽不溃，恶疮死肌。（《中国药典2015》） 用法用量 0.03-0.06g，炮制后多入丸散用。外用适量，研末或浸酒醋，或制油膏涂敷患处，不宜大面积用。（《中国药典2015》） 用药禁忌 本品有大毒，内服慎用；孕妇禁用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "斑蝥为芫青科昆虫南方大斑蜜Mylabris phalerata Pallas或黄黑小斑蝥Mylabris cichorii Linnaeus的干燥体。夏、秋二季捕捉，闷死或烫死，晒干。主产河南、安徽、江苏、湖南、贵州、广西等地。 来源 本品为芫青科昆虫南方大斑蜜Mylabris phalerata Pallas或黄黑小斑蝥Mylabris cichorii Linnaeus的干燥体。（《中国药典2015》） 分布产地 主产河南、安徽、江苏、湖南、贵州、广西等地。 入药部位 动物 采收加工 夏、秋二季捕捉，闷死或烫死，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-364.html",
+      "detailId": "364",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lobelia-chinensis",
+    "name": "半边莲",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "HERBA LOBELIAE CHINENSIS",
+      "family": "桔梗科"
+    },
+    "originDistribution": "江苏、浙江、安徽",
+    "daoDiRegions": [
+      {
+        "place": "江苏、浙江、安徽",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，利尿消肿。（《中国药典2015》）",
+    "indications": "用于痈肿疔疮，蛇虫咬伤，臌胀水肿，湿热黄疽，湿疹湿疮。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 《广西中药志》：&ldquo;脾胃虚寒者慎用。&rdquo; 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "半边莲为桔梗科植物半边莲Lobelia chinensis Lour.的干燥全草。夏季采收，除去泥沙，洗净，晒干。主产江苏、浙江、安徽。以安徽安庆地区产量大。 来源 本品为桔梗科植物半边莲Lobelia chinensis Lour.的干燥全草。（《中国药典2015》） 分布产地 主产江苏、浙江、安徽。以安徽安庆地区产量最大。 入药部位 全草 采收加工 夏季采收，除去泥沙，洗净，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-335.html",
+      "detailId": "335",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "pinellia-ternata",
+    "name": "半夏",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao",
+      "huaiyao-huai",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "怀药",
+      "淮药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "PINELLIAE RHIZOMA",
+      "family": "天南星科"
+    },
+    "originDistribution": "四川、湖北、河南、安徽、山东等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、湖北、河南、安徽、山东等地",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "燥湿化痰，降逆止呕，消痞散结。（《中国药典2015》）",
+    "indications": "用于湿痰寒痰，咳喘痰多，痰饮眩悸，风痰眩晕，痰厥头痛，呕吐反胃，胸脘痞闷，梅核气；外治痈肿痰核。（《中国药典2015》） 用法用量 内服一般炮制后使用，3-9g。外用适量，磨汁涂或研末以酒调敷患处。（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、草乌、制草乌、附子同用；生品内服宜慎。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "半夏为天南星科植物半夏Pinellia ternata (Thunb.) Breit.的干燥块茎。夏、秋二季采挖，洗净，除去外皮和须根，晒干。主产于四川、湖北、河南、安徽、山东等地。以湖北、河南、山东所产质较佳。 来源 本品为天南星科植物半夏Pinellia ternata (Thunb.) Breit.的干燥块茎。（《中国药典2015》） 分布产地 主产于四川、湖北、河南、安徽、山东等地。以湖北、河南、山东所产质较佳。 入药部位 根及根茎 采收加工 夏、秋二季采挖，洗净，除去外皮和须根，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-227.html",
+      "detailId": "227",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "scutellaria-barbata",
+    "name": "半枝莲",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "SCUTELLARIAE BARBATAE HERBA",
+      "family": "唇形科"
+    },
+    "originDistribution": "华北、中南、华东、华南、西南地区",
+    "daoDiRegions": [
+      {
+        "place": "华北、中南、华东、华南、西南地区",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，化瘀利尿。（《中国药典2015》）",
+    "indications": "用于疔疮肿毒，咽喉肿痛，跌扑伤痛，水肿，黄疸，蛇虫咬伤。（《中国药典2015》） 用法用量 15-30g。（《中国药典2015》） 用药禁忌 体虚及孕妇慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "半枝莲为唇形科植物半枝莲Scutellaria barbata D. Don的干燥全草。夏、秋二季茎叶茂盛时采挖，洗净，晒干。产于华北、中南、华东、华南、西南地区。 来源 本品为唇形科植物半枝莲Scutellaria barbata D. Don的干燥全草。（《中国药典2015》） 分布产地 产于华北、中南、华东、华南、西南地区。 入药部位 全草 采收加工 夏、秋二季茎叶茂盛时采挖，洗净，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-184.html",
+      "detailId": "184",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "mentha-haplocalyx",
+    "name": "薄荷",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "MENTHAE HAPLOCALYCIS HERBA",
+      "family": "唇形科"
+    },
+    "originDistribution": "江苏、安徽、江西、河南等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏、安徽、江西、河南等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "疏散风热，清利头目，利咽，透疹，疏肝行气。（《中国药典2015》）",
+    "indications": "用于风热感冒，风温初起，头痛，目赤，喉痹，口疮，风疹，麻疹，胸胁胀闷。（《中国药典2015》） 用法用量 3-6g，后下。（《中国药典2015》） 用药禁忌 表虚汗多者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "薄荷为唇形科植物薄荷Mentha haplocalyx Briq.的干燥地上部分。夏、秋二季茎叶茂盛或花开至三轮时，选晴天，分次采割，晒干或阴干。主产于江苏、安徽、江西、河南等地。江苏产苏薄荷为道地。 来源 本品为唇形科植物薄荷Mentha haplocalyx Briq.的干燥地上部分。（《中国药典2015》） 分布产地 主产于江苏、安徽、江西、河南等地。江苏产苏薄荷为道地。 入药部位 全草 采收加工 夏、秋二季茎叶茂盛或花开至三轮时，选晴天，分次采割，晒干或阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-200.html",
+      "detailId": "200",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "menispermum-dauricum",
+    "name": "北豆根",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "MENISPERMI RHIZOMA",
+      "family": "防己科"
+    },
+    "originDistribution": "吉林、辽宁、河北、河南、陕西、甘肃、山东等地",
+    "daoDiRegions": [
+      {
+        "place": "吉林、辽宁、河北、河南、陕西、甘肃、山东等地",
+        "province": "吉林"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，祛风止痛。（《中国药典2015》）",
+    "indications": "用于咽喉肿痛，热毒泻痢，风湿痹痛。（《中国药典2015》） 用法用量 3-9g。（《中国药典2015》） 用药禁忌 脾虚便溏者禁服。过量服用（超过15g）可引起呕吐。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "北豆根为防己科植物蝙蝠葛Menispermum dauricum DC.的干燥根茎。春、秋二季采挖，除去须根和泥沙，干燥。主产于吉林、辽宁、河北、河南、陕西、甘肃、山东等地。 来源 本品为防己科植物蝙蝠葛Menispermum dauricum DC.的干燥根茎。（《中国药典2015》） 分布产地 主产于吉林、辽宁、河北、河南、陕西、甘肃、山东等地。 入药部位 根及根茎 采收加工 春、秋二季采挖，除去须根和泥沙，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-376.html",
+      "detailId": "376",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "fructus-piperis-longi",
+    "name": "荜茇",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "PIPERIS LONGI FRUCTUS",
+      "family": "胡椒科"
+    },
+    "originDistribution": "云南、广东、海南等地",
+    "daoDiRegions": [
+      {
+        "place": "云南、广东、海南等地",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "温里药",
+    "efficacy": "温中散寒，下气止痛。（《中国药典2015》）",
+    "indications": "用于脘腹冷痛，呕吐，泄泻，寒凝气滞，胸痹心痛，头痛，牙痛。（《中国药典2015》） 用法用量 1-3g。外用适量，研末塞龋齿孔中。（《中国药典2015》） 用药禁忌 阴虚火旺者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "荜茇为胡椒科植物荜茇Piper longum L.的干燥近成熟或成熟果穗。果穗由绿变黑时采收，除去杂质，晒干。原产于印度尼西亚的苏门答腊以及菲律宾、越南。我国主产于云南、广东、海南等地。 来源 本品为胡椒科植物荜茇Piper longum L.的干燥近成熟或成熟果穗。（《中国药典2015》） 分布产地 原产于印度尼西亚的苏门答腊以及菲律宾、越南。我国主产于云南、广东、海南等地。 入药部位 果实及种子 采收加工 果穗由绿变黑时采收，除去杂质，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-231.html",
+      "detailId": "231",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "trionyx-shell",
+    "name": "鳖甲",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "TRIONYCIS CARAPAX",
+      "family": "动物药"
+    },
+    "originDistribution": "湖北、安徽、江苏、河南、湖南、浙江、江西等地",
+    "daoDiRegions": [
+      {
+        "place": "湖北、安徽、江苏、河南、湖南、浙江、江西等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "滋阴潜阳，退热除蒸，软坚散结。（《中国药典2015》）",
+    "indications": "用于阴虚发热，骨蒸劳热，阴虚阳亢，头晕目眩，虚风内动，手足瘈疭，经闭，癥瘕，久疟疟母。（《中国药典2015》） 用法用量 9-24g，先煎。（《中国药典2015》） 用药禁忌 脾胃虚寒，食少便溏及孕妇禁服。（《中药大辞典》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "鳖甲为鳖科动物鳖Trionyx sinensis Wiegmann的背甲。全年均可捕捉，以秋、冬二季为多，捕捉后杀死，置沸水中烫至背甲上的硬皮能剥落时，取出，剥取背甲，除去残肉，晒干。主产于湖北、安徽、江苏、河南、湖南、浙江、江西等地。 来源 本品为鳖科动物鳖Trionyx sinensis Wiegmann的背甲。（《中国药典2015》） 分布产地 主产于湖北、安徽、江苏、河南、湖南、浙江、江西等地。 入药部位 动物 采收加工 全年均可捕捉，以秋、冬二季为多，捕捉后杀死，置沸水中烫至背甲上的硬皮能剥落时，取出，剥取背甲，除去残肉，晒干。（《中国药典20",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-354.html",
+      "detailId": "354",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-70",
+    "name": "波棱瓜子",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guanyao",
+      "huaiyao",
+      "yunyao",
+      "zangyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "怀药",
+      "云药",
+      "藏药"
+    ],
+    "taxonomy": {
+      "latinName": "HerpetospermumcaudigerumWall",
+      "family": "葫芦科"
+    },
+    "originDistribution": "云南、西藏",
+    "daoDiRegions": [
+      {
+        "place": "云南、西藏",
+        "province": "云南"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清肝利胆，健脾助运。（《中华本草》） 泻肝火，胆热，解毒。（《卫生部药品标准藏药分册》）",
+    "indications": "主治黄疸型传染性肝炎，胆囊炎，消化不良。（《中华本草》） 用于治疗赤巴病，肝病，胆病以及消化不良。（《卫生部药品标准藏药分册》） 用法用量 内服：煎汤，1.5-3g，或入丸、散。（《中华本草》） 3-6g。（《卫生部药品标准藏药分册》） 贮藏保存 置干燥处。（《中华本草》） 置通风干燥处、防蛀。（《卫生部药品标准藏药分册》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "波棱瓜子为葫芦科植物波棱瓜Herpetospermum peduncu10sum(Sex.)Baill. 的干燥种子。秋季采收成熟果实，晒干，取出种子。分布于去南、西藏等地。 来源 本品为葫芦科植物波棱瓜Herpetospermum pedunculosum(Sex.)Baill.的干燥种子。（《中华本草》） 本品为葫芦科植物波棱瓜Herpetospermum pedunculosum(Sex.) Baoll.的干燥种子。（《卫生部药品标准藏药分册》） 分布产地 分布于去南、西藏等地。（《中华本草》） 入药部位 果实及种子 采收加工 6-10月采收，成熟",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-70.html",
+      "detailId": "70",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "psoralea-corylifolia",
+    "name": "补骨脂",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "PSORALEAE FRUCTUS",
+      "family": "豆科"
+    },
+    "originDistribution": "四川、河南、安徽等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、河南、安徽等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "温肾助阳，纳气平喘，温脾止泻；外用消风祛斑。（《中国药典2015》）",
+    "indications": "用于肾阳不足，阳痿遗精，遗尿尿频，腰膝冷痛，肾虚作喘，五更泄泻；外用治白癜风，斑秃。（《中国药典2015》） 用法用量 6-10g。外用20%-30%酊剂涂患处。（《中国药典2015》） 用药禁忌 阴虚内热者禁服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "补骨脂为豆科植物补骨脂Psoralea corylifolia Linn.的干燥成熟果实。秋季果实成熟时采收果序，晒干，搓出果实，除去杂质。主产于四川、河南、安徽等地。商品将主产于四川者称&ldquo;川故子&rdquo;，主产于河南者称&ldquo;怀故子&rdquo;。 来源 本品为豆科植物补骨脂Psoralea corylifolia Linn.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于四川、河南、安徽等地。商品将主产于四川者称&ldquo;川故子&rdquo;，主产于河南者称&ldquo;怀故子&rdquo;。 入药部位 果实及种",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-214.html",
+      "detailId": "214",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "atractylodes-lancea",
+    "name": "苍术",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "ATRACTLODIS RHIZOMA",
+      "family": "菊科"
+    },
+    "originDistribution": "湖北、江苏、河南等地",
+    "daoDiRegions": [
+      {
+        "place": "湖北、江苏、河南等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "化湿药",
+    "efficacy": "燥湿健脾，祛风散寒，明目。（《中国药典2015》）",
+    "indications": "用于湿阻中焦，脘腹胀满，泄泻，水肿，脚气痿躄，风湿痹痛，风寒感冒，夜盲，眼目昏涩。（《中国药典2015》） 用法用量 3-9g。（《中国药典2015》） 用药禁忌 阴虚内热，气虚多汗者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "苍术为菊科植物茅苍术Atractylodes Lancea (Thunb.) DC.或北苍术Atractylodes chinensis (DC.) Koidz.的干燥根茎。春、秋二季采挖，除去泥沙，晒干，撞去须根。茅苍术主产于湖北、江苏、河南等地；北苍术主产于河北、山西、陕西等地。 来源 本品为菊科植物茅苍术Atractylodes Lancea (Thunb.) DC.或北苍术Atractylodes chinensis (DC.) Koidz.的干燥根茎。（《中国药典2015》） 分布产地 茅苍术主产于湖北、江苏、河南等地；北苍术主产于河北、山西、",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-96.html",
+      "detailId": "96",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "acorus-calamus",
+    "name": "藏菖蒲",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "huaiyao",
+      "zangyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "怀药",
+      "藏药"
+    ],
+    "taxonomy": {
+      "latinName": "ACORI CALAMI RHIZOMA",
+      "family": "天南星科"
+    },
+    "originDistribution": "主产于西藏，全国各地也有",
+    "daoDiRegions": [
+      {
+        "place": "主产于西藏，全国各地也有",
+        "province": "西藏"
+      }
+    ],
+    "efficacyClass": "温里药",
+    "efficacy": "温胃，消炎止痛。（《中国药典2015》）",
+    "indications": "用于补胃阳，消化不良，食物积滞，白喉，炭疽等。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "藏菖蒲系藏族习用药材。为天南星科植物藏菖蒲Acorus calamus L.的干燥根茎。主产于西藏，全国各地也有。秋冬二季采挖，除去须根及泥沙，晒干。 来源 本品系藏族习用药材。为天南星科植物藏菖蒲Acorus calamus L.的干燥根茎。（《中国药典2015》） 分布产地 主产于西藏，全国各地也有。 入药部位 根及根茎 采收加工 秋冬二季采挖，除去须根和泥沙，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-81.html",
+      "detailId": "81",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-63",
+    "name": "藏茴香",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "zangyao",
+      "guanyao",
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "藏药",
+      "关药",
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "CarumcarviL.",
+      "family": "伞形科"
+    },
+    "originDistribution": "西藏",
+    "daoDiRegions": [
+      {
+        "place": "西藏",
+        "province": "西藏"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "理气开胃；散寒止痛。（《中药大辞典》）",
+    "indications": "脘腹冷痛；呕逆；消化不良；疝气痛；寒滞腰痛。（《中药大辞典》） 用法用量 内服：煎汤，3-6g。（《中药大辞典》） 用药禁忌 阴虚火旺、无寒证者忌。（《中药大辞典》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "藏茴香为伞形科植物葛缕子CarumcarviL.的果实。7-8月割取将成熟果实的全株，晒干，打下种子，去其杂质，备用。主产西藏 来源 为伞形科植物葛缕子的果实。（《中药大辞典》） 分布产地 西藏 采收加工 7-8月割取将成熟果实的全株，晒干，打下种子，去其杂质，备用。（《中药大辞典》） 性味归经 味辛；甘；性温。 1.《西藏常用中草药》：&quot;性温，味微辛。&quot; 2.《高原中草药治疗手册》：&quot;性温，味甘辛。&quot; 3.《高原中草药治疗手册》：&quot;入肾、胃经。&quot;",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-63.html",
+      "detailId": "63",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-384",
+    "name": "草苁蓉",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "产区分布：黑龙江、吉林和内蒙古",
+      "family": "列当科"
+    },
+    "originDistribution": "黑龙江、吉林和内蒙古",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江、吉林和内蒙古",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肾壮阳，润肠通便，止血。（《中药大辞典》）",
+    "indications": "主治肾虚阳痿，遗精，腰膝冷痛，小梗遗沥，尿血，宫冷不孕，崩漏，带下，肠燥便秘。（《中药大辞典》） 用法用量 内服：煎汤，15-30g；或泡酒。（《中药大辞典》） 用药禁忌 《长白山植物药志》：&ldquo;阴虚火旺，阳强易举而精不固，及脾虚作泻者不宜。&rdquo;",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "草苁蓉为列当科植物草苁蓉Boschniakia rossica (Cham. et Schlecht.) Fedtsch.的全草。5-8月采收，晒干或晾干后切段。产黑龙江、吉林和内蒙古。 来源 本品为列当科植物草苁蓉Boschniakia rossica (Cham. et Schlecht.) Fedtsch.的全草。（《中药大辞典》） 分布产地 产黑龙江、吉林和内蒙古。 入药部位 全草 采收加工 5-8月采收，晒干或晾干后切段。（《中药大辞典》） 性味归经 甘、咸，温。（《中药大辞典》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-384.html",
+      "detailId": "384",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "alpinia-katsumadai",
+    "name": "草豆蔻",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "ALPINIAE KATSUMADAI SEMEN",
+      "family": "姜科"
+    },
+    "originDistribution": "海南、广西",
+    "daoDiRegions": [
+      {
+        "place": "海南、广西",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "化湿药",
+    "efficacy": "燥湿行气，温中止呕。（《中国药典2015》）",
+    "indications": "用于寒湿内阻，脘腹胀满冷痛，暖气呕逆，不思饮食。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 阴虚血少，津液不足者禁服，无寒湿者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "草豆蔻为姜科植物草豆蔻Alpinia katsumadai Hayata的干燥近成熟种子。夏、秋二季采收，晒至九成干，或用水略烫，晒至半干，除去果皮，取出种子团，晒干。主产于海南、广西。 来源 本品为姜科植物草豆蔻Alpinia katsumadai Hayata的干燥近成熟种子。（《中国药典2015》） 分布产地 主产于海南、广西。 入药部位 果实及种子 采收加工 夏、秋二季采收，晒至九成干，或用水略烫，晒至半干，除去果皮，取出种子团，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-272.html",
+      "detailId": "272",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "amomi-tsao-ko",
+    "name": "草果",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "TSAOKO FRUCTUS",
+      "family": "姜科"
+    },
+    "originDistribution": "云南、广西",
+    "daoDiRegions": [
+      {
+        "place": "云南、广西",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "化湿药",
+    "efficacy": "燥湿温中，截疟除痰。（《中国药典2015》）",
+    "indications": "用于寒湿内阻，脘腹胀痛，痞满呕吐，疟疾寒热，瘟疫发热。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 阴虚血少者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "草果为姜科植物草果Amomum tsaoko Crevost et Lemarie的干燥成熟果实。秋季果实成熟时采收，除去杂质，晒干或低温干燥。主产于云南、广西。 来源 本品为姜科植物草果Amomum tsaoko Crevost et Lemarie的干燥成熟果实。（《中国药典2015》） 分布产地 主产于云南、广西。 入药部位 果实及种子 采收加工 秋季果实成熟时采收，除去杂质，晒干或低温干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-230.html",
+      "detailId": "230",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "bupleurum-chinense",
+    "name": "柴胡",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "beiyao",
+      "huaiyao",
+      "qinyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "北药",
+      "怀药",
+      "秦药"
+    ],
+    "taxonomy": {
+      "latinName": "RADIX BUPLEURI",
+      "family": "伞形科"
+    },
+    "originDistribution": "河北、辽宁、吉林、黑龙江、河南、陕西",
+    "daoDiRegions": [
+      {
+        "place": "河北、辽宁、吉林、黑龙江、河南、陕西",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "疏散退热，疏肝解郁，升举阳气。（《中国药典2015》）",
+    "indications": "用于感冒发热，寒热往来，胸胁胀痛，月经不调；子宫脱垂，脱肛。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 大叶柴胡Bupleurum longiradiatum Turcz.的干燥根茎，表面密生环节，有毒，不可当柴胡用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "柴胡为伞形科植物柴胡Bupleurum chinense DC.或狭叶柴胡Bupleurum scorzonerifolium Willd.的干燥根。按性状不同，分别习称&ldquo;北柴胡&rdquo;和&ldquo;南柴胡&rdquo;。春、秋二季采挖，除去茎叶和泥沙，干燥。柴胡主产于河北、辽宁、吉林、黑龙江、河南、陕西；狭叶柴胡主产于辽宁、吉林、黑龙江、陕西、内蒙古、河北、江苏、安徽。 来源 本品为伞形科植物柴胡Bupleurum chinense DC.或狭叶柴胡Bupleurum scorzonerifolium Willd.的干燥根。按性状不",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-59.html",
+      "detailId": "59",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "bufonis-venenum",
+    "name": "蟾酥",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "BUFONIS VENENUM",
+      "family": "动物药"
+    },
+    "originDistribution": "河北、四川、湖南、山东、江苏、浙江等地",
+    "daoDiRegions": [
+      {
+        "place": "河北、四川、湖南、山东、江苏、浙江等地",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "开窍药",
+    "efficacy": "解毒，止痛，开窍醒神。（《中国药典2015》）",
+    "indications": "用于痈疽疔疮，咽喉肿痛，中暑神昏，痧胀腹痛吐泻。（《中国药典2015》） 用法用量 0.015-0.03g，多入丸散用。外用适量。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "蟾酥为蟾蜍科动物中华大蟾蜍Bufo bufo gargarizans Cantor或黑眶蟾蜍Bufo melanostictus Schneider的干燥分泌物。多于夏、秋二季捕捉蟾蜍，洗净，挤取耳后腺和皮肤腺的白色浆液，加工，干燥。主产于河北、四川、湖南、山东、江苏、浙江等地。 来源 本品为蟾蜍科动物中华大蟾蜍Bufo bufo gargarizans Cantor或黑眶蟾蜍Bufo melanostictus Schneider的干燥分泌物。（《中国药典2015》） 分布产地 主产于河北、四川、湖南、山东、江苏、浙江等地。 入药部位 动物 采收加工 ",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-366.html",
+      "detailId": "366",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "dichroa-root",
+    "name": "常山",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "DICHROAE RADIX",
+      "family": "虎耳草科"
+    },
+    "originDistribution": "四川、贵州",
+    "daoDiRegions": [
+      {
+        "place": "四川、贵州",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "涌吐药",
+    "efficacy": "涌吐痰涎，截疟。（《中国药典2015》）",
+    "indications": "用于痰饮停聚，胸膈痞塞，疟疾。（《中国药典2015》） 用法用量 5-9g。（《中国药典2015》） 用药禁忌 有催吐副作用，用量不宜过大；孕妇慎用。（《中国药典2015》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "常山为虎耳草科植物常山Dichroa febrifuga Lour.的干燥根。秋季采挖，除去须根，洗净，晒干。主产于四川、贵州。以四川产量大，质量佳。 来源 本品为虎耳草科植物常山Dichroa febrifuga Lour.的干燥根。（《中国药典2015》） 分布产地 主产于四川、贵州。以四川产量最大，质量最佳。 入药部位 根及根茎 采收加工 秋季采挖，除去须根，洗净，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-221.html",
+      "detailId": "221",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "trichosanthes-seed-stir",
+    "name": "炒瓜蒌子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "TRICHOSANTHIS SEMEN TOSTUM",
+      "family": "葫芦科"
+    },
+    "originDistribution": "山东、山西、河北、浙江、江苏等地",
+    "daoDiRegions": [
+      {
+        "place": "山东、山西、河北、浙江、江苏等地",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "润肺化痰，滑肠通便。（《中国药典2015》）",
+    "indications": "用于燥咳痰黏，肠燥便秘。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、草乌、制草乌、附子同用。（《中国药典2015》） 贮藏保存 密闭，置阴凉干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "炒瓜蒌子为瓜蒌子的炮制加工品。主产于山东、山西、河北、浙江、江苏等地。以山东为道地产区。 来源 本品为瓜蒌子的炮制加工品。（《中国药典2015》） 分布产地 主产于山东、山西、河北、浙江、江苏等地。以山东为道地产区。 入药部位 果实及种子",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-93.html",
+      "detailId": "93",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "plantago-asiatca-seed",
+    "name": "车前子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "PLANTAGINIS SEMEN",
+      "family": "车前科"
+    },
+    "originDistribution": "江西、河南。平车前子主产于河北、辽宁、山西、四川等地",
+    "daoDiRegions": [
+      {
+        "place": "辽宁车前子",
+        "province": "辽宁"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "清热利尿通淋，渗湿止泻，明目，祛痰。（《中国药典2015》）",
+    "indications": "用于热淋涩痛，水肿胀满，暑湿泄泻，目赤肿痛，痰热咳嗽。（《中国药典2015》） 用法用量 9-15g，包煎。（《中国药典2015》） 用药禁忌 阳气下陷，肾虚遗精者禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "车前子为车前科植物车前Plantago asiatica L.或平车前Plantago depressa Willd.的干燥成熟种子。夏、秋二季种子成熟时采收果穗，晒干，搓出种子，除去杂质。车前子主产于江西、河南。平车前子主产于河北、辽宁、山西、四川等地。 来源 本品为车前科植物车前Plantago asiatica L.或平车前Plantago depressa Willd.的干燥成熟种子。（《中国药典2015》） 分布产地 车前子主产于江西、河南。平车前子主产于河北、辽宁、山西、四川等地。 入药部位 果实及种子 采收加工 夏、秋二季种子成熟时采收果穗",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-169.html",
+      "detailId": "169",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lignum-aquilariae",
+    "name": "沉香",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "AQUILARIAE LIGNUM RESINATUM",
+      "family": "瑞香科"
+    },
+    "originDistribution": "海南、广东、广西等地",
+    "daoDiRegions": [
+      {
+        "place": "海南、广东、广西等地",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "行气止痛，温中止呕，纳气平喘。（《中国药典2015》）",
+    "indications": "用于胸腹胀闷疼痛，胃寒呕吐呃逆，肾虚气逆喘急。（《中国药典2015》） 用法用量 1-5g，后下。（《中国药典2015》） 用药禁忌 阴亏火旺，气虚下陷者慎服。（《中药大辞典》） 贮藏保存 密闭，置阴凉干燥处。 （《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "沉香为瑞香科植物白木香Aquilaria sinensis (Lour.) Spreng.含有树脂的木材。全年均可采收，割取含树脂的木材，除去不含树脂的部分，阴干。产于海南、广东、广西等地。 来源 本品为瑞香科植物白木香Aquilaria sinensis (Lour.) Spreng.含有树脂的木材。（《中国药典2015》） 分布产地 产于海南、广东、广西等地。 入药部位 茎木、树脂 采收加工 全年均可采收，割取含树脂的木材，除去不含树脂的部分，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-279.html",
+      "detailId": "279",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "chenpi",
+    "name": "陈皮",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "南药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "CITRI RETICULATAE PERICARPIUM",
+      "family": "芸香科"
+    },
+    "originDistribution": "四川、浙江、福建、江西",
+    "daoDiRegions": [
+      {
+        "place": "四川、浙江、福建、江西",
+        "province": "浙江"
+      },
+      {
+        "place": "广东、广西、福建",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "下气，调中，化痰，醒酒。（《中药大辞典》）",
+    "indications": "主治饮食失调，上气烦满，伤酒口渴。（《中药大辞典》） 用法用量 内服：煎汤， 3-9g；或入丸、散。（《中药大辞典》） 用药禁忌 脾胃虚寒者慎服。（《中药大辞典》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "陈皮为芸香科植物橘Citrus reticulata Blanco及其栽培变种的干燥成熟果皮。药材分为&ldquo;陈皮&rdquo;和&ldquo;广陈皮&rdquo; 。采摘成熟果实，剥取果皮，晒干或低温干燥。陈皮产于四川、浙江、福建、江西、湖南等地。广陈皮产于广东新会、四会等地，品质佳。 来源 本品为芸香科植物橘Citrus reticulata Blanco及其栽培变种的干燥成熟果皮。药材分为&ldquo;陈皮&rdquo;和&ldquo;广陈皮&rdquo; 。（《中国药典2015》） 分布产地 陈皮产于四川、浙江、福建、江西、湖南等地。广陈皮",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-177.html",
+      "detailId": "177",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "paeonia-veitchii",
+    "name": "赤芍",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "PAEONIAE RADIX RUBRA",
+      "family": "毛茛科"
+    },
+    "originDistribution": "内蒙古、辽宁、吉林、黑龙江",
+    "daoDiRegions": [
+      {
+        "place": "内蒙古、辽宁、吉林、黑龙江",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热凉血，散瘀止痛。（《中国药典2015》） 清热凉血，活血祛瘀。（《中华本草》）",
+    "indications": "用于热入营血，温毒发斑，吐血衄血，目赤肿痛，肝郁胁痛，经闭痛经，癥瘕腹痛，跌扑损伤，痈肿疮疡。（《中国药典2015》） 主治温毒发斑，吐血衄血，肠风下血，目赤肿痛，痈肿疮疡，闭经，痛经，崩带淋浊，瘀滞胁痛，疝瘕积聚，跌扑损伤。（《中华本草》） 用法用量 6-12g。（《中国药典2015》） 内服：煎汤，4-10g；或入丸、散。（《中华本草》） 用药禁忌 不宜与藜芦同用。（《中国药典2015》） 血",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "赤芍为毛茛科植物芍药Paeonia lactiflora Pall.或川赤芍Paeonia veitchii Lynch的干燥根。春、秋二季采挖，除去根茎、须根及泥沙，晒干。芍药主产于内蒙古、辽宁、吉林、黑龙江；川赤芍主产于四川。 来源 本品为毛茛科植物芍药Paeonia lactiflora Pall.或川赤芍Paeonia veitchii Lynch的干燥根。（《中国药典2015》） 本品为毛茛科植物芍药Paeonia lactiflora Pall.、川芍药Paeonia veitchii Lynch、草芍药Paeonia obovata Max",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-395.html",
+      "detailId": "395",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "fritillaria-cirrhosa",
+    "name": "川贝母",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "qinyao",
+      "guanyao",
+      "beiyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "秦药",
+      "关药",
+      "北药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "FRITILLARIAE CIRRHOSAE BULBUS",
+      "family": "百合科"
+    },
+    "originDistribution": "西藏、四川、云南",
+    "daoDiRegions": [
+      {
+        "place": "西藏、四川、云南",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "清热润肺，化痰止咳，散结消痈。（《中国药典2015》）",
+    "indications": "用于肺热燥咳，干咳少痰，阴虚劳嗽，痰中带血，瘰疬，乳痈，肺痈。（《中国药典2015》） 用法用量 3-10g；研粉冲服，一次1-2g。（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、草乌、制草乌、附子同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "川贝母为百合科植物川贝母Fritillaria cirrhosa D. Don、暗紫贝母Fritillaria unibracteata Hsiao et K. C. Hsia、甘肃贝母Fritillaria przewalskii Maxim. ex Batal.、梭砂贝母Fritillaria delavayi Franch.、太白贝母Fritillaria taipaiensis P. Y. Li或瓦布贝母Fritillaria unibracteata Hsiaoet K. C. Hsia var. wabuensis (S. Y. Tang e",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-54.html",
+      "detailId": "54",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "melia-toosendan",
+    "name": "川楝子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "TOOSENDAN FRUCTUS",
+      "family": "楝科"
+    },
+    "originDistribution": "四川、甘肃、云南、贵州、湖北等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、甘肃、云南、贵州、湖北等地",
+        "province": "湖北"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "疏肝泄热，行气止痛，杀虫（《中国药典2015》）",
+    "indications": "用于肝郁化火，胸胁、脘腹胀痛，疝气疼痛，虫积腹痛。（《中国药典2015》） 用法用量 5-10g。外用适量，研末调涂。（《中国药典2015》） 用药禁忌 脾胃虚寒者禁服。内服不宜用量过大及久服，以免引起恶心、呕吐，甚至死亡等毒副作用。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "川楝子为楝科植物川楝Melia toosendan Sieb. et Zucc.的干燥成熟果实。冬季果实成熟时采收，除去杂质，干燥。主产于四川、甘肃、云南、贵州、湖北等地。以四川产量大。 来源 本品为楝科植物川楝Melia toosendan Sieb. et Zucc.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于四川、甘肃、云南、贵州、湖北等地。以四川产量最大。 入药部位 果实及种子 采收加工 冬季果实成熟时采收，除去杂质，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-205.html",
+      "detailId": "205",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "clematis-mandshurica",
+    "name": "川木通",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "CLEMATIDIS ARMANDII CAULIS",
+      "family": "毛茛科"
+    },
+    "originDistribution": "陕西、甘肃、福建、四川等地",
+    "daoDiRegions": [
+      {
+        "place": "陕西、甘肃、福建、四川等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "利尿通淋，清心除烦，通经下乳。（《中国药典2015》）",
+    "indications": "用于淋证，水肿，心烦尿赤，口舌生疮，经闭乳少，湿热痹痛。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 气弱津伤，精滑遗尿，小便过多及孕妇禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "川木通为毛茛科植物小木通Clematis armandii Franch.或绣球藤Clematis montana Buch.-Ham. ex DC.的干燥藤茎。春、秋二季采收，除去粗皮，晒干，或趁鲜切薄片，晒干。小木通主产于陕西、甘肃、福建、四川等地；绣球藤主产于四川、西藏、贵州、云南、台湾等地。 来源 本品为毛茛科植物小木通Clematis armandii Franch.或绣球藤Clematis montana Buch.-Ham. ex DC.的干燥藤茎。（《中国药典2015》） 分布产地 小木通主产于陕西、甘肃、福建、四川等地；绣球藤主产于四川",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-203.html",
+      "detailId": "203",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "vladimiria-souliei",
+    "name": "川木香",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "huaiyao",
+      "chuanyao",
+      "zangyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "怀药",
+      "川药",
+      "藏药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "VLADIMIRIAE RADIX",
+      "family": "菊科"
+    },
+    "originDistribution": "四川及西藏等地",
+    "daoDiRegions": [
+      {
+        "place": "四川及西藏等地",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "行气止痛。（《中国药典2015》）",
+    "indications": "用于胸胁、脘腹胀痛，肠鸣腹泻，里急后重。（《中国药典2015》） 用法用量 3-9g。（《中国药典2015》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "川木香为菊科植物川木香Dolomiaea souliei (Franch.) Shih或灰毛川木香Dolomiaea souliei (Franch.) Shih var. mirabilis (Anth. ) Shih的干燥根。秋季采挖，除去须根、泥沙及根头上的胶状物，干燥。主产于四川及西藏等地。 来源 本品为菊科植物川木香Dolomiaea souliei (Franch.) Shih或灰毛川木香Dolomiaea souliei (Franch.) Shih var. mirabilis (Anth. ) Shih的干燥根。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-73.html",
+      "detailId": "73",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cyathula-officinalis",
+    "name": "川牛膝",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "chuanyao",
+      "guiyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "川药",
+      "贵药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "CYATHULAE RADIX",
+      "family": "苋科"
+    },
+    "originDistribution": "四川、云南、贵州",
+    "daoDiRegions": [
+      {
+        "place": "四川、云南、贵州",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "逐瘀通经，通利关节，利尿通淋。（《中国药典2015》）",
+    "indications": "用于经闭癥瘕，胞衣不下，跌扑损伤，风湿痹痛，足痿筋挛，尿血血淋。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "川牛膝为苋科植物川牛膝Cyathula officinalis Kuan的干燥根。秋、冬二季采挖，除去芦头、须根及泥沙，烘或晒至半干，堆放回润，再烘干或晒干。主产于四川、云南、贵州。 来源 本品为苋科植物川牛膝Cyathula officinalis Kuan的干燥根。（《中国药典2015》） 分布产地 主产于四川、云南、贵州。 入药部位 根及根茎 采收加工 秋、冬二季采挖，除去芦头、须根及泥沙，烘或晒至半干，堆放回润，再烘干或晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-209.html",
+      "detailId": "209",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "belamcanda-chinensis-sichuan",
+    "name": "川射干",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "chuanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "川药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "IRIDIS TECTORI RHIZOMA",
+      "family": "鸢尾科"
+    },
+    "originDistribution": "广东、广西、四川",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、四川",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，祛痰，利咽。（《中国药典2015》）",
+    "indications": "用于热毒痰火郁结，咽喉肿痛，痰涎壅盛，咳嗽气喘。（《中国药典2015》） 用法用量 6-10g。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "川射干为鸢尾科植物鸢尾Iris tectorum Maxim.的干燥根茎。全年均可采挖，除去须根及泥沙，干燥。主产于广东、广西、四川。 来源 本品为鸢尾科植物鸢尾Iris tectorum Maxim的干燥根茎。（《中国药典2015》） 分布产地 主产于广东、广西、四川。 入药部位 根及根茎 采收加工 全年均可采挖，除去须根及泥沙，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-208.html",
+      "detailId": "208",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "aconitum-carmichaelii-mother",
+    "name": "川乌",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "ACONITI RADIX",
+      "family": "毛茛科"
+    },
+    "originDistribution": "四川、陕西等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、陕西等地",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风除湿，温经止痛。（《中国药典2015》）",
+    "indications": "用于风寒湿痹，关节疼痛，心腹冷痛，寒疝作痛及麻醉止痛。（《中国药典2015》） 用法用量 一般炮制后用。（《中国药典2015》） 用药禁忌 生品内服宜慎；孕妇禁用；不宜与半夏、瓜蒌、瓜蒌子、瓜蒌皮、天花粉、川贝母、浙贝母、平贝母、伊贝母、湖北贝母、白蔹、白及同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "川乌为毛茛科植物乌头Aconitum carmichaelii Debx.的干燥母根。6 月下旬至8 月上旬采挖，除去子根、须根及泥沙，晒干。主产于四川、陕西等地。 来源 本品为毛茛科植物乌头Aconitum carmichaelii Debx.的干燥母根。（《中国药典2015》） 分布产地 主产于四川、陕西等地。 入药部位 根及根茎 采收加工 6月下旬至8月上旬采挖，除去子根、须根及泥沙，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-220.html",
+      "detailId": "220",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "chuanxiong-rhizome",
+    "name": "川芎",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "CHUANXIONG RHIZOMA",
+      "family": "伞形科"
+    },
+    "originDistribution": "四川",
+    "daoDiRegions": [
+      {
+        "place": "四川",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血行气，祛风止痛。（《中国药典2015》）",
+    "indications": "用于胸痹心痛，胸胁刺痛，跌扑肿痛，月经不调，经闭痛经，癥瘕腹痛，头痛，风湿痹痛。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 阴虚火旺，月经过多及出血性疾病慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "川芎为伞形科植物川芎Ligusticum chuanxiong Hort.的干燥根茎。夏季当茎上的节盘显著突出，并略带紫色时采挖。除去泥沙，晒后烘干，再去须根。主产于四川，产量大，品质优。 来源 本品为伞形科植物川芎Ligusticum chuanxiong Hort.的干燥根茎。（《中国药典2015》） 分布产地 主产于四川，产量大，品质优。 入药部位 根及根茎 采收加工 夏季当茎上的节盘显著突出，并略带紫色时采挖。除去泥沙，晒后烘干，再去须根。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-224.html",
+      "detailId": "224",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "manis-pentadactyla",
+    "name": "穿山甲",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "MANIS SQUAMA",
+      "family": "功 效：活血化瘀药"
+    },
+    "originDistribution": "湖南、贵州、云南、广西、广东、海南、福建、台湾",
+    "daoDiRegions": [
+      {
+        "place": "湖南、贵州、云南、广西、广东、海南、福建、台湾",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血消癥，通经下乳，消肿排脓，搜风通络。（《中国药典2015》）",
+    "indications": "用于经闭癓瘕，乳汁不通，痈肿疮毒，风湿痹痛，中风瘫痪，麻木拘挛。（《中国药典2015》） 用法用量 5-10g，一般炮制后用。 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "穿山甲为鲮鲤科动物穿山甲Manis pentadactyla Linnaeus的鳞甲。收集鳞甲，洗净，晒干。主产于湖南、贵州、云南、广西、广东、海南、福建、台湾。 来源 本品为鲮鲤科动物穿山甲Manis pentadactyla Linnaeus的鳞甲。（《中国药典2015》） 分布产地 主产于湖南、贵州、云南、广西、广东、海南、福建。台湾。 入药部位 动物 采收加工 收集鳞甲，洗净，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-282.html",
+      "detailId": "282",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "andrographis-paniculata",
+    "name": "穿心莲",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "ANDROGRAPHIS HERBA",
+      "family": "爵床科"
+    },
+    "originDistribution": "广东、福建等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、福建等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，凉血，消肿。（《中国药典2015》）",
+    "indications": "用于感冒发热，咽喉肿痛，口舌生疮，顿咳劳嗽，泄泻痢疾，热淋涩痛，痈肿疮疡，毒蛇咬伤。（《中国药典2015》） 用法用量 6-9g。外用适量。（《中国药典2015》） 用药禁忌 阳虚证及脾胃弱者慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "穿心莲为爵床科植物穿心莲Andrographis paniculata (Burm. f.) Nees的干燥地上部分。秋初茎叶茂盛时采割，晒干。主产于广东、福建等地。 来源 本品为爵床科植物穿心莲Andrographis paniculata (Burm. f.) Nees的干燥地上部分。（《中国药典2015》） 分布产地 主产于广东、福建等地。 入药部位 全草 采收加工 秋初茎叶茂盛时采割，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-290.html",
+      "detailId": "290",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "eleutherococcus-nodiflorus",
+    "name": "刺五加",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "ACANTHOPANACIS SENTICOSI RADIX ET RHIZOMA SEU CAULIS",
+      "family": "五加科"
+    },
+    "originDistribution": "辽宁、吉林、黑龙江、河北、陕西等地",
+    "daoDiRegions": [
+      {
+        "place": "辽宁、吉林、黑龙江、河北、陕西等地",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "益气健脾，补肾安神。（《中国药典2015》）",
+    "indications": "用于脾肺气虚，体虚乏力，食欲不振，肺肾两虚，久咳虚喘，肾虚腰膝酸痛，心脾不足，失眠多梦。（《中国药典2015》） 用法用量 9-27g。（《中国药典2015》） 用药禁忌 阴虚火旺者慎服。（《中药大辞典》） 贮藏保存 置通风干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "刺五加为五加科植物刺五加Acanthopanax senticosus (Rupr. Maxim.) Harms的干燥根和根茎或茎。春、秋二季采收，洗净，干燥。产于辽宁、吉林、黑龙江、河北、陕西等地。 来源 本品为五加科植物刺五加Acanthopanax senticosus (Rupr. Maxim.) Harms的干燥根和根茎或茎。（《中国药典2015》） 分布产地 产于辽宁、吉林、黑龙江、河北、陕西等地。 入药部位 根及根茎、茎木 采收加工 春、秋二季采收，洗净，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-385.html",
+      "detailId": "385",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-257",
+    "name": "大风子",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "HYDNOCARPI SEMEN",
+      "family": "大风子科"
+    },
+    "originDistribution": "海南、广西",
+    "daoDiRegions": [
+      {
+        "place": "海南、广西",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "杀虫止痒药",
+    "efficacy": "祛风燥湿，攻毒杀虫。（《中药大辞典》）",
+    "indications": "主治麻风，杨梅疮，疥癣，酒齄鼻，痤疮。（《中药大辞典》） 用法用量 外用：捣敷；或煅存性研末调敷。内服：入丸、散，一次量0.3-1g。（《中药大辞典》） 用药禁忌 本品性毒烈，一般只作外用，内服宜慎。必须作内服剂用时，当稀释于复方中用，并不得过量或持续服用。外用也不得过量或久用。阴虚血热、胃肠炎症、目症患者均忌服。本品中毒时可出现头晕、头痛、胸腹痛、恶心、呕吐、四肢乏力、全身发热感，严重时可出现溶",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "大风子为大风子科植物大风子Hydnocarpus anthelminthica Pierr. ex Gagnep.、海南大风子Hydnocarpus hainanensis (Merr.) Sleum.的成熟种子。4-6月或10-12月，采摘成熟果实，摊放至果肉软化，去果皮，取种子，洗净，晒干。大风子主产于泰国、越南，以及印度尼西亚、印度、柬埔寨等国。海南大风子产于海南、广西。 来源 本品为大风子科植物大风子Hydnocarpus anthelminthica Pierr. ex Gagnep.、海南大风子Hydnocarpus hainanensis ",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-257.html",
+      "detailId": "257",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "rhubarb",
+    "name": "大黄",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "huaiyao",
+      "chuanyao",
+      "zangyao",
+      "qinyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "怀药",
+      "川药",
+      "藏药",
+      "秦药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "RHEI RADIX ET RHIZOMA",
+      "family": "蓼科"
+    },
+    "originDistribution": "甘肃、青海、西藏、四川等地",
+    "daoDiRegions": [
+      {
+        "place": "甘肃、青海、西藏、四川等地",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "泻下药",
+    "efficacy": "大黄：泻下攻积，清热泻火，凉血解毒，逐瘀通经，利湿退黄。 酒大黄：善清上焦血分热毒。 熟大黄：泻下力缓、泻火解毒。 大黄炭：凉血化瘀止血。（《中国药典2015》）",
+    "indications": "大黄：用于实热积滞便秘，血热吐魈，目赤咽肿，痈肿疔疮，肠痈腹痛，瘀血经闭，产后瘀阻，跌打损伤，湿热痢疾，黄疸尿赤，淋证，水肿；外治烧烫伤。 酒大黄：用于目赤咽肿、齿龈肿痛。 熟大黄：用于火毒疮疡。 大黄炭：用于血热有瘀出血症。（《中国药典2015》） 用法用量 3-15g；用于泻下不宜久煎。外用适量，研末敷于患处。（《中国药典2015》） 用药禁忌 孕妇及月经期、哺乳期慎用。（《中国药典2015》",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "大黄为蓼科植物掌叶大黄Rheum palmatum L.、唐古特大黄Rheum tanguticum Maxim. ex Regel或药用大黄Rheum officinale Baill.的干燥根和根茎。秋末茎叶枯萎或次春发芽前采挖，除去细根，刮去外皮，切瓣或段，绳穿成串干燥或直接干燥。掌叶大黄主产于甘肃、青海、西藏、四川等地；唐古特大黄主产于青海、甘肃、西藏及四川等地。两者商品均称为&ldquo;西大黄&rdquo;、&ldquo;北大黄&rdquo;。药用大黄主产于四川、贵州、云南、湖北、陕西等地，商品称为&ldquo;南大黄&rdquo;、&ldq",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-83.html",
+      "detailId": "83",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "isatis-leaf",
+    "name": "大青叶",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "ISATIDIS FOLIUM",
+      "family": "十字花科"
+    },
+    "originDistribution": "河北、陕西、江苏、安徽等地",
+    "daoDiRegions": [
+      {
+        "place": "河北、陕西、江苏、安徽等地",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，凉血消斑。（《中国药典2015》）",
+    "indications": "用于温病高热，神昏，发斑发疹，痄腮，喉痹，丹毒，痈肿。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 《得配本草》：&ldquo;（蓝叶）虚作泻者禁用。&rdquo; 贮藏保存 置通风干燥处，防霉。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "大青叶为十字花科植物菘蓝Isatis indigotica Fortune的干燥叶。夏、秋二季分2-3次采收，除去杂质，晒干。主产于河北、陕西、江苏、安徽等地。 来源 本品为十字花科植物菘蓝Isatis indigotica Fortune的干燥叶。（《中国药典2015》） 分布产地 主产于河北、陕西、江苏、安徽等地。 入药部位 叶 采收加工 夏、秋二季分2-3次采收，除去杂质，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-310.html",
+      "detailId": "310",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "salvia-miltiorrhiza",
+    "name": "丹参",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao-huai",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "淮药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "SALVIAE MILTIORRHIZAE RADIX ET RHIZOMA",
+      "family": "唇形科"
+    },
+    "originDistribution": "四川、安徽、江苏、山西、河北等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、安徽、江苏、山西、河北等地",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血祛瘀，通经止痛，清心除烦，凉血消痈。（《中国药典2015》）",
+    "indications": "用于胸痹心痛，脘腹胁痛，癥瘕积聚，热痹疼痛，心烦不眠，月经不调，痛经经闭，疮疡肿痛。（《中国药典2015》） 用法用量 10-15g。（《中国药典2015》） 用药禁忌 不宜与藜芦同用。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "丹参为唇形科植物丹参Salvia miltiorrhiza Bunge的干燥根及根茎。春、秋二季采挖，除去泥沙，干燥。主产于四川、安徽、江苏、山西、河北等地。 来源 本品为唇形科植物丹参Salvia miltiorrhiza Bunge的干燥根及根茎。（《中国药典2015》） 分布产地 主产于四川、安徽、江苏、山西、河北等地。 入药部位 根及根茎 采收加工 春、秋二季采挖，除去泥沙，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-225.html",
+      "detailId": "225",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lophatherum-gracile",
+    "name": "淡竹叶",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "LOPHATHERI HERBA",
+      "family": "禾本科"
+    },
+    "originDistribution": "浙江、安徽、湖南、四川、湖北、广东、江西等地",
+    "daoDiRegions": [
+      {
+        "place": "浙江、安徽、湖南、四川、湖北、广东、江西等地",
+        "province": "安徽"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热泻火，除烦止渴，利尿通淋。（《中国药典2015》）",
+    "indications": "用于热病烦渴，小便短赤涩痛，口舌生疮。（《中国药典2015》） 用法用量 6-10g。（《中国药典2015》） 用药禁忌 无实火、湿热者慎服，体虚有寒者禁服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "淡竹叶为禾本科植物淡竹叶Lophatherum gracile Brongn. 的干燥茎叶。夏季未抽花穗前采割，晒干。主产于浙江、安徽、湖南、四川、湖北、广东、江西等地。以浙江产量大、质量优，称&ldquo;杭竹叶&rdquo;。 来源 本品为禾本科植物淡竹叶Lophatherum gracile Brongn. 的干燥茎叶。（《中国药典2015》） 分布产地 主产于浙江、安徽、湖南、四川、湖北、广东、江西等地。以浙江产量大、质量优，称&ldquo;杭竹叶&rdquo;。 入药部位 叶 采收加工 夏季未抽花穗前采割，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-149.html",
+      "detailId": "149",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "angelica-sinensis",
+    "name": "当归",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "ANGELICAE SINENSIS RADIX",
+      "family": "伞形科"
+    },
+    "originDistribution": "甘肃、云南等地。",
+    "daoDiRegions": [
+      {
+        "place": "甘肃、云南等地。",
+        "province": "云南"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "当归：补血活血，调经止痛，润肠通便。 酒当归：活血通经。（《中国药典2015》）",
+    "indications": "当归：用于血虚萎黄，眩晕心悸，月经不调，经闭痛经，虚寒腹痛，风湿痹痛，跌扑损伤，痈疽疮疡，肠燥便秘。 酒当归：用于经闭痛经，风湿痹痛，跌扑损伤。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 热盛出血患者禁服，湿盛中满及大便溏泄者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "当归为伞形科植物当归Angelica sinensis (Oliv.) Diels的干燥根。秋末采挖，除去须根和泥沙，待水分稍蒸发后，捆成小把，上棚，用烟火慢慢熏干。主产于甘肃、云南等地。甘肃岷县产量多，质量佳。 来源 本品为伞形科植物当归Angelica sinensis (Oliv.) Diels的干燥根。（《中国药典2015》） 分布产地 主产于甘肃、云南等地。甘肃岷县产量多，质量佳。 入药部位 根及根茎 采收加工 秋末采挖，除去须根和泥沙，待水分稍蒸发后，捆成小把，上棚，用烟火慢慢熏干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-246.html",
+      "detailId": "246",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "codonopsis",
+    "name": "党参",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "beiyao",
+      "qinyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "北药",
+      "秦药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "CODONOPSIS RADIX",
+      "family": "桔梗科"
+    },
+    "originDistribution": "陕西、甘肃、黑龙江、辽宁、吉林、山西",
+    "daoDiRegions": [
+      {
+        "place": "陕西、甘肃、黑龙江、辽宁、吉林、山西",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "健脾益肺，养血生津。（《中国药典2015》）",
+    "indications": "用于脾肺气虚，食少倦怠，咳嗽虚喘，气血不足，面色萎黄，心悸气短，津伤口渴，内热消渴。（《中国药典2015》） 用法用量 9-30g。（《中国药典2015》） 用药禁忌 不宜与藜芦同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "党参为桔梗科植物党参Codonopsis pilosula (Franch.) Nannf.、素花党参Codonopsis pilosula (Franch.) Nannf. var. modesta (Nannf.) L. T. Shen或川党参Codonopsis tangshen Oliv.的干燥根。秋季采挖，洗净，晒干。党参主产于陕西、甘肃、黑龙江、辽宁、吉林、山西。素花党参主产于甘肃、陕西、四川西北部，以四川南坪、松潘，甘肃义县产者质量最佳。川党参主产于四川、湖北、陕西、贵州等地。 来源 本品为桔梗科植物党参Codonopsis pilosul",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-56.html",
+      "detailId": "56",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "illicium-difengpi",
+    "name": "地枫皮",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "ILLICII CORTEX",
+      "family": "木兰科"
+    },
+    "originDistribution": "广西",
+    "daoDiRegions": [
+      {
+        "place": "广西",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风除湿；行气止痛。（《中国药典2015》）",
+    "indications": "风湿关节痛；腰肌劳损；蜈蚣咬伤。（《中国药典2015》） 用法用量 内服：煎汤，6-9g。外用：适量，研粉酒调敷。（《中华本草》） （6~9g）（《中国药典2015》） 用药禁忌 孕妇慎用。（《中华本草》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "地枫皮为木兰科植物地枫皮Illicium difengpi K.I.B.et K.I.M.的干燥树皮。春、秋二季剥取，晒干或低温干燥。主产广西。 来源 为木兰科植物地枫皮Illicium difengpi K.I.B.et K.I.M.的干燥树皮。（《中国药典2015》） 分布产地 分布于广西西南部地区。 入药部位 皮 采收加工 春、秋二季剥取，晒干或低温干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-277.html",
+      "detailId": "277",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lycium-root-bark",
+    "name": "地骨皮",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "LYCII CORTEX",
+      "family": "茄科"
+    },
+    "originDistribution": "山西、河北、河南、浙江、江苏、宁夏等地",
+    "daoDiRegions": [
+      {
+        "place": "山西、河北、河南、浙江、江苏、宁夏等地",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "凉血除蒸，清肺降火。（《中国药典2015》）",
+    "indications": "用于阴虚潮热，骨蒸盗汗，肺热咳嗽，咯血，衄血，内热消渴。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 脾胃虚寒者慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "地骨皮为茄科植物枸杞Lycium chinense Mill.或宁夏枸杞Lycium barbarum L.的干燥根皮。春初或秋后采挖根部，洗净，剥取根皮，晒干。主产于山西、河北、河南、浙江、江苏、宁夏等地。以山西、河南产量大，江苏、浙江的质量佳。 来源 本品为茄科植物枸杞Lycium chinense Mill.或宁夏枸杞Lycium barbarum L.的干燥根皮。（《中国药典2015》） 分布产地 主产于山西、河北、河南、浙江、江苏、宁夏等地。以山西、河南产量大，江苏、浙江的质量佳。 入药部位 皮 采收加工 春初或秋后采挖根部，洗净，剥取根皮，晒",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-312.html",
+      "detailId": "312",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "rehmannia-glutinosa-raw",
+    "name": "地黄",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao",
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "怀药",
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "REHMANNIAE RADIX",
+      "family": "玄参科"
+    },
+    "originDistribution": "主要为栽培品。全国大部分地区均有",
+    "daoDiRegions": [
+      {
+        "place": "主要为栽培品。全国大部分地区均有",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "鲜地黄：清热生津，凉血，止血。 生地黄：清热凉血，养阴生津。（《中国药典2015》）",
+    "indications": "鲜地黄：用于热病伤阴，舌绛烦渴，温毒发斑，吐血，衄血，咽喉肿痛。 生地黄：用于热入营血，温毒发斑，吐血衄血，热病伤阴，舌绛烦渴，津伤便秘，阴虚发热，骨蒸蒡热，内热消渴。（《中国药典2015》） 用法用量 鲜地黄：12-30g。 生地黄：10-15g。（《中国药典2015》） 用药禁忌 胃虚食少、脾虚有湿者慎服。（《中药大辞典》） 贮藏保存 鲜地黄埋在沙土中，防冻；生地黄置通风干燥处，防霉，防蛀。（",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "地黄为玄参科植物地黄Rehmannia glutinosa (Gaetn.) Libosch. ex Fisch. et Mey.的新鲜或干燥块根。秋季采挖，除去芦头、须根及泥沙，鲜用；或将地黄缓缓烘焙至约八成干。前者习称&ldquo;鲜地黄&rdquo;，后者习称&ldquo;生地黄&rdquo;。主要为栽培品。全国大部分地区均有生产，以河南温县、博爱、武陟、孟县等地产量大，质佳。 来源 本品为玄参科植物地黄Rehmannia glutinosa (Gaetn.) Libosch. ex Fisch. et Mey.的新鲜或干燥块根。（《中国药典201",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-128.html",
+      "detailId": "128",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "earthworm",
+    "name": "地龙",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "PHERETIMA",
+      "family": "功 效：平肝息风药"
+    },
+    "originDistribution": "广东、海南、广西等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、海南、广西等地",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "清热定惊，通络，平喘，利尿。（《中国药典2015》）",
+    "indications": "用于高热神昏，惊痫抽搐，关节痹痛，肢体麻木，半身不遂，肺热咳喘，水肿尿少。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 脾胃虚寒不宜服，孕妇禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "地龙为钜蚓科动物参环毛蚓Pheretima aspergillum（E. Perrier）、通俗环毛蚓Pheretima vulgaris Chen、威廉环毛蚓Pheretima guillelmi （Michaelsen）或栉盲环毛蚓Pheretima pectinifera Michaelsen的干燥体。前一种习称&ldquo;广地龙&rdquo; ，后三种习称&ldquo;沪地龙&rdquo;。广地龙春季至秋季捕捉，沪地龙夏季捕捉，及时剖开腹部，除去内脏及泥沙，洗净，晒干或低温干燥。广地龙主产广东、海南、广西等地；沪地龙主产上海、浙江、江苏、安徽、",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-291.html",
+      "detailId": "291",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "sanguisorba-officinalis",
+    "name": "地榆",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "mengyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "蒙药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "SANGUISORBAE RADIX",
+      "family": "蔷薇科"
+    },
+    "originDistribution": "地榆产于全国大部分地区",
+    "daoDiRegions": [
+      {
+        "place": "地榆产于全国大部分地区",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "凉血止血，解毒敛疮。（《中国药典2015》）",
+    "indications": "用于便血，痔血，血痢，崩漏，水火烫伤，痈肿疮毒。（《中国药典2015》） 用法用量 9-15g。外用适量，研末涂敷患处。（《中国药典2015》） 用药禁忌 脾胃虚寒，中气下陷，冷痢泄泻，崩漏带下，血虚有瘀者均应慎服。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "来源 本品为蔷薇科植物地榆Sanguisorba officinalis L.或长叶地榆Sanguisorba officinalis L. var. longifolia (Bertol.) Y&uuml; et Li的干燥根。后者习称&ldquo;绵地榆&rdquo;。（《中国药典2015》） 分布产地 地榆产于全国大部分地区；长叶地榆产于黑龙江、辽宁、江苏、浙江、湖南、安徽等地。 入药部位 根及根茎 采收加工 春季将发芽时或秋季植株枯萎后采挖，除去须根，洗净，干燥，或趁鲜切片，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-29.html",
+      "detailId": "29",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "juncus-effusus",
+    "name": "灯芯草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "JUNCI MEDULLA",
+      "family": "灯心草科"
+    },
+    "originDistribution": "江苏",
+    "daoDiRegions": [
+      {
+        "place": "江苏",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "清心火，利小便。（《中国药典2015》）",
+    "indications": "用于心烦失眠，尿少涩痛，口舌生疮。（《中国药典2015》） 用法用量 1-3g。（《中国药典2015》） 用药禁忌 下焦虚寒、小便失禁者禁服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "灯心草为灯心草科植物灯心草Juncus effusus L.的干燥茎髓。夏末至秋季割取茎，晒干，取出茎髓，理直，扎成小把。主产于江苏。 来源 本品为灯心草科植物灯心草Juncus effusus L.的干燥茎髓。（《中国药典2015》） 分布产地 主产于江苏。 入药部位 茎木 采收加工 夏末至秋季割取茎，晒干，取出茎髓，理直，扎成小把。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-336.html",
+      "detailId": "336",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "millettia-yunnanensis",
+    "name": "滇鸡血藤",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "yunyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "云药"
+    ],
+    "taxonomy": {
+      "latinName": "KADSURAE CAULIS",
+      "family": "木兰科"
+    },
+    "originDistribution": "云南",
+    "daoDiRegions": [
+      {
+        "place": "云南",
+        "province": "云南"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血补血，调经止痛，舒筋通络。（《中国药典2015》）",
+    "indications": "用于月经不调，痛经，麻术瘫痪，风湿痹痛，气血虚弱。（《中国药典2015》） 用法用量 15-30g。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "滇鸡血藤为木兰科植物内南五味子Kadsura interior A. C. Smith的干燥藤茎。秋季采收，除去枝叶，切片，晒干。主产于云南。 来源 本品为木兰科植物内南五味子Kadsura interior A. C. Smith的干燥藤茎。（《中国药典2015》） 分布产地 主产于云南。 入药部位 茎木 采收加工 秋季采收，除去枝叶，切片，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-240.html",
+      "detailId": "240",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "caryophylli-flos",
+    "name": "丁香",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "CARYOPHYLLI FLOS",
+      "family": "桃金娘科"
+    },
+    "originDistribution": "海南、广东、广西、云南等地",
+    "daoDiRegions": [
+      {
+        "place": "海南、广东、广西、云南等地",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "温里药",
+    "efficacy": "温中降逆，补肾助阳。（《中国药典2015》）",
+    "indications": "用于脾胃虚寒，呃逆呕吐，食少吐泻，心腹冷痛，肾虚阳痿。（《中国药典2015》） 用法用量 1-3g，内服或研末外敷。（《中国药典2015》） 用药禁忌 不宜与郁金同用。（《中国药典2015》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "丁香为桃金娘科植物丁香Syzygium aromaticum (L.) Merr. et L. M. Perry的干燥花蕾。当花蕾由绿色转红时采摘，晒干。主产于坦桑尼亚的桑给巴尔以及马来西亚、斯里兰卡、印尼等地。现我国海南、广东、广西、云南等地亦有产。 来源 本品为桃金娘科植物丁香Syzygium aromaticum (L.) Merr. et L. M. Perry的干燥花蕾。（《中国药典2015》） 分布产地 主产于坦桑尼亚的桑给巴尔以及马来西亚、斯里兰卡、印尼等地。现我国海南、广东、广西、云南等地亦有产。 入药部位 花 采收加工 当花蕾由绿色转红",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-307.html",
+      "detailId": "307",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cordyceps-sinensis",
+    "name": "冬虫夏草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guiyao",
+      "chuanyao",
+      "zangyao",
+      "guanyao",
+      "huaiyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "贵药",
+      "川药",
+      "藏药",
+      "关药",
+      "怀药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "CORDYCEPS",
+      "family": "麦角菌科"
+    },
+    "originDistribution": "四川、青海、贵州、云南",
+    "daoDiRegions": [
+      {
+        "place": "四川、青海、贵州、云南",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补虚损，益精气，止咳化痰。",
+    "indications": "治痰饮喘嗽，虚喘，痨嗽，咯血，自汗盗汗，阳痿遗精，腰膝酸痛，病后久虚不复。 用法用量 内服：煎汤，1.5～3钱；或入丸、散。（《中药大辞典》） 用药禁忌 《四川中药志》：&quot;有表邪者慎用。&quot; 贮藏保存 置阴凉干燥处，防蛀（《中药大辞典》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "冬虫夏草为麦角菌科真菌冬虫夏草菌Cordycepssinensis（Berk.）Sacc.寄生在蝙蝠蛾科昆虫幼虫上的子座及幼虫尸体的复合体。夏初子座出土、孢子未发散时挖取，晒至六七成干，除去似纤维状的附着物及杂质，晒干或低温干燥。主产四川、青海、贵州、云南，以四川产量居多。此外，西藏、甘肃等地亦产。 来源 麦角菌科真菌冬虫夏草菌Cordyceps sinensis(Berk.)Sacc.寄生在蝙蝠娥科昆虫幼虫上的子座及幼虫尸体的复合体（《中药大辞典》） 分布产地 冬虫夏草主产于金沙江、澜沧江、怒江三江流域的上游。青海的囊谦、杂多、玉树、称多、治多、甘德、",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-82.html",
+      "detailId": "82",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "malva-verticillata-fruit",
+    "name": "冬葵果",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "MALVAE FRUCTUS",
+      "family": "锦葵科"
+    },
+    "originDistribution": "全国各地均产",
+    "daoDiRegions": [
+      {
+        "place": "全国各地均产",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "清热利尿，消肿。（《中国药典2015》）",
+    "indications": "用于尿闭，水肿，口渴，尿路感染。（《中国药典2015》） 用法用量 3-9g。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "冬葵果系蒙古族习用药材。为锦葵科植物冬葵Malva crispa Linn.的干燥成熟果实。夏、秋二季果实成熟时采收，除去杂质，阴干。全国各地均产。 来源 本品系蒙古族习用药材。为锦葵科植物冬葵Malva crispa Linn.的干燥成熟果实。（《中国药典2015》） 分布产地 全国各地均产。 入药部位 果实及种子 采收加工 夏、秋二季果实成熟时采收，除去杂质，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-397.html",
+      "detailId": "397",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "angelica-pubescens",
+    "name": "独活",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "ANGELICAE PUBESCENTIS RADIX",
+      "family": "伞形科"
+    },
+    "originDistribution": "四川、湖北、陕西",
+    "daoDiRegions": [
+      {
+        "place": "四川、湖北、陕西",
+        "province": "湖北"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风除湿，通痹止痛。（《中国药典2015》）",
+    "indications": "用于风寒湿痹，腰膝疼痛，少阴伏风头痛，风寒挟湿头痛。（《中国药典2015》） 用法用量 3-10g 。（《中国药典2015》） 用药禁忌 阴虚血燥者慎服。（《中药大辞典》） 贮藏保存 置干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "独活为伞形科植物重齿毛当归Angelica biserrata (Shan et Yuan) Yuan et Shan的干燥根。春初苗刚发芽或秋末茎叶枯萎时采挖，除去须根和泥沙，烘至半干，堆置2-3天，发软后再烘至全干。主产于四川、湖北、陕西。 来源 本品为伞形科植物重齿毛当归Angelica biserrata (Shan et Yuan) Yuan et Shan的干燥根。（《中国药典2015》） 分布产地 主产于四川、湖北、陕西。 入药部位 根及根茎 采收加工 春初苗刚发芽或秋末茎叶枯萎时采挖，除去须根和泥沙，烘至半干，堆置2-3天，发软后再烘至全",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-360.html",
+      "detailId": "360",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lamiophlomis-herba",
+    "name": "独一味",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zangyao",
+      "guanyao",
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "藏药",
+      "关药",
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "LAMIOPHLOMIS HERBA",
+      "family": "唇形科"
+    },
+    "originDistribution": "甘肃、青海、四川等地",
+    "daoDiRegions": [
+      {
+        "place": "甘肃、青海、四川等地",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "活血止血，祛风止痛。（《中国药典2015》）",
+    "indications": "用于跌打损伤，外伤出血，风湿痹痛，黄水病。（《中国药典2015》） 用法用量 2-3g。（《中国药典2015》） 用药禁忌 《四川中药志》1960年版：&ldquo;凡无瘀滞及孕妇勿服。&rdquo; 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "独一味为系藏族习用药材。为唇形科植物独一味Lamiophlomis rotata (Benth.) Kudo的干燥地上部分。秋季花果期采割，洗净，晒干。产于甘肃、青海、四川等地。 来源 本品为系藏族习用药材。为唇形科植物独一味Lamiophlomis  rotata （Benth）Kudo的干燥地上部分。（《中国药典2015》） 分布产地 产于甘肃、青海、四川等地。 入药部位 全草 采收加工 秋季花果期采割，洗净，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-78.html",
+      "detailId": "78",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "eucommia-ulmoides",
+    "name": "杜仲",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao",
+      "huaiyao-huai",
+      "guiyao",
+      "chuanyao",
+      "qinyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "怀药",
+      "淮药",
+      "贵药",
+      "川药",
+      "秦药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "EUCOMMIAE CORTEX",
+      "family": "杜仲科"
+    },
+    "originDistribution": "贵州、陕西、湖北、四川",
+    "daoDiRegions": [
+      {
+        "place": "贵州、陕西、湖北、四川",
+        "province": "湖北"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肝肾，强筋骨，安胎。（《中国药典2015》）",
+    "indications": "用于肝肾不足，腰膝酸痛，筋骨无力，头晕目眩，妊娠漏血，胎动不安。（《中国药典2015》） 用法用量 6-9g。（《中国药典2015》） 用药禁忌 阴虚火旺者慎服。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "杜仲为杜仲科植物杜仲Eucommia ulmoides Oliver的干燥树皮。4-6月剥取，刮去粗皮，堆置&ldquo;发汗&rdquo;至内皮呈紫褐色，晒干。主产于贵州、陕西、湖北、四川、河南等地。以贵州、四川产量大，质量佳。 来源 本品为杜仲科植物杜仲Eucommia ulmoides Oliver的干燥树皮。（《中国药典2015》） 分布产地 主产于贵州、陕西、湖北、四川、河南等地。以贵州、四川产量大，质量佳。 入药部位 皮 采收加工 4-6 月剥取，刮去粗皮，堆置&ldquo;发汗&rdquo;至内皮呈紫褐色，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-126.html",
+      "detailId": "126",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "gypsum-calcined",
+    "name": "煅石膏",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "GYPSUM USTUM",
+      "family": "功 效：止血药"
+    },
+    "originDistribution": "西藏、河南、安徽、湖北等地",
+    "daoDiRegions": [
+      {
+        "place": "西藏、河南、安徽、湖北等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "收湿，生肌，敛疮，止血。（《中国药典2015》）",
+    "indications": "外治溃疡不敛，湿疹瘙痒，水火烫伤，外伤出血。（《中国药典2015》） 用法用量 外用适量，研末撒敷患处。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "本品为石膏的炮制品。（《中国药典2015》） 来源 本品为石膏的炮制品。（《中国药典2015》） 分布产地 主产于西藏、河南、安徽、湖北等地。 入药部位 矿物",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-325.html",
+      "detailId": "325",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "curcuma-phaeocaulis",
+    "name": "莪术",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "浙药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "CURCUMAE RHIZOMA",
+      "family": "姜科"
+    },
+    "originDistribution": "四川温江及乐山地区",
+    "daoDiRegions": [
+      {
+        "place": "四川温江及乐山地区",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "行气破血，消积止痛。（《中国药典2015》）",
+    "indications": "用于癥瘕痞块，瘀血经闭，胸痹心痛，食积胀痛。（《中国药典2015》） 用法用量 6-9g。（《中国药典2015》） 用药禁忌 孕妇禁用。（《中国药典2015》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "莪术为姜科植物蓬莪术Curcuma phaeocaulis Valeton、广西莪术Curcuma kwangsiensis S. G. Lee et C. F. Liang或温郁金Curcuma aromatica Salisb. &#39;Wenyujin&#39;的干燥根茎。后者习称&ldquo;温莪术&rdquo;。冬季茎叶枯萎后采挖，洗净，蒸或煮至透心，晒干或低温干燥后除去须根和杂质。蓬莪术（莪术）主产于四川温江及乐山地区；广西莪术（桂莪术）主产于广西的上思、贵县、横县、大新、邕宁等地；温郁金（温莪术）主产于浙江瑞安。 来源 本品为姜科植物蓬莪",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-135.html",
+      "detailId": "135",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "catechu",
+    "name": "儿茶",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "CATECHU",
+      "family": "豆科"
+    },
+    "originDistribution": "云南西双版纳",
+    "daoDiRegions": [
+      {
+        "place": "云南西双版纳",
+        "province": "云南"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血止痛，止血生肌，收湿敛疮，清肺化痰。（《中国药典2015》）",
+    "indications": "用于跌扑伤痛，外伤出血，吐血衄血，疮疡不敛，湿疹、湿疮，肺热咳嗽。（《中国药典2015》） 用法用量 1-3g，包煎；多入丸散服。外用适量。（《中国药典2015》） 贮藏保存 置干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "儿茶为豆科植物儿茶Acacia catechu (Linn. f.) Willd.的去皮枝、干的干燥煎膏。冬季采收枝、干，除去外皮，砍成大块，加水煎煮，浓缩，干燥。主产于云南西双版纳。 来源 本品为豆科植物儿茶Acacia catechu (Linn. f.) Willd.的去皮枝、干的干燥煎膏。（《中国药典2015》） 分布产地 主产于云南西双版纳。 入药部位 其他 采收加工 冬季采收枝、干，除去外皮，砍成大块，加水煎煮，浓缩，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-242.html",
+      "detailId": "242",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "pinellia-prep-law",
+    "name": "法半夏",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "beiyao",
+      "huaiyao",
+      "chuanyao",
+      "yunyao",
+      "guiyao",
+      "huaiyao-huai",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "北药",
+      "怀药",
+      "川药",
+      "云药",
+      "贵药",
+      "淮药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "PINELLIAE RHIZOMA PRAEPARATUM",
+      "family": "天南星科"
+    },
+    "originDistribution": "四川、湖北、河南、贵州、安徽等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、湖北、河南、贵州、安徽等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "燥湿化痰。（《中国药典2015》）",
+    "indications": "用于痰多咳喘，痰饮眩悸，风痰眩晕，痰厥头痛。（《中国药典2015》） 用法用量 3-9g。（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、草乌、制草乌、附子同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "来源 本品为半夏的炮制加工品。（《中国药典2015》） 分布产地 主产于四川、湖北、河南、贵州、安徽等地。 入药部位 根及根茎",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-49.html",
+      "detailId": "49",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cassia-angustifolia",
+    "name": "番泻叶",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "SENNAE FOLIUM",
+      "family": "豆科"
+    },
+    "originDistribution": "广东、海南、云南",
+    "daoDiRegions": [
+      {
+        "place": "广东、海南、云南",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "泻下药",
+    "efficacy": "泻热行滞，通便，利水。（《中国药典2015》）",
+    "indications": "用于热结积滞，便秘腹痛，水肿胀满。（《中国药典2015》） 用法用量 2-6g，后下，或开水泡服。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 避光，置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "番泻叶为豆科植物狭叶番泻Cassia angustifolia Vahl或尖叶番泻Cassia acutifolia Delile的干燥小叶。开花前采收，晒干。狭叶番泻叶主产于红海以东至印度，印度南端丁内未利产量较多，商品又名印度番泻叶或丁内未利番泻叶。尖叶番泻叶主产埃及，由亚历山大港输出，商品又称埃及番泻叶或亚历山大番泻叶。我国广东、海南及云南西双版纳等地有产。 来源 本品为豆科植物狭叶番泻Cassia angustifolia Vahl或尖叶番泻Cassia acutifolia Delile的干燥小叶。（《中国药典2015》） 分布产地 狭叶番泻叶",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-278.html",
+      "detailId": "278",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "saposhnikovia-divaricata",
+    "name": "防风",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "mengyao",
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "蒙药",
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "SAPOSHNIKOVIAE RADIX",
+      "family": "伞形科"
+    },
+    "originDistribution": "黑龙江、内蒙古、河北",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江、内蒙古、河北",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "祛风解表，胜湿止痛，止痉。（《中国药典2015》）",
+    "indications": "用于感冒头痛，风湿痹痛，风疹瘙痒，破伤风。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 血虚发痉及阴虚火旺者慎服。（《中华本草》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "防风为伞形科植物防风Saposhnikovia divaricata (Trucz.) Schischk.的干燥根。春、秋二季采挖未抽花茎植株的根，除去须根和泥沙，晒干。主产于黑龙江的安达、泰康、泰来、肇东、肇州、肇源，吉林的洮安、镇赉，辽宁的昭盟、铁岭地区。以黑龙江产量最大。此外，内蒙古的化德、商都、兴和，山西的安泽、沁源、和顺、武乡，河北的张家口、承德等地区均产。 来源 本品为伞形科植物防风Saposhnikovia divaricata ( Turcz.) Schischk.的干燥根。（《中国药典2015》） 分布产地 主产于黑龙江的安达、泰康、泰",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-388.html",
+      "detailId": "388",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "stephania-tetrandra",
+    "name": "防己",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "nanyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "南药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "STEPHANIAE TETRANDRAE RADIX",
+      "family": "防己科"
+    },
+    "originDistribution": "浙江、安徽、湖北、湖南、江西等地",
+    "daoDiRegions": [
+      {
+        "place": "浙江、安徽、湖北、湖南、江西等地",
+        "province": "安徽"
+      },
+      {
+        "place": "广东、广西等地",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风止痛，清热利水。（《中华本草》）",
+    "indications": "主治湿热身痛，风湿痹痛，下肢水肿，小便不利，脚气肿痛。（《中华本草》） 用法用量 内服：煎肠，4.5-9g。（《中华本草》） 贮藏保存 贮干燥容器内，密闭。置阴凉干燥处。防霉，防蛀。（《中华本草》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "广防己为马兜铃科植物广防己Aristolochia fangchi Y. C. Wu ex L. D. Chow et S. M. Hwang的根。秋季采挖，洗净，切段，粗者纵剖为两半，晒干。主产于广东、广西等地。以广东高要、肇庆栽培的质量好。 来源 本品为马兜铃科植物广防己Aristolochia fangchi Y. C. Wu ex L. D. Chow et S. M. Hwang的根。（《中华本草》） 分布产地 主产于广东、广西等地。以广东高要、肇庆栽培的质量好。 入药部位 根及根茎 采收加工 秋季采挖，洗净，切段，粗者纵剖为两半，晒干。（《中",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-192.html",
+      "detailId": "192",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "finger-citron",
+    "name": "佛手",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "广药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "CITRI SARCODACTΜLIS FRUCTUS",
+      "family": "芸香科"
+    },
+    "originDistribution": "四川、广东、云南等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、广东、云南等地",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "舒肝理气，和胃止痛，燥湿化痰。（《中国药典2015》）",
+    "indications": "用于肝胃气滞，胸胁胀痛，胃脘痞满，食少呕吐，咳嗽痰多。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 阴虚有火，无气滞症状者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "佛手为芸香科植物佛手Citrus medica L. var. sarcodactylis Swingle的干燥果实。秋季果实尚未变黄或变黄时采收，纵切成薄片，晒干或低温干燥。分川佛手和广佛手。川佛手主产于四川、云南等地；广佛手主产于广东。 来源 本品为芸香科植物佛手Citrus medica L. var. sarcodactylis Swingle的干燥果实。（《中国药典2015》） 分布产地 分川佛手和广佛手。川佛手主产于四川、云南等地；广佛手主产于广东。 入药部位 果实及种子 采收加工 秋季果实尚未变黄或变黄时采收，纵切成薄片，晒干或低温干燥。（",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-206.html",
+      "detailId": "206",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "poria",
+    "name": "茯苓",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "PORIA",
+      "family": "多孔菌科"
+    },
+    "originDistribution": "云南、安徽、湖北等地",
+    "daoDiRegions": [
+      {
+        "place": "云南、安徽、湖北等地",
+        "province": "安徽"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "利水渗湿，健脾，宁心。（《中国药典2015》）",
+    "indications": "用于水肿尿少，痰饮眩悸，脾虚食少，便溏泄泻，心神不安，惊悸失眠。（《中国药典2015》） 用法用量 10-15g。（《中国药典2015》） 用药禁忌 阴虚而无湿热、虚寒滑精、气虚下陷者慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "茯苓为多孔菌科真菌茯苓Poria cocos (Schw.) Wolf的干燥菌核。多于7-9月采挖，挖出后除去泥沙，堆置&ldquo;发汗&rdquo;后，摊开晾至表面干燥，再&ldquo;发汗&rdquo;，反复数次至现皱纹、内部水分大部散失后，阴干，称为&ldquo;茯苓个&rdquo;；或将鲜茯苓按不同部位切制，阴干，分别称为&ldquo;茯苓块&rdquo;和&ldquo;茯苓片&rdquo;。主产于云南、安徽、湖北等地。 来源 本品为多孔菌科真菌茯苓Poria cocos (Schw.) Wolf的干燥菌核。（《中国药典2015》） 分布产地 ",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-251.html",
+      "detailId": "251",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "radix-aconiti-carmichaeli",
+    "name": "附子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "ACONITI LATERALIS RADIX PRAEPARrKA",
+      "family": "毛茛科"
+    },
+    "originDistribution": "四川、陕西",
+    "daoDiRegions": [
+      {
+        "place": "四川、陕西",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "回阳救逆，补火助阳，散寒止痛。（《中国药典2015》）",
+    "indications": "用于亡阳虛脱，肢冷脉微，心阳不足，胸痹心痛，虛寒吐泻，脘腹冷痛，肾阳虛衰，阳痿宫冷，阴寒水肿，阳虚外感，寒湿痹痛。（《中国药典2015》） 用法用量 3-15g，先煎，久煎。（《中国药典2015》） 用药禁忌 孕妇慎用；不宜与半夏、瓜蒌、瓜蒌子、瓜蒌皮、天花粉、川贝母、浙贝母、平贝母、伊贝母、湖北贝母、白蔹、白及同用。（《中国药典2015》） 贮藏保存 盐附子密闭，置阴凉干燥处；黑顺片及白附片置干",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "附子为毛茛科植物乌头Aconitum carmichaelii Debx.的子根的加工品。6月下旬至8月上旬采挖，除去母根、须根及泥沙，习称&ldquo;泥附子&rdquo;。主产于四川、陕西。 来源 本品为毛茛科植物乌头Aconitum carmichaelii Debx.的子根的加工品。（《中国药典2015》） 分布产地 主产于四川、陕西。 入药部位 根及根茎 采收加工 6月下旬至8月上旬采挖，除去母根、须根及泥沙，习称&ldquo;泥附子&rdquo;，加工成下列规格。 1.选择个大、均匀的泥附子，洗净，浸入胆巴的水溶液中过夜，再加食盐，继续浸泡，",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-222.html",
+      "detailId": "222",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "rubus-chingii",
+    "name": "覆盆子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "RUBI FRUCTUS",
+      "family": "蔷薇科"
+    },
+    "originDistribution": "浙江、福建",
+    "daoDiRegions": [
+      {
+        "place": "浙江、福建",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "益肾固精缩尿，养肝明目。（《中国药典2015》）",
+    "indications": "用于遗精滑精，遗尿尿频，阳痿早泄，目暗昏花。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 阴虚火旺，小便短赤者禁服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "覆盆子为蔷薇科植物华东覆盆子Rubus chingii Hu的干燥果实。夏初果实由绿变绿黄时采收，除去梗、叶，置沸水中略烫或略蒸，取出，干燥。主产于浙江、福建。 来源 本品为蔷薇科植物华东覆盆子Rubus chingii Hu的干燥果实。（《中国药典2015》） 分布产地 主产于浙江、福建。 入药部位 果实及种子 采收加工 夏初果实由绿变绿黄时采收，除去梗、叶，置沸水中略烫或略蒸，取出，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-164.html",
+      "detailId": "164",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "glycyrrhiza-uralensis",
+    "name": "甘草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "mengyao",
+      "qinyao",
+      "weiyao",
+      "guanyao",
+      "beiyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "蒙药",
+      "秦药",
+      "维药",
+      "关药",
+      "北药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "GLYCYRRHIZAE RADIX ET RHIZOMA",
+      "family": "豆科"
+    },
+    "originDistribution": "甘草主产于内蒙古、甘肃、新疆、宁夏",
+    "daoDiRegions": [
+      {
+        "place": "甘草主产于内蒙古、甘肃、新疆、宁夏",
+        "province": "内蒙古"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补脾益气，清热解毒，祛痰止咳，缓急止痛，调和诸药。（《中国药典2015》）",
+    "indications": "用于脾胃虚弱，倦怠乏力，心悸气短，咳嗽痰多，脘腹、四肢挛急疼痛，痈肿疮毒，缓解药物毒性、烈性。（《中国药典2015》） 用法用量 2-10g。（《中国药典2015》） 用药禁忌 不宜与海藻、京大戟、红大戟、甘遂、芫花同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "甘草为豆科植物甘草Glycyrrhiza uralensis Fisch.、胀果甘草Glycyrrhiza inflata Batal.或光果甘草Glycyrrhiza glabra L.的干燥根和根茎。春、秋二季采挖，除去须根，晒干。甘草主产于内蒙古、甘肃、新疆、宁夏等地，以内蒙古、甘肃、宁夏的质量最佳，新疆产量最大；光果甘草产于新疆；胀果甘草产于新疆、甘肃。 来源 本品为豆科植物甘草Glycyrrhiza uralensis Fisch.、胀果甘草Glycyrrhiza inflata Batal.或光果甘草Glycyrrhiza glabra L.",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-30.html",
+      "detailId": "30",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "nardostachys-jatamansi",
+    "name": "甘松",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zangyao",
+      "guanyao",
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "藏药",
+      "关药",
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "NARDOSTACHYOS RADIX ET RHIZOMA",
+      "family": "败酱科"
+    },
+    "originDistribution": "四川阿坝藏族自治州",
+    "daoDiRegions": [
+      {
+        "place": "四川阿坝藏族自治州",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "理气止痛，开郁醒脾；外用祛湿消肿。（《中国药典2015》）",
+    "indications": "用于脘腹胀满，食欲不振，呕吐；外用治牙痛，脚气肿毒。（《中国药典2015》） 用法用量 3-6g。外用适量，泡汤漱口或煎汤洗脚或研末敷患处。（《中国药典2015》） 用药禁忌 《本草从新》：&ldquo;辛香伐气，挟虚者忌之。&rdquo; 贮藏保存 置阴凉干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "甘松为败酱科植物甘松Nardostachys chinensis Bat.的干燥根及根茎。春、秋二季采挖，除去泥沙和杂质，晒干或阴干。主产于四川阿坝藏族自治州。 来源 本品为败酱科植物甘松Nardostachys chinensis Bat.的干燥根及根茎。（《中国药典2015》） 分布产地 主产于四川阿坝藏族自治州。 入药部位 根及根茎 采收加工 春、秋二季采挖，除去泥沙和杂质，晒干或阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-74.html",
+      "detailId": "74",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "dried-ginger",
+    "name": "干姜",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "ZINGIBERIS RHIZOMA",
+      "family": "姜科"
+    },
+    "originDistribution": "四川、贵州等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、贵州等地",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "温里药",
+    "efficacy": "温中散寒，回阳通脉，温肺化饮。（《中国药典2015》）",
+    "indications": "用于脘腹冷痛，呕吐泄泻，肢冷脉微，寒饮喘咳。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 阴虚内热、血热妄行者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "干姜为姜科植物姜Zingiber officinale Rosc.的干燥根茎。冬季采挖，除去须根和泥沙，晒干或低温干燥。趁鲜切片晒干或低温干燥者称为&ldquo;干姜片&rdquo;。主产于四川、贵州等地。 来源 本品为姜科植物姜Zingiber officinale Rosc.的干燥根茎。（《中国药典2015》） 分布产地 主产于四川、贵州等地。 入药部位 根及根茎 采收加工 冬季采挖，除去须根和泥沙，晒干或低温干燥。趁鲜切片晒干或低温干燥者称为&ldquo;干姜片&rdquo;。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-219.html",
+      "detailId": "219",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-302",
+    "name": "岗梅根",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "产区分布：广东",
+      "family": "冬青科"
+    },
+    "originDistribution": "广东",
+    "daoDiRegions": [
+      {
+        "place": "广东",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热；生津；散瘀；解毒。（《中华本草》）",
+    "indications": "感冒；头痛；眩晕；热病烦渴；痧气；热泻；肺痈；百日咳；咽喉肿痛；痔血；淋病；疔疮肿毒；跌打损伤。（《中华本草》） 用法用量 内服：煎汤，30-60g。外用：适量，捣敷。（《中华本草》） 用药禁忌 脾胃虚寒者慎用；孕妇慎用。（《中华本草》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "岗梅根为冬青科植物秤星树Ilex asprella (Hook. et Arn.) Champ. ex Benth.的根。产广东。秋季采挖根部，洗去泥土，晒干。 来源 本品为冬青科植物秤星树Ilex asprella (Hook. et Arn.) Champ. ex Benth.的根。（《中华本草》） 分布产地 产广东。 入药部位 根及根茎 采收加工 秋季采挖根部，洗去泥土，晒干。（《中华本草》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-302.html",
+      "detailId": "302",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "galangal-officinarum",
+    "name": "高良姜",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "ALPINIAE OFFICMARUM RHIZOMA",
+      "family": "姜科"
+    },
+    "originDistribution": "广东、海南、广西",
+    "daoDiRegions": [
+      {
+        "place": "广东、海南、广西",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "温里药",
+    "efficacy": "温胃止呕，散寒止痛。（《中国药典2015》）",
+    "indications": "用于脘腹冷痛，胃寒呕吐，嗳气吞酸。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 《本草经疏》：&ldquo;如胃火作呕，伤暑霍乱，火热注泻，心虚作痛，法咸忌之。&rdquo; 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "高良姜为姜科植物高良姜Alpinia officinarum Hance的干燥根茎。夏末秋初采挖，除去须根和残留的鳞片，洗净，切段，晒干。主产于广东、海南、广西。 来源 本品为姜科植物高良姜Alpinia officinarum Hance的干燥根茎。（《中国药典2015》） 分布产地 主产于广东、海南、广西。 入药部位 根及根茎 采收加工 夏末秋初采挖，除去须根和残留的鳞片，洗净，切段，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-301.html",
+      "detailId": "301",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "ligusticum-chuanxiong",
+    "name": "藁本",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "LIGUSTICI RHIZOMA ET RADIX",
+      "family": "伞形科"
+    },
+    "originDistribution": "四川、湖北、湖南、陕西、河北、辽宁",
+    "daoDiRegions": [
+      {
+        "place": "四川、湖北、湖南、陕西、河北、辽宁",
+        "province": "辽宁"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "祛风，散寒，除湿，止痛。（《中国药典2015》）",
+    "indications": "用于风寒感冒，巅顶疼痛，风湿痹痛。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 阴血虚及热证头痛禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "藁本为伞形科植物藁本Ligusticum sinense Oliv.或辽藁本Ligusticum jeholense (Nakai et Kitagawa) Nakai et Kitagawa的干燥根茎及根。秋季茎叶枯萎或次春出苗时采挖，除去泥沙，晒干或烘干。 藁本主产于四川、湖北、湖南、陕西；辽藁本主产于河北、辽宁。 来源 本品为伞形科植物藁本Ligusticum sinense Oliv.或辽藁本Ligusticum jeholense (Nakai et Kitagawa) Nakai et Kitagawa的干燥根茎及根。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-40.html",
+      "detailId": "40",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "pueraria-lobata",
+    "name": "葛根",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "PUERARIAE LOBAMLE RADIX",
+      "family": "豆科"
+    },
+    "originDistribution": "湖南、河南、广东、浙江、四川",
+    "daoDiRegions": [
+      {
+        "place": "湖南、河南、广东、浙江、四川",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "解肌退热，生津止渴，透疹，升阳止泻，通经活络，解酒毒。（《中国药典2015》）",
+    "indications": "用于外感发热头痛，项背强痛，口渴，消渴，麻疹不透，热痢，泄泻，眩晕头痛，中风偏瘫，胸痹心痛，酒毒伤中。（《中国药典2015》） 用法用量 10-15g。（《中国药典2015》） 用药禁忌 表虚多汗与阳虚上亢者慎用。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "葛根为豆科植物野葛Pueraria lobata (Willd.) Ohwi的干燥根。习称野葛。秋、冬二季采挖，趁鲜切成厚片或小块；干燥。主产于湖南、河南、广东、浙江、四川。 来源 本品为豆科植物野葛Pueraria lobata (Willd.) Ohwi的干燥根。习称野葛。（《中国药典2015》） 分布产地 主产于湖南、河南、广东、浙江、四川。 入药部位 根及根茎 采收加工 秋、冬二季采挖，趁鲜切成厚片或小块；干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-187.html",
+      "detailId": "187",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "uncaria-rhynchophylla",
+    "name": "钩藤",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "南药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "UNCARIAE RAMULUS CUM UNCIS",
+      "family": "茜草科"
+    },
+    "originDistribution": "广西、江西、四川、云南",
+    "daoDiRegions": [
+      {
+        "place": "广西、江西、四川、云南",
+        "province": "江西"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "息风定惊，清热平肝。（《中国药典2015》）",
+    "indications": "用于肝风内动，惊痫抽搐，高热惊厥，感冒夹惊，小儿惊啼，妊娠子痫，头痛眩晕。（《中国药典2015》） 用法用量 3-12g，后下。（《中国药典2015》） 用药禁忌 脾胃虚寒者慎服。（《中华本草》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "钩藤为茜草科植物钩藤Uncaria rhynchophylla (Miq.) Miq. ex Havil.、大叶钩藤Uncaria macrophylla Wall.、毛钩藤Uncaria hirsuta Havil.、华钩藤Uncaria sinensis (Oliv.) Havil.或无柄果钩藤Uncaria sessilifructus Roxb.的干燥带钩茎枝。秋、冬二季采收，去叶，切段，晒干。主产于广西、江西、四川、云南、湖南、浙江、福建、海南以及安徽、广东等地。 来源 本品为茜草科植物钩藤Uncaria rhynchophylla (Miq.",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-170.html",
+      "detailId": "170",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cibotium-barometz",
+    "name": "狗脊",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "CIBOTII RHIZOMA",
+      "family": "蚌壳蕨科"
+    },
+    "originDistribution": "福建、四川",
+    "daoDiRegions": [
+      {
+        "place": "福建、四川",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风湿，补肝肾，强腰膝。（《中国药典2015》）",
+    "indications": "用于风湿痹痛，腰膝酸软，下肢无力。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 肾虚有热，小水不利，或短涩赤黄，口苦舌干，均禁之。（《中药大辞典》） 贮藏保存 置通风干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "狗脊为蚌壳蕨科植物金毛狗脊Cibotium barometz (L. ) J. Sm.的干燥根茎。秋、冬二季采挖，除去泥沙，干燥；或去硬根、叶柄及金黄色绒毛，切厚片，干燥，为&ldquo;生狗脊片&rdquo;；蒸后晒至六、七成干，切厚片，干燥，为&ldquo;熟狗脊片&rdquo;。主产于福建、四川。 来源 本品为蚌壳蕨科植物金毛狗脊Cibotium barometz (L. ) J. Sm.的干燥根茎。（《中国药典2015》） 分布产地 主产于福建、四川。 入药部位 根及根茎 采收加工 秋、冬二季采挖，除去泥沙，干燥；或去硬根、叶柄及金黄色绒毛，切厚",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-194.html",
+      "detailId": "194",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "goji-berry",
+    "name": "枸杞子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "LYCII FRUCTUS",
+      "family": "茄科"
+    },
+    "originDistribution": "宁夏",
+    "daoDiRegions": [
+      {
+        "place": "宁夏",
+        "province": "宁夏"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "滋补肝肾，益精明目。（《中国药典2015》）",
+    "indications": "用于虚劳精亏，腰膝酸痛，眩晕耳鸣，阳萎遗精，内热消渴，血虚萎黄，目昏不明。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 脾虚便溏者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防闷热，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "枸杞子为茄科植物宁夏枸杞Lycium barbarum L.的干燥成熟果实。夏、秋二季果实呈红色时采收，热风烘干，除去果梗。或晾至皮皱后，晒干，除去果梗。主产于宁夏。 来源 本品为茄科植物宁夏枸杞Lycium barbarum L.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于宁夏。 入药部位 果实及种子 采收加工 夏、秋二季果实呈红色时采收，热风烘干，除去果梗，或晾至皮皱后，晒干，除去果梗。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-317.html",
+      "detailId": "317",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "drynaria-fortunei",
+    "name": "骨碎补",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "DRYNARIAE RHIZOMA",
+      "family": "槲蕨科"
+    },
+    "originDistribution": "湖南、浙江、广西、江西，以湖南产量大",
+    "daoDiRegions": [
+      {
+        "place": "湖南、浙江、广西、江西，以湖南产量大",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "疗伤止痛，补肾强骨。外用消风祛斑。（《中国药典2015》） 补肾强骨，活血止痛。（《中华本草》）",
+    "indications": "用于跌扑闪挫，筋骨折伤，肾虚腰痛，筋骨痿软，耳鸣耳聋，牙齿松动；外治斑秃，白癜风。（《中国药典2015》） 主治肾虚腰痛，足膝痿弱，耳鸣耳聋，牙痛，久泄，遗尿，跌打骨折及斑秃。（《中华本草》） 用法用量 3-9g。（《中国药典2015》） 内服：煎汤，10-20g；或入丸、散。外用： 适量，捣烂敷或晒干研末敷；也可浸酒搽。（《中华本草》） 用药禁忌 阴虚内热及无瘀血者慎服。（《中华本草》） 贮藏保",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "骨碎补为水龙骨科植物槲蕨Drynaria roosii Nakaike的干燥根茎。全年均可采挖，除去泥沙，干燥，或再燎去茸毛（鳞片）。主产于湖南、浙江、广西、江西，以湖南产量大。 来源 本品为水龙骨科植物槲蕨Drynaria roosii Nakaike的干燥根茎。（《中国药典2015》） 本品为槲蕨科植物槲蕨Drynaria roosii Nakaike、秦岭槲蕨Drynaria sinica Diels及光叶槲蕨Drynaria propinqua (Wall. ex Mett.) J. Sm. ex Bedd.、崖姜蕨Pseudodrynaria ",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-140.html",
+      "detailId": "140",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "trichosanthes-fruit",
+    "name": "瓜蒌",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "TRICHOSANTHIS FRUCTUS",
+      "family": "葫芦科"
+    },
+    "originDistribution": "山东、河南、河北",
+    "daoDiRegions": [
+      {
+        "place": "山东、河南、河北",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "清热涤痰，宽胸散结，润燥滑肠。（《中国药典2015》）",
+    "indications": "用于肺热咳嗽，痰浊黄稠，胸痹心痛，结胸痞满，乳痈，肺痈，肠痈，大便秘结。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、草乌、制草乌、附子同用。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "瓜蒌为葫芦科植物栝楼Trichosanthes kirilowii Maxim.或双边栝楼Trichosanthes rosthornii Harms的干燥成熟果实。秋季果实成熟时，连果梗剪下，置通风处阴干。栝楼主产于山东、河南、河北，以山东肥城、长清、淄博所产瓜蒌质量佳；双边栝楼主产于四川。 来源 本品为葫芦科植物栝楼Trichosanthes kirilowii  Maxim.或双边栝楼Trichosanthes rosthornii  Harms的干燥成熟果实。（《中国药典2015》） 分布产地 栝楼主产于山东、河南、河北，以山东肥城、长清、淄博所",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-104.html",
+      "detailId": "104",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "trichosanthes-peel",
+    "name": "瓜蒌皮",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "TRICHOSANTHIS PERICARPIUM",
+      "family": "葫芦科"
+    },
+    "originDistribution": "山东、安徽、河南",
+    "daoDiRegions": [
+      {
+        "place": "山东、安徽、河南",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "清热化痰，利气宽胸。（《中国药典2015》）",
+    "indications": "用于痰热咳嗽，胸闷胁痛。（《中国药典2015》） 用法用量 6-10g。（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、草乌、制草乌、附子同用。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "瓜蒌皮为葫芦科植物栝楼Trichosanthes kirilowii Maxim.或双边栝楼Trichosanthes rosthornii Harms的干燥成熟果皮。秋季采摘成熟果实，剖开，除去果瓤及种子，阴干。主产于山东、安徽、河南、浙江等地。以山东长清等地为道地产区。 来源 本品为葫芦科植物栝楼Trichosanthes kirilowii Maxim.或双边栝楼Trichosanthes rosthornii Harms的干燥成熟果皮。（《中国药典2015》） 分布产地 主产于山东、安徽、河南、浙江等地。以山东长清等地为道地产区。 入药部位 果实",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-101.html",
+      "detailId": "101",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "trichosanthes-seed",
+    "name": "瓜蒌子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "TRICHOSANTHIS SEMEN",
+      "family": "葫芦科"
+    },
+    "originDistribution": "山东、山西、河北",
+    "daoDiRegions": [
+      {
+        "place": "山东、山西、河北",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "润肺化痰，滑肠通便。（《中国药典2015》）",
+    "indications": "用于燥咳痰黏，肠燥便秘。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、草乌、制草乌、附子同用。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "瓜蒌子为葫芦科植物栝楼Trichosanthes kirilowii Maxim.或双边栝楼Trichosanthes rosthornii Harms的干燥成熟种子。秋季采摘成熟果实，剖开，取出种子，洗净，晒干。主产于山东、山西、河北、浙江、江苏等地。以山东为道地产区。 来源 本品为葫芦科植物栝楼Trichosanthes kirilowii Maxim.或双边栝楼Trichosanthes rosthornii Harms的干燥成熟种子。（《中国药典2015》） 分布产地 主产于山东、山西、河北、浙江、江苏等地。以山东为道地产区。 入药部位 果实及种",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-102.html",
+      "detailId": "102",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "phellodendron-amurense",
+    "name": "关黄柏",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "PHELLODENDRI AMURENSIS CORTEX",
+      "family": "芸香科"
+    },
+    "originDistribution": "辽宁、吉林、河北",
+    "daoDiRegions": [
+      {
+        "place": "辽宁、吉林、河北",
+        "province": "吉林"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "关黄柏：清热燥湿，泻火除蒸，解毒疗疮。 盐关黄柏：滋阴降火。（《中国药典2015》）",
+    "indications": "关黄柏：用于湿热泻痢，黄疸尿赤，带下阴痒，热淋涩痛，脚气痿蹙，骨蒸劳热，盗汗，遗精，疮疡肿毒，湿疹湿疮。 盐关黄柏：用于阴虚火旺，盗汗骨蒸。（《中国药典2015》） 用法用量 3-12g，外用适量。（《中国药典2015》） 贮藏保存 置通风干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "来源 本品为芸香科植物黄檗Phellodendron amurense Rupr.的干燥树皮。（《中国药典2015》） 分布产地 主产于辽宁、吉林、河北。 入药部位 皮 采收加工 剥取树皮，除去粗皮，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-375.html",
+      "detailId": "375",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "hypericum-perforatum",
+    "name": "贯叶金丝桃",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "beiyao",
+      "huaiyao",
+      "nanyao",
+      "chuanyao",
+      "guiyao",
+      "huaiyao-huai",
+      "qinyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "北药",
+      "怀药",
+      "南药",
+      "川药",
+      "贵药",
+      "淮药",
+      "秦药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "HYPERICI PERFORATI HERBA",
+      "family": "藤黄科（山竹子科）"
+    },
+    "originDistribution": "河北、山西、陕西、甘肃",
+    "daoDiRegions": [
+      {
+        "place": "河北、山西、陕西、甘肃",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "开窍药",
+    "efficacy": "疏肝解郁，清热利湿，消肿通乳。（《中国药典2015》）",
+    "indications": "用于肝气郁结，情志不畅，心胸郁闷，关节肿痛，乳痈，乳少。（《中国药典2015》） 用法用量 2～3g。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "贯叶金丝桃为藤黄科植物贯叶金丝桃Hypericum perforatum L.的干燥地上部分。夏、秋二季开花时采割，阴干或低温烘干。产河北、陕西、江苏、江西、河南、四川及贵州。 来源 为藤黄科植物贯叶金丝桃Hypericum perforatum L.的干燥地上部分。（《中国药典2015》） 分布产地 产河北、山西、陕西、甘肃、新疆、山东、江苏、江西、河南、湖北、湖南、四川及贵州。 入药部位 全草 采收加工 夏、秋二季开花时采割，阴干或低温烘干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-106.html",
+      "detailId": "106",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "pogostemon-cablin",
+    "name": "广藿香",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "POGOSTEMONIS HERBA",
+      "family": "唇形科"
+    },
+    "originDistribution": "广东、海南等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、海南等地",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "化湿药",
+    "efficacy": "芳香化浊，和中止呕，发表解暑。（《中国药典2015》）",
+    "indications": "用于湿浊中阻，脘痞呕吐，暑湿表证，湿温初起，发热倦怠，胸闷不舒，寒湿闭暑，腹痛吐泻，鼻渊头痛。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 阴虚者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "广藿香为唇形科植物广藿香Pogostemon cablin ( Blanco) Benth.的干燥地上部分。枝叶茂盛时采割，日晒夜闷，反复至干。主产于广东、海南等地。以广州市郊石牌产的广藿香质量优。 来源 本品为唇形科植物多年生草本植物广藿香Pogostemon cablin (Blanco) Bent.的干燥地上部分。（《中国药典2015》） 分布产地 主产于广东、海南等地。以广州市郊石牌产的广藿香质量最优。 入药部位 全草 采收加工 枝叶茂盛时采割，日晒夜闷，反复至干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-308.html",
+      "detailId": "308",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "desmodium-styracifolium",
+    "name": "广金钱草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "DESMODII STYRACIFOLII HERBA",
+      "family": "豆科"
+    },
+    "originDistribution": "广东",
+    "daoDiRegions": [
+      {
+        "place": "广东",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "利湿退黄，利尿通淋。（《中国药典2015》）",
+    "indications": "用于黄疸尿赤，热淋，石淋，小便涩病，水肿尿少。（《中国药典2015》） 用法用量 15-30g。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "广金钱草为豆科植物广金钱草Desmodium styracifolium (Osbeck) Merr.的干燥地上部分。夏、秋二季采割，除去杂质，晒干。主产于广东。 来源 本品为豆科植物广金钱草Desmodium styracifolium (Osbeck) Merr.的干燥地上部分。（《中国药典2015》） 分布产地 主产于广东。 入药部位 全草 采收加工 夏、秋二季采割，除去杂质，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-280.html",
+      "detailId": "280",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "ziziphus-mongolica",
+    "name": "广枣",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zangyao",
+      "guanyao",
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "藏药",
+      "关药",
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "CHOEROSPONDIATIS FRUCTUS",
+      "family": "漆树科"
+    },
+    "originDistribution": "浙江、福建、湖北、湖南",
+    "daoDiRegions": [
+      {
+        "place": "浙江、福建、湖北、湖南",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "行气活血，养心，安神。（《中国药典2015》）",
+    "indications": "用于气滞血瘀，胸痹作痛，心悸气短，心神不安。（《中国药典2015》） 用法用量 1.5-2.5g。（《中国药典2015》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "广枣系蒙古族习用药材。为漆树科植物南酸枣Choerospondias axillaris (Roxb.) Burtt et Hill.的干燥成熟果实。秋季果实成熟时采收，除去杂质，干燥。产于浙江、福建、湖北、湖南、广东、广西、云南、贵州、四川等地。 来源 本品系蒙古族习用药材。为漆树科植物南酸枣Choerospondias axillaris (Roxb.) Burtt et Hill.的干燥成熟果实。（《中国药典2015》） 分布产地 产于浙江、福建、湖北、湖南、广东、广西、云南、贵州、四川等地。 入药部位 果实及种子 采收加工 秋季果实成熟时采收，除",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-77.html",
+      "detailId": "77",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "chinemys-reevesii",
+    "name": "龟甲",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "TESTUDINIS CARAPACIS ET PLASTRI",
+      "family": "动物药"
+    },
+    "originDistribution": "安徽、湖北、湖南、江苏、浙江",
+    "daoDiRegions": [
+      {
+        "place": "安徽、湖北、湖南、江苏、浙江",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "滋阴潜阳，益肾强骨，养血补心，固经止崩。（《中国药典2015》）",
+    "indications": "用于阴虚潮热，骨蒸盗汗，头晕目眩，虚风内动，筋骨痿软，心虚健忘，崩漏经多。（《中国药典2015》） 用法用量 9-24g，先煎。（《中国药典2015》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "龟甲为龟科动物乌龟Chinemys reevesii (Gray)的背甲及腹甲。全年均可捕捉，以秋、冬二季为多，捕捉后杀死，或用沸水烫死，剩取背甲和腹甲，除去残肉，晒干。主产于安徽、湖北、湖南、江苏、浙江。 来源 本品为龟科动物乌龟Chinemys reevesii (Gray)的背甲及腹甲。（《中国药典2015》） 分布产地 主产于安徽、湖北、湖南、江苏、浙江。 入药部位 动物 采收加工 全年均可捕捉，以秋、冬二季为多，捕捉后杀死，或用沸水烫死，剩取背甲和腹甲，除去残肉，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-355.html",
+      "detailId": "355",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "euonymus-alatus",
+    "name": "鬼箭羽",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "EUONYMI ALATI CAULIS",
+      "family": "卫矛科"
+    },
+    "originDistribution": "河南、湖北、河北、浙江",
+    "daoDiRegions": [
+      {
+        "place": "河南、湖北、河北、浙江",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "破血，通经，杀虫。（《浙江省中药炮制规范2015年版》） 破血通经，解毒消肿，杀虫。（《湖南省中药材标准2009版》）",
+    "indications": "用于妇女经闭，产后瘀血腹痛，虫积腹痛。（《浙江省中药炮制规范2015年版》） 用于妇女经闭，产后瘀血腹痛，跌打损伤，虫积腹痛。（《湖南省中药材标准2009版》） 用法用量 4.5-9g。（《浙江省中药炮制规范2015年版》） 4-9g。（《湖南省中药材标准2009版》） 用药禁忌 孕妇忌服。（《浙江省中药炮制规范2015年版》） 孕妇、气虚崩漏者禁服。（《湖南省中药材标准2009版》） 贮藏保存 ",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "鬼箭羽为卫矛科植物卫矛Euonymus alatus (Thunb.) Sieb.的干燥茎的翅状物。夏、秋二季采收，干燥。产于河南、湖北、河北、浙江、安徽、江苏。 来源 本品为卫矛科植物卫矛Euonymus alatus (Thunb.) Sieb.的干燥茎的翅状物。（《浙江省中药炮制规范2015年版》） 本品为卫矛科植物卫矛Euonymus alatus (Thunberg) Siebold的干燥带有翅状物的枝条或翅状物。（《湖南省中药材标准2009版》） 分布产地 产于河南、湖北、河北、浙江、安徽、江苏。 入药部位 茎木 采收加工 夏、秋二季采收，干",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-109.html",
+      "detailId": "109",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-383",
+    "name": "哈蟆油",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "RANAE OVIDUCTUS",
+      "family": "动物药"
+    },
+    "originDistribution": "黑龙江、吉林、辽宁、四川、内蒙古等地",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江、吉林、辽宁、四川、内蒙古等地",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肾益精，养阴润肺。（《中国药典2015》）",
+    "indications": "用于病后体弱，神疲乏力，心悸失眠，盗汗，痨嗽咳血。（《中国药典2015》） 用法用量 5-15g，用水浸泡，炖服，或作丸剂服。（《中国药典2015》） 用药禁忌 外感初起及纳少便溏者慎服。（《中药大辞典》） 贮藏保存 置通风干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "哈蟆油为蛙科动物中国林蛙Rana temporaria chensinensis David雌蛙的输卵管，经采制干燥而得。 产黑龙江、吉林、辽宁、四川、内蒙古等地。 来源 本品为蛙科动物中国林蛙Rana temporaria chensinensis David雌蛙的输卵管，经采制干燥而得。（《中国药典2015》） 分布产地 产黑龙江、吉林、辽宁、四川、内蒙古等地。 入药部位 动物",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-383.html",
+      "detailId": "383",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "gecko",
+    "name": "蛤蚧",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "GECKO",
+      "family": "功 效：补虚药"
+    },
+    "originDistribution": "广西、广东",
+    "daoDiRegions": [
+      {
+        "place": "广西、广东",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肺益肾，纳气定喘，助阳益精。（《中国药典2015》）",
+    "indications": "用于肺肾不足，虚喘气促，劳嗽咳血，阳痿，遗精。（《中国药典2015》） 用法用量 3-6g，多入丸散或酒剂。（《中国药典2015》） 用药禁忌 外感风寒喘嗽及阳虚火旺者禁服。（《中华本草》） 贮藏保存 用木箱严密封装，常用花椒拌存，置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "蛤蚧为壁虎科动物蛤蚧Gekko gecko Linnaeus的干燥体。全年均可捕捉，除去内脏，拭净，用竹片撑开，使全体扁平顺直，低温干燥。主产于广西、广东。 来源 本品为壁虎科动物蛤蚧Gekko gecko Linnaeus的干燥体。（《中国药典2015》） 分布产地 主产于广西、广东。 入药部位 动物 采收加工 全年均可捕捉，除去内脏，拭净，用竹片撑开，使全体扁平顺直，低温干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-294.html",
+      "detailId": "294",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "syngnathus",
+    "name": "海龙",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "haiyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "海药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "SYNGNATHUS",
+      "family": "功 效：补虚药"
+    },
+    "originDistribution": "广东、海南",
+    "daoDiRegions": [
+      {
+        "place": "广东、海南",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "温肾壮阳，散结消肿。（《中国药典2015》）",
+    "indications": "用于肾阳不足，阳痿遗精，癥瘕积聚，瘰疬痰核，跌扑损伤；外治痈肿疔疮。（《中国药典2015》） 用法用量 3-9g。外用适量，研末敷患处。（《中国药典2015》） 用药禁忌 《广西药用动物》；&ldquo;阴虚内热和外感胃弱的人忌用。&rdquo; 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "海龙为海龙科动物刁海龙Solenognathus hardwickii（Gray）、拟海龙Synghathoides biafuleatus（Bloch）或尖海龙Syngnathus acus Linnaeus的干燥体。多于夏、秋二季捕捞，刁海龙、拟海龙除去皮膜，洗净，晒干；尖海龙直接洗净，晒干。刁海龙主产广东、海南岛沿海；拟海龙主产福建、广东沿海；尖海龙主产山东沿海。 来源 本品为海龙科动物刁海龙Solenognathus hardwickii（Gray）、拟海龙Synghathoides biafuleatus（Bloch）或尖海龙Syngnathu",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-295.html",
+      "detailId": "295",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-391",
+    "name": "海麻雀",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "haiyao"
+    ],
+    "daoDiSystems": [
+      "海药"
+    ],
+    "taxonomy": {
+      "latinName": "PEGASUS",
+      "family": "动物药"
+    },
+    "originDistribution": "我国南海、东海",
+    "daoDiRegions": [
+      {
+        "place": "我国南海、东海",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "化痰止咳，消瘿散结，消肿解毒。（《广东省中药材标准》2011年）",
+    "indications": "小儿痰咳嗽，瘿瘤痰核，麻疹，麻疹后腹泻。（《广东省中药材标准》2011年） 用法用量 10-15g。（《广东省中药材标准》2011年） 贮藏保存 置通风干燥处，防虫蛀。（《广东省中药材标准》2011年）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "海麻雀为海蛾鱼科动物海蛾Pegasus laternarius Cuvier的干燥全体。主产于我国南海、东海。全年可采捕，捕后用淡水洗净，晒干。 来源 本品为海蛾鱼科动物海蛾Pegasus laternarius Cuvier的干燥全体。（《广东省中药材标准》2011年） 分布产地 主产于我国南海、东海。 入药部位 动物 采收加工 全年可采捕，捕后用淡水洗净，晒干。（《广东省中药材标准》2011年）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-391.html",
+      "detailId": "391",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "hippocampus",
+    "name": "海马",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "haiyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "海药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "HIPPOCAMPUS",
+      "family": "功 效：补虚药"
+    },
+    "originDistribution": "广东、福建、台湾",
+    "daoDiRegions": [
+      {
+        "place": "广东、福建、台湾",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "温肾壮阳，散结消肿。（《中国药典2015》）",
+    "indications": "用于阳痿，遗尿，肾虚作喘，癥瘕积聚，跌扑损伤；外治痈肿疔疮。（《中国药典2015》） 用法用量 3-9g。外用适量，研末敷患处。（《中国药典2015》） 用药禁忌 孕妇及阴虚阳亢者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "海马为海龙科动物线纹海马Hippocampus kelloggi Jordan et Snyder、刺海马Hippocampus histrix Kaup、大海马Hippocampus kuda Bleeker、三斑海马Hippocampus trimaculatus Leach 或小海马（海蛆）Hippocampus japonicus Kaup的干燥体。夏、秋二季捕捞，洗净，晒干；或除去皮膜和内脏，晒干。线纹海马主产广东、福建、台湾等沿海地区；刺海马主产广东、福建、浙江等沿海地区；大海马主产广东、海南等沿海地区；三斑海马主产福建、广东等沿海地区；小海",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-298.html",
+      "detailId": "298",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "sepia-bone",
+    "name": "海螵蛸",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao",
+      "haiyao"
+    ],
+    "daoDiSystems": [
+      "浙药",
+      "海药"
+    ],
+    "taxonomy": {
+      "latinName": "SEPIAE ENDOCONCHA",
+      "family": "功 效： 收涩药"
+    },
+    "originDistribution": "辽宁、山东、江苏、福建、广西、广东等",
+    "daoDiRegions": [
+      {
+        "place": "辽宁、山东、江苏、福建、广西、广东等",
+        "province": "辽宁"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "收敛止血，涩精止带，制酸止痛，收湿敛疮。（《中国药典2015》）",
+    "indications": "用于吐血衄血，崩漏便血，遗精滑精，赤白带下，胃痛吞酸；外治损伤出血，湿疹湿疮，溃疡不敛。（《中国药典2015》） 用法用量 5-10g。外用适量，研末敷患处。（《中国药典2015》） 用药禁忌 阴虚多热者不宜多服；久服易致便秘，可适当配润肠药同用。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "海螵蛸为乌贼科动物无针乌贼Sepiella maindroni de Rochebrune或金乌贼Sepia esculenta Hoyle的干燥内壳。收集乌贼鱼的骨状内壳，洗净，干燥。无针乌贼主产浙江、福建沿海；金乌贼主产辽宁、山东、江苏、福建、广西、广东等地沿海。 来源 本品为乌贼科动物无针乌贼Sepiella maindroni de Rochebrune或金乌贼Sepia esculenta Hoyle的干燥内壳。（《中国药典2015》） 分布产地 无针乌贼主产浙江、福建沿海；金乌贼主产辽宁、山东、江苏、福建、广西、广东等地沿海。 入药部位 动物",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-161.html",
+      "detailId": "161",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "erythrina-bark",
+    "name": "海桐皮",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "CORTEX ERYTHRINAE SEU KALOPANACIS",
+      "family": "豆科"
+    },
+    "originDistribution": "广东、贵州、云南、浙江",
+    "daoDiRegions": [
+      {
+        "place": "广东、贵州、云南、浙江",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风湿，通络，止痛。（《浙江省中药炮制规范2015年版》） 祛风湿，通经络。（《湖南省中药材标准2009版》） 祛风除湿，舒筋通络，杀虫止痒。（《中药大辞典》）",
+    "indications": "用于腰膝肩臂疼痛；外治皮肤湿疹。（《浙江省中药炮制规范2015年版》） 用于风湿性关节炎，腰膝酸痛。外治皮肤湿疹。（《湖南省中药材标准2009版》） 主治风湿痹痛，肢节拘挛，跌打损伤，疥癣，湿疹。（《中药大辞典》） 用法用量 3-9g；外用适量。（《浙江省中药炮制规范2015年版》） 9-15g。外用适量。（《湖南省中药材标准2009版》） 内服：煎汤，6-12g；或浸酒。外用：煎水熏洗；或浸酒搽",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "海桐皮为豆科植物刺桐Erythrina variegata Linn.、乔木刺桐Erythrina arborescens Roxb.或芸香科植物樗叶花椒Zanthoxylum ailanthoides Sieb. et. Zucc.、朵椒Zanthoxylum molle Rehd.的干燥茎皮。后二者习称&ldquo;浙桐皮&rdquo;。初夏采剥具&ldquo;钉刺&rdquo;者，干燥。主产广东、贵州、云南、浙江。 来源 本品为豆科植物刺桐Erythrina variegata Linn.、乔木刺桐Erythrina arborescens Rox",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-273.html",
+      "detailId": "273",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "sargassum-fusiforme",
+    "name": "海藻",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "haiyao"
+    ],
+    "daoDiSystems": [
+      "海药"
+    ],
+    "taxonomy": {
+      "latinName": "SARGASSUM",
+      "family": "马尾藻科"
+    },
+    "originDistribution": "福建、浙江、广东",
+    "daoDiRegions": [
+      {
+        "place": "福建、浙江、广东",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "消痰软坚散结，利水消肿。（《中国药典2015》）",
+    "indications": "瘿瘤，瘰疬，睾丸肿痛，痰饮水肿。（《中国药典2015》） 用法用量 6～12g。（《中国药典2015》） 用药禁忌 不宜与甘草同用。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "海藻为马尾藻科植物海蒿子Sargassum pallidum (Turn.) C.Ag.或羊栖菜Sargassum fusiforme (Harv.) Setch.的干燥藻体。前者习称&ldquo;大叶海藻&rdquo;，后者习称&ldquo;小叶海藻&rdquo;。羊栖菜主产于福建、浙江、广东。海蒿子主产于山东、辽宁等地。夏、秋二季采捞，除去杂质，洗净，晒干。 来源 本品为马尾藻科植物海蒿子Sargassum pallidum (Turn.) C.Ag.或羊栖菜Sargassum fusiforme (Harv.) Setch.的干燥藻体。前者习称&l",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-390.html",
+      "detailId": "390",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "terminalia-chebula",
+    "name": "诃子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "CHEBULAE FRUCTUS",
+      "family": "使君子科"
+    },
+    "originDistribution": "云南",
+    "daoDiRegions": [
+      {
+        "place": "云南",
+        "province": "云南"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "涩肠止泻，敛肺止咳，降火利咽。（《中国药典2015》）",
+    "indications": "用于久泻久痢，便血脱肛，肺虚喘咳，久嗽不止，咽痛音哑。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 外邪未解，内有湿热积滞者慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "诃子为使君子科植物诃子Terminalia chebula Retz.或绒毛诃子Terminalia chebula Retz. var. tomentella (Kurz) C. B. Clarke的干燥成熟果实。秋、冬二季果实成熟时采收，除去杂质，晒干。主产于云南。 来源 本品为使君子科植物诃子Terminalia chebula Retz.或绒毛诃子Terminalia chebula Retz. var. tomentella (Kurz) C. B. Clarke的干燥成熟果实。（《中国药典2015》） 分布产地 主产于云南。 入药部位 果实及",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-35.html",
+      "detailId": "35",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "polygonum-multiflorum-raw",
+    "name": "何首乌",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao",
+      "guiyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "广药",
+      "贵药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "POLYGONI MULTIFLORI RADIX",
+      "family": "蓼科"
+    },
+    "originDistribution": "河南、湖北、广西、广东、贵州、四川、江苏",
+    "daoDiRegions": [
+      {
+        "place": "河南、湖北、广西、广东、贵州、四川、江苏",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "解毒，消痈，截疟，润肠通便。（《中国药典2015》）",
+    "indications": "用于疮痈，瘰疬，风疹瘙痒，久疟体虛，肠燥便秘。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 大便溏泄及有湿痰者慎服，忌铁器。（《中药大辞典》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "何首乌为蓼科植物何首乌Fallopia multiflora (Thunb.) Harald.的干燥块根。秋、冬二季叶枯萎时采挖，削去两端，洗净，个大的切成块，干燥。主产于河南、湖北、广西、广东、贵州、四川、江苏。 来源 本品为蓼科植物何首乌Fallopia multiflora (Thunb.) Harald.的干燥块根。（《中国药典2015》） 分布产地 主产于河南、湖北、广西、广东、贵州、四川、江苏。 入药部位 根及根茎 采收加工 秋、冬二季叶枯萎时采挖，削去两端，洗净，个大的切成块，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-254.html",
+      "detailId": "254",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "walnut",
+    "name": "核桃仁",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "JUGLANDIS SEMEN",
+      "family": "胡桃科"
+    },
+    "originDistribution": "全国多数地区均产，以河北产量大，山西汾阳所产品质佳",
+    "daoDiRegions": [
+      {
+        "place": "河北核桃仁",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肾，温肺，润肠。（《中国药典2015》）",
+    "indications": "用于肾阳不足，腰膝酸软，阳痿遗精，虚寒喘嗽，肠燥便秘。（《中国药典2015》） 用法用量 6-9g。（《中国药典2015》） 用药禁忌 痰火积热，阴虚火旺，以及大便溏泄者禁服。不可与浓茶同服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "核桃仁为胡桃科植物胡桃Juglans regia L.的干燥成熟种子。秋季果实成熟时采收，除去肉质果皮，晒干，再除去核壳和木质隔膜。全国多数地区均产，以河北产量最大，山西汾阳所产品质佳。 来源 本品为胡桃科植物胡桃Juglans regia L.的干燥成熟种子。（《中国药典2015》） 分布产地 全国多数地区均产，以河北产量最大，山西汾阳所产品质佳。 入药部位 果实及种子 采收加工 秋季果实成熟时采收，除去肉质果皮，晒干，再除去核壳和木质隔膜。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-103.html",
+      "detailId": "103",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "nigella-sativa",
+    "name": "黑种草子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "huaiyao-huai",
+      "weiyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "淮药",
+      "维药"
+    ],
+    "taxonomy": {
+      "latinName": "NIGELLAE SEMEN",
+      "family": "毛茛科"
+    },
+    "originDistribution": "新疆",
+    "daoDiRegions": [
+      {
+        "place": "新疆",
+        "province": "新疆"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "补肾健脑，通经，通乳，利尿。（《中国药典2015》）",
+    "indications": "用于耳鸣健忘，经闭乳少，热淋，石淋。（《中国药典2015》） 用法用量 2-6g。（《中国药典2015》） 用药禁忌 孕妇及热性病患者禁用。（《中国药典2015》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "黑种草子为系维吾尔族习用药材。为毛茛科植物腺毛黑种草Nigella glandulifera Freyn et Sint.的干燥成熟种子。夏、秋二季果实成熟时采割植株，晒干，打下种子，除去杂质，晒干。产于新疆。 来源 本品为毛茛科植物腺毛黑种草Nigella glandulifera Freyn et Sint.的干燥成熟种子。（《中国药典2015》） 分布产地 产于新疆。 入药部位 果实及种子 采收加工 夏、秋二季果实成熟时采割植株，晒干，打下种子，除去杂质，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-359.html",
+      "detailId": "359",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "panax-ginseng-red",
+    "name": "红参",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "GINSENG RADIX ET RHIZOMA RUBRA",
+      "family": "五加科"
+    },
+    "originDistribution": "吉林",
+    "daoDiRegions": [
+      {
+        "place": "吉林",
+        "province": "吉林"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "大补元气，复脉固脱，益气摄血。（《中国药典2015》）",
+    "indications": "用于体虚欲脱，肢冷脉微，气不摄血，崩漏下血。（《中国药典2015》） 用法用量 3-9g，另煎兑服。（《中国药典2015》） 用药禁忌 不宜与藜芦、五灵脂同用。（《中国药典2015》） 贮藏保存 置阴凉干燥处，密闭，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "红参为五加科植物人参Panax ginseng C. A. Mey.的栽培品经蒸制后的干燥根和根茎。秋季采挖，洗净，蒸制后，干燥。主产于吉林省抚松、辑安、靖宇、敦化、安图。 来源 本品为五加科植物人参Panax ginseng C. A. Mey.的栽培品经蒸制后的干燥根和根茎。（《中国药典2015》） 分布产地 主产于吉林省抚松、辑安、靖宇、敦化、安图。 入药部位 根及根茎 采收加工 秋季采挖，洗净，蒸制后，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-381.html",
+      "detailId": "381",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-271",
+    "name": "红豆蔻",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "GALANGAE FRUCTUS",
+      "family": "姜科"
+    },
+    "originDistribution": "广西、广东、海南等地",
+    "daoDiRegions": [
+      {
+        "place": "广西、广东、海南等地",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "消食药",
+    "efficacy": "散寒燥湿，醒脾消食。（《中国药典2015》）",
+    "indications": "用于脘腹冷痛，食积胀满，呕吐泄泻，饮酒过多。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 阴虚有热者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "红豆蔻为姜科植物大高良姜Alpinia galanga (L.) Willd.的干燥成熟果实。秋季果实变红时采收，除去杂质，阴干。主产于广西、广东、海南等地。 来源 本品为姜科植物大高良姜Alpinia galanga (L.) Willd.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于广西、广东、海南等地。 入药部位 果实及种子 采收加工 秋季果实变红时采收，除去杂质，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-271.html",
+      "detailId": "271",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "carthamus-tinctorius",
+    "name": "红花",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "怀药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "CARTHAMI FLOS",
+      "family": "菊科"
+    },
+    "originDistribution": "河南、四川、浙江等地",
+    "daoDiRegions": [
+      {
+        "place": "河南、四川、浙江等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血通经，散瘀止痛。（《中国药典2015》）",
+    "indications": "用于经闭，痛经，恶露不行，瘕瘕痞块，胸痹心痛，瘀滞腹痛，胸胁刺痛，跌扑损伤，疮疡肿痛。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "红花为菊科植物红花Carthamus tinctorius L.的干燥花。 夏季花由黄变红时采摘，阴干或晒干。主产于河南、四川、浙江等地，以四川、河南产量大。 来源 本品为菊科植物红花Carthamus tinctorius L.的干燥花。（《中国药典2015》） 分布产地 主产于河南、四川、浙江等地，以四川、河南产量最大。 入药部位 花 采收加工 夏季花由黄变红时采摘，阴干或晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-133.html",
+      "detailId": "133",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-316",
+    "name": "红芪",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guanyao",
+      "qinyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "秦药"
+    ],
+    "taxonomy": {
+      "latinName": "HEDYSARI RADIX",
+      "family": "豆科"
+    },
+    "originDistribution": "甘肃",
+    "daoDiRegions": [
+      {
+        "place": "甘肃",
+        "province": "甘肃"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补气升阳，固表止汗，利水消肿，生津养血，行滞通痹，托毒排脓，敛疮生肌。（《中国药典2015》）",
+    "indications": "用于气虚乏力，食少便溏，中气下陷，久泻脱肛，便血崩漏，表虚自汗，气虚水肿，内热消渴，血虚萎黄，半身不遂，痹痛麻木，痈疽难溃，久溃不敛。（《中国药典2015》） 用法用量 9-30g。（《中国药典2015》） 贮藏保存 置通风干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "红芪为豆科植物多序岩黄芪Hedysarum polybotrys Hand.-Mazz.的干燥根。春、秋二季采挖，除去须根和根头，晒干。主产于甘肃岷县、岩昌、武都、临潭等地。 来源 本品为豆科植物多序岩黄耆Hedysarum polybotrys Hand.-Mazz.的干燥根。（《中国药典2015》） 分布产地 主产于甘肃岷县、岩昌、武都、临潭等地。 入药部位 根及根茎 采收加工 春、秋二季采挖，除去须根和根头，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-316.html",
+      "detailId": "316",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "magnolia-officinalis",
+    "name": "厚朴",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "zheyao",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "浙药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "MAGNOLIAE OFFICINALIS CORTEX",
+      "family": "木兰科"
+    },
+    "originDistribution": "湖北、四川、浙江、安徽、浙江、福建等地。",
+    "daoDiRegions": [
+      {
+        "place": "湖北、四川、浙江、安徽、浙江、福建等地。",
+        "province": "安徽"
+      }
+    ],
+    "efficacyClass": "化湿药",
+    "efficacy": "燥湿消痰，下气除满。（《中国药典2015》）",
+    "indications": "用于湿滞伤中，脘痞吐泻，食积气滞，腹胀便秘，痰饮喘咳。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 气虚、津伤血枯者及孕妇慎用。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "厚朴为木兰科植物厚朴Magnolia officinalis Rehd. et Wils.或凹叶厚朴Magnolia officinalis Rehd. et Wils. subsp. biloba (Rehd. et Wils.) Law的干燥干皮、根皮及枝皮。4-6月剥取，根皮和枝皮直接阴干；干皮置沸水中微煮后，堆置阴湿处，&ldquo;发汗&rdquo;至内表面变紫褐色或棕褐色时，蒸软，取出，卷成筒状，干燥。主产于湖北、四川、浙江、安徽、浙江、福建等地。四川、湖北产者称&ldquo;川朴&rdquo;，质量较佳。 来源 本品为木兰科植物厚朴Magn",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-43.html",
+      "detailId": "43",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "picrorhiza-kurrooa",
+    "name": "胡黄连",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zangyao",
+      "guanyao",
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "藏药",
+      "关药",
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "PICRORHIZAE RHIZOMA",
+      "family": "玄参科"
+    },
+    "originDistribution": "西藏",
+    "daoDiRegions": [
+      {
+        "place": "西藏",
+        "province": "西藏"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "退虚热，除疳热，清湿热。（《中国药典2015》）",
+    "indications": "用于骨蒸潮热，小儿疳热，湿热泻痢，黄疸尿赤，痔疮肿痛。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 脾胃虚弱者慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "胡黄连为玄参科植物胡黄连Picrorhiza scrophulariiflora Pennell的干燥根茎。秋季采挖，除去须根和泥沙，晒干。主产于西藏。 来源 本品为玄参科植物胡黄连Picrorhiza scrophulariiflora Pennell的干燥根茎。（《中国药典2015》） 分布产地 主产于西藏。 入药部位 根及根茎 采收加工 秋季采挖，除去须根和泥沙，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-79.html",
+      "detailId": "79",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "pepper-spice",
+    "name": "胡椒",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "PIPERIS FRUCTUS",
+      "family": "胡椒科"
+    },
+    "originDistribution": "云南、海南、广西等地",
+    "daoDiRegions": [
+      {
+        "place": "云南、海南、广西等地",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "温里药",
+    "efficacy": "温中散寒，下气，消痰（《中国药典2015》）",
+    "indications": "用于胃寒呕吐，腹痛泄泻，食欲不振，癫痫痰多。（《中国药典2015》） 用法用量 0.6-1.5g，研粉吞服。外用适量。（《中国药典2015》） 用药禁忌 热病及阴虚有火者禁服，孕妇慎服。（《中药大辞典》） 贮藏保存 密闭，置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "胡椒为胡椒科植物胡椒Piper nigrum L.的干燥近成熟或成熟果实。秋末至次春果实呈暗绿色时采收，晒干，为黑胡椒；果实变红时采收，用水浸渍数日，擦去果肉，晒干，为白胡椒。原产于国外，现我国云南、海南、广西等地有产。 来源 本品为胡椒科植物胡椒Piper nigrum L.的干燥近成熟或成熟果实。（《中国药典2015》） 分布产地 原产于国外，现我国云南、海南、广西等地有产。 入药部位 果实及种子 采收加工 秋末至次春果实呈暗绿色时采收，晒干，为黑胡椒；果实变红时采收，用水浸渍数日，擦去果肉，晒干，为白胡椒。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-269.html",
+      "detailId": "269",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "trigonella-foenum",
+    "name": "胡芦巴",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "TRIGONELLAE SEMEN",
+      "family": "豆科"
+    },
+    "originDistribution": "安徽、四川、河南等地",
+    "daoDiRegions": [
+      {
+        "place": "安徽、四川、河南等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "温肾助阳，祛寒止痛。（《中国药典2015》）",
+    "indications": "用于肾阳不足，下元虚冷，小腹冷痛，寒疝腹痛，寒湿脚气。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 阴虚火旺或有湿热者慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "胡芦巴为豆科植物胡芦巴Trigonella foenum-graecum Linn.的干燥成熟种子。夏季果实成熟时采割植株，打下种子，除去杂质。主产于安徽、四川、河南等地。 来源 本品为豆科植物胡芦巴Trigonella foenum-graecum Linn.的干燥成熟种子。（《中国药典2015》） 分布产地 主产于安徽、四川、河南等地。 入药部位 果实及种子 采收加工 夏季果实成熟时采割植株，打下种子，除去杂质。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-216.html",
+      "detailId": "216",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-351",
+    "name": "胡桐泪",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "weiyao",
+      "guanyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "维药",
+      "关药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "RESINA POPULI EUPHRATICAE",
+      "family": "杨柳科"
+    },
+    "originDistribution": "新疆",
+    "daoDiRegions": [
+      {
+        "place": "新疆",
+        "province": "新疆"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，化痰软坚。（《中药大辞典》） 清热，化痰，软坚。（《安徽省中药饮片炮制规范2005版》）",
+    "indications": "主治咽喉肿痛，齿痛，牙疳，中耳炎，瘰疬，胃痛。（《中药大辞典》） 用于瘰疬结核，咽喉肿痛，齿痛，牙疳。（《安徽省中药饮片炮制规范2005版》） 用法用量 内服：煎汤，6-10g；或入丸、散。外用：煎水含漱；或研末撒。（《中药大辞典》） 1-1.5g；外用适量，煎水含漱或研末涂敷。（《安徽省中药饮片炮制规范2005版》） 用药禁忌 多服可致呕吐。脾胃虚寒者禁服。（《中药大辞典》） 贮藏保存 贮干燥容",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "胡桐泪为杨柳科植物胡杨Populus euphratica Oliv.的树脂流入土中，多年后形成的产物。全年均可采挖，除去泥沙、杂质，低温干燥。主产新疆。 来源 本品为杨柳科植物胡杨Populus euphratica Oliv.的树脂流入土中，多年后形成的产物。（《中药大辞典》） 本品为杨柳科植物胡杨Populus euphratica Oliv.的树脂流入土中，多年后形成的产物。（《安徽省中药饮片炮制规范2005版》） 分布产地 主产新疆。 入药部位 树脂 采收加工 多在冬季采收，干燥。（《中药大辞典》） 全年均可采挖，除去泥沙、杂质，低温干燥。（《",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-351.html",
+      "detailId": "351",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "fritillaria-hupehensis",
+    "name": "湖北贝母",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "FRITILLARIAE HUPEHENSIS BULBUS",
+      "family": "百合科"
+    },
+    "originDistribution": "湖北、湖南、四川",
+    "daoDiRegions": [
+      {
+        "place": "湖北、湖南、四川",
+        "province": "湖北"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "清热化痰，止咳，散结。（《中国药典2015》）",
+    "indications": "用于热痰咳嗽，瘰疬痰核，痈肿疮毒。（《中国药典2015》） 用法用量 3-9g，研粉冲服。（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、草乌、制草乌、附子同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "湖北贝母为百合科植物湖北贝母Fritillaria hupehensis Hsiao et K. C. Hsia的干燥鳞茎。夏初植株枯萎后采挖，用石灰水或清水浸泡，干燥。产湖北、湖南、四川。 来源 本品为百合科植物湖北贝母Fritillaria hupehensis Hsiao et K. C. Hsia的干燥鳞茎。（《中国药典2015》） 分布产地 产湖北、湖南、四川。 入药部位 根及根茎 采收加工 夏初植株枯萎后采挖，用石灰水或清水浸泡，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-348.html",
+      "detailId": "348",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "viscum-coloratum",
+    "name": "槲寄生",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "HERBA VITICIS NEGUNDO",
+      "family": "马鞭草科"
+    },
+    "originDistribution": "主产于长江以南各省，北达秦岭淮河",
+    "daoDiRegions": [
+      {
+        "place": "主产于长江以南各省，北达秦岭淮河",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "解表清热，利湿除痰，止咳平喘，理气止痛，截疟杀虫。（《广东省中药材标准第一册2004年版》）",
+    "indications": "用于感冒咳喘，肝病、脘满腹痛，泄泻痢疾，疟疾，蛲虫，外用治痈肿和疮癣。（《广东省中药材标准第一册2004年版》） 用法用量 根、茎15-30g，叶9-30g，果实3-9g，水煎服。外用适量。（《广东省中药材标准第一册2004年版》） 贮藏保存 置干燥处。（《广东省中药材标准第一册2004年版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "五指柑为马鞭草科植物黄荆Vitex negundo L.的干燥全草。四季均可采收，除去泥沙，根茎洗净，干燥。主产于长江以南各省，北达秦岭淮河。 来源 本品为马鞭草科植物黄荆Vitex negundo L.的干燥全草。（《广东省中药材标准第一册2004年版》） 分布产地 主产于长江以南各省，北达秦岭淮河。 采收加工 四季均可采收，除去泥沙，根茎洗净，干燥。（《广东省中药材标准第一册2004年版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-374.html",
+      "detailId": "374",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "polygonum-cuspidatum",
+    "name": "虎杖",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "POLYGONI CUSPIDATI RHIZOMA ET RADIX",
+      "family": "蓼科"
+    },
+    "originDistribution": "江苏、安徽、浙江、广东、广西、四川、贵州、云南等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏虎杖",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "利湿退黄，清热解毒，散瘀止痛，止咳化痰。（《中国药典2015》）",
+    "indications": "用于湿热黄疸，淋浊，带下，风湿痹痛，痈肿疮毒，水火烫伤，经闭，癥瘕，跌打损伤，肺热咳嗽。（《中国药典2015》） 用法用量 9-15g。外用适量，制成煎液或油膏涂敷。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "虎杖为蓼科植物虎杖Reynoutria japonica Houtt.的干燥根茎和根。春、秋二季采挖，除去须根，洗净，趁鲜切短段或厚片，晒干。主产于江苏、安徽、浙江、广东、广西、四川、贵州、云南等地。 来源 本品为蓼科植物虎杖Reynoutria japonica Houtt.的干燥根茎和根。（《中国药典2015》） 分布产地 主产于江苏、安徽、浙江、广东、广西、四川、贵州、云南等地。 入药部位 根及根茎 采收加工 春、秋二季采挖，除去须根，洗净，趁鲜切短段或厚片，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-357.html",
+      "detailId": "357",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "sichuan-pepper",
+    "name": "花椒",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "ZANTHOXYLI PERICARPIUM",
+      "family": "芸香科"
+    },
+    "originDistribution": "河北、山东、四川、陕西等",
+    "daoDiRegions": [
+      {
+        "place": "河北、山东、四川、陕西等",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "温里药",
+    "efficacy": "温中止痛，杀虫止痒。（《中国药典2015》）",
+    "indications": "用于脘腹冷痛，呕吐泄泻，虫积腹痛；外治湿疹，阴痒。（《中国药典2015》） 用法用量 3-6g。外用适量，煎汤熏洗。（《中国药典2015》） 用药禁忌 阴虚火旺者禁服，孕妇慎服。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "花椒为芸香科植物青椒Zanthoxylum schinifolium Sieb. et Zucc.或花椒Zanthoxylum bungeanum Maxim.的干燥成熟果皮。秋季采收成熟果实，晒干，除去种子和杂质。青椒主产于东北及江苏、广东；花椒主产于河北、山东、四川、陕西等地，以四川汉源产者品质最佳，习称&ldquo;大红袍&rdquo;。 本品为芸香科植物青椒Zanthoxylum schinifolium Sieb. et Zucc.或花椒Zanthoxylum bungeanum Maxim.的干燥成熟果皮。（《中国药典2015》） 分布产地 ",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-37.html",
+      "detailId": "37",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "talcum",
+    "name": "滑石粉",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "TALCI PULVIS",
+      "family": "其它科"
+    },
+    "originDistribution": "山东、辽宁、广西",
+    "daoDiRegions": [
+      {
+        "place": "山东、辽宁、广西",
+        "province": "辽宁"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "利尿通淋，清热解暑，外用祛湿敛疮。（《中国药典2015》）",
+    "indications": "用于热淋，石淋，尿热涩痛，暑湿烦渴，湿热水泻；外治湿疹，湿疮，痱子。（《中国药典2015》） 用法用量 10-20g，包煎。外用适量。（《中国药典2015》） 贮藏保存 密闭。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "滑石粉系滑石经精选净制、粉碎、干燥制成。主产山东、辽宁、广西。 来源 本品系滑石经精选净制、粉碎、干燥制成。（《中国药典2015》） 分布产地 主产山东、辽宁、广西。 入药部位 矿物",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-107.html",
+      "detailId": "107",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "citri-exocarpium-rubrum",
+    "name": "化橘红",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "CITRI GRANDIS EXOCARPIUM",
+      "family": "芸香科"
+    },
+    "originDistribution": "广东",
+    "daoDiRegions": [
+      {
+        "place": "广东",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "理气宽中，燥湿化痰。（《中国药典2015》）",
+    "indications": "用于咳嗽痰多，食积伤酒，呕恶痞闷。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 气虚、阴虚及燥咳痰少者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "化橘红为芸香科植物化州柚Citrus maxima (Burm.) Merr. cv. Tomentosa或柚Citrus maxima (Burm.) Merr.的未成熟或近成熟的干燥外层果皮。前者习称&ldquo;毛橘红&rdquo;，后者习称&ldquo;光七爪&rdquo;、&ldquo;光五爪&rdquo;。夏季果实未成熟时采收，置沸水中略烫后，将果皮割成5 或7瓣，除去果瓤和部分中果皮，压制成形，干燥。化州柚主产于广东广茂县；柚主产于四川、重庆。 来源 本品为芸香科植物化州柚Citrus maxima (Burm.) Merr. cv. To",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-286.html",
+      "detailId": "286",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "sophora-japonica-fruit",
+    "name": "槐角",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "SOPHORAE FRUCTUS",
+      "family": "豆科"
+    },
+    "originDistribution": "全国各地均产",
+    "daoDiRegions": [
+      {
+        "place": "全国各地均产",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热泻火，凉血止血。（《中国药典2015》）",
+    "indications": "用于肠热便血，痔肿出血，肝热头痛，眩晕目赤。（《中国药典2015》） 用法用量 6-9g。（《中国药典2015》） 用药禁忌 脾胃虚寒、食少便溏及孕妇慎服。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "槐角为豆科植物槐Sophora japonica Linn.的干燥成熟果实。冬季采收，除去杂质，干燥。全国各地均产。 来源 本品为豆科植物槐Sophora japonica Linn.的干燥成熟果实。（《中国药典2015》） 分布产地 全国各地均产。 入药部位 果实及种子 采收加工 冬季采收，除去杂质，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-309.html",
+      "detailId": "309",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "flos-sophorae",
+    "name": "槐米",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "beiyao",
+      "qinyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "北药",
+      "秦药"
+    ],
+    "taxonomy": {
+      "latinName": "Flos Sophorae Immaturus",
+      "family": "主产辽宁、河北、山东、河南"
+    },
+    "originDistribution": "科：主产辽宁、河北、山东、河南",
+    "daoDiRegions": [
+      {
+        "place": "科：主产辽宁、河北、山东、河南",
+        "province": "辽宁"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "凉血止血，清肝泻火（《中药大辞典》）",
+    "indications": "用于便血、痔血、血痢、崩漏、吐血、衄血、肝热目赤、头痛眩晕。（《中药大辞典》） 用法用量 6~9g（《中药大辞典》） 用药禁忌 槐花性寒凉，阳气不足、脾胃虚寒者慎食（《中药大辞典》） 贮藏保存 置干燥处（《中药大辞典》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "槐米为豆科植物槐Sophora japonica L.的花蕾。夏季花蕾形成时采收，及时干燥，除去枝、梗及杂质。主产辽宁、河北、山东、河南、安徽等地。 来源 为豆科植物槐Sophora japonica L.的花蕾。（《中药大辞典》） 分布产地 主产辽宁、河北、山东、河南、安徽等地。 入药部位 花 采收加工 夏季花蕾形成时采收，及时干燥，除去枝、梗及杂质。（《中药大辞典》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-105.html",
+      "detailId": "105",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "phellodendron-chinense",
+    "name": "黄柏",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "PHELLODENDRI CHINENSIS CORTEX",
+      "family": "芸香科"
+    },
+    "originDistribution": "重庆、四川、贵州、陕西、湖南、湖北、广西亦产",
+    "daoDiRegions": [
+      {
+        "place": "重庆、四川、贵州、陕西、湖南、湖北、广西亦产",
+        "province": "湖北"
+      },
+      {
+        "place": "主产浙江、安徽、江西、广东等地",
+        "province": "安徽"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热燥湿，泻火解毒。（《中国药典2015》）",
+    "indications": "用于湿热泻痢，黄疸尿赤，目赤肿痛，胃火牙痛，疮疖痈肿。（《中国药典2015》） 用法用量 9-15g。外用适量。（《中国药典2015》） 用药禁忌 《广西中药志》：&ldquo;体质虚寒者忌用。&rdquo; 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "黄柏为芸香科植物黄皮树Phellodendron chinense Schneid.的干燥树皮。习称&ldquo;川黄柏&rdquo;。剥取树皮后，除去粗皮，晒干。主产于重庆、四川、贵州、陕西、湖南、湖北、广西亦产。 来源 本品为芸香科植物黄皮树Phellodendron chinense Schneid.的干燥树皮。习称&ldquo;川黄柏&rdquo;。（《中国药典2015》） 分布产地 主产于重庆、四川、贵州、陕西、湖南、湖北、广西亦产。 入药部位 皮 采收加工 剥取树皮后，除去粗皮，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-210.html",
+      "detailId": "210",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "polygonatum-sibiricum",
+    "name": "黄精",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "beiyao",
+      "nanyao",
+      "yunyao",
+      "guiyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "北药",
+      "南药",
+      "云药",
+      "贵药"
+    ],
+    "taxonomy": {
+      "latinName": "POLYGONATI RHIZOMA",
+      "family": "百合科"
+    },
+    "originDistribution": "河北、内蒙古、陕西、辽宁、吉林、河南、山西等地",
+    "daoDiRegions": [
+      {
+        "place": "河北、内蒙古、陕西、辽宁、吉林、河南、山西等地",
+        "province": "内蒙古"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补气养阴，健脾，润肺，益肾。（《中国药典2015》）",
+    "indications": "用于脾胃气虚，体倦乏力，胃阴不足，口干食少，肺虚燥咳，劳嗽咳血，精血不足，腰膝酸软，须发早白，内热消渴。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 中寒泄泻，痰湿痞满气滞者禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "黄精为百合科植物滇黄精polygonatum kingianum Coll. et Hemsl.、黄精Polygonatum sibiricum Delar. ex Redoute或多花黄精Polygonatum cyrtonema Hua的干燥根茎。按形状不同，习称&ldquo;大黄精&rdquo;、&ldquo;鸡头黄精&rdquo;、&ldquo;姜形黄精&rdquo;。春、秋二季采挖，除去须根，洗净，置沸水中略烫或蒸至透心，干燥。黄精主产于河北、内蒙古、陕西、辽宁、吉林、河南、山西等地；多花黄精主产于浙江、安徽、湖南、贵州等地。滇黄精主产于广西、",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-33.html",
+      "detailId": "33",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "coptis-chinensis",
+    "name": "黄连",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "yunyao",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "云药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "COPTIDIS RHIZOMA",
+      "family": "毛茛科"
+    },
+    "originDistribution": "四川、湖北",
+    "daoDiRegions": [
+      {
+        "place": "四川、湖北",
+        "province": "湖北"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "黄连：清热燥湿，泻火解毒。 酒黄连：善清上焦火热。 姜黄连：清胃和胃止呕。 萸黄连：舒肝和胃止呕。（《中国药典2015》）",
+    "indications": "黄连：用于湿热痞满，呕吐吞酸，泻痢，黄疸，高热神昏，心火亢盛，心烦不寐，心悸不宁，血热吐衄，目赤，牙痛，消渴，痈肿疗疮；外治湿疹，湿疮，耳道流脓。 酒黄连：用于目赤，口疮。 姜黄连：用于寒热互结，湿热中阻，痞满呕吐。 萸黄连：用于肝胃不和，呕吐吞酸。（《中国药典2015》） 用法用量 2-5g。外用适量。（《中国药典2015》） 用药禁忌 胃虚呕恶，脾虚泄泻，五更肾泻，均应慎服。（《中药大辞典》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "黄连为毛茛科植物黄连Coptis chinensis Franch.、三角叶黄连Coptis deltoidea C. Y. Cheng et Hsiao.或云连Coptis teeta Wall.的干燥根茎。以上三种分别习称&ldquo;味连&rdquo;、&ldquo;雅连&rdquo;、&ldquo;云连&rdquo;。秋季采挖，除去须根和泥沙，干燥，撞去残留须根。黄连主产于四川、湖北，以四川石柱、南川，湖北来凤、恩施等地产量大质量好；三角叶黄连主产于四川峨眉、洪雅、峨边等地；云连主产于云南西北部的德钦、维西、腾冲等地。 来源 本品为毛茛科植物黄连",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-27.html",
+      "detailId": "27",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "astragalus",
+    "name": "黄芪",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "mengyao",
+      "beiyao",
+      "qinyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "蒙药",
+      "北药",
+      "秦药"
+    ],
+    "taxonomy": {
+      "latinName": "ASTRAGALI RADIX",
+      "family": "豆科"
+    },
+    "originDistribution": "山西、内蒙古、吉林",
+    "daoDiRegions": [
+      {
+        "place": "山西、内蒙古、吉林",
+        "province": "内蒙古"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补气升阳，固表止汗，利水消肿，生津养血，行滞通痹，托毒排脓，敛疮生肌。（《中国药典2015》）",
+    "indications": "用于气虚乏力，食少便溏，中气下陷，久泻脱肛，便血崩漏，表虚自汗，气虚水肿，内热消渴，血虚萎黄，半身不遂，痹痛麻木，痈疽难溃，久溃不敛。（《中国药典2015》） 用法用量 9-30g。（《中国药典2015》） 用药禁忌 表实邪盛，食积停滞，肝郁气滞，痈疽初起或溃后热毒尚盛等实证，以及阴虚阳亢者均慎服。（《中药大辞典》） 贮藏保存 置通风干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "黄芪为豆科植物蒙古黄芪Astragalus membranaceus (Fisch.) Bunge var. mongholicus (Bunge) P. K. Hsiao或膜荚黄芪Astragalus membranaceus (Fisch.) Bunge的干燥根。春、秋二季采挖，除去须根和根头，晒干。蒙古黄芪主产于山西、内蒙古、吉林、河北等地，产量大，质量好。膜荚黄芪主产于黑龙江、内蒙古、山西等地。 来源 本品为豆科植物蒙古黄芪Astragalus membranaceus (Fisch.) Bunge var. mongholicus (Bunge",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-31.html",
+      "detailId": "31",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "scutellaria-baicalensis",
+    "name": "黄芩",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "mengyao",
+      "beiyao",
+      "qinyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "蒙药",
+      "北药",
+      "秦药"
+    ],
+    "taxonomy": {
+      "latinName": "SCUTELLARIAE RADIX",
+      "family": "唇形科"
+    },
+    "originDistribution": "东北、河北、山西、河南",
+    "daoDiRegions": [
+      {
+        "place": "东北、河北、山西、河南",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热燥湿，泻火解毒，止血，安胎。（《中国药典2015》）",
+    "indications": "用于湿温、暑湿，胸闷呕恶，湿热痞满，泻痢，黄疸，肺热咳嗽，高热烦渴.血热吐衄，痈肿疮毒，胎动不安。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 脾胃虚寒，少食便溏者禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "黄芩为唇形科植物黄芩Scutellaria baicalensis Georgi的干燥根。春、秋二季采挖，除去须根和泥沙，晒后撞去粗皮，晒干。产于东北、河北、山西、河南、陕西、内蒙古。以山西产量多，河北质量好。 来源 本品为唇形科植物黄芩Scutellaria baicalensis Georgi的干燥根。（《中国药典2015》） 分布产地 产于东北、河北、山西、河南、陕西、内蒙古。以山西产量多，河北质量好。 入药部位 根及根茎 采收加工 春、秋二季采挖，除去须根和泥沙，晒后撞去粗皮，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-311.html",
+      "detailId": "311",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-235",
+    "name": "黄山药",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guanyao",
+      "yunyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "云药"
+    ],
+    "taxonomy": {
+      "latinName": "DIOSCOREA PANTHAICAE RHIZOMA",
+      "family": "薯蓣科"
+    },
+    "originDistribution": "云南",
+    "daoDiRegions": [
+      {
+        "place": "云南",
+        "province": "云南"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "理气止痛，解毒消肿。（《中国药典2015》）",
+    "indications": "用于胃痛，吐泻腹痛，跌打损伤；外治疮痈肿毒，瘰疬痰核。（《中国药典2015》） 用法用量 15-30g。外用适量，捣烂敷患处。（《中国药典2015》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "黄山药为薯蓣科植物黄山药Dioscorea panthaica Prain et Burkill的干燥根茎。秋季采挖，除去须根，洗净，切片，晒干。主产于云南。 来源 本品为薯蓣科植物黄山药Dioscorea panthaica Prain et Burkill的干燥根茎。（《中国药典2015》） 分布产地 主产于云南。 入药部位 根及根茎 采收加工 秋季采挖，除去须根，洗净，切片，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-235.html",
+      "detailId": "235",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-239",
+    "name": "黄藤",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guangyao",
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "广药",
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "FIBRAUREAE CAULIS",
+      "family": "防己科"
+    },
+    "originDistribution": "广东、广西、云南等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、云南等地",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，泻火通便。（《中国药典2015》）",
+    "indications": "用于热毒内盛，便秘，泻痢，咽喉肿痛，目赤红肿，痈肿疮毒。（《中国药典2015》） 用法用量 内服：煎汤，10-30g。外用：适量，煎水洗患处。（《中国药典2015》） （ 30～60g。）（《中国药典2015》） 用药禁忌 脾胃虚寒者慎服。（《中华本草》） 贮藏保存  置通风干燥处，防霉。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "黄藤为防己科植物黄藤Fibrmcrea recisa Pierre.的干燥藤茎。秋、冬二季采收，切段，晒干。分布于广东、云南等地。 来源 为防己科植物黄藤Fibrmcrea recisa Pierre.的干燥藤茎。（《中国药典2015》） 分布产地 分布于广东、广西、云南等地。 入药部位 茎木 采收加工 秋、冬二季采收，切段，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-239.html",
+      "detailId": "239",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cannabis-seed",
+    "name": "火麻仁",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "CANNABIS SEMEN",
+      "family": "桑科"
+    },
+    "originDistribution": "我国各地均产",
+    "daoDiRegions": [
+      {
+        "place": "我国各地均产",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "泻下药",
+    "efficacy": "润肠通便。（《中国药典2015》）",
+    "indications": "用于血虚津亏，肠燥便秘。（《中国药典2015》） 用法用量 10-15g。（《中国药典2015》） 用药禁忌 便溏、阳痿、遗精、带下者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防热，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "火麻仁为桑科植物大麻Cannabis sativa L.的干燥成熟果实。秋季果实成熟时采收，除去杂质，晒干。我国各地均产。 来源 本品为桑科植物大麻Cannabis sativa L.的干燥成熟果实。（《中国药典2015》） 分布产地 我国各地均产。 入药部位 果实及种子 采收加工 秋季果实成熟时采收，除去杂质，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-145.html",
+      "detailId": "145",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "egg",
+    "name": "鸡蛋花",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "FLOS PLUMERIAE",
+      "family": "夹竹桃科"
+    },
+    "originDistribution": "广东、广西、福建、云南等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、福建、云南等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热利湿，润肺解毒。（《广东省中药材标准第一册2004年版》）",
+    "indications": "用于湿热下痢，里急后重，肺热咳嗽。（《广东省中药材标准第一册2004年版》） 用法用量 5-15g。（《广东省中药材标准第一册2004年版》） 贮藏保存 置干燥处。（《广东省中药材标准第一册2004年版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "鸡蛋花为夹竹桃科植物鸡蛋花Plumeria rubra Linn. cv. Acutifolia的干燥花朵。夏、秋季花盛开时采摘，晒干。主产于广东、广西、福建、云南等地。 来源 本品为夹竹桃科植物鸡蛋花Plumeria rubra Linn. cv. Acutifolia的干燥花朵。（《广东省中药材标准第一册2004年版》） 分布产地 主产于广东、广西、福建、云南等地。 入药部位 花 采收加工 夏、秋季花盛开时采摘，晒干。（《广东省中药材标准第一册2004年版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-266.html",
+      "detailId": "266",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "abrus-cantoniensis",
+    "name": "鸡骨草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "ABRI HERBA",
+      "family": "豆科"
+    },
+    "originDistribution": "广西、广东",
+    "daoDiRegions": [
+      {
+        "place": "广西、广东",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "利湿退黄，清热解毒，疏肝止痛。（《中国药典2015》）",
+    "indications": "用于湿热黄疸，胁肋不舒．胃脘胀痛，乳痈肿痛。（《中国药典2015》） 用法用量 15-30g。（《中国药典2015》） 用药禁忌 本品种子有毒，用时须将豆荚摘除，以防中毒。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "鸡骨草为豆科植物广州相思子Abrus cantoniensis Hance的干燥全株。全年均可采挖，除去泥沙，干燥。产于广西、广东。 来源 本品为豆科植物广州相思子Abrus cantoniensis Hance的干燥全株。（《中国药典2015》） 分布产地 产于广西、广东。 入药部位 全草 采收加工 全年均可采挖，除去泥沙，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-267.html",
+      "detailId": "267",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-330",
+    "name": "鸡桑根",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "产区分布：河北、山东、安徽、江西、福建、台湾、河南、湖南、广东、广西、四川、贵州、云南等地",
+      "family": "桑科"
+    },
+    "originDistribution": "河北、山东、安徽、江西、福建、台湾、河南、湖南、广东、广西、四川、贵州、云南等地",
+    "daoDiRegions": [
+      {
+        "place": "河北鸡桑根",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清肺，凉血，利湿。（《中华本草》）",
+    "indications": "主治肺热咳嗽，鼻衄，水肿，腹泻，黄疸。（《中华本草》） 用法用量 内服：煎汤，6-15g。（《中华本草》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "鸡桑根为桑科植物鸡桑Morus australis Poir.的根或根皮。秋、冬季采挖，乘鲜时挂去栓皮，洗净；或剁取白皮，晒干。分布于河北、山东、安徽、江西、福建、台湾、河南、湖南、广东、广西、四川、贵州、云南等地。 来源 本品为桑科植物鸡桑Morus australis Poir.的根或根皮。（《中华本草》） 分布产地 分布于河北、山东、安徽、江西、福建、台湾、河南、湖南、广东、广西、四川、贵州、云南等地。 入药部位 根及根茎、皮 采收加工 秋、冬季采挖，乘鲜时挂去栓皮，洗净；或剁取白皮，晒干。（《中华本草》） 性味归经 味甘、辛，性寒。（《中华本草》",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-330.html",
+      "detailId": "330",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "millettia-stem",
+    "name": "鸡血藤",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "SPATHOLOBI CAULIS",
+      "family": "豆科"
+    },
+    "originDistribution": "广西、福建",
+    "daoDiRegions": [
+      {
+        "place": "广西、福建",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血补血，调经止痛，舒筋活络。（《中国药典2015》）",
+    "indications": "用于月经不调，痛经，经闭，风湿痹痛，麻木瘫痪，血虚萎黄。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 贮藏保存 置通风干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "鸡血藤为豆科植物密花豆Spatholobus suberectus Dunn的干燥藤茎。秋、冬二季采收，除去枝叶，切片，晒干。主产于广西、福建。 来源 本品为豆科植物密花豆Spatholobus suberectus Dunn的干燥藤茎。（《中国药典2015》） 分布产地 主产于广西、福建。 入药部位 茎木 采收加工 秋、冬二季采收，除去枝叶，切片，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-299.html",
+      "detailId": "299",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "tribulus-terrestris",
+    "name": "蒺藜",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "TRIBULI FRUCTUS",
+      "family": "蒺藜科"
+    },
+    "originDistribution": "河南、河北、山东、安徽",
+    "daoDiRegions": [
+      {
+        "place": "河南、河北、山东、安徽",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "平肝解郁，活血祛风，明目，止痒。（《中国药典2015》）",
+    "indications": "用于头痛眩晕，胸胁胀痛，乳闭乳痈，目赤翳障，风疹瘙痒。（《中国药典2015》） 用法用量 6-10g。（《中国药典2015》） 用药禁忌 血虚气弱及孕妇慎服。（《中药大辞典》） 贮藏保存 置干燥处，防霉。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "蒺藜为蒺藜科植物蒺藜Tribulus terrester L.的干燥成熟果实。秋季果实成熟时采割植株，晒干，打下果实，除去杂质。主产于河南、河北、山东、安徽、江苏、四川、陕西等地 来源 本品为蒺藜科植物蒺藜Tribulus terrester L.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于河南、河北、山东、安徽、江苏、四川、陕西等地。 入药部位 果实及种子 采收加工 秋季果实成熟时采割植株，晒干，打下果实，除去杂质。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-123.html",
+      "detailId": "123",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-288",
+    "name": "剑花",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "Hylocereus undatus (Haw.) Britton et Rose",
+      "family": "仙人掌科"
+    },
+    "originDistribution": "广东、广西",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "肺热咳嗽，肺痨，瘰疬。",
+    "indications": "肺结核，支气管炎，痰中带血丝；颈淋巴结结核；腮腺炎，面颊红肿热痛。 用法用量 内服: 煎汤，9-15克。外用：适量鲜品，捣敷。 贮藏保存 置通风干燥处。",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "霸王花为仙人掌科植物量天尺Hylocereus undatus (Haw.) Britt. et Rose的花。5-8月花开后采收，鲜用或置通风处晾干。广东、广西，以广州、肇庆、佛山、岭南等为主产区。 来源 为仙人掌科植物量天尺Hylocereus undatus (Haw.) Britt. et Rose的花。 分布产地 广东、广西，以广州、肇庆、佛山、岭南等为主产区。 采收加工 5-8月花开后采收，鲜用或置通风处晾干。",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-288.html",
+      "detailId": "288",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "pinellia-prep",
+    "name": "姜半夏",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "huaiyao",
+      "chuanyao",
+      "yunyao",
+      "guiyao",
+      "huaiyao-huai",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "怀药",
+      "川药",
+      "云药",
+      "贵药",
+      "淮药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "PINELLIAE RHIZOMA PRAEPARATUM CUM ZINGIBERE ET ALUMINE",
+      "family": "天南星科"
+    },
+    "originDistribution": "四川、湖北、河南",
+    "daoDiRegions": [
+      {
+        "place": "四川、湖北、河南",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "温中化痰，降逆止呕。（《中国药典2015》）",
+    "indications": "用于痰饮呕吐，胃脘痞满。（《中国药典2015》） 用法用量 3-9g。（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、萆乌、制萆乌、附子同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "姜半夏为半夏的炮制加工品。主产于四川、湖北、河南、贵州、安徽等地。 来源 本品为半夏的炮制加工品。（《中国药典2015》） 分布产地 主产于四川、湖北、河南、贵州、安徽等地。 入药部位 根及根茎",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-119.html",
+      "detailId": "119",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "curcuma-longa",
+    "name": "姜黄",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "CURCUMAE LONGAE RHIZOMA",
+      "family": "姜科"
+    },
+    "originDistribution": "四川、福建、江西等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、福建、江西等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "破血行气，通经止痛。（《中国药典2015》）",
+    "indications": "用于胸胁刺痛，胸痹心痛，痛经经闭，癥瘕，风湿肩臂疼痛，跌扑肿痛。（《中国药典2015》） 用法用量 3-10g。外用适量。（《中国药典2015》） 用药禁忌 血虚无气滞血瘀及孕妇慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "姜黄为姜科植物姜黄Curcuma Longa L.的干燥根茎。冬季茎叶枯萎时采挖，洗净，煮或蒸至透心，晒干，除去须根。主产于四川、福建、江西等地。 来源 本品为姜科植物姜黄Curcuma Longa L.的干燥根茎。（《中国药典2015》） 分布产地 主产于四川、福建、江西等地。 入药部位 根及根茎 采收加工 冬季茎叶枯萎时采挖，洗净，煮或蒸至透心，晒干，除去须根。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-226.html",
+      "detailId": "226",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "silkworm",
+    "name": "僵蚕",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "BOMBYX BATRYTICATUS",
+      "family": "动物药"
+    },
+    "originDistribution": "江苏、浙江、四川、广东等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏、浙江、四川、广东等地",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "息风止痉，祛风止痛，化痰散结。（《中国药典2015》）",
+    "indications": "用于肝风夹痰，惊痫抽搐，小儿急惊，破伤风，中风口喁，风热头痛，目赤咽痛，风疹瘙痒，发颐痄腮。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 血虚惊风者慎服。（《中药大辞典》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "僵蚕为蚕蛾科昆虫家蚕Bombyx mori Linnaeus4-5龄的幼虫感染（或人工接种）白僵菌Beauveria bassiana (Bals.) Vuilknt而致死的干燥体。多于春、秋季生产，将感染白僵菌病死的蚕干燥。主产于江苏、浙江、四川、广东等地。 来源 本品为蚕蛾科昆虫家蚕Bombyx mori Linnaeus4-5 龄的幼虫感染（或人工接种）白僵菌Beauveria bassiana (Bals.) Vuilknt而致死的干燥体。（《中国药典2015》） 分布产地 主产于江苏、浙江、四川、广东等地。 入药部位 动物 采收加工 多于春、秋",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-371.html",
+      "detailId": "371",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "aquilaria-sinensis",
+    "name": "降香",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "LIGNUM DALBERGIAE",
+      "family": "豆科"
+    },
+    "originDistribution": "海南",
+    "daoDiRegions": [
+      {
+        "place": "海南",
+        "province": "海南"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "化瘀止血，理气止痛。（《中国药典2015》）",
+    "indications": "用于吐血，衄血，外伤出血，肝郁胁痛，胸痹刺痛，跌扑伤痛，呕吐腹痛。（《中国药典2015》） 用法用量 9-15g，后下。外用适量，研细末敷处患。（《中国药典2015》） 用药禁忌 阴虚火旺，血热妄行者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "降香为豆科植物降香檀Dalbergia odorifera T. chen、印度黄檀Dalbergia sissoo Roxb.的树干或根部心材。全年均可采收，除去边材，阴干。主产于海南。 来源 本品为豆科植物降香檀Dalbergia odorifera T. chen或印度黄檀Dalbergia sissoo Roxb.的树干或根部心材。（《中药大辞典》） 入药部位 根及根茎、茎木 采收加工 全年均可采收，除去边材，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-259.html",
+      "detailId": "259",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "areca-seed",
+    "name": "焦槟榔",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "ARECAE SEMEN TOSTUM",
+      "family": "棕榈科"
+    },
+    "originDistribution": "海南、云南",
+    "daoDiRegions": [
+      {
+        "place": "海南、云南",
+        "province": "海南"
+      }
+    ],
+    "efficacyClass": "驱虫药",
+    "efficacy": "杀虫，消积，行气，利水，截疟。（《中国药典2015》）",
+    "indications": "用于绦虫病、蛔虫病、姜片虫病，虫积腹痛，积滞泻痢，里急后重，水肿脚气，疟疾。（《中国药典2015》） 用法用量 3-10g；驱绦虫、姜片虫30-60g。（《中国药典2015》） 用药禁忌 气虚下陷者禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "槟榔为棕榈科植物槟榔Areca catechu L.的干燥成熟种子。春末至秋初采收成熟果实，用水煮后，干燥，除去果皮，取出种子，干燥。主产于海南、云南。 来源 本品为棕榈科植物槟榔Areca catechu L.的干燥成熟种子。（《中国药典2015》） 分布产地 主产于海南、云南。 入药部位 果实及种子 采收加工 春末至秋初采收成熟果实，用水煮后，干燥，除去果皮，取出种子，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-261.html",
+      "detailId": "261",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "gardenia-prep-char",
+    "name": "焦栀子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao",
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "浙药",
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "GARDENIAE FRUCTUS PRAEPARATUS",
+      "family": "茜草科"
+    },
+    "originDistribution": "湖南、湖北、江西、浙江、福建、四川等地",
+    "daoDiRegions": [
+      {
+        "place": "湖南、湖北、江西、浙江、福建、四川等地",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "凉血止血。（《中国药典2015》）",
+    "indications": "用于血热吐血，衄血，尿血，崩漏。（《中国药典2015》） 用法用量 6-9g。（《中国药典2015》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "焦栀子为栀子的炮制加工品。主产于湖南、湖北、江西、浙江、福建、四川等地。 来源 本品为栀子的炮制加工品。（《中国药典2015》） 分布产地 主产于湖南、湖北、江西、浙江、福建、四川等地。 入药部位 果实及种子",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-139.html",
+      "detailId": "139",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "gynostemma-pentaphyllum",
+    "name": "绞股蓝",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "qinyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "秦药"
+    ],
+    "taxonomy": {
+      "latinName": "HERBA GYNOSTEMMATIS PENTAPHYLLI",
+      "family": "葫芦科"
+    },
+    "originDistribution": "长江以南各地",
+    "daoDiRegions": [
+      {
+        "place": "长江以南各地",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补虚，清热，解毒。（《湖南省中药材标准2009版》）",
+    "indications": "用于体虚乏力，虚劳失精，白细胞减少症，高脂血症，病毒性肝炎，慢性胃肠炎，慢性气管炎。（《湖南省中药材标准2009版》） 用法用量 15-30g；研末，3-6g；或泡茶饮。外用适量，捣烂涂擦。（《湖南省中药材标准2009版》） 贮藏保存 置通风干燥处。（《湖南省中药材标准2009版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "绞股蓝为葫芦科植物绞股蓝Gynostemma pentaphyllum (Thunb.) Makino的干燥地上部分。夏、秋季枝叶茂盛时，采割地上部分，除去杂草，洗净、干燥、即得。主产于长江以南各地。 来源 本品为葫芦科植物绞股蓝Gynostemma pentaphyllum (Thunb.) Makino的干燥地上部分。（《湖南省中药材标准2009版》） 分布产地 主产于长江以南各地。 入药部位 全草 采收加工 夏、秋季枝叶茂盛时，采割地上部分，除去杂草，洗净、干燥、即得。（《湖南省中药材标准2009版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-318.html",
+      "detailId": "318",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "platycodon-grandiflorus",
+    "name": "桔梗",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "beiyao",
+      "huaiyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "北药",
+      "怀药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "PLATYCODONIS RADIX",
+      "family": "桔梗科"
+    },
+    "originDistribution": "山东、华北产量大",
+    "daoDiRegions": [
+      {
+        "place": "山东、华北产量大",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "宣肺，利咽，祛痰，排脓。（《中国药典2015》）",
+    "indications": "用于咳嗽痰多，胸闷不畅，咽痛音哑，肺痈吐脓。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 阴虚久咳及咳血者禁服；胃溃疡者慎服。内服过量可引起恶心呕吐。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "桔梗为桔梗科植物桔梗Platycodon grandiflorus (Jacq.) A. DC.的干燥根。春、秋二季采挖，洗净，除去须根，趁鲜剥去外皮或不去外皮，干燥。全国大部分地区均产。以山东、华北产量大，称&ldquo;北桔梗&rdquo;；以华东产的质量较好，称&ldquo;南桔梗&rdquo;。 来源 本品为桔梗科植物桔梗Platycodon grandiflorus (Jacq.) A. DC.的干燥根。（《中国药典2015》） 分布产地 全国大部分地区均产。以山东、华北产量最大，称&ldquo;北桔梗&rdquo;；以华东产的质量较好，称&l",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-129.html",
+      "detailId": "129",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-87",
+    "name": "金莲花",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "mengyao",
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "蒙药",
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "FLOS TROLLII",
+      "family": "毛茛科"
+    },
+    "originDistribution": "山西、河南、河北、辽宁、吉林",
+    "daoDiRegions": [
+      {
+        "place": "山西、河南、河北、辽宁、吉林",
+        "province": "吉林"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，消肿，明目。（《中华本草》） 清热解毒。（《浙江省中药炮制规范2015年版》） 抗菌消炎。（《上海市中药材标准1994版》）",
+    "indications": "主治感冒发热，咽喉肿痛，口疮，牙龈肿痛，牙龈出血，目赤肿痛，疔疮肿毒，急性鼓膜炎，急性淋巴管炎。（《中华本草》） 主治风热感冒，咽喉肿痛，口疮，目赤肿痛。（《浙江省中药炮制规范2015年版》） 用于上呼吸道感染，咽炎，扁桃体炎，中耳炎，急性结膜炎，急性淋巴管炎。（《上海市中药材标准1994版》） 用法用量 内服：煎汤，3-6g，或泡水当茶饮。外用：适量，煎水含漱。（《中华本草》） 3-6g。（《浙",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "金莲花为毛茛科植物金莲花Trollius chinensis Bunge和宽瓣金莲花Trollius asiaticus L.、矮金莲花Trollius farreri Stapf、短瓣金莲花Trollius ledebouri Reichb.的花。夏季花盛开时采收，晾干。金莲花主产于山西、河南、河北、辽宁、吉林。宽瓣金莲花产于黑龙江、新疆。矮金莲花产于云南、四川、西藏、青海、甘肃、陕西。短瓣金莲花产于黑龙江、内蒙古。 来源 本品为毛茛科植物金莲花Trollius chinensis Bunge和宽瓣金莲花Trollius asiaticus L.、矮金",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-87.html",
+      "detailId": "87",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-275",
+    "name": "金钱白花蛇",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "BUNGARUS PARVUS",
+      "family": "功 效：祛风湿药"
+    },
+    "originDistribution": "广东、广西",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风，通络，止痉。（《中国药典2015》）",
+    "indications": "用于风湿顽痹，麻木拘挛，中风口眼喎斜，半身不遂，抽搐痉挛，破伤风，麻风，疥癣。（《中国药典2015》） 用法用量 2-5g。研粉吞服1-1.5g。（《中国药典2015》） 用药禁忌 阴虚血少及内热生风者禁服。（《中药大辞典》） 贮藏保存 置干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "金钱白花蛇为眼镜蛇科动物银环蛇Bungarus multicinctus Blyth的幼蛇干燥体。夏、秋二季捕捉，剖开腹部，除去内脏，擦净血迹，用乙醇浸泡处理后，盘成圆形，用竹签固定，干燥。主产于广东、广西。 来源 本品为眼镜蛇科动物银环蛇Bungarus multicinctus Blyth的幼蛇干燥体。（《中国药典2015》） 分布产地 主产于广东、广西。 入药部位 动物 采收加工 夏、秋二季捕捉，剖开腹部，除去内脏，擦净血迹，用乙醇浸泡处理后，盘成圆形，用竹签固定，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-275.html",
+      "detailId": "275",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lysimachia-christinae",
+    "name": "金钱草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "LYSIMACHIAE HERBA",
+      "family": "报春花科"
+    },
+    "originDistribution": "四川及长江流域各省区",
+    "daoDiRegions": [
+      {
+        "place": "四川及长江流域各省区",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "利湿退黄，利尿通淋，解毒消肿。（《中国药典2015》）",
+    "indications": "用于湿热黄疸，胆胀胁痛，石淋，热淋，小便涩痛，痈肿疔疮，蛇虫咬伤。（《中国药典2015》） 用法用量 15-60g。（《中国药典2015》） 用药禁忌 据报道[《四川中医》1983，（3）：40]，外用本品引起接触性皮炎12例，均系风湿性关节炎、肩周炎患者，用鲜品煎水熏洗所致。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "金钱草为报春花科植物过路黄Lysimachia christinae Hance的干燥全草。夏、秋二季采收，除去杂质，晒干。主产于四川及长江流域各省区。 来源 本品为报春花科植物过路黄Lysimachia christinae Hance的干燥全草。（《中国药典2015》） 分布产地 主产于四川及长江流域各省区。 入药部位 全草 采收加工 夏、秋二季采收，除去杂质，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-204.html",
+      "detailId": "204",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lonicera-japonica",
+    "name": "金银花",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "LONICERAE JAPONICAE FLOS",
+      "family": "忍冬科"
+    },
+    "originDistribution": "河南、山东。河南密县、巩县",
+    "daoDiRegions": [
+      {
+        "place": "河南、山东。河南密县、巩县",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，疏散风热。（《中国药典2015》）",
+    "indications": "用于痈肿疔疮，喉痹，丹毒，热毒血痢，风热感冒，温病发热。（《中国药典2015》） 用法用量 6-15g。（《中国药典2015》） 用药禁忌 脾胃虚寒及疮疡属阴症者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "金银花为忍冬科植物忍冬Lonicera japonica Thunb.的干燥花蕾或带初开的花。夏初花开放前采收，干燥。主产于河南、山东。河南密县、巩县、荥阳所产称&ldquo;密银花&rdquo;，山东平邑、费县所产称&ldquo;东银花&rdquo;，均为道地药材。 来源 本品为忍冬科植物忍冬Lonicera japonica Thunb.的干燥花蕾或带初开的花。（《中国药典2015》） 分布产地 主产于河南、山东。河南密县、巩县、荥阳所产称&ldquo;密银花&rdquo;，山东平邑、费县所产称&ldquo;东银花&rdquo;，均为道地药材。 入药",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-116.html",
+      "detailId": "116",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "rosa-laevigata",
+    "name": "金樱子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "南药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "ROSAE LAEVIGATAE FRUCTUS",
+      "family": "蔷薇科"
+    },
+    "originDistribution": "江苏、浙江、湖北、安徽、江西、福建、湖南、广东、广西等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏金樱子",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "固精缩尿，固崩止带，涩肠止泻。（《中国药典2015》）",
+    "indications": "用于遗精滑精，遗尿尿频，崩漏带下，久泻久痢。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 有实火、邪热者慎服。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "金樱子为蔷薇科植物金樱子Rosa laevigata Michx.的干燥成熟果实。10-11月果实成熟变红时采收，干燥，除去毛刺。主产于江苏、浙江、湖北、安徽、江西、福建、湖南、广东、广西等地。 来源 本品为蔷薇科植物金樱子Rosa laevigata Michx.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于江苏、浙江、湖北、安徽、江西、福建、湖南、广东、广西等地。 入药部位 果实及种子 采收加工 10-11月果实成熟变红时采收，干燥，除去毛刺。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-190.html",
+      "detailId": "190",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "euphorbia-pekinensis",
+    "name": "京大戟",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "EUPHORBIAE PEKINENSIS RADIX",
+      "family": "大戟科"
+    },
+    "originDistribution": "江苏",
+    "daoDiRegions": [
+      {
+        "place": "江苏",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "泻下药",
+    "efficacy": "泻水逐饮，消肿散结。（《中国药典2015》）",
+    "indications": "用于水肿胀满，胸腹积水，痰饮积聚，气逆咳喘，二便不利，痈肿疮毒，瘰疬痰核。（《中国药典2015》） 用法用量 1.5～3g。入几散服，每次1g；内服醋制用。外用适量，生用。（《中国药典2015》） 用药禁忌 孕妇禁用；不宜与甘草同用。（《中国药典2015》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "京大戟为大戟科植物大戟Euphorbia pekinensis Rupr.的干燥根。秋、冬二季采挖，洗净，晒干。主产于江苏。 来源 为大戟科植物大戟Euphorbia pekinensis Rupr.的干燥根。（《中国药典2015》） 分布产地 主产于江苏南京、杨州、邳县等地。 入药部位 根及根茎 采收加工 秋、冬二季采挖，洗净，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-341.html",
+      "detailId": "341",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "schizonepeta-tenuifolia",
+    "name": "荆芥",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "SCHIZONEPETAE HERBA",
+      "family": "唇形科"
+    },
+    "originDistribution": "江苏、浙江、江西、河北、湖北等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏、浙江、江西、河北、湖北等地",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "解表散风，透疹，消疮。（《中国药典2015》）",
+    "indications": "用于感冒，头痛，麻疹，风疹，疮疡初起。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 表虚自汗，阴虚头痛者禁服。（《中华本草》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "荆芥为唇形科植物荆芥Schizonepeta tenuifolia (Benth.) Briq.的干燥地上部分。夏、秋二季花开到顶、穗绿时采割，除去杂质，晒干。主产于江苏、浙江、江西、河北、湖北等地。 来源 本品为唇形科植物荆芥Schizonepeta tenuifolia (Benth.) Briq.的干燥地上部分。（《中国药典2015》） 分布产地 主产于江苏、浙江、江西、河北、湖北等地。 入药部位 全草 采收加工 夏、秋二季花开到顶、穗绿时采割，除去杂质，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-199.html",
+      "detailId": "199",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "schizonepeta-carbon",
+    "name": "荆芥炭",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "SCHIZONEPETAE HERBA CARBONISATA",
+      "family": "唇形科"
+    },
+    "originDistribution": "江苏、浙江、江西、河北、湖北等",
+    "daoDiRegions": [
+      {
+        "place": "江苏、浙江、江西、河北、湖北等",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "收敛止血。（《中国药典2015》）",
+    "indications": "用于便血，崩漏，产后血晕。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "荆芥炭为荆芥的炮制加工品。主产于江苏、浙江、江西、河北、湖北等地。 来源 本品为荆芥的炮制加工品。（《中国药典2015》） 分布产地 主产于江苏、浙江、江西、河北、湖北等地。 入药部位 全草",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-324.html",
+      "detailId": "324",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-8",
+    "name": "九节菖蒲",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "qinyao",
+      "guanyao",
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "秦药",
+      "关药",
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "RHIZOMA ANEMONES ALTAICAE",
+      "family": "毛茛科"
+    },
+    "originDistribution": "陕西、山西",
+    "daoDiRegions": [
+      {
+        "place": "陕西、山西",
+        "province": "山西"
+      }
+    ],
+    "efficacyClass": "开窍药",
+    "efficacy": "开窍，化痰，醒脾安神。（《浙江省中药炮制规范2015年版》） 化痰开窍，化湿和中，安神，解毒。（《安徽省中药饮片炮制规范2005版》）",
+    "indications": "用于热病神昏，癫痫痰厥，健忘多梦，耳鸣，耳聋，胸闷腹胀。（《浙江省中药炮制规范2015年版》） 用于痰迷神昏，惊痫癫狂，耳鸣耳聋，胸闷胀满，食欲不振，多梦健忘，风湿痹痛，痈疽，疥癣。（《安徽省中药饮片炮制规范2005版》）  用法用量 1.5-6g。（《浙江省中药炮制规范2015年版》） 2-6g。（《安徽省中药饮片炮制规范2005版》） 用药禁忌 阴虚阳亢、烦躁汗多、精滑者慎服。（《中药大辞典》",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "九节菖蒲为毛茛科植物阿尔泰银莲花Anemone altaica Fisch. ex C. A. Mey.的干燥根茎。夏季采挖，干燥，除去须根。主产陕西、山西。以陕西产量最大，质量亦佳。 来源 本品为毛茛科植物阿尔泰银莲花Anemone altaica Fisch. ex C. A. Mey.的干燥根茎。（《浙江省中药炮制规范2015年版》） 本品为毛茛科植物阿尔泰银莲花Anemone altaica Fisch. ex C. A. Mey.的干燥根茎。（《安徽省中药饮片炮制规范2005版》） 分布产地 主产陕西、山西。以陕西产量最大，质量亦佳。 入药部位",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-8.html",
+      "detailId": "8",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "murraya-paniculata",
+    "name": "九里香",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "MURRAYAE FOLIUM ET CACUMEN",
+      "family": "芸香科"
+    },
+    "originDistribution": "广东、广西、福建等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、福建等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "行气止痛，活血散瘀。（《中国药典2015》）",
+    "indications": "用于胃痛，风湿痹痛；外治牙痛，跌扑肿痛，虫蛇咬伤。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 《广西中药志》：&ldquo;阴虚火亢者忌用。&rdquo; 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "九里香为芸香科植物九里香Murraya exotica L.和千里香Murraya paniculata (L.) Jack.的干燥叶和带叶嫩枝。全年均可采收，除去老枝，阴干。产广东、广西、福建等地。 来源 本品为芸香科植物九里香Murraya exotica L.和千里香Murraya paniculata (L.) Jack.的干燥叶和带叶嫩枝。（《中国药典2015》） 分布产地 产广东、广西、福建等地。 入药部位 叶 采收加工 全年均可采收，除去老枝，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-258.html",
+      "detailId": "258",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "chrysanthemum",
+    "name": "菊花",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao",
+      "huaiyao-huai",
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "怀药",
+      "淮药",
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "CHRYSANTHEMI FLOS",
+      "family": "菊科"
+    },
+    "originDistribution": "安徽毫县、涡阳、太和",
+    "daoDiRegions": [
+      {
+        "place": "安徽毫县、涡阳、太和",
+        "province": "安徽"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "散风清热，平肝明目，清热解毒。（《中国药典2015》）",
+    "indications": "用于风热感冒，头痛眩晕，目赤肿痛，眼目昏花，疮痈肿毒。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 气虚胃寒，食减泄泻者慎用。（《中药大辞典》） 贮藏保存 置阴凉干燥处，密闭保存，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "菊花为菊科植物菊Dendranthema morifolium (Ramat.) Tzvel.的干燥头状花序。9-11月花盛开时分批采收，阴干或焙干，或熏、蒸后晒干。药材按产地和加工方法不同，分为&ldquo;亳菊&rdquo;、&ldquo;滁菊&rdquo;、&ldquo;贡菊&rdquo;、&ldquo;杭菊&rdquo;、&ldquo;怀菊&rdquo;。毫菊主产于安徽毫县、涡阳、太和。滁菊主产于安徽滁县、全椒、徽州、定远等。怀菊主产于河南武陟、沁阳、博爱、鹿邑、淮阳等。贡菊主产于安徽的黄山、浙江的德清。川菊主产于四川中江。祁菊主产于河北安国。 ",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-168.html",
+      "detailId": "168",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cassia-seed",
+    "name": "决明子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "CASSIAE SEMEN",
+      "family": "豆科"
+    },
+    "originDistribution": "江苏、安徽、四川等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏、安徽、四川等地",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热明目，润肠通便。（《中国药典2015》）",
+    "indications": "用于目赤涩痛，羞明多泪，头痛眩晕，目暗不明，大便秘结。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 脾胃虚寒及便溏者慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "决明子为豆科植物决明Cassia obtusifolia L.或小决明Cassia tora Linn.的干燥成熟种子。秋季采收成熟果实，晒干，打下种子，除去杂质。决明主产于江苏、安徽、四川等地；小决明主产于广西、云南等地。 来源 本品为豆科植物决明Cassia obtusifolia L.或小决明Cassia tora Linn.的干燥成熟种子。（《中国药典2015》） 分布产地 决明主产于江苏、安徽、四川等地；小决明主产于广西、云南等地。 入药部位 果实及种子 采收加工 秋季采收成熟果实，晒干，打下种子，除去杂质。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-347.html",
+      "detailId": "347",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "sophora-flavescens",
+    "name": "苦参实",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "产区分布：山西、湖北、河南、河北",
+      "family": "功 效：清热药"
+    },
+    "originDistribution": "山西、湖北、河南、河北",
+    "daoDiRegions": [
+      {
+        "place": "山西、湖北、河南、河北",
+        "province": "河北"
+      },
+      {
+        "place": "全国各地均产",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热燥湿，杀虫，利尿。（《中国药典2015》）",
+    "indications": "用于热痢，便血，黄疸尿闭，赤白带下，阴肿阴痒，湿疹，湿疮，皮肤瘙痒，疥癣麻风；外治滴虫性阴道炎。（《中国药典2015》） 用法用量 4.5-9g；外用适量，煎汤洗患处。（《中国药典2015》） 用药禁忌 不宜与藜芦同用。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "苦参实为豆科植物苦参Sophora flavescens Alt.的种子。7-8月果实成熟时采收，晒干，打下种子。主产于山西、湖北、河南、河北。 来源 本品为豆科植物苦参Sophora flavescens Alt.的种子。（《中药大辞典》） 分布产地 主产于山西、湖北、河南、河北。 入药部位 果实及种子 采收加工 7-8月果实成熟时采收，晒干，打下种子。（《中药大辞典》） 性味归经 苦，寒。（《纲目》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-98.html",
+      "detailId": "98",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "prunus-processed",
+    "name": "苦杏仁",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "ARMENIACAE SEMEN AMARUM",
+      "family": "蔷薇科"
+    },
+    "originDistribution": "北、山西、陕西",
+    "daoDiRegions": [
+      {
+        "place": "北、山西、陕西",
+        "province": "山西"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "降气止咳平喘，润肠通便。（《中国药典2015》）",
+    "indications": "用于咳嗽气喘，胸满痰多，肠燥便秘。（《中国药典2015》） 用法用量 5-10g，生品入煎剂后下。（《中国药典2015》） 用药禁忌 内服不宜过量，以免中毒。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "苦杏仁为蔷薇科植物山杏Armeniaca vulgaris Lam. var. ansu (Maxim.) Y&amp;#252; et Lu、西伯利亚杏Armeniaca sibirica (L.) Lam.、东北杏Armeniaca mandshurica (Maxim.) Skv.或杏Armeniaca vulgaris Lam.的干燥成熟种子。夏季采收成熟果实，除去果内和核壳，取出种子，晒干。山杏主产于河北、山西、陕西；西伯利亚杏主产于东北；东北杏主产于东北、河北、山西等地；杏主产于我国北方各地。 来源 本品为蔷薇科植物山杏Armeniaca v",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-396.html",
+      "detailId": "396",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-243",
+    "name": "苦玄参",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guanyao",
+      "yunyao",
+      "guiyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "云药",
+      "贵药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "PICRIAE HERBA",
+      "family": "玄参科"
+    },
+    "originDistribution": "广东、广西、贵州和云南南部",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、贵州和云南南部",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，消肿止痛。（《中国药典2015》）",
+    "indications": "用于风热感冒，咽喉肿痛，喉痹，痄腮，脘腹疼痛，痢疾，跌打损伤，疖肿，毒蛇咬伤。（《中国药典2015》） 用法用量 内服：全草3～5钱，水煎服；或用鲜全草捣烂外敷，或煎水外洗。（《中华本草》） （9～15g。）（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "苦玄参为玄参科植物苦玄参Picria felterrae Lour.的干燥全草。秋季采收，除去杂质，晒干。主产广东、广西、贵州和云南南部。 来源 为玄参科植物苦玄参Picria felterrae Lour.的干燥全草。（《中国药典2015》） 分布产地 主产广东、广西、贵州和云南南部。 入药部位 全草 采收加工 秋季采收，除去杂质，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-243.html",
+      "detailId": "243",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "tussilago-farfara",
+    "name": "款冬花",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao",
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "怀药",
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "FARFARAE FLOS",
+      "family": "菊科"
+    },
+    "originDistribution": "河南、甘肃、山西、陕西等地",
+    "daoDiRegions": [
+      {
+        "place": "河南、甘肃、山西、陕西等地",
+        "province": "山西"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "润肺下气，止咳化痰。（《中国药典2015》）",
+    "indications": "用于新久咳嗽，喘咳痰多，劳嗽咳血。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 阴虚者慎服。（《中药大辞典》） 贮藏保存 置干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "款冬花为菊科植物款冬Tussilago farfara L.的干燥花蕾。12月或地冻前当花尚未出土时采挖，除去花梗及泥沙，阴干。主产于河南、甘肃、山西、陕西等地。以河南产量大；甘肃灵台、陕西榆林产者质佳，称&ldquo;灵台冬花&rdquo;。 来源 本品为菊科植物款冬Tussilago farfara L.的干燥花蕾。（《中国药典2015》） 分布产地 主产于河南、甘肃、山西、陕西等地。以河南产量大；甘肃灵台、陕西榆林产者质佳，称&ldquo;灵台冬花&rdquo;。 入药部位 花 采收加工 12月或地冻前当花尚未出土时采挖，除去花梗和泥沙，阴干。（《",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-118.html",
+      "detailId": "118",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "laminaria-japonica",
+    "name": "昆布",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "LAMINARIAE THALLUS ECKLONIAE THALLUS",
+      "family": "海带科"
+    },
+    "originDistribution": "辽宁、山东等地；昆布主产于浙江、福建",
+    "daoDiRegions": [
+      {
+        "place": "辽宁、山东等地；昆布主产于浙江、福建",
+        "province": "辽宁"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "消痰软坚散结，利水消肿。（《中国药典2015》）",
+    "indications": "主治瘿瘤，瘰疬，睾丸肿痛，痰饮水肿。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 脾胃虚寒者慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "昆布为海带科植物海带Laminaria japonica Aresch.或翅藻科植物昆布Ecklonia kurome Okam.的干燥叶状体。夏、秋二季采捞，晒干。海带主产于辽宁、山东等地；昆布主产于浙江、福建。 来源 本品为海带科植物海带Laminaria japonica Aresch.或翅藻科植物昆布Ecklonia kurome Okam.的干燥叶状体。（《中国药典2015》） 分布产地 海带主产于辽宁、山东等地；昆布主产于浙江、福建。 入药部位 藻、菌、地衣 采收加工 夏、秋二季采捞，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-94.html",
+      "detailId": "94",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-34",
+    "name": "狼毒",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "EUPHORBIAE EBRACTEOLATAE RADIX",
+      "family": "大戟科"
+    },
+    "originDistribution": "黑龙江",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "杀虫止痒药",
+    "efficacy": "散结，杀虫。（《中国药典2015》）",
+    "indications": "外用于淋巴结结核、皮癣；灭蛆。（《中国药典2015》） 用法用量 熬膏外敷。（《中国药典2015》） 用药禁忌 不宜与密陀僧同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "狼毒为大戟科植物甘肃大戟（月腺大戟）Euphorbia kansuensis Prokh.或狼毒大戟Euphorbia fischeriana Steud.的干燥根。春、秋二季采挖，洗净，切片，晒干。主产黑龙江。 来源 本品为大戟科植物甘肃大戟（月腺大戟）Euphorbia kansuensis Prokh.或狼毒大戟Euphorbia fischeriana Steud.的干燥根。（《中国药典2015》） 分布产地 主产黑龙江。 入药部位 根及根茎 采收加工 春、秋二季采挖，洗净，切片，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-34.html",
+      "detailId": "34",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "omphalia",
+    "name": "雷丸",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "OMPHALIA",
+      "family": "白蘑科"
+    },
+    "originDistribution": "甘肃、江苏、浙江、中南、广东、四川、云南、贵州等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏雷丸",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "驱虫药",
+    "efficacy": "杀虫消积。（《中国药典2015》）",
+    "indications": "用于绦虫病，钩虫病，蛔虫病，虫积腹痛，小儿疳积。（《中国药典2015》） 用法用量 15-21g，不宜入煎剂，一般研粉服，一次5-7g，饭后用温开水调服，一日3 次，连服3 天。（《中国药典2015》） 用药禁忌 本品不宜煎服。无虫积者禁服，有虫积而脾胃虚寒者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "雷丸为白蘑科真菌雷丸Omphalia lapidescens Schroet.的干燥菌核。秋季采挖，洗净，晒干。主产于甘肃、江苏、浙江、中南、广东、四川、云南、贵州等地。 来源 本品为白蘑科真菌雷丸Omphalia lapidescens Schroet.的干燥菌核。（《中国药典2015》） 分布产地 主产于甘肃、江苏、浙江、中南、广东、四川、云南、贵州等地。 入药部位 藻、菌、地衣 采收加工 秋季采挖，洗净，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-234.html",
+      "detailId": "234",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "litchi-seed",
+    "name": "荔枝核",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "LITCHI SEMEN",
+      "family": "无患子科"
+    },
+    "originDistribution": "广东、广西、福建等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、福建等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "行气散结，祛寒止痛。（《中国药典2015》）",
+    "indications": "用于寒疝腹痛，睾丸肿痛。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "荔枝核为无患子科植物荔枝Litchi chinensis Sonn.的干燥成熟种子。夏季采摘成熟果实，除去果皮和肉质假种皮，洗净，晒干。主产于广东、广西、福建等地。 来源 本品为无患子科植物荔枝Litchi chinensis Sonn.的干燥成熟种子。（《中国药典2015》） 分布产地 主产于广东、广西、福建等地。 入药部位 果实及种子 采收加工 夏季采摘成熟果实，除去果皮和肉质假种皮，洗净，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-176.html",
+      "detailId": "176",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lychee",
+    "name": "荔枝壳",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "产区分布：广东、广西、福建等地",
+      "family": "无患子科"
+    },
+    "originDistribution": "广东、广西、福建等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、福建等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "养血健脾，行气消肿。（《中药大辞典》）",
+    "indications": "病后体虚，津伤口渴，脾虚泄泻，呃逆，食少，瘰疬，疔肿，外伤出血。（《中药大辞典》） 用法用量 内服：煎汤，5-10枚；烧存性研末；或浸酒。外用：捣烂敷；或烧存性研末撒。（《中药大辞典》） 用药禁忌 阴虚火旺者慎服。（《中药大辞典》） ①《食疗本草》：&quot;多食则发热。&quot; ②《海药本草》：&quot;食之多则发热疮。&quot; ③《纲目》：&quot;鲜者食多，即龈肿口痛，或衄血。",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "荔枝壳为无患子科植物荔枝Litchi chinensis Sonn.的果皮。6-7月采收成熟的果实，在加工时剥取外果皮，晒干。产于广东、广西、福建等地。 来源 本品为无患子科植物荔枝Litchi chinensis Sonn.的果皮。（《中药大辞典》） 分布产地 产于广东、广西、福建等地。 入药部位 果实及种子 采收加工 6-7月采收成熟的果实，在加工时剥取外果皮，晒干。（《中药大辞典》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-262.html",
+      "detailId": "262",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "forsythia-suspensa",
+    "name": "连翘",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao",
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "怀药",
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "FORSYTHIAE FRUCTUS",
+      "family": "木犀科"
+    },
+    "originDistribution": "山西、河南、陕西、山东等地",
+    "daoDiRegions": [
+      {
+        "place": "山西、河南、陕西、山东等地",
+        "province": "山西"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，消肿散结，疏散风热。（《中国药典2015》）",
+    "indications": "用于痈疽，瘰疬，乳痈，丹毒，风热感冒，温病初起，温热入营，高热烦渴，神昏发斑，热淋涩痛。（《中国药典2015》） 用法用量 6-15g。（《中国药典2015》） 用药禁忌 脾胃虚弱者，慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "连翘为木犀科植物连翘Forsythia suspensa (Thunb.) Vahl的干燥果实。秋季果实初熟尚带绿色时采收，除去杂质，蒸熟，晒干，习称&ldquo;青翘&rdquo;；果实熟透时采收，晒干，除去杂质，习称&ldquo;老翘&rdquo;。主产于山西、河南、陕西、山东等地，以山西、河南产量最大。 来源 本品为木犀科植物连翘Forsythia suspensa (Thunb.) Vahl的干燥果实。（《中国药典2015》） 分布产地 主产于山西、河南、陕西、山东等地，以山西、河南产量最大。 入药部位 果实及种子 采收加工 秋季果实初熟尚带绿色",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-121.html",
+      "detailId": "121",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lotus-seed",
+    "name": "莲子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "NELUMBINIS SEMEN",
+      "family": "睡莲科"
+    },
+    "originDistribution": "湖南、湖北、福建等地",
+    "daoDiRegions": [
+      {
+        "place": "湖南、湖北、福建等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "补脾止泻，止带，益肾涩精，养心安神。（《中国药典2015》）",
+    "indications": "用于脾虚泄泻，带下，遗精，心悸失眠。（《中国药典2015》） 用法用量 6-15g。（《中国药典2015》） 用药禁忌 中满痞胀、大便燥结者禁服。（《中药大辞典》） 贮藏保存 置干燥阴凉处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "莲子为睡莲科植物莲Nelumbo nucifera Gaertn.的干燥成熟种子。秋季果实成熟时采割莲房，取出果实，除去果皮，干燥。主产于湖南、湖北、福建等地。 来源 本品为睡莲科植物莲Nelumbo nucifera Gaertn.的干燥成熟种子。（《中国药典2015》） 分布产地 主产于湖南、湖北、福建等地。 入药部位 果实及种子 采收加工 秋季果实成熟时采割莲房，取出果实，除去果皮，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-196.html",
+      "detailId": "196",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "zanthoxylum-nitidum",
+    "name": "两面针",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "ZANTHOXYLI RADIX",
+      "family": "芸香科"
+    },
+    "originDistribution": "福建、湖南、广西、广东、云南及台湾等地",
+    "daoDiRegions": [
+      {
+        "place": "福建、湖南、广西、广东、云南及台湾等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血化瘀，行气止痛，祛风通络，解毒消肿。（《中国药典2015》）",
+    "indications": "用于跌扑损伤，胃痛，牙痛，风湿痹痛，毒蛇咬伤；外治烧烫伤。（《中国药典2015》） 用法用量 5-10g。外用适量，研末调敷或煎水洗患处。（《中国药典2015》） 用药禁忌 不能过量服用。忌与酸味食物同服。（《中国药典2015》） 贮藏保存 置干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "两面针为芸香科植物两面针Zanthoxylum nitidum (Roxb.) DC.的干燥根。全年均可采挖，洗净，切片或段，晒干。产于福建、湖南、广西、广东、云南及台湾等地。 来源 本品为芸香科植物两面针Zanthoxylum nitidum (Roxb.) DC.的干燥根。（《中国药典2015》） 分布产地 产于福建、湖南、广西、广东、云南及台湾等地。 入药部位 根及根茎 采收加工 全年均可采挖，洗净，切片或段，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-305.html",
+      "detailId": "305",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cornu-saigae-tataricae",
+    "name": "羚羊角",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "weiyao",
+      "guanyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "维药",
+      "关药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "SAIGAE TATARICAE CORNU",
+      "family": "动物药"
+    },
+    "originDistribution": "新疆、甘肃、青海、西藏、内蒙古",
+    "daoDiRegions": [
+      {
+        "place": "新疆、甘肃、青海、西藏、内蒙古",
+        "province": "内蒙古"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "平肝息风，清肝明目，散血解毒。（《中国药典2015》）",
+    "indications": "用于肝风内动，惊痫抽搐，妊娠子痫，高热痉厥，癫痫发狂，头痛眩晕，目赤翳障，温毒发斑，痈肿疮毒。（《中国药典2015》） 用法用量 1-3g，宜另煎2小时以上；磨汁或研粉服，每次0.3-0.6g。（《中国药典2015》） 用药禁忌 脾虚慢惊患者禁服。（《中华本草》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "羚羊角为牛科动物赛加羚羊Saiga tatarica Linnaeus的角。猎取后锯取其角，晒干。主产于新疆、甘肃、青海、西藏、内蒙古。 来源 本品为牛科动物赛加羚羊Saiga tatarica Linnaeus的角。（《中国药典2015》） 分布产地 主产于新疆、甘肃、青海、西藏、内蒙古。 入药部位 动物 采收加工 猎取后锯取其角，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-352.html",
+      "detailId": "352",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "radix-gentianae",
+    "name": "龙胆",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "yunyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "云药"
+    ],
+    "taxonomy": {
+      "latinName": "GENTIANAE RADIX ET RHIZOMA",
+      "family": "龙胆科"
+    },
+    "originDistribution": "黑龙江、吉林、辽宁、内蒙古，产量大",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江、吉林、辽宁、内蒙古，产量大",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热燥湿，泻肝胆火。（《中国药典2015》）",
+    "indications": "用于湿热黄疸，阴肿阴痒，带下，湿疹瘙痒，肝火目赤，耳鸣耳聋，胁痛口苦，强中，惊风抽搐。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 脾胃虚弱及无湿热实火者忌服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "龙胆为龙胆科植物条叶龙胆Gentiana manshurica Kitag.、龙胆Gentiana scabra Bunge、三花龙胆Gentiana triflora Pall.或坚龙胆Gentiana rigescens Franch. ex Hemsl.的干燥根和根茎。前三种习称&ldquo;龙胆&rdquo;，后一种习称&ldquo;坚龙胆&rdquo;。春、秋二季采挖，洗净，干燥。龙胆（龙胆、条叶龙胆和三花龙胆）主产于黑龙江、吉林、辽宁、内蒙古，产量大，品质优；坚龙胆（滇龙胆）主产于云南、四川、贵州。 来源 本品为龙胆科植物条叶龙胆Gentia",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-52.html",
+      "detailId": "52",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "os-draconis",
+    "name": "龙骨",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "beiyao",
+      "qinyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "北药",
+      "秦药"
+    ],
+    "taxonomy": {
+      "latinName": "OS DRACONIS",
+      "family": "其它科"
+    },
+    "originDistribution": "主产于河南、河北、山西",
+    "daoDiRegions": [
+      {
+        "place": "主产于河南、河北、山西",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "安神药",
+    "efficacy": "镇惊安神，敛汗固精；外用生肌敛疮。（《湖南省中药材标准2009年版》）",
+    "indications": "用于心悸易惊，失眠多梦，自汗盗汗，遗精，崩漏带下，外用治溃疡久不收口，阴囊湿痒。（《湖南省中药材标准2009年版》） 用法用量 10-20g。外用适量。（《湖南省中药材标准2009年版》） 用药禁忌 湿热积滞者慎服。（《中药大辞典》） 贮藏保存 置干燥容器内。（《湖南省中药材标准2009年版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "龙骨为古代哺乳动物如三趾马、犀类、鹿类、牛类、象类等的骨骼化石或象类门齿的化石。前者习称&ldquo;龙骨&rdquo;，后者习称&ldquo;五花龙骨&rdquo;。挖出后除去杂质。主产于河南、河北、山西、陕西、内蒙古等地。 来源 本品为古代哺乳动物如三趾马、犀类、鹿类、牛类、象类等的骨骼化石或象类门齿的化石。前者习称&ldquo;龙骨&rdquo;，后者习称&ldquo;五花龙骨&rdquo;。（《湖南省中药材标准2009年版》） 分布产地 主产于河南、河北、山西、陕西、内蒙古等地。 入药部位 矿物 采收加工 挖出后除去杂质。（《湖南省中药材标准20",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-24.html",
+      "detailId": "24",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "longan-dried",
+    "name": "龙眼肉",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "LONGAN ARILLUS",
+      "family": "无患子科"
+    },
+    "originDistribution": "福建、广西",
+    "daoDiRegions": [
+      {
+        "place": "福建、广西",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补益心脾，养血安神。（《中国药典2015》）",
+    "indications": "用于气血不足，心悸怔忡，健忘失眠，血虚萎黄。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 内有痰火及湿滞停饮者忌服。（《中药大辞典》） 贮藏保存 置通风干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "龙眼肉为无患子科植物龙眼Dimocarpus longan Lour.的假种皮。夏、秋二季采收成熟果实，干燥，除去壳、核，晒至干爽不黏。主产于福建、广西。以福建产的品质好，药用以广西产的为多。 来源 本品为无患子科植物龙眼Dimocarpus longan Lour.的假种皮。（《中国药典2015》） 分布产地 主产于福建、广西。以福建产的品质最好，药用以广西产的为多。 入药部位 果实及种子 采收加工 夏、秋二季采收成熟果实，干燥，除去壳、核，晒至干爽不黏。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-186.html",
+      "detailId": "186",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "aloe-vera",
+    "name": "芦荟",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "ALOE",
+      "family": "百合科"
+    },
+    "originDistribution": "南美洲及西印度群岛",
+    "daoDiRegions": [
+      {
+        "place": "南美洲及西印度群岛",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "泻下药",
+    "efficacy": "泻下通便，清肝泻火，杀虫疗疳。（《中国药典2015》）",
+    "indications": "用于热结便秘，惊痫柚搐，小儿疳积；外治癣疮。（《中国药典2015》） 用法用量 2-5g，宜入丸散。外用适量，研末敷患处。（《中国药典2015》） 用药禁忌 孕妇忌服。（《中国药典2015》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "芦荟为百合科植物库拉索芦荟Aloe barbadensis Miller、好望角芦荟Aloe ferox Mill.或其他同属近缘植物叶的汁液浓缩干燥物。前者习称&ldquo;老芦荟&rdquo;，后者习称&ldquo;新芦荟&rdquo;。种植2-3年后即可收获，于8-9月将中下部生长良好的叶片分批采收。将采收的鲜叶片切口向下直放于盛器中，取其流出的液汁干燥即成。也可将叶片洗净，横切成片，加入与叶片同等量的水，煎煮2-3h，过滤，将过滤浓缩成粘稠状，倒入模型内烘干或曝晒干，即得芦荟膏。库拉索芦荟主产于南美洲及西印度群岛，习称&ldquo;老芦荟&rdq",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-256.html",
+      "detailId": "256",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cornu-cervi-pantotrichum",
+    "name": "鹿茸",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "weiyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "维药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "CERVI CORNU PANTOTRICHUM",
+      "family": "动物药"
+    },
+    "originDistribution": "吉林、辽宁、黑龙江",
+    "daoDiRegions": [
+      {
+        "place": "吉林、辽宁、黑龙江",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "壮肾阳，益精血，强筋骨，调冲任，托疮毒。（《中国药典2015》）",
+    "indications": "用于肾阳不足，精血亏虚，阳痿滑精，宫冷不孕，赢瘦，神疲，畏寒，眩晕，耳鸣，耳聋，腰脊冷痛，筋骨痿软，崩漏带下，阴疽不敛。（《中国药典2015》） 用法用量 1-2g，研末冲服。（《中国药典2015》） 用药禁忌 凡阴虚阳亢，血分有热，胃火盛或肺有热痰以及外感热病者俊禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，密闭，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "鹿茸为鹿科动物梅花鹿Cervus nippon Temminck或马鹿Cervus elaphus Linnaeus的雄鹿未骨化密生茸毛的幼角。前者习称&ldquo;花鹿茸&rdquo;，后者习称&ldquo;马鹿茸&rdquo;。夏、秋二季锯取鹿茸，经加工后，阴干或烘干。花鹿茸主产于吉林、辽宁、黑龙江。马鹿茸主产黑龙江、吉林、内蒙古等地者又称东马鹿茸；四川、云南、青海、新疆等地产者又称西马鹿茸。 来源 本品为鹿科动物梅花鹿Cervus nippon Temminck或马鹿Cervus elaphus Linnaeus的雄鹿未骨化密生茸毛的幼角。前者习称",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-353.html",
+      "detailId": "353",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "siraitia-fruit",
+    "name": "罗汉果",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "SIRAITIAE FRUCTUS",
+      "family": "葫芦科"
+    },
+    "originDistribution": "广西",
+    "daoDiRegions": [
+      {
+        "place": "广西",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热润肺，利咽开音，滑肠通便。（《中国药典2015》）",
+    "indications": "用于肺热燥咳，咽痛失音，肠燥便秘。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 《广西中药志》：&ldquo;肺寒及外感咳嗽者忌用。&rdquo; 贮藏保存 置干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "罗汉果为葫芦科植物罗汉果Siraitia grosvenorii (Swingle) C. Jeffrey ex Lu et Z. Y. Zhang的干燥果实。秋季果实由嫩绿色变深绿色时采收，晾数天后，低温干燥。主产于广西。 来源 本品为葫芦科植物罗汉果Siraitia grosvenorii (Swingle) C. Jeffrey ex Lu et Z. Y. Zhang的干燥果实。（《中国药典2015》） 分布产地 主产于广西。 入药部位 果实及种子 采收加工 秋季果实由嫩绿色变深绿色时采收，晾数天后，低温干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-287.html",
+      "detailId": "287",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-245",
+    "name": "萝芙木",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "RADIX ET CAULIS RAUVOLFIAE",
+      "family": "夹竹桃科"
+    },
+    "originDistribution": "主产于云南西双版纳",
+    "daoDiRegions": [
+      {
+        "place": "主产于云南西双版纳",
+        "province": "云南"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "清风热，降肝火，消肿毒。（《中华本草》）",
+    "indications": "治感冒发热，咽喉肿痛，高血压头痛眩晕，痧症腹痛吐泻，风痒疮疥。（《中华本草》） 用法用量 内服：煎汤，10-30g。外用：鲜品适量，捣敷。（《中华本草》） 用药禁忌 《广西药植图志》：&quot;有胃病及气血虚象者忌用。&quot; 贮藏保存 置干燥处（《中华本草》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "萝芙木为夹竹桃科植物萝芙木Rauvolfiaverticillata （Lour．）Baill.的根。定植2～3年便可采挖，以10月份采收生物碱含量较高。先离地面10cm左右砍断茎杆，清除枝叶，将根挖出，抖去泥土，粗根切成1cm厚的薄片，细根砍成短节，晒干即成。主产于云南西双版纳。 来源 夹竹桃科植物萝芙木Rauvolfia Verticillata (Lour.)Baill.的干燥根和茎。（《中华本草》） 分布产地 主产于云南西双版纳。 采收加工 定植2～3年便可采挖，以10月份采收生物碱含量较高。先离地面10cm左右砍断茎杆，清除枝叶，将根挖出，抖去",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-245.html",
+      "detailId": "245",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "ephedra-sinica",
+    "name": "麻黄",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "mengyao",
+      "beiyao",
+      "qinyao",
+      "weiyao",
+      "guanyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "蒙药",
+      "北药",
+      "秦药",
+      "维药",
+      "关药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "EPHEDRAE HERBA",
+      "family": "麻黄科"
+    },
+    "originDistribution": "河北、山西、甘肃、陕西、内蒙古、宁夏、新疆等地",
+    "daoDiRegions": [
+      {
+        "place": "河北、山西、甘肃、陕西、内蒙古、宁夏、新疆等地",
+        "province": "内蒙古"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "麻黄：发汗散寒，宣肺平喘，利水消肿。 蜜麻黄：润肺止咳。（《中国药典2015》）",
+    "indications": "麻黄：用于风寒感冒，胸闷喘咳，风水浮肿。 蜜麻黄：多用于表证已解，气喘咳嗽。（《中国药典2015》） 用法用量 2-10g。（《中国药典2015》） 用药禁忌 体虚自汗、盗汗及虚喘者禁服。（《中药大辞典》） 贮藏保存 置通风干燥处。防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "麻黄为麻黄科植物草麻黄Ephedra sinica Stapf、中麻黄Ephedra intermedia Schrenk ex Mey.或木贼麻黄Ephedra equisetina Bge.的干燥草质茎。秋末采挖，除去残茎、须根和泥沙，干燥。草麻黄主产于河北、山西、新疆、内蒙古；中麻黄主产于甘肃、青海、内蒙古及新疆；木贼麻黄主产于河北、山西、甘肃、陕西、内蒙古、宁夏、新疆等地。 来源 本品为麻黄科植物草麻黄Ephedra sinica Stapf、中麻黄Ephedra intermedia Schrenk ex Mey.或木贼麻黄Ephedra eq",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-58.html",
+      "detailId": "58",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "ephedra-root",
+    "name": "麻黄根",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "EPHEDRAE RADIX ET RHIZOMA",
+      "family": "麻黄科"
+    },
+    "originDistribution": "辽宁、河北、山西、新疆、内蒙古、甘肃、青海等地",
+    "daoDiRegions": [
+      {
+        "place": "辽宁、河北、山西、新疆、内蒙古、甘肃、青海等地",
+        "province": "内蒙古"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "固表止汗。（《中国药典2015》）",
+    "indications": "用于自汗，盗汗。（《中国药典2015》） 用法用量 3-9g。外用适量，研粉撒扑。（《中国药典2015》） 用药禁忌 有表邪者忌服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "麻黄根为麻黄科植物草麻黄Ephedra sinica Stapf或中麻黄Ephedra intermedia Schrenk ex Mey.的干燥根和根茎。秋末采挖，除去残茎、须根和泥沙，干燥。主产于辽宁、河北、山西、新疆、内蒙古、甘肃、青海等地。 来源 本品为麻黄科植物草麻黄Ephedra sinica Stapf或中麻黄Ephedra intermedia Schrenk ex Mey.的干燥根和根茎。（《中国药典2015》） 分布产地 主产于辽宁、河北、山西、新疆、内蒙古、甘肃、青海等地。 入药部位 根及根茎 采收加工 秋末采挖，除去残茎、须根和泥",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-400.html",
+      "detailId": "400",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lasiosphaera-fenzlii",
+    "name": "马勃",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "beiyao",
+      "guangyao",
+      "guiyao",
+      "qinyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "北药",
+      "广药",
+      "贵药",
+      "秦药"
+    ],
+    "taxonomy": {
+      "latinName": "LASIOSPHAERA CALVATIA",
+      "family": "灰包科"
+    },
+    "originDistribution": "吉林、河北、陕西、山西、甘肃、江苏、广东、贵州等",
+    "daoDiRegions": [
+      {
+        "place": "吉林、河北、陕西、山西、甘肃、江苏、广东、贵州等",
+        "province": "吉林"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "清肺利咽，止血。（《中国药典2015》）",
+    "indications": "风热郁肺咽痛，音哑，咳嗽；外治鼻衄，创伤出血。（《中国药典2015》） 用法用量 内服：煎汤，0.5-1钱；或入丸、散。外用：研末撒、调敷、或作吹药。（《中华本草》） （2-6g）（《中国药典2015》） 用药禁忌 《饮片新参》：&quot;风寒劳咳失音者忌用。&quot; 贮藏保存 置干燥处，防尘。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "马勃为灰包科真菌脱皮马勃Lasiosphaera enziiiReich.、大马勃Calvatia gigantea (Batsch ex Pers.)Lloyd成紫色马勃Calvatia lilacina(Mont.et Berk.) Lloyd的干燥子实体。夏、秋二季子实体成熟时及时采收，除去泥沙，干燥。主产吉林、河北、陕西、山西、甘肃、江苏、广东、贵州等省。 来源 本品为灰包科真菌脱皮马勃Lasiosphaera enziii Reich.、大马勃Calvatia gigantea (Batsch ex Pers.)Lloyd成紫色马勃Calvat",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-252.html",
+      "detailId": "252",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "aristolochia-fruit",
+    "name": "马兜铃",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "ARISTOLOCHIAE FRUCTUS",
+      "family": "马兜铃科"
+    },
+    "originDistribution": "黑龙江、吉林、辽宁、河北、山东、河南、陕西等地",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江、吉林、辽宁、河北、山东、河南、陕西等地",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "清肺降气，止咳平喘，清肠消痔。（《中国药典2015》）",
+    "indications": "用于肺热咳喘，痰中带血，肠热痔血，痔疮肿痛。（《中国药典2015》） 用法用量 3-9g。（《中国药典2015》） 用药禁忌 本品含马兜铃酸，可引起肾脏损害等不良反应；儿童及老年人慎用；孕妇、婴幼儿及肾功能不全者禁用。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "马兜铃为马兜铃科植物北马兜铃Aristolochia contorta Bunge或马兜铃Aristolochia debilis Sieb. et Zucc.的干燥成熟果实。秋季果实由绿变黄时采收，干燥。北马兜铃主产于黑龙江、吉林、辽宁、河北、山东、河南、陕西等地。马兜铃主产于浙江、安徽、江苏、湖南、湖北等地。 来源 本品为马兜铃科植物北马兜铃Aristolochia contorta Bunge或马兜铃Aristolochia debilis Sieb. et Zucc.的干燥成熟果实。（《中国药典2015》） 分布产地 北马兜铃主产于黑龙江、吉林、",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-327.html",
+      "detailId": "327",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "strychnos-nux-vomica",
+    "name": "马钱子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao",
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "广药",
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "STRYCHNI SEMEN",
+      "family": "马钱科"
+    },
+    "originDistribution": "福建、台湾、广东、海南、广西、云南等地",
+    "daoDiRegions": [
+      {
+        "place": "云南、海南",
+        "province": "海南"
+      },
+      {
+        "place": "福建、台湾、广东、海南、广西、云南等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "有通络止痛，散结消肿的作用。（《中国药典2015》）",
+    "indications": "用于跌打损伤，骨折肿痛，风湿顽痹，麻木瘫痪，痈疽疮毒，咽喉肿痛。（《中国药典2015》） 用法用量 0.3～0.6g，入丸散用。（《中国药典2015》） 用药禁忌 孕妇禁用；不宜多服久服及生用；运动员慎用；有毒成分能经皮肤吸收，外用不宜大面积涂敷。（《中国药典2015》） 《本草经疏》：&quot;气血虚弱、脾胃不实者，慎勿用之。&quot; 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "马钱子为马钱科植物马钱Strychnos nux-vomica Linn.的干燥成熟种子。冬季采收成熟果实，取出种子，晒干。主产于印度、越南、缅甸、泰国、斯里兰卡等地。国产马钱子主产云南、海南省等地。 来源 本品为马钱科植物马钱Strychnos nux-vomica Linn.的干燥成熟种子。（《中国药典2015》） 本品为马钱科植物马钱Strychnos nux-vomica Linn.、长籽马钱Strychnos wallichiana Steud. ex DC.的种子。（《中华本草》） 分布产地 主产于印度、越南、缅甸、泰国、斯里兰卡等地。国产马",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-238.html",
+      "detailId": "238",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "ophiopogon-japonicus",
+    "name": "麦冬",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "浙药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "OPHIOPOGONIS RADIX",
+      "family": "百合科"
+    },
+    "originDistribution": "浙江、四川",
+    "daoDiRegions": [
+      {
+        "place": "浙江、四川",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "养阴生津，润肺清心。（《中国药典2015》） 滋阴润肺，益胃生津，清心除烦。（《中华本草》）",
+    "indications": "用于肺燥干咳，阴虚痨嗽，喉痹咽痛，津伤口渴，内热消渴，心烦失眠，肠燥便秘。（《中国药典2015》） 主治肺燥干咳，肺痈，阴虚劳嗽，津伤口渴，消渴，心烦失眠，咽喉疼痛，肠燥便秘，血热吐衄。（《中华本草》） 用法用量 6-12g。（《中国药典2015》） 内服：煎汤，6-15g；或入丸、散、膏。外用：适量，研末调敷；煎汤涂；或鲜品捣汁搽。（《中华本草》） 用药禁忌 虚寒泄泻、湿浊中阻、风寒或寒痰咳喘者",
+    "partUsed": "",
+    "productVariants": [
+      "浙麦冬",
+      "川麦冬",
+      "杭麦冬"
+    ],
+    "overview": "麦冬为百合科植物麦冬Ophiopogon japonicus (L. f.) Ker-Gawl.的干燥块根。夏季采挖，洗净，反复暴晒、堆置，至七八成干，除去须根，干燥。主产于浙江、四川。商品大多为栽培品，浙江产的为浙麦冬（杭麦冬），四川产的为川麦冬。 来源 本品为百合科植物麦冬Ophiopogon japonicus (L. f.) Ker-Gawl.的干燥块根。（《中国药典2015》） 本品为百合科植物麦冬Ophiopogon japonicus (L. f.) Ker-Gawl.或沿阶草Ophiopogon bodinieri Levl.的块根。（《",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-155.html",
+      "detailId": "155",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-88",
+    "name": "麦饭石",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "MAIFANITUM",
+      "family": "其它科"
+    },
+    "originDistribution": "天津、内蒙古、辽宁、吉林",
+    "daoDiRegions": [
+      {
+        "place": "天津、内蒙古、辽宁、吉林",
+        "province": "内蒙古"
+      }
+    ],
+    "efficacyClass": "拔毒生肌药",
+    "efficacy": "解毒生肌，祛湿健脾。（《中药大辞典》） 解毒散结，去腐生肌，除寒祛湿，益肝健胃，活血化瘀，利尿化石，延年益寿。（《安徽省中药饮片炮制规范2005版》）",
+    "indications": "主治痈疽发背，痤疮，湿疹，脚气，痱子，手指皲裂，黄褐斑，牙痛，口腔溃疡，风湿痹痛，腰背痛，慢性肝炎，胃炎，痢疾，糖尿病，神经衰弱，外伤红肿，高血压，老年性血管硬化，肿瘤，尿路结石。一般作保健药品。（《中药大辞典》） 用于痈疽发背，痤疮，湿疹，脚气，牙痛，口腔溃疡，风湿痹证，腰背痛，慢性肝炎，胃炎，糖尿病，神经衰弱，外伤红肿，高血压，肿瘤，尿路结石。一般可作保健药品。（《安徽省中药饮片炮制规范200",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "麦饭石为中酸性火成岩类岩石石英二长斑岩。采挖后，除去泥沙、杂石。主产于天津、内蒙古、辽宁、吉林。 来源 本品为中酸性火成岩类岩石石英二长斑岩。（《中药大辞典》） 本品为中酸性火成岩类岩石石英二长斑岩。主含二氧化硅（SiO2）等多种氧化物。（《安徽省中药饮片炮制规范2005版》） 分布产地 主产于天津、内蒙古、辽宁、吉林。 入药部位 矿物 采收加工 随时可采，除去杂石，晒干。（《中药大辞典》） 采挖后，除去泥沙、杂石。（《安徽省中药饮片炮制规范2005版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-88.html",
+      "detailId": "88",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-379",
+    "name": "满山红",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "RHODODENDRI DAURICI FOLIUM",
+      "family": "杜鹃花科"
+    },
+    "originDistribution": "黑龙江、内蒙古、吉林",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江、内蒙古、吉林",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "止咳祛痰。（《中国药典2015》）",
+    "indications": "用于咳嗽气喘痰多。（《中国药典2015》） 用法用量 25-50g；6-12g，用40%乙醇浸服。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防潮，防热。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "满山红为杜鹃花科植物兴安杜鹃Rhododendron dauricum L.的干燥叶。夏、秋二季采收，阴干。产黑龙江、内蒙古、吉林。 来源 本品为杜鹃花科植物兴安杜鹃Rhododendron dauricum L.的干燥叶。（《中国药典2015》） 分布产地 产黑龙江、内蒙古、吉林。 入药部位 叶 采收加工 夏、秋二季采收，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-379.html",
+      "detailId": "379",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "vitex-rotundifolia",
+    "name": "蔓荆子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "VITICIS FRUCTUS",
+      "family": "马鞭草科"
+    },
+    "originDistribution": "山东、江西、浙江、福建等地",
+    "daoDiRegions": [
+      {
+        "place": "山东、江西、浙江、福建等地",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "疏散风热，清利头目。（《中国药典2015》）",
+    "indications": "用于风热感冒头痛，齿龈肿痛，目赤多泪，目暗不明，头晕目眩。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 胃虚者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "蔓荆子为马鞭草科植物单叶蔓荆Vitex trifolia L. var. simplicifolia Cham.或蔓荆Vitex trifolia L.的干燥成熟果实。秋季果实成熟时采收，除去杂质，晒干。单叶蔓荆子主产于山东、江西、浙江、福建等地。蔓荆子主产于海南、广西、云南。 来源 本品为马鞭草科植物单叶蔓荆Vitex trifolia L. var. simplicifolia Cham.或蔓荆Vitex trifolia L.的干燥成熟果实。（《中国药典2015》） 分布产地 单叶蔓荆子主产于山东、江西、浙江、福建等地。蔓荆子主产于海南、广西、云南",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-171.html",
+      "detailId": "171",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "terminalia-chebula-villosa",
+    "name": "毛诃子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "huaiyao",
+      "zangyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "怀药",
+      "藏药"
+    ],
+    "taxonomy": {
+      "latinName": "TERMINALIAE BELLIRICAE FRUCTUS",
+      "family": "使君子科"
+    },
+    "originDistribution": "云南",
+    "daoDiRegions": [
+      {
+        "place": "云南",
+        "province": "云南"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，收敛养血，调和诸药。（《中国药典2015》）",
+    "indications": "用于各种热症，泻痢，黄水病，肝胆病，病后虚弱。（《中国药典2015》） 用法用量 3-9g，多入丸散服。（《中国药典2015》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "毛诃子系藏族习用药材。为使君子科植物毗黎勒Terminalia bellirica (Gaertn.) Roxb.的干燥成熟果实。冬季果实成熟时采收，除去杂质，晒干。产于云南。 来源 本品系藏族习用药材。为使君子科植物毗黎勒Terminalia bellirica (Gaertn.) Roxb.的干燥成熟果实。（《中国药典2015》） 分布产地 产于云南。 入药部位 果实及种子 采收加工 冬季果实成熟时采收，除去杂质，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-62.html",
+      "detailId": "62",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "buddleja-officinalis",
+    "name": "密蒙花",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "BUDDLEJAE FLOS",
+      "family": "马钱科"
+    },
+    "originDistribution": "湖北宜昌、襄阳，四川金堂、广汉，河南商城，陕西安康、紫阳，云南楚雄、大理等地",
+    "daoDiRegions": [
+      {
+        "place": "河南密蒙花",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热泻火，养肝明目，退翳。（《中国药典2015》）",
+    "indications": "用于目赤肿痛，多泪羞明，目生翳膜，肝虚目暗，视物昏花。（《中国药典2015》） 用法用量 3-9g。（《中国药典2015》） 用药禁忌 1.《萃金裘本草述录》：&ldquo;虚寒内伤、劳伤目疾禁服密蒙花。&rdquo; 2.《四川中药志》1960年版：&ldquo;阳虚、肝寒胃弱者忌用。&rdquo; 贮藏保存 置通风干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "密蒙花为马钱科植物密蒙花Buddleja officinalis Maxim.的干燥花蕾和花序。春季花未开放时采收，除去杂质，干燥。主产于湖北宜昌、襄阳，四川金堂、广汉，河南商城，陕西安康、紫阳，云南楚雄、大理等地。以湖北、四川等地产量较大。 来源 本品为马钱科植物密蒙花Buddleja officinalis Maxim.的干燥花蕾和花序。（《中国药典2015》） 分布产地 主产于湖北宜昌、襄阳，四川金堂、广汉，河南商城，陕西安康、紫阳，云南楚雄、大理等地。以湖北、四川等地产量较大。 入药部位 花 采收加工 春季花未开放时采收，除去杂质，干燥。（《中国",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-346.html",
+      "detailId": "346",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-21",
+    "name": "缅茄",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "产区分布：广东、海南、广西、云南。",
+      "family": "豆科"
+    },
+    "originDistribution": "广东、海南、广西、云南。",
+    "daoDiRegions": [
+      {
+        "place": "广东、海南、广西、云南。",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "拔毒生肌药",
+    "efficacy": "解毒消肿，去翳。（《中药大辞典》）",
+    "indications": "主治赤眼，眼生云翳，疮毒，火热牙痛。（《中华本草》） 用法用量 外用：适量，酒、水磨涂。（《中华本草》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "缅茄为豆科植物缅茄Afzelia xylocarpa (Kurz) Craib的种子。8月采收成熟果实，取种子，晒干。产广东、海南、广西、云南。   来源 本品为豆科植物缅茄Afzelia xylocarpa (Kurz) Craib的种子。（《中药大辞典》） 分布产地 产广东、海南、广西、云南。 入药部位 果实及种子 采收加工 8月采收成熟果实，取种子，晒干。（《中药大辞典》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-21.html",
+      "detailId": "21",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "changium-smyrnioides",
+    "name": "明党参",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "CHANGII RADIX",
+      "family": "伞形科"
+    },
+    "originDistribution": "江苏、安徽、浙江等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏、安徽、浙江等地",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "润肺化痰，养阴和胃，平肝，解毒。（《中国药典2015》）",
+    "indications": "用于肺热咳嗽，呕吐反胃，食少口干，目赤眩晕，疔毒疮疡。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 脾虚泄泻、梦遗滑精者以及孕妇禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "明党参为伞形科植物明党参Changium smyrnioides Wolff的干燥根。4-5月采挖，除去须根，洗净，置沸水中煮至无白心，取出，刮去外皮，漂洗，干燥。主产于江苏、安徽、浙江等地。 来源 本品为伞形科植物明党参Changium smyrnioides Wolff的干燥根。（《中国药典2015》） 分布产地 主产于江苏、安徽、浙江等地。 入药部位 根及根茎 采收加工 4-5月采挖，除去须根，洗净，置沸水中煮至无白心，取出，刮去外皮，漂洗，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-350.html",
+      "detailId": "350",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "eclipta-prostrata",
+    "name": "墨旱莲",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "ECLIPTAE HERBA",
+      "family": "菊科"
+    },
+    "originDistribution": "江苏、浙江、江西、湖北等",
+    "daoDiRegions": [
+      {
+        "place": "江苏、浙江、江西、湖北等",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "滋补肝肾，凉血止血。（《中国药典2015》）",
+    "indications": "用于肝肾阴虚，牙齿松动，须发早白，眩晕耳鸣，腰膝酸软，阴虚血热吐血、衄血、尿血，血痢，崩漏下血，外伤出血。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 脾肾虚寒者慎服。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "墨旱莲为菊科植物鳢肠Eclipta prostrata (L. ) L.的干燥地上部分。花开时采割，晒干。主产于江苏、浙江、江西、湖北等地。 来源 本品为菊科植物鳢肠Eclipta prostrata (L. ) L.的干燥地上部分。（《中国药典2015》） 分布产地 主产于江苏、浙江、江西、湖北等地。 入药部位 全草 采收加工 花开时采割，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-331.html",
+      "detailId": "331",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "moutan-cortex",
+    "name": "牡丹皮",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "MOUTAN CORTEX",
+      "family": "毛茛科"
+    },
+    "originDistribution": "安徽、四川、山东等地",
+    "daoDiRegions": [
+      {
+        "place": "安徽、四川、山东等地",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热凉血，活血化瘀。（《中国药典2015》）",
+    "indications": "用于热入营血，温毒发斑，吐血衄血，夜热早凉，无汗骨蒸，经闭痛经，跌扑伤痛，痈肿疮毒。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "牡丹皮为毛莨科植物牡丹Paeonia suffruticosa Andr.的干燥根皮。秋季采挖根部，除去细根和泥沙，剥取根皮，晒干或刮去粗皮，除去木心，晒干。前者习称连丹皮，后者习称刮丹皮。主产于安徽、四川、山东等地。安徽铜陵所产的质量佳。 来源 本品为毛莨科植物牡丹Paeonia suffruticosa Andr.的干燥根皮。（《中国药典2015》） 分布产地 主产于安徽、四川、山东等地。安徽铜陵所产的质量最佳。 入药部位 皮 采收加工 秋季采挖根部，除去细根和泥沙，剥取根皮，晒干或刮去粗皮，除去木心，晒干。前者习称连丹皮，后者习称刮丹皮。（《中国药",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-345.html",
+      "detailId": "345",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "concha-ostreae",
+    "name": "牡蛎",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "zheyao",
+      "haiyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "浙药",
+      "海药"
+    ],
+    "taxonomy": {
+      "latinName": "OSTREAE CONCHA",
+      "family": "功 效：平肝息风药"
+    },
+    "originDistribution": "辽宁、山东、河北等",
+    "daoDiRegions": [
+      {
+        "place": "辽宁、山东、河北等",
+        "province": "辽宁"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "牡蛎：重镇安神，潜阳补阴，软坚散结。 煅牡蛎：收敛固涩，制酸止痛。（《中国药典2015》）",
+    "indications": "牡蛎：用于惊悸失眠，眩晕耳鸣，瘰疬痰核，癥瘕痞块。 煅牡蛎：用于自汗盗汗，遗精滑精，崩漏带下，胃痛吞酸。（《中国药典2015》） 用法用量 9-30g，先煎。（《中国药典2015》） 用药禁忌 本品多服久服，易引起便秘和消化不良。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "牡蛎为牡蛎科动物长牡蛎Ostrea gigas Thunberg、大连湾牡蛎Ostrea talienwhanensis Crosse或近江牡蛎Ostrea rivularis Gould的贝壳。全年均可捕捞，去肉，洗净，晒干。长牡蛎主产山东以北至东北沿海；大连湾牡蛎主产辽宁、山东、河北等地沿海；近江牡蛎产区较广，北起东北，南至海南岛沿海。 来源 本品为牡蛎科动物长牡蛎Ostrea gigas Thunberg、大连湾牡蛎Ostrea talienwhanensis Crosse或近江牡蛎Ostrea rivularis Gould的贝壳。（《中国药典2",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-153.html",
+      "detailId": "153",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "momordica-cochinchinensis",
+    "name": "木鳖子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "MOMORDICAE SEMEN",
+      "family": "葫芦科"
+    },
+    "originDistribution": "湖北、广西及四川等地",
+    "daoDiRegions": [
+      {
+        "place": "湖北、广西及四川等地",
+        "province": "湖北"
+      }
+    ],
+    "efficacyClass": "拔毒生肌药",
+    "efficacy": "散结消肿，攻毒疗疮。（《中国药典2015》）",
+    "indications": "用于疮疡肿毒，乳痈，瘰疬，痔漏，干癣，秃疮。（《中国药典2015》） 用法用量 0.9-1.2g。外用适量，研末，用油或醋调涂患处。（《中国药典2015》） 用药禁忌 孕妇慎服。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "木鳖子为葫芦科植物木鳖Momordica cochinchinensis (Lour.) Spreng.的干燥成熟种子。冬季采收成熟果实，剖开，晒至半干，除去果肉，取出种子，干燥。主产于湖北、广西及四川等地。 来源 本品为葫芦科植物木鳖Momordica cochinchinensis (Lour.) Spreng.的干燥成熟种子。（《中国药典2015》） 分布产地 主产于湖北、广西及四川等地。 入药部位 果实及种子 采收加工 冬季采收成熟果实，剖开，晒至半干，除去果肉，取出种子，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-303.html",
+      "detailId": "303",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "chaenomeles-fruit",
+    "name": "木瓜",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "CHAENOMELIS FRUCTUS",
+      "family": "蔷薇科"
+    },
+    "originDistribution": "四川、湖北、安徽、浙江",
+    "daoDiRegions": [
+      {
+        "place": "四川、湖北、安徽、浙江",
+        "province": "安徽"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "舒筋活络，和胃化湿。（《中国药典2015》）",
+    "indications": "用于湿痹拘挛，腰膝关节酸重疼痛，暑湿吐泻，转筋挛痛，脚气水肿。（《中国药典2015》） 用法用量 6-9g。（《中国药典2015》） 用药禁忌 1.《雷公炮炙论》：&ldquo;凡使勿令犯铁。&rdquo; 2.《食疗本草》：&ldquo;不可多食，损齿及骨。&rdquo; 3.《医学入门》：&ldquo;忌铅、铁。&rdquo; 4.《本草经疏》：&ldquo;下部腰膝无力，由于精血虚，真阴不足",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "木瓜为蔷薇科植物贴梗海棠Chaenomeles speciosa (Sweet) Nakai的干燥近成熟果实。夏、秋二季果实绿黄时采收，置沸水中烫至外皮灰白色，对半纵剖，晒干。主产于四川、湖北、安徽、浙江。以安徽宣城、湖北姿丘和浙江淳安所产质量最好。四川产量最大。安徽宣城产者称宣木瓜，浙江淳安产者称淳木瓜，四川綦江产者名川木瓜。 来源 本品为蔷薇科植物贴梗海棠Chaenomeles speciosa (Sweet) Nakai的干燥近成熟果实。（《中国药典2015》） 分布产地 主产于四川、湖北、安徽、浙江。以安徽宣城、湖北姿丘和浙江淳安所产质量最好。四",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-373.html",
+      "detailId": "373",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "oroxylum-seed",
+    "name": "木蝴蝶",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "OROXYLI SEMEN",
+      "family": "紫葳科"
+    },
+    "originDistribution": "云南、广西、贵州等地",
+    "daoDiRegions": [
+      {
+        "place": "云南、广西、贵州等地",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清肺利咽，疏肝和胃。（《中国药典2015》）",
+    "indications": "用于肺热咳嗽，喉痹，音哑，肝胃气痛。（《中国药典2015》） 用法用量 1-3g。（《中国药典2015》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "木蝴蝶为紫葳科植物木蝴蝶Oroxylum indicum (L. ) Kurz的干燥成熟种子。秋、冬二季采收成熟果实，暴晒至果实开裂，取出种子，晒干。主产于云南、广西、贵州等地。 来源 本品为紫葳科植物木蝴蝶Oroxylum indicum (L. ) Kurz的干燥成熟种子。（《中国药典2015》） 分布产地 主产于云南、广西、贵州等地。 入药部位 果实及种子 采收加工 秋、冬二季采收成熟果实，暴晒至果实开裂，取出种子，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-244.html",
+      "detailId": "244",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-264",
+    "name": "木棉皮",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "CORTEX BOMBACIS",
+      "family": "木棉科"
+    },
+    "originDistribution": "广东、广西等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西等地",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "宣散风湿，消肿止痛。（《广西省中药材标准1990年版》）",
+    "indications": "用于风湿痹痛，跌打红肿。（《广西省中药材标准1990年版》） 用法用量 6-12g；外用适量，和酒共捣烂敷患处。（《广西省中药材标准1990年版》） 贮藏保存 置通风干燥处，防霉。（《广西省中药材标准1990年版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "木棉皮为木棉科植物木棉Bombax malabaricum DC.的干燥树皮。全年可采，晒干。主产于广东、广西等地。 来源 本品为木棉科植物木棉Bombax malabaricum DC.的干燥树皮。（《广西省中药材标准1990年版》） 分布产地 主产于广东、广西等地。 入药部位 皮 采收加工 全年可采，晒干。（《广西省中药材标准1990年版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-264.html",
+      "detailId": "264",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "aucklandia-lappa",
+    "name": "木香",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "AUCKLANDIAE RADIX",
+      "family": "菊科"
+    },
+    "originDistribution": "云南、四川",
+    "daoDiRegions": [
+      {
+        "place": "云南、四川",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "木香：行气止痛，健脾消食。 煨木香：实肠止泻。（《中国药典2015》）",
+    "indications": "木香：用于胸胁、脘腹胀痛，泻痢后重，食积不消，不思饮食。 煨木香：用于泄泻腹痛。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 脏腑燥热、阴虚津亏者禁服。（《中药大辞典》） 贮藏保存 置干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "木香为菊科植物木香Saussurea costus (Falc.) Lipech.的干燥根。秋、冬二季采挖，除去泥沙和须根，切段，大的再纵剖成瓣，干燥后撞去粗皮。原产于印度，从广州进口，习称&ldquo;广木香&rdquo;；我国现主要栽培于云南丽江、迪庆、大理，以及四川涪陵等地，又称&ldquo;云木香&rdquo;。 来源 本品为菊科植物木香Saussurea costus (Falc.) Lipech.的干燥根。（《中国药典2015》） 分布产地 原产于印度，从广州进口，习称&ldquo;广木香&rdquo;；我国现主要栽培于云南丽江、迪庆、大理，",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-247.html",
+      "detailId": "247",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "isatis-indigotica-south",
+    "name": "南板蓝根",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "BAPHICACANTHIS CUSIAE RHIZOMA ET RADIX",
+      "family": "爵床科"
+    },
+    "originDistribution": "福建、四川等地",
+    "daoDiRegions": [
+      {
+        "place": "福建、四川等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，凉血消斑。（《中国药典2015》）",
+    "indications": "用于温疫时毒，发热咽痛，温毒发斑，丹毒。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 脾胃虚寒、无实火热毒者慎服。（《中药大辞典》） 贮藏保存 置干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "南板蓝根为爵床科植物板蓝Baphicacanthus cusia (Nees) Bremek.的干燥根茎和根。夏、秋二季采挖，除去地上茎，洗净，晒干。主产福建、四川等地。 来源 本品为爵床科植物马蓝Baphicacanthus cusia (Nees) Bremek.的干燥根茎和根。（《中国药典2015》） 分布产地 主产福建、四川等地。 入药部位 根及根茎 采收加工 夏、秋二季采挖，除去地上茎，洗净，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-179.html",
+      "detailId": "179",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "adenophora-stricta",
+    "name": "南沙参",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "guiyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "贵药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "ADENOPHORAE RADIX",
+      "family": "桔梗科"
+    },
+    "originDistribution": "安徽、江苏、浙江",
+    "daoDiRegions": [
+      {
+        "place": "安徽、江苏、浙江",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "养阴清肺，益胃生津，化痰，益气。（《中国药典2015》）",
+    "indications": "用于肺热燥咳，阴虚劳嗽，干咳痰黏，胃阴不足，食少呕吐，气阴不足，烦热口干。  （《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 不宜与藜芦同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "南沙参为桔梗科植物轮叶沙参Adenophora tetraphylla (Thunb.) Fisch.或沙参Adenophora stricta Miq.的干燥根。春、秋二季采挖，除去须根，洗后趁鲜刮去粗皮，洗净，干燥。沙参主产于安徽、江苏、浙江。轮叶沙参主产于贵州、河南、黑龙江、内蒙古、江苏，以贵州产量大，安徽、江苏、浙江质佳。 来源 本品为桔梗科植物轮叶沙参Adenophora tetraphylla (Thunb.) Fisch.或沙参Adenophora stricta Miq.的干燥根。（《中国药典2015》） 分布产地 沙参主产于安徽、江苏、",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-253.html",
+      "detailId": "253",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "schisandra-sphenanthera",
+    "name": "南五味子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "SCHISANDRAE SPHENANTHERAE FRUCTUS",
+      "family": "木兰科"
+    },
+    "originDistribution": "河南、陕西、甘肃",
+    "daoDiRegions": [
+      {
+        "place": "河南、陕西、甘肃",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "收敛固涩，益气生津，补肾宁心。（《中国药典2015》）",
+    "indications": "用于久嗽虚喘，梦遗滑精，遗尿尿频，久泻不止，自汗盗汗，津伤口渴，内热消渴，心悸失眠。（《中国药典2015》） 用法用量 2-6g。（《中国药典2015》） 用药禁忌 外有表邪气，内有实热，或咳嗽初起，麻疹初发者均慎服。（《中药大辞典》） 贮藏保存 置通风干燥处，防霉 （《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "南五味子为木兰科植物华中五味子Schisandra sphenanthera Rehd. et Wils.的干燥成熟果实。秋季果实成熟时采摘，晒干，除去果梗和杂质。主产于河南、陕西、甘肃。 来源 本品为木兰科植物华中五味子Schisandra sphenanthera Rehd. et Wils.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于河南、陕西、甘肃。 入药部位 果实及种子 采收加工 秋季果实成熟时采摘，晒干，除去果梗和杂质。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-320.html",
+      "detailId": "320",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "fructus-arctii",
+    "name": "牛蒡根",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "ARCTII RADIX",
+      "family": "菊科"
+    },
+    "originDistribution": "吉林、辽宁、黑龙江、浙江等地",
+    "daoDiRegions": [
+      {
+        "place": "吉林、辽宁、黑龙江、浙江等地",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "散风热，消毒肿。（《山东省中药材标准2012年版》）",
+    "indications": "用于风热感冒，头痛，咳嗽，热毒面肿，咽喉肿痛，齿龈肿痛，风湿痹痛，癥瘕积块，痈疖恶疮，痔疮脱肛。（《山东省中药材标准2012年版》） 用法用量 6-15g。外用适量。（《山东省中药材标准2012年版》） 用药禁忌 《本草拾遗》：&ldquo;恶实根，蒸，暴干，不尔，令人欲吐。&rdquo; 贮藏保存 置阴凉干燥处。（《山东省中药材标准2012年版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "牛蒡根为菊科植物牛蒡Arctium lappa L.的干燥根。10月间采挖2年以上的根，除去杂质，洗净，晒干。产于吉林、辽宁、黑龙江、浙江等地。 来源 本品为菊科植物牛蒡Arctium lappa L.的干燥根。（《山东省中药材标准2012年版》） 分布产地 产于吉林、辽宁、黑龙江、浙江等地。 入药部位 根及根茎 采收加工 10月间采挖2年以上的根，除去杂质，洗净，晒干。（《山东省中药材标准2012年版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-386.html",
+      "detailId": "386",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "arctium-lappa",
+    "name": "牛蒡子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "ARCTII FRUCTUS",
+      "family": "菊科"
+    },
+    "originDistribution": "东北、浙江等地",
+    "daoDiRegions": [
+      {
+        "place": "东北、浙江等地",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "疏散风热，宣肺透疹，解毒利咽。（《中国药典2015》）",
+    "indications": "用于风热感冒，咳嗽痰多，麻疹，风疹，咽喉肿痛，痄腮，丹毒，痈肿疮毒。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 脾虚便溏者禁服。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "牛蒡子为菊科植物牛蒡Arctium lappa L.的干燥成熟果实。秋季果实成熟时采收果序，晒干，打下果实，除去杂质，再晒干。主产于东北、浙江等地。以东北产量大，称&ldquo;关力子&rdquo;；浙江桐乡产者质佳，称作&ldquo;杜大力&rdquo;。 来源 本品为菊科植物牛蒡Arctium lappa L.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于东北、浙江等地。以东北产量大，称&ldquo;关力子&rdquo;；浙江桐乡产者质佳，称作&ldquo;杜大力&rdquo;。 入药部位 果实及种子 采收加工 秋季果实成熟时采收果序，晒",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-166.html",
+      "detailId": "166",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "achyranthes-bidentata",
+    "name": "牛膝",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "ACHYRANTHIS BIDENTATAE RADIX",
+      "family": "苋科"
+    },
+    "originDistribution": "河南",
+    "daoDiRegions": [
+      {
+        "place": "河南",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "逐瘀通经，补肝肾，强筋骨，利尿通淋，引血下行。（《中国药典2015》）",
+    "indications": "用于经闭，痛经，腰膝酸痛，筋骨无力，淋证，水肿，头痛，眩晕，牙痛，口疮，吐血，衄血。（《中国药典2015》） 用法用量 5-12g。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "牛膝为苋科植物牛膝Achyranthes bidentata Blume的干燥根。冬季茎叶枯萎时采挖，除去须根及泥沙，捆成小把，晒至干皱后，将顶端切齐，晒干。主产于河南。以河南栽培品质量好。 来源 本品为苋科植物牛膝Achyranthes bidentata Blume的干燥根。（《中国药典2015》） 分布产地 主产于河南。以河南栽培品质量最好。 入药部位 根及根茎 采收加工 冬季茎叶枯萎时采挖，除去须根及泥沙，捆成小把，晒至干皱后，将顶端切齐，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-132.html",
+      "detailId": "132",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "ligustrum-lucidum",
+    "name": "女贞子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "LIGUSTRI LUCIDI FRUCTUS",
+      "family": "木犀科"
+    },
+    "originDistribution": "江苏、浙江、湖南、福建、广西、江西、四川等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏、浙江、湖南、福建、广西、江西、四川等地",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "滋补肝肾，明目乌发。（《中国药典2015》）",
+    "indications": "用于肝肾阴虚，眩晕耳呜，腰膝酸软，须发早白，目暗不明，内热消渴，骨蒸潮热。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 脾胃虚寒泄泻及阳虚者，慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "女贞子为木犀科植物女贞Ligustrum lucidum Ait.的干燥成熟果实。冬季果实成熟时采收，除去枝叶，稍蒸或置沸水中略烫后，干燥；或直接干燥。主产于江苏、浙江、湖南、福建、广西、江西、四川等地。 来源 本品为木犀科植物女贞Ligustrum lucidum Ait.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于江苏、浙江、湖南、福建、广西、江西、四川等地。 入药部位 果实及种子 采收加工 冬季果实成熟时采收，除去枝叶，稍蒸或置沸水中略烫后，干燥；或直接干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-356.html",
+      "detailId": "356",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lotus-rhizome-node",
+    "name": "藕节",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "NELUMBINIS RHIZOMATIS NODUS",
+      "family": "睡莲科"
+    },
+    "originDistribution": "浙江、江苏、安徽",
+    "daoDiRegions": [
+      {
+        "place": "浙江、江苏、安徽",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "收敛止血，化瘀。（《中国药典2015》）",
+    "indications": "用于吐血，咯血，衄血，尿血，崩漏。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 忌铁器。（《中华本草》） 贮藏保存 置干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "藕节为睡莲科植物莲Nelumbo nucifera Gaertn. 的干燥根茎节部。主产于浙江、江苏、安徽。秋、冬二季采挖根茎（藕），切取节部，洗净，晒干，除去须根。 来源 本品为睡莲科植物莲Nelumbo nucifera Gaertn. 的干燥根茎节部。（《中国药典2015》） 分布产地 主产于浙江、江苏、安徽。 入药部位 根及根茎 采收加工 秋、冬二季采挖根茎（藕），切取节部，洗净，晒干，除去须根。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-162.html",
+      "detailId": "162",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "borax",
+    "name": "硼砂",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "qinyao",
+      "zangyao",
+      "guanyao",
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "秦药",
+      "藏药",
+      "关药",
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "BORAX",
+      "family": "其它科"
+    },
+    "originDistribution": "青海柴达木盆地及阿拉善西山盐湖、西藏黑河和阿里地区。",
+    "daoDiRegions": [
+      {
+        "place": "西藏硼砂",
+        "province": "西藏"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "清热，消痰，解毒，防腐。（《浙江省中药炮制规范2015年版》） 清热解毒，消障翳，清肺化痰。（《甘肃省中药材标准2008版》）",
+    "indications": "用于咽喉肿痛，口舌生疮，目赤翳障，骨鲠，噎膈，咳嗽痰稠。（《浙江省中药炮制规范2015年版》） 用于咽喉肿痛，齿龈腐烂，口舌生疮，目赤翳障。内服治痰热壅滞，咳吐不利及噎膈反胃。（《甘肃省中药材标准2008版》） 用法用量 1.5-3g，多入丸散用；外用适量，研细末撒或调敷患处。（《浙江省中药炮制规范2015年版》） 1.5-3g。外用适量，研末敷，或热水溶化冲洗。（《甘肃省中药材标准2008版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "硼砂为天然硼砂矿经精制而成的结晶，主含四硼酸钠(Na2B4O7.10H2O)。全年均可采收，除去杂质和泥土。主产于青海柴达木盆地及阿拉善西山盐湖、西藏黑河和阿里地区。 来源 本品为单斜晶系矿物硼砂经精制而成的结晶，主含含水硼酸钠。（《浙江省中药炮制规范2015年版》） 本品为天然硼砂矿经精制而成的结晶，主含四硼酸钠(Na2B4O7.10H2O)。（《甘肃省中药材标准2008版》） 分布产地 主产于青海柴达木盆地及阿拉善西山盐湖、西藏黑河和阿里地区。 入药部位 矿物 采收加工 采挖后，将硼砂溶于沸水中，滤过，取滤液，置适宜容器内，冷却，待析出结晶，取出，干",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-84.html",
+      "detailId": "84",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "fritillaria-ussuriensis",
+    "name": "平贝母",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "FRITILLARIAE USSURIENSIS BULBUS",
+      "family": "百合科"
+    },
+    "originDistribution": "黑龙江、吉林、辽宁等地",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江、吉林、辽宁等地",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "清热润肺，化痰止咳。（《中国药典2015》）",
+    "indications": "用于肺热燥咳，干咳少痰，阴虚劳嗽，咳痰带血。（《中国药典2015》） 用法用量 3-9g；研粉冲服，一次1-2g。（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、草乌、制草乌、附子同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "平贝母为百合科植物平贝母Fritillaria ussuriensis Maxim.的干燥鳞茎。春季采挖，除去外皮、须根及泥沙，晒干或低温干燥。产于黑龙江、吉林、辽宁等地。 来源 本品为百合科植物平贝母Fritillaria ussuriensis Maxim.的干燥鳞茎。（《中国药典2015》） 分布产地 产于黑龙江、吉林、辽宁等地。 入药部位 根及根茎 采收加工 春季采挖，除去外皮、须根及泥沙，晒干或低温干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-378.html",
+      "detailId": "378",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "pollen-typhae",
+    "name": "蒲黄",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "mengyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "蒙药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "TYPHAE POLLEN",
+      "family": "香蒲科"
+    },
+    "originDistribution": "江苏、浙江、河南、山东、安徽、湖北等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏、浙江、河南、山东、安徽、湖北等地",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "止血，化瘀，通淋。（《中国药典2015》）",
+    "indications": "用于吐血，衄血，咯血，崩漏，外伤出血，经闭通经，胸腹刺痛，跌扑肿痛，血淋涩痛。（《中国药典2015》） 用法用量 5-10g，包煎。外用适量，敷患处。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置通风干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "蒲黄为香蒲科植物水烛香蒲Typha angustifolia Linn.、东方香蒲Typha orientalis Presl或同属植物的干燥花粉。夏季采收蒲棒上部的黄色雄花序，晒干后碾轧，筛取花粉。剪取雄花后，晒干，成为带有雄花的花粉，即为草蒲黄。狭叶香蒲主产于江苏、浙江、河南、山东、安徽、湖北等地；东方香蒲产于贵州、山西、山东、东北等地。 来源 本品为香蒲科植物水烛香蒲Typha angustifolia Linn.、东方香蒲Typha orientalis Presl或同属植物的干燥花粉。（《中国药典2015》） 分布产地 狭叶香蒲主产于江苏、浙江",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-332.html",
+      "detailId": "332",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-337",
+    "name": "蕲蛇",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "AGKISTRODON",
+      "family": "动物药"
+    },
+    "originDistribution": "浙江的温州、丽水及安徽、湖北、湖南、江西、广西、福建等地。",
+    "daoDiRegions": [
+      {
+        "place": "安徽蕲蛇",
+        "province": "安徽"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风，通络，止痉。（《中国药典2015》）",
+    "indications": "用于风湿顽痹，麻木拘挛，中风口眼喁斜，半身不遂，抽搐痉挛，破伤风，麻风，疥癣。（《中国药典2015》） 用法用量 3-9g；研末吞服，一次1-1.5g，一日2-3次。（《中国药典2015》） 贮藏保存 置干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "蕲蛇为蝰科动物五步蛇Agkistrodon acutus (G&amp;#252;enther)的干燥体。多于夏、秋二季捕捉，剖开蛇腹，除去内脏，洗净，用竹片撑开腹部，盘成圆盘状，干燥后拆除竹片。主产于浙江的温州、丽水及安徽、湖北、湖南、江西、广西、福建等地。 来源 本品为蝰科动物五步蛇Agkistrodon acutus (G&uuml;enther)的干燥体。（《中国药典2015》） 分布产地 主产于浙江的温州、丽水及安徽、湖北、湖南、江西、广西、福建等地。 入药部位 动物 采收加工 多于夏、秋二季捕捉，剖开蛇腹，除去内脏，洗净，用竹片撑开腹部，盘成",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-337.html",
+      "detailId": "337",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "euphorbia-lathyris",
+    "name": "千金子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "EUPHORBIAE SEMEN",
+      "family": "大戟科"
+    },
+    "originDistribution": "河南、浙江",
+    "daoDiRegions": [
+      {
+        "place": "河南、浙江",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "泻下药",
+    "efficacy": "泻下逐水，破血消癥；外用疗癣蚀疣。（《中国药典2015》）",
+    "indications": "用于二便不通，水肿，痰饮，积滞胀满，血瘀经闭；外治顽癣，赘疣。（《中国药典2015》） 用法用量 1-2g，去壳，去油用，多入丸散服。外用适量，捣烂敷患处。（《中国药典2015》） 用药禁忌 孕妇禁用。以免中毒。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "千金子为大戟科植物续随子Euphorbia lathylris L.的干燥成熟种子。夏、秋二季果实成熟时采收，除去杂质，干燥。主产于河南、浙江。 来源 本品为大戟科植物续随子Euphorbia lathylris L.的干燥成熟种子。（《中国药典2015》） 分布产地 主产于河南、浙江。 入药部位 果实及种子 采收加工 夏、秋二季果实成熟时采收，除去杂质，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-115.html",
+      "detailId": "115",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "euphorbia-lathyris-powder",
+    "name": "千金子霜",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao",
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "怀药",
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "EUPHORBIAE SEMEN PULVERATUM",
+      "family": "大戟科"
+    },
+    "originDistribution": "辽宁、吉林、黑龙江、河北",
+    "daoDiRegions": [
+      {
+        "place": "辽宁、吉林、黑龙江、河北",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "泻下药",
+    "efficacy": "泻下逐水，破血消癥；外用疗癣蚀疣。（《中国药典2015》）",
+    "indications": "用于水肿，痰饮，积滞胀满，二便不通，血瘀经闭；外治顽癣，疣赘。（《中国药典2015》） 用法用量 0.5～1g,多入丸散服。外用适量。（《中国药典2015》） 用药禁忌 孕妇及体弱便溏者忌服。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "千金子霜为大戟科植物续随子Euphorbia tathyris L．的干燥成熟种子千金子的炮制加工品。夏、秋二季果实成熟时采收，除去杂质，干燥。主产河北、河南、浙江。 来源 为大戟科植物续随子Euphorbia tathyris L．的干燥成熟种子千金子的炮制加工品。（《中国药典2015》） 分布产地 分布辽宁、吉林、黑龙江、河北、山西、河南、江苏、浙江、福建、台湾、湖南、四川、云南、贵州、广西等地。主产河北、河南、浙江。此外，四川、辽宁、吉林、湖南、广西等地亦产。 入药部位 其他 采收加工 夏、秋二季果实成熟时采收。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-124.html",
+      "detailId": "124",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "homalomena-rhizome",
+    "name": "千年健",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao",
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "广药",
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "HOMALOMENAE RHIZOMA",
+      "family": "天南星科"
+    },
+    "originDistribution": "广西、云南等地",
+    "daoDiRegions": [
+      {
+        "place": "广西、云南等地",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风湿，壮筋骨。（《中国药典2015》）",
+    "indications": "用于风寒湿痹，腰膝冷痛，拘挛麻木，筋骨痿软。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 1.《柑园小识》：&ldquo;忌莱菔。&rdquo; 2.《饮片新参》：&ldquo;阴虚内热者慎用。&rdquo; 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "千年健为天南星科植物千年健Homalomena occulta (Lour. )Schott的干燥根茎。春、秋二季采挖，洗净，除去外皮，晒干。产于广西、云南等地。 来源 本品为天南星科植物千年健Homalomena occulta (Lour. )Schott的干燥根茎。（《中国药典2015》） 分布产地 产于广西、云南等地。 入药部位 根及根茎 采收加工 春、秋二季采挖，洗净，除去外皮，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-249.html",
+      "detailId": "249",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "peucedanum-praeruptorum",
+    "name": "前胡",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao",
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "浙药",
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "PEUCEDANI RADIX",
+      "family": "伞形科"
+    },
+    "originDistribution": "浙江、湖南、四川等地",
+    "daoDiRegions": [
+      {
+        "place": "浙江、湖南、四川等地",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "降气化痰，散风清热。（《中国药典2015》）",
+    "indications": "用于痰热喘满，咯痰黄稠，风热咳嗽痰多。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 阴虚咳嗽、寒饮咳嗽患者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "前胡为伞形科植物白花前胡Peucedanum praeruptorum Dunn的干燥根。冬季至次春茎叶枯萎或未抽花茎时采挖，除去须根，洗净，晒干或低温干燥。主产于浙江、湖南、四川等地。 来源 本品为伞形科植物白花前胡Peucedanum praeruptorum Dunn的干燥根。（《中国药典2015》） 分布产地 主产于浙江、湖南、四川等地。 入药部位 根及根茎 采收加工 冬季至次春茎叶枯萎或未抽花茎时采挖，除去须根，洗净，晒干或低温干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-158.html",
+      "detailId": "158",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "euryale-seed",
+    "name": "芡实",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "EURYALES SEMEN",
+      "family": "睡莲科"
+    },
+    "originDistribution": "江苏、安徽、湖南、湖北、山东等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏、安徽、湖南、湖北、山东等地",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "益肾固精，补脾止泻，除湿止带。（《中国药典2015》）",
+    "indications": "用于遗精滑精，遗尿尿频，脾虚久泻，白浊，带下。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 大小便不利者禁服；食滞不化者慎服。（《中华本草》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "芡实为睡莲科植物芡Euryale ferox Salisb.的干燥成熟种仁。主产于江苏、安徽、湖南、湖北、山东等地。秋末冬初采收成熟果实，除去果皮，取出种子，洗净，再除去硬壳（外种皮），晒干。 来源 本品为睡莲科植物芡Euryale ferox Salisb.的干燥成熟种仁。（《中国药典2015》） 分布产地 主产于江苏、安徽、湖南、湖北、山东等地。 入药部位 果实及种子 采收加工 秋末冬初采收成熟果实，除去果皮，取出种子，洗净，再除去硬壳（外种皮），晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-361.html",
+      "detailId": "361",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "rubia-cordifolia",
+    "name": "茜草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "RUBIAE RADIX ET RHIZOMA",
+      "family": "茜草科"
+    },
+    "originDistribution": "陕西、河南、安徽、河北",
+    "daoDiRegions": [
+      {
+        "place": "陕西、河南、安徽、河北",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "凉血，祛瘀，止血，通经。（《中国药典2015》）",
+    "indications": "用于吐血，衄血，崩漏，外伤出血，瘀阻经闭，关节痹痛，跌扑肿痛。（《中国药典2015》） 用法用量 6-10g。（《中国药典2015》） 用药禁忌 脾胃虚寒及无瘀滞者慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "茜草为茜草科植物茜草Rubia cordifolia L.的干燥根和根茎。春、秋二季采挖，除去泥沙，干燥。主产于陕西、河南、安徽、河北、山东等地。以陕西渭南、河南嵩县产量大且品质优。 来源 本品为茜草科植物茜草Rubia cordifolia L.的干燥根和根茎。（《中国药典2015》） 分布产地 主产于陕西、河南、安徽、河北、山东等地。以陕西渭南、河南嵩县产量大且品质优。 入药部位 根及根茎 采收加工 春、秋二季采挖，除去泥沙，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-131.html",
+      "detailId": "131",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "notopterygium-incisum",
+    "name": "羌活",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "qinyao",
+      "guanyao",
+      "beiyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "秦药",
+      "关药",
+      "北药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "NOTOPTERYGII RHIZOMA ET RADIX",
+      "family": "伞形科"
+    },
+    "originDistribution": "四川、甘肃、青海等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、甘肃、青海等地",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "解表散寒，祛风除湿，止痛。（《中国药典2015》）",
+    "indications": "用于风寒感冒，头痛项强，风湿痹痛，肩背酸痛。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 血虚痹痛忌服。（《中药大辞典》） 《本草经疏》：&quot;血虚头痛及遍身疼痛骨痛因而带寒热者，此属内证，误用反致作剧。&quot; 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "羌活为伞形科植物羌活Notopterygium incisum Ting ex H. T. Chang或宽叶羌活Notopterygium forbesii de Boiss.的干燥根茎及根。春、秋二季采挖，除去须根及泥沙，晒干。主产于四川、甘肃、青海等地。 来源 本品为伞形科植物羌活Notopterygium incisum Ting ex H. T. Chang或宽叶羌活Notopterygium forbesii de Boiss.的干燥根茎及根。（《中国药典2015》） 分布产地 主产于四川、甘肃、青海等地。 入药部位 根及根茎 采收加工 春、秋",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-36.html",
+      "detailId": "36",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "gentiana-macrophylla",
+    "name": "秦艽",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "GENTIANAE MACROPHYLLAE RADIX",
+      "family": "龙胆科"
+    },
+    "originDistribution": "陕西、甘肃",
+    "daoDiRegions": [
+      {
+        "place": "陕西、甘肃",
+        "province": "陕西"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风湿，清湿热，止痹痛，退虚热。（《中国药典2015》）",
+    "indications": "用于风湿痹痛，中风半身不遂，筋脉拘挛，骨节酸痛，湿热黄疸，骨蒸潮热，小儿疳积发热。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 久痛虚羸，溲多、便溏者慎服。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "秦艽为龙胆科植物秦艽Gentiana macrophylla Pall.、麻花秦艽Gentiana straminea Maxim.、粗茎秦艽Gentiana crassicaulis Duthie ex Burk.或小秦艽Gentiana dahurica Fisch.的干燥根。前三种按性状不同分别习称&ldquo;秦艽&rdquo;和&ldquo;麻花艽&rdquo;，后一种习称&ldquo;小秦艽&rdquo;。春、秋二季采挖，除去泥沙；秦艽及麻花艽晒软，堆置&ldquo;发汗&rdquo;至表面呈红黄色或灰黄色时，摊开晒干，或不经&ldquo;发",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-26.html",
+      "detailId": "26",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "fraxinus-rhynchophylla",
+    "name": "秦皮",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "qinyao",
+      "guanyao",
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "秦药",
+      "关药",
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "FRAXINI CORTEX",
+      "family": "木犀科"
+    },
+    "originDistribution": "主产于辽宁、黑龙江、内蒙古、陕西",
+    "daoDiRegions": [
+      {
+        "place": "主产于辽宁、黑龙江、内蒙古、陕西",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热燥湿，收涩止痢，止带，明目。（《中国药典2015》）",
+    "indications": "用于湿热泻痢，赤白带下，目赤肿痛，目生翳膜。（《中国药典2015》） 用法用量 6-12g。外用适量，煎洗患处。（《中国药典2015》） 用药禁忌 脾胃虚寒者，禁服。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "秦皮为木犀科植物苦枥白蜡树Fraxinus rhynchophylla Hance、白蜡树Fraxinus chinensis Roxb.、尖叶白蜡树Fraxinus szaboana Lingelsh.或宿柱白蜡树Fraxinus stylosa Lingelsh.的干燥枝皮或干皮。春、秋二季剥取，晒干。主产于辽宁、黑龙江、内蒙古、陕西、河南等地。 来源 本品为木犀科植物苦枥白蜡树Fraxinus rhynchophylla Hance、白蜡树Fraxinus chinensis Roxb.、尖叶白蜡树Fraxinus szaboana Lingels",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-25.html",
+      "detailId": "25",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "talc-granule",
+    "name": "青黛",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "INDIGO NATURALIS",
+      "family": "十字花科"
+    },
+    "originDistribution": "福建、河北、云南、江苏",
+    "daoDiRegions": [
+      {
+        "place": "福建、河北、云南、江苏",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，凉血消斑，泻火定惊。（《中国药典2015》）",
+    "indications": "用于温毒发斑，血热吐衄，胸痛咳血，口疮，痄腮，喉痹，小儿惊痫。（《中国药典2015》） 用法用量 1-3g，宜入丸散用。外用适量。（《中国药典2015》） 用药禁忌 虚寒及阴虚内热者禁服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "青黛为爵床科植物马蓝Baphicacanthus cusia (Nees) Bremek.、蓼科植物蓼蓝Polygonum tinctorium Ait.或十字花科植物菘蓝Isatis indigotica Fortune的叶或茎叶经加工制得的干燥粉末、团块或颗粒。主产于福建、河北、云南、江苏、安徽等地。 来源 本品为爵床科植物马蓝Baphicacanthus cusia (Nees) Bremek.、蓼科植物蓼蓝Polygonum tinctorium Ait.或十字花科植物菘蓝Isatis indigotica Fortune的叶或茎叶经加工制得的干",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-91.html",
+      "detailId": "91",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "canarium-fruit",
+    "name": "青果",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "CANARII FRUCTUS",
+      "family": "橄榄科"
+    },
+    "originDistribution": "广东、福建、四川",
+    "daoDiRegions": [
+      {
+        "place": "广东、福建、四川",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，利咽，生津。（《中国药典2015》）",
+    "indications": "用于咽喉肿痛，咳嗽痰黏，烦热口渴，鱼蟹中毒。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 脾胃虚寒及大便秘结者慎服。（《中药大辞典》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "青果为橄榄科植物橄榄Canarium album (Lour.) Raeusch.的干燥成熟果实。秋季果实成熟时采收，干燥。主产于广东、福建、四川。 来源 本品为橄榄科植物橄榄Canarium album (Lour.) Raeusch.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于广东、福建、四川。 入药部位 果实及种子 采收加工 秋季果实成熟时采收，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-183.html",
+      "detailId": "183",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "artemisia-annua",
+    "name": "青蒿",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "广药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "ARTEMISIAE ANNUAE HERBA",
+      "family": "菊科"
+    },
+    "originDistribution": "海南岛、四川、广西等地",
+    "daoDiRegions": [
+      {
+        "place": "海南岛、四川、广西等地",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清虚热，除骨蒸，解暑热，截疟，退黄。（《中国药典2015》）",
+    "indications": "用于温邪伤阴，夜热早凉，阴虚发热，骨蒸劳热，暑邪发热，疟疾寒热，湿热黄疸。（《中国药典2015》） 用法用量 6-12g，后下。（《中国药典2015》） 用药禁忌 1.《滇南本草》：体虚者忌之。 2.《本草经疏》：产后血虚，内寒作泻，及饮食停滞泄泻者，勿用。凡产后脾胃薄弱，忌与当归、地黄同用。 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "青蒿为菊科植物黄花蒿Artemisia annua L.的干燥地上部分。秋季花盛开时采割，除去老茎，阴干。全国各地均产。南方生长的青蒿普遍比北方出产的青蒿素含量要高；海南岛、四川、广西等地所产者，其青蒿素的含量均较高。 来源 本品为菊科植物黄花蒿Artemisia annua L.的干燥地上部分。（《中国药典2015》） 分布产地 全国各地均产。南方生长的青蒿普遍比北方出产的青蒿素含量要高；海南岛、四川、广西等地所产者，其青蒿素含量均较高。 入药部位 全草 采收加工 秋季花盛开时采割，除去老茎，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-211.html",
+      "detailId": "211",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "aristolochia-contorta",
+    "name": "青木香",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "RADIX ARISTOLOCHIAE",
+      "family": "马兜铃科"
+    },
+    "originDistribution": "江苏、安徽、浙江、山东、江西、河南、湖北、湖南、广东、广西等地",
+    "daoDiRegions": [
+      {
+        "place": "山东青木香",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "平肝止痛，解毒消肿。（《广西壮族自治区中药饮片炮制规范2007年版》） 行气止痛，解毒消肿。（《安徽省中药饮片炮制规范2005版》）",
+    "indications": "用于眩晕头痛，胸腹胀痛，痈肿疔疮，蛇虫咬伤。（《广西壮族自治区中药饮片炮制规范2007年版》） 用于胸肋，胸腹胀痛，痈肿疔疮，蛇虫咬伤。（《安徽省中药饮片炮制规范2005版》） 用法用量 3-9g。外用适量，研末敷患处。（《广西壮族自治区中药饮片炮制规范2007年版》） 3-9g；外用适量，眼膜敷患处。（《安徽省中药饮片炮制规范2005版》） 用药禁忌 脾胃虚寒者慎服。（《中药大辞典》） 本品含马",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "青木香为马兜铃科植物马兜铃Aristolochia debilis Sieb. et Zucc.的干燥根。10-12月采收，切片晒干。主产于江苏、安徽、浙江、山东、江西、河南、湖北、湖南、广东、广西等地。 来源 本品为马兜铃科植物马兜铃Aristolochia debilis Sieb. et Zucc.的干燥根。（《广西壮族自治区中药饮片炮制规范2007年版》） 本品为马兜铃科植物马兜铃Aristolochia debilis Sieb. et Zucc.或北马兜铃Aristolochia contorta Bunge的干燥根。（《安徽省中药饮片炮制规",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-323.html",
+      "detailId": "323",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "citri-immaturus-peel",
+    "name": "青皮",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "CITRI RETICULATAE PERICARPIUM VIRIDE",
+      "family": "芸香科"
+    },
+    "originDistribution": "福建漳州、龙岩，浙江黄岩、永嘉等地",
+    "daoDiRegions": [
+      {
+        "place": "福建漳州、龙岩，浙江黄岩、永嘉等地",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "疏肝破气，消积化滞。（《中国药典2015》）",
+    "indications": "胸胁胀痛，疝气疼痛，乳癖，乳痈，食积气滞，脘腹胀痛。（《中国药典2015》） 用法用量 内服：煎汤，3-10g；或入丸、散。（《中华本草》） 3～10g。（《中国药典2015》） 用药禁忌 气虚者慎服。（《中华本草》） ①《仁斋直指方》：&quot;有汗者不可用。&quot; ②《本草蒙筌》：&quot;老弱虚羸，尤宜全戒。&quot; ③《本草经疏》：&quot;肝脾气虚者，概勿使用。&quot",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "青皮为芸香科植物橘Citrus reticulata Blanco及其栽培变种的干燥幼果或未成熟果实的果皮。主产于福建漳州、龙岩，浙江黄岩、永嘉等地。5～6月收集自落的幼果，晒干，习称&ldquo;个青皮&rdquo;；7～8月采收未成熟的果实，在果皮上纵剖成四瓣至基部，除尽瓤瓣，晒干，习称&ldquo;四花青皮&rdquo;。 来源 本品为芸香科植物橘Citrus reticulata Blanco及其栽培变种的干燥幼果或未成熟果实的果皮。（《中国药典2015》） 分布产地 主产于福建漳州、龙岩，浙江黄岩、永嘉等地。 入药部位 果实及种子 采收加工 5",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-178.html",
+      "detailId": "178",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "swertia-pubescens",
+    "name": "青叶胆",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "haiyao",
+      "nanyao",
+      "guangyao",
+      "yunyao",
+      "guiyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "海药",
+      "南药",
+      "广药",
+      "云药",
+      "贵药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "SWERTIAE MILEENSIS HERBA",
+      "family": "龙胆科"
+    },
+    "originDistribution": "江西、福建、湖北、湖南",
+    "daoDiRegions": [
+      {
+        "place": "江西、福建、湖北、湖南",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "清肝利胆，清热利湿（《中国药典2015》）",
+    "indications": "用于肝胆湿热，黄疸尿赤，胆胀胁痛，热淋涩痛。（《中国药典2015》） 用法用量 内服：煎汤，10～15g。外用：适量，鲜品捣敷或前水洗。（《中华本草》） （ 10～15g。）（《中国药典2015》） 用药禁忌 虚寒者慎服。（《中国药典2015》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "青叶胆为龙胆科植物青叶胆Swertia mileensis T．N．HoetW．L．Shih的干燥全草。秋季花果期采收，除去泥沙，晒干。主产于湖北、湖南、广东、海南、贵州、云南等地。 来源 为龙胆科植物青叶胆Swertia mileensis T．N．HoetW．L．Shih的干燥全草。（《中国药典2015》） 分布产地 分布于江西、福建、湖北、湖南、广东、海南、广西、贵州、云南等地。 入药部位 全草 采收加工 秋季花果期采收，除去泥沙，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-175.html",
+      "detailId": "175",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "dianthus-superbus",
+    "name": "瞿麦",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "DIANTHI HERBA",
+      "family": "石竹科"
+    },
+    "originDistribution": "河北、河南、陕西、山东、四川、湖北、湖南、浙江、江苏",
+    "daoDiRegions": [
+      {
+        "place": "河北瞿麦",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "利尿通淋，活血通经。（《中国药典2015》）",
+    "indications": "用于热淋，血淋，石淋，小便不通，淋沥涩痛，经闭瘀阻。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "瞿麦为石竹科植物瞿麦Dianthus superbus L.或石竹Dianthus chinensis L.的干燥地上部分。夏、秋二季花果期采割，除去杂质，干燥。瞿麦主产于河北、河南、陕西、山东、四川、湖北、湖南、浙江、江苏；石竹主产于东北各地，河北、河南、陕西、山东、江苏等地亦产。 来源 本品为石竹科植物瞿麦Dianthus superbus L.或石竹Dianthus chinensis L.的干燥地上部分。（《中国药典2015》） 分布产地 瞿麦主产于河北、河南、陕西、山东、四川、湖北、湖南、浙江、江苏；石竹主产于东北各地，河北、河南、陕西、山东、",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-92.html",
+      "detailId": "92",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "scorpion",
+    "name": "全蝎",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "SCORPIO",
+      "family": "功 效： 平肝息风药"
+    },
+    "originDistribution": "山东、河南等地",
+    "daoDiRegions": [
+      {
+        "place": "山东、河南等地",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "息风镇痉，通络止痛，攻毒散结。（《中国药典2015》）",
+    "indications": "用于肝风内动，痉挛抽搐，小儿惊风，中风口㖞，半身不遂，破伤风，风湿顽痹，偏正头痛，疮疡，瘰疬。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 孕妇禁用。（《中国药典2015》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "全蝎为钳蝎科动物东亚钳蝎Buthus martensii Karsch的干燥体。春末至秋初捕捉，除去泥沙，置沸水或沸盐水中，煮至全身僵硬，捞出，置通风处，阴干。主产于山东、河南等地。 来源 本品为钳蝎科动物东亚钳蝎Buthus martensii Karsch的干燥体。（《中国药典2015》） 分布产地 主产于山东、河南等地。 入药部位 动物 采收加工 春末至秋初捕捉，除去泥沙，置沸水或沸盐水中，煮至全身僵硬，捞出，置通风处，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-122.html",
+      "detailId": "122",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "ginseng",
+    "name": "人参",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "GINSENG RADIX ET RHIZOMA",
+      "family": "五加科"
+    },
+    "originDistribution": "吉林、辽宁、黑龙江",
+    "daoDiRegions": [
+      {
+        "place": "吉林、辽宁、黑龙江",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "大补元气，复脉固脱，补脾益肺，生津养血，安神益智。（《中国药典2015》）",
+    "indications": "用于体虚欲脱，肢冷脉微，脾虚食少，肺虚喘咳，津伤口渴，内热消渴，气血亏虚，久病虚羸，惊悸失眠，阳痿宫冷。（《中国药典2015》） 用法用量 3-9g，另煎兑服；也可研粉吞服，一次2g，一日2次。（《中国药典2015》） 用药禁忌 不宜与藜芦、五灵脂同用。（《中国药典2015》） 贮藏保存 置阴凉干燥处，密闭保存，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "人参为五加科植物人参Panax ginseng C. A. Mey.的干燥根和根茎。多于秋季采挖，洗净经晒干或烘干。主产于吉林、辽宁、黑龙江。栽培者为&ldquo;园参&rdquo;，野生者为&ldquo;山参&rdquo;。 来源 本品为五加科植物人参Panax ginseng C. A. Mey.的干燥根和根茎。（《中国药典2015》） 分布产地 主产于吉林、辽宁、黑龙江。栽培者为&ldquo;园参&rdquo;，野生者为&ldquo;山参&rdquo;。 入药部位 根及根茎 采收加工 多于秋季采挖，洗净经晒干或烘干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-382.html",
+      "detailId": "382",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "panax-ginseng-leaf",
+    "name": "人参叶",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "GINSENG FOLIUM",
+      "family": "五加科"
+    },
+    "originDistribution": "主要产于辽东（今东北地区）、吉林等。",
+    "daoDiRegions": [
+      {
+        "place": "主要产于辽东（今东北地区）、吉林等。",
+        "province": "吉林"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补气，益肺，祛暑，生津。（《中国药典2015》）",
+    "indications": "用于气虚咳嗽，暑热烦躁，津伤口渴，头目不清，四肢倦乏。（《中国药典2015》） 用法用量 内服：煎汤：煎汤，3-10g。（《中华本草》） （3~9g）（《中国药典2015》） 用药禁忌 不宜与黎芦同用。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "人参叶为五加科植物人参Panar ginseng C．A. Mey.的干燥叶。秋季采收，晾干或烘干。主要产于辽东（今东北地区）、吉林等。 来源 五加科植物人参Panax ginseng C.A.Mey.的干燥叶。（《中国药典2015》） 分布产地 本草记载人参主要产于辽东（今东北地区）、上党（潞州，即今山西长治市和黎城县的一部分）等。唐代以前，以上党参为佳，至清代，以辽参为地道。现吉林、集安、抚松、靖宇一带，是著名的人参道地产区。  入药部位 叶 采收加工 秋季采收，晾干或烘干。 （《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-380.html",
+      "detailId": "380",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cistanche-deserticola",
+    "name": "肉苁蓉",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "mengyao",
+      "qinyao",
+      "weiyao",
+      "guanyao",
+      "beiyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "蒙药",
+      "秦药",
+      "维药",
+      "关药",
+      "北药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "CISTANCHES HERBA",
+      "family": "列当科"
+    },
+    "originDistribution": "内蒙古、宁夏、甘肃、新疆等",
+    "daoDiRegions": [
+      {
+        "place": "内蒙古、宁夏、甘肃、新疆等",
+        "province": "内蒙古"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肾阳，益精血，润肠通便。（《中国药典2015》）",
+    "indications": "用于肾阳不足，精血亏虚，阳痿不孕，腰膝酸软，筋骨无力，肠燥便秘。（《中国药典2015》） 用法用量 6-10g。（《中国药典2015》） 用药禁忌 相火偏旺、大便滑泄、实热便结者禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "肉苁蓉为列当科植物肉苁蓉Cistanche deserticola Ma或管花肉苁蓉Cistanche tubulosa (Schenk) Wight的干燥带鳞叶的肉质茎。春季苗刚出土时或秋季冻土之前采挖，除去茎尖。切段，晒干。主产于内蒙古、宁夏、甘肃、新疆等地。以内蒙古、甘肃的质量佳，新疆产量大。 来源 本品为列当科植物肉苁蓉Cistanche deserticola Ma或管花肉苁蓉Cistanche tubulosa (Schenk) Wight的干燥带鳞叶的肉质茎。（《中国药典2015》） 分布产地 主产于内蒙古、宁夏、甘肃、新疆等地。以内蒙古、",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-48.html",
+      "detailId": "48",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cinnamon-bark",
+    "name": "肉桂",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "CINNAMOMI CORTEX",
+      "family": "樟科"
+    },
+    "originDistribution": "广西、广东、海南、福建",
+    "daoDiRegions": [
+      {
+        "place": "广西、广东、海南、福建",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "温里药",
+    "efficacy": "补火助阳，引火归元，散寒止痛，温通经脉。（《中国药典2015》）",
+    "indications": "用于阳痿宫冷，腰滕冷痛，肾虛作喘，虛阳上浮，眩晕目赤，心腹冷痛，虚寒吐泻，寒疝腹痛，痛经经闭。（《中国药典2015》） 用法用量 1-5g。（《中国药典2015》） 用药禁忌 有出血倾向者及孕妇慎用；不宜与赤石脂同用。（《中国药典2015》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "肉桂为樟科植物肉桂Cinnamomum cassia Presl的干燥树皮。多于秋季剥取，阴干。主产于广西、广东、海南、福建。进口肉桂主产于越南。 来源 本品为樟科植物肉桂Cinnamomum cassia Presl的干燥树皮。（《中国药典2015》） 分布产地 主产于广西、广东、海南、福建。进口肉桂主产于越南。 入药部位 皮 采收加工 多于秋季剥取，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-296.html",
+      "detailId": "296",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-398",
+    "name": "瑞香狼毒",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "mengyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "蒙药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "TYPHAE POLLEN",
+      "family": "香蒲科"
+    },
+    "originDistribution": "江苏、浙江、河南、山东、安徽、湖北等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏、浙江、河南、山东、安徽、湖北等地",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "止血，化瘀，通淋。（《中国药典2015》）",
+    "indications": "用于吐血，衄血，咯血，崩漏，外伤出血，经闭通经，胸腹刺痛，跌扑肿痛，血淋涩痛。（《中国药典2015》） 用法用量 5-10g，包煎。外用适量，敷患处。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置通风干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "蒲黄为香蒲科植物水烛香蒲Typha angustifolia Linn.、东方香蒲Typha orientalis Presl或同属植物的干燥花粉。夏季采收蒲棒上部的黄色雄花序，晒干后碾轧，筛取花粉。剪取雄花后，晒干，成为带有雄花的花粉，即为草蒲黄。狭叶香蒲主产于江苏、浙江、河南、山东、安徽、湖北等地；东方香蒲产于贵州、山西、山东、东北等地。 来源 本品为香蒲科植物水烛香蒲Typha angustifolia Linn.、东方香蒲Typha orientalis Presl或同属植物的干燥花粉。（《中国药典2015》） 分布产地 狭叶香蒲主产于江苏、浙江",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-398.html",
+      "detailId": "398",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "sparganium-stoloniferum",
+    "name": "三棱",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "SPARGANII RHIZOMA",
+      "family": "黑三棱科"
+    },
+    "originDistribution": "江苏、河南、山东、江西、安徽等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏、河南、山东、江西、安徽等地",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "破血行气，消积止痛。（《中国药典2015》）",
+    "indications": "用于癥瘕痞块，痛经，瘀血经闭，胸痹心痛，食积胀痛。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 孕妇禁用；不宜与芒硝、玄明粉同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "三棱为黑三棱科植物黑三棱Sparganium stoloniferum (Graebn.) Buch. -Ham. ex Juz.的干燥块茎。冬季至次年春采挖，洗净，削去外皮，晒干。主产于江苏、河南、山东、江西、安徽等地。 来源 本品为黑三棱科植物黑三棱Sparganium stoloniferum (Graebn.) Buch. -Ham. ex Juz.的干燥块茎。（《中国药典2015》） 分布产地 主产于江苏、河南、山东、江西、安徽等地。 入药部位 根及根茎 采收加工 冬季至次年春采挖，洗净，削去外皮，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-363.html",
+      "detailId": "363",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "panax-notoginseng",
+    "name": "三七",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "NOTOGINSENG RADIX ET RHIZOMA",
+      "family": "五加科"
+    },
+    "originDistribution": "云南、广西",
+    "daoDiRegions": [
+      {
+        "place": "云南、广西",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "散瘀止血，消肿定痛。（《中国药典2015》）",
+    "indications": "用于咯血，吐血，衄血，便血，崩漏，外伤出血，胸腹刺痛，跌扑肿痛。（《中国药典2015》） 用法用量 3-9g；研粉吞服，一次1-3g。外用适量。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "三七为五加科植物三七Panax notoginseng (Burkill) F. H. Chen ex C. H. Chow的干燥根。秋季花开前采挖，洗净，分开主根、支根及茎基，干燥。支根习称&ldquo;筋条&rdquo;，茎基习称&ldquo;剪口&rdquo;。主产于云南、广西。以云南文山历史久、产量大、质量优为著名道地产品。 来源 本品为五加科植物三七Panax notoginseng (Burkill) F. H. Chen ex C. H. Chow的干燥根和根茎。（《中国药典2015》） 分布产地 主产于云南、广西。以云南文山历史久、产量大",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-250.html",
+      "detailId": "250",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "mulberry-root-bark",
+    "name": "桑白皮",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "MORI CORTEX",
+      "family": "桑科"
+    },
+    "originDistribution": "河南、安徽、浙江、江苏、湖南、四川等地",
+    "daoDiRegions": [
+      {
+        "place": "河南、安徽、浙江、江苏、湖南、四川等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "泻肺平喘，利水消肿。（《中国药典2015》） 泻肺平喘，利水消肿。（《湖南省中药材标准2009年版》）",
+    "indications": "用于肺热喘咳，水肿胀满尿少，面目肌肤浮肿。（《中国药典2015》） 用于肺热喘咳，水肿胀满尿少，面目肌肤浮肿。（《湖南省中药材标准2009年版》） 用法用量 6-12g。（《中国药典2015》） 5-9g。（《湖南省中药材标准2009年版》） 用药禁忌 肺寒无火及风寒咳嗽者禁服。（《中药大辞典》） 贮藏保存 置干燥阴凉处，防潮，防蛀。（《中国药典2015》） 置通风干燥处，防蛀。（《湖南省中药材标",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "桑白皮为桑科植物桑Morus alba L.的干燥根皮。秋末叶落时至次春发芽前采挖根部，刮去黄棕色粗皮，纵向剖开，剥取根皮，晒干。主产于河南、安徽、浙江、江苏、湖南、四川等地。 来源 本品为桑科植物桑Morus alba L.的干燥根皮。（《中国药典2015》） 本品为桑科植物鸡桑Morus australis Poir.、华桑Morus cathayana Hemsl.或蒙桑Morus mongolica Schneid.的干燥根皮。（《湖南省中药材标准2009年版》） 分布产地 主产于河南、安徽、浙江、江苏、湖南、四川等地。 入药部位 皮 采收加工 ",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-329.html",
+      "detailId": "329",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "taxillus-chinensis",
+    "name": "桑寄生",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "TALXILLI HERBA",
+      "family": "桑寄生科"
+    },
+    "originDistribution": "广东、广西、福建等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、福建等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风湿，补肝肾，强筋骨，安胎元。（《中国药典2015》）",
+    "indications": "用于风湿痹痛，腰膝酸软，筋骨无力，崩漏经多，妊娠漏血，胎动不安，头晕目眩。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "桑寄生为桑寄生科植物桑寄生Taxillus chinensis (DC) Danser的干燥带叶茎枝。冬季至次春采割，除去粗茎，切段，干燥，或蒸后干燥。主产于广东、广西、福建等地。 来源 本品为桑寄生科植物桑寄生Taxillus chinensis (DC) Danser的干燥带叶茎枝。（《中国药典2015》） 分布产地 主产于广东、广西、福建等地。 入药部位 茎木 采收加工 冬季至次春采割，除去粗茎，切段，干燥，或蒸后干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-276.html",
+      "detailId": "276",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "hippophae-fruit",
+    "name": "沙棘",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "qinyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "秦药"
+    ],
+    "taxonomy": {
+      "latinName": "HIPPOPHAE FRUCTUS",
+      "family": "胡颓子科"
+    },
+    "originDistribution": "华北、西北及四川",
+    "daoDiRegions": [
+      {
+        "place": "华北、西北及四川",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "消食药",
+    "efficacy": "健脾消食，止咳祛痰，活血散瘀。（《中国药典2015》）",
+    "indications": "用于脾虚食少，食积腹痛，咳嗽痰多，胸痹心痛，瘀血经闭，跌扑瘀肿。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 贮藏保存 置通风干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "沙棘系蒙古族、藏族习用药材。为胡颓子科植物沙棘Hippophae rhamnoides L.的干燥成熟果实。秋、冬二季果实成熟或冻硬时采收，除去杂质，干燥或蒸后干燥。产于华北、西北及四川。 来源 本品系蒙古族、藏族习用药材。为胡颓子科植物沙棘Hippophae rhamnoides L.的干燥成熟果实。（《中国药典2015》） 分布产地 产于华北、西北及四川。 入药部位 果实及种子 采收加工 秋、冬二季果实成熟或冻硬时采收，除去杂质，干燥或蒸后干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-321.html",
+      "detailId": "321",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lophatherum-seed",
+    "name": "沙苑蒺藜",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "qinyao",
+      "guanyao",
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "秦药",
+      "关药",
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "SEMEN ASTRAGALI COMPLANATI",
+      "family": "豆科"
+    },
+    "originDistribution": "陕西；河北、山西、内蒙古等",
+    "daoDiRegions": [
+      {
+        "place": "陕西；河北、山西、内蒙古等",
+        "province": "内蒙古"
+      },
+      {
+        "place": "陕西",
+        "province": "陕西"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肾助阳，固精缩尿，养肝明目。（《中国药典2015》）",
+    "indications": "用于肾虚腰痛，遗精早泄，遗尿尿频，白浊带下，眩晕，目暗昏花。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 相火偏旺之遗精、膀胱湿热之淋浊带下慎服。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "沙苑蒺藜为豆科植物背扁黄芪Astragalus complanatus Bunge的种子。于10月收获，当荚果80%以上呈黑色时，离地面6cm割下晒干，打出种子，除去杂质，于通风干燥处保存。主产于陕西；河北、山西、内蒙古等地亦产。以陕西潼关者为著，称潼蒺藜。 来源 本品为豆科植物背扁黄芪Astragalus complanatus Bunge的种子。 作沙苑蒺藜药用的尚有同属植物：①华黄芪Astragalus chinensis L. f.分布于东北及内蒙古、河北、山东、河南等地。②直立黄芪Astragalus adsurgens Pall.分布于东北、",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-60.html",
+      "detailId": "60",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "amomi-fructus",
+    "name": "砂仁",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao",
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "广药",
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "AMOMI FRUCTUS",
+      "family": "姜科"
+    },
+    "originDistribution": "云南、广东",
+    "daoDiRegions": [
+      {
+        "place": "云南、广东",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "化湿药",
+    "efficacy": "化湿开胃，温脾止泻，理气安胎。（《中国药典2015》）",
+    "indications": "用于湿浊中阻，脘痞不饥，脾胃虚寒，呕吐泄泻，妊娠恶阻，胎动不安。（《中国药典2015》） 用法用量 3-6g，后下。（《中国药典2015》） 用药禁忌 阴虚有热者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "砂仁为姜科植物阳春砂Amomum villosum Lour.、绿壳砂Amomum villosum Lour. var. xanthioides (Wall. ex Bak.) T.L.Wu et S.J.Chen或海南砂Amomum longiligulare T. L. Wu的干燥成熟果实。夏、秋二季果实成熟时采收，晒干或低温干燥。阳春砂主产于云南、广东，质量较好；绿壳砂主产于云南；海南砂主产于海南、广东，品质较差。 来源 本品为姜科植物阳春砂Amomum villosum Lour.、绿壳砂Amomum villosum Lour. var. x",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-45.html",
+      "detailId": "45",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "sophora-tonkinensis",
+    "name": "山豆根",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "SOPHORAE TONKINENSIS RADIX ET RHIZOMA",
+      "family": "豆科"
+    },
+    "originDistribution": "广西",
+    "daoDiRegions": [
+      {
+        "place": "广西",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，消肿利咽。（《中国药典2015》）",
+    "indications": "用于火毒蕴结，乳蛾喉痹，咽喉肿痛，齿龈肿痛，口舌生疮。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 脾胃虚寒泄泻者禁服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "山豆根为豆科植物越南槐Sophora tonkinensis Gagnep.的干燥根和根茎。秋季采挖，除去杂质，洗净，干燥。主产于广西。 来源 本品为豆科植物越南槐Sophora tonkinensis Gagnep.的干燥根和根茎。（《中国药典2015》） 分布产地 主产于广西。 入药部位 根及根茎 采收加工 秋季采挖，除去杂质，洗净，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-283.html",
+      "detailId": "283",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "ophiopogon-root-tuber",
+    "name": "山麦冬",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "LIRIOPES RADIX",
+      "family": "百合科"
+    },
+    "originDistribution": "四川绵阳、三台，浙江余姚",
+    "daoDiRegions": [
+      {
+        "place": "四川绵阳、三台，浙江余姚",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "养阴生津，润肺清心。（《中国药典2015》）",
+    "indications": "用于肺燥干咳，阴虚痨嗽，喉痹咽痛，津伤口渴，内热消渴，心烦失眠，肠燥便秘。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "山麦冬为百合科植物湖北麦冬Liriope spicata (Thunb.) Lour. var. prolifera Y. T. Ma或短葶山麦冬的Liriope muscari (Decne.) Baily干燥块根。夏初采挖，洗净，反复暴晒、堆置，至近干，除去须根，干燥。山麦冬主产于四川绵阳、三台，浙江余姚。阔叶山麦冬产于河南、山东、江苏、安徽、浙江、江西、福建、湖北、广东、广西、四川、贵州等地。 来源 本品为百合科植物山麦冬Liriope spicata (Thunb.) Lour. var. prolifera Y. T. Ma或短葶山麦冬的Lir",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-334.html",
+      "detailId": "334",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "yam",
+    "name": "山药",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "DIOSCOREAE RHIZOMA",
+      "family": "薯蓣科"
+    },
+    "originDistribution": "河南",
+    "daoDiRegions": [
+      {
+        "place": "河南",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "山药：补脾养胃，生津益肺，补肾涩精。 麸炒山药：补脾健胃。（《中国药典2015》）",
+    "indications": "山药：用于脾虚食少，久泻不止，肺虚喘咳，肾虚遗精，带下，尿频，虚热消渴。 麸炒山药：用于补脾虚食少，泄泻便溏，白带过多。（《中国药典2015》） 用法用量 15-30g。（《中国药典2015》） 用药禁忌 湿盛中满或有实邪、积滞者禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "山药为薯蓣科植物薯蓣Dioscorea opposita Thunb.的干燥根茎。冬季茎叶枯萎后采挖，切去根头，洗净，除去外皮和须根，干燥习称&ldquo;毛山药&rdquo;，或趁鲜切厚片，干燥；称为&ldquo;山药片&rdquo;。也有选择肥大顺直的干燥山药，置清水中，浸至无干心，闷透，切齐两端，用木板搓成圆柱状，晒干，打光，习称&ldquo;光山药&rdquo;。主产于河南。 来源 本品为薯蓣科植物薯蓣Dioscorea opposita Thunb.的干燥根茎。（《中国药典2015》） 分布产地 主产于河南。 入药部位 根及根茎 采收加工 冬季",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-125.html",
+      "detailId": "125",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "crataegus-pinnatifida",
+    "name": "山楂",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "CRATAEGI FRUCTUS",
+      "family": "蔷薇科"
+    },
+    "originDistribution": "河南、山东、河北等地",
+    "daoDiRegions": [
+      {
+        "place": "河南、山东、河北等地",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "消食药",
+    "efficacy": "山楂：消食健胃，行气散瘀，化浊降脂。 焦山楂：消食导滞作用增强。（《中国药典2015》）",
+    "indications": "山楂：用于肉食积滞，胃脘胀满，泻痢腹痛，瘀血经闭，产后瘀阻，心腹刺痛，胸痹心痛，疝气疼痛，高脂血症。 焦山楂：用于肉食积滞，泻痢不爽。（《中国药典2015》） 用法用量 9-12g。（《中国药典2015》） 用药禁忌 脾胃虚弱及孕妇慎服。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "山楂为蔷薇科植物山里红Crataegus pinnatifida var. major N. E. Brown或山楂Crataegus pinnatifida Bge.的干燥成熟果实。秋季果实成熟时采收，切片，干燥。主产于河南、山东、河北等地，以山东临朐、沂水产量大，品质佳；河南林县产者质亦优。 来源 本品为蔷薇科植物山里红Crataegus pinnatifida var. major N. E. Brown或山楂Crataegus pinnatifida Bge. 的干燥成熟果实。（《中国药典2015》） 分布产地 主产于河南、山东、河北等地，以山东",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-95.html",
+      "detailId": "95",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cornus-officinalis",
+    "name": "山茱萸",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao",
+      "zheyao",
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "怀药",
+      "浙药",
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "CORNI FRUCTUS",
+      "family": "山茱萸科"
+    },
+    "originDistribution": "浙江临安、淳安；河南南阳、嵩县、济源、巩县，安徽歙县、石埭以及陕西、山西、四川亦产",
+    "daoDiRegions": [
+      {
+        "place": "山西山茱萸",
+        "province": "山西"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "补益肝肾，收涩固脱。（《中国药典2015》）",
+    "indications": "用于眩晕耳鸣，腰膝酸痛，阳痿遗精，遗尿尿频，崩漏带下，大汗虚脱，内热消渴。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 命门火炽、素有湿热、小便淋涩者禁服。（《中药大辞典》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "山茱萸为山茱萸科植物山茱萸Cornus officinalis Sieb. et Zucc.的干燥成熟果肉。秋末冬初果皮变红时采收果实，用文火烘或置沸水中略烫后，及时除去果核，干燥。主产于浙江临安、淳安；河南南阳、嵩县、济源、巩县，安徽歙县、石埭以及陕西、山西、四川亦产。 来源 本品为山茱萸科植物山茱萸Cornus officinalis Sieb. et Zucc.的干燥成熟果肉。（《中国药典2015》） 分布产地 主产于浙江临安、淳安；河南南阳、嵩县、济源、巩县，安徽歙县、石埭以及陕西、山西、四川亦产。 入药部位 果实及种子 采收加工 秋末冬初果皮变",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-165.html",
+      "detailId": "165",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "phytolacca-acinosa",
+    "name": "商陆",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "PHYTOLACCAE RADIX",
+      "family": "商陆科"
+    },
+    "originDistribution": "河南、安徽、湖北等地",
+    "daoDiRegions": [
+      {
+        "place": "河南、安徽、湖北等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "泻下药",
+    "efficacy": "逐水消肿，通利二便；外用解毒散结。（《中国药典2015》）",
+    "indications": "用于水肿胀满，二便不通；外治痈肿疮毒。（《中国药典2015》）   用法用量 3-9g。外用适量，煎汤熏洗。（《中国药典2015》） 用药禁忌 孕妇禁用。（《中国药典2015》） 贮藏保存 置干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "商陆为商陆科植物商陆Phytolacca acinosa Roxb.或垂序商陆Phytolacca americana L.的干燥根。秋季至次春采挖，除去须根和泥沙，切成块或片，晒干或阴干。商陆主产于河南、安徽、湖北等地；垂序商陆主产于山东、浙江、江西等地。   来源 本品为商陆科植物商陆Phytolacca acinosa Roxb.或垂序商陆Phytolacca americana L.的干燥根。（《中国药典2015》） 分布产地 商陆主产于河南、安徽、湖北等地；垂序商陆主产于山东、浙江、江西等地。 入药部位 根及根茎 采收加工 秋季至次春采挖，除去",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-114.html",
+      "detailId": "114",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-213",
+    "name": "蛇六谷",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "AMORPHOPHALLI RHIZOMA",
+      "family": "天南星科"
+    },
+    "originDistribution": "四川、贵州",
+    "daoDiRegions": [
+      {
+        "place": "四川、贵州",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "化痰散积，行瘀消肿。（《浙江省中药炮制规范2015年版》）",
+    "indications": "用于痰嗽，积滞，疟疾，经闭，跌打损伤，痈肿，疔疮，丹毒，烫伤。（《浙江省中药炮制规范2015年版》） 用法用量 5-10g。外用适量，醋磨涂或煮熟捣敷。（《浙江省中药炮制规范2015年版》） 用药禁忌 内服须久煎2小时。（《浙江省中药炮制规范2015年版》） 贮藏保存 置通风干燥处，防霉，防蛀。（《浙江省中药炮制规范2015年版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "蛇六谷天南星科植物魔芋Amorphophallus rivieri Durieu或华东魔芋Amorphophallus sinensis Belval的干燥块茎。秋、冬二季茎叶枯萎时采挖，除去须根及外皮，干燥。主产四川、贵州。 来源 本品天南星科植物魔芋Amorphophallus rivieri Durieu或华东魔芋Amorphophallus sinensis Belval的干燥块茎。（《浙江省中药炮制规范2015年版》） 分布产地 主产四川、贵州。 入药部位 根及根茎 采收加工 秋、冬二季茎叶枯萎时采挖，除去须根及外皮，干燥。（《浙江省中药炮制规",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-213.html",
+      "detailId": "213",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "belamcanda-chinensis",
+    "name": "射干",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "BELAMCANDAE RHIZOMA",
+      "family": "鸢尾科"
+    },
+    "originDistribution": "湖北、河南、江苏、安徽、湖南、陕西、浙江、贵州、云南等地",
+    "daoDiRegions": [
+      {
+        "place": "河南射干",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，消痰，利咽。（《中国药典2015》）",
+    "indications": "用于热毒痰火郁结，咽喉肿痛，痰涎壅盛，咳嗽气喘。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 病无实热，脾虚便溏及孕妇禁服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "射干为鸢尾科植物射干Belamcanda chinensis (L.) DC. 的干燥根茎。春初刚发芽或秋末茎叶枯萎时采挖，除去须根和泥沙，干燥。主产于湖北、河南、江苏、安徽、湖南、陕西、浙江、贵州、云南等地。以河南产量大，湖北品质好。 来源 本品为鸢尾科植物射干Belamcanda chinensis (L.) DC. 的干燥根茎。（《中国药典2015》） 分布产地 主产于湖北、河南、江苏、安徽、湖南、陕西、浙江、贵州、云南等地。以河南产量大，湖北品质好。 入药部位 根及根茎 采收加工 春初刚发芽或秋末茎叶枯萎时采挖，除去须根和泥沙，干燥。（《中国药典",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-362.html",
+      "detailId": "362",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cimicifuga-heracleifolia",
+    "name": "升麻",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "mengyao",
+      "qinyao",
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "蒙药",
+      "秦药",
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "CIMICIFUGAE RHIZOMA",
+      "family": "毛茛科"
+    },
+    "originDistribution": "辽宁、吉林、黑龙江等地",
+    "daoDiRegions": [
+      {
+        "place": "辽宁、吉林、黑龙江等地",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "发表透疹，清热解毒，升举阳气。（《中国药典2015》）",
+    "indications": "用于风热头痛，齿痛，口疮，咽喉肿痛，麻疹不透，阳毒发斑，脱肛，子宫脱垂。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 阴虚阳浮，喘满气逆及麻疹已透者忌服。服用过量可产生头晕、震颤、四肢拘挛等。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "升麻为毛莨科植物大三叶升麻Cimicifuga heracleifolia Kom.、兴安升麻Cimicifuga dahurica (Turcz.) Maxim.或升麻Cimicifuga foetida L.的干燥根茎。秋季采挖，除去泥沙，晒至须根干时，燎去或除去须根，晒干。大三叶升麻主产于辽宁、吉林、黑龙江等地，又称&ldquo;关升麻&rdquo;。兴安升麻主产于黑龙江、河北、山西、内蒙古，以河北、山西产量最大，又称&ldquo;北升麻&rdquo;。升麻主产于四川、青海等地，以四川产量较大，又称&ldquo;川升麻&rdquo;。 来源 本品为",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-57.html",
+      "detailId": "57",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-198",
+    "name": "蓍草",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "ACHILLEAE HERBA",
+      "family": "菊科"
+    },
+    "originDistribution": "江西、湖南、陕西",
+    "daoDiRegions": [
+      {
+        "place": "江西、湖南、陕西",
+        "province": "江西"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "解毒利湿，活血止痛。（《中国药典2015》）",
+    "indications": "用于乳蛾咽痛，泄泻痢疾，肠痈腹痛，热淋涩痛，湿热带下，蛇虫咬伤。（《中国药典2015》） 用法用量 15-45g，必要时日服二剂。（《中国药典2015》） 用药禁忌 《四川中药志》1960年版：&ldquo;体虚及孕妇忌服。&rdquo; 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "蓍草为菊科植物蓍Achillea alpina L.的干燥地上部分。夏、秋二季花开时采割，除去杂质，阴干。主产于江西、湖南、陕西。 来源 本品为菊科植物蓍Achillea alpina L.的干燥地上部分。（《中国药典2015》） 分布产地 主产于江西、湖南、陕西。 入药部位 全草 采收加工 夏、秋二季花开时采割，除去杂质，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-198.html",
+      "detailId": "198",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "acorus-tatarinowii",
+    "name": "石菖蒲",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "ACORI TATARINOWII RHIZOMA",
+      "family": "天南星科"
+    },
+    "originDistribution": "四川、浙江、江苏",
+    "daoDiRegions": [
+      {
+        "place": "四川、浙江、江苏",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "开窍药",
+    "efficacy": "开窍豁痰，醒神益智，化湿开胃。（《中国药典2015》）",
+    "indications": "用于神昏癫痫，健忘失眠，耳鸣耳聋，脘痞不饥，噤口下痢。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 阴虚阳亢、汗多、精滑者慎服。（《中药大辞典》） 贮藏保存 置干燥处，防霉。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "石菖蒲为天南星科植物石菖蒲Acorus tatarinowii Schott的干燥根茎。秋、冬二季采挖，除去须根和泥沙，晒干。主产于四川、浙江、江苏。 来源 本品为天南星科植物石菖蒲Acorus tatarinowii Schott的干燥根茎。（《中国药典2015》） 分布产地 主产于四川、浙江、江苏。 入药部位 根及根茎 采收加工 秋、冬二季采挖，除去须根和泥沙，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-218.html",
+      "detailId": "218",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "gypsum",
+    "name": "石膏",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "GYPSUM FIBROSUM",
+      "family": "其它科"
+    },
+    "originDistribution": "湖北、河南、西藏、安徽等地",
+    "daoDiRegions": [
+      {
+        "place": "湖北、河南、西藏、安徽等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热泻火，除烦止渴。（《中国药典2015》）",
+    "indications": "用于外感热病，高热烦渴，肺热喘咳，胃火亢盛，头痛，牙痛。（《中国药典2015》） 用法用量 15-60g，先煎。（《中国药典2015》） 用药禁忌 凡阳虚寒证，脾胃虚弱及血虚、阴虚发热者慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "石膏为硫酸盐类矿物硬石膏族石膏，主含含水硫酸钙（CaSO4&amp;#183;2H2O）。采挖后，除去杂石及泥沙。主产于湖北、河南、西藏、安徽等地。 来源 本品为硫酸盐类矿物硬石膏族石膏，主含含水硫酸钙（CaSO4.2H2O）。（《中国药典2015》） 分布产地 主产于湖北、河南、西藏、安徽等地。 入药部位 矿物 采收加工 采挖后，除去杂石及泥沙。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-344.html",
+      "detailId": "344",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "dendrobium-nobile",
+    "name": "石斛",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao",
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "广药",
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "DENDROBII CAULIS",
+      "family": "兰科"
+    },
+    "originDistribution": "广西、云南、贵州",
+    "daoDiRegions": [
+      {
+        "place": "广西、云南、贵州",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "益胃生津，滋阴清热。（《中国药典2015》）",
+    "indications": "用于热病津伤，口干烦渴，胃阴不足，食少干呕，病后虚热不退，阴虚火旺，骨蒸劳热，目暗不明，筋骨痿软。（《中国药典2015》） 用法用量 6-12g；鲜品15-30g。（《中国药典2015》） 用药禁忌 ①《本草经集注》：&quot;陆英为之使。恶凝水石、巴豆。畏僵蚕、雷丸。&quot; ②《百草镜》：&quot;惟胃肾有虚热者宜之，虚而无火者忌用。&quot; 贮藏保存 干品置通风干燥处，防潮；鲜品",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "石斛为兰科植物金钗石斛Dendrobium nobile Lindl.、鼓槌石斛Dendrobium chrysotoxum Lindl.或流苏石斛Dendrobium fimbriatum Hook.的栽培品及其同属植物近似种的新鲜或干燥茎。全年均可采收，鲜用者除去根和泥沙；干用者采收后，除去杂质，用开水略烫或烘软，再边搓边烘晒，至叶鞘搓净，干燥。石斛主产于广西、云南、贵州；鼓槌石斛产于云南；流苏石斛主产于广西、贵州、云南、四川。 来源 本品为兰科植物金钗石斛Dendrobium nobile Lindl.、鼓槌石斛Dendrobium chrysot",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-53.html",
+      "detailId": "53",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "haliotis-shell",
+    "name": "石决明",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "haiyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "海药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "HALIOTIDIS CONCHA",
+      "family": "功 效：平肝息风药"
+    },
+    "originDistribution": "广东、福建、台湾、辽宁、山东等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、福建、台湾、辽宁、山东等地",
+        "province": "辽宁"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "平肝潜阳，清肝明目。（《中国药典2015》）",
+    "indications": "用于头痛眩晕，目赤翳障，视物昏花，青盲雀目。（《中国药典2015》） 用法用量 6-20g，先煎。（《中国药典2015》） 用药禁忌 脾胃虚寒者慎服，消化不良、胃酸缺乏者禁服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "石决明为鲍科动物杂色鲍Haliotis diversicolor Reeve、皱纹盘鲍Haliotis discus hannaz Ino、羊鲍Haliotis ovina Gmelin、澳洲鲍Haliotis ruber (Leach)、耳鲍Haliotis asinina Linnaeus或白鲍Haliotis laevigata (Donovan)的贝壳。夏、秋二季捕捞，去肉，洗净，干燥。主产广东、福建、台湾、辽宁、山东等地。 来源 本品为鲍科动物杂色鲍Haliotis diversicolor Reeve、皱纹盘鲍Haliotis discus ",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-292.html",
+      "detailId": "292",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "pyrrosia-sheareri",
+    "name": "石韦",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "PYRROSIAE FOLIUM",
+      "family": "水龙骨科"
+    },
+    "originDistribution": "河南、浙江、安徽、湖北、云南、广东、广西等地",
+    "daoDiRegions": [
+      {
+        "place": "河南、浙江、安徽、湖北、云南、广东、广西等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "利尿通淋，清肺止咳，凉血止血。（《中国药典2015》）",
+    "indications": "用于热淋，血淋，石淋，小便不通，淋沥涩痛，肺热喘咳，吐血，衄血，尿血，崩漏。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 阴虚及无湿热者禁服。（《中华本草》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "石韦为水龙骨科植物庐山石韦Pyrrosia sheareri (Baker) Ching、石韦Pyrrosia lingua (Thunb.) Farwell或有柄石韦Pyrrosia petiolosa (Christ) Ching的干燥叶。全年均可采收，除去根茎和根，晒干或阴干。庐山石韦主产于安徽、浙江、湖南、湖北、贵州、四川、广西等地；石韦主产于河南、浙江、安徽、湖北、云南、广东、广西等地；有柄石韦全国大部分地区均产。 来源 本品为水龙骨科植物庐山石韦Pyrrosia sheareri (Baker) Ching、石韦Pyrrosia lingua",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-134.html",
+      "detailId": "134",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "quisqualis-seed",
+    "name": "使君子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "QUISQUALIS FRUCTUS",
+      "family": "使君子科"
+    },
+    "originDistribution": "四川、福建、广东、广西、台湾、江西等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、福建、广东、广西、台湾、江西等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "驱虫药",
+    "efficacy": "杀虫消积。（《中国药典2015》）",
+    "indications": "用于蛔虫病，蛲虫病，虫积腹痛，小儿疳积。（《中国药典2015》） 用法用量 使君子9-12g，捣碎入煎剂；使君子仁6-9g，多入丸散或单用，作1-2次分服。小儿每岁1-1.5粒，炒香嚼服，1日总量不超过20粒。（《中国药典2015》） 用药禁忌 服药时忌饮热茶。（《中国药典2015》） 贮藏保存 置通风干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "使君子为使君子科植物使君子Quisqualis indica L.的干燥成熟果实。秋季果皮变紫黑色时采收，除去杂质，干燥。主产于四川、福建、广东、广西、台湾、江西等地，以四川产量最大。 来源 本品为使君子科植物使君子Quisqualis indica L.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于四川、福建、广东、广西、台湾、江西等地，以四川产量最大。 入药部位 果实及种子 采收加工 秋季果皮变紫黑色时采收，除去杂质，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-202.html",
+      "detailId": "202",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "rehmannia-processed",
+    "name": "熟地黄",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "REHMANNIAE RADIX PRAEPARATA",
+      "family": "玄参科"
+    },
+    "originDistribution": "河南",
+    "daoDiRegions": [
+      {
+        "place": "河南",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补血滋阴，益精填髓。（《中国药典2015》）",
+    "indications": "用于血虚萎黄，心悸怔忡，月经不调，崩漏下血，肝肾阴虚，腰膝酸软，骨蒸潮热，盗汗遗精，内热消渴，眩晕，耳鸣，须发早白。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 脾胃虚弱，气滞痰多，腹满便溏者禁服。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "熟地黄为生地黄的炮制加工品。主产于河南。 来源 本品为生地黄的炮制加工品。（《中国药典2015》） 分布产地 主产于河南。 入药部位 根及根茎",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-127.html",
+      "detailId": "127",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-143",
+    "name": "松花",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "POLLEN PINI",
+      "family": "松科"
+    },
+    "originDistribution": "江苏、浙江、安徽、江西、福建、湖北",
+    "daoDiRegions": [
+      {
+        "place": "江苏、浙江、安徽、江西、福建、湖北",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "益气，燥湿，止血。（《中药大辞典》） 祛风，益气，收湿，止血。（《中华本草》）",
+    "indications": "主治久泻久痢，胃脘疼痛，湿疹湿疮，创伤出血。（《中药大辞典》） 主治头痛眩晕，泄泻下痢，湿疹湿疮，创伤出血。（《中华本草》） 用法用量 内服：煎汤，3-9g；或冲服。外用：干撒或调敷。（《中药大辞典》） 内服：煎汤，3-9g；或冲服。外用：适量，干撒或调敷。（《中华本草》） 用药禁忌 血虚、内热者慎服。（《中药大辞典》） 血虚、内热者慎服。（《中华本草》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "松花为松科植物马尾松Pinus massoniana Lamb.、油松Pinus tabuliformis Carr.、赤松Pinus densiflora Sieb. et Zucc.、黑松Pinus thunbergii Parl.等的花粉。4-6月开花期间采收雄花穗，晾干，搓下花粉，过筛，收取细粉，再晒。马尾松主产于江苏、浙江、安徽、江西、福建、湖北；油松主产于辽宁、河北、山东、河南、山西、陕西、甘肃；赤松主产于黑龙江、吉林、辽宁、山东及江苏；黑松主产于辽宁、山东。 来源 本品为松科植物马尾松Pinus massoniana Lamb.、油松Pin",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-143.html",
+      "detailId": "143",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "pinus-massoniana-pollen",
+    "name": "松花粉",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "PINI POLLEN",
+      "family": "松科"
+    },
+    "originDistribution": "江苏、浙江、安徽、江西、福建、湖北",
+    "daoDiRegions": [
+      {
+        "place": "江苏、浙江、安徽、江西、福建、湖北",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "收敛止血，燥湿敛疮。（《中国药典2015》）",
+    "indications": "用于外伤出血，湿疹，黄水疮，皮肤糜烂，脓水淋漓。（《中国药典2015》） 用法用量 外用适量，撒敷患处。（《中国药典2015》） 用药禁忌 血虚、内热者慎服。（《中药大辞典》） 贮藏保存 置干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "松花粉为松科植物马尾松Pinus massoniana Lamb.、油松Pinus tabuliformis Carr.或同属数种植物的干燥花粉。春季花刚开时，采摘花穗，晒干，收集花粉，除去杂质。马尾松主产于江苏、浙江、安徽、江西、福建、湖北；油松主产于辽宁、河北、山东、河南、山西、陕西、甘肃。 来源 本品为松科植物马尾松Pinus massoniana Lamb.、油松Pinus tabuliformis Carr.或同属数种植物的干燥花粉。（《中国药典2015》） 分布产地 马尾松主产于江苏、浙江、安徽、江西、福建、湖北；油松主产于辽宁、河北、山东、",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-136.html",
+      "detailId": "136",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "sappan-wood",
+    "name": "苏木",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao",
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "广药",
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "SAPPAN LIGNUM",
+      "family": "豆科"
+    },
+    "originDistribution": "广东、广西、贵州、云南、台湾等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、贵州、云南、台湾等地",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血祛瘀，消肿止痛。（《中国药典2015》）",
+    "indications": "用于跌打损伤，骨折筋伤，瘀滞肿痛，经闭痛经，产后瘀阻，胸腹刺痛，痈疽肿痛。（《中国药典2015》） 用法用量 3-9g。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "苏木为豆科植物苏木Caesalpinia sappan Linn.的干燥心材。多于秋季采伐，除去白色边材，干燥。主产于广东、广西、贵州、云南、台湾等地。 来源 本品为豆科植物苏木Caesalpinia sappan Linn.的干燥心材。（《中国药典2015》） 分布产地 主产于广东、广西、贵州、云南、台湾等地。 入药部位 茎木 采收加工 多于秋季采伐，除去白色边材，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-237.html",
+      "detailId": "237",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "akebia-trifoliata-seed",
+    "name": "娑罗子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "guiyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "贵药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "AESCULI SEMEN",
+      "family": "七叶树科"
+    },
+    "originDistribution": "陕西、河南等地",
+    "daoDiRegions": [
+      {
+        "place": "陕西、河南等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "疏肝理气，和胃止痛。（《中国药典2015》）",
+    "indications": "用于肝胃气滞，胸腹胀闷，胃脘疼痛。（《中国药典2015》） 用法用量 3-9g。（《中国药典2015》） 用药禁忌 气阴虚患者慎服。（《中药大辞典》） 贮藏保存 置干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "娑罗子为七叶树科植物七叶树Aesculus chinensis Bunge、浙江七叶树Aesculus chinensis Bunge var. chekiangeasis (Hu et Fang) Fang或天师栗Aesculus wilsonii Rehd.的干燥成熟种子。秋季果实成熟时采收，除去果皮，晒干或低温干燥。七叶树主产于陕西、河南等地；浙江七叶树主产于浙江等地；天师栗主产于四川、湖北、贵州等地。 来源 本品为七叶树科植物七叶树Aesculus chinensis Bunge、浙江七叶树Aesculus chinensis Bunge var",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-42.html",
+      "detailId": "42",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cynomorium-songaricum",
+    "name": "锁阳",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "mengyao",
+      "qinyao",
+      "weiyao",
+      "guanyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "蒙药",
+      "秦药",
+      "维药",
+      "关药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "CYNOMORII HERBA",
+      "family": "锁阳科"
+    },
+    "originDistribution": "内蒙古、宁夏、新疆、甘肃、青海等地。",
+    "daoDiRegions": [
+      {
+        "place": "内蒙古、宁夏、新疆、甘肃、青海等地。",
+        "province": "内蒙古"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肾阳，益精血，润肠通便。（《中国药典2015》）（《中国药典2015》）",
+    "indications": "用于肾阳不足，精血亏虚，腰膝痿软，阳痿滑精，肠燥便秘。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 阴虚火旺，脾虚泄泻及实热便秘者禁服。长期食用，亦可致便秘。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "锁阳为锁阳科植物锁阳Cynomorium songaricum Rupr.的干燥肉质茎。春季采挖，除去花序，切段，晒干。主产于内蒙古、宁夏、新疆、甘肃、青海等地。 来源 本品为锁阳科植物锁阳Cynomorium songaricum Rupr.的干燥肉质茎。（《中国药典2015》） 分布产地 主产于内蒙古、宁夏、新疆、甘肃、青海等地。 入药部位 根及根茎 采收加工 春季采挖，除去花序，切段，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-314.html",
+      "detailId": "314",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "pseudostellaria-root",
+    "name": "太子参",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "PSEUDOSTELLARIAE RADIX",
+      "family": "石竹科"
+    },
+    "originDistribution": "江苏、山东及安徽",
+    "daoDiRegions": [
+      {
+        "place": "江苏、山东及安徽",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "益气健脾，生津润肺。（《中国药典2015》）",
+    "indications": "用于脾虚体倦，食欲不振，病后虚弱，气阴不足，自汗口渴，肺燥干咳。（《中国药典2015》） 用法用量 9-30g。（《中国药典2015》） 用药禁忌 凡实邪之证禁服。（《中华本草》） 贮藏保存 置通风干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "太子参为石竹科植物孩儿参Pseudostellaria heterophylla (Miq.) Pax的干燥块根。夏季茎叶大部分枯萎时采挖，洗净，除去须根，置沸水中略烫后晒干或直接晒干。主产于江苏、山东及安徽。 来源 本品为石竹科植物孩儿参Pseudostellaria heterophylla (Miq.) Pax的干燥块根。（《中国药典2015》） 分布产地 主产于江苏、山东及安徽。 入药部位 根及根茎 采收加工 夏季茎叶大部分枯萎时采挖，洗净，除去须根，置沸水中略烫后晒干或直接晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-358.html",
+      "detailId": "358",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "prunus-persica-seed",
+    "name": "桃仁",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "PERSICAE SEMEN",
+      "family": "蔷薇科"
+    },
+    "originDistribution": "四川、云南、陕西、山东、河北、山西、河南、北京等地",
+    "daoDiRegions": [
+      {
+        "place": "河北桃仁",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血祛瘀，润肠通便，止咳平喘。（《中国药典2015》）",
+    "indications": "用于经闭痛经，癥瘕痞块，肺痈肠痈，跌扑损伤，肠燥便秘，咳嗽气喘。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "桃仁为蔷薇科植物桃Amygdalus persica L.或山桃Amygdalus davidiana (Carri&amp;#232;re) de Vos ex Henry的干燥成熟种子。果实成熟后采收，除去果肉和核壳，取出种子，晒干。桃仁全国大部分地区有产，主产于四川、云南、陕西、山东、河北、山西、河南、北京等地。山桃仁主产于河南、河北、山东、山西、陕西、四川等地。 来源 本品为蔷薇科植物桃Amygdalus persica L.或山桃Amygdalus davidiana (Carri&egrave;re) de Vos ex Henry的干燥成熟",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-90.html",
+      "detailId": "90",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "ophiopogon-tuber",
+    "name": "天冬",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao",
+      "guiyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "广药",
+      "贵药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "ASPARAGI RADIX",
+      "family": "百合科"
+    },
+    "originDistribution": "贵州、广西、云南等地",
+    "daoDiRegions": [
+      {
+        "place": "贵州、广西、云南等地",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "养阴润燥，清肺生津。（《中国药典2015》）",
+    "indications": "用于肺燥干咳，顿咳痰黏，腰膝酸痛，骨蒸潮热，内热消渴，热病津伤，咽干口渴，肠燥便秘。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 虚寒泄泻及风寒咳嗽者禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "天冬为百合科植物天冬Asparagus cochinchinensis (Lour.) Merr.的干燥块根。秋、冬二季采挖，洗净，除去茎基和须根，置沸水中煮或蒸至透心，趁热除去外皮，洗净，干燥。主产于贵州、广西、云南等地。以贵州产量大，品质好。 来源 本品为百合科植物天冬Asparagus cochinchinensis (Lour.) Merr.的干燥块根。（《中国药典2015》） 分布产地 主产于贵州、广西、云南等地。以贵州产量最大，品质好。 入药部位 根及根茎 采收加工 秋、冬二季采挖，洗净，除去茎基和须根，置沸水中煮或蒸至透心，趁热除去外皮，洗",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-255.html",
+      "detailId": "255",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "trichosanthes-root",
+    "name": "天花粉",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "TRICHOSANTHIS RADIX",
+      "family": "葫芦科"
+    },
+    "originDistribution": "科：葫芦科",
+    "daoDiRegions": [
+      {
+        "place": "科：葫芦科",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热泻火，生津止渴，消肿排脓。（《中国药典2015》）",
+    "indications": "用于热病烦渴，肺热燥咳，内热消渴，疮疡肿毒。（《中国药典2015》） 用法用量 10-15g 。（《中国药典2015》） 用药禁忌 不宜与乌头类药材同用。（《中国药典2015》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "来源 本品为葫芦科植物栝楼Trichosanthes kirilowii  Maxim.或双边栝楼Trichosanthes rosthornii  Harms的干燥根。（《中国药典2015》） 入药部位 根及根茎 采收加工 秋、冬二季采挖，洗净，除去外皮，切段或纵剖成瓣，干燥。 （《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-85.html",
+      "detailId": "85",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "gastrodia-elata",
+    "name": "天麻",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guiyao",
+      "chuanyao",
+      "qinyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "贵药",
+      "川药",
+      "秦药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "GASTRODIAE RHIZOMA",
+      "family": "兰科"
+    },
+    "originDistribution": "贵州、陕西、四川、云南、湖北等地",
+    "daoDiRegions": [
+      {
+        "place": "贵州、陕西、四川、云南、湖北等地",
+        "province": "湖北"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "息风止痉，平抑肝阳，祛风通络。（《中国药典2015》）",
+    "indications": "用于小儿惊风，癫痫抽搐，破伤风，头痛眩晕，手足不遂，肢体麻木，风湿痹痛。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 气血虚甚者慎服。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "天麻为兰科植物天麻Gastrodia elata Bl.的干燥块茎。立冬后至次年清明前采挖，立即洗净，蒸透，敞开低温干燥。主产于贵州、陕西、四川、云南、湖北等地。 来源 本品为兰科植物天麻Gastrodia elata Bl.的干燥块茎。（《中国药典2015》） 分布产地 主产于贵州、陕西、四川、云南、湖北等地。 入药部位 根及根茎 采收加工 立冬后至次年清明前采挖，立即洗净，蒸透，敞开低温干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-228.html",
+      "detailId": "228",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "arisaema-erubescens",
+    "name": "天南星",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "怀药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "ARISAEMATIS RHIZOMA",
+      "family": "天南星科"
+    },
+    "originDistribution": "陕西、甘肃、四川、贵州、云南等地",
+    "daoDiRegions": [
+      {
+        "place": "陕西、甘肃、四川、贵州、云南等地",
+        "province": "四川"
+      },
+      {
+        "place": "河南、河北、山东",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "制虎掌南星：燥湿化痰，祛风止痉，散结消肿。 胆虎掌南星：清热化痰，息风定惊。（《浙江省中药炮制规范2015年版》） 燥湿化痰，祛风止痉，散结消肿。（《山东省中药材标准2012版》）",
+    "indications": "制虎掌南星：用于顽痰咳嗽，风痰眩晕，中风痰壅，口眼喎斜，半身不遂，癫痫，惊风，破伤风。 胆虎掌南星：用于痰热咳嗽，咳痰黄稠，癫狂惊痫。 生虎掌南星外用于痈肿，蛇虫咬伤。（《浙江省中药炮制规范2015年版》） 用于顽痰咳嗽，风痰眩晕，中风痰壅，口眼歪斜，半身不遂，癫痫，惊风，破伤风；生品外用治痈肿，蛇虫咬伤。（《山东省中药材标准2012版》） 用法用量 一般炮制后用，制虎掌南星3-9g，胆虎掌南星3",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "天南星为天南星科植物天南星Arisaema erubescens (Wall.) Schott、异叶天南星Arisaema heterophyllum Blume或东北天南星Arisaema amurense Maxim.的干燥块茎。秋、冬二季茎叶枯萎时采挖，除去须根及外皮，干燥。天南星主产于陕西、甘肃、四川、贵州、云南等地；异叶天南星产于湖北、湖南、四川、贵州、河南、安徽、江苏、浙江、江西等地；东北天南星主产于东北及山东、河北等地。 来源 本品为天南星科植物天南星Arisaema erubescens (Wall.) Schott、异叶天南星Arisa",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-89.html",
+      "detailId": "89",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "saussurea-involuta",
+    "name": "天山雪莲",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "qinyao",
+      "zangyao",
+      "weiyao",
+      "guanyao",
+      "beiyao",
+      "huaiyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "秦药",
+      "藏药",
+      "维药",
+      "关药",
+      "北药",
+      "怀药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "SAUSSUREAE INVOLUCRATAE HERBA",
+      "family": "菊科"
+    },
+    "originDistribution": "新疆、西藏、宁夏等地",
+    "daoDiRegions": [
+      {
+        "place": "新疆、西藏、宁夏等地",
+        "province": "西藏"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "维吾尔医：补肾活血，强筋骨，营养神经，调节异常体液。 中医：温肾助阳，祛风胜湿，通经活血。（《中国药典2015》）",
+    "indications": "维吾尔医：用于风湿性关节炎，关节疼痛，肺寒咳嗽，肾与小腹冷痛，白带过多等。 中医：用于风寒湿痹痛、类风湿性关节炎，小腹冷痛，月经不调。（《中国药典2015》） 用法用量 3-6g，水煎或酒浸服。外用适量。（《中国药典2015》） 用药禁忌 孕妇忌用。（《中国药典2015》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "天山雪莲系维吾尔族习用药材。为菊科植物天山雪莲Saussurea involucrata (Kar. et Kir.) Sch.-Bip.的干燥地上部分。夏、秋二季花开时采收，阴干。主产于新疆、西藏、宁夏等地。 来源 本品为菊科植物天山雪莲Saussurea involucrata (Kar. et Kir.) Sch.-Bip.的干燥地上部分。（《中国药典2015》） 分布产地 主产于新疆、西藏、宁夏等地。 入药部位 全草 采收加工 夏、秋二季花开时采收，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-72.html",
+      "detailId": "72",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "apricot-sweet-seed",
+    "name": "甜杏仁",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "SEMEN ARMENLACAE DULCIS",
+      "family": "蔷薇科"
+    },
+    "originDistribution": "河北、北京、山东等地",
+    "daoDiRegions": [
+      {
+        "place": "河北、北京、山东等地",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "润肺，平喘。（《山东省中药材标准2002年版》）",
+    "indications": "虚劳咳喘，肠燥便秘。（《山东省中药材标准2002年版》） 用法用量 内服：煎汤，2～3钱；或入丸剂。外用：捣敷。（《山东省中药材标准2002年版》） 贮藏保存 置通风干燥处。（《山东省中药材标准2002年版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "甜杏仁为蔷薇科植物杏Prunus armeniaca L.干燥成熟的味甜种子。夏季采收成熟果实，除去果肉和核壳，取出种子，晒干。主产河北、北京、山东等地。 来源 为蔷薇科植物杏Prunus armeniaca L.干燥成熟的味甜种子。（《山东省中药材标准2002年版》） 分布产地 主产河北、北京、山东等地；此外，陕西、四川、内蒙古、甘肃、新疆、山西、东北等地亦产。 入药部位 果实及种子 采收加工 夏季采收成熟果实，除去果肉和核壳，取出种子，晒干。（《山东省中药材标准2002年版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-99.html",
+      "detailId": "99",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "tetrapanax-papyrifer",
+    "name": "通草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guiyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "贵药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "TETRAPANACIS MEDULLA",
+      "family": "五加科"
+    },
+    "originDistribution": "贵州、四川、广西、云南等地",
+    "daoDiRegions": [
+      {
+        "place": "贵州、四川、广西、云南等地",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "清热利尿，通气下乳。（《中国药典2015》）",
+    "indications": "用于湿热淋证，水肿尿少，乳汁不下。（《中国药典2015》） 用法用量 3-5g。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "通草为五加科植物通脱木Tetrapanax papyrifer (Hook.) K. Koch的干燥茎髓。秋季割取茎，截成段，趁鲜取出髓部，理直，晒干。主产于贵州、四川、广西、云南等地。 来源 本品为五加科植物通脱木Tetrapanax papyrifer (Hook.) K. Koch的干燥茎髓。（《中国药典2015》） 分布产地 主产于贵州、四川、广西、云南等地。 入药部位 茎木 采收加工 秋季割取茎，截成段，趁鲜取出髓部，理直，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-61.html",
+      "detailId": "61",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "eupolyphaga",
+    "name": "土鳖虫",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "EUPOLYPHAGA",
+      "family": "动物药"
+    },
+    "originDistribution": "全国各地均有野生和饲养",
+    "daoDiRegions": [
+      {
+        "place": "全国各地均有野生和饲养",
+        "province": ""
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "破血逐瘀，续筋接骨。（《中国药典2015》）",
+    "indications": "用于跌打损伤，筋伤骨折，血瘀经闭，产后瘀阻腹痛，瘾瘕痞块。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 孕妇禁用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "土鳖虫为鳖蠊科昆虫地鳖Eupolyphaga sinensis Walker或冀地鳖Steleophaga Plancyi (Boleny)的雌虫干燥体。捕捉后，置沸水中烫死，晒干或烘干。全国各地均有野生和饲养，以河南产量大。 来源 本品为鳖蠊科昆虫地鳖Eupolyphaga sinensis Walker或冀地鳖Steleophaga Plancyi (Boleny)的雌虫干燥体。（《中国药典2015》） 分布产地 全国各地均有野生和饲养，以河南产量最大。 入药部位 动物 采收加工 捕捉后，置沸水中烫死，晒干或烘干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-342.html",
+      "detailId": "342",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "smilax-glabra",
+    "name": "土茯苓",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "浙药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "SMILACIS GLABRAE RHIZOMA",
+      "family": "百合科"
+    },
+    "originDistribution": "广东、湖南、湖北、浙江",
+    "daoDiRegions": [
+      {
+        "place": "广东、湖南、湖北、浙江",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "解毒，除湿，通利关节。（《中国药典2015》）",
+    "indications": "用于梅毒及汞中毒所致的肢体拘挛，筋骨疼痛；湿热淋浊，带下，痈肿，瘰疬，疥癣。（《中国药典2015》） 用法用量 15-60g。（《中国药典2015》） 用药禁忌 肝肾阴亏者慎服。忌犯铁器，服时忌茶。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "土茯苓为百合科植物光叶菝葜Smilax glabra Roxb.的干燥根茎。夏、秋二季采挖，除去须根，洗净，干燥；或趁鲜切成薄片，干燥。主产于广东、湖南、湖北、浙江、四川、安徽等地。 来源 本品为百合科植物光叶菝葜Smilax glabra Roxb.的干燥根茎。（《中国药典2015》） 分布产地 主产于广东、湖南、湖北、浙江、四川、安徽等地。 入药部位 根及根茎 采收加工 夏、秋二季采挖，除去须根，洗净，干燥；或趁鲜切成薄片，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-159.html",
+      "detailId": "159",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "inula-helenium",
+    "name": "土木香",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zangyao",
+      "guanyao",
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "藏药",
+      "关药",
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "INULAE RADIX",
+      "family": "菊科"
+    },
+    "originDistribution": "河北",
+    "daoDiRegions": [
+      {
+        "place": "河北",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "健脾和胃，行气止痛，安胎。（《中国药典2015》）",
+    "indications": "用于胸胁、脘腹胀痛，呕吐泻痢，胸胁挫伤，岔气作痛，胎动不安。（《中国药典2015》） 用法用量 3-9g，多入丸散服。（《中国药典2015》） 用药禁忌 血虚内热者慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "土木香为菊科植物土木香Inula helenium L.的干燥根。秋季采挖，除去泥沙，晒干。主产于河北。 来源 本品为菊科植物土木香Inula helenium L.的干燥根。（《中国药典2015》） 分布产地 主产于河北。 入药部位 根及根茎 采收加工 秋季采挖，除去泥沙，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-71.html",
+      "detailId": "71",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "arc-shell",
+    "name": "瓦楞子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "haiyao"
+    ],
+    "daoDiSystems": [
+      "海药"
+    ],
+    "taxonomy": {
+      "latinName": "ARCAE CONCHA",
+      "family": "动物药"
+    },
+    "originDistribution": "江苏、山东、河北等地沿海一带",
+    "daoDiRegions": [
+      {
+        "place": "江苏、山东、河北等地沿海一带",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "消痰化瘀，软坚散结，制酸止痛。（《中国药典2015》）",
+    "indications": "用于顽痰胶结，黏稠难咯，瘿瘤，瘰疬，癥瘕痞块，胃痛泛酸。（《中国药典2015》） 用法用量 9-15g，先煎。（《中国药典2015》） 用药禁忌 《本草用法研究》：&ldquo;无瘀血痰积者勿用。&rdquo; 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "瓦楞子为蚶科动物毛蚶Arca subcrenata Lischke、泥蚶Arca granosa Linnaeus或魁蚶Arca inflata Reeve的贝壳。秋、冬至次年春捕捞，洗净，置沸水中略煮，去肉，干燥。主产江苏、山东、河北等地沿海一带。 来源 本品为蚶科动物毛蚶Arca subcrenata Lischke、泥蚶Arca granosa Linnaeus或魁蚶Arca inflata Reeve的贝壳。（《中国药典2015》） 分布产地 主产江苏、山东、河北等地沿海一带。 入药部位 动物 采收加工 秋、冬至次年春捕捞，洗净，置沸水中略煮，去",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-392.html",
+      "detailId": "392",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-44",
+    "name": "万寿竹",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guanyao",
+      "yunyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "云药"
+    ],
+    "taxonomy": {
+      "latinName": "RADIX ET RHIZOMA DISPORI",
+      "family": "百合科"
+    },
+    "originDistribution": "产于云南，为彝族地区习用药材。",
+    "daoDiRegions": [
+      {
+        "place": "产于云南，为彝族地区习用药材。",
+        "province": "云南"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "益气养阴，润肺止咳，养血活络。（《云南省中药材标准2005年版第二册彝族药）》）",
+    "indications": "用于肺燥咳嗽，阴虚潮热、盗汗；痛经、产后体虚；风湿疼痛。（《云南省中药材标准2005年版第二册彝族药）》） 用法用量 9-30g。（《云南省中药材标准2005年版第二册彝族药）》） 贮藏保存 置干燥处。（《云南省中药材标准2005年版第二册彝族药）》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "万寿竹为百合科植物万寿竹Disporum cantoniense (Lour.) Merr.的干燥根及根茎。夏、秋二季采挖，洗净，干燥。产于云南，为彝族地区习用药材。 来源 本品为百合科植物万寿竹Disporum cantoniense (Lour.) Merr.的干燥根及根茎。（《云南省中药材标准2005年版第二册彝族药）》） 分布产地 产于云南，为彝族地区习用药材。 入药部位 根及根茎 采收加工 夏、秋二季采挖，洗净，干燥。（《云南省中药材标准2005年版第二册彝族药）》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-44.html",
+      "detailId": "44",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "clematis-chinensis",
+    "name": "威灵仙",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "huaiyao-huai",
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "淮药",
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "CLEMATIDIS RADIX ET RHIZOMA",
+      "family": "毛茛科"
+    },
+    "originDistribution": "江苏、浙江、江西、湖南、湖北、四川",
+    "daoDiRegions": [
+      {
+        "place": "江苏、浙江、江西、湖南、湖北、四川",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风湿，通经络。（《中国药典2015》） 祛风除湿，通络止痛。（《中华本草》）",
+    "indications": "用于风湿痹痛，肢体麻木，筋脉拘挛，屈伸不利。（《中国药典2015》） 主治风湿痹痛，肢体麻木，筋脉拘挛，屈伸不利，脚气肿痛，疟疾，骨哽咽喉，并治痰饮积聚。（《中华本草》） 用法用量 6-10g。（《中国药典2015》） 内服：煎汤，6-9g，冶骨哽咽喉可用到30g；或入丸、散；或浸酒。外用：适量，捣敷；或煎水熏洗；或作发泡剂。（《中华本草》） 用药禁忌 气血亏虚及孕妇慎服。（《中华本草》） 贮藏保",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "威灵仙为毛莨科植物威灵仙Clematis chinensis Osbeck、棉团铁线莲Clematis hexapetala Pall.或东北铁线莲Clematis terniflora DC. var. mandshurica (Rupr.) Ohwi的干燥根和根茎。 秋季采挖，除去泥沙，晒干。威灵仙主产于江苏、浙江、江西、湖南、湖北、四川；棉团铁线莲主产于辽宁、吉林、黑龙江和山东等地；东北铁线莲主产于东北各省。 来源 本品为毛莨科植物威灵仙Clematis chinensis Osbeck、棉团铁线莲Clematis hexapetala Pall.",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-55.html",
+      "detailId": "55",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "smoked-plum",
+    "name": "乌梅",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao",
+      "nanyao",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "浙药",
+      "南药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "MUME FRUCTUS",
+      "family": "蔷薇科"
+    },
+    "originDistribution": "四川、贵州、湖南、浙江、湖北、广东",
+    "daoDiRegions": [
+      {
+        "place": "四川、贵州、湖南、浙江、湖北、广东",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "敛肺，涩肠，生津，安蛔。（《中国药典2015》）",
+    "indications": "用于肺虚久咳，久泻久痢，虚热消渴，蛔厥呕吐腹痛。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 不宜多食久食。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "乌梅为蔷薇科植物梅Armeniaca mume Sieb.的干燥近成熟果实。夏季果实近成熟时采收，低温烘干后闷至色变黑。主产于四川、贵州、湖南、浙江、湖北、广东。以四川产量大，浙江质量佳。 来源 本品为蔷薇科植物梅Armeniaca mume Sieb.的干燥近成熟果实。（《中国药典2015》） 分布产地 主产于四川、贵州、湖南、浙江、湖北、广东。以四川产量最大，浙江质量最佳。 入药部位 果实及种子 采收加工 夏季果实近成熟时采收，低温烘干后闷至色变黑。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-167.html",
+      "detailId": "167",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-372",
+    "name": "乌梢蛇",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "ZAOCYS",
+      "family": "动物药"
+    },
+    "originDistribution": "安徽",
+    "daoDiRegions": [
+      {
+        "place": "安徽",
+        "province": "安徽"
+      }
+    ],
+    "efficacyClass": "祛风药",
+    "efficacy": "祛风，通络，止痉。（《中国药典2015》）",
+    "indications": "用于风湿顽痹，麻木拘挛，中风口眼喁斜，半身不遂，抽搐痉挛，破伤风，麻风，疥癣。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 贮藏保存 置于燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "乌梢蛇游蛇科动物乌梢蛇Zaocys dhumnades(Cantor)的干燥体。多于夏、秋二季捕捉，剖开腹部或先剥皮留头尾，除去内脏，盘成圆盘状，干燥。主产安徽。 来源 游蛇科动物乌梢蛇Zaocys dhumnades (Cantor)的干燥体。（《中国药典2015》） 分布产地 安徽的全椒、宣城、南陵、宁国、岳西、霍山；江苏的苏州、吴县、常熟、如东、连云港、南通；浙江的嘉善、平湖、海宁、安吉、桐乡、长兴、青田、瑞安、绍兴；上海的青浦、金山、松江；湖南的益阳、慈利、沅陵、安化、吉首、古丈、龙山、沣县；湖北的英山、红安、恩施、咸丰、鹤峰、利川、浠水；贵州的",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-372.html",
+      "detailId": "372",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lindera-aggregata",
+    "name": "乌药",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao",
+      "nanyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "浙药",
+      "南药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "LINDERAE RADIX",
+      "family": "樟科"
+    },
+    "originDistribution": "浙江、安徽、湖南、广东、广西等地",
+    "daoDiRegions": [
+      {
+        "place": "浙江、安徽、湖南、广东、广西等地",
+        "province": "安徽"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "行气止痛，温肾散寒。（《中国药典2015》）",
+    "indications": "用于寒凝气滞，胸腹胀痛，气逆喘急，膀胱虚冷，遗尿尿频，疝气疼痛，经寒腹痛。（《中国药典2015》） 用法用量 6-10g。（《中国药典2015》） 用药禁忌 气虚及内热证患者禁服；孕妇及体虚者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "乌药为樟科植物乌药Lindera aggregata (Sims) Kosterm的干燥块根。全年均可采挖，除去细根，洗净，趁鲜切片，晒干，或直接晒干。主产于浙江、安徽、湖南、广东、广西等地。 来源 本品樟科植物乌药Lindera aggregata (Sims) Kosterm的干燥块根。（《中国药典2015》） 分布产地 主产于浙江、安徽、湖南、广东、广西等地。 入药部位 根及根茎 采收加工 全年均可采挖，除去细根，洗净，趁鲜切片，晒干，或直接晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-160.html",
+      "detailId": "160",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "fructus-evodiae",
+    "name": "吴茱萸",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao",
+      "guangyao",
+      "guiyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "南药",
+      "广药",
+      "贵药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "EUODIAE FRUCTUS",
+      "family": "芸香科"
+    },
+    "originDistribution": "贵州、广西、湖南、四川",
+    "daoDiRegions": [
+      {
+        "place": "贵州、广西、湖南、四川",
+        "province": "湖南"
+      }
+    ],
+    "efficacyClass": "温里药",
+    "efficacy": "散寒止痛，降逆止呕，助阳止泻。（《中国药典2015》）",
+    "indications": "用于厥阴头痛，寒疝腹痛，寒湿脚气，经行腹痛，脘腹胀痛，呕吐吞酸，五更泄泻。（《中国药典2015》） 用法用量 2-5g。外用适量。（《中国药典2015》） 用药禁忌 不宜多服久服，无寒湿滞气及阴虚火旺者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "吴茱萸为芸香科植物吴茱萸Evodia rutaecarpa (Juss.) Benth.、石虎Evodia rutaecarpa (Juss.) Benth. var. officinalis (Dode) Huang或疏毛吴茱萸Evodia rutaecarpa (Juss.) Benth. var. bodinieri (Dode) Huang的干燥近成熟果实。8-11月果实尚未开裂时，剪下果枝，晒干或低温干燥，除去枝、叶、果梗等杂质。主产于贵州、广西、湖南、四川、云南、陕西及浙江。 来源 本品为芸香科植物吴茱萸Evodia rutaecarpa (",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-32.html",
+      "detailId": "32",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "centipede",
+    "name": "蜈蚣",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "SCOLOPENDRA",
+      "family": "功 效：平肝息风药"
+    },
+    "originDistribution": "湖北、浙江、江苏、安徽、河南等地为主产地",
+    "daoDiRegions": [
+      {
+        "place": "湖北、浙江、江苏、安徽、河南等地为主产地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "息风镇痉，通络止痛，攻毒散结。（《中国药典2015》）",
+    "indications": "用于肝风内动，痉挛抽搐，小儿惊风，中风口，半身不遂，破伤风，风湿顽痹，偏正头痛，疮疡，瘰疬，蛇虫咬伤。（《中国药典2015》） 用法用量 3-5g。（《中国药典2015》） 用药禁忌 孕妇禁用。（《中国药典2015》） 贮藏保存 置干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "蜈蚣为蜈蚣科动物少棘巨蜈蚣Scolopendra subspinipes mutilans L.Koch的干燥体。春、夏二季捕捉，用竹片插入头尾，绷直，干燥。湖北、浙江、江苏、安徽、河南等地为主产地。 来源 本品为蜈蚣科动物少棘巨蜈蚣Scolopendra subspinipes mutilans L.Koch的干燥体。（《中国药典2015》） 分布产地 湖北的随州、襄阳、荆门、宜城、谷城、南漳、光化、当阳、远安、应山、京山、钟祥、老河口、枣阳、安陆、郧县、松滋、枝江、枝城；浙江的岱山、普陀、嵊泗、定海、桐乡、海宁；江苏的江浦、宜兴；安徽的滁县、来安、全",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-152.html",
+      "detailId": "152",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "galla-chinensis",
+    "name": "五倍子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guiyao",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "贵药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "GALLA CHINENSIS",
+      "family": "漆树科"
+    },
+    "originDistribution": "四川、贵州、云南、陕西",
+    "daoDiRegions": [
+      {
+        "place": "四川、贵州、云南、陕西",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "敛肺降火，涩肠止泻，敛汗，止血，收湿敛疮。（《中国药典2015》）",
+    "indications": "用于肺虚久咳，肺热痰嗽，久泻久痢，自汗盗汗，消渴，便血痔血，外伤出血，痈肿疮毒，皮肤湿烂。（《中国药典2015》） 用法用量 3-6g 。外用适量。（《中国药典2015》） 用药禁忌 外感风寒或肺有实热之咳嗽，以及积滞未尽之泻痢禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防压。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "五倍子为漆树科植物盐肤木Rhus chinensis Mill.、青麸杨Rhus potaninii Maxim.或红麸杨Rhus punjabensis Stewart var. sinica (Diels) Rehd. et Wils.叶上的虫瘿，主要由五倍子蚜Melaphis chinensis (Bell) Baker寄生而形成。秋季采摘，置沸水中略煮或蒸至表面呈灰色，杀死蚜虫，取出，干燥。按外形不同，分为&ldquo;肚倍&rdquo;和&ldquo;角倍&rdquo;。主产于四川、贵州、云南、陕西、广西等地。 来源 本品为漆树科植物盐肤木Rh",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-65.html",
+      "detailId": "65",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "acanthopanax-gracilistylus",
+    "name": "五加皮",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "ACANTHOPANACIS CORTEX",
+      "family": "五加科"
+    },
+    "originDistribution": "湖北、河南、四川、安徽等地",
+    "daoDiRegions": [
+      {
+        "place": "湖北、河南、四川、安徽等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风除湿，补益肝肾．强筋壮骨，利水消肿。（《中国药典2015》）",
+    "indications": "用于风湿痹病，筋骨痿软，小儿行迟，体虚乏力，水肿，脚气。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 阴虚火旺者慎服。（《中药大辞典》） 贮藏保存 置干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "五加皮为五加科植物细柱五加Acanthopanax gracilistylus W. W. Smith的干燥根皮。夏、秋二季采挖根部，洗净，剥取根皮，晒干。产于湖北、河南、四川、安徽等地。 来源 本品为五加科植物细柱五加Acanthopanax gracilistylus W. W. Smith的干燥根皮。（《中国药典2015》） 分布产地 产于湖北、河南、四川、安徽等地。 入药部位 皮 采收加工 夏、秋二季采挖根部，洗净，剥取根皮，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-338.html",
+      "detailId": "338",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "trogopterus-dung",
+    "name": "五灵脂",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "TROGOPTERI FAECES",
+      "family": "功 效：活血化瘀药"
+    },
+    "originDistribution": "河北、山西及北京市郊",
+    "daoDiRegions": [
+      {
+        "place": "河北、山西及北京市郊",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血，散瘀，止痛。（《陕西省药材标准2015年版》）",
+    "indications": "用于胸痛，脘腹疼痛，痛经，经闭，产后血瘀疼痛，跌仆损伤，蛇虫咬伤。（《陕西省药材标准2015年版》） 用法用量 4.5-9g。（《陕西省药材标准2015年版》） 用药禁忌 孕妇忌服。（《陕西省药材标准2015年版》） 贮藏保存 置通风干燥处。（《陕西省药材标准2015年版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "五灵脂为鼯鼠科动物复齿鼯鼠Trogopterus xanthipes Milne-Edwards的干燥粪便。全年均可采收，除去杂质，晒干。主产于河北、山西及北京市郊。 来源 本品为鼯鼠科动物复齿鼯鼠Trogopterus xanthipes Milne-Edwards的干燥粪便。（《陕西省药材标准2015年版》） 分布产地 主产于河北、山西及北京市郊。 入药部位 动物 采收加工 全年均可采收，除去杂质，晒干。（《陕西省药材标准2015年版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-86.html",
+      "detailId": "86",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "schisandra-chinensis",
+    "name": "五味子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "SCHISANDRAE CHINENSIS FRUCTUS",
+      "family": "木兰科"
+    },
+    "originDistribution": "辽宁、黑龙江、吉林",
+    "daoDiRegions": [
+      {
+        "place": "辽宁、黑龙江、吉林",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "收敛固涩，益气生津，补肾宁心。（《中国药典2015》）",
+    "indications": "用于久嗽虚喘，梦遗滑精，遗尿尿频，久泻不止，自汗盗汗，津伤口渴，内热消渴，心悸失眠。（《中国药典2015》） 用法用量 2-6g。（《中国药典2015》） 用药禁忌 外有表邪，内有实热，或咳嗽初起、麻疹初发者均慎服。（《中药大辞典》） 贮藏保存 置通风干燥处，防霉。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "五味子为木兰科植物五味子Schisandra chinensis (Turcz.) Baill.的干燥成熟果实。习称&ldquo;北五味子&rdquo;。秋季果实成熟时采摘，晒干或蒸后晒干，除去果梗和杂质。主产于辽宁、黑龙江、吉林。   来源 本品为木兰科植物五味子Schisandra chinensis (Turcz.) Baill.的干燥成熟果实。习称&ldquo;北五味子&rdquo;。（《中国药典2015》） 分布产地 主产于辽宁、黑龙江、吉林。 入药部位 果实及种子 采收加工 秋季果实成熟时采摘，晒干或蒸后晒干，除去果梗和杂质。（《中国药典20",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-387.html",
+      "detailId": "387",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "wuzhi-maotao",
+    "name": "五指毛桃",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "RADIX FICI HIRTAE",
+      "family": "桑科"
+    },
+    "originDistribution": "福建、云南、贵州、广西、广东等地",
+    "daoDiRegions": [
+      {
+        "place": "福建、云南、贵州、广西、广东等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "益气健脾，祛痰化湿，舒筋活络。（《湖南省中药材标准2009版》）",
+    "indications": "用于肺虚痰喘，脾胃气虚，肢倦无力，食少腹胀，水肿，带下，风湿痹痛，腰腿痛。（《湖南省中药材标准2009版》） 用法用量 15-30g。（《湖南省中药材标准2009版》） 贮藏保存 置干燥处。（《湖南省中药材标准2009版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "五指毛桃为桑科植物粗叶榕Ficus hirta Vahl的干燥根。全年均可采挖，除去细根，泥沙，洗净，趁鲜切段或块片，晒干。主产于福建、云南、贵州、广西、广东等地。 来源 本品为桑科植物粗叶榕Ficus hirta Vahl的干燥根。（《湖南省中药材标准2009版》） 分布产地 主产于福建、云南、贵州、广西、广东等地。 入药部位 根及根茎 采收加工 全年均可采挖，除去细根，泥沙，洗净，趁鲜切段或块片，晒干。（《湖南省中药材标准2009版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-304.html",
+      "detailId": "304",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "crocus-sativus",
+    "name": "西红花",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "CROCI STIGMA",
+      "family": "鸢尾科"
+    },
+    "originDistribution": "北京、上海、浙江、江苏有产。",
+    "daoDiRegions": [
+      {
+        "place": "北京、上海、浙江、江苏有产。",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血化瘀，凉血解毒，解郁安神。（《中国药典2015》）",
+    "indications": "用于经闭癥瘕，产后瘀阻，温毒发斑，忧郁痞闷，惊悸发狂。（《中国药典2015》） 用法用量 1-3g，煎服或沸水泡服。（《中国药典2015》） 用药禁忌 孕妇忌用。（《中国药典2015》） 贮藏保存 置通风阴凉干燥处，避光，密闭。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "西红花为鸢尾科植物番红花Crocus sativus L.的干燥柱头。秋季花开时采收，低温干燥。主产于西班牙。北京、上海、浙江、江苏有产。 来源 本品为鸢尾科植物番红花Crocus sativus L.的干燥柱头。（《中国药典2015》） 分布产地 主产于西班牙。北京、上海、浙江、江苏有产。 入药部位 花 采收加工 秋季花开时采收，低温干燥。（《天津市中药饮片炮制规范2012年版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-147.html",
+      "detailId": "147",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "terminalia-chebula-immature",
+    "name": "西青果",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zangyao",
+      "guanyao",
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "藏药",
+      "关药",
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "CHEBULAE FRUCTUS IMMATURUS",
+      "family": "使君子科"
+    },
+    "originDistribution": "云南",
+    "daoDiRegions": [
+      {
+        "place": "云南",
+        "province": "云南"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热生津，解毒。（《中国药典2015》）",
+    "indications": "用于阴虚白喉。（《中国药典2015》） 用法用量 1.5-3g。（《中国药典2015》） 用药禁忌 《饮片新参》：&ldquo;风火喉痛及中寒者忌用。&rdquo; 贮藏保存 置干燥处。（《天津市中药饮片炮制规范2012年版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "西青果为使君子科植物诃子Terminalia chebula Retz.的干燥幼果。9-10月份采摘幼小果实，蒸或煮后晒干。产于云南等地。 来源 本品为使君子科植物诃子Terminalia chebula Retz.的干燥幼果。（《中国药典2015》） 分布产地 产于云南等地。 入药部位 果实及种子 采收加工 9-10月份采摘幼小果实，蒸或煮后晒干。（《天津市中药饮片炮制规范2012年版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-75.html",
+      "detailId": "75",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "asarum-xixin",
+    "name": "细辛",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "qinyao",
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "秦药",
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "ASARI RADIX ET RHIZOMA",
+      "family": "马兜铃科"
+    },
+    "originDistribution": "黑龙江、吉林、辽宁",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江、吉林、辽宁",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "祛风散寒，祛风止痛，通窍，温肺化饮。（《中国药典2015》）",
+    "indications": "用于风寒感冒，头痛，牙痛，鼻塞流涕，鼻鼽，鼻渊，风湿痹痛，痰饮喘咳。（《中国药典2015》） 用法用量 1-3g。散剂每次服0.5-1g。外用适量。（《中国药典2015》） 用药禁忌 不宜与藜芦同用。（《中国药典2015》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "细辛为马兜铃科植物北细辛Asarum heterotropoides F. Schmidt var. mandshuricum (Maxim.) Kitag.、汉城细辛Asarum sieboldii Miq. f. seoulense (Nakai) C. Y. Cheng et C. S. Yang或华细辛Asarum sieboldii Miq.的干燥根和根茎。前二种习称&ldquo;辽细辛&rdquo;。夏季果熟期或初秋采挖，除净地上部分和泥沙，阴干。北细辛主产于黑龙江、吉林、辽宁；汉城细辛产于辽宁东南部；华细辛主产于山东、安徽、浙江、江西、河南",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-100.html",
+      "detailId": "100",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "prunella-vulgaris",
+    "name": "夏枯草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "PRUNELLAE SPICA",
+      "family": "唇形科"
+    },
+    "originDistribution": "江苏、安徽、河南等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏、安徽、河南等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清肝泻火，明目，散结消肿。（《中国药典2015》）",
+    "indications": "用于目赤肿痛，目珠夜痛，头痛眩晕，瘰疬，瘿瘤，乳痈，乳癖，乳房胀痛。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 脾胃虚弱者慎服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "夏枯草为唇形科植物夏枯草Prunella vulgaris L.的干燥果穗。夏季果穗呈棕红色时采收，除去杂质，晒干。主产于江苏、安徽、河南等地。 来源 本品为唇形科植物夏枯草Prunella vulgaris L.的干燥果穗。（《中国药典2015》） 分布产地 主产于江苏、安徽、河南等地。 入药部位 果实及种子 采收加工 夏季果穗呈棕红色时采收，除去杂质，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-343.html",
+      "detailId": "343",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "corydalis-decumbens",
+    "name": "夏天无",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "CORYDALIS DECUMBENTIS RHIZOMA",
+      "family": "罂粟科"
+    },
+    "originDistribution": "江西余江、贵溪、新余、临川等地",
+    "daoDiRegions": [
+      {
+        "place": "江西余江、贵溪、新余、临川等地",
+        "province": "江西"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血止痛，舒筋活络，祛风除湿。（《中国药典2015》）",
+    "indications": "用于中风偏瘫，头痛，跌扑损伤，风湿痹痛，腰腿疼痛。（《中国药典2015》） 用法用量 6-12g，研末分3次服。（《中国药典2015》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "夏天无为罂粟科植物伏生紫堇Corydalis decumbens (Thunb.) Pers.的干燥块茎。春季或初夏出苗后采挖，除去茎、叶及须根，洗净，干燥。主产于江西余江、贵溪、新余、临川等地。 来源 本品为罂粟科植物伏生紫堇Corydalis decumbens (Thunb.) Pers.的干燥块茎。（《中国药典2015》） 分布产地 主产于江西余江、贵溪、新余、临川等地。 入药部位 根及根茎 采收加工 春季或初夏出苗后采挖，除去茎、叶及须根，洗净，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-180.html",
+      "detailId": "180",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "agrimonia-herb",
+    "name": "仙鹤草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "AGRIMONIAE HERBA",
+      "family": "蔷薇科"
+    },
+    "originDistribution": "湖北、浙江、江苏",
+    "daoDiRegions": [
+      {
+        "place": "湖北、浙江、江苏",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "止血药",
+    "efficacy": "收敛止血，截疟，止痢，解毒，补虚。（《中国药典2015》）",
+    "indications": "用于咯血，吐血，崩漏下血，疟疾，血痢，痈肿疮毒，阴痒带下，脱力劳伤。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 1.《四川中药志》1960年版：&ldquo;外感初起，泄泻发热者忌用。&rdquo; 2.《广西民族药简编》：&ldquo;忌吃酸、辣、蛋类食物。&rdquo; 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "仙鹤草为蔷薇科植物龙芽草Agrimonia pilosa Ldb.的干燥地上部分。夏、秋二季茎叶茂盛时采割，除去杂质，干燥。主产于湖北、浙江、江苏。 来源 本品为蔷薇科植物龙芽草Agrimonia pilosa Ldb.的干燥地上部分。（《中国药典2015》） 分布产地 主产于湖北、浙江、江苏。 入药部位 全草 采收加工 夏、秋二季茎叶茂盛时采割，除去杂质，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-146.html",
+      "detailId": "146",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "curculigo-orchioides",
+    "name": "仙茅",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "CURCULIGINIS RHIZOMA",
+      "family": "石蒜科"
+    },
+    "originDistribution": "四川",
+    "daoDiRegions": [
+      {
+        "place": "四川",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肾阳，强筋骨，祛寒湿。（《中国药典2015》）",
+    "indications": "用于阳痿精冷，筋骨痿软，腰膝冷痛，阳虚冷泻。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 阴虚火旺者禁服。（《中药大辞典》） 贮藏保存 置干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "仙茅为石蒜科植物仙茅Curculigo orchioides Gaertn.的干燥根茎。秋、冬二季采挖，除去根头和须根，洗净，干燥。主产于四川。 来源 本品为石蒜科植物仙茅Curculigo orchioides Gaertn.的干燥根茎。（《中国药典2015》） 分布产地 主产于四川。 入药部位 根及根茎 采收加工 秋、冬二季采挖，除去根头和须根，洗净，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-223.html",
+      "detailId": "223",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-64",
+    "name": "香青兰",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "weiyao",
+      "guanyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "维药",
+      "关药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "产区分布：内蒙古、新疆、吉林等地",
+      "family": "唇形科"
+    },
+    "originDistribution": "内蒙古、新疆、吉林等地",
+    "daoDiRegions": [
+      {
+        "place": "内蒙古、新疆、吉林等地",
+        "province": "内蒙古"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "清热止咳，凉肝止血。（《中药大辞典》） 清肺解表，凉肝止血。（《全国中草药汇编》）",
+    "indications": "主治感冒发热，头痛，咽喉肿痛，咳嗽气喘，痢疾，黄疸，吐血，衄血，风疹，皮肤瘙痒。（《中药大辞典》） 感冒，头痛，喉痛，气管炎哮喘，黄疸，吐血，衄血，痢疾，心脏病，神经衰弱，狂犬咬伤。（《全国中草药汇编》） 用法用量 内服：煎汤，9-15g。外用：鲜品捣敷；或涂擦；或煎水洗。（《中药大辞典》） 用量3-9g。（《全国中草药汇编》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "山薄荷为唇形科植物香青兰Dracocephalum moldavica L.的全草。7-10月采收，鲜用或晒干。产于内蒙古、新疆、吉林等地。 来源 本品为唇形科植物香青兰Dracocephalum moldavica L.的全草。（《中药大辞典》） 本品为唇形科植物香青兰Dracocephalum moldavica L.，以地上全草入药。（《全国中草药汇编》） 分布产地 产于内蒙古、新疆、吉林等地。 入药部位 全草 采收加工 7-10月采收，鲜用或晒干。（《中药大辞典》） 夏秋季采割地上全草，除去杂质，切段，晾干或晒干。（《全国中草药汇编》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-64.html",
+      "detailId": "64",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "mosla-chinensis",
+    "name": "香薷",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "MOSLAE HERBA",
+      "family": "唇形科"
+    },
+    "originDistribution": "江西、广西、湖南、四川、安徽、浙江、江苏、湖北、广东、福建、山东",
+    "daoDiRegions": [
+      {
+        "place": "山东香薷",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "发汗解表，化湿和中。（《中国药典2015》）",
+    "indications": "用于暑湿感冒，恶寒发热，头痛无汗，腹痛吐泻，水肿，小便不利。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 内服宜凉饮，热饮易致呕吐。表虚者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "香薷为唇形科植物石香薷Mosla chinensis Maxim.或江香薷Mosla chinensis Maxim.cv.Jiangxiangru的干燥地上部分。前者习称&ldquo;青香薷&rdquo;，后者习称&ldquo;江香薷&rdquo;。夏季茎叶茂盛、花盛时择晴天采割，除去杂质，阴于。产于江西、广西、湖南、四川、安徽、浙江、江苏、湖北、广东、福建、山东，以江西产量大。 来源 本品为唇形科植物石香薷Mosla chinensis Maxim.或江香薷Mosla chinensis Maxim.cv.Jiangxiangru的干燥地上部分。前者",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-197.html",
+      "detailId": "197",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "citron-fruit",
+    "name": "香橼",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao",
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "浙药",
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "CITRI FRUCTUS",
+      "family": "芸香科"
+    },
+    "originDistribution": "云南、广西、四川等地",
+    "daoDiRegions": [
+      {
+        "place": "云南、广西、四川等地",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "疏肝理气，宽中，化痰。（《中国药典2015》）",
+    "indications": "用于肝胃气滞，胸胁胀痛，脘腹痞满，呕吐噫气，痰多咳嗽。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 虚人慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "香橼为芸香科植物枸橼Citrus medica L.或香圆Citrus wilsonii Tanaka的干燥成熟果实。秋季果实成熟时采收，趁鲜切片，晒干或低温干燥。香圆亦可整个或对剖两半后，晒干或低温干燥。枸橼主产于云南、广西、四川等地；香圆主产于江苏、浙江。 来源 本品为芸香科植物枸橼Citrus medica L.或香圆Citrus wilsonii Tanaka的干燥成熟果实。（《中国药典2015》） 分布产地 枸橼主产于云南、广西、四川等地；香圆主产于江苏、浙江。 入药部位 果实及种子 采收加工 秋季果实成熟时采收，趁鲜切片，晒干或低温干燥。香圆",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-144.html",
+      "detailId": "144",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "fructus-foeniculi",
+    "name": "小茴香",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "mengyao",
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "蒙药",
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "FOENICULI FRUCTUS",
+      "family": "伞形科"
+    },
+    "originDistribution": "内蒙古、山西、黑龙江等地",
+    "daoDiRegions": [
+      {
+        "place": "内蒙古、山西、黑龙江等地",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "温里药",
+    "efficacy": "小茴香：散寒止痛，理气和胃。 盐小茴香：暖肾散寒止痛。（《中国药典2015》）",
+    "indications": "小茴香：用于寒疝腹痛，睾丸偏坠，痛经，少腹冷痛，脘腹胀痛，食少吐泻。 盐小茴香：用于寒疝腹痛，睾丸偏坠，经寒腹痛。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 阴虚火旺者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "小茴香为伞形科植物茴香Foeniculum vulgare Mill.的干燥成熟果实。秋季果实初熟时采割植株，晒干，打下果实，除去杂质。产于内蒙古、山西、黑龙江等地。以内蒙古产品质优，山西产量较多。 来源 本品为伞形科植物茴香Foeniculum vulgare Mill.的干燥成熟果实。（《中国药典2015》） 分布产地 产于内蒙古、山西、黑龙江等地。以内蒙古产品质优，山西产量较多。 入药部位 果实及种子 采收加工 秋季果实初熟时采割植株，晒干，打下果实，除去杂质。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-108.html",
+      "detailId": "108",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "podophyllum-hexandrum",
+    "name": "小叶莲",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "huaiyao",
+      "zangyao",
+      "qinyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "怀药",
+      "藏药",
+      "秦药"
+    ],
+    "taxonomy": {
+      "latinName": "SINOPODOPHΜLLI FRUCTUS",
+      "family": "小檗科"
+    },
+    "originDistribution": "云南、四川、西藏、甘肃",
+    "daoDiRegions": [
+      {
+        "place": "云南、四川、西藏、甘肃",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "调经活血。（《中国药典2015》）",
+    "indications": "用于血瘀经闭，难产，死胎、胎盘不下。（《中国药典2015》） 用法用量  3～9g，多入丸散服。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "小叶莲系藏族习用药材。为小檗科植物桃儿七Sinopodo-ph&mu;llum hexandrum (Ro&mu;le)Ying的干燥成熟果实。秋季果实成熟时采摘，除去杂质，干燥。产于云南、四川、西藏、甘肃、青海和陕西。 来源 为小檗科植物桃儿七Sinopodo-ph&mu;llum hexandrum (Ro&mu;le)Ying的干燥成熟果实。（《中国药典2015》） 分布产地 产于云南、四川、西藏、甘肃、青海和陕西。 入药部位 果实及种子 采收加工 秋季果实成熟时采摘，除去杂质，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-76.html",
+      "detailId": "76",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cat-wild-293",
+    "name": "薤白",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "ALLII MACROSTEMONIS BULBUS",
+      "family": "百合科"
+    },
+    "originDistribution": "东北、河北、江苏、湖北等地",
+    "daoDiRegions": [
+      {
+        "place": "东北、河北、江苏、湖北等地",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "通阳散结，行气导滞。（《中国药典2015》）",
+    "indications": "用于胸痹心痛，脘腹痞满胀痛，泻痢后重。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 阴虚及发热者慎服。（《中药大辞典》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "薤白为百合科植物小根蒜Allium macrostemon Bunge或薤Allium chinense G. Don的干燥鳞茎。夏、秋二季采挖，洗净，除去须根，蒸透或置沸水中烫透，晒干。小根蒜主产于东北、河北、江苏、湖北等地，以江苏产的质量大。藠头产于我国南北大部分地区。 来源 本品为百合科植物小根蒜Allium macrostemon Bunge或薤Allium chinense G. Don的干燥鳞茎。（《中国药典2015》） 分布产地 小根蒜主产于东北、河北、江苏、湖北等地，以江苏产的质量大。藠头产于我国南北大部分地区。 入药部位 根及根茎 采收",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-328.html",
+      "detailId": "328",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "magnolia-biondii",
+    "name": "辛夷",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "怀药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "MAGNOLIAE FLOS",
+      "family": "木兰科"
+    },
+    "originDistribution": "河南、四川、陕西、湖北等地",
+    "daoDiRegions": [
+      {
+        "place": "河南、四川、陕西、湖北等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "解表药",
+    "efficacy": "散风寒，通鼻窍。（《中国药典2015》）",
+    "indications": "用于风寒头痛，鼻塞流涕，鼻鼽，鼻渊。（《中国药典2015》） 用法用量 3-10g，包煎。外用适量。（《中国药典2015》） 用药禁忌 阴虚火旺者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "辛夷为木兰科植物望春花Magnolia biondii Pampan.、玉兰Magnolia denudata Desr.或武当玉兰Magnolia sprengeri Pampan.的干燥花蕾。冬末春初花未开放时采收，除去枝梗，阴干。望春花主产于河南、四川、陕西、湖北等地；玉兰主产于浙江、安徽、江西；武当玉兰主产于四川、湖北、陕西等地。 来源 本品为木兰科植物望春花Magnolia biondii Pampan.、玉兰Magnolia denudata Desr.或武当玉兰Magnolia sprengeriPampan.的干燥花蕾。（《中国药典201",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-110.html",
+      "detailId": "110",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "realgar",
+    "name": "雄黄",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "REALGAR",
+      "family": "其它科"
+    },
+    "originDistribution": "湖南慈利、石门，贵州郎岱、思南。",
+    "daoDiRegions": [
+      {
+        "place": "湖南慈利、石门，贵州郎岱、思南。",
+        "province": "湖南"
+      }
+    ],
+    "efficacyClass": "杀虫止痒药",
+    "efficacy": "解毒杀虫，燥湿祛痰，截疟。（《中国药典2015》）",
+    "indications": "用于痈肿疔疮，蛇虫咬伤，虫积腹痛，惊痫，疟疾。（《中国药典2015》） 用法用量 0.05-0.1g，入丸散用。外用适量，熏涂患处。（《中国药典2015》） 用药禁忌 内服宜慎；不可久用；孕妇禁用。（《中国药典2015》） 贮藏保存 置干燥处，密闭。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "雄黄为硫化物类矿物雄黄族雄黄，主含二硫化二砷（As2S2）。采挖后，除去杂质。主产于湖南慈利、石门，贵州郎岱、思南。 来源 本品为硫化物类矿物雄黄族雄黄，主含二硫化二砷（As2S2）。（《中国药典2015》） 分布产地 主产于湖南慈利、石门，贵州郎岱、思南。 入药部位 矿物 采收加工 采挖后，除去杂质。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-193.html",
+      "detailId": "193",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cynanchum-paniculatum",
+    "name": "徐长卿",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao-huai",
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "淮药",
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "CYNANCHI PANICULATI RADIX ET RHIZOMA",
+      "family": "萝藦科"
+    },
+    "originDistribution": "江苏、浙江、安徽、山东、湖北、湖南、河南等地",
+    "daoDiRegions": [
+      {
+        "place": "江苏、浙江、安徽、山东、湖北、湖南、河南等地",
+        "province": "山东"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风，化湿，止痛，止痒。（《中国药典2015》）",
+    "indications": "用于风湿痹痛，胃痛胀满，牙痛，腰痛，跌扑伤痛，风疹、湿疹。（《中国药典2015》） 用法用量 3-12g，后下。（《中国药典2015》） 用药禁忌 《广西本草选编》：&ldquo;孕妇慎服。&rdquo; 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "徐长卿为萝藦科植物徐长卿Cynanchum paniculatum (Bge.) Kitag.的干燥根和根茎。秋季采挖，除去杂质，阴干。主产于江苏、浙江、安徽、山东、湖北、湖南、河南等地。 来源 本品为萝藦科植物徐长卿Cynanchum paniculatum (Bge.) Kitag.的干燥根和根茎。（《中国药典2015》） 分布产地 主产于江苏、浙江、安徽、山东、湖北、湖南、河南等地。 入药部位 根及根茎 采收加工 秋季采挖，除去杂质，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-191.html",
+      "detailId": "191",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "dipsacus-asper",
+    "name": "续断",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "DIPSACI RADIX",
+      "family": "川续断科"
+    },
+    "originDistribution": "湖北、四川、贵州",
+    "daoDiRegions": [
+      {
+        "place": "湖北、四川、贵州",
+        "province": "湖北"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肝肾，强筋骨，续折伤，止崩漏。（《中国药典2015》）",
+    "indications": "续断：用于肝肾不足，腰膝酸软，风湿痹痛，跌扑损伤，筋伤骨折，崩漏，胎漏。 酒续断：多用于风湿痹痛，跌扑损伤，筋伤骨折。 盐续断：多用于腰膝酸软。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 1.《本草经集注》：地黄为之使。恶雷丸。 2.《得配本草》：初痢勿用，怒气郁者禁用。 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "续断为川续断科植物川续断Dipsacus asper Wall. ex Henry的干燥根。秋季采挖，除去根和须根，用微火烘至半干，堆置&ldquo;发汗&rdquo;至内部变绿色时，再烘干。主产于湖北、四川、贵州。 来源 本品为川续断科植物川续断Dipsacus asper Wall. ex Henry的干燥根。（《中国药典2015》） 分布产地 主产于湖北、四川、贵州。 入药部位 根及根茎 采收加工 秋季采挖，除去根和须根，用微火烘至半干，堆置&ldquo;发汗&rdquo;至内部变绿色时，再烘干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-365.html",
+      "detailId": "365",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "scrophularia-nodosa",
+    "name": "玄参",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "SCROPHULARIAE RADIX",
+      "family": "玄参科"
+    },
+    "originDistribution": "浙江东阳、杭州、临海、义乌、临安、富阳、桐庐等地",
+    "daoDiRegions": [
+      {
+        "place": "浙江东阳、杭州、临海、义乌、临安、富阳、桐庐等地",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热凉血，滋阴降火，解毒散结。（《中国药典2015》）",
+    "indications": "用于热入营血，温毒发斑，热病伤阴，舌绛烦渴，津伤便秘．骨蒸劳嗽，目赤，咽痛，白喉，瘰疬，痈肿疮毒。（《中国药典2015》） 用法用量 9-15g。（《中国药典2015》） 用药禁忌 不宜与藜芦同用。（《中国药典2015》） 贮藏保存 置干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "玄参为玄参科植物玄参Scrophularia ningpoensis Hemsl.的干燥根。冬季茎叶枯萎时采挖，除去根茎、幼芽、须根及泥沙，晒或烘至半干，堆放3-6天，反复数次至干燥。主产于浙江东阳、杭州、临海、义乌、临安、富阳、桐庐等地。产量大，质量优。 来源 本品为玄参科植物玄参Scrophularia ningpoensis Hemsl.的干燥根。（《中国药典2015》） 分布产地 主产于浙江东阳、杭州、临海、义乌、临安、富阳、桐庐等地。产量大，质量优。 入药部位 根及根茎 采收加工 冬季茎叶枯萎时采挖，除去根茎、幼芽、须根及泥沙，晒或烘至半干，堆",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-157.html",
+      "detailId": "157",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "inula-japonica",
+    "name": "旋覆花",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "INULAE FLOS",
+      "family": "菊科"
+    },
+    "originDistribution": "河南信阳、洛阳，江苏南通、启东，河北保定，浙江杭州、宁波",
+    "daoDiRegions": [
+      {
+        "place": "河北旋覆花",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "降气，消痰，行水，止呕。（《中国药典2015》）",
+    "indications": "用于风寒咳嗽，痰饮蓄结，胸膈痞闷，喘咳痰多，呕吐噫气，心下痞硬。（《中国药典2015》） 用法用量 3-9g，包煎。（《中国药典2015》） 用药禁忌 阴虚劳嗽，风热燥咳者禁服。（《中药大辞典》） 贮藏保存 置干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "旋覆花为菊科植物旋覆花Inula japonica Thunb.或欧亚旋覆花Inula britanica L. 的干燥头状花序。夏、秋二季花开放时采收，除去杂质，阴干或晒干。主产于河南信阳、洛阳，江苏南通、启东，河北保定，浙江杭州、宁波。以河南产量大，江苏、浙江品质佳。 来源 本品为菊科植物旋覆花Inula japonica Thunb.或欧亚旋覆花Inula britanica L. 的干燥头状花序。（《中国药典2015》） 分布产地 主产于河南信阳、洛阳，江苏南通、启东，河北保定，浙江杭州、宁波。以河南产量最大，江苏、浙江品质最佳。 入药部位 花 ",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-111.html",
+      "detailId": "111",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "dracaena-cinnabari",
+    "name": "血竭",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "DRACONIS SANGUIS",
+      "family": "棕榈科"
+    },
+    "originDistribution": "云南",
+    "daoDiRegions": [
+      {
+        "place": "云南",
+        "province": "云南"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血定痛，化瘀止血，敛疮生肌。（《中国药典2015》）",
+    "indications": "用于跌打损伤，心腹瘀痛，外伤出血，疮疡不敛。（《中国药典2015》） 用法用量 研末，1～2g，或入丸剂。外用研末撒或人膏药用。（《中国药典2015》） 用药禁忌 孕妇慎用。月经期不宜服用。（《中华本草》） ①《日华子本草》：&quot;得密陀僧良。&quot; ②《本草经疏》：&quot;凡血病无瘀积者不必用。&quot; 贮藏保存  置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "血竭为棕榈科植物麒麟竭Daemonorops draco Bl.果实渗出的树脂经加工制成。主产云南。 来源 为棕榈科植物麒麟竭Daemonorops draco Bl.果实渗出的树脂经加工制成。 分布产地 主产云南。 入药部位 果实及种子",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-236.html",
+      "detailId": "236",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-281",
+    "name": "鸦胆子",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "BRUCEAE FRUCTUS",
+      "family": "苦木科"
+    },
+    "originDistribution": "广东、广西",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，截疟，止痢；外用腐蚀赘疣。（《中国药典2015》）",
+    "indications": "用于痢疾，疟疾；外治赘疣，鸡眼。（《中国药典2015》） 用法用量 0.5-2g，用龙眼肉包裹或装入胶囊吞服。外用适量。（《中国药典2015》） 用药禁忌 对胃肠道有刺激作用，可引起恶心，呕吐，腹痛，对肝肾亦有损害，故不宜多服久服。脾胃虚弱呕吐者禁服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "鸦胆子为苦木科植物鸦胆子Brucea javanica (L.) Merr.的干燥成熟果实。秋季果实成熟时采收，除去杂质，晒干。主产于广东、广西，以广东产量大，质佳。 来源 本品为苦木科植物鸦胆子Brucea javanica (L.) Merr.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于广东、广西，以广东产量最大，质佳。 入药部位 果实及种子 采收加工 秋季果实成熟时采收，除去杂质，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-281.html",
+      "detailId": "281",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "corydalis-yanhusuo",
+    "name": "延胡索",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "CORYDALIS RHIZOMA",
+      "family": "罂粟科"
+    },
+    "originDistribution": "浙江东阳、磐安",
+    "daoDiRegions": [
+      {
+        "place": "浙江东阳、磐安",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血，行气，止痛。（《中国药典2015》）",
+    "indications": "用于胸胁、脘腹疼痛，胸痹心痛，经闭痛经，产后瘀阻，跌扑肿痛。（《中国药典2015》） 用法用量 3-10g；研末吞服，一次1.5-3g。（《中国药典2015》） 用药禁忌 孕妇禁服，体虚者慎服。（《中药大辞典》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "延胡索为罂粟科植物延胡索Corydalis yanhusuo W. T. Wang ex Z. Y. Su et C. Y. Wu的干燥块茎。夏初茎叶枯萎时采挖，除去须根，洗净，置沸水中煮至恰无白心时，取出，晒干。主产于浙江东阳、磐安。 来源 本品为罂粟科植物延胡索Corydalis yanhusuo W. T. Wang ex Z. Y. Su et C. Y. Wu的干燥块茎。（《中国药典2015》） 分布产地 主产于浙江东阳、磐安。 入药部位 根及根茎 采收加工 夏初茎叶枯萎时采挖，除去须根，洗净，置沸水中煮至恰无白心时，取出，晒干。（《中国药典2",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-148.html",
+      "detailId": "148",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "genkwa-flower",
+    "name": "芫花",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "GENKWA FLOS",
+      "family": "瑞香科"
+    },
+    "originDistribution": "安徽、江苏、浙江、四川、山东、河南、河北等地",
+    "daoDiRegions": [
+      {
+        "place": "安徽、江苏、浙江、四川、山东、河南、河北等地",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "泻下药",
+    "efficacy": "泻水逐饮；外用杀虫疗疮。（《中国药典2015》）",
+    "indications": "用于水肿胀满，胸腹积水，痰饮积聚，气逆咳喘，二便不利；外治疥癣秃疮，痈肿，冻疮。（《中国药典2015》） 用法用量 1.5-3g。醋芫花研末吞服，一次0.6-0.9g，一日1次。外用适量。（《中国药典2015》） 用药禁忌 孕妇禁用；不宜与甘草同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "芫花为瑞香科植物芫花Daphne genkwa Sieb. et Zucc.的干燥花蕾。春季花未开放时采收，除去杂质，干燥。产于安徽、江苏、浙江、四川、山东、河南、河北等地。 来源 本品为瑞香科植物芫花Daphne genkwa Sieb. et Zucc.的干燥花蕾。（《中国药典2015》） 分布产地 产于安徽、江苏、浙江、四川、山东、河南、河北等地。 入药部位 花 采收加工 春季花未开放时采收，除去杂质，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-339.html",
+      "detailId": "339",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "fritillaria-pallidiflora",
+    "name": "伊贝母",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "huaiyao-huai",
+      "weiyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "淮药",
+      "维药"
+    ],
+    "taxonomy": {
+      "latinName": "BULBUS FRITILLARIAE PALLIDIFLORAE",
+      "family": "百合科"
+    },
+    "originDistribution": "新疆",
+    "daoDiRegions": [
+      {
+        "place": "新疆",
+        "province": "新疆"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "清热润肺，化痰止咳。（《中药大辞典》）",
+    "indications": "用于肺热燥咳，干咳少痰，阴虚劳嗽，咳痰带血。（《中药大辞典》） 用法用量 内服：煎汤，3-9g。（《中药大辞典》） （3~9g）（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、草乌、制草乌、附子同用。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀（《中药大辞典》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "伊贝母本品为百合科植物新疆贝母FritillariawalujewiiRegel或伊犁贝母FritillariapallidifloraSchrenk的干燥鳞茎。5～7月间采挖，除去泥沙，晒干，再去须根及外皮。产新疆西北部（伊宁、绥定、霍城）。 来源 百合科植物伊犁贝母Fritillaria pallidiflora Schrenk的干燥鳞茎 分布产地 新疆产的贝母作商品已有100余年的历史，旧称&ldquo;古城贝母&rdquo;，后来称生贝或西贝，均为野生。 新疆贝母：新疆的尼勒克、新源、巩留、特克斯、昭苏、木垒、奇台、吉木萨尔、阜康、米泉、玛纳斯、",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-349.html",
+      "detailId": "349",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "leonurus-japonicus",
+    "name": "益母草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai",
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "淮药",
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "LEONURI HERBA",
+      "family": "唇形科"
+    },
+    "originDistribution": "河南、安徽、四川、江苏、浙江等地",
+    "daoDiRegions": [
+      {
+        "place": "河南、安徽、四川、江苏、浙江等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血调经，利尿消肿，清热解毒。（《中国药典2015》）",
+    "indications": "用于月经不调，痛经经闭，恶露不尽，水肿尿少，疮疡肿毒。（《中国药典2015》） 用法用量 9-30g；鲜品12-40g。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 干益母草置干燥处；鲜益母草置阴凉潮湿处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "益母草为唇形科植物益母草Leonurus artemisia (Laur.) S. Y. Hu的新鲜或干燥地上部分。鲜品春季幼苗期至初夏花前期采割；干品夏季茎叶茂盛、花未开或初开时采割，晒干，或切段晒干。主产于河南、安徽、四川、江苏、浙江等地。 来源 本品为唇形科植物益母草Leonurus artemisia (Laur.) S. Y. Hu的新鲜或干燥地上部分。（《中国药典2015》） 分布产地 主产于河南、安徽、四川、江苏、浙江等地。 入药部位 全草 采收加工 鲜品春季幼苗期至初夏花前期采割；干品夏季茎叶茂盛、花未开或初开时采割，晒干，或切段晒干。（",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-163.html",
+      "detailId": "163",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "alpinia-oxyphylla-fruit",
+    "name": "益智",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "ALPINIAE OXYPHYLLAE FRUCTUS",
+      "family": "姜科"
+    },
+    "originDistribution": "海南和广东",
+    "daoDiRegions": [
+      {
+        "place": "海南和广东",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "暖肾固精缩尿，温脾止泻摄唾。（《中国药典2015》）",
+    "indications": "用于肾虚遗尿，小便频数，遗精白浊，脾寒泄泻，腹中冷痛，口多唾涎。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 阴虚火旺者禁服。（《中药大辞典》） 贮藏保存 置阴凉干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "益智为姜科植物益智Alpinia oxyphylla Miq.的干燥成熟果实。夏、秋间果实由绿变红时采收，晒干或低温干燥。主产于海南和广东。 来源 本品为姜科植物益智Alpinia oxyphylla Miq.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于海南和广东。 入药部位 果实及种子 采收加工 夏、秋间果实由绿变红时采收，晒干或低温干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-297.html",
+      "detailId": "297",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-80",
+    "name": "翼首草",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "zangyao",
+      "guanyao",
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "藏药",
+      "关药",
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "PTEROCEPHALI HERBA",
+      "family": "川续断科"
+    },
+    "originDistribution": "青海、四川、云南、西藏等地",
+    "daoDiRegions": [
+      {
+        "place": "青海、四川、云南、西藏等地",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "解毒除瘟，清热止痢，祛风通痹。（《中国药典2015》）",
+    "indications": "用于感冒发热及各种温热病引起的发烧，心中烦热，咳血，吐血，尿血，便血。（《全国中草药汇编》） 用法用量 1-3g。（《中国药典2015》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "翼首草为川续断科植物匙叶翼首花Pterocephalus hookeri (C. B. Clarke) Hock.的干燥全草。主产于青海、四川、云南、西藏等地。夏末秋初采挖，除去杂质，阴干。 来源 本品系藏族习用药材。为川续断科植物匙叶翼首花Pterocephalus hookeri (C. B. Clarke) Hock.的干燥全草。（《中国药典2015》） 分布产地 主产于青海、四川、云南、西藏等地。 入药部位 全草 采收加工 夏末秋初采挖，除去杂质，阴干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-80.html",
+      "detailId": "80",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-260",
+    "name": "阴香根",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "RADIX CINNAMOMI BURMANNII",
+      "family": "樟科"
+    },
+    "originDistribution": "广东、广西、云南、福建等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、云南、福建等地",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "温里药",
+    "efficacy": "祛风散寒，温中止痛，止血。（《广西中药材标准第二册》）",
+    "indications": "用于寒性胃痛，胃胀，腹泻，风湿痛，创伤出血。（《广西中药材标准第二册》） 用法用量 3-10g；外用适量，捣烂或研粉调酒歪敷。（《广西中药材标准第二册》） 贮藏保存 置阴凉干燥处。（《广西中药材标准第二册》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "阴香根为樟科植物阴香Cinnamomum burmanni (Nees et T.Nees) Blume的干燥根。全年可采挖，除去泥沙，切段，阴干。产广东、广西、云南、福建等地。 来源 本品为樟科植物阴香Cinnamomum burmanni (Nees et T.Nees) Blume的干燥根。（《广西中药材标准第二册》） 分布产地 产广东、广西、云南、福建等地。 入药部位 根及根茎 采收加工 全年可采挖，除去泥沙，切段，阴干。（《广西中药材标准第二册》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-260.html",
+      "detailId": "260",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "artemisia-capillaris",
+    "name": "茵陈",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "huaiyao-huai",
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "淮药",
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "ARTEMISIAE SCOPARIAE HERBA",
+      "family": "菊科"
+    },
+    "originDistribution": "陕西、河北、山西等地",
+    "daoDiRegions": [
+      {
+        "place": "陕西、河北、山西等地",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "清利湿热，利胆退黄。（《中国药典2015》）",
+    "indications": "用于黄疸尿少，湿温暑湿，湿疮瘙痒。（《中国药典2015》） 用法用量 6-15g。外用适量，煎汤熏洗。（《中国药典2015》） 用药禁忌 脾虚血亏而致的虚黄、萎黄，一般不宜使用。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "茵陈为菊科植物滨蒿Artemisia scoparia Waldst. et Kit.或茵陈蒿Artemisia capillaris Thunb. 的干燥地上部分。春季幼苗高6-10cm时采收或秋季花蕾长成至花初开时采割，除去杂质和老茎，晒干。春季采收的习称&ldquo;绵茵陈&rdquo;，秋季采割的称&ldquo;花茵陈&rdquo;。猪毛蒿主产于陕西、河北、山西等地；茵陈蒿主产于山东、江苏、浙江、福建等地。 来源 本品为菊科植物滨蒿Artemisia scoparia Waldst. et Kit.或茵陈蒿Artemisia capillaris",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-28.html",
+      "detailId": "28",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "epimedium-brevicornu",
+    "name": "淫羊藿",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guiyao",
+      "qinyao",
+      "guanyao",
+      "beiyao",
+      "chuanyao",
+      "guangyao",
+      "huaiyao-huai",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "贵药",
+      "秦药",
+      "关药",
+      "北药",
+      "川药",
+      "广药",
+      "淮药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "EPIMEDII FOLIUM",
+      "family": "小檗科"
+    },
+    "originDistribution": "陕西、山西、安徽、河南、广西、宁夏、甘肃、湖南等地",
+    "daoDiRegions": [
+      {
+        "place": "山西淫羊藿",
+        "province": "山西"
+      },
+      {
+        "place": "四川、贵州、湖北、广西",
+        "province": "湖北"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肾阳、强筋骨、祛风湿。（《中国药典2015》）",
+    "indications": "用于肾阳虚衰，阳痿遗精，筋骨痿软，风湿痹痛，麻木拘挛，绝经期眩晕。（《中国药典2015》） 用法用量 用量3~9克，煎汤服。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "淫羊藿为小檗科植物物淫羊藿Epimedium brevicornu Maxim.、箭叶淫羊藿Epimedium sagittatum (Sieb. et Zucc.) Maxim.、柔毛淫羊藿Epimedium pubescens Maxim.或朝鲜淫羊藿Epimedium koreanum Nakai的干燥叶。夏、秋季茎叶茂盛时采收，晒干或阴干。淫羊藿主产于陕西、山西、安徽、河南、广西、宁夏、甘肃、湖南等地；箭叶淫羊藿主产于湖北、四川、浙江、湖南、陕西、江西、安徽、福建、宁夏、青海、贵州、山东、江苏、山西等地；朝鲜淫羊藿主产于辽宁、吉林、黑龙江、山东、",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-38.html",
+      "detailId": "38",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "stellaria-dichotoma",
+    "name": "银柴胡",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "STELLARIAE RADIX",
+      "family": "石竹科"
+    },
+    "originDistribution": "宁夏",
+    "daoDiRegions": [
+      {
+        "place": "宁夏",
+        "province": "宁夏"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清虚热，除疳热。（《中国药典2015》）",
+    "indications": "用于阴虚发热，骨蒸劳热，小儿疳热。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 外感风寒，血虚无热者慎服。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "银柴胡为石竹科植物银柴胡Stellaria dichotoma L. var. lanceolata Bge.的干燥根。春、夏间植株萌发或秋后茎叶枯萎时采挖；栽培品于种植后第三年9月中旬或第四年4月中旬采挖，除去残茎、须根及泥沙，晒干。主产于宁夏回族自治区的陶乐、盐池、灵武、中卫等县，为该自治区道地药材。 来源 本品为石竹科植物银柴胡Stellaria dichotoma L. var. lanceolata Bge.的干燥根。（《中国药典2015》） 分布产地 主产于宁夏回族自治区的陶乐、盐池、灵武、中卫等县，为该自治区道地药材。 入药部位 根及根茎 ",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-313.html",
+      "detailId": "313",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "white-fungus",
+    "name": "银耳",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "chuanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "川药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "TREMELLA",
+      "family": "银耳科"
+    },
+    "originDistribution": "四川、贵州、云南、福建、湖北、安徽、浙江、广西、陕西、台湾",
+    "daoDiRegions": [
+      {
+        "place": "安徽银耳",
+        "province": "安徽"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "滋阴，润肺，养胃，生津。（《浙江省中药炮制规范2015年版》）",
+    "indications": "用于虚劳咳嗽，痰中带血，虚热口渴。（《浙江省中药炮制规范2015年版》） 用法用量 3-6g。（《浙江省中药炮制规范2015年版》） 用药禁忌 忌烘、晒，以防僵化或变色。（《浙江省中药炮制规范2015年版》） 贮藏保存 置干燥处。（《浙江省中药炮制规范2015年版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "银耳为银耳科真菌银耳Tremella fuciformis Berk.的干燥子实体。夏季采收，除去杂质，洗净，干燥。主产于四川、贵州、云南、福建、湖北、安徽、浙江、广西、陕西、台湾。以四川通江银耳、福建漳州雪耳比较有名。 来源 本品为银耳科真菌银耳Tremella fuciformis Berk.的干燥子实体。（《浙江省中药炮制规范2015年版》） 分布产地 主产于四川、贵州、云南、福建、湖北、安徽、浙江、广西、陕西、台湾。以四川通江银耳、福建漳州雪耳最著名。 入药部位 藻、菌、地衣 采收加工 夏季采收，除去杂质，洗净，干燥。（《浙江省中药炮制规范201",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-217.html",
+      "detailId": "217",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-248",
+    "name": "罂粟壳",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guanyao",
+      "yunyao",
+      "guiyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "云药",
+      "贵药"
+    ],
+    "taxonomy": {
+      "latinName": "PAPAVERIS PERICARPIUM",
+      "family": "罂粟科"
+    },
+    "originDistribution": "云南、贵州",
+    "daoDiRegions": [
+      {
+        "place": "云南、贵州",
+        "province": "贵州"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "敛肺，涩肠，止痛。（《中国药典2015》）",
+    "indications": "用于久咳，久泻，脱肛，脘腹疼痛。（《中国药典2015》） 用法用量 3-6g。（《中国药典2015》） 用药禁忌 本品易成瘾，不宜常服；孕妇及儿童禁用；运动员慎用。（《中国药典2015》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "罂粟壳为罂粟科植物罂粟Papaver somniferum L.的干燥成熟果壳。秋季将成熟果实或已割取浆汁后的成熟果实摘下，破开，除去种子和枝梗，干燥。主产于云南、贵州。 来源 本品为罂粟科植物罂粟Papaver somniferum L.的干燥成熟果壳。（《中国药典2015》） 分布产地 主产于云南、贵州。 入药部位 果实及种子 采收加工 秋季将成熟果实或已割取浆汁后的成熟果实摘下，破开，除去种子和枝梗，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-248.html",
+      "detailId": "248",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "daodi-site-233",
+    "name": "蛹虫草",
+    "linkStatus": "site-only",
+    "daoDiSystemIds": [
+      "guanyao",
+      "yunyao",
+      "huaiyao-huai",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "云药",
+      "淮药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "Cordyceps militaris",
+      "family": "麦角菌科"
+    },
+    "originDistribution": "云南（昆明、安宁、江川）、吉林（安图、永吉）、辽宁（沈阳）、内蒙古（哲里木盟）",
+    "daoDiRegions": [
+      {
+        "place": "内蒙古蛹虫草",
+        "province": "内蒙古"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肺阴，又能补肾阳。",
+    "indications": "主治肾虚，阳痿遗精，腰膝酸痛，病后虚弱，久咳虚弱，劳咳痰血，自汗盗汗。 贮藏保存 密封好置低温干燥处贮存。",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "虫草花为人工培养的蛹虫草Cordyceps militaris子实体。主产于云南（昆明、安宁、江川）、吉林（安图、永吉）、辽宁（沈阳）、内蒙古（哲里木盟）。 来源 人工培养的蛹虫草子实体。 分布产地 主产于云南（昆明、安宁、江川）、吉林（安图、永吉）、辽宁（沈阳）、内蒙古（哲里木盟），生于针、阔叶林或混交林地表土层中鳞翅目昆虫的蛹体上。 入药部位 藻、菌、地衣 采收加工 菌丝体成熟后，由白色逐渐转为桔黄色，此时，室内应增加光照白，白天利用自然散射光，保持200勒克斯，晚间可利用日光灯作光源，每天应不少于10h光照，以促使菌丝体转色和刺激原基形成。待料面突",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-233.html",
+      "detailId": "233",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "pomelo",
+    "name": "柚果",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "CITRI GRANDIS FRUCTUS IMMATURUS",
+      "family": "芸香科"
+    },
+    "originDistribution": "广东、广西",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "燥湿化痰，宽中行气，消食。（《广东省中药材标准2011年版》）",
+    "indications": "用于风寒咳嗽，喉痒痰多，气郁胸闷，食积伤酒，脘腹冷痛，呕恶泄泻。（《广东省中药材标准2011年版》） 用法用量 3-6g。（《广东省中药材标准2011年版》） 贮藏保存 置阴凉干燥处，防蛀。（《广东省中药材标准2011年版》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "柚果为芸香科植物柚Citrus maxima (Burm.) Merr.及其变种的干燥未成熟的果实。3-4月果实为3-7cm时采收，洗净，切为两半或片，晒干或低温干燥。主产于广东、广西。 来源 本品为芸香科植物柚Citrus maxima (Burm.) Merr.及其变种的干燥未成熟的果实。（《广东省中药材标准2011年版》） 分布产地 主产于广东、广西。 入药部位 果实及种子 采收加工 3-4月果实为3-7cm时采收，洗净，切为两半或片，晒干或低温干燥。（《广东省中药材标准2011年版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-263.html",
+      "detailId": "263",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "houttuynia-cordata",
+    "name": "鱼腥草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "HOUTTUYNIAE HERBA",
+      "family": "三白草科"
+    },
+    "originDistribution": "浙江、江苏、安徽、福建、河南，广东、广西、湖南、湖北、四川、贵州、云南、陕西、甘肃等地",
+    "daoDiRegions": [
+      {
+        "place": "河南鱼腥草",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，排脓消痈，利尿通淋。（《中国药典2015》）",
+    "indications": "用于肺痈吐脓，痰热喘咳，热痢，热淋，痈肿疮毒。（《中国药典2015》） 用法用量 15-25g，不宜久煎；鲜品用量加倍，水煎或捣汁服。外用适量，捣敷或煎汤熏洗患处。（《中国药典2015》） 用药禁忌 虚寒证慎服。（《中药大辞典》） 贮藏保存 干鱼腥草置干燥处；鲜鱼腥草置阴凉潮湿处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "鱼腥草为三白草科植物蕺菜Houttuynia cordata Thunb.的新鲜全草或干燥地上部分。鲜品全年均可采割；干品夏季茎叶茂盛花穗多时采割，除去杂质，晒干。主产于浙江、江苏、安徽、福建、河南，广东、广西、湖南、湖北、四川、贵州、云南、陕西、甘肃等地亦产。 来源 本品为三白草科植物蕺菜Houttuynia cordata Thunb的新鲜全草或干燥地上部分。（《中国药典2015》） 分布产地 主产于浙江、江苏、安徽、福建、河南，广东、广西、湖南、湖北、四川、贵州、云南、陕西、甘肃等地亦产。 入药部位 全草 采收加工 鲜品全年均可采割；干品夏季茎叶茂",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-212.html",
+      "detailId": "212",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "limonite",
+    "name": "禹余粮",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao"
+    ],
+    "daoDiSystems": [
+      "怀药"
+    ],
+    "taxonomy": {
+      "latinName": "LIMONITUM",
+      "family": "其它科"
+    },
+    "originDistribution": "河南、江苏等地",
+    "daoDiRegions": [
+      {
+        "place": "河南、江苏等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "收涩药",
+    "efficacy": "涩肠止泻，收敛止血。（《中国药典2015》）",
+    "indications": "用于久泻久痢，大便出血，崩漏带下。（《中国药典2015》） 用法用量 9-15g，先煎；或入丸散。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "禹余粮为氢氧化物类矿物褐铁矿，主含碱式氧化铁[FeO(OH)]。采挖后，除去杂石。主产河南、江苏等地。 来源 本品为氢氧化物类矿物褐铁矿，主含碱式氧化铁[FeO(OH)]。（《中国药典2015》） 分布产地 主产河南、江苏等地。 入药部位 矿物 采收加工 采挖后，除去杂石。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-130.html",
+      "detailId": "130",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "polygonatum-odoratum",
+    "name": "玉竹",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "POLYGONATI ODORATI RHIZOMA",
+      "family": "百合科"
+    },
+    "originDistribution": "浙江、湖南、广东、江苏、河南等地",
+    "daoDiRegions": [
+      {
+        "place": "浙江、湖南、广东、江苏、河南等地",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "养阴润燥，生津止渴。（《中国药典2015》）",
+    "indications": "用于肺胃阴伤，燥热咳嗽，咽干口渴，内热消渴。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 痰湿气滞者禁服，脾虚便溏者慎服。（《中药大辞典》） 贮藏保存 置通风干燥处，防霉，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "玉竹为百合科植物玉竹Polygonatum odoratum (Mill.) Druce的干燥根茎。秋季采挖，除去须根，洗净，晒至柔软后，反复揉搓、晾晒至无硬心，晒干；或蒸透后，揉至半透明，晒干。主产于浙江、湖南、广东、江苏、河南等地，以湖南、浙江、广东产者质量为佳。 来源 本品为百合科植物玉竹Polygonatum odoratum (Mill.) Druce的干燥根茎。（《中国药典2015》） 分布产地 主产于浙江、湖南、广东、江苏、河南等地，以湖南、浙江、广东产者质量为佳。 入药部位 根及根茎 采收加工 秋季采挖，除去须根，洗净，晒至柔软后，反复揉",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-188.html",
+      "detailId": "188",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "curcuma-aromatica",
+    "name": "郁金",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao",
+      "guangyao",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "浙药",
+      "广药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "CURCUMAE RADIX",
+      "family": "姜科"
+    },
+    "originDistribution": "浙江、四川、广西",
+    "daoDiRegions": [
+      {
+        "place": "浙江、四川、广西",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "活血化瘀药",
+    "efficacy": "活血止痛，行气解郁，清心凉血，利胆退黄。（《中国药典2015》）",
+    "indications": "用于胸胁刺痛，胸痹心痛，经闭痛经，乳房胀痛，热病神昏，癫痫发狂，血热吐衄，黄疸尿赤。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 不宜与丁香、母丁香同用。（《中国药典2015》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "郁金为姜科植物温郁金Curcuma rcenyujin Y. H. Chenet C. Ling、姜黄Curcuma longa L.、广西莪术Curcuma kwangsiensis S. G. Lee et C. F. Liang或蓬莪术Curcuma phaeocaulis Val.的干燥块根。冬季茎叶枯萎后采挖，除去泥沙和细根，蒸或煮至透心，干燥。温郁金主产于浙江瑞安；姜黄主产于四川温江及乐山地区；广西莪术主产于广西；蓬莪术主产于四川温江及乐山地区。 来源 本品为姜科植物温郁金Curcuma rcenyujin Y. H. Chenet C. L",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-142.html",
+      "detailId": "142",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "prunus-humilis-seed",
+    "name": "郁李仁",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "PRUNI SEMEN",
+      "family": "蔷薇科"
+    },
+    "originDistribution": "河北、内蒙古东部、辽宁、山东",
+    "daoDiRegions": [
+      {
+        "place": "河北、内蒙古东部、辽宁、山东",
+        "province": "内蒙古"
+      }
+    ],
+    "efficacyClass": "泻下药",
+    "efficacy": "润肠通便，下气利水。（《中国药典2015》）",
+    "indications": "用于津枯肠燥，食积气滞，腹胀便秘，水肿，脚气，小便不利。（《中国药典2015》） 用法用量 6-10g。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "郁李仁为蔷薇科植物欧李Cerasus humilis (Bge.) Sok.、郁李Cerasus japonica (Thunb.) Lois.或长柄扁桃Amygdalus pedunculata Pall.的干燥成熟种子。前二种习称&ldquo;小李仁&rdquo;，后一种习称&ldquo;大李仁&rdquo;。 夏、秋二季采收成熟果实，除去果肉和核壳，取出种子，干燥。欧李仁主产于河北、内蒙古东部、辽宁、山东；郁李仁主产于山东、辽宁、河北；长梗扁桃仁主产于主产于内蒙古、宁夏。 来源 本品为蔷薇科植物欧李Cerasus humilis (Bge.) So",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-394.html",
+      "detailId": "394",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "polygala-tenuifolia",
+    "name": "远志",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "beiyao",
+      "qinyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "北药",
+      "秦药"
+    ],
+    "taxonomy": {
+      "latinName": "POLYGALAE RADIX",
+      "family": "远志科"
+    },
+    "originDistribution": "主产于华北、东北、西北以及河南",
+    "daoDiRegions": [
+      {
+        "place": "主产于华北、东北、西北以及河南",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "安神药",
+    "efficacy": "安神益智，交通心肾，祛痰，消肿。（《中国药典2015》）",
+    "indications": "用于心肾不交引起的失眠多梦、健忘惊悸、神志恍惚，咳痰不爽，疮疡肿毒，乳房肿痛。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 阴虚火旺、脾胃虚弱者以及孕妇慎服。用量不宜过大，以免引起呕恶。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "远志为远志科植物远志Polygala tenuifolia Willd.或卵叶远志Polygala sibirica L.的干燥根。春、秋二季采挖，除去须根和泥沙，晒干。主产于华北、东北、西北以及河南、山东、安徽部分地区，以山西、陕西产量居多。 来源 本品为远志科植物远志Polygala tenuifolia Willd.或卵叶远志Polygala sibirica L.的干燥根。（《中国药典2015》） 分布产地 主产于华北、东北、西北以及河南、山东、安徽部分地区，以山西、陕西产量最大。 入药部位 根及根茎 采收加工 春、秋二季采挖，除去须根和泥沙，晒",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-23.html",
+      "detailId": "23",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "alisma-orientalis",
+    "name": "泽泻",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "南药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "ALISMATIS RHIZOMA",
+      "family": "泽泻科"
+    },
+    "originDistribution": "福建、四川、江西",
+    "daoDiRegions": [
+      {
+        "place": "福建、四川、江西",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "利水渗湿，泄热，化浊降脂。（《中国药典2015》）",
+    "indications": "用于小便不利，水肿胀满，泄泻尿少，痰饮眩晕，热淋涩痛，高脂血症。（《中国药典2015》） 用法用量 6-10g。（《中国药典2015》） 用药禁忌 肾虚精滑无湿热者禁服。（《中药大辞典》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "泽泻为泽泻科植物泽泻Alisma orientale (Samuel.) Juz.的干燥块茎。冬季茎叶开始枯萎时采挖，洗净，干燥，除去须根和粗皮。主产于福建、四川、江西，多系栽培品。 来源 本品为泽泻科植物泽泻Alisma orientale (Samuel.) Juz.的干燥块茎。（《中国药典2015》） 分布产地 主产于福建、四川、江西，多系栽培品。 入药部位 根及根茎 采收加工 冬季茎叶开始枯萎时采挖，洗净，干燥，除去须根和粗皮。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-229.html",
+      "detailId": "229",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "fritillaria-thunbergii",
+    "name": "浙贝母",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao"
+    ],
+    "daoDiSystems": [
+      "浙药"
+    ],
+    "taxonomy": {
+      "latinName": "FRITILLARIAE THUNBERGII BULBUS",
+      "family": "百合科"
+    },
+    "originDistribution": "主产于浙江",
+    "daoDiRegions": [
+      {
+        "place": "主产于浙江",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "清热化痰止咳，解毒散结消痈。（《中国药典2015》）",
+    "indications": "用于风热咳嗽，痰火咳嗽，肺痈，乳痈，瘰疬，疮毒。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 不宜与川乌、制川乌、草乌、制草乌、附子同用。（《中国药典2015》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "浙贝母为百合科植物浙贝母Fritillaria thunbergii Miq.的干燥鳞茎。初夏植株枯萎时采挖，洗净。大小分开，大者除去芯芽，习称&ldquo;大贝&rdquo;；小者不去芯芽，习称&ldquo;珠贝&rdquo;。分别撞擦，除去外皮，拌以煅过的贝壳粉，吸去擦出的浆汁，干燥；或取鳞茎，大小分开，洗净，除去芯芽，趁鲜切成厚片，洗净，干燥，习称&ldquo;浙贝片&rdquo;。主产于浙江。 来源 本品为百合科植物浙贝母Fritillaria thunbergii Miq.的干燥鳞茎。（《中国药典2015》） 分布产地 主产于浙江。 入药部位 ",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-150.html",
+      "detailId": "150",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "pearl",
+    "name": "珍珠",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "haiyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "海药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "MARGARITIFERA",
+      "family": "功 效：安神药"
+    },
+    "originDistribution": "广东、广西、台湾等地",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、台湾等地",
+        "province": "广东"
+      }
+    ],
+    "efficacyClass": "安神药",
+    "efficacy": "安神定惊，明目消翳，解毒生肌，润肤祛斑。（《中国药典2015》）",
+    "indications": "用于惊悸失眠，惊风癫痫，目赤翳障，疮疡不敛，皮肤色斑。（《中国药典2015》） 用法用量 0.1-0.3g，多入丸散用。外用适量。（《中国药典2015》） 用药禁忌 孕妇慎服。（《中药大辞典》） 贮藏保存 密闭。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "珍珠为珍珠贝科动物马氏珍珠贝Pteria martensii (Dunker)、蚌科动物三角帆蚌Hyriopsis cumingii (Lea)或褶纹冠蚌Cristaria plicata (Leach)等双壳类动物受刺激形成的珍珠。自动物体内取出，洗净，干燥。海水珍珠主产广东、广西、台湾等地，淡水养殖珍珠主产黑龙江、江苏、安徽及上海等地。 来源 本品为珍珠贝科动物马氏珍珠贝Pteria martensii (Dunker)、蚌科动物三角帆蚌Hyriopsis cumingii (Lea)或褶纹冠蚌Cristaria plicata (Leach)等双壳",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-306.html",
+      "detailId": "306",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "margarita",
+    "name": "珍珠母",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "haiyao"
+    ],
+    "daoDiSystems": [
+      "海药"
+    ],
+    "taxonomy": {
+      "latinName": "MARGARITIFERA CONCHA",
+      "family": "动物药"
+    },
+    "originDistribution": "河北、安徽、江苏、浙江等地",
+    "daoDiRegions": [
+      {
+        "place": "河北、安徽、江苏、浙江等地",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "平肝息风药",
+    "efficacy": "平肝潜阳，安神定惊，明目退翳。（《中国药典2015》）",
+    "indications": "用于头痛眩晕，惊悸失眠，目赤翳障，视物昏花。（《中国药典2015》） 用法用量 10-25g，先煎。（《中国药典2015》） 用药禁忌 脾胃虚寒者慎服。（《中药大辞典》） 贮藏保存 置干燥处，防尘。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "珍珠母为蚌科动物三角帆蚌Hyriopsis cumingii (Lea)、褶纹冠蚌Cristaria plicata (Leach)或珍珠贝科动物马氏珍珠贝Pteria martensii (Dunker)的贝壳。去肉，洗净，干燥。三角帆蚌主产于河北、安徽、江苏、浙江等地；褶纹冠蚌产于全国大部分地区；合浦珠母贝主产于广西合浦。 来源 本品为蚌科动物三角帆蚌Hyriopsis cumingii (Lea)、褶纹冠蚌Cristaria plicata (Leach)或珍珠贝科动物马氏珍珠贝Pteria martensii (Dunker)的贝壳。（《中国药典",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-393.html",
+      "detailId": "393",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "anemarrhena-asphodeloides",
+    "name": "知母",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao",
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "北药",
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "ANEMARRHENAE RHIZOMA",
+      "family": "百合科"
+    },
+    "originDistribution": "河北、山西、陕西、内蒙古",
+    "daoDiRegions": [
+      {
+        "place": "河北、山西、陕西、内蒙古",
+        "province": "内蒙古"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热泻火，滋阴润燥。（《中国药典2015》）",
+    "indications": "用于外感热病，高热烦渴，肺热燥咳，骨蒸潮热，内热消渴，肠燥便秘。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 脾胃虚寒，大便溏泄者禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "知母为百合科植物知母Anemarrhena asphodeloides Bunge的干燥根茎。春、秋二季采挖，除去须根和泥沙，晒干，习称&ldquo;毛知母&rdquo;；或除去外皮，晒干。主产于河北、山西、陕西、内蒙古。以河北易县产者质量好。 来源 本品为百合科植物知母Anemarrhena asphodeloides Bunge的干燥根茎。（《中国药典2015》） 分布产地 主产于河北、山西、陕西、内蒙古。以河北易县产者质量最好。 入药部位 根及根茎 采收加工 春、秋二季采挖，除去须根和泥沙，晒干，习称&ldquo;毛知母&rdquo;；或除去外皮，",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-319.html",
+      "detailId": "319",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "gardenia-jasminoides",
+    "name": "栀子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "zheyao",
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "浙药",
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "GARDENIAE FRUCTUS",
+      "family": "茜草科"
+    },
+    "originDistribution": "浙江、湖南、江西、湖北、福建、四川",
+    "daoDiRegions": [
+      {
+        "place": "浙江、湖南、江西、湖北、福建、四川",
+        "province": "浙江"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "泻火除烦，清热利湿，凉血解毒；外用消肿止痛。（《中国药典2015》）",
+    "indications": "用于热病心烦，湿热黄疸，淋证涩痛，血热吐衄，目赤肿痛，火毒疮疡；外治扭挫伤痛。（《中国药典2015》） 用法用量 6-10g。外用生品适量，研末调敷。（《中国药典2015》） 用药禁忌 脾虚便溏，胃寒作痛者慎服。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "栀子为茜草科植物栀子Gardenia jasminoides Ellis的干燥成熟果实。9-11月果实成熟呈红黄色时采收，除去果梗和杂质，蒸至上气或置沸水中略烫，取出，干燥。主产于浙江、湖南、江西、湖北、福建、四川。以湖南产量大，浙江品质佳。 来源 本品为茜草科植物栀子Gardenia jasminoides Ellis的干燥成熟果实。（《中国药典2015》） 分布产地 主产于浙江、湖南、江西、湖北、福建、四川。以湖南产量大，浙江品质佳。 入药部位 果实及种子 采收加工 9-11月果实成熟呈红黄色时采收，除去果梗和杂质，蒸至上气或置沸水中略烫，取出，干燥",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-151.html",
+      "detailId": "151",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "fructus-auranti",
+    "name": "枳壳",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao"
+    ],
+    "daoDiSystems": [
+      "南药"
+    ],
+    "taxonomy": {
+      "latinName": "AURANTII FRUCTUS",
+      "family": "芸香科"
+    },
+    "originDistribution": "四川、江西、湖南、浙江、江苏等地",
+    "daoDiRegions": [
+      {
+        "place": "四川、江西、湖南、浙江、江苏等地",
+        "province": "江苏"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "理气宽中，行滞消胀。（《中国药典2015》）",
+    "indications": "用于胸胁气滞，胀满疼痛，食积不化，痰饮内停，脏器下垂。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 孕妇慎服。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "枳壳为芸香科植物酸橙Citrus aurantium L.及其栽培变种的干燥未成熟果实。7月果皮尚绿时采收，自中部横切为两半，晒干或低温干燥。主产于四川、江西、湖南、浙江、江苏等地。四川产者称&ldquo;川枳壳&rdquo;，江西产者称&ldquo;江枳壳&rdquo;，湖南产者称&ldquo;湘枳壳&rdquo;，江苏、浙江产者称&ldquo;苏枳壳&rdquo;。 来源 本品为芸香科植物酸橙Citrus aurantium L.及其栽培变种的干燥未成熟果实。（《中国药典2015》） 分布产地 主产于四川、江西、湖南、浙江、江苏等地。四川产者称&ld",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-182.html",
+      "detailId": "182",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "fructus-aurantii-immaturus",
+    "name": "枳实",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao",
+      "chuanyao",
+      "guanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "南药",
+      "川药",
+      "关药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "AURANTII FRUCTUS IMMATURUS",
+      "family": "芸香科"
+    },
+    "originDistribution": "四川、江西、贵州",
+    "daoDiRegions": [
+      {
+        "place": "四川、江西、贵州",
+        "province": "江西"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "破气消积，化痰散痞。（《中国药典2015》）",
+    "indications": "用于积滞内停，痞满胀痛，泻痢后重，大便不通，痰滞气阻，胸痹，结胸，脏器下垂。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "枳实为芸香科植物酸橙Citrus aurantium L.及其栽培变种或甜橙Citrus sinensis (L.) Osbeck的干燥幼果。5-6月收集自落的果实，除去杂质，自中部横切为两半，晒干或低温干燥，较小者直接晒干或低温干燥。酸橙主产于四川江津称&ldquo;川枳实&rdquo;，湖南沅江称&ldquo;湘枳实&rdquo;，江西新干称&ldquo;江枳实&rdquo;；甜橙主产于四川、贵州。 来源 本品为芸香科植物酸橙Citrus aurantium L.及其栽培变种或甜橙Citrus sinensis (L.) Osbeck的干燥幼果。（《",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-173.html",
+      "detailId": "173",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "aconitum-chuanwu-prep",
+    "name": "制川乌",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "chuanyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "川药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "ACONITI RADIX COCTA",
+      "family": "毛茛科"
+    },
+    "originDistribution": "主产于四川、陕西等地",
+    "daoDiRegions": [
+      {
+        "place": "主产于四川、陕西等地",
+        "province": "四川"
+      }
+    ],
+    "efficacyClass": "祛风湿药",
+    "efficacy": "祛风除湿，温经止痛。（《中国药典2015》）",
+    "indications": "用于风寒湿痹，关节疼痛，心腹冷痛，寒疝作痛及麻醉止痛。（《中国药典2015》） 用法用量 1.5-3g，先煎、久煎。（《中国药典2015》） 用药禁忌 孕妇慎用；不宜与半夏、瓜萎、瓜蒌子、瓜蒌皮、天花粉、川贝母、浙贝母、平贝母、伊贝母、湖北贝母、白蔹、白及同用。（《中国药典2015》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "制川乌为川乌的炮制加工品。主产于四川、陕西等地。 来源 本品为川乌的炮制加工品。（《中国药典2015》） 分布产地 主产于四川、陕西等地。 入药部位 根及根茎",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-22.html",
+      "detailId": "22",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "polygonum-multiflorum-processed",
+    "name": "制何首乌",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "guiyao",
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "贵药",
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "POLYGONI MULTIFLORI RADIX PRAEPARATA",
+      "family": "蓼科"
+    },
+    "originDistribution": "河南、湖北、广西、广东、贵州、四川、江苏。",
+    "daoDiRegions": [
+      {
+        "place": "河南、湖北、广西、广东、贵州、四川、江苏。",
+        "province": "河南"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肝肾，益精血，乌须发，强筋骨，化浊降脂。（《中国药典2015》）",
+    "indications": "用于血虚萎黄，眩晕耳鸣，须发早白，腰膝酸软，肢体麻木，崩漏带下，高脂血症。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "制何首乌为何首乌的炮制加工品。主产于河南、湖北、广西、广东、贵州、四川、江苏。 来源 本品为何首乌的炮制加工品。（《中国药典2015》） 分布产地 主产于河南、湖北、广西、广东、贵州、四川、江苏。 入药部位 根及根茎",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-46.html",
+      "detailId": "46",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "arisaema-prep",
+    "name": "制天南星",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "怀药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "ARISAEMATIS RHIZOMA PREPARATUM",
+      "family": "天南星科"
+    },
+    "originDistribution": "湖北、湖南、四川",
+    "daoDiRegions": [
+      {
+        "place": "湖北、湖南、四川",
+        "province": "湖北"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "燥湿化痰，祛风止痉，散结消肿。（《中国药典2015》）",
+    "indications": "用于顽痰咳嗽，风痰眩晕，中风痰壅，口眼喎斜，半身不遂，癫痫，惊风，破伤风；外用治痈肿，蛇虫咬伤。（《中国药典2015》） 用法用量 3-9g。（《中国药典2015》） 用药禁忌 孕妇慎用。（《中国药典2015》） 贮藏保存 置通风干燥处，防霉、防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "制天南星为天南星的炮制加工品。主产于湖北、湖南、四川、贵州、河南、安徽、江苏、浙江、江西、山东等地。 来源 本品为天南星的炮制加工品。（《中国药典2015》） 分布产地 主产于湖北、湖南、四川、贵州、河南、安徽、江苏、浙江、江西、山东等地。 入药部位 根及根茎",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-120.html",
+      "detailId": "120",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "hedysarum-prep",
+    "name": "炙红芪",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "beiyao",
+      "qinyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "北药",
+      "秦药"
+    ],
+    "taxonomy": {
+      "latinName": "HEDYSARI RADIX PRAEPARATA CUM MELLE",
+      "family": "豆科"
+    },
+    "originDistribution": "甘肃岷县、岩昌、武都、临潭等地",
+    "daoDiRegions": [
+      {
+        "place": "甘肃岷县、岩昌、武都、临潭等地",
+        "province": "甘肃"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补中益气。（《中国药典2015》）",
+    "indications": "用于气虚乏力，食少便溏。（《中国药典2015》） 用法用量 9-30g。（《中国药典2015》） 贮藏保存 置通风干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "炙红芪为红芪的炮制加工品。主产于甘肃岷县、岩昌、武都、临潭等地。 来源 本品为红芪的炮制加工品。（《中国药典2015》） 分布产地 主产于甘肃岷县、岩昌、武都、临潭等地。 入药部位 根及根茎",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-47.html",
+      "detailId": "47",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "astragalus-prep-honey",
+    "name": "炙黄芪",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "beiyao",
+      "qinyao",
+      "mengyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "北药",
+      "秦药",
+      "蒙药"
+    ],
+    "taxonomy": {
+      "latinName": "ASTMGALI RADIX PRAEPARATA CUM MELLE",
+      "family": "豆科"
+    },
+    "originDistribution": "山西、黑龙江、内蒙古、吉林、河北等地",
+    "daoDiRegions": [
+      {
+        "place": "山西、黑龙江、内蒙古、吉林、河北等地",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "益气补中。（《中国药典2015》）",
+    "indications": "用于气虚乏力，食少便溏。（《中国药典2015》） 用法用量 9-30g。（《中国药典2015》） 贮藏保存 置通风干燥处，防潮，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "炙黄芪为黄芪的炮制加工品。主产于山西、黑龙江、内蒙古、吉林、河北等地。 来源 本品为黄芪的炮制加工品。（《中国药典2015》） 分布产地 主产于山西、黑龙江、内蒙古、吉林、河北等地。 入药部位 根及根茎",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-41.html",
+      "detailId": "41",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "paris-polyphylla",
+    "name": "重楼",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "nanyao",
+      "yunyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "南药",
+      "云药"
+    ],
+    "taxonomy": {
+      "latinName": "PARIDIS RHIZOMA",
+      "family": "百合科"
+    },
+    "originDistribution": "云南、四川、贵州、广西等地",
+    "daoDiRegions": [
+      {
+        "place": "云南、四川、贵州、广西等地",
+        "province": "广西"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热解毒，消肿止痛，凉肝定惊。（《中国药典2015》）",
+    "indications": "用于疔疮痈肿，咽喉肿痛，毒蛇咬伤，跌扑伤痛，惊风抽搐。（《中国药典2015》） 用法用量 3-9g。外用适量，研末调敷。（《中国药典2015》） 贮藏保存 置阴凉干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "重楼为百合科植物云南重楼Paris polyphylla Sm. var. yunnanensis (Franch.) Hand.-Mzt.或七叶一枝花Paris polyphylla Sm. var chinensis (Franch.) Hara的干燥根茎。秋季采挖，除去须根，洗净，晒干。云南重楼主产于云南、四川、贵州、广西等地。华重楼主产于江苏、浙江、安徽、江西、湖北、湖南、广东、广西、福建、贵州等地。 来源 本品为百合科植物云南重楼Paris polyphylla Sm. var. yunnanensis (Franch.) Hand.-Mzt.",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-189.html",
+      "detailId": "189",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cinnabar",
+    "name": "朱砂",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "nanyao",
+      "guiyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "南药",
+      "贵药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "CINNABARIS",
+      "family": "其它科"
+    },
+    "originDistribution": "贵州、湖南、四川等地",
+    "daoDiRegions": [
+      {
+        "place": "贵州、湖南、四川等地",
+        "province": "湖南"
+      }
+    ],
+    "efficacyClass": "安神药",
+    "efficacy": "清心镇惊，安神，明目，解毒。（《中国药典2015》）",
+    "indications": "用于心悸易惊，失眠多梦，癫痫发狂，小儿惊风，视物昏花，口疮，喉痹，疮疡肿毒。（《中国药典2015》） 用法用量 0.1-0.5g，多入丸散服，不宜入煎剂。外用适量。（《中国药典2015》） 用药禁忌 本品有毒，不宜大量服用，也不宜少量久服；孕妇及肝肾功能不全者禁用。（《中国药典2015》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "朱砂为硫化物类矿物辰砂族辰砂，主含硫化汞（HgS）。采挖后，选取纯净者，用磁铁吸净含铁的杂质，再用水淘去杂石和泥沙。主产贵州、湖南、四川等地。 来源 本品为硫化物类矿物辰砂族辰砂，主含硫化汞（HgS）。（《中国药典2015》） 分布产地 主产贵州、湖南、四川等地。 入药部位 矿物 采收加工 采挖后，选取纯净者，用磁铁吸净含铁的杂质，再用水淘去杂石和泥沙。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-185.html",
+      "detailId": "185",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "adenophora-triphylla",
+    "name": "珠子参",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "PANACIS MAJORIS RHIZOMA",
+      "family": "五加科"
+    },
+    "originDistribution": "云南",
+    "daoDiRegions": [
+      {
+        "place": "云南",
+        "province": "云南"
+      }
+    ],
+    "efficacyClass": "补虚药",
+    "efficacy": "补肺养阴，祛瘀止痛，止血（《中国药典2015》）",
+    "indications": "用于气阴两虚，烦热口渴，虚劳咳嗽，跌扑损伤，关节痹痛，咳血，吐血，衄血，崩漏，外伤出血。（《中国药典2015》） 用法用量 3-9g。外用适量，研末敷患处。（《中国药典2015》） 用药禁忌 孕妇禁服。（《中药大辞典》） 贮藏保存 置干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "珠子参为五加科植物珠子参Panax japonicus C. A. Mey. var. maior (Burkill) C. Y. Wu &amp; K. M. Feng或羽叶三七Panax japonicus C. A. Mey. var. bipinnatifidus (Seem.) C. Y. Wu &amp; K. M. Feng的干燥根茎。秋季采挖，除去粗皮和须根，干燥；或蒸（煮）透后干燥。珠子参主产于云南。羽叶三七主产于四川、云南、陕西等地。 来源 本品为五加科植物珠子参Panax japonicus C. A. Mey. var. maio",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-67.html",
+      "detailId": "67",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "polyporus-umbellatus",
+    "name": "猪苓",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "yunyao",
+      "qinyao",
+      "guanyao"
+    ],
+    "daoDiSystems": [
+      "云药",
+      "秦药",
+      "关药"
+    ],
+    "taxonomy": {
+      "latinName": "POLYPORUS",
+      "family": "多孔菌科"
+    },
+    "originDistribution": "陕西、云南",
+    "daoDiRegions": [
+      {
+        "place": "陕西、云南",
+        "province": "云南"
+      }
+    ],
+    "efficacyClass": "利水渗湿药",
+    "efficacy": "利水渗湿。（《中国药典2015》）",
+    "indications": "用于小便不利，水肿，泄泻，淋浊，带下。（《中国药典2015》） 用法用量 6-12g。（《中国药典2015》） 用药禁忌 无水湿者禁用，以免伤阴。（《中药大辞典》） 贮藏保存 置通风干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "猪苓为多孔菌科真菌猪苓Polyporus umbellatus（Pers.）Fries的干燥菌核。春、秋二季采挖，除去泥沙，干燥。主产于陕西、云南。 来源 本品为多孔菌科真菌猪苓Polyporus umbellatus（Pers.）Fries的干燥菌核。（《中国药典2015》） 分布产地 主产于陕西、云南。 入药部位 藻、菌、地衣 采收加工 春、秋二季采挖，除去泥沙，干燥。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-232.html",
+      "detailId": "232",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "cumin",
+    "name": "孜然",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guanyao",
+      "huaiyao-huai",
+      "weiyao"
+    ],
+    "daoDiSystems": [
+      "关药",
+      "淮药",
+      "维药"
+    ],
+    "taxonomy": {
+      "latinName": "产区分布：新疆",
+      "family": "伞形科"
+    },
+    "originDistribution": "新疆",
+    "daoDiRegions": [
+      {
+        "place": "新疆",
+        "province": "新疆"
+      }
+    ],
+    "efficacyClass": "温里药",
+    "efficacy": "散寒止痛，理气调中。（《中药大辞典》） 散寒止痛，理气调中。（《安徽省中药饮片炮制规范2005版》）",
+    "indications": "主治脘腹冷痛，消化不良，寒疝坠痛，月经不调。（《中药大辞典》） 用于脘腹冷痛，消化不良，寒山坠痛，月经不调。（《安徽省中药饮片炮制规范2005版》） 用法用量 内服：煎汤，3-9g；或研末。外用：研末调敷。（《中药大辞典》） 3-9g，或研末；外用适量，研末调敷。（《安徽省中药饮片炮制规范2005版》） 用药禁忌 阴虚火旺者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防蛀。（《安徽省中药饮片",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "孜然为伞形科植物孜然芹Cuminum cyminum L.的果实。5月果熟时采收，晒干。产新疆。 来源 本品为伞形科植物孜然芹Cuminum cyminum L.的果实。（《中药大辞典》） 本品为伞形科植物孜然芹Cuminum cyminum L.的干燥成熟果实。（《安徽省中药饮片炮制规范2005版》） 分布产地 产新疆。 入药部位 果实及种子 采收加工 5月果熟时采收，晒干。（《中药大辞典》） 5月果实成熟时采收植株，干燥，打下果实，除去杂质。（《安徽省中药饮片炮制规范2005版》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-66.html",
+      "detailId": "66",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "lithospermum-erythrorhizon",
+    "name": "紫草",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "weiyao",
+      "guanyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "维药",
+      "关药",
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "ARNEBIAE RADIX",
+      "family": "紫草科"
+    },
+    "originDistribution": "新疆、内蒙、甘肃等地",
+    "daoDiRegions": [
+      {
+        "place": "新疆、内蒙、甘肃等地",
+        "province": "甘肃"
+      }
+    ],
+    "efficacyClass": "清热药",
+    "efficacy": "清热凉血，活血解毒，透疹消斑。（《中国药典2015》）",
+    "indications": "用于血热毒盛，斑疹紫黑，麻疹不透，疮疡，湿疹，水火烫伤。（《中国药典2015》） 用法用量 5-10g。外用适量，熬膏或用植物油浸泡涂擦。（《中国药典2015》） 用药禁忌 胃肠虚弱、大便溏泄者禁服。（《中药大辞典》） 贮藏保存 置干燥处。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "紫草为紫草科植物新疆紫草Arnebia euchroma (Royle) Johnst.或内蒙紫草Arnebia guttata Bge.的干燥根。春、秋二季采挖，除去泥沙，干燥。新疆紫草产于新疆，产量大；内蒙紫草产于内蒙古、甘肃等地。 来源 本品为紫草科植物新疆紫草Arnebia euchroma (Royle) Johnst.或内蒙紫草Arnebia guttata Bge.的干燥根。（《中国药典2015》） 分布产地 新疆紫草产于新疆，产量大；内蒙紫草产于内蒙古、甘肃等地。 入药部位 根及根茎 采收加工 春、秋二季采挖，除去泥沙，干燥。（《中国药典",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-39.html",
+      "detailId": "39",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "perilla-seed",
+    "name": "紫苏子",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "淮药"
+    ],
+    "taxonomy": {
+      "latinName": "PERILLAE FRUCTUS",
+      "family": "唇形科"
+    },
+    "originDistribution": "湖北、河南、山东、江西、浙江、四川、河北、黑龙江等地",
+    "daoDiRegions": [
+      {
+        "place": "黑龙江紫苏子",
+        "province": "黑龙江"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "降气化痰，止咳平喘，润肠通便。（《中国药典2015》）",
+    "indications": "用于痰壅气逆，咳嗽气喘，肠燥便秘。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 肺虚咳喘，脾虚便溏者禁服。（《中药大辞典》） 贮藏保存 置通风干燥处，防蛀。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "紫苏子为唇形科植物紫苏Perilla frutescens (L.) Britt.的干燥成熟果实。秋季果实成熟时采收，除去杂质，晒干。主产于湖北、河南、山东、江西、浙江、四川、河北、黑龙江等地，以湖北产量较大。 来源 本品为唇形科植物紫苏Perilla frutescens (L.) Britt.的干燥成熟果实。（《中国药典2015》） 分布产地 主产于湖北、河南、山东、江西、浙江、四川、河北、黑龙江等地，以湖北产量较大。 入药部位 果实及种子 采收加工 秋季果实成熟时采收，除去杂质，晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-322.html",
+      "detailId": "322",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "aster-tataricus",
+    "name": "紫菀",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "beiyao"
+    ],
+    "daoDiSystems": [
+      "北药"
+    ],
+    "taxonomy": {
+      "latinName": "RADIX ET RHIZOMA ASTERIS",
+      "family": "菊科"
+    },
+    "originDistribution": "河北安国及安徽亳县、涡阳",
+    "daoDiRegions": [
+      {
+        "place": "河北安国及安徽亳县、涡阳",
+        "province": "河北"
+      }
+    ],
+    "efficacyClass": "化痰止咳平喘药",
+    "efficacy": "润肺下气，消痰止咳。（《中国药典2015》）",
+    "indications": "用于痰多喘咳，新久咳嗽，劳嗽咳血。（《中国药典2015》） 用法用量 5-10g。（《中国药典2015》） 用药禁忌 有实热者慎服。（《中华本草》） 贮藏保存 置阴凉干燥处，防潮。（《中国药典2015》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "紫菀为菊科植物紫菀Aster tataricus L. f.的干燥根及根茎。春、秋二季采挖，除去有节的根茎（习称&ldquo;母根&rdquo;）和泥沙，编成辫状晒干，或直接晒干。主产于河北安国及安徽亳县、涡阳。 来源 本品为菊科植物紫菀Aster tataricus L. f.的干燥根和根茎。（《中国药典2015》） 分布产地 主产于河北安国及安徽亳县、涡阳。 入药部位 根及根茎 采收加工 春、秋二季采挖，除去有节的根茎（习称&ldquo;母根&rdquo;）和泥沙，编成辫状晒干，或直接晒干。（《中国药典2015》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-97.html",
+      "detailId": "97",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  }
+];

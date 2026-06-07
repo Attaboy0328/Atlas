@@ -67,6 +67,15 @@ if (fs.existsSync(catalogManifest)) {
   info.push("food-medicine-catalog.json not yet created");
 }
 
+const daoDiSystemsPath = path.join(root, "data/tcm/dao-di-systems.json");
+const daoDiProfilesPath = path.join(root, "data/tcm/dao-di-herb-profiles.json");
+if (fs.existsSync(daoDiSystemsPath) && fs.existsSync(daoDiProfilesPath)) {
+  const systems = JSON.parse(fs.readFileSync(daoDiSystemsPath, "utf8"));
+  const profiles = JSON.parse(fs.readFileSync(daoDiProfilesPath, "utf8"));
+  const linked = profiles.filter((row) => row.linkStatus !== "site-only").length;
+  info.push(`dao-di systems: ${systems.length}, herb profiles: ${profiles.length} (catalog-linked ${linked})`);
+}
+
 // Bulk template ratio
 const bulk = readGenerated("recipes-bulk.js");
 const bulkTotal = (bulk.match(/"id"\s*:/g) || []).length;

@@ -28,18 +28,28 @@ npm run build:data
 
 也可将外部整理 JSON 放入 `data/raw/origin/incoming/` 后执行 `npm run materialize:origin`。
 
-## 2. 道地产区
+## 2. 道地药材体系（十五产区）
 
-**文件：** `data/tcm/dao-di-regions.json`
+**来源：** [道地药材网](http://www.chinadaodiyaocai.com) 公开条目（移动端整理，非全文镜像）
 
-| 字段 | 说明 |
+**文件：**
+
+| 文件 | 说明 |
 |------|------|
-| `canonicalId` | 与 catalog / 药典 id 对齐（如 `poria-cocos`、`yam`） |
-| `name` | 药材正名 |
-| `daoDiRegions` | `{ place, province, county? }` 数组 |
-| `sources` | 文献依据 |
+| `data/tcm/dao-di-systems.json` | 关药/川药/怀药等 15 体系定义与代表药材 id |
+| `data/tcm/dao-di-herb-profiles.json` | 单味药材道地摘要（体系、产区、科属、概述） |
+| `data/tcm/dao-di-regions.json` | 产区点位与体系合并表 |
+| `data/raw/tcm/chinadaodiyaocai/` | 原始抓取缓存 |
 
-构建后输出 `generated/dao-di-regions.js`，前端按 `resolveFoodId(canonicalId)` 匹配道地 badge。
+**流程：**
+
+```bash
+npm run fetch:daodi    # 可选：重新抓取网站
+npm run ingest:daodi   # 对齐 canonicalId 并写入 data/tcm
+npm run build:data
+```
+
+构建输出 `generated/dao-di-systems.js`、`generated/dao-di-herb-profiles.js`、`generated/dao-di-regions.js`；前端食材库可按「道地药材体系」筛选。
 
 ## 3. 季节 / 河鲜搜词
 

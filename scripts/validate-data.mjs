@@ -257,6 +257,21 @@ if (!fs.existsSync(path.join(root, "generated", "dao-di-regions.js"))) {
   errors.push("Missing generated/dao-di-regions.js — run npm run build:data");
 }
 
+const daoDiSystems = readJson("data/tcm/dao-di-systems.json");
+const daoDiProfiles = readJson("data/tcm/dao-di-herb-profiles.json");
+if (!daoDiSystems?.length) {
+  warnings.push("Missing or empty data/tcm/dao-di-systems.json — run npm run ingest:daodi");
+}
+if (!daoDiProfiles?.length) {
+  warnings.push("Missing or empty data/tcm/dao-di-herb-profiles.json — run npm run ingest:daodi");
+}
+if (!fs.existsSync(path.join(root, "generated", "dao-di-systems.js"))) {
+  errors.push("Missing generated/dao-di-systems.js — run npm run build:data");
+}
+if (!fs.existsSync(path.join(root, "generated", "dao-di-herb-profiles.js"))) {
+  errors.push("Missing generated/dao-di-herb-profiles.js — run npm run build:data");
+}
+
 console.log("=== Atlas validate-data ===");
 console.log(`Food ids: expanded ${expandedIds.size}, cn bundle ${cnIds.size}, tcm ${tcmIds.size}, runtime ${runtimeIds.size}, total ${allFoodIds.size}`);
 console.log(`Food id aliases: ${Object.keys(aliasMap).length}`);
