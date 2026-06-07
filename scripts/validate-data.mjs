@@ -13,8 +13,10 @@ const root = path.join(__dirname, "..");
 const expanded = fs.readFileSync(path.join(root, "foods-expanded.js"), "utf8");
 const cnBundlePath = path.join(root, "generated", "foods-cn-bundle.js");
 const bulkPath = path.join(root, "generated", "recipes-bulk.js");
+const pairingExtraPath = path.join(root, "generated", "pairing-rules-extra.js");
 const cnBundle = fs.existsSync(cnBundlePath) ? fs.readFileSync(cnBundlePath, "utf8") : "";
 const bulkRecipes = fs.existsSync(bulkPath) ? fs.readFileSync(bulkPath, "utf8") : "";
+const pairingExtra = fs.existsSync(pairingExtraPath) ? fs.readFileSync(pairingExtraPath, "utf8") : "";
 const app = fs.readFileSync(path.join(root, "app.js"), "utf8");
 
 const errors = [];
@@ -94,7 +96,7 @@ function collectPairingIds(source) {
   return ids;
 }
 
-const pairingIds = collectPairingIds(app);
+const pairingIds = collectPairingIds([app, pairingExtra].filter(Boolean).join("\n"));
 const missingPairing = [...pairingIds].filter((id) => !allFoodIds.has(id));
 if (missingPairing.length) {
   errors.push(`Pairing rule ids missing from food catalog: ${missingPairing.join(", ")}`);

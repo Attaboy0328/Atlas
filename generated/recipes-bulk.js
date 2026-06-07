@@ -18,9 +18,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5c71\\u836f、\\u83b2\\u5b50分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5c71\\u836f、\\u83b2\\u5b50分别处理干净。",
+      "将\\u5c71\\u836f、\\u83b2\\u5b50与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -30,7 +30,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-002",
@@ -50,9 +51,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u94f6\\u8033、\\u767e\\u5408分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u94f6\\u8033、\\u767e\\u5408分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -62,7 +63,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-003",
@@ -82,9 +84,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u751f\\u59dc、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按温脾助运思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u751f\\u59dc、\\u7ea2\\u67a3分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -94,7 +96,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-004",
@@ -114,9 +117,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9648\\u76ae、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按养阴和胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9648\\u76ae、\\u5927\\u7c73洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -126,7 +129,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-005",
@@ -147,7 +151,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u832f\\u82d3、\\u5c0f\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -158,7 +162,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-006",
@@ -178,9 +183,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -190,7 +195,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-007",
@@ -211,7 +217,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u83b2\\u85d5、\\u732a\\u8089分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -222,7 +228,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-008",
@@ -243,7 +250,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u5c71\\u6942、\\u9ea6\\u82bd分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -254,7 +261,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-009",
@@ -274,9 +282,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u68a8、\\u94f6\\u8033分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u68a8、\\u94f6\\u8033洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -286,7 +294,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-010",
@@ -306,9 +315,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u725b\\u8089、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u725b\\u8089、\\u5c71\\u836f分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -318,7 +327,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-011",
@@ -338,9 +348,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5357\\u74dc、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5357\\u74dc、\\u5927\\u7c73分别处理干净。",
+      "将\\u5357\\u74dc、\\u5927\\u7c73与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -350,7 +360,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-012",
@@ -370,9 +381,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按养阴清润思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按养阴清润思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“阴虚内热”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -382,7 +393,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-013",
@@ -402,9 +414,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8584\\u8377、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按温补助阳思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8584\\u8377、\\u68a8分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温补助阳思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“肾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -414,7 +426,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-014",
@@ -434,9 +447,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u4f5b\\u624b、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按养血和中思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u4f5b\\u624b、\\u68a8洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“血虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -446,7 +459,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-015",
@@ -466,9 +480,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u858f\\u7c73、\\u832f\\u82d3分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u858f\\u7c73、\\u832f\\u82d3分别处理干净。",
+      "将\\u858f\\u7c73、\\u832f\\u82d3与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -478,7 +492,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-016",
@@ -498,9 +513,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83b2\\u5b50、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83b2\\u5b50、\\u7ea2\\u67a3分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -510,7 +525,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-017",
@@ -530,9 +546,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8c46\\u8150、\\u83b2\\u85d5分别洗净处理。",
-      "加水同煮或同炖，按温脾助运思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8c46\\u8150、\\u83b2\\u85d5分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -542,7 +558,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-018",
@@ -562,9 +579,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u82f9\\u679c、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按养阴和胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u82f9\\u679c、\\u5c71\\u836f洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -574,7 +591,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-019",
@@ -595,7 +613,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u7f8a\\u8089、\\u751f\\u59dc分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -606,7 +624,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-020",
@@ -626,9 +645,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -638,7 +657,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-021",
@@ -659,7 +679,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u5c71\\u836f、\\u83b2\\u5b50分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -670,7 +690,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-022",
@@ -691,7 +712,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u94f6\\u8033、\\u767e\\u5408分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -702,7 +723,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-023",
@@ -722,9 +744,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u751f\\u59dc、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u751f\\u59dc、\\u7ea2\\u67a3洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -734,7 +756,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-024",
@@ -754,9 +777,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9648\\u76ae、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9648\\u76ae、\\u5927\\u7c73分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -766,7 +789,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-025",
@@ -786,9 +810,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u832f\\u82d3、\\u5c0f\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u832f\\u82d3、\\u5c0f\\u7c73分别处理干净。",
+      "将\\u832f\\u82d3、\\u5c0f\\u7c73与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -798,7 +822,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-026",
@@ -818,9 +843,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净处理。",
-      "加水同煮或同炖，按养阴清润思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按养阴清润思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“阴虚内热”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -830,7 +855,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-027",
@@ -850,9 +876,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83b2\\u85d5、\\u732a\\u8089分别洗净处理。",
-      "加水同煮或同炖，按温补助阳思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83b2\\u85d5、\\u732a\\u8089分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温补助阳思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“肾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -862,7 +888,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-028",
@@ -882,9 +909,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5c71\\u6942、\\u9ea6\\u82bd分别洗净处理。",
-      "加水同煮或同炖，按养血和中思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5c71\\u6942、\\u9ea6\\u82bd洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“血虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -894,7 +921,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-029",
@@ -914,9 +942,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u68a8、\\u94f6\\u8033分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u68a8、\\u94f6\\u8033分别处理干净。",
+      "将\\u68a8、\\u94f6\\u8033与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -926,7 +954,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-030",
@@ -946,9 +975,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u725b\\u8089、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u725b\\u8089、\\u5c71\\u836f分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -958,7 +987,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-031",
@@ -978,9 +1008,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5357\\u74dc、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按温脾助运思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5357\\u74dc、\\u5927\\u7c73分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -990,7 +1020,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-032",
@@ -1010,9 +1041,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按养阴和胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u515a\\u53c2、\\u7ea2\\u67a3洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1022,7 +1053,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-033",
@@ -1043,7 +1075,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u8584\\u8377、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -1054,7 +1086,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-034",
@@ -1074,9 +1107,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u4f5b\\u624b、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u4f5b\\u624b、\\u68a8分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1086,7 +1119,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-035",
@@ -1107,7 +1141,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u858f\\u7c73、\\u832f\\u82d3分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -1118,7 +1152,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-036",
@@ -1139,7 +1174,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u83b2\\u5b50、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -1150,7 +1185,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-037",
@@ -1170,9 +1206,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8c46\\u8150、\\u83b2\\u85d5分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8c46\\u8150、\\u83b2\\u85d5洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1182,7 +1218,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-038",
@@ -1202,9 +1239,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u82f9\\u679c、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u82f9\\u679c、\\u5c71\\u836f分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1214,7 +1251,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-039",
@@ -1234,9 +1272,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u7f8a\\u8089、\\u751f\\u59dc分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u7f8a\\u8089、\\u751f\\u59dc分别处理干净。",
+      "将\\u7f8a\\u8089、\\u751f\\u59dc与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1246,7 +1284,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-040",
@@ -1266,9 +1305,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净处理。",
-      "加水同煮或同炖，按养阴清润思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按养阴清润思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“阴虚内热”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1278,7 +1317,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-041",
@@ -1298,9 +1338,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5c71\\u836f、\\u83b2\\u5b50分别洗净处理。",
-      "加水同煮或同炖，按温补助阳思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5c71\\u836f、\\u83b2\\u5b50分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温补助阳思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“肾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1310,7 +1350,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-042",
@@ -1330,9 +1371,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u94f6\\u8033、\\u767e\\u5408分别洗净处理。",
-      "加水同煮或同炖，按养血和中思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u94f6\\u8033、\\u767e\\u5408洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“血虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1342,7 +1383,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-043",
@@ -1362,9 +1404,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u751f\\u59dc、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u751f\\u59dc、\\u7ea2\\u67a3分别处理干净。",
+      "将\\u751f\\u59dc、\\u7ea2\\u67a3与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1374,7 +1416,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-044",
@@ -1394,9 +1437,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9648\\u76ae、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9648\\u76ae、\\u5927\\u7c73分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1406,7 +1449,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-045",
@@ -1426,9 +1470,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u832f\\u82d3、\\u5c0f\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按温脾助运思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u832f\\u82d3、\\u5c0f\\u7c73分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1438,7 +1482,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-046",
@@ -1458,9 +1503,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净处理。",
-      "加水同煮或同炖，按养阴和胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9ec4\\u82aa、\\u9e21\\u8089洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1470,7 +1515,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-047",
@@ -1491,7 +1537,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u83b2\\u85d5、\\u732a\\u8089分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -1502,7 +1548,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-048",
@@ -1522,9 +1569,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5c71\\u6942、\\u9ea6\\u82bd分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5c71\\u6942、\\u9ea6\\u82bd分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1534,7 +1581,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-049",
@@ -1555,7 +1603,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u68a8、\\u94f6\\u8033分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -1566,7 +1614,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-050",
@@ -1587,7 +1636,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u725b\\u8089、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -1598,7 +1647,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-051",
@@ -1618,9 +1668,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5357\\u74dc、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5357\\u74dc、\\u5927\\u7c73洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1630,7 +1680,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-052",
@@ -1650,9 +1701,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u515a\\u53c2、\\u7ea2\\u67a3分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1662,7 +1713,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-053",
@@ -1682,9 +1734,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8584\\u8377、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8584\\u8377、\\u68a8分别处理干净。",
+      "将\\u8584\\u8377、\\u68a8与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1694,7 +1746,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-054",
@@ -1714,9 +1767,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u4f5b\\u624b、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按养阴清润思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u4f5b\\u624b、\\u68a8分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按养阴清润思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“阴虚内热”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1726,7 +1779,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-055",
@@ -1746,9 +1800,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u858f\\u7c73、\\u832f\\u82d3分别洗净处理。",
-      "加水同煮或同炖，按温补助阳思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u858f\\u7c73、\\u832f\\u82d3分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温补助阳思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“肾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1758,7 +1812,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-056",
@@ -1778,9 +1833,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83b2\\u5b50、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按养血和中思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83b2\\u5b50、\\u7ea2\\u67a3洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“血虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1790,7 +1845,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-057",
@@ -1810,9 +1866,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8c46\\u8150、\\u83b2\\u85d5分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8c46\\u8150、\\u83b2\\u85d5分别处理干净。",
+      "将\\u8c46\\u8150、\\u83b2\\u85d5与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1822,7 +1878,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-058",
@@ -1842,9 +1899,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u82f9\\u679c、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u82f9\\u679c、\\u5c71\\u836f分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1854,7 +1911,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-059",
@@ -1874,9 +1932,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u7f8a\\u8089、\\u751f\\u59dc分别洗净处理。",
-      "加水同煮或同炖，按温脾助运思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u7f8a\\u8089、\\u751f\\u59dc分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1886,7 +1944,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-060",
@@ -1906,9 +1965,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净处理。",
-      "加水同煮或同炖，按养阴和胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1918,7 +1977,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-061",
@@ -1939,7 +1999,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u5c71\\u836f、\\u83b2\\u5b50分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -1950,7 +2010,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-062",
@@ -1970,9 +2031,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u94f6\\u8033、\\u767e\\u5408分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u94f6\\u8033、\\u767e\\u5408分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -1982,7 +2043,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-063",
@@ -2003,7 +2065,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u751f\\u59dc、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -2014,7 +2076,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-064",
@@ -2035,7 +2098,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u9648\\u76ae、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -2046,7 +2109,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-065",
@@ -2066,9 +2130,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u832f\\u82d3、\\u5c0f\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u832f\\u82d3、\\u5c0f\\u7c73洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2078,7 +2142,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-066",
@@ -2098,9 +2163,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9ec4\\u82aa、\\u9e21\\u8089分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2110,7 +2175,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-067",
@@ -2130,9 +2196,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83b2\\u85d5、\\u732a\\u8089分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83b2\\u85d5、\\u732a\\u8089分别处理干净。",
+      "将\\u83b2\\u85d5、\\u732a\\u8089与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2142,7 +2208,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-068",
@@ -2162,9 +2229,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5c71\\u6942、\\u9ea6\\u82bd分别洗净处理。",
-      "加水同煮或同炖，按养阴清润思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5c71\\u6942、\\u9ea6\\u82bd分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按养阴清润思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“阴虚内热”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2174,7 +2241,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-069",
@@ -2194,9 +2262,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u68a8、\\u94f6\\u8033分别洗净处理。",
-      "加水同煮或同炖，按温补助阳思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u68a8、\\u94f6\\u8033分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温补助阳思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“肾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2206,7 +2274,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-070",
@@ -2226,9 +2295,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u725b\\u8089、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按养血和中思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u725b\\u8089、\\u5c71\\u836f洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“血虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2238,7 +2307,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-071",
@@ -2258,9 +2328,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5357\\u74dc、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5357\\u74dc、\\u5927\\u7c73分别处理干净。",
+      "将\\u5357\\u74dc、\\u5927\\u7c73与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2270,7 +2340,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-072",
@@ -2290,9 +2361,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2302,7 +2373,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-073",
@@ -2322,9 +2394,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8584\\u8377、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按温脾助运思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8584\\u8377、\\u68a8分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2334,7 +2406,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-075",
@@ -2355,7 +2428,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u858f\\u7c73、\\u832f\\u82d3分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -2366,7 +2439,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-076",
@@ -2386,9 +2460,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83b2\\u5b50、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83b2\\u5b50、\\u7ea2\\u67a3分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2398,7 +2472,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-077",
@@ -2419,7 +2494,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u8c46\\u8150、\\u83b2\\u85d5分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -2430,7 +2505,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-078",
@@ -2451,7 +2527,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u82f9\\u679c、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -2462,7 +2538,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-079",
@@ -2482,9 +2559,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u7f8a\\u8089、\\u751f\\u59dc分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u7f8a\\u8089、\\u751f\\u59dc洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2494,7 +2571,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-080",
@@ -2514,9 +2592,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2526,7 +2604,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-081",
@@ -2546,9 +2625,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5c71\\u836f、\\u83b2\\u5b50分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5c71\\u836f、\\u83b2\\u5b50分别处理干净。",
+      "将\\u5c71\\u836f、\\u83b2\\u5b50与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2558,7 +2637,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-082",
@@ -2578,9 +2658,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u94f6\\u8033、\\u767e\\u5408分别洗净处理。",
-      "加水同煮或同炖，按养阴清润思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u94f6\\u8033、\\u767e\\u5408分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按养阴清润思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“阴虚内热”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2590,7 +2670,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-083",
@@ -2610,9 +2691,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u751f\\u59dc、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按温补助阳思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u751f\\u59dc、\\u7ea2\\u67a3分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温补助阳思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“肾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2622,7 +2703,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-084",
@@ -2642,9 +2724,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9648\\u76ae、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按养血和中思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9648\\u76ae、\\u5927\\u7c73洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“血虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2654,7 +2736,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-085",
@@ -2674,9 +2757,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u832f\\u82d3、\\u5c0f\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u832f\\u82d3、\\u5c0f\\u7c73分别处理干净。",
+      "将\\u832f\\u82d3、\\u5c0f\\u7c73与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2686,7 +2769,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-086",
@@ -2706,9 +2790,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2718,7 +2802,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-087",
@@ -2738,9 +2823,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83b2\\u85d5、\\u732a\\u8089分别洗净处理。",
-      "加水同煮或同炖，按温脾助运思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83b2\\u85d5、\\u732a\\u8089分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2750,7 +2835,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-089",
@@ -2771,7 +2857,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u68a8、\\u94f6\\u8033分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -2782,7 +2868,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-090",
@@ -2802,9 +2889,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u725b\\u8089、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u725b\\u8089、\\u5c71\\u836f分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2814,7 +2901,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-091",
@@ -2835,7 +2923,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u5357\\u74dc、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -2846,7 +2934,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-092",
@@ -2867,7 +2956,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -2878,7 +2967,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-093",
@@ -2898,9 +2988,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8584\\u8377、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8584\\u8377、\\u68a8洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2910,7 +3000,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-094",
@@ -2930,9 +3021,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u4f5b\\u624b、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u4f5b\\u624b、\\u68a8分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2942,7 +3033,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-095",
@@ -2962,9 +3054,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u858f\\u7c73、\\u832f\\u82d3分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u858f\\u7c73、\\u832f\\u82d3分别处理干净。",
+      "将\\u858f\\u7c73、\\u832f\\u82d3与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -2974,7 +3066,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-096",
@@ -2994,9 +3087,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83b2\\u5b50、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按养阴清润思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83b2\\u5b50、\\u7ea2\\u67a3分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按养阴清润思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“阴虚内热”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3006,7 +3099,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-097",
@@ -3026,9 +3120,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8c46\\u8150、\\u83b2\\u85d5分别洗净处理。",
-      "加水同煮或同炖，按温补助阳思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8c46\\u8150、\\u83b2\\u85d5分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温补助阳思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“肾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3038,7 +3132,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-098",
@@ -3058,9 +3153,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u82f9\\u679c、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按养血和中思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u82f9\\u679c、\\u5c71\\u836f洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“血虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3070,7 +3165,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-099",
@@ -3090,9 +3186,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u7f8a\\u8089、\\u751f\\u59dc分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u7f8a\\u8089、\\u751f\\u59dc分别处理干净。",
+      "将\\u7f8a\\u8089、\\u751f\\u59dc与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3102,7 +3198,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-100",
@@ -3122,9 +3219,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3134,7 +3231,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-102",
@@ -3154,9 +3252,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u94f6\\u8033、\\u767e\\u5408分别洗净处理。",
-      "加水同煮或同炖，按养阴和胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u94f6\\u8033、\\u767e\\u5408洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3166,7 +3264,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-103",
@@ -3187,7 +3286,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u751f\\u59dc、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -3198,7 +3297,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-104",
@@ -3218,9 +3318,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9648\\u76ae、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9648\\u76ae、\\u5927\\u7c73分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3230,7 +3330,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-105",
@@ -3251,7 +3352,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u832f\\u82d3、\\u5c0f\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -3262,7 +3363,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-106",
@@ -3283,7 +3385,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -3294,7 +3396,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-107",
@@ -3314,9 +3417,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83b2\\u85d5、\\u732a\\u8089分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83b2\\u85d5、\\u732a\\u8089洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3326,7 +3429,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-108",
@@ -3346,9 +3450,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5c71\\u6942、\\u9ea6\\u82bd分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5c71\\u6942、\\u9ea6\\u82bd分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3358,7 +3462,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-109",
@@ -3378,9 +3483,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u68a8、\\u94f6\\u8033分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u68a8、\\u94f6\\u8033分别处理干净。",
+      "将\\u68a8、\\u94f6\\u8033与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3390,7 +3495,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-110",
@@ -3410,9 +3516,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u725b\\u8089、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按养阴清润思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u725b\\u8089、\\u5c71\\u836f分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按养阴清润思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“阴虚内热”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3422,7 +3528,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-111",
@@ -3442,9 +3549,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5357\\u74dc、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按温补助阳思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5357\\u74dc、\\u5927\\u7c73分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温补助阳思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“肾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3454,7 +3561,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-112",
@@ -3474,9 +3582,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按养血和中思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u515a\\u53c2、\\u7ea2\\u67a3洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“血虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3486,7 +3594,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-113",
@@ -3506,9 +3615,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8584\\u8377、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8584\\u8377、\\u68a8分别处理干净。",
+      "将\\u8584\\u8377、\\u68a8与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3518,7 +3627,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-114",
@@ -3538,9 +3648,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u4f5b\\u624b、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u4f5b\\u624b、\\u68a8分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3550,7 +3660,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-115",
@@ -3570,9 +3681,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u858f\\u7c73、\\u832f\\u82d3分别洗净处理。",
-      "加水同煮或同炖，按温脾助运思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u858f\\u7c73、\\u832f\\u82d3分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3582,7 +3693,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-116",
@@ -3602,9 +3714,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83b2\\u5b50、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按养阴和胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83b2\\u5b50、\\u7ea2\\u67a3洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3614,7 +3726,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-117",
@@ -3635,7 +3748,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u8c46\\u8150、\\u83b2\\u85d5分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -3646,7 +3759,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-118",
@@ -3666,9 +3780,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u82f9\\u679c、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u82f9\\u679c、\\u5c71\\u836f分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3678,7 +3792,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-119",
@@ -3699,7 +3814,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u7f8a\\u8089、\\u751f\\u59dc分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -3710,7 +3825,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-120",
@@ -3731,7 +3847,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -3742,7 +3858,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-121",
@@ -3762,9 +3879,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5c71\\u836f、\\u83b2\\u5b50分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5c71\\u836f、\\u83b2\\u5b50洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3774,7 +3891,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-122",
@@ -3794,9 +3912,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u94f6\\u8033、\\u767e\\u5408分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u94f6\\u8033、\\u767e\\u5408分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3806,7 +3924,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-123",
@@ -3826,9 +3945,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u751f\\u59dc、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u751f\\u59dc、\\u7ea2\\u67a3分别处理干净。",
+      "将\\u751f\\u59dc、\\u7ea2\\u67a3与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3838,7 +3957,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-124",
@@ -3858,9 +3978,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9648\\u76ae、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按养阴清润思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9648\\u76ae、\\u5927\\u7c73分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按养阴清润思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“阴虚内热”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3870,7 +3990,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-125",
@@ -3890,9 +4011,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u832f\\u82d3、\\u5c0f\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按温补助阳思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u832f\\u82d3、\\u5c0f\\u7c73分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温补助阳思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“肾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3902,7 +4023,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-126",
@@ -3922,9 +4044,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净处理。",
-      "加水同煮或同炖，按养血和中思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9ec4\\u82aa、\\u9e21\\u8089洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“血虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3934,7 +4056,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-127",
@@ -3954,9 +4077,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83b2\\u85d5、\\u732a\\u8089分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83b2\\u85d5、\\u732a\\u8089分别处理干净。",
+      "将\\u83b2\\u85d5、\\u732a\\u8089与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3966,7 +4089,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-128",
@@ -3986,9 +4110,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5c71\\u6942、\\u9ea6\\u82bd分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5c71\\u6942、\\u9ea6\\u82bd分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -3998,7 +4122,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-129",
@@ -4018,9 +4143,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u68a8、\\u94f6\\u8033分别洗净处理。",
-      "加水同煮或同炖，按温脾助运思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u68a8、\\u94f6\\u8033分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4030,7 +4155,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-130",
@@ -4050,9 +4176,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u725b\\u8089、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按养阴和胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u725b\\u8089、\\u5c71\\u836f洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4062,7 +4188,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-131",
@@ -4083,7 +4210,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u5357\\u74dc、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -4094,7 +4221,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-132",
@@ -4114,9 +4242,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4126,7 +4254,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-133",
@@ -4147,7 +4276,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u8584\\u8377、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -4158,7 +4287,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-134",
@@ -4179,7 +4309,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u4f5b\\u624b、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -4190,7 +4320,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-135",
@@ -4210,9 +4341,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u858f\\u7c73、\\u832f\\u82d3分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u858f\\u7c73、\\u832f\\u82d3洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4222,7 +4353,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-136",
@@ -4242,9 +4374,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83b2\\u5b50、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83b2\\u5b50、\\u7ea2\\u67a3分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4254,7 +4386,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-137",
@@ -4274,9 +4407,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8c46\\u8150、\\u83b2\\u85d5分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8c46\\u8150、\\u83b2\\u85d5分别处理干净。",
+      "将\\u8c46\\u8150、\\u83b2\\u85d5与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4286,7 +4419,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-138",
@@ -4306,9 +4440,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u82f9\\u679c、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按养阴清润思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u82f9\\u679c、\\u5c71\\u836f分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按养阴清润思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“阴虚内热”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4318,7 +4452,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-139",
@@ -4338,9 +4473,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u7f8a\\u8089、\\u751f\\u59dc分别洗净处理。",
-      "加水同煮或同炖，按温补助阳思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u7f8a\\u8089、\\u751f\\u59dc分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温补助阳思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“肾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4350,7 +4485,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-140",
@@ -4370,9 +4506,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净处理。",
-      "加水同煮或同炖，按养血和中思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“血虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4382,7 +4518,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-141",
@@ -4402,9 +4539,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5c71\\u836f、\\u83b2\\u5b50分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5c71\\u836f、\\u83b2\\u5b50分别处理干净。",
+      "将\\u5c71\\u836f、\\u83b2\\u5b50与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4414,7 +4551,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-142",
@@ -4434,9 +4572,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u94f6\\u8033、\\u767e\\u5408分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u94f6\\u8033、\\u767e\\u5408分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4446,7 +4584,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-143",
@@ -4466,9 +4605,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u751f\\u59dc、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按温脾助运思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u751f\\u59dc、\\u7ea2\\u67a3分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4478,7 +4617,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-144",
@@ -4498,9 +4638,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9648\\u76ae、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按养阴和胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9648\\u76ae、\\u5927\\u7c73洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4510,7 +4650,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-145",
@@ -4531,7 +4672,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u832f\\u82d3、\\u5c0f\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -4542,7 +4683,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-146",
@@ -4562,9 +4704,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4574,7 +4716,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-147",
@@ -4595,7 +4738,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u83b2\\u85d5、\\u732a\\u8089分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -4606,7 +4749,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-148",
@@ -4627,7 +4771,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u5c71\\u6942、\\u9ea6\\u82bd分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -4638,7 +4782,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-149",
@@ -4658,9 +4803,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u68a8、\\u94f6\\u8033分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u68a8、\\u94f6\\u8033洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4670,7 +4815,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-150",
@@ -4690,9 +4836,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u725b\\u8089、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u725b\\u8089、\\u5c71\\u836f分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4702,7 +4848,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-151",
@@ -4722,9 +4869,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5357\\u74dc、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5357\\u74dc、\\u5927\\u7c73分别处理干净。",
+      "将\\u5357\\u74dc、\\u5927\\u7c73与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4734,7 +4881,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-152",
@@ -4754,9 +4902,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按养阴清润思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按养阴清润思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“阴虚内热”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4766,7 +4914,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-153",
@@ -4786,9 +4935,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8584\\u8377、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按温补助阳思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8584\\u8377、\\u68a8分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温补助阳思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“肾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4798,7 +4947,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-154",
@@ -4818,9 +4968,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u4f5b\\u624b、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按养血和中思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u4f5b\\u624b、\\u68a8洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“血虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4830,7 +4980,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-155",
@@ -4850,9 +5001,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u858f\\u7c73、\\u832f\\u82d3分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u858f\\u7c73、\\u832f\\u82d3分别处理干净。",
+      "将\\u858f\\u7c73、\\u832f\\u82d3与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4862,7 +5013,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-156",
@@ -4882,9 +5034,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83b2\\u5b50、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83b2\\u5b50、\\u7ea2\\u67a3分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4894,7 +5046,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-157",
@@ -4914,9 +5067,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8c46\\u8150、\\u83b2\\u85d5分别洗净处理。",
-      "加水同煮或同炖，按温脾助运思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8c46\\u8150、\\u83b2\\u85d5分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4926,7 +5079,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-158",
@@ -4946,9 +5100,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u82f9\\u679c、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按养阴和胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u82f9\\u679c、\\u5c71\\u836f洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -4958,7 +5112,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-159",
@@ -4979,7 +5134,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u7f8a\\u8089、\\u751f\\u59dc分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -4990,7 +5145,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-160",
@@ -5010,9 +5166,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5022,7 +5178,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-161",
@@ -5043,7 +5200,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u5c71\\u836f、\\u83b2\\u5b50分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -5054,7 +5211,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-162",
@@ -5075,7 +5233,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u94f6\\u8033、\\u767e\\u5408分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -5086,7 +5244,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-163",
@@ -5106,9 +5265,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u751f\\u59dc、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u751f\\u59dc、\\u7ea2\\u67a3洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5118,7 +5277,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-164",
@@ -5138,9 +5298,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9648\\u76ae、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9648\\u76ae、\\u5927\\u7c73分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5150,7 +5310,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-165",
@@ -5170,9 +5331,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u832f\\u82d3、\\u5c0f\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u832f\\u82d3、\\u5c0f\\u7c73分别处理干净。",
+      "将\\u832f\\u82d3、\\u5c0f\\u7c73与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5182,7 +5343,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-166",
@@ -5202,9 +5364,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净处理。",
-      "加水同煮或同炖，按养阴清润思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按养阴清润思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“阴虚内热”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5214,7 +5376,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-167",
@@ -5234,9 +5397,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83b2\\u85d5、\\u732a\\u8089分别洗净处理。",
-      "加水同煮或同炖，按温补助阳思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83b2\\u85d5、\\u732a\\u8089分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温补助阳思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“肾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5246,7 +5409,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-168",
@@ -5266,9 +5430,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5c71\\u6942、\\u9ea6\\u82bd分别洗净处理。",
-      "加水同煮或同炖，按养血和中思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5c71\\u6942、\\u9ea6\\u82bd洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“血虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5278,7 +5442,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-169",
@@ -5298,9 +5463,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u68a8、\\u94f6\\u8033分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u68a8、\\u94f6\\u8033分别处理干净。",
+      "将\\u68a8、\\u94f6\\u8033与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5310,7 +5475,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-170",
@@ -5330,9 +5496,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u725b\\u8089、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u725b\\u8089、\\u5c71\\u836f分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5342,7 +5508,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-171",
@@ -5362,9 +5529,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5357\\u74dc、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按温脾助运思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5357\\u74dc、\\u5927\\u7c73分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5374,7 +5541,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-172",
@@ -5394,9 +5562,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按养阴和胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u515a\\u53c2、\\u7ea2\\u67a3洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5406,7 +5574,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-173",
@@ -5427,7 +5596,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u8584\\u8377、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -5438,7 +5607,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-174",
@@ -5458,9 +5628,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u4f5b\\u624b、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u4f5b\\u624b、\\u68a8分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5470,7 +5640,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-175",
@@ -5491,7 +5662,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u858f\\u7c73、\\u832f\\u82d3分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -5502,7 +5673,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-176",
@@ -5523,7 +5695,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u83b2\\u5b50、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -5534,7 +5706,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-177",
@@ -5554,9 +5727,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8c46\\u8150、\\u83b2\\u85d5分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8c46\\u8150、\\u83b2\\u85d5洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5566,7 +5739,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-178",
@@ -5586,9 +5760,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u82f9\\u679c、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u82f9\\u679c、\\u5c71\\u836f分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5598,7 +5772,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-179",
@@ -5618,9 +5793,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u7f8a\\u8089、\\u751f\\u59dc分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u7f8a\\u8089、\\u751f\\u59dc分别处理干净。",
+      "将\\u7f8a\\u8089、\\u751f\\u59dc与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5630,7 +5805,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-180",
@@ -5650,9 +5826,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净处理。",
-      "加水同煮或同炖，按养阴清润思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u83ca\\u82b1、\\u7f57\\u6c49\\u679c分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按养阴清润思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“阴虚内热”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5662,7 +5838,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-181",
@@ -5682,9 +5859,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5c71\\u836f、\\u83b2\\u5b50分别洗净处理。",
-      "加水同煮或同炖，按温补助阳思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5c71\\u836f、\\u83b2\\u5b50分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温补助阳思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“肾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5694,7 +5871,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-182",
@@ -5714,9 +5892,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u94f6\\u8033、\\u767e\\u5408分别洗净处理。",
-      "加水同煮或同炖，按养血和中思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u94f6\\u8033、\\u767e\\u5408洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“血虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5726,7 +5904,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-183",
@@ -5746,9 +5925,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u751f\\u59dc、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按健脾益气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u751f\\u59dc、\\u7ea2\\u67a3分别处理干净。",
+      "将\\u751f\\u59dc、\\u7ea2\\u67a3与适量清水一同入锅中。",
+      "转小火慢煮成粥，按健脾益气思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“脾气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5758,7 +5937,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   },
   {
     "id": "restored-recipe-184",
@@ -5778,9 +5958,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9648\\u76ae、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按益气养胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9648\\u76ae、\\u5927\\u7c73分别洗净，肉类或骨类先焯水去血沫。",
+      "加清水或高汤，按益气养胃思路同煮 30–45 分钟至食材熟软。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“胃气虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5790,7 +5970,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "soup"
   },
   {
     "id": "restored-recipe-185",
@@ -5810,9 +5991,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u832f\\u82d3、\\u5c0f\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按温脾助运思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u832f\\u82d3、\\u5c0f\\u7c73分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5822,7 +6003,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-186",
@@ -5842,9 +6024,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u9ec4\\u82aa、\\u9e21\\u8089分别洗净处理。",
-      "加水同煮或同炖，按养阴和胃思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u9ec4\\u82aa、\\u9e21\\u8089洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5854,7 +6036,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-187",
@@ -5875,7 +6058,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u83b2\\u85d5、\\u732a\\u8089分别洗净处理。",
-      "加水同煮或同炖，按健脾摄血思路做熟。",
+      "加水同煮，按健脾摄血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“脾不统血”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -5886,7 +6069,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-188",
@@ -5906,9 +6090,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5c71\\u6942、\\u9ea6\\u82bd分别洗净处理。",
-      "加水同煮或同炖，按补中升提思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5c71\\u6942、\\u9ea6\\u82bd分别洗净，肉类或骨类先焯水去血沫。",
+      "转入砂锅或炖盅，加清水按补中升提思路小火炖 60–90 分钟至熟烂。",
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
     ],
     "note": "按“中气下陷”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -5918,7 +6102,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "stew"
   },
   {
     "id": "restored-recipe-189",
@@ -5939,7 +6124,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u68a8、\\u94f6\\u8033分别洗净处理。",
-      "加水同煮或同炖，按益气养血思路做熟。",
+      "加水同煮，按益气养血思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“气血两虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -5950,7 +6135,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-190",
@@ -5971,7 +6157,7 @@ const BULK_RECIPES_ENHANCED = [
     ],
     "steps": [
       "\\u725b\\u8089、\\u5c71\\u836f分别洗净处理。",
-      "加水同煮或同炖，按润肺养阴思路做熟。",
+      "加水同煮，按润肺养阴思路做熟，注意火候与个体耐受。",
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ],
     "note": "按“肺阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
@@ -5982,7 +6168,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "simmer"
   },
   {
     "id": "restored-recipe-191",
@@ -6002,9 +6189,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u5357\\u74dc、\\u5927\\u7c73分别洗净处理。",
-      "加水同煮或同炖，按和胃理气思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u5357\\u74dc、\\u5927\\u7c73洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
     ],
     "note": "按“肝胃不和”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -6014,7 +6201,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "drink"
   },
   {
     "id": "restored-recipe-192",
@@ -6034,9 +6222,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u515a\\u53c2、\\u7ea2\\u67a3分别洗净处理。",
-      "加水同煮或同炖，按健脾化湿思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u515a\\u53c2、\\u7ea2\\u67a3分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按健脾化湿思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
     ],
     "note": "按“痰湿困脾”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -6046,7 +6234,8 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-193",
@@ -6066,9 +6255,9 @@ const BULK_RECIPES_ENHANCED = [
       "清水适量 500 ml"
     ],
     "steps": [
-      "\\u8584\\u8377、\\u68a8分别洗净处理。",
-      "加水同煮或同炖，按清化湿热思路做熟。",
-      "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
+      "\\u8584\\u8377、\\u68a8分别处理干净。",
+      "将\\u8584\\u8377、\\u68a8与适量清水一同入锅中。",
+      "转小火慢煮成粥，按清化湿热思路调味；温热作正餐或加餐，每周 1–2 次为宜。"
     ],
     "note": "按“湿热内蕴”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
     "sources": [
@@ -6078,6 +6267,7 @@ const BULK_RECIPES_ENHANCED = [
       }
     ],
     "draft": false,
-    "bulkTier": 2
+    "bulkTier": 2,
+    "cookingMethod": "congee"
   }
 ];

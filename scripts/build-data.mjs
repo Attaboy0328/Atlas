@@ -30,7 +30,8 @@ const CN_JSON_SOURCES = [
   "pairing-aliases.json",
   "regional-foods.json",
   "expansion-batch4.json",
-  "foods-ingredients.json"
+  "foods-ingredients.json",
+  "foods-seasonal-river.json"
 ];
 
 function readJson(name, fallback = []) {
@@ -81,20 +82,84 @@ function fixIngredient(line) {
 
 function isGenericSteps(steps) {
   const text = (steps || []).join(" ");
-  return text.includes("分别处理干净") || text.includes("按家常做法煮至熟软");
+  return /分别处理干净|分别洗净处理|按家常做法|按.*思路做熟|每周 1.?2 次为宜|加水同煮或同炖/u.test(text);
+}
+
+function detectCookMethod(item) {
+  const text = `${item.name || ""}${item.subtitle || ""}`;
+  if (/粥/.test(text)) return "congee";
+  if (/羹/.test(text)) return "pudding";
+  if (/汤/.test(text)) return "soup";
+  if (/饮|茶/.test(text)) return "drink";
+  if (/炖|煲|煨/.test(text)) return "stew";
+  if (/炒|煸/.test(text)) return "stirfry";
+  return "simmer";
 }
 
 function buildSteps(foodNames, item) {
+  const method = detectCookMethod(item);
+  const subtitle = item.subtitle || "日常食养";
+  const main = foodNames.join("、");
+  const grain = foodNames.find((name) => /米|麦|小米|糯米|薏米|燕麦|玉米/.test(name));
+  const others = foodNames.filter((name) => name !== grain);
+
+  if (method === "congee") {
+    return [
+      grain
+        ? `${grain}淘洗${others.length ? `，${others.join("、")}处理干净` : ""}。`
+        : `${main}分别处理干净。`,
+      grain && others.length
+        ? `锅中加清水，先下${grain}煮至半熟，再加入${others.join("、")}。`
+        : `将${main}与适量清水一同入锅中。`,
+      `转小火慢煮成粥，按${subtitle}思路调味；温热作正餐或加餐，每周 1–2 次为宜。`
+    ];
+  }
+
+  if (method === "soup" || method === "stew") {
+    return [
+      `${main}分别洗净，肉类或骨类先焯水去血沫。`,
+      method === "stew"
+        ? `转入砂锅或炖盅，加清水按${subtitle}思路小火炖 60–90 分钟至熟烂。`
+        : `加清水或高汤，按${subtitle}思路同煮 30–45 分钟至食材熟软。`,
+      "撇去浮油，少盐调味，温热适量食用；症状持续或加重时请就医。"
+    ];
+  }
+
+  if (method === "drink") {
+    return [
+      `${main}洗净${/茶|叶|花|草/.test(main) ? "，必要时稍浸泡" : ""}。`,
+      `加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。`,
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
+    ];
+  }
+
+  if (method === "pudding") {
+    return [
+      `${main}分别处理，银耳、百合等干货提前泡发。`,
+      `加清水同煮至软烂，可按${subtitle}思路做成羹状。`,
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
+    ];
+  }
+
+  if (method === "stirfry") {
+    return [
+      `${main}分别洗净切配，腊肉或肉类先蒸/煮软再切片。`,
+      `热锅少油，按${subtitle}思路快炒断生，避免过火或重油。`,
+      "趁热作配菜或主菜，高盐高脂人群注意控量。"
+    ];
+  }
+
   if (foodNames.length >= 2) {
     return [
-      `${foodNames.join("、")}分别洗净处理。`,
-      `加水同煮或同炖，按${item.subtitle || "日常食养"}思路做熟。`,
+      `${main}分别洗净处理。`,
+      `加水同煮，按${subtitle}思路做熟，注意火候与个体耐受。`,
       "温热食用，每周 1–2 次为宜，不适时停用并咨询专业人士。"
     ];
   }
+
   return [
     `${foodNames[0] || "食材"}处理干净。`,
-    "按家常做法做熟，避免一次过量。",
+    `按${subtitle}思路做熟，避免一次过量。`,
     "温热食用，按个人耐受调整频率。"
   ];
 }
@@ -142,7 +207,8 @@ function enhanceBulkRecipe(item, catalog, publishedNames) {
     note: item.note,
     sources: [BULK_SOURCE],
     draft: false,
-    bulkTier: 2
+    bulkTier: 2,
+    cookingMethod: detectCookMethod(item)
   };
 }
 
@@ -182,6 +248,7 @@ const enhancedBulk = rawBulk
 fs.mkdirSync(genDir, { recursive: true });
 writeJs(path.join(genDir, "foods-cn-bundle.js"), "CN_SUPPLEMENT_FOODS", cnFoods);
 writeJs(path.join(genDir, "recipes-bulk.js"), "BULK_RECIPES_ENHANCED", enhancedBulk);
+writeJs(path.join(genDir, "pairing-rules-extra.js"), "PAIRING_RULES_EXTRA", readJson("pairing-rules-extra.json"));
 
 const publicDir = path.join(root, "public", "data", "cn");
 fs.mkdirSync(publicDir, { recursive: true });
@@ -190,4 +257,4 @@ fs.writeFileSync(path.join(publicDir, "bulk-recipes-enhanced.json"), JSON.string
 
 console.log(`CN foods: ${cnFoods.length} (pairing + regional + batch4 + ingredients)`);
 console.log(`Bulk recipes enhanced & published: ${enhancedBulk.length} / ${rawBulk.length}`);
-console.log(`Output: generated/foods-cn-bundle.js, generated/recipes-bulk.js`);
+console.log(`Output: generated/foods-cn-bundle.js, generated/recipes-bulk.js, generated/pairing-rules-extra.js`);

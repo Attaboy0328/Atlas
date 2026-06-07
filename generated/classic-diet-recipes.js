@@ -4953,5 +4953,274 @@ const CLASSIC_DIET_RECIPES = [
     ],
     "draft": false,
     "classicTier": 1
+  },
+  {
+    "id": "classic-artemisia-larou",
+    "name": "藜蒿炒腊肉（经典）",
+    "nature": "温",
+    "syndromes": [
+      "肝郁气滞",
+      "理气"
+    ],
+    "foodIds": [
+      "artemisia-selengensis",
+      "larou"
+    ],
+    "subtitle": "春令理气",
+    "ingredients": [
+      "藜蒿 200 克",
+      "腊肉 80 克",
+      "蒜 2 瓣",
+      "食用油 1 汤匙"
+    ],
+    "steps": [
+      "藜蒿择净切段，腊肉先蒸软再切薄片",
+      "热锅少油，下腊肉煸出香气，再下蒜片",
+      "下藜蒿快炒至断生，少盐或不额外加盐即可"
+    ],
+    "note": "春季时令菜，偏温香。高血压、控盐期注意腊肉用量；明显上火时不宜多食。",
+    "sources": [
+      {
+        "title": "《随园食单》",
+        "summary": "江南春令野蔬与腊味同炒，理气醒脾、应季而食。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic-water-shield-soup",
+    "name": "莼菜羹（经典）",
+    "nature": "凉",
+    "syndromes": [
+      "胃阴虚",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "water-shield",
+      "pork"
+    ],
+    "subtitle": "春润生津",
+    "ingredients": [
+      "莼菜 100 克",
+      "瘦肉丝 50 克",
+      "生姜 1 片",
+      "清水适量"
+    ],
+    "steps": [
+      "莼菜反复冲洗，瘦肉切丝略腌",
+      "清水烧沸，下肉丝与姜片煮 3 分钟",
+      "下莼菜煮 1–2 分钟至滑嫩，少盐调味"
+    ],
+    "note": "春令清润小羹，脾胃虚寒、腹泻者不宜多食。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "莼菜滑嫩清润，常与瘦肉同羹，用于口干、春燥等日常整理。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic-bamboo-pork-soup",
+    "name": "春笋瘦肉汤（经典）",
+    "nature": "凉",
+    "syndromes": [
+      "肝胃不和",
+      "食积"
+    ],
+    "foodIds": [
+      "bamboo-shoot",
+      "pork"
+    ],
+    "subtitle": "春令清解",
+    "ingredients": [
+      "春笋 150 克",
+      "瘦肉 120 克",
+      "生姜 2 片",
+      "清水 800 ml"
+    ],
+    "steps": [
+      "春笋切薄片，瘦肉切薄片，分别焯水",
+      "清水下姜与瘦肉，煮沸后转小火 15 分钟",
+      "加入春笋再煮 10 分钟，少盐调味"
+    ],
+    "note": "春笋偏凉，胃寒、腹泻明显者少量；需充分做熟。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "春笋与瘦肉同汤，清解油腻、应季而食。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic-chrysanthemum-tofu",
+    "name": "菊花脑拌豆腐（经典）",
+    "nature": "凉",
+    "syndromes": [
+      "阴虚内热",
+      "肝郁气滞"
+    ],
+    "foodIds": [
+      "chrysanthemum-greens",
+      "tofu"
+    ],
+    "subtitle": "春令清疏",
+    "ingredients": [
+      "菊花脑 100 克",
+      "北豆腐 150 克",
+      "香油 少许",
+      "盐 少许"
+    ],
+    "steps": [
+      "豆腐切小块，沸水焯 1 分钟捞出",
+      "菊花脑洗净，沸水快速烫 10 秒过凉",
+      "豆腐与菊花脑拌匀，淋香油、少盐即可"
+    ],
+    "note": "南京春令时蔬，偏凉疏泄。胃寒、腹泻者不宜生食或大量凉拌。",
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "菊花脑清疏，与豆腐同拌，用于春令烦热、头目不清等轻润场景。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic-fishmint-mint-drink",
+    "name": "鱼腥草薄荷饮（时令）",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "fish-mint",
+      "mint"
+    ],
+    "subtitle": "夏令清解",
+    "ingredients": [
+      "鱼腥草 15 克",
+      "薄荷 3 克",
+      "清水 500 ml"
+    ],
+    "steps": [
+      "鱼腥草洗净，薄荷稍冲洗",
+      "鱼腥草先煮 10 分钟，后下薄荷再泡 2 分钟",
+      "放温饮用，不宜久煎"
+    ],
+    "note": "夏令暑湿、咽燥时可少量整理。脾胃虚寒、孕妇慎用；不宜长期大量当茶饮。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "鱼腥草配薄荷，岭南夏令常见清解饮品整理。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic-wuchang-bream-steam",
+    "name": "清蒸武昌鱼（经典）",
+    "nature": "平",
+    "syndromes": [
+      "肝胃不和",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "wuchang-bream",
+      "ginger"
+    ],
+    "subtitle": "江汉时鲜",
+    "ingredients": [
+      "武昌鱼 1 条（约 500 克）",
+      "生姜 4 片",
+      "葱 2 根",
+      "蒸鱼豉油 1 汤匙"
+    ],
+    "steps": [
+      "鱼处理干净，两面划刀，抹少许盐",
+      "姜葱铺底或塞入鱼腹，水开后大火蒸 8–10 分钟",
+      "淋蒸鱼豉油，浇少量热油激香即可"
+    ],
+    "note": "以鲜为主，不宜过咸过油；痛风、海鲜过敏者慎食。",
+    "sources": [
+      {
+        "title": "《随园食单》",
+        "summary": "武昌鱼为江汉名鲜，清蒸最能体现本味。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic-reed-shoot-pork",
+    "name": "荻笋炒肉丝（经典）",
+    "nature": "平",
+    "syndromes": [
+      "肝郁气滞",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "reed-shoot",
+      "pork"
+    ],
+    "subtitle": "初夏时蔬",
+    "ingredients": [
+      "荻笋 200 克",
+      "瘦肉丝 80 克",
+      "姜 2 片"
+    ],
+    "steps": [
+      "荻笋切条，肉丝略腌",
+      "热锅少油，先滑炒肉丝盛出",
+      "下荻笋快炒，再回肉丝合炒，少盐调味"
+    ],
+    "note": "初夏江滩时蔬，偏清爽；脾胃虚寒者不宜大量生食。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "江滩嫩笋与瘦肉同炒，清利而不伤正。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic-pond-loach-tofu",
+    "name": "塘鳢鱼炖豆腐（经典）",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "pond-loach",
+      "tofu"
+    ],
+    "subtitle": "江南河鲜",
+    "ingredients": [
+      "塘鳢鱼 2–3 条",
+      "北豆腐 200 克",
+      "生姜 2 片"
+    ],
+    "steps": [
+      "塘鳢鱼处理干净，豆腐切块",
+      "少油煎鱼至两面微黄，加热水与姜片",
+      "下豆腐小火炖 15 分钟，少盐调味"
+    ],
+    "note": "河鲜需做熟；海鲜过敏、痛风急性期慎食。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "江南小河鲜与豆腐同炖，和中滋养。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
   }
 ];
