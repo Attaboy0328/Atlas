@@ -42,7 +42,7 @@
 }
 
 html {
-  touch-action: manipulation;
+  height: 100%;
   overscroll-behavior: none;
 }
 
@@ -58,9 +58,9 @@ body {
 body {
   display: flex;
   justify-content: center;
-  overflow-x: hidden;
+  height: 100%;
+  overflow: hidden;
   overscroll-behavior: none;
-  touch-action: pan-y;
 }
 
 button,
@@ -75,10 +75,17 @@ button {
 
 .app-shell {
   position: relative;
+  display: flex;
+  flex-direction: column;
   width: 100%;
   max-width: 480px;
   min-width: 0;
+  height: 100vh;
+  height: 100dvh;
   min-height: 100vh;
+  min-height: 100dvh;
+  max-height: 100vh;
+  max-height: 100dvh;
   background: var(--paper);
   box-shadow: var(--shadow);
   overflow: hidden;
@@ -88,9 +95,9 @@ button {
 }
 
 .topbar {
-  position: sticky;
-  top: 0;
+  position: relative;
   z-index: 20;
+  flex: 0 0 auto;
   height: 68px;
   display: flex;
   align-items: center;
@@ -165,13 +172,13 @@ button {
 }
 
 .app-content {
-  min-height: calc(100vh - 68px);
+  flex: 1 1 auto;
+  min-height: 0;
   padding: 0 28px calc(112px + env(safe-area-inset-bottom));
   overflow-y: auto;
   overflow-x: hidden;
   overscroll-behavior-y: contain;
   overscroll-behavior-x: none;
-  touch-action: pan-y;
   -webkit-overflow-scrolling: touch;
 }
 
