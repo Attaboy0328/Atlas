@@ -916,6 +916,37 @@
     "summary": "橙子，常见于中式饮食与地方菜。"
   },
   {
+    "id": "adzuki-bean",
+    "name": "赤小豆",
+    "en": "adzuki bean",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "平",
+    "effects": [
+      "利水",
+      "和中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "红小豆"
+    ],
+    "pinyin": "chixiaodou",
+    "initials": "cxd",
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，与红豆（红小豆）不同，食疗里常与薏米同用。",
+    "varietyNote": "赤小豆偏细长，与圆粒红豆区分；孕妇及明显体弱者不宜长期大量单独食用。",
+    "searchTerms": [
+      "chixiaodou",
+      "cxd",
+      "adzuki",
+      "赤小豆"
+    ]
+  },
+  {
     "id": "cordyceps-flower",
     "name": "虫草花",
     "en": "cordyceps flower",
@@ -1230,6 +1261,37 @@
       "大料"
     ],
     "summary": "大茴香，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "barley",
+    "name": "大麦",
+    "en": "barley",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "凉",
+    "effects": [
+      "和中",
+      "消胀"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "裸大麦"
+    ],
+    "pinyin": "damai",
+    "initials": "dm",
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，可煮粥、做麦茶或入膳消胀。",
+    "searchTerms": [
+      "damai",
+      "dm",
+      "barley",
+      "大麦",
+      "麦茶"
+    ]
   },
   {
     "id": "big-plate-chicken",
@@ -1560,6 +1622,25 @@
       "冬瓜"
     ],
     "summary": "冬瓜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "wax-gourd-peel",
+    "name": "冬瓜皮",
+    "en": "wax gourd peel",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "凉",
+    "effects": [
+      "清利",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，常见于清利型汤饮整理。"
   },
   {
     "id": "winter-bamboo-shoot",
@@ -2061,7 +2142,8 @@
     "id": "goji-berry",
     "name": "枸杞",
     "en": "goji berry",
-    "category": "滋补食材",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
     "nature": "平",
     "effects": [
       "滋补",
@@ -2079,14 +2161,11 @@
     ],
     "pinyin": "gouqi",
     "initials": "gq",
-    "searchTerms": [
-      "gouqi",
-      "gq",
-      "goji berry",
-      "枸杞",
-      "枸杞子"
-    ],
-    "summary": "枸杞，常见于中式饮食与地方菜。"
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，常见于粥、汤、茶饮等日常食养场景。",
+    "regulatoryNote": "列入《按照传统既是食品又是中药材的物质目录》2002 首批及后续增补。"
   },
   {
     "id": "goji-shoots",
@@ -2197,34 +2276,27 @@
   },
   {
     "id": "dried-longan",
-    "name": "桂圆干",
+    "name": "桂圆肉",
     "en": "dried longan",
-    "category": "水果",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
     "nature": "温",
     "effects": [
-      "补益",
+      "养血",
       "安神"
     ],
     "regions": [
       "CN"
     ],
-    "provinces": [
-      "福建",
-      "广东"
-    ],
     "aliases": [
-      "龙眼干"
-    ],
-    "pinyin": "guiyuangan",
-    "initials": "gyg",
-    "searchTerms": [
-      "guiyuangan",
-      "gyg",
-      "dried longan",
       "桂圆干",
-      "龙眼干"
+      "龙眼肉"
     ],
-    "summary": "桂圆干，常见于中式饮食与地方菜。"
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，偏温甜，常见于羹汤与甜饮。",
+    "caution": "上火、糖尿病者控制用量。"
   },
   {
     "id": "mandarin-fish",
@@ -2681,34 +2753,23 @@
   },
   {
     "id": "walnut",
-    "name": "核桃",
+    "name": "核桃仁",
     "en": "walnut",
-    "category": "坚果种子",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
     "nature": "温",
     "effects": [
-      "补肾",
-      "温肺"
+      "温补",
+      "润肠"
     ],
     "regions": [
-      "CN"
+      "CN",
+      "US"
     ],
-    "provinces": [
-      "云南",
-      "山西"
-    ],
-    "aliases": [
-      "胡桃"
-    ],
-    "pinyin": "hetao",
-    "initials": "ht",
-    "searchTerms": [
-      "hetao",
-      "ht",
-      "walnut",
-      "核桃",
-      "胡桃"
-    ],
-    "summary": "核桃，常见于中式饮食与地方菜。"
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，适合少量配粥、配早餐。"
   },
   {
     "id": "snow-pea",
@@ -2742,35 +2803,43 @@
     "summary": "荷兰豆，常见于中式饮食与地方菜。"
   },
   {
-    "id": "black-bean",
-    "name": "黑豆",
-    "en": "black soybean",
-    "category": "豆类",
-    "nature": "平",
+    "id": "lotus-leaf",
+    "name": "荷叶",
+    "en": "lotus leaf",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "凉",
     "effects": [
-      "补肾",
-      "养血"
+      "清利",
+      "和中"
     ],
     "regions": [
       "CN"
     ],
-    "provinces": [
-      "黑龙江",
-      "辽宁"
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，常见于轻饮与夏季整理饮食。"
+  },
+  {
+    "id": "black-bean",
+    "name": "黑豆",
+    "en": "black soybean",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "平",
+    "effects": [
+      "滋养",
+      "和中"
     ],
-    "aliases": [
-      "乌豆"
+    "regions": [
+      "CN"
     ],
-    "pinyin": "heidou",
-    "initials": "hd",
-    "searchTerms": [
-      "heidou",
-      "hd",
-      "black soybean",
-      "黑豆",
-      "乌豆"
-    ],
-    "summary": "黑豆，常见于中式饮食与地方菜。"
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，可煮粥、打浆或入汤。",
+    "regulatoryNote": "列入 2002 首批食药同源目录。"
   },
   {
     "id": "black-pepper",
@@ -2859,6 +2928,33 @@
       "生鱼"
     ],
     "summary": "黑鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "black-sesame",
+    "name": "黑芝麻",
+    "en": "black sesame",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "平",
+    "effects": [
+      "滋补",
+      "润燥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "pinyin": "heizhima",
+    "initials": "hzm",
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，可磨粉、做糊或入点心。",
+    "searchTerms": [
+      "heizhima",
+      "hzm",
+      "black sesame",
+      "黑芝麻"
+    ]
   },
   {
     "id": "black-tea",
@@ -3751,6 +3847,25 @@
       "jhht"
     ],
     "summary": "浙闽名产，偏温。"
+  },
+  {
+    "id": "honeysuckle",
+    "name": "金银花",
+    "en": "honeysuckle",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "寒",
+    "effects": [
+      "清利",
+      "解暑"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，常见于清利茶饮与夏季饮食整理。"
   },
   {
     "id": "enoki-mushroom",
@@ -5970,6 +6085,25 @@
     "summary": "蒲公英，常见于中式饮食与地方菜。"
   },
   {
+    "id": "dandelion",
+    "name": "蒲公英",
+    "en": "dandelion",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "寒",
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，偏寒凉，更适合清利类场景。",
+    "caution": "脾胃虚寒、腹泻者不宜多食。"
+  },
+  {
     "id": "pu-er-tea",
     "name": "普洱茶",
     "en": "pu-er tea",
@@ -6486,6 +6620,25 @@
       "桑甚"
     ],
     "summary": "桑葚，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "mulberry-leaf",
+    "name": "桑叶",
+    "en": "mulberry leaf",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "凉",
+    "effects": [
+      "清润",
+      "疏风"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，偏凉润，常见于秋燥与轻润饮。"
   },
   {
     "id": "shacha-noodle",
@@ -7537,6 +7690,25 @@
       "通菜"
     ],
     "summary": "蕹菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "smoked-plum",
+    "name": "乌梅",
+    "en": "smoked plum",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "平",
+    "effects": [
+      "生津",
+      "敛藏"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，常见于饮品和酸收类整理场景。"
   },
   {
     "id": "fig",
@@ -8809,6 +8981,31 @@
     "summary": "银耳，常见于中式饮食与地方菜。"
   },
   {
+    "id": "tremella",
+    "name": "银耳",
+    "en": "tremella",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "平",
+    "effects": [
+      "润燥",
+      "养阴"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "白木耳"
+    ],
+    "relatedForms": [
+      "white-fungus"
+    ],
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，典型饮食化润养食材，常用于羹汤与甜品。"
+  },
+  {
     "id": "whitebait",
     "name": "银鱼",
     "en": "whitebait",
@@ -9087,6 +9284,29 @@
     "caution": "保护野生动物，不建议购买与食用；市面多为养殖或替代料。"
   },
   {
+    "id": "fish-mint",
+    "name": "鱼腥草",
+    "en": "fish mint",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "寒",
+    "effects": [
+      "清利",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "折耳根"
+    ],
+    "officialFoodMedicine": true,
+    "officialBatch": "2019",
+    "usageScope": "dietary-therapy",
+    "summary": "2019 增补食药同源目录条目，西南常见，偏寒凉辛香。",
+    "caution": "脾胃虚寒、腹泻者不宜大量生食。"
+  },
+  {
     "id": "corn",
     "name": "玉米",
     "en": "corn",
@@ -9117,6 +9337,37 @@
       "棒子"
     ],
     "summary": "玉米，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "polygonatum",
+    "name": "玉竹",
+    "en": "polygonatum",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "平",
+    "effects": [
+      "养阴",
+      "润燥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "萎蕤"
+    ],
+    "pinyin": "yuzhu",
+    "initials": "yz",
+    "officialFoodMedicine": true,
+    "officialBatch": "2002",
+    "usageScope": "dietary-therapy",
+    "summary": "国家食药同源目录条目，偏养阴润燥，常见于粥羹与炖汤。",
+    "searchTerms": [
+      "yuzhu",
+      "yz",
+      "polygonatum",
+      "玉竹",
+      "萎蕤"
+    ]
   },
   {
     "id": "taro",
@@ -9320,40 +9571,6 @@
       "八爪鱼"
     ],
     "summary": "章鱼，常见于中式饮食与地方菜。"
-  },
-  {
-    "id": "fish-mint",
-    "name": "折耳根",
-    "en": "houttuynia",
-    "category": "野菜",
-    "nature": "凉",
-    "effects": [
-      "清利",
-      "解毒"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "贵州",
-      "云南",
-      "四川"
-    ],
-    "aliases": [
-      "鱼腥草",
-      "折耳根菜"
-    ],
-    "pinyin": "zheergen",
-    "initials": "zeg",
-    "searchTerms": [
-      "zheergen",
-      "zeg",
-      "houttuynia",
-      "折耳根",
-      "鱼腥草",
-      "折耳根菜"
-    ],
-    "summary": "折耳根，常见于中式饮食与地方菜。"
   },
   {
     "id": "sesame",
@@ -9592,32 +9809,47 @@
     "id": "perilla-leaf",
     "name": "紫苏叶",
     "en": "perilla leaf",
-    "category": "蔬菜",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
     "nature": "温",
     "effects": [
-      "行气",
-      "解表"
+      "解表",
+      "行气"
     ],
     "regions": [
       "CN"
     ],
-    "provinces": [
-      "湖南",
-      "湖北"
+    "officialFoodMedicine": true,
+    "officialBatch": "2019",
+    "usageScope": "dietary-therapy",
+    "summary": "2019 增补食药同源目录条目，常用于去腥、解表与醒脾。"
+  },
+  {
+    "id": "perilla-seed",
+    "name": "紫苏子",
+    "en": "perilla seed",
+    "category": "食药物质",
+    "itemKind": "food-medicine",
+    "nature": "温",
+    "effects": [
+      "降气",
+      "润肠"
     ],
-    "aliases": [
-      "苏叶"
+    "regions": [
+      "CN"
     ],
-    "pinyin": "zisuye",
-    "initials": "zsy",
+    "pinyin": "zisuzi",
+    "initials": "zsz",
+    "officialFoodMedicine": true,
+    "officialBatch": "2019",
+    "usageScope": "dietary-therapy",
+    "summary": "2019 增补食药同源目录条目，常见于粥饮与少量入膳。",
     "searchTerms": [
-      "zisuye",
-      "zsy",
-      "perilla leaf",
-      "紫苏叶",
-      "苏叶"
-    ],
-    "summary": "紫苏叶，常见于中式饮食与地方菜。"
+      "zisuzi",
+      "zsz",
+      "perilla seed",
+      "紫苏子"
+    ]
   },
   {
     "id": "biangbiang-noodle",

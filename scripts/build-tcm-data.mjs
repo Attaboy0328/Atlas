@@ -39,7 +39,7 @@ function loadCatalogIds() {
   const fRe = /f\(\s*["']([^"']+)["']/g;
   let m;
   while ((m = fRe.exec(expanded))) ids.add(m[1]);
-  for (const file of ["pairing-aliases.json", "regional-foods.json", "expansion-batch4.json", "foods-ingredients.json", "foods-seasonal-river.json"]) {
+  for (const file of ["pairing-aliases.json", "regional-foods.json", "expansion-batch4.json", "foods-ingredients.json", "foods-seasonal-river.json", "foods-medicine-homologous.json"]) {
     const cnPath = path.join(cnDir, file);
     if (!fs.existsSync(cnPath)) continue;
     JSON.parse(fs.readFileSync(cnPath, "utf8")).forEach((food) => ids.add(food.id));
@@ -96,7 +96,10 @@ function collectPublishedRecipeNames() {
 
 const catalog = loadCatalogIds();
 const publishedNames = collectPublishedRecipeNames();
-const rawClassic = readJson("classic-diet-recipes.json");
+const rawClassic = [
+  ...readJson("classic-diet-recipes.json"),
+  ...readJson("solar-term-recipes.json", [])
+];
 const classicRecipes = rawClassic
   .map((item) => {
     const isClassicVariant = /（经典）$/.test(item.name);

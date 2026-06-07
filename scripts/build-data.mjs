@@ -31,7 +31,8 @@ const CN_JSON_SOURCES = [
   "regional-foods.json",
   "expansion-batch4.json",
   "foods-ingredients.json",
-  "foods-seasonal-river.json"
+  "foods-seasonal-river.json",
+  "foods-medicine-homologous.json"
 ];
 
 function readJson(name, fallback = []) {
@@ -248,7 +249,14 @@ const enhancedBulk = rawBulk
 fs.mkdirSync(genDir, { recursive: true });
 writeJs(path.join(genDir, "foods-cn-bundle.js"), "CN_SUPPLEMENT_FOODS", cnFoods);
 writeJs(path.join(genDir, "recipes-bulk.js"), "BULK_RECIPES_ENHANCED", enhancedBulk);
-writeJs(path.join(genDir, "pairing-rules-extra.js"), "PAIRING_RULES_EXTRA", readJson("pairing-rules-extra.json"));
+function loadPairingRulesExtra() {
+  return [
+    ...readJson("pairing-rules-extra.json"),
+    ...readJson("pairing-rules-extra-batch2.json", [])
+  ];
+}
+
+writeJs(path.join(genDir, "pairing-rules-extra.js"), "PAIRING_RULES_EXTRA", loadPairingRulesExtra());
 
 const publicDir = path.join(root, "public", "data", "cn");
 fs.mkdirSync(publicDir, { recursive: true });

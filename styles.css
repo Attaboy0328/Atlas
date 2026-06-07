@@ -63,6 +63,21 @@ body {
   overscroll-behavior: none;
 }
 
+/* Hide scrollbars app-wide; touch and wheel scrolling unchanged */
+body,
+body * {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+body::-webkit-scrollbar,
+body *::-webkit-scrollbar {
+  display: none;
+  width: 0;
+  height: 0;
+  background: transparent;
+}
+
 button,
 input {
   font: inherit;

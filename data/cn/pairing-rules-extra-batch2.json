@@ -1,0 +1,114 @@
+[
+  {
+    "ids": ["bamboo-shoot", "lamb"],
+    "title": "竹笋与羊肉",
+    "level": "notice",
+    "category": "传统食养",
+    "text": "一偏清利一偏温热，同锅时要平衡比例；腹泻、体寒明显者不宜把竹笋作为主量。"
+  },
+  {
+    "ids": ["water-chestnut", "pork"],
+    "title": "荸荠与猪肉",
+    "level": "notice",
+    "category": "传统食养",
+    "text": "常见家常搭配，偏清润；脾胃虚寒、腹泻时不宜大量生食荸荠。"
+  },
+  {
+    "ids": ["spinach", "tofu"],
+    "title": "菠菜与豆腐",
+    "level": "gold",
+    "category": "民间迷思",
+    "text": "传统“相克”条目之一，现代更应关注草酸与钙结合后的消化感受，焯水后同餐通常问题不大。"
+  },
+  {
+    "ids": ["honey", "soy-milk"],
+    "title": "蜂蜜与豆浆",
+    "level": "gold",
+    "category": "民间迷思",
+    "text": "流传较广的禁忌组合，现代无毒性依据，更应看个体对甜润与豆腥组合的耐受。"
+  },
+  {
+    "ids": ["muscovy-duck", "ginger"],
+    "title": "鸭肉与生姜",
+    "level": "notice",
+    "category": "传统食养",
+    "text": "姜可去鸭腥、缓其偏凉，是常见平衡做法；体热、咽痛明显时仍要控制总量。"
+  },
+  {
+    "ids": ["winter-melon", "shrimp-fresh"],
+    "title": "冬瓜与虾",
+    "level": "notice",
+    "category": "现代安全",
+    "text": "家常汤品常见组合，重点在海鲜过敏、痛风急性期与冬瓜偏寒时的个体耐受。"
+  },
+  {
+    "ids": ["goji-berry", "chrysanthemum"],
+    "title": "枸杞与菊花",
+    "level": "notice",
+    "category": "传统食养",
+    "text": "经典清润茶饮组合，一偏补养一偏清利；明显怕冷、腹泻者不宜长期大量。"
+  },
+  {
+    "ids": ["longan", "jujube"],
+    "title": "龙眼与红枣",
+    "level": "notice",
+    "category": "传统食养",
+    "text": "偏温甜叠加，适合少量作羹汤；糖尿病、明显上火或痰湿偏重时控制频率。"
+  },
+  {
+    "ids": ["fish-mint", "tofu"],
+    "title": "鱼腥草与豆腐",
+    "level": "notice",
+    "category": "现代安全",
+    "text": "西南常见凉拌组合，重点在鱼腥草偏寒与个体肠胃耐受，并非绝对禁忌。"
+  },
+  {
+    "ids": ["lychee", "green-tea"],
+    "title": "荔枝与绿茶",
+    "level": "notice",
+    "category": "现代安全",
+    "text": "一偏热甜一偏清利，不是禁配，但空腹、失眠或明显上火时不宜浓茶配大量荔枝。"
+  },
+  {
+    "ids": ["crayfish", "beer"],
+    "title": "小龙虾与啤酒",
+    "level": "caution",
+    "category": "现代安全",
+    "text": "高嘌呤与酒精叠加，痛风、高尿酸和急性胃肠炎人群应避免。"
+  },
+  {
+    "ids": ["durian", "milk"],
+    "title": "榴莲与牛奶",
+    "level": "gold",
+    "category": "民间迷思",
+    "text": "流传“同吃不适”的条目，现代无普遍毒性依据，更应关注高热量、乳糖不耐与个体消化差异。"
+  },
+  {
+    "ids": ["persimmon", "yogurt"],
+    "title": "柿子与酸奶",
+    "level": "caution",
+    "category": "现代安全",
+    "text": "鞣酸与蛋白同餐时，空腹或一次吃太多更容易腹胀不适，宜熟食、适量。"
+  },
+  {
+    "ids": ["pear", "honey"],
+    "title": "梨与蜂蜜",
+    "level": "notice",
+    "category": "传统食养",
+    "text": "秋燥润喉常见组合，偏凉润；糖尿病、腹泻与一岁以下婴幼儿不宜用蜂蜜。"
+  },
+  {
+    "ids": ["pea-tips", "larou"],
+    "title": "豌豆尖与腊肉",
+    "level": "notice",
+    "category": "现代安全",
+    "text": "春令常见搭配，重点在腊肉盐分与脂量；高血压、控盐期应减量。"
+  },
+  {
+    "ids": ["wuchang-bream", "orange"],
+    "title": "武昌鱼与柑橘",
+    "level": "notice",
+    "category": "现代安全",
+    "text": "河鲜与酸性水果同餐时，部分人会感到胃部不适，重点在空腹与过量。"
+  }
+]

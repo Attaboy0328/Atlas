@@ -5222,5 +5222,444 @@ const CLASSIC_DIET_RECIPES = [
     ],
     "draft": false,
     "classicTier": 1
+  },
+  {
+    "id": "solar-lichun-chive-egg",
+    "name": "立春韭菜炒蛋",
+    "solarTerm": "立春",
+    "season": [
+      "春季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "肝郁气滞",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "chives",
+      "egg"
+    ],
+    "subtitle": "升发助阳",
+    "ingredients": [
+      "韭菜 150 克",
+      "鸡蛋 2 个",
+      "生姜 2 片",
+      "少油、少盐"
+    ],
+    "steps": [
+      "韭菜洗净切段，鸡蛋打散",
+      "热锅少油，先炒蛋至半熟盛出",
+      "下韭菜快炒断生，再合炒鸡蛋，温热食用"
+    ],
+    "note": "偏温辛，明显上火、咽痛时不宜多吃。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "春令宜少酸多甘、助阳气升发，韭菜为春季常见时蔬。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-yushui-coix-adzuki",
+    "name": "雨水薏米赤小豆粥",
+    "solarTerm": "雨水",
+    "season": [
+      "春季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "痰湿困脾",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "coix-seed",
+      "adzuki-bean",
+      "rice"
+    ],
+    "subtitle": "健脾渗湿",
+    "ingredients": [
+      "薏米 30 克",
+      "赤小豆 30 克",
+      "粳米 60 克"
+    ],
+    "steps": [
+      "薏米、赤小豆浸泡 2 小时",
+      "与粳米同煮至软烂",
+      "温热作早餐或加餐，每周 2–3 次"
+    ],
+    "note": "孕妇、明显体弱者不宜长期大量单独食用薏米。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "雨水前后湿重，薏米配赤小豆为常见利湿组合。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-jingzhe-pear-chenpi",
+    "name": "惊蛰陈皮雪梨饮",
+    "solarTerm": "惊蛰",
+    "season": [
+      "春季"
+    ],
+    "nature": "凉",
+    "syndromes": [
+      "肺阴虚",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "pear",
+      "chenpi"
+    ],
+    "subtitle": "润燥理气",
+    "ingredients": [
+      "雪梨 1 个",
+      "陈皮 3 克",
+      "清水 500 ml"
+    ],
+    "steps": [
+      "雪梨切块，陈皮稍泡",
+      "同煮 15–20 分钟",
+      "温热少量饮用"
+    ],
+    "note": "偏凉润，脾胃虚寒、腹泻者不宜多饮。",
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "春燥渐起，梨配陈皮为常见润养饮。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-qingming-toona-tofu",
+    "name": "清明香椿拌豆腐",
+    "solarTerm": "清明",
+    "season": [
+      "春季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "肝郁气滞"
+    ],
+    "foodIds": [
+      "toona-sprout",
+      "tofu"
+    ],
+    "subtitle": "醒脾升发",
+    "ingredients": [
+      "香椿芽 50 克",
+      "北豆腐 200 克",
+      "少盐、香油"
+    ],
+    "steps": [
+      "香椿焯水去硝酸盐，切碎",
+      "豆腐切块焯水或蒸热",
+      "拌匀作凉菜，少量食用"
+    ],
+    "note": "香椿需焯水；亚硝酸盐敏感人群、孕妇慎食大量。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "香椿为清明前后时蔬，常作醒脾升发之品。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-guyu-green-tea",
+    "name": "谷雨春茶",
+    "solarTerm": "谷雨",
+    "season": [
+      "春季"
+    ],
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "green-tea"
+    ],
+    "subtitle": "清利醒神",
+    "ingredients": [
+      "谷雨前绿茶 3 克",
+      "热水 200 ml"
+    ],
+    "steps": [
+      "温杯后投茶，85 ℃ 左右热水冲泡",
+      "第一泡 30 秒出汤，宜淡不宜浓",
+      "上午少量品饮，避免空腹与睡前"
+    ],
+    "note": "失眠、反流、贫血补铁期不宜浓茶。",
+    "sources": [
+      {
+        "title": "《茶经》",
+        "summary": "谷雨茶为春茶代表，偏清利醒神。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-lixia-lotus-congee",
+    "name": "立夏莲子粥",
+    "solarTerm": "立夏",
+    "season": [
+      "夏季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "心脾两虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "lotus-seed",
+      "rice"
+    ],
+    "subtitle": "养心安神",
+    "ingredients": [
+      "莲子 20 克",
+      "粳米 80 克",
+      "清水适量"
+    ],
+    "steps": [
+      "莲子提前浸泡",
+      "与粳米同煮至软烂",
+      "温热作早餐或加餐"
+    ],
+    "note": "偏平和，便秘、腹胀明显时可减少莲子用量。",
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "立夏后暑气渐升，莲子粥为常见清补粥方。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-xiaoman-mung-soup",
+    "name": "小满绿豆汤",
+    "solarTerm": "小满",
+    "season": [
+      "夏季"
+    ],
+    "nature": "寒",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "mung-bean"
+    ],
+    "subtitle": "清暑利湿",
+    "ingredients": [
+      "绿豆 50 克",
+      "清水 800 ml",
+      "冰糖适量（可选）"
+    ],
+    "steps": [
+      "绿豆浸泡 1 小时",
+      "大火煮沸后转小火煮 40 分钟至开花",
+      "温热或放凉少量饮用"
+    ],
+    "note": "偏寒凉，脾胃虚寒、腹泻者不宜大量或冰镇饮用。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "小满前后暑湿渐重，绿豆汤为常见清利之品。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-mangzhong-ginger-jujube",
+    "name": "芒种姜枣茶",
+    "solarTerm": "芒种",
+    "season": [
+      "夏季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "阳虚"
+    ],
+    "foodIds": [
+      "ginger",
+      "jujube"
+    ],
+    "subtitle": "温中益气",
+    "ingredients": [
+      "生姜 3 片",
+      "红枣 5 枚",
+      "清水 500 ml"
+    ],
+    "steps": [
+      "红枣去核，与生姜同煮 15 分钟",
+      "温热代茶少量饮用",
+      "上午或午后为宜"
+    ],
+    "note": "偏温，明显上火、咽痛、便秘时不宜多饮。",
+    "sources": [
+      {
+        "title": "《伤寒论》",
+        "summary": "姜枣为温中益气经典组合，芒种忙季可少量调养。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-xiazhi-bitter-melon",
+    "name": "夏至苦瓜炒蛋",
+    "solarTerm": "夏至",
+    "season": [
+      "夏季"
+    ],
+    "nature": "寒",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "bitter-melon",
+      "egg"
+    ],
+    "subtitle": "清暑除烦",
+    "ingredients": [
+      "苦瓜 1 根",
+      "鸡蛋 2 个",
+      "少油、少盐"
+    ],
+    "steps": [
+      "苦瓜去瓤切片，鸡蛋打散",
+      "苦瓜先快炒断生",
+      "倒入蛋液合炒，趁热食用"
+    ],
+    "note": "偏苦寒，脾胃虚寒、孕妇慎食大量。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "夏至暑盛，苦瓜为常见清暑时蔬。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-liqiu-lily-pear",
+    "name": "立秋百合雪梨汤",
+    "solarTerm": "立秋",
+    "season": [
+      "秋季"
+    ],
+    "nature": "凉",
+    "syndromes": [
+      "肺阴虚",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "lily-bulb",
+      "pear"
+    ],
+    "subtitle": "润燥生津",
+    "ingredients": [
+      "百合 20 克",
+      "雪梨 1 个",
+      "冰糖适量（可选）"
+    ],
+    "steps": [
+      "百合提前浸泡",
+      "雪梨切块与百合同煮 20 分钟",
+      "温热少量饮用"
+    ],
+    "note": "偏清润，明显腹泻或脾胃虚寒者不宜多饮。",
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "立秋后燥气渐起，百合雪梨为常见润燥汤。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-qiufen-white-fungus",
+    "name": "秋分银耳羹",
+    "solarTerm": "秋分",
+    "season": [
+      "秋季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "肺阴虚",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "white-fungus",
+      "jujube"
+    ],
+    "subtitle": "养阴润肺",
+    "ingredients": [
+      "银耳 10 克",
+      "红枣 5 枚",
+      "清水适量"
+    ],
+    "steps": [
+      "银耳泡发撕小朵",
+      "与红枣小火煮至软糯",
+      "可作加餐少量食用"
+    ],
+    "note": "甜腻或痰湿偏重时控制频率。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "秋分燥气当令，银耳羹为常见润养之品。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-dongzhi-lamb-ginger",
+    "name": "冬至羊肉生姜汤",
+    "solarTerm": "冬至",
+    "season": [
+      "冬季"
+    ],
+    "nature": "热",
+    "syndromes": [
+      "阳虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "lamb",
+      "ginger"
+    ],
+    "subtitle": "温阳散寒",
+    "ingredients": [
+      "羊肉 200 克",
+      "生姜 5 片",
+      "清水 1000 ml"
+    ],
+    "steps": [
+      "羊肉焯水去血沫",
+      "与生姜同炖 90 分钟至熟烂",
+      "撇去浮油，少盐调味，温热适量"
+    ],
+    "note": "偏温热，内热明显、咽痛、便秘、痛风急性期不宜多吃。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "冬至一阳生，羊肉姜汤为常见温补汤品。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
   }
 ];

@@ -151,6 +151,17 @@ const RECIPE_SEASON_SHORTCUTS = [
   { label: "四时", season: "四季" }
 ];
 
+const RECIPE_SOLAR_TERM_SHORTCUTS = [
+  { label: "立春", solarTerm: "立春", season: "春季" },
+  { label: "雨水", solarTerm: "雨水", season: "春季" },
+  { label: "清明", solarTerm: "清明", season: "春季" },
+  { label: "小满", solarTerm: "小满", season: "夏季" },
+  { label: "夏至", solarTerm: "夏至", season: "夏季" },
+  { label: "立秋", solarTerm: "立秋", season: "秋季" },
+  { label: "秋分", solarTerm: "秋分", season: "秋季" },
+  { label: "冬至", solarTerm: "冬至", season: "冬季" }
+];
+
 const LIBRARY_QI_TOPICS = ["药食同源", "中药材", "行气", "理气", "破气", "降气"];
 const LIBRARY_TEA_TOPICS = ["茶", "绿茶", "白茶", "黄茶", "乌龙茶", "黑茶", "红茶"];
 
@@ -801,6 +812,7 @@ const state = {
   recipesCooking: "全部",
   recipesCoreFood: "全部",
   recipesSeason: "全部",
+  recipesSolarTerm: "全部",
   recipesBodyFeel: "全部",
   recipesTonify: "全部",
   recipesClear: "全部",
@@ -1593,12 +1605,17 @@ const recipes = publishedRecipeItems.map((item) => ({
   useFor: uniq((item.useFor || []).concat(RECIPE_SYNDROME_META[item.primarySyndrome || item.syndromes[0] || ""]?.useFor || [])),
   avoidFor: uniq((item.avoidFor || []).concat(RECIPE_SYNDROME_META[item.primarySyndrome || item.syndromes[0] || ""]?.avoidFor || [])),
   foods: item.foodIds.map((id) => foodMap.get(id)).filter(Boolean)
-})).map((item) => ({
-  ...item,
-  ...inferRecipeStructure(item),
-  useForTags: stringsToFilterTagIds(item.useFor, "useFor", RECIPE_FILTER_TAG_LOOKUP),
-  avoidForTags: stringsToFilterTagIds(item.avoidFor, "avoidFor", RECIPE_FILTER_TAG_LOOKUP)
-}));
+})).map((item) => {
+  const inferred = inferRecipeStructure(item);
+  return {
+    ...item,
+    ...inferred,
+    season: (item.season && item.season.length) ? item.season : inferred.season,
+    solarTerm: cleanString(item.solarTerm || ""),
+    useForTags: stringsToFilterTagIds(item.useFor, "useFor", RECIPE_FILTER_TAG_LOOKUP),
+    avoidForTags: stringsToFilterTagIds(item.avoidFor, "avoidFor", RECIPE_FILTER_TAG_LOOKUP)
+  };
+});
 
 function recipeFilterTagsInUse(kind) {
   const field = kind === "useFor" ? "useForTags" : "avoidForTags";
@@ -1871,6 +1888,7 @@ function applyRecipeScenario(scenario) {
   state.recipesSyndrome = scenario.syndrome || "全部";
   state.recipesCoreFood = "全部";
   state.recipesSeason = "全部";
+  state.recipesSolarTerm = "全部";
   state.recipesTiming = "全部";
 }
 
@@ -1879,14 +1897,26 @@ function applyRecipeSeasonShortcut(shortcut) {
   state.recipesNature = "全部";
   state.recipesSyndrome = "全部";
   state.recipesCoreFood = "全部";
+  state.recipesSolarTerm = "全部";
   state.recipesSeason = shortcut.season || "全部";
   state.recipesTiming = shortcut.timing || "全部";
+}
+
+function applyRecipeSolarTermShortcut(shortcut) {
+  resetRecipesAdvancedFilters();
+  state.recipesNature = "全部";
+  state.recipesSyndrome = "全部";
+  state.recipesCoreFood = "全部";
+  state.recipesSolarTerm = shortcut.solarTerm || "全部";
+  state.recipesSeason = shortcut.season || "全部";
+  state.recipesTiming = "全部";
 }
 
 function isRecipeScenarioActive(scenario) {
   return state.recipesNature === (scenario.nature || "全部")
     && state.recipesSyndrome === (scenario.syndrome || "全部")
     && state.recipesSeason === "全部"
+    && state.recipesSolarTerm === "全部"
     && state.recipesTiming === "全部"
     && countRecipesAdvancedFilters() === 0
     && state.recipesCoreFood === "全部";
@@ -1895,6 +1925,17 @@ function isRecipeScenarioActive(scenario) {
 function isRecipeSeasonShortcutActive(shortcut) {
   return state.recipesSeason === (shortcut.season || "全部")
     && state.recipesTiming === (shortcut.timing || "全部")
+    && state.recipesSolarTerm === "全部"
+    && state.recipesNature === "全部"
+    && state.recipesSyndrome === "全部"
+    && state.recipesCoreFood === "全部"
+    && countRecipesAdvancedFilters() === 0;
+}
+
+function isRecipeSolarTermShortcutActive(shortcut) {
+  return state.recipesSolarTerm === (shortcut.solarTerm || "全部")
+    && state.recipesSeason === (shortcut.season || "全部")
+    && state.recipesTiming === "全部"
     && state.recipesNature === "全部"
     && state.recipesSyndrome === "全部"
     && state.recipesCoreFood === "全部"
@@ -2371,6 +2412,17 @@ function bindViewEvents() {
     });
   });
 
+  app.querySelectorAll("[data-recipe-solar-term]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      const index = Number(button.dataset.recipeSolarTerm);
+      const shortcut = RECIPE_SOLAR_TERM_SHORTCUTS[index];
+      if (!shortcut) return;
+      applyRecipeSolarTermShortcut(shortcut);
+      afterRecipeFilterChange({ scrollToResults: true });
+    });
+  });
+
   const homeSearch = app.querySelector("#homeSearch");
   if (homeSearch) {
     bindReactiveInput(homeSearch, (value) => {
@@ -2718,6 +2770,7 @@ function countRecipesActiveFilters() {
   if (state.recipesNature !== "全部") count += 1;
   if (state.recipesSyndrome !== "全部") count += 1;
   if (state.recipesCoreFood !== "全部") count += 1;
+  if (state.recipesSolarTerm !== "全部") count += 1;
   return count;
 }
 
@@ -2745,6 +2798,7 @@ function getRecipesFilterSummary() {
   if (state.recipesTiming !== "全部") parts.push(state.recipesTiming);
   if (state.recipesCooking !== "全部") parts.push(state.recipesCooking);
   if (state.recipesSeason !== "全部") parts.push(state.recipesSeason);
+  if (state.recipesSolarTerm !== "全部") parts.push(state.recipesSolarTerm);
   if (state.recipesBodyFeel !== "全部") parts.push(state.recipesBodyFeel);
   if (state.recipesTonify !== "全部") parts.push(state.recipesTonify);
   if (state.recipesClear !== "全部") parts.push(state.recipesClear);
@@ -3288,6 +3342,15 @@ function renderRecipeScenarioShortcuts() {
           isRecipeSeasonShortcutActive(shortcut)
         )).join("")}
       </div>
+      <div class="recipe-scenario-row">
+        <span class="recipe-shortcut-label">节气</span>
+        ${RECIPE_SOLAR_TERM_SHORTCUTS.map((shortcut, index) => chip(
+          shortcut.label,
+          String(index),
+          "data-recipe-solar-term",
+          isRecipeSolarTermShortcutActive(shortcut)
+        )).join("")}
+      </div>
     </div>
   `;
 }
@@ -3476,6 +3539,7 @@ function filterRecipes() {
     const byCooking = state.recipesCooking === "全部" || (item.cooking || []).includes(state.recipesCooking);
     const byCoreFood = state.recipesCoreFood === "全部" || (item.coreFoods || []).includes(state.recipesCoreFood);
     const bySeason = state.recipesSeason === "全部" || (item.season || []).includes(state.recipesSeason);
+    const bySolarTerm = state.recipesSolarTerm === "全部" || item.solarTerm === state.recipesSolarTerm;
     const byBodyFeel = state.recipesBodyFeel === "全部" || (item.bodyFeel || []).includes(state.recipesBodyFeel);
     const byTonify = state.recipesTonify === "全部" || item.tonify === state.recipesTonify;
     const byClear = state.recipesClear === "全部" || item.clear === state.recipesClear;
@@ -3491,13 +3555,14 @@ function filterRecipes() {
       ...(item.cooking || []),
       ...(item.coreFoods || []),
       ...(item.season || []),
+      item.solarTerm || "",
       ...(item.bodyFeel || []),
       item.tonify || "",
       item.clear || "",
       ...item.foods.map((food) => food.name)
     ].join(" ").toLowerCase();
     const byQuery = !query || blob.includes(query);
-    return byNature && bySyndrome && byUseFor && byAvoidFor && byTiming && byCooking && byCoreFood && bySeason && byBodyFeel && byTonify && byClear && byQuery;
+    return byNature && bySyndrome && byUseFor && byAvoidFor && byTiming && byCooking && byCoreFood && bySeason && bySolarTerm && byBodyFeel && byTonify && byClear && byQuery;
   });
 }
 
@@ -3767,6 +3832,9 @@ function renderRecipeFilterTagSection(label, tags, dataAttr, activeValue) {
 }
 
 function getRecipeTierMeta(item) {
+  if (item.solarTerm || item.id?.startsWith("solar-")) {
+    return { label: "节气方", tone: "#6b5b3d", pale: "rgba(107, 91, 61, 0.12)" };
+  }
   if (item.classicTier === 1 || (item.sources?.length && item.id?.startsWith("classic-"))) {
     return { label: "经典方", tone: "#8a6b2d", pale: "rgba(138, 107, 45, 0.12)" };
   }
@@ -4256,7 +4324,7 @@ function renderRecipeDetail(item) {
         </div>
       </div>
       <div class="filter-group filter-group-wrap">
-        ${recipeTierBadge(item)}${item.primarySyndrome ? `<span class="pill-badge">主证：${item.primarySyndrome}</span>` : ""}${secondarySyndromes.map((syndrome) => `<span class="pill-badge">兼见：${syndrome}</span>`).join("")}
+        ${recipeTierBadge(item)}${item.solarTerm ? `<span class="pill-badge">节气：${item.solarTerm}</span>` : ""}${item.primarySyndrome ? `<span class="pill-badge">主证：${item.primarySyndrome}</span>` : ""}${secondarySyndromes.map((syndrome) => `<span class="pill-badge">兼见：${syndrome}</span>`).join("")}
       </div>
       <p class="sheet-summary">${item.note || "这是一条用于日常饮食整理的食疗方条目。"}${item.bulkTier === 2 ? " 本条为参考方，步骤按通用食养思路整理，请结合个体情况调整。" : ""}</p>
       <button class="plain-button cta-button" data-toggle-recipe-favorite="${item.id}">${favorite ? "已收藏" : "收藏这个食疗方"}</button>
