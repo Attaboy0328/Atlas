@@ -1570,8 +1570,13 @@ function renderPwaInstallGuideSheet() {
   `;
 }
 
+function openAuxiliarySheet(type, html) {
+  state.sheet = { type };
+  showSheet(html);
+}
+
 function openPwaInstallGuide() {
-  showSheet(renderPwaInstallGuideSheet());
+  openAuxiliarySheet("pwa-guide", renderPwaInstallGuideSheet());
 }
 
 function renderPwaInstallSection() {
@@ -1710,7 +1715,7 @@ function handleDelegatedActionClick(event) {
     event.preventDefault();
     event.stopPropagation();
     triggerHapticFeedback();
-    showSheet(renderFeedbackForm());
+    openAuxiliarySheet("feedback", renderFeedbackForm());
     return;
   }
 
@@ -3905,16 +3910,18 @@ function recipeRow(item) {
     item.primarySyndrome ? `主证：${item.primarySyndrome}` : "主证：未标注",
     secondarySyndromes.length ? `兼见：${secondarySyndromes.join(" / ")}` : ""
   ].filter(Boolean).join(" · ");
+  const natureMeta = NATURE_META[item.nature] || NATURE_META.复合;
 
   return `
     <article class="recipe-row" data-open-recipe="${item.id}" role="button" tabindex="0">
-      <div class="food-main">
-        <strong>${item.name}</strong>
-        <small>${[item.subtitle, syndromeLine].filter(Boolean).join(" · ")}</small>
-      </div>
-      <div class="recipe-row-badges">
-        ${recipeTierBadge(item)}
-        ${natureBadge(item.nature)}
+      <div class="nature-seal" style="background:${natureMeta.pale};color:${natureMeta.tone}">${item.nature || "平"}</div>
+      <div class="food-main recipe-row-main">
+        <div class="recipe-row-head">
+          <strong>${item.name}</strong>
+          <div class="recipe-row-badges">${recipeTierBadge(item)}</div>
+        </div>
+        ${item.subtitle ? `<small class="recipe-row-subtitle">${item.subtitle}</small>` : ""}
+        <small class="recipe-row-syndrome">${syndromeLine}</small>
       </div>
     </article>
   `;
@@ -4057,6 +4064,12 @@ function openSheetFromState() {
   if (state.sheet.type === "recipe") {
     const item = recipes.find((recipeItem) => recipeItem.id === state.sheet.id);
     if (item) showSheet(renderRecipeDetail(item));
+  }
+  if (state.sheet.type === "pwa-guide") {
+    showSheet(renderPwaInstallGuideSheet());
+  }
+  if (state.sheet.type === "feedback") {
+    showSheet(renderFeedbackForm());
   }
 }
 

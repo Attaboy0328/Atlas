@@ -151,14 +151,10 @@ button {
 .brand-mark {
   width: 38px;
   height: 38px;
-  display: grid;
-  place-items: center;
+  flex-shrink: 0;
   border-radius: 50%;
-  color: var(--paper);
-  background: var(--green-deep);
-  font-family: var(--serif);
-  font-size: 21px;
-  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.18);
+  object-fit: cover;
+  box-shadow: 0 1px 4px rgba(38, 50, 42, 0.14);
 }
 
 .brand-button strong,
@@ -1557,16 +1553,61 @@ button {
   text-underline-offset: 2px;
 }
 
+.recipe-row {
+  grid-template-columns: auto 1fr;
+  align-items: start;
+}
+
+.recipe-row-main {
+  min-width: 0;
+}
+
+.recipe-row-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.recipe-row-head strong {
+  margin-bottom: 0;
+  flex: 1;
+  min-width: 0;
+}
+
 .recipe-row-badges {
   display: flex;
-  flex-direction: column;
-  align-items: flex-end;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
   gap: 6px;
+  flex-shrink: 0;
+}
+
+.recipe-row-subtitle {
+  display: block;
+  margin-top: 4px;
+  color: var(--ink-soft);
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.recipe-row-syndrome {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  margin-top: 3px;
+  color: color-mix(in srgb, var(--ink-soft) 88%, var(--ink));
+  font-size: 11px;
+  line-height: 1.5;
 }
 
 .recipe-tier-badge {
   font-size: 10px;
   letter-spacing: 0.02em;
+  white-space: nowrap;
 }
 
 .recipe-caution-list {
@@ -2073,10 +2114,6 @@ button {
 
 .profile-toggle.active .switch::after {
   transform: translateX(18px);
-}
-
-.recipe-row {
-  grid-template-columns: auto 1fr auto;
 }
 
 .suggestion-list-card {
