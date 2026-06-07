@@ -42,6 +42,7 @@ const CN_ETHNIC_GROUPS = [
 
 const CATEGORY_ORDER = [
   "食药物质",
+  "中药材",
   "调料",
   "茶饮",
   "饮品",
@@ -654,6 +655,7 @@ const RESTORED_PAIRING_RULES = [
 PAIRING_RULES.push(...RESTORED_PAIRING_RULES);
 
 RECIPES.push(...(typeof BULK_RECIPES_ENHANCED !== "undefined" ? BULK_RECIPES_ENHANCED : []));
+RECIPES.push(...(typeof CLASSIC_DIET_RECIPES !== "undefined" ? CLASSIC_DIET_RECIPES : []));
 
 
 const SYNDROME_RECIPE_EXPANSION_PACK = [
@@ -709,6 +711,7 @@ const state = {
   libraryProvince: "全部",
   libraryEthnic: "全部",
   libraryTopic: "",
+  libraryKind: "全部",
   checkerQuery: "",
   checkerSelected: [],
   checkerScrollPending: false,
@@ -1228,6 +1231,7 @@ RUNTIME_FOOD_EXPANSION.push(
 const foods = dedupeFoods(normalizeFoods([
   ...(Array.isArray(EXPANDED_FOODS) ? EXPANDED_FOODS : []),
   ...(typeof CN_SUPPLEMENT_FOODS !== "undefined" ? CN_SUPPLEMENT_FOODS : []),
+  ...(typeof TCM_HERBS_CORE !== "undefined" ? TCM_HERBS_CORE : []),
   ...RUNTIME_FOOD_EXPANSION
 ]));
 const foodMap = new Map(foods.map((food) => [food.id, food]));
@@ -1418,6 +1422,7 @@ const RECIPE_BODY_FEEL_OPTIONS = uniq(recipes.flatMap((item) => item.bodyFeel ||
 const RECIPE_TONIFY_OPTIONS = uniq(recipes.map((item) => item.tonify).filter(Boolean)).slice(0, 4);
 const RECIPE_CLEAR_OPTIONS = uniq(recipes.map((item) => item.clear).filter(Boolean)).slice(0, 4);
 const OFFICIAL_COUNT = foods.filter((food) => food.officialFoodMedicine).length;
+const TCM_HERB_COUNT = foods.filter((food) => food.itemKind === "tcm-herb" || food.category === "中药材").length;
 const TEA_COUNT = foods.filter((food) => food.category === "茶饮").length;
 
 const CATEGORY_COUNTS = countBy(foods, (food) => food.category);
@@ -1656,6 +1661,7 @@ function applyUrlState() {
   if (params.get("lp")) state.libraryProvince = params.get("lp") || "全部";
   if (params.get("le")) state.libraryEthnic = params.get("le") || "全部";
   if (params.has("lt")) state.libraryTopic = params.get("lt") || "";
+  if (params.get("lk")) state.libraryKind = params.get("lk");
 
   if (params.get("rn")) state.recipesNature = params.get("rn");
   if (params.get("rs")) state.recipesSyndrome = params.get("rs");
@@ -1757,17 +1763,29 @@ function normalizeFoods(items) {
       varietyNote: cleanString(food.varietyNote || ""),
       faCategory: cleanString(enrichment.faCategory || food.faCategory || ""),
       faNote: cleanString(enrichment.faNote || food.faNote || ""),
+      itemKind: cleanString(food.itemKind || (food.category === "中药材" ? "tcm-herb" : food.officialFoodMedicine ? "food-medicine" : "food")),
+      usageScope: cleanString(food.usageScope || (food.officialFoodMedicine ? "dietary-therapy" : food.category === "中药材" ? "reference-only" : "food")),
+      partUsed: cleanString(food.partUsed || ""),
+      pharmacopoeiaEdition: cleanString(food.pharmacopoeiaEdition || ""),
+      pinyin: cleanString(food.pinyin || ""),
+      initials: cleanString(food.initials || ""),
+      meridians: uniq((food.meridians || []).map(cleanString).filter(Boolean)),
+      relatedForms: uniq((food.relatedForms || []).map(cleanString).filter(Boolean)),
+      sources: Array.isArray(food.sources) ? food.sources : [],
       aliases,
       ...regionParts,
       effects: uniq((food.effects || []).map(cleanString).filter(Boolean)),
       benefits: uniq([...(food.benefits || []), ...(enrichment.benefits || [])].map(cleanString).filter(Boolean)),
       suitableFor: uniq([...(food.suitableFor || []), ...(enrichment.suitableFor || [])].map(cleanString).filter(Boolean)),
       avoidFor: uniq([...(food.avoidFor || []), ...(enrichment.avoidFor || [])].map(cleanString).filter(Boolean)),
-      contraindications: uniq([...(food.contraindications || []), ...(enrichment.contraindications || [])].map(cleanString).filter(Boolean)),
-      cautionTags: uniq([...(food.cautionTags || []), ...(enrichment.cautionTags || [])].map(cleanString).filter(Boolean)),
-      searchTerms,
-      searchBlob: uniq(searchTerms).join(" ").toLowerCase()
-    };
+    contraindications: uniq([...(food.contraindications || []), ...(enrichment.contraindications || [])].map(cleanString).filter(Boolean)),
+    cautionTags: uniq([...(food.cautionTags || []), ...(enrichment.cautionTags || [])].map(cleanString).filter(Boolean)),
+    searchTerms,
+    searchBlob: uniq(searchTerms).join(" ").toLowerCase(),
+    alone: cleanString(food.alone || enrichment.alone || ""),
+    timing: cleanString(food.timing || enrichment.timing || ""),
+    pair: cleanString(food.pair || enrichment.pair || "")
+  };
   });
 }
 
@@ -1814,6 +1832,15 @@ function mergeFoodEntries(current, incoming) {
   merged.faCategory = primary.faCategory || secondary.faCategory || "";
   merged.faNote = primary.faNote || secondary.faNote || "";
   merged.officialFoodMedicine = Boolean(current.officialFoodMedicine || incoming.officialFoodMedicine);
+  merged.itemKind = primary.itemKind || secondary.itemKind || merged.itemKind;
+  merged.usageScope = primary.usageScope || secondary.usageScope || merged.usageScope;
+  merged.partUsed = primary.partUsed || secondary.partUsed || "";
+  merged.pharmacopoeiaEdition = primary.pharmacopoeiaEdition || secondary.pharmacopoeiaEdition || "";
+  merged.meridians = uniq([...(current.meridians || []), ...(incoming.meridians || [])].map(cleanString));
+  merged.relatedForms = uniq([...(current.relatedForms || []), ...(incoming.relatedForms || [])].map(cleanString));
+  merged.sources = (primary.sources?.length ? primary.sources : secondary.sources) || [];
+  merged.pinyin = primary.pinyin || secondary.pinyin || "";
+  merged.initials = primary.initials || secondary.initials || "";
   merged.searchBlob = uniq([merged.name, ...(merged.searchTerms || []), ...(merged.aliases || [])])
     .map((item) => cleanString(item).toLowerCase())
     .filter(Boolean)
@@ -1837,12 +1864,17 @@ function foodCompletenessScore(food) {
     ...(food.avoidFor || []),
     ...(food.contraindications || []),
     ...(food.regions || [])
-  ].filter(Boolean).length + (food.officialFoodMedicine ? 20 : 0);
+  ].filter(Boolean).length
+    + (food.officialFoodMedicine ? 20 : 0)
+    + (food.pharmacopoeiaEdition ? 15 : 0)
+    + (food.meridians?.length ? 5 : 0);
 }
 
 function cleanNature(value) {
   const normalized = cleanString(value);
-  return ["寒", "凉", "平", "温", "热", "复合"].includes(normalized) ? normalized : "复合";
+  const aliases = { 微寒: "寒", 大寒: "寒", 微温: "温", 大温: "温", 大热: "热" };
+  const mapped = aliases[normalized] || normalized;
+  return ["寒", "凉", "平", "温", "热", "复合"].includes(mapped) ? mapped : "复合";
 }
 
 function cleanString(value) {
@@ -2100,6 +2132,14 @@ function bindLibraryEvents() {
 }
 
 function bindLibraryFilterControls(root) {
+  root.querySelectorAll("[data-library-kind]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.libraryKind = button.dataset.libraryKind;
+      afterLibraryFilterChange({ scrollToResults: true });
+    });
+  });
+
   root.querySelectorAll("[data-library-nature]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
@@ -2334,6 +2374,7 @@ function scrollToResultAnchor() {
 
 function countLibraryActiveFilters() {
   let count = 0;
+  if (state.libraryKind !== "全部") count += 1;
   if (state.libraryNature !== "全部") count += 1;
   if (state.libraryTopic) count += 1;
   if (state.libraryCategory !== "全部") count += 1;
@@ -2366,6 +2407,9 @@ function countRecipesActiveFilters() {
 
 function getLibraryFilterSummary() {
   const parts = [];
+  if (state.libraryKind !== "全部") {
+    parts.push({ 全部: "全部", food: "食材", "food-medicine": "药食同源", "tcm-herb": "中药材" }[state.libraryKind] || state.libraryKind);
+  }
   if (state.libraryNature !== "全部") parts.push(state.libraryNature);
   if (state.libraryTopic) parts.push(state.libraryTopic);
   if (state.libraryCategory !== "全部") parts.push(state.libraryCategory);
@@ -2422,6 +2466,7 @@ function renderStickyBrowseToolbar({
 }
 
 function resetLibraryFilters() {
+  state.libraryKind = "全部";
   state.libraryNature = "全部";
   state.libraryCategory = "全部";
   state.libraryRegion = "ALL";
@@ -2611,9 +2656,21 @@ function bindFilterSheetEvents() {
 }
 
 function renderLibraryFilterSections() {
-  const teaTopics = ["茶", "绿茶", "白茶", "黄茶", "乌龙茶", "黑茶", "药食同源", "行气", "理气", "破气", "降气"];
+  const teaTopics = ["茶", "绿茶", "白茶", "黄茶", "乌龙茶", "黑茶", "药食同源", "中药材", "行气", "理气", "破气", "降气"];
+  const kindOptions = [
+    { label: "全部", value: "全部" },
+    { label: "食材", value: "food" },
+    { label: "药食同源", value: "food-medicine" },
+    { label: "中药材", value: "tcm-herb" }
+  ];
   return `
     <section class="filter-panel filter-panel-library filter-drawer-panel">
+      <div class="filter-subsection">
+        <div class="filter-label">条目类型</div>
+        <div class="filter-group filter-group-wrap">
+          ${kindOptions.map((item) => chip(item.label, item.value, "data-library-kind", state.libraryKind === item.value)).join("")}
+        </div>
+      </div>
       <div class="filter-subsection">
         <div class="filter-label">传统食性</div>
         <div class="filter-group filter-group-wrap">
@@ -2750,7 +2807,7 @@ function renderLibrary() {
       activeFilterCount: countLibraryActiveFilters(),
       resultCount: items.length,
       resultUnit: "食材",
-      resultMeta: `药食同源 ${OFFICIAL_COUNT} · 茶类 ${TEA_COUNT}`
+      resultMeta: `药食同源 ${OFFICIAL_COUNT} · 中药材 ${TCM_HERB_COUNT} · 茶类 ${TEA_COUNT}`
     })}
 
     <section class="food-list">
@@ -2929,7 +2986,8 @@ function renderProfile() {
     <section class="detail-section">
       <h2 class="section-title">数据说明</h2>
       <ul>
-        <li>药食同源专题以可追溯条目方式持续补全，当前库内已整理 ${OFFICIAL_COUNT} 项。</li>
+        <li>药食同源专题以可追溯条目方式持续补全，当前库内已整理 ${OFFICIAL_COUNT} 项；中药材核心目录 ${TCM_HERB_COUNT} 项，正名与规格以《中华人民共和国药典》2025年版为基准。</li>
+        <li>非药食同源的中药材条目标注为「参考查阅」，仅供信息整理，不替代诊断、处方或药典医嘱。</li>
         <li>传统食性、气机术语、发物和证候提示属于整理性注释，不替代医疗判断。</li>
         <li>当前页面以中国、日本、韩国、美国、英国等常见日常食材为主，地区扩库会继续分批补充。</li>
         <li>经典依据优先整理自《本草拾遗》《黄帝内经》《神农本草经》《食疗本草》《千金要方·食治篇》《饮膳正要》《脾胃论》《本草纲目》《养老奉亲书》《齐民要术》《随园食单》等食养与本草文献。</li>
@@ -2950,8 +3008,19 @@ function filterFoods() {
     const byEthnic = state.libraryEthnic === "全部"
       || (food.ethnicGroups || []).includes(state.libraryEthnic);
     const byTopic = !state.libraryTopic || matchTopic(food, state.libraryTopic);
-    return byNature && byCategory && byRegion && byProvince && byEthnic && byTopic;
+    const byKind = matchLibraryKind(food, state.libraryKind);
+    return byNature && byCategory && byRegion && byProvince && byEthnic && byTopic && byKind;
   });
+}
+
+function matchLibraryKind(food, kind) {
+  if (!kind || kind === "全部") return true;
+  const itemKind = food.itemKind
+    || (food.category === "中药材" ? "tcm-herb" : food.officialFoodMedicine ? "food-medicine" : "food");
+  if (kind === "food") return itemKind === "food";
+  if (kind === "food-medicine") return itemKind === "food-medicine" || food.officialFoodMedicine;
+  if (kind === "tcm-herb") return itemKind === "tcm-herb" || food.category === "中药材";
+  return true;
 }
 
 function searchFoods(query, options = {}) {
@@ -2989,7 +3058,8 @@ function scoreFood(food, term) {
 }
 
 function matchTopic(food, topic) {
-  if (topic === "药食同源") return food.officialFoodMedicine;
+  if (topic === "药食同源") return food.officialFoodMedicine || food.itemKind === "food-medicine";
+  if (topic === "中药材") return food.itemKind === "tcm-herb" || food.category === "中药材";
   if (topic === "茶") return food.category === "茶饮";
   if (["绿茶", "白茶", "黄茶", "乌龙茶", "黑茶", "红茶"].includes(topic)) return food.teaClass === topic || food.name === topic;
   return food.effects.includes(topic) || (food.qiTerms || []).includes(topic) || food.searchTerms.includes(topic);
@@ -3231,7 +3301,11 @@ function handleFeedbackSubmit(event) {
 
 
 function foodListMeta(food) {
-  return [food.category, food.teaClass].filter(Boolean).join(" · ");
+  const parts = [food.category, food.teaClass];
+  if (food.pharmacopoeiaEdition === "2025" && (food.itemKind === "tcm-herb" || food.category === "中药材")) {
+    parts.push("药典2025");
+  }
+  return parts.filter(Boolean).join(" · ");
 }
 
 function chip(label, value, dataAttr, active = false) {
@@ -3483,49 +3557,68 @@ function renderFoodDetail(food) {
   const sources = Array.isArray(food.sources) ? food.sources : [];
   const favorite = state.favorites.includes(food.id);
   const hasSuitability = Boolean(food.faCategory || food.faNote || food.suitableFor.length || food.avoidFor.length || food.contraindications.length);
+  const isTcmHerb = food.itemKind === "tcm-herb" || food.category === "中药材";
+  const isReferenceOnly = food.usageScope === "reference-only";
+  const relatedFormFoods = (food.relatedForms || []).map((id) => foodMap.get(id)).filter(Boolean);
   const sheetNav = renderSheetSubnav([
     { id: "sheet-overview", label: "概览" },
-    { id: "sheet-eating", label: "怎么吃" },
+    { id: "sheet-eating", label: isTcmHerb ? "使用提示" : "怎么吃" },
     ...(hasSuitability ? [{ id: "sheet-suitability", label: "宜忌" }] : []),
     { id: "sheet-sources", label: "依据" }
   ]);
 
   return `
     ${renderFoodProfileAlert(food)}
+    ${isReferenceOnly ? `
+    <section class="notice caution sheet-profile-alert">
+      <strong>中药信息参考</strong>
+      本条为《中国药典》2025年版整理信息，仅供查阅，不替代诊断、处方或医嘱；不可自行当作普通食材大量食用。
+    </section>` : ""}
     ${sheetNav}
     <section class="sheet-hero" id="sheet-overview">
       <div class="sheet-hero-top">
         <div class="nature-seal" style="background:${(NATURE_META[food.nature] || NATURE_META.复合).pale};color:${(NATURE_META[food.nature] || NATURE_META.复合).tone}">${food.nature}</div>
         <div>
           <h2 class="sheet-title">${food.name}</h2>
-          <p class="sheet-subtitle">${[food.category, food.teaClass].filter(Boolean).join(" · ")}</p>
+          <p class="sheet-subtitle">${[food.category, food.teaClass, food.en].filter(Boolean).join(" · ")}</p>
         </div>
       </div>
       <div class="filter-group filter-group-wrap">
         <span class="pill-badge">${food.category}</span>
         ${food.officialFoodMedicine ? '<span class="pill-badge">药食同源</span>' : ""}
+        ${food.pharmacopoeiaEdition === "2025" ? '<span class="pill-badge">药典2025</span>' : ""}
+        ${isReferenceOnly ? '<span class="pill-badge">参考查阅</span>' : ""}
         ${food.effects.slice(0, 3).map((effect) => `<span class="pill-badge">${effect}</span>`).join("")}
       </div>
+      ${food.aliases.length ? `<p class="sheet-subtitle">别名：${food.aliases.slice(0, 8).join("、")}</p>` : ""}
       <p class="sheet-summary">${food.summary || "暂无摘要。"}</p>
-      <button class="plain-button cta-button" data-toggle-favorite="${food.id}">${favorite ? "已收藏" : "收藏这个食材"}</button>
+      <button class="plain-button cta-button" data-toggle-favorite="${food.id}">${favorite ? "已收藏" : isTcmHerb ? "收藏此条目" : "收藏这个食材"}</button>
     </section>
 
     <section class="detail-section">
-      <h3 id="sheet-nature">传统食养属性</h3>
+      <h3 id="sheet-nature">${isTcmHerb ? "传统中药属性" : "传统食养属性"}</h3>
       <div class="detail-grid">
-        <div class="detail-block"><strong>食性</strong><p>${food.nature} · ${(NATURE_META[food.nature] || NATURE_META.复合).label}</p></div>
-        <div class="detail-block"><strong>五味</strong><p>${food.flavor || "未标注"}</p></div>
+        <div class="detail-block"><strong>性</strong><p>${food.nature} · ${(NATURE_META[food.nature] || NATURE_META.复合).label}</p></div>
+        <div class="detail-block"><strong>味</strong><p>${food.flavor || "未标注"}</p></div>
+        ${isTcmHerb ? `<div class="detail-block"><strong>归经</strong><p>${food.meridians.length ? food.meridians.join("、") : "未标注"}</p></div>` : ""}
+        ${isTcmHerb ? `<div class="detail-block"><strong>药用部位</strong><p>${food.partUsed || "未标注"}</p></div>` : ""}
         <div class="detail-block"><strong>地区来源</strong><p>${renderRegionSummary(food)}</p></div>
         <div class="detail-block"><strong>传统关键词</strong><p>${food.effects.join("、") || "未标注"}</p></div>
       </div>
+      ${relatedFormFoods.length ? `
+      <p><strong>相关规格：</strong>
+        ${relatedFormFoods.map((item) => `<button type="button" class="plain-button inline-link" data-open-food="${item.id}">${item.name}</button>`).join("、")}
+      </p>` : ""}
     </section>
 
     <section class="detail-section" id="sheet-eating">
-      <h3>食用建议</h3>
+      <h3>${isTcmHerb ? "使用与食养提示" : "食用建议"}</h3>
       <div class="detail-grid">
-        <div class="detail-block"><strong>单独吃是否合适</strong><p>${food.alone || "少量、熟食、结合个人耐受来判断。"}</p></div>
-        <div class="detail-block"><strong>更适合什么时候吃</strong><p>${food.timing || "优先放在规律正餐里，而不是靠极端做法放大寒热。"} </p></div>
-        <div class="detail-block"><strong>如何搭配</strong><p>${food.pair || "与主食、蛋白质、蔬菜一起看整体结构。"} </p></div>
+        ${isTcmHerb
+          ? `<div class="detail-block"><strong>适用范围</strong><p>${isReferenceOnly ? "中药信息参考，非日常食材目录。" : "可在药食同源场景下少量入膳。"}</p></div>`
+          : `<div class="detail-block"><strong>单独吃是否合适</strong><p>${food.alone || "少量、熟食、结合个人耐受来判断。"}</p></div>`}
+        <div class="detail-block"><strong>更适合什么时候${isTcmHerb ? "参考" : "吃"}</strong><p>${food.timing || (isTcmHerb ? "按证候与个体状态，由专业人士指导。" : "优先放在规律正餐里，而不是靠极端做法放大寒热。")} </p></div>
+        <div class="detail-block"><strong>${isTcmHerb ? "常见配伍思路" : "如何搭配"}</strong><p>${food.pair || (isTcmHerb ? "详见相关食疗方与经典依据，勿自行拼凑处方。" : "与主食、蛋白质、蔬菜一起看整体结构。")} </p></div>
         <div class="detail-block"><strong>安全提示</strong><p>${food.caution || "结合剂量、加工方式和个人状态综合判断。"} </p></div>
       </div>
     </section>
@@ -3842,6 +3935,7 @@ function syncUrl(options = {}) {
     if (state.libraryProvince !== "全部") params.set("lp", state.libraryProvince);
     if (state.libraryEthnic !== "全部") params.set("le", state.libraryEthnic);
     if (state.libraryTopic) params.set("lt", state.libraryTopic);
+    if (state.libraryKind !== "全部") params.set("lk", state.libraryKind);
   }
   if (state.view === "recipes") {
     if (state.recipesQuery) params.set("q", state.recipesQuery);

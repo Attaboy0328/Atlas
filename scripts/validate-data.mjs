@@ -20,6 +20,12 @@ const app = fs.readFileSync(path.join(root, "app.js"), "utf8");
 const errors = [];
 const warnings = [];
 
+function readJson(relPath) {
+  const file = path.join(root, relPath);
+  if (!fs.existsSync(file)) return null;
+  return JSON.parse(fs.readFileSync(file, "utf8"));
+}
+
 function collectFoodIds(source, label) {
   const ids = new Set();
   const fRe = /f\(\s*["']([^"']+)["']/g;
@@ -34,10 +40,15 @@ function collectFoodIds(source, label) {
 
 const expandedIds = collectFoodIds(expanded, "foods-expanded");
 const cnIds = collectFoodIds(cnBundle, "foods-cn-bundle");
+const tcmBundlePath = path.join(root, "generated", "tcm-herbs-bundle.js");
+const tcmBundle = fs.existsSync(tcmBundlePath) ? fs.readFileSync(tcmBundlePath, "utf8") : "";
+const tcmIds = collectFoodIds(tcmBundle, "tcm-herbs-bundle");
+const classicPath = path.join(root, "generated", "classic-diet-recipes.js");
+const classicRecipes = fs.existsSync(classicPath) ? fs.readFileSync(classicPath, "utf8") : "";
 const runtimeMatch = app.match(/const RUNTIME_FOOD_EXPANSION = \[([\s\S]*?)\n\];/);
 const runtimeIds = collectFoodIds(runtimeMatch ? runtimeMatch[1] : "", "runtime");
 
-const allFoodIds = new Set([...expandedIds.ids, ...cnIds.ids, ...runtimeIds.ids]);
+const allFoodIds = new Set([...expandedIds.ids, ...cnIds.ids, ...tcmIds.ids, ...runtimeIds.ids]);
 
 function collectRecipeFoodRefs(sources) {
   const refs = [];
@@ -59,7 +70,7 @@ function collectRecipeFoodRefs(sources) {
   return refs;
 }
 
-const recipeRefs = collectRecipeFoodRefs([app, bulkRecipes]);
+const recipeRefs = collectRecipeFoodRefs([app, bulkRecipes, classicRecipes]);
 const missingFoodRefs = [...new Set(recipeRefs.map((r) => r.id))].filter((id) => !allFoodIds.has(id));
 if (missingFoodRefs.length) {
   errors.push(`Recipe foodIds missing from food catalog: ${missingFoodRefs.join(", ")}`);
@@ -107,6 +118,37 @@ if (rulesMissingCategory.length) {
   warnings.push(`Pairing rules missing category: ${rulesMissingCategory.join(", ")}`);
 }
 
+const herbs = readJson("data/tcm/herbs-chp2025.json");
+if (!herbs?.length) {
+  errors.push("Missing or empty data/tcm/herbs-chp2025.json — run npm run build:data");
+} else {
+  const herbIds = new Set();
+  const herbNames = new Set();
+  herbs.forEach((herb) => {
+    if (herbIds.has(herb.id)) errors.push(`Duplicate herb id in herbs-chp2025.json: ${herb.id}`);
+    if (herbNames.has(herb.name)) errors.push(`Duplicate herb name in herbs-chp2025.json: ${herb.name}`);
+    herbIds.add(herb.id);
+    herbNames.add(herb.name);
+    if (!herb.pharmacopoeiaEdition) warnings.push(`Herb missing pharmacopoeiaEdition: ${herb.name}`);
+  });
+  if (herbs.length < 600) {
+    warnings.push(`TCM catalog ${herbs.length} herbs — ChP 2025 target is ~616`);
+  }
+}
+
+const ingredients = readJson("data/cn/foods-ingredients.json");
+if (!ingredients?.length) {
+  errors.push("Missing or empty data/cn/foods-ingredients.json");
+} else {
+  const ingIds = new Set();
+  ingredients.forEach((food) => {
+    if (ingIds.has(food.id)) errors.push(`Duplicate food id in foods-ingredients.json: ${food.id}`);
+    ingIds.add(food.id);
+  });
+  const hasLigao = ingredients.some((f) => f.name === "藜蒿" || f.aliases?.includes("芦蒿"));
+  if (!hasLigao) errors.push("foods-ingredients.json missing 藜蒿");
+}
+
 const fffd = (expanded + cnBundle + app).match(/\uFFFD/g);
 if (fffd?.length) warnings.push(`Found ${fffd.length} U+FFFD replacement characters`);
 
@@ -122,9 +164,16 @@ if (!bulkCount) {
   warnings.push(`${draftBulk} bulk recipes still marked draft in generated bundle`);
 }
 
+const classicCount = (classicRecipes.match(/"classicTier"\s*:\s*1/g) || []).length;
+if (classicCount < 100) {
+  warnings.push(`Classic diet recipes published: ${classicCount} — target is 100+`);
+}
+
 console.log("=== Atlas validate-data ===");
-console.log(`Food ids: expanded ${expandedIds.ids.size}, cn bundle ${cnIds.ids.size}, runtime ${runtimeIds.ids.size}, total ${allFoodIds.size}`);
-console.log(`Recipe food references: ${recipeRefs.length}, pairing food ids: ${pairingIds.size}, bulk recipes: ${bulkCount}`);
+console.log(`Food ids: expanded ${expandedIds.ids.size}, cn bundle ${cnIds.ids.size}, tcm ${tcmIds.ids.size}, runtime ${runtimeIds.ids.size}, total ${allFoodIds.size}`);
+console.log(`Recipe food references: ${recipeRefs.length}, pairing food ids: ${pairingIds.size}, bulk recipes: ${bulkCount}, classic recipes: ${classicCount}`);
+if (herbs) console.log(`TCM source herbs-chp2025.json: ${herbs.length}`);
+if (ingredients) console.log(`CN ingredients: ${ingredients.length}`);
 
 if (warnings.length) {
   console.log("\nWarnings:");

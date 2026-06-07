@@ -1,0 +1,3842 @@
+[
+  {
+    "id": "colla-corii-asini",
+    "name": "阿胶",
+    "aliases": [
+      "驴皮胶"
+    ],
+    "en": "",
+    "pinyin": "ejiao",
+    "initials": "ej",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "平",
+    "flavor": "甘",
+    "meridians": [
+      "肺",
+      "肝",
+      "肾"
+    ],
+    "partUsed": "加工胶块",
+    "effects": [
+      "补血滋阴",
+      "润燥"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "阿胶为《中国药典》2025年版收载品种，传统整理常作补血滋阴、润燥方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「阿胶」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "ejiao",
+      "ej",
+      "驴皮胶"
+    ]
+  },
+  {
+    "id": "ampelopsis-japonica",
+    "name": "白蔹",
+    "aliases": [
+      "白根"
+    ],
+    "en": "",
+    "pinyin": "bailian",
+    "initials": "bl",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "苦、辛",
+    "meridians": [
+      "心",
+      "胃"
+    ],
+    "partUsed": "块根",
+    "effects": [
+      "清热解毒",
+      "消痈散结"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "白蔹为《中国药典》2025年版收载品种，传统整理常作清热解毒、消痈散结方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「白蔹」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "bailian",
+      "bl",
+      "白根"
+    ]
+  },
+  {
+    "id": "cynanchum-atratum",
+    "name": "白薇",
+    "aliases": [
+      "白幕"
+    ],
+    "en": "",
+    "pinyin": "baiwei",
+    "initials": "bw",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "苦、咸",
+    "meridians": [
+      "胃",
+      "肝",
+      "肾"
+    ],
+    "partUsed": "根及根茎",
+    "effects": [
+      "清热凉血",
+      "利尿"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "白薇为《中国药典》2025年版收载品种，传统整理常作清热凉血、利尿方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「白薇」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "baiwei",
+      "bw",
+      "白幕"
+    ]
+  },
+  {
+    "id": "dictamnus-dasycarpus",
+    "name": "白鲜皮",
+    "aliases": [
+      "白膻"
+    ],
+    "en": "",
+    "pinyin": "baixianpi",
+    "initials": "bxp",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "苦",
+    "meridians": [
+      "脾",
+      "胃",
+      "膀胱"
+    ],
+    "partUsed": "根皮",
+    "effects": [
+      "清热燥湿",
+      "祛风"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "白鲜皮为《中国药典》2025年版收载品种，传统整理常作清热燥湿、祛风方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「白鲜皮」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "baixianpi",
+      "bxp",
+      "白膻"
+    ]
+  },
+  {
+    "id": "angelica-dahurica",
+    "name": "白芷",
+    "aliases": [
+      "杭白芷",
+      "川白芷"
+    ],
+    "en": "",
+    "pinyin": "baizhi",
+    "initials": "bz",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛",
+    "meridians": [
+      "胃",
+      "大肠",
+      "肺"
+    ],
+    "partUsed": "根",
+    "effects": [
+      "解表散寒",
+      "祛风止痛"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "白芷为《中国药典》2025年版收载品种，传统整理常作解表散寒、祛风止痛方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「白芷」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "baizhi",
+      "bz",
+      "杭白芷",
+      "川白芷"
+    ]
+  },
+  {
+    "id": "asarum-heterotropoides",
+    "name": "北细辛",
+    "aliases": [
+      "细辛",
+      "辽细辛"
+    ],
+    "en": "",
+    "pinyin": "beixixin",
+    "initials": "bxx",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛",
+    "meridians": [
+      "心",
+      "肺",
+      "肾"
+    ],
+    "partUsed": "根及根茎",
+    "effects": [
+      "祛风散寒",
+      "通窍"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "北细辛为《中国药典》2025年版收载品种，传统整理常作祛风散寒、通窍方向参考。",
+    "caution": "有小毒，不可过量；非日常食材。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「北细辛」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "beixixin",
+      "bxx",
+      "细辛",
+      "辽细辛"
+    ]
+  },
+  {
+    "id": "fructus-piperis-longi",
+    "name": "荜茇",
+    "aliases": [
+      "荜拨"
+    ],
+    "en": "",
+    "pinyin": "biba",
+    "initials": "bb",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "热",
+    "flavor": "辛",
+    "meridians": [
+      "胃",
+      "大肠"
+    ],
+    "partUsed": "近成熟或成熟果穗",
+    "effects": [
+      "温中散寒",
+      "下气"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "荜茇为《中国药典》2025年版收载品种，传统整理常作温中散寒、下气方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「荜茇」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "biba",
+      "bb",
+      "荜拨"
+    ]
+  },
+  {
+    "id": "polygonum-aviculare",
+    "name": "萹蓄",
+    "aliases": [
+      "萹竹"
+    ],
+    "en": "",
+    "pinyin": "bianxu",
+    "initials": "bx",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "苦",
+    "meridians": [
+      "膀胱"
+    ],
+    "partUsed": "地上部分",
+    "effects": [
+      "利尿通淋",
+      "杀虫"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "萹蓄为《中国药典》2025年版收载品种，传统整理常作利尿通淋、杀虫方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「萹蓄」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "bianxu",
+      "bx",
+      "萹竹"
+    ]
+  },
+  {
+    "id": "trionyx-shell",
+    "name": "鳖甲",
+    "aliases": [],
+    "en": "",
+    "pinyin": "biejia",
+    "initials": "bj",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "咸",
+    "meridians": [
+      "肝",
+      "肾"
+    ],
+    "partUsed": "背甲",
+    "effects": [
+      "滋阴潜阳",
+      "软坚"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "鳖甲为《中国药典》2025年版收载品种，传统整理常作滋阴潜阳、软坚方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「鳖甲」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "biejia",
+      "bj"
+    ]
+  },
+  {
+    "id": "xanthium-sibiricum",
+    "name": "苍耳子",
+    "aliases": [
+      "苍耳"
+    ],
+    "en": "",
+    "pinyin": "cangerzi",
+    "initials": "cez",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛、苦",
+    "meridians": [
+      "肺"
+    ],
+    "partUsed": "成熟果实",
+    "effects": [
+      "散风寒",
+      "通鼻窍",
+      "祛风湿"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "苍耳子为《中国药典》2025年版收载品种，传统整理常作散风寒、通鼻窍方向参考。",
+    "caution": "有小毒，不宜大量久服。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「苍耳子」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "cangerzi",
+      "cez",
+      "苍耳"
+    ]
+  },
+  {
+    "id": "alpinia-katsumadai",
+    "name": "草豆蔻",
+    "aliases": [],
+    "en": "",
+    "pinyin": "caodoukou",
+    "initials": "cdk",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛",
+    "meridians": [
+      "脾",
+      "胃"
+    ],
+    "partUsed": "近成熟种子",
+    "effects": [
+      "燥湿行气",
+      "温中"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "草豆蔻为《中国药典》2025年版收载品种，传统整理常作燥湿行气、温中方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「草豆蔻」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "caodoukou",
+      "cdk"
+    ]
+  },
+  {
+    "id": "amomi-tsao-ko",
+    "name": "草果",
+    "aliases": [],
+    "en": "",
+    "pinyin": "caoguo",
+    "initials": "cg",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛",
+    "meridians": [
+      "脾",
+      "胃"
+    ],
+    "partUsed": "成熟果实",
+    "effects": [
+      "燥湿温中",
+      "除痰截疟"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "草果为《中国药典》2025年版收载品种，传统整理常作燥湿温中、除痰截疟方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「草果」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "caoguo",
+      "cg"
+    ]
+  },
+  {
+    "id": "halloysitum-rubrum",
+    "name": "赤石脂",
+    "aliases": [],
+    "en": "",
+    "pinyin": "chishizhi",
+    "initials": "csz",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "甘、酸、涩",
+    "meridians": [
+      "大肠",
+      "胃"
+    ],
+    "partUsed": "矿物",
+    "effects": [
+      "涩肠",
+      "止血"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "赤石脂为《中国药典》2025年版收载品种，传统整理常作涩肠、止血方向参考。",
+    "caution": "矿物药，非食材。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「赤石脂」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "chishizhi",
+      "csz"
+    ]
+  },
+  {
+    "id": "clerodendrum-trichotomum",
+    "name": "臭梧桐叶",
+    "aliases": [
+      "臭梧桐"
+    ],
+    "en": "",
+    "pinyin": "chouwu tongye",
+    "initials": "cwty",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "凉",
+    "flavor": "辛、苦",
+    "meridians": [
+      "肝",
+      "胆"
+    ],
+    "partUsed": "叶",
+    "effects": [
+      "祛风湿",
+      "平肝"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "臭梧桐叶为《中国药典》2025年版收载品种，传统整理常作祛风湿、平肝方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「臭梧桐叶」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "chouwu tongye",
+      "cwty",
+      "臭梧桐"
+    ]
+  },
+  {
+    "id": "clematis-mandshurica",
+    "name": "川木通",
+    "aliases": [],
+    "en": "",
+    "pinyin": "chuanmutong",
+    "initials": "cmt",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "苦",
+    "meridians": [
+      "心",
+      "小肠",
+      "膀胱"
+    ],
+    "partUsed": "茎",
+    "effects": [
+      "利尿通淋",
+      "通经"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "川木通为《中国药典》2025年版收载品种，传统整理常作利尿通淋、通经方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「川木通」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "chuanmutong",
+      "cmt"
+    ]
+  },
+  {
+    "id": "eleutherococcus-nodiflorus",
+    "name": "刺五加",
+    "aliases": [],
+    "en": "",
+    "pinyin": "ciwujia",
+    "initials": "cwj",
+    "itemKind": "food-medicine",
+    "usageScope": "dietary-therapy",
+    "officialFoodMedicine": true,
+    "category": "食药物质",
+    "nature": "温",
+    "flavor": "辛、微苦",
+    "meridians": [
+      "脾",
+      "肾",
+      "心"
+    ],
+    "partUsed": "根及根茎",
+    "effects": [
+      "益气健脾",
+      "补肾安神"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "刺五加为《中国药典》2025年版收载品种，传统整理常作益气健脾、补肾安神方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「刺五加」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "ciwujia",
+      "cwj"
+    ]
+  },
+  {
+    "id": "limonite",
+    "name": "代赭石",
+    "aliases": [],
+    "en": "",
+    "pinyin": "daizheshi",
+    "initials": "dzs",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "苦",
+    "meridians": [
+      "肝",
+      "心"
+    ],
+    "partUsed": "矿物",
+    "effects": [
+      "平肝潜阳",
+      "降逆",
+      "止血"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "代赭石为《中国药典》2025年版收载品种，传统整理常作平肝潜阳、降逆方向参考。",
+    "caution": "矿物药，非食材。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「代赭石」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "daizheshi",
+      "dzs"
+    ]
+  },
+  {
+    "id": "canavalia-gladiata",
+    "name": "刀豆",
+    "aliases": [],
+    "en": "",
+    "pinyin": "daodou",
+    "initials": "dd",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "甘",
+    "meridians": [
+      "胃",
+      "肾"
+    ],
+    "partUsed": "成熟种子",
+    "effects": [
+      "温中下气",
+      "补肾"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "刀豆为《中国药典》2025年版收载品种，传统整理常作温中下气、补肾方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「刀豆」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "daodou",
+      "dd"
+    ]
+  },
+  {
+    "id": "juncus-effusus",
+    "name": "灯心草",
+    "aliases": [
+      "灯芯草"
+    ],
+    "en": "",
+    "pinyin": "dengxincao",
+    "initials": "dxc",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "甘、淡",
+    "meridians": [
+      "心",
+      "肺",
+      "小肠"
+    ],
+    "partUsed": "茎髓",
+    "effects": [
+      "清心火",
+      "利小便"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "灯心草为《中国药典》2025年版收载品种，传统整理常作清心火、利小便方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「灯心草」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "dengxincao",
+      "dxc",
+      "灯芯草"
+    ]
+  },
+  {
+    "id": "erysibe-obtusifolia",
+    "name": "丁公藤",
+    "aliases": [],
+    "en": "",
+    "pinyin": "dinggongteng",
+    "initials": "dgt",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛",
+    "meridians": [
+      "肝",
+      "脾",
+      "胃"
+    ],
+    "partUsed": "藤茎",
+    "effects": [
+      "祛风除湿",
+      "消肿"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "丁公藤为《中国药典》2025年版收载品种，传统整理常作祛风除湿、消肿方向参考。",
+    "caution": "有一定毒性，不可自行使用。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「丁公藤」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "dinggongteng",
+      "dgt"
+    ]
+  },
+  {
+    "id": "finger-citron",
+    "name": "佛手",
+    "aliases": [
+      "佛手柑"
+    ],
+    "en": "",
+    "pinyin": "foshou",
+    "initials": "fs",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛、苦、酸",
+    "meridians": [
+      "肝",
+      "脾",
+      "胃",
+      "肺"
+    ],
+    "partUsed": "成熟果实",
+    "effects": [
+      "疏肝理气",
+      "和胃"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "佛手为《中国药典》2025年版收载品种，传统整理常作疏肝理气、和胃方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「佛手」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "foshou",
+      "fs",
+      "佛手柑"
+    ]
+  },
+  {
+    "id": "dried-ginger",
+    "name": "干姜",
+    "aliases": [
+      "炮姜"
+    ],
+    "en": "",
+    "pinyin": "ganjiang",
+    "initials": "gj",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "热",
+    "flavor": "辛",
+    "meridians": [
+      "脾",
+      "胃",
+      "肾",
+      "心",
+      "肺"
+    ],
+    "partUsed": "根茎",
+    "effects": [
+      "温中散寒",
+      "回阳"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "干姜为《中国药典》2025年版收载品种，传统整理常作温中散寒、回阳方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「干姜」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "ganjiang",
+      "gj",
+      "炮姜"
+    ]
+  },
+  {
+    "id": "galangal-officinarum",
+    "name": "高良姜",
+    "aliases": [],
+    "en": "",
+    "pinyin": "gaoliangjiang",
+    "initials": "glj",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "热",
+    "flavor": "辛",
+    "meridians": [
+      "脾",
+      "胃"
+    ],
+    "partUsed": "根茎",
+    "effects": [
+      "温胃止呕",
+      "散寒"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "高良姜为《中国药典》2025年版收载品种，传统整理常作温胃止呕、散寒方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「高良姜」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "gaoliangjiang",
+      "glj"
+    ]
+  },
+  {
+    "id": "eriocaulon-buergerianum",
+    "name": "谷精草",
+    "aliases": [],
+    "en": "",
+    "pinyin": "gujingcao",
+    "initials": "gjc",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛、甘",
+    "meridians": [
+      "肝",
+      "肺"
+    ],
+    "partUsed": "头状花序",
+    "effects": [
+      "疏散风热",
+      "明目"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "谷精草为《中国药典》2025年版收载品种，传统整理常作疏散风热、明目方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「谷精草」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "gujingcao",
+      "gjc"
+    ]
+  },
+  {
+    "id": "testudinis-plastrum",
+    "name": "龟板",
+    "aliases": [
+      "龟甲"
+    ],
+    "en": "",
+    "pinyin": "guiban",
+    "initials": "gb",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "甘、咸",
+    "meridians": [
+      "肝",
+      "肾",
+      "心"
+    ],
+    "partUsed": "背甲及腹甲",
+    "effects": [
+      "滋阴潜阳",
+      "益肾"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "龟板为《中国药典》2025年版收载品种，传统整理常作滋阴潜阳、益肾方向参考。",
+    "caution": "动物药，资源受保护；仅作信息参考。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「龟板」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "guiban",
+      "gb",
+      "龟甲"
+    ]
+  },
+  {
+    "id": "gecko",
+    "name": "蛤蚧",
+    "aliases": [],
+    "en": "",
+    "pinyin": "gejie",
+    "initials": "gj",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "平",
+    "flavor": "咸",
+    "meridians": [
+      "肺",
+      "肾"
+    ],
+    "partUsed": "干燥体",
+    "effects": [
+      "补肺益肾",
+      "纳气定喘"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "蛤蚧为《中国药典》2025年版收载品种，传统整理常作补肺益肾、纳气定喘方向参考。",
+    "caution": "保护动物，应用受法规限制。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「蛤蚧」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "gejie",
+      "gj"
+    ]
+  },
+  {
+    "id": "piper-kadsura",
+    "name": "海风藤",
+    "aliases": [],
+    "en": "",
+    "pinyin": "haifengteng",
+    "initials": "hft",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微温",
+    "flavor": "辛、苦",
+    "meridians": [
+      "肝"
+    ],
+    "partUsed": "藤茎",
+    "effects": [
+      "祛风湿",
+      "通经络"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "海风藤为《中国药典》2025年版收载品种，传统整理常作祛风湿、通经络方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「海风藤」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "haifengteng",
+      "hft"
+    ]
+  },
+  {
+    "id": "lygodium-japonicum",
+    "name": "海金沙",
+    "aliases": [
+      "海金砂"
+    ],
+    "en": "",
+    "pinyin": "haijinsha",
+    "initials": "hjs",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "甘、咸",
+    "meridians": [
+      "膀胱",
+      "小肠"
+    ],
+    "partUsed": "成熟孢子",
+    "effects": [
+      "清利湿热",
+      "通淋"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "海金沙为《中国药典》2025年版收载品种，传统整理常作清利湿热、通淋方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「海金沙」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "haijinsha",
+      "hjs",
+      "海金砂"
+    ]
+  },
+  {
+    "id": "syngnathus",
+    "name": "海龙",
+    "aliases": [],
+    "en": "",
+    "pinyin": "hailong",
+    "initials": "hl",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "甘、咸",
+    "meridians": [
+      "肝",
+      "肾"
+    ],
+    "partUsed": "干燥体",
+    "effects": [
+      "补肾壮阳",
+      "散结"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "海龙为《中国药典》2025年版收载品种，传统整理常作补肾壮阳、散结方向参考。",
+    "caution": "海洋动物，资源受保护；仅作信息参考。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「海龙」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "hailong",
+      "hl"
+    ]
+  },
+  {
+    "id": "hippocampus",
+    "name": "海马",
+    "aliases": [],
+    "en": "",
+    "pinyin": "haima",
+    "initials": "hm",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "甘",
+    "meridians": [
+      "肝",
+      "肾"
+    ],
+    "partUsed": "干燥体",
+    "effects": [
+      "补肾壮阳",
+      "活血"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "海马为《中国药典》2025年版收载品种，传统整理常作补肾壮阳、活血方向参考。",
+    "caution": "海洋保护动物，资源受保护；仅作中药信息参考。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「海马」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "haima",
+      "hm"
+    ]
+  },
+  {
+    "id": "sepia-bone",
+    "name": "海螵蛸",
+    "aliases": [
+      "乌贼骨"
+    ],
+    "en": "",
+    "pinyin": "haipiaoxiao",
+    "initials": "hpx",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "咸、涩",
+    "meridians": [
+      "脾",
+      "肾"
+    ],
+    "partUsed": "内壳",
+    "effects": [
+      "收敛止血",
+      "涩精"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "海螵蛸为《中国药典》2025年版收载品种，传统整理常作收敛止血、涩精方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「海螵蛸」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "haipiaoxiao",
+      "hpx",
+      "乌贼骨"
+    ]
+  },
+  {
+    "id": "albizia-flower",
+    "name": "合欢花",
+    "aliases": [],
+    "en": "",
+    "pinyin": "hehuanhua",
+    "initials": "hhh",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "平",
+    "flavor": "甘",
+    "meridians": [
+      "心",
+      "肝",
+      "肺"
+    ],
+    "partUsed": "花序",
+    "effects": [
+      "解郁安神",
+      "理气"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "合欢花为《中国药典》2025年版收载品种，传统整理常作解郁安神、理气方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「合欢花」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "hehuanhua",
+      "hhh"
+    ]
+  },
+  {
+    "id": "albizia-bark",
+    "name": "合欢皮",
+    "aliases": [],
+    "en": "",
+    "pinyin": "hehuanpi",
+    "initials": "hhp",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "平",
+    "flavor": "甘",
+    "meridians": [
+      "心",
+      "肝",
+      "肺"
+    ],
+    "partUsed": "树皮",
+    "effects": [
+      "解郁安神",
+      "活血"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "合欢皮为《中国药典》2025年版收载品种，传统整理常作解郁安神、活血方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「合欢皮」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "hehuanpi",
+      "hhp"
+    ]
+  },
+  {
+    "id": "carpesium-macrocarpum",
+    "name": "鹤草芽",
+    "aliases": [],
+    "en": "",
+    "pinyin": "hecaoya",
+    "initials": "hcy",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "平",
+    "flavor": "苦",
+    "meridians": [
+      "大肠",
+      "肝"
+    ],
+    "partUsed": "地下部分",
+    "effects": [
+      "杀虫"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "鹤草芽为《中国药典》2025年版收载品种，传统整理常作杀虫方向参考。",
+    "caution": "有毒，不可自行使用。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「鹤草芽」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "hecaoya",
+      "hcy"
+    ]
+  },
+  {
+    "id": "magnolia-flower",
+    "name": "厚朴花",
+    "aliases": [],
+    "en": "",
+    "pinyin": "houbohua",
+    "initials": "hbh",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "苦",
+    "meridians": [
+      "脾",
+      "胃"
+    ],
+    "partUsed": "花蕾",
+    "effects": [
+      "理气",
+      "化湿"
+    ],
+    "relatedForms": [
+      "magnolia-officinalis"
+    ],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "厚朴花为《中国药典》2025年版收载品种，传统整理常作理气、化湿方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「厚朴花」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "houbohua",
+      "hbh"
+    ]
+  },
+  {
+    "id": "picrorhiza-kurrooa",
+    "name": "胡黄连",
+    "aliases": [],
+    "en": "",
+    "pinyin": "huhuanglian",
+    "initials": "hhl",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "苦",
+    "meridians": [
+      "肝",
+      "胃",
+      "大肠"
+    ],
+    "partUsed": "根茎",
+    "effects": [
+      "退虚热",
+      "除疳热"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "胡黄连为《中国药典》2025年版收载品种，传统整理常作退虚热、除疳热方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「胡黄连」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "huhuanglian",
+      "hhl"
+    ]
+  },
+  {
+    "id": "fructus-piperis",
+    "name": "胡椒",
+    "aliases": [],
+    "en": "",
+    "pinyin": "hujiao",
+    "initials": "hj",
+    "itemKind": "food-medicine",
+    "usageScope": "dietary-therapy",
+    "officialFoodMedicine": true,
+    "category": "食药物质",
+    "nature": "热",
+    "flavor": "辛",
+    "meridians": [
+      "胃",
+      "大肠"
+    ],
+    "partUsed": "成熟果实",
+    "effects": [
+      "温中散寒",
+      "下气"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "胡椒为《中国药典》2025年版收载品种，传统整理常作温中散寒、下气方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「胡椒」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "hujiao",
+      "hj"
+    ]
+  },
+  {
+    "id": "trigonella-foenum",
+    "name": "胡芦巴",
+    "aliases": [
+      "芦巴"
+    ],
+    "en": "",
+    "pinyin": "huluba",
+    "initials": "hlb",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "苦",
+    "meridians": [
+      "肾"
+    ],
+    "partUsed": "成熟种子",
+    "effects": [
+      "温肾助阳",
+      "散寒止痛"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "胡芦巴为《中国药典》2025年版收载品种，传统整理常作温肾助阳、散寒止痛方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「胡芦巴」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "huluba",
+      "hlb",
+      "芦巴"
+    ]
+  },
+  {
+    "id": "fritillaria-hupehensis",
+    "name": "湖北贝母",
+    "aliases": [],
+    "en": "",
+    "pinyin": "hubeibeimu",
+    "initials": "hbbm",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "微苦",
+    "meridians": [
+      "肺",
+      "心"
+    ],
+    "partUsed": "鳞茎",
+    "effects": [
+      "清热化痰",
+      "散结"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "湖北贝母为《中国药典》2025年版收载品种，传统整理常作清热化痰、散结方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「湖北贝母」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "hubeibeimu",
+      "hbbm"
+    ]
+  },
+  {
+    "id": "polygonum-cuspidatum",
+    "name": "虎杖",
+    "aliases": [
+      "大虫杖",
+      "酸汤杆"
+    ],
+    "en": "",
+    "pinyin": "huzhang",
+    "initials": "hz",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "微苦",
+    "meridians": [
+      "肝",
+      "胆",
+      "肺"
+    ],
+    "partUsed": "根茎及根",
+    "effects": [
+      "利湿退黄",
+      "清热解毒"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "虎杖为《中国药典》2025年版收载品种，传统整理常作利湿退黄、清热解毒方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「虎杖」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "huzhang",
+      "hz",
+      "大虫杖",
+      "酸汤杆"
+    ]
+  },
+  {
+    "id": "citri-exocarpium-rubrum",
+    "name": "化橘红",
+    "aliases": [
+      "化州橘红"
+    ],
+    "en": "",
+    "pinyin": "huajuhong",
+    "initials": "hjh",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛、苦",
+    "meridians": [
+      "脾",
+      "肺"
+    ],
+    "partUsed": "未成熟或近成熟果皮",
+    "effects": [
+      "理气宽中",
+      "燥湿化痰"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "化橘红为《中国药典》2025年版收载品种，传统整理常作理气宽中、燥湿化痰方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「化橘红」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "huajuhong",
+      "hjh",
+      "化州橘红"
+    ]
+  },
+  {
+    "id": "herba-dendrobii-huoshanense",
+    "name": "霍山石斛",
+    "aliases": [
+      "米斛"
+    ],
+    "en": "",
+    "pinyin": "huoshanshihu",
+    "initials": "hssh",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "甘",
+    "meridians": [
+      "胃",
+      "肾"
+    ],
+    "partUsed": "茎",
+    "effects": [
+      "益胃生津",
+      "滋阴"
+    ],
+    "relatedForms": [
+      "dendrobium-nobile",
+      "dendrobium-officinale"
+    ],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "霍山石斛为《中国药典》2025年版收载品种，传统整理常作益胃生津、滋阴方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「霍山石斛」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "huoshanshihu",
+      "hssh",
+      "米斛"
+    ]
+  },
+  {
+    "id": "celosia-cristata",
+    "name": "鸡冠花",
+    "aliases": [],
+    "en": "",
+    "pinyin": "jiguanhua",
+    "initials": "jgh",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "凉",
+    "flavor": "甘、涩",
+    "meridians": [
+      "肝",
+      "大肠"
+    ],
+    "partUsed": "花序",
+    "effects": [
+      "收敛止血",
+      "止带"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "鸡冠花为《中国药典》2025年版收载品种，传统整理常作收敛止血、止带方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「鸡冠花」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "jiguanhua",
+      "jgh"
+    ]
+  },
+  {
+    "id": "semen-allii-tuberosi",
+    "name": "韭菜子",
+    "aliases": [
+      "韭子"
+    ],
+    "en": "",
+    "pinyin": "jiucaizi",
+    "initials": "jcz",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛、甘",
+    "meridians": [
+      "肝",
+      "肾"
+    ],
+    "partUsed": "成熟种子",
+    "effects": [
+      "温补肝肾",
+      "壮阳"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "韭菜子为《中国药典》2025年版收载品种，传统整理常作温补肝肾、壮阳方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「韭菜子」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "jiucaizi",
+      "jcz",
+      "韭子"
+    ]
+  },
+  {
+    "id": "citri-exocarpium",
+    "name": "橘红",
+    "aliases": [
+      "橘皮"
+    ],
+    "en": "",
+    "pinyin": "juhong",
+    "initials": "jh",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛、苦",
+    "meridians": [
+      "脾",
+      "肺"
+    ],
+    "partUsed": "成熟果皮",
+    "effects": [
+      "理气宽中",
+      "燥湿化痰"
+    ],
+    "relatedForms": [
+      "citrus-reticulata-peel"
+    ],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "橘红为《中国药典》2025年版收载品种，传统整理常作理气宽中、燥湿化痰方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「橘红」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "juhong",
+      "jh",
+      "橘皮"
+    ]
+  },
+  {
+    "id": "tripterygium-wilfordii",
+    "name": "雷公藤",
+    "aliases": [
+      "黄藤根"
+    ],
+    "en": "",
+    "pinyin": "leigongteng",
+    "initials": "lgt",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "苦",
+    "meridians": [
+      "肝",
+      "肾"
+    ],
+    "partUsed": "根及根茎",
+    "effects": [
+      "祛风除湿",
+      "活血"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "雷公藤为《中国药典》2025年版收载品种，传统整理常作祛风除湿、活血方向参考。",
+    "caution": "有大毒，严禁自行使用；仅作中药信息参考。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「雷公藤」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "leigongteng",
+      "lgt",
+      "黄藤根"
+    ]
+  },
+  {
+    "id": "lotus-receptacle",
+    "name": "莲房",
+    "aliases": [],
+    "en": "",
+    "pinyin": "lianfang",
+    "initials": "lf",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "苦、涩",
+    "meridians": [
+      "肝"
+    ],
+    "partUsed": "花托",
+    "effects": [
+      "化瘀止血",
+      "除湿"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "莲房为《中国药典》2025年版收载品种，传统整理常作化瘀止血、除湿方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「莲房」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "lianfang",
+      "lf"
+    ]
+  },
+  {
+    "id": "lotus-stamen",
+    "name": "莲须",
+    "aliases": [
+      "莲蕊"
+    ],
+    "en": "",
+    "pinyin": "lianxu",
+    "initials": "lx",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "平",
+    "flavor": "甘、涩",
+    "meridians": [
+      "心",
+      "肾"
+    ],
+    "partUsed": "雄蕊",
+    "effects": [
+      "固精",
+      "清心"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "莲须为《中国药典》2025年版收载品种，传统整理常作固精、清心方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「莲须」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "lianxu",
+      "lx",
+      "莲蕊"
+    ]
+  },
+  {
+    "id": "lotus-plumule",
+    "name": "莲子心",
+    "aliases": [
+      "莲心"
+    ],
+    "en": "",
+    "pinyin": "lianzixin",
+    "initials": "lzx",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "苦",
+    "meridians": [
+      "心",
+      "肾"
+    ],
+    "partUsed": "胚根",
+    "effects": [
+      "清心安神",
+      "交通心肾"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "莲子心为《中国药典》2025年版收载品种，传统整理常作清心安神、交通心肾方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「莲子心」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "lianzixin",
+      "lzx",
+      "莲心"
+    ]
+  },
+  {
+    "id": "campsis-flos",
+    "name": "凌霄花",
+    "aliases": [],
+    "en": "",
+    "pinyin": "lingxiaohua",
+    "initials": "lxh",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "辛",
+    "meridians": [
+      "肝",
+      "心包"
+    ],
+    "partUsed": "花",
+    "effects": [
+      "活血通经",
+      "凉血"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "凌霄花为《中国药典》2025年版收载品种，传统整理常作活血通经、凉血方向参考。",
+    "caution": "孕妇慎用。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「凌霄花」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "lingxiaohua",
+      "lxh"
+    ]
+  },
+  {
+    "id": "vitex-rotundifolia",
+    "name": "蔓荆子",
+    "aliases": [],
+    "en": "",
+    "pinyin": "manjingzi",
+    "initials": "mjz",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "辛、苦",
+    "meridians": [
+      "膀胱",
+      "肝",
+      "胃"
+    ],
+    "partUsed": "成熟果实",
+    "effects": [
+      "疏散风热",
+      "清利头目"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "蔓荆子为《中国药典》2025年版收载品种，传统整理常作疏散风热、清利头目方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「蔓荆子」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "manjingzi",
+      "mjz"
+    ]
+  },
+  {
+    "id": "rosa-rugosa",
+    "name": "玫瑰花",
+    "aliases": [],
+    "en": "",
+    "pinyin": "meiguihua",
+    "initials": "mgh",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "甘、微苦",
+    "meridians": [
+      "肝",
+      "脾"
+    ],
+    "partUsed": "花蕾",
+    "effects": [
+      "行气解郁",
+      "和血"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "玫瑰花为《中国药典》2025年版收载品种，传统整理常作行气解郁、和血方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「玫瑰花」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "meiguihua",
+      "mgh"
+    ]
+  },
+  {
+    "id": "buddleja-officinalis",
+    "name": "密蒙花",
+    "aliases": [],
+    "en": "",
+    "pinyin": "mimenghua",
+    "initials": "mmh",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "甘",
+    "meridians": [
+      "肝"
+    ],
+    "partUsed": "花蕾",
+    "effects": [
+      "清热泻火",
+      "养肝明目"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "密蒙花为《中国药典》2025年版收载品种，传统整理常作清热泻火、养肝明目方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「密蒙花」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "mimenghua",
+      "mmh"
+    ]
+  },
+  {
+    "id": "akebia-quinata",
+    "name": "木通",
+    "aliases": [
+      "白木通",
+      "通草"
+    ],
+    "en": "",
+    "pinyin": "mutong",
+    "initials": "mt",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "苦",
+    "meridians": [
+      "心",
+      "小肠",
+      "膀胱"
+    ],
+    "partUsed": "茎",
+    "effects": [
+      "利尿通淋",
+      "清心"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "木通为《中国药典》2025年版收载品种，传统整理常作利尿通淋、清心方向参考。",
+    "caution": "关木通等混淆品有毒，须按药典正名辨识。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「木通」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "mutong",
+      "mt",
+      "白木通",
+      "通草"
+    ]
+  },
+  {
+    "id": "fritillaria-ussuriensis",
+    "name": "平贝母",
+    "aliases": [
+      "平贝"
+    ],
+    "en": "",
+    "pinyin": "pingbeimu",
+    "initials": "pbm",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "苦",
+    "meridians": [
+      "肺",
+      "心"
+    ],
+    "partUsed": "鳞茎",
+    "effects": [
+      "清热化痰",
+      "开郁"
+    ],
+    "relatedForms": [
+      "fritillaria-cirrhosa",
+      "fritillaria-thunbergii"
+    ],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "平贝母为《中国药典》2025年版收载品种，传统整理常作清热化痰、开郁方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「平贝母」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "pingbeimu",
+      "pbm",
+      "平贝"
+    ]
+  },
+  {
+    "id": "fraxinus-rhynchophylla",
+    "name": "秦皮",
+    "aliases": [
+      "梣皮"
+    ],
+    "en": "",
+    "pinyin": "qinpi",
+    "initials": "qp",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "苦、涩",
+    "meridians": [
+      "肝",
+      "胆",
+      "大肠"
+    ],
+    "partUsed": "枝皮或干皮",
+    "effects": [
+      "清热燥湿",
+      "收涩止痢"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "秦皮为《中国药典》2025年版收载品种，传统整理常作清热燥湿、收涩止痢方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「秦皮」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "qinpi",
+      "qp",
+      "梣皮"
+    ]
+  },
+  {
+    "id": "sinomenium-acutum",
+    "name": "青风藤",
+    "aliases": [],
+    "en": "",
+    "pinyin": "qingfengteng",
+    "initials": "qft",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "苦、辛",
+    "meridians": [
+      "肝",
+      "脾"
+    ],
+    "partUsed": "藤茎",
+    "effects": [
+      "祛风湿",
+      "通经络"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "青风藤为《中国药典》2025年版收载品种，传统整理常作祛风湿、通经络方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「青风藤」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "qingfengteng",
+      "qft"
+    ]
+  },
+  {
+    "id": "dianthus-superbus",
+    "name": "瞿麦",
+    "aliases": [],
+    "en": "",
+    "pinyin": "qumai",
+    "initials": "qm",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "苦",
+    "meridians": [
+      "心",
+      "小肠"
+    ],
+    "partUsed": "地上部分",
+    "effects": [
+      "利尿通淋",
+      "活血"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "瞿麦为《中国药典》2025年版收载品种，传统整理常作利尿通淋、活血方向参考。",
+    "caution": "孕妇慎用。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「瞿麦」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "qumai",
+      "qm"
+    ]
+  },
+  {
+    "id": "polygonum-bistorta",
+    "name": "拳参",
+    "aliases": [],
+    "en": "",
+    "pinyin": "quanshen",
+    "initials": "qs",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "苦、涩",
+    "meridians": [
+      "肝",
+      "大肠",
+      "肺"
+    ],
+    "partUsed": "根茎",
+    "effects": [
+      "清热解毒",
+      "消肿"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "拳参为《中国药典》2025年版收载品种，传统整理常作清热解毒、消肿方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「拳参」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "quanshen",
+      "qs"
+    ]
+  },
+  {
+    "id": "radix-notoginseng-flower",
+    "name": "三七花",
+    "aliases": [
+      "田七花"
+    ],
+    "en": "",
+    "pinyin": "sanqihua",
+    "initials": "sqh",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "凉",
+    "flavor": "甘",
+    "meridians": [
+      "肝",
+      "胃"
+    ],
+    "partUsed": "花序",
+    "effects": [
+      "清热生津",
+      "平肝"
+    ],
+    "relatedForms": [
+      "panax-notoginseng"
+    ],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "三七花为《中国药典》2025年版收载品种，传统整理常作清热生津、平肝方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「三七花」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "sanqihua",
+      "sqh",
+      "田七花"
+    ]
+  },
+  {
+    "id": "mulberry-root-bark",
+    "name": "桑白皮",
+    "aliases": [],
+    "en": "",
+    "pinyin": "sangbaipi",
+    "initials": "sbp",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "甘",
+    "meridians": [
+      "肺"
+    ],
+    "partUsed": "根皮",
+    "effects": [
+      "泻肺平喘",
+      "利水"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "桑白皮为《中国药典》2025年版收载品种，传统整理常作泻肺平喘、利水方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「桑白皮」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "sangbaipi",
+      "sbp"
+    ]
+  },
+  {
+    "id": "mantidis-ootheca",
+    "name": "桑螵蛸",
+    "aliases": [],
+    "en": "",
+    "pinyin": "sangpiaoxiao",
+    "initials": "spx",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "平",
+    "flavor": "甘、咸",
+    "meridians": [
+      "肝",
+      "肾"
+    ],
+    "partUsed": "卵鞘",
+    "effects": [
+      "固精缩尿",
+      "补肾"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "桑螵蛸为《中国药典》2025年版收载品种，传统整理常作固精缩尿、补肾方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「桑螵蛸」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "sangpiaoxiao",
+      "spx"
+    ]
+  },
+  {
+    "id": "mulberry-fruit",
+    "name": "桑椹",
+    "aliases": [
+      "桑葚",
+      "桑甚"
+    ],
+    "en": "",
+    "pinyin": "sangshen",
+    "initials": "ss",
+    "itemKind": "food-medicine",
+    "usageScope": "dietary-therapy",
+    "officialFoodMedicine": true,
+    "category": "食药物质",
+    "nature": "寒",
+    "flavor": "甘、酸",
+    "meridians": [
+      "心",
+      "肝",
+      "肾"
+    ],
+    "partUsed": "果穗",
+    "effects": [
+      "滋阴补血",
+      "生津"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "桑椹为《中国药典》2025年版收载品种，传统整理常作滋阴补血、生津方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「桑椹」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "sangshen",
+      "ss",
+      "桑葚",
+      "桑甚"
+    ]
+  },
+  {
+    "id": "mulberry-branch",
+    "name": "桑枝",
+    "aliases": [],
+    "en": "",
+    "pinyin": "sangzhi",
+    "initials": "sz",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "平",
+    "flavor": "微苦",
+    "meridians": [
+      "肝"
+    ],
+    "partUsed": "嫩枝",
+    "effects": [
+      "利关节",
+      "通络"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "桑枝为《中国药典》2025年版收载品种，传统整理常作利关节、通络方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「桑枝」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "sangzhi",
+      "sz"
+    ]
+  },
+  {
+    "id": "hippophae-fruit",
+    "name": "沙棘",
+    "aliases": [],
+    "en": "",
+    "pinyin": "shaji",
+    "initials": "sj",
+    "itemKind": "food-medicine",
+    "usageScope": "dietary-therapy",
+    "officialFoodMedicine": true,
+    "category": "食药物质",
+    "nature": "温",
+    "flavor": "酸、涩",
+    "meridians": [
+      "脾",
+      "胃",
+      "肺",
+      "心"
+    ],
+    "partUsed": "成熟果实",
+    "effects": [
+      "健脾消食",
+      "止咳"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "沙棘为《中国药典》2025年版收载品种，传统整理常作健脾消食、止咳方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「沙棘」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "shaji",
+      "sj"
+    ]
+  },
+  {
+    "id": "ophiopogon-root-tuber",
+    "name": "山麦冬",
+    "aliases": [
+      "湖北麦冬"
+    ],
+    "en": "",
+    "pinyin": "shanmaidong",
+    "initials": "smd",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "甘、微苦",
+    "meridians": [
+      "心",
+      "肺",
+      "胃"
+    ],
+    "partUsed": "块根",
+    "effects": [
+      "养阴生津",
+      "润肺"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "山麦冬为《中国药典》2025年版收载品种，传统整理常作养阴生津、润肺方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「山麦冬」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "shanmaidong",
+      "smd",
+      "湖北麦冬"
+    ]
+  },
+  {
+    "id": "pyrrosia-sheareri",
+    "name": "石韦",
+    "aliases": [],
+    "en": "",
+    "pinyin": "shiwei",
+    "initials": "sw",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "凉",
+    "flavor": "甘、苦",
+    "meridians": [
+      "肺",
+      "膀胱"
+    ],
+    "partUsed": "叶",
+    "effects": [
+      "利尿通淋",
+      "清肺止咳"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "石韦为《中国药典》2025年版收载品种，传统整理常作利尿通淋、清肺止咳方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「石韦」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "shiwei",
+      "sw"
+    ]
+  },
+  {
+    "id": "quisqualis-seed",
+    "name": "使君子",
+    "aliases": [
+      "留求子"
+    ],
+    "en": "",
+    "pinyin": "shijunzi",
+    "initials": "sjz",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "甘",
+    "meridians": [
+      "脾",
+      "胃"
+    ],
+    "partUsed": "成熟种子",
+    "effects": [
+      "杀虫消积",
+      "健脾"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "使君子为《中国药典》2025年版收载品种，传统整理常作杀虫消积、健脾方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「使君子」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "shijunzi",
+      "sjz",
+      "留求子"
+    ]
+  },
+  {
+    "id": "polygonum-multiflorum-stem",
+    "name": "首乌藤",
+    "aliases": [
+      "夜交藤"
+    ],
+    "en": "",
+    "pinyin": "shouwuteng",
+    "initials": "swt",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "平",
+    "flavor": "甘",
+    "meridians": [
+      "心",
+      "肝经"
+    ],
+    "partUsed": "藤茎",
+    "effects": [
+      "养血安神",
+      "祛风"
+    ],
+    "relatedForms": [
+      "polygonum-multiflorum-raw",
+      "polygonum-multiflorum-processed"
+    ],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "首乌藤为《中国药典》2025年版收载品种，传统整理常作养血安神、祛风方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「首乌藤」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "shouwuteng",
+      "swt",
+      "夜交藤"
+    ]
+  },
+  {
+    "id": "radix-ophiopogonis",
+    "name": "天冬",
+    "aliases": [
+      "天门冬"
+    ],
+    "en": "",
+    "pinyin": "tiandong",
+    "initials": "td",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "甘、苦",
+    "meridians": [
+      "肺",
+      "肾"
+    ],
+    "partUsed": "块根",
+    "effects": [
+      "养阴润燥",
+      "清肺"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "天冬为《中国药典》2025年版收载品种，传统整理常作养阴润燥、清肺方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「天冬」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "tiandong",
+      "td",
+      "天门冬"
+    ]
+  },
+  {
+    "id": "dendrobium-officinale",
+    "name": "铁皮石斛",
+    "aliases": [
+      "铁皮枫斗"
+    ],
+    "en": "",
+    "pinyin": "tiepishihu",
+    "initials": "tpsh",
+    "itemKind": "food-medicine",
+    "usageScope": "dietary-therapy",
+    "officialFoodMedicine": true,
+    "category": "食药物质",
+    "nature": "微寒",
+    "flavor": "甘",
+    "meridians": [
+      "胃",
+      "肾"
+    ],
+    "partUsed": "茎",
+    "effects": [
+      "益胃生津",
+      "滋阴"
+    ],
+    "relatedForms": [
+      "dendrobium-nobile"
+    ],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "铁皮石斛为《中国药典》2025年版收载品种，传统整理常作益胃生津、滋阴方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「铁皮石斛」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "tiepishihu",
+      "tpsh",
+      "铁皮枫斗"
+    ]
+  },
+  {
+    "id": "tetrapanax-papyrifer",
+    "name": "通草",
+    "aliases": [
+      "通脱木"
+    ],
+    "en": "",
+    "pinyin": "tongcao",
+    "initials": "tc",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "甘、淡",
+    "meridians": [
+      "肺",
+      "胃"
+    ],
+    "partUsed": "茎髓",
+    "effects": [
+      "清热利尿",
+      "通气下乳"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "通草为《中国药典》2025年版收载品种，传统整理常作清热利尿、通气下乳方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「通草」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "tongcao",
+      "tc",
+      "通脱木"
+    ]
+  },
+  {
+    "id": "bolbostemma-paniculatum",
+    "name": "土贝母",
+    "aliases": [],
+    "en": "",
+    "pinyin": "tubeimu",
+    "initials": "tbm",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "凉",
+    "flavor": "苦",
+    "meridians": [
+      "肺",
+      "脾"
+    ],
+    "partUsed": "块茎",
+    "effects": [
+      "解毒",
+      "散结"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "土贝母为《中国药典》2025年版收载品种，传统整理常作解毒、散结方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「土贝母」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "tubeimu",
+      "tbm"
+    ]
+  },
+  {
+    "id": "fructus-evodiae",
+    "name": "吴茱萸",
+    "aliases": [
+      "吴萸"
+    ],
+    "en": "",
+    "pinyin": "wuzhuyu",
+    "initials": "wzy",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "热",
+    "flavor": "辛、苦",
+    "meridians": [
+      "肝",
+      "脾",
+      "胃",
+      "肾"
+    ],
+    "partUsed": "近成熟果实",
+    "effects": [
+      "散寒止痛",
+      "降逆"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "吴茱萸为《中国药典》2025年版收载品种，传统整理常作散寒止痛、降逆方向参考。",
+    "caution": "有小毒，不可自行大量食用。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「吴茱萸」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "wuzhuyu",
+      "wzy",
+      "吴萸"
+    ]
+  },
+  {
+    "id": "galla-chinensis",
+    "name": "五倍子",
+    "aliases": [
+      "倍子"
+    ],
+    "en": "",
+    "pinyin": "wubeizi",
+    "initials": "wbz",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "酸、涩",
+    "meridians": [
+      "肺",
+      "大肠",
+      "肾"
+    ],
+    "partUsed": "虫瘿",
+    "effects": [
+      "敛肺",
+      "涩肠",
+      "止汗"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "五倍子为《中国药典》2025年版收载品种，传统整理常作敛肺、涩肠方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「五倍子」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "wubeizi",
+      "wbz",
+      "倍子"
+    ]
+  },
+  {
+    "id": "acanthopanax-gracilistylus",
+    "name": "五加皮",
+    "aliases": [
+      "南五加皮"
+    ],
+    "en": "",
+    "pinyin": "wujiapi",
+    "initials": "wjp",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛、苦",
+    "meridians": [
+      "肝",
+      "肾"
+    ],
+    "partUsed": "根皮",
+    "effects": [
+      "祛风湿",
+      "补肝肾"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "五加皮为《中国药典》2025年版收载品种，传统整理常作祛风湿、补肝肾方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「五加皮」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "wujiapi",
+      "wjp",
+      "南五加皮"
+    ]
+  },
+  {
+    "id": "sigesbeckia-herb",
+    "name": "豨莶草",
+    "aliases": [
+      "豨签草"
+    ],
+    "en": "",
+    "pinyin": "xixiancao",
+    "initials": "xxc",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "辛、苦",
+    "meridians": [
+      "肝",
+      "肾"
+    ],
+    "partUsed": "地上部分",
+    "effects": [
+      "祛风湿",
+      "利关节"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "豨莶草为《中国药典》2025年版收载品种，传统整理常作祛风湿、利关节方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「豨莶草」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "xixiancao",
+      "xxc",
+      "豨签草"
+    ]
+  },
+  {
+    "id": "curculigo-orchioides",
+    "name": "仙茅",
+    "aliases": [],
+    "en": "",
+    "pinyin": "xianmao",
+    "initials": "xm",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "热",
+    "flavor": "辛",
+    "meridians": [
+      "肾",
+      "肝",
+      "脾"
+    ],
+    "partUsed": "根茎",
+    "effects": [
+      "补肾阳",
+      "强筋骨"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "仙茅为《中国药典》2025年版收载品种，传统整理常作补肾阳、强筋骨方向参考。",
+    "caution": "性热有毒倾向，不宜自行长期进补。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「仙茅」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "xianmao",
+      "xm"
+    ]
+  },
+  {
+    "id": "citron-fruit",
+    "name": "香橼",
+    "aliases": [
+      "香圆"
+    ],
+    "en": "",
+    "pinyin": "xiangyuan",
+    "initials": "xy",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛、苦、酸",
+    "meridians": [
+      "肝",
+      "脾",
+      "肺"
+    ],
+    "partUsed": "成熟果实",
+    "effects": [
+      "疏肝理气",
+      "宽中"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "香橼为《中国药典》2025年版收载品种，传统整理常作疏肝理气、宽中方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「香橼」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "xiangyuan",
+      "xy",
+      "香圆"
+    ]
+  },
+  {
+    "id": "fructus-foeniculi",
+    "name": "小茴香",
+    "aliases": [
+      "茴香"
+    ],
+    "en": "",
+    "pinyin": "xiaohuixiang",
+    "initials": "xhx",
+    "itemKind": "food-medicine",
+    "usageScope": "dietary-therapy",
+    "officialFoodMedicine": true,
+    "category": "食药物质",
+    "nature": "温",
+    "flavor": "辛",
+    "meridians": [
+      "肝",
+      "肾",
+      "脾",
+      "胃"
+    ],
+    "partUsed": "成熟果实",
+    "effects": [
+      "散寒止痛",
+      "理气和胃"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "小茴香为《中国药典》2025年版收载品种，传统整理常作散寒止痛、理气和胃方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「小茴香」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "xiaohuixiang",
+      "xhx",
+      "茴香"
+    ]
+  },
+  {
+    "id": "magnolia-biondii",
+    "name": "辛夷",
+    "aliases": [
+      "木笔花"
+    ],
+    "en": "",
+    "pinyin": "xinyi",
+    "initials": "xy",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "辛",
+    "meridians": [
+      "肺",
+      "胃"
+    ],
+    "partUsed": "花蕾",
+    "effects": [
+      "散风寒",
+      "通鼻窍"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "辛夷为《中国药典》2025年版收载品种，传统整理常作散风寒、通鼻窍方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「辛夷」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "xinyi",
+      "xy",
+      "木笔花"
+    ]
+  },
+  {
+    "id": "scrophularia-nodosa",
+    "name": "玄参",
+    "aliases": [
+      "元参"
+    ],
+    "en": "",
+    "pinyin": "xuanshen",
+    "initials": "xs",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "甘、苦、咸",
+    "meridians": [
+      "肺",
+      "胃",
+      "肾"
+    ],
+    "partUsed": "根",
+    "effects": [
+      "清热凉血",
+      "滋阴"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "玄参为《中国药典》2025年版收载品种，传统整理常作清热凉血、滋阴方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「玄参」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "xuanshen",
+      "xs",
+      "元参"
+    ]
+  },
+  {
+    "id": "fritillaria-pallidiflora",
+    "name": "伊贝母",
+    "aliases": [],
+    "en": "",
+    "pinyin": "yibeimu",
+    "initials": "ybm",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "苦",
+    "meridians": [
+      "肺",
+      "心"
+    ],
+    "partUsed": "鳞茎",
+    "effects": [
+      "清肺化痰",
+      "散结"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "伊贝母为《中国药典》2025年版收载品种，传统整理常作清肺化痰、散结方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「伊贝母」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "yibeimu",
+      "ybm"
+    ]
+  },
+  {
+    "id": "semen-coicis",
+    "name": "薏苡仁",
+    "aliases": [
+      "薏米"
+    ],
+    "en": "",
+    "pinyin": "yiyiren",
+    "initials": "yyr",
+    "itemKind": "food-medicine",
+    "usageScope": "dietary-therapy",
+    "officialFoodMedicine": true,
+    "category": "食药物质",
+    "nature": "凉",
+    "flavor": "甘、淡",
+    "meridians": [
+      "脾",
+      "胃",
+      "肺"
+    ],
+    "partUsed": "成熟种仁",
+    "effects": [
+      "利水渗湿",
+      "健脾"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "薏苡仁为《中国药典》2025年版收载品种，传统整理常作利水渗湿、健脾方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「薏苡仁」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "yiyiren",
+      "yyr",
+      "薏米"
+    ]
+  },
+  {
+    "id": "stellaria-dichotoma",
+    "name": "银柴胡",
+    "aliases": [],
+    "en": "",
+    "pinyin": "yinchaihu",
+    "initials": "ych",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "甘",
+    "meridians": [
+      "肝",
+      "胃"
+    ],
+    "partUsed": "根",
+    "effects": [
+      "清虚热",
+      "除疳热"
+    ],
+    "relatedForms": [
+      "bupleurum-chinense"
+    ],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "银柴胡为《中国药典》2025年版收载品种，传统整理常作清虚热、除疳热方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「银柴胡」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "yinchaihu",
+      "ych"
+    ]
+  },
+  {
+    "id": "pinus-tabulaeformis",
+    "name": "油松节",
+    "aliases": [
+      "松节"
+    ],
+    "en": "",
+    "pinyin": "yousongjie",
+    "initials": "ysj",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "苦、温",
+    "meridians": [
+      "肝",
+      "肾"
+    ],
+    "partUsed": "枝节",
+    "effects": [
+      "祛风湿",
+      "通络"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "油松节为《中国药典》2025年版收载品种，传统整理常作祛风湿、通络方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「油松节」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "yousongjie",
+      "ysj",
+      "松节"
+    ]
+  },
+  {
+    "id": "rosa-chinensis",
+    "name": "月季花",
+    "aliases": [],
+    "en": "",
+    "pinyin": "yuejihua",
+    "initials": "yjh",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "温",
+    "flavor": "甘",
+    "meridians": [
+      "肝"
+    ],
+    "partUsed": "花",
+    "effects": [
+      "活血调经"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "月季花为《中国药典》2025年版收载品种，传统整理常作活血调经方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「月季花」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "yuejihua",
+      "yjh"
+    ]
+  },
+  {
+    "id": "anemarrhena-asphodeloides",
+    "name": "知母",
+    "aliases": [
+      "连母"
+    ],
+    "en": "",
+    "pinyin": "zhimu",
+    "initials": "zm",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "寒",
+    "flavor": "苦、甘",
+    "meridians": [
+      "肺",
+      "胃",
+      "肾"
+    ],
+    "partUsed": "根茎",
+    "effects": [
+      "清热泻火",
+      "滋阴润燥"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "知母为《中国药典》2025年版收载品种，传统整理常作清热泻火、滋阴润燥方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「知母」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "zhimu",
+      "zm",
+      "连母"
+    ]
+  },
+  {
+    "id": "fructus-auranti",
+    "name": "枳壳",
+    "aliases": [],
+    "en": "",
+    "pinyin": "zhiqiao",
+    "initials": "zq",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "苦、辛、酸",
+    "meridians": [
+      "脾",
+      "胃"
+    ],
+    "partUsed": "未成熟果实",
+    "effects": [
+      "理气宽中",
+      "行滞"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "枳壳为《中国药典》2025年版收载品种，传统整理常作理气宽中、行滞方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「枳壳」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "zhiqiao",
+      "zq"
+    ]
+  },
+  {
+    "id": "fructus-aurantii-immaturus",
+    "name": "枳实",
+    "aliases": [],
+    "en": "",
+    "pinyin": "zhishi",
+    "initials": "zs",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "微寒",
+    "flavor": "苦、辛、酸",
+    "meridians": [
+      "脾",
+      "胃"
+    ],
+    "partUsed": "未成熟果实",
+    "effects": [
+      "破气消积",
+      "化痰"
+    ],
+    "relatedForms": [
+      "fructus-auranti"
+    ],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "枳实为《中国药典》2025年版收载品种，传统整理常作破气消积、化痰方向参考。",
+    "caution": "非药食同源条目仅作中药信息参考，不替代诊断、处方或药典医嘱；自行配膳前请咨询专业人士。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「枳实」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "zhishi",
+      "zs"
+    ]
+  },
+  {
+    "id": "pyrite",
+    "name": "自然铜",
+    "aliases": [],
+    "en": "",
+    "pinyin": "zirantong",
+    "initials": "zrt",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "平",
+    "flavor": "辛",
+    "meridians": [
+      "肝"
+    ],
+    "partUsed": "矿物",
+    "effects": [
+      "散瘀止痛",
+      "续筋接骨"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "summary": "自然铜为《中国药典》2025年版收载品种，传统整理常作散瘀止痛、续筋接骨方向参考。",
+    "caution": "矿物药，非食材。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "收载于《中华人民共和国药典》2025年版，正名「自然铜」。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "zirantong",
+      "zrt"
+    ]
+  }
+]

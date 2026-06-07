@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite --port 3000 --host 0.0.0.0",
-    "build:data": "node scripts/build-data.mjs",
-    "build": "npm run build:data && node -e \"const fs=require('fs');const p='dist';fs.mkdirSync(p,{recursive:true});fs.mkdirSync(p+'/generated',{recursive:true});fs.mkdirSync(p+'/public/data/cn',{recursive:true});['index.html','styles.css','app.js','foods-expanded.js'].forEach(f=>fs.copyFileSync(f,p+'/'+f));['generated/foods-cn-bundle.js','generated/recipes-bulk.js'].forEach(f=>fs.copyFileSync(f,p+'/'+f));const pub='public/data/cn';if(fs.existsSync(pub)){fs.readdirSync(pub).forEach(f=>fs.copyFileSync(pub+'/'+f,p+'/public/data/cn/'+f));}\"",
+    "build:data": "node scripts/build-data.mjs && node scripts/build-tcm-data.mjs",
+    "validate": "npm run build:data && npm run validate-data",
+    "build": "npm run build:data && node -e \"const fs=require('fs');const p='dist';fs.mkdirSync(p,{recursive:true});fs.mkdirSync(p+'/generated',{recursive:true});fs.mkdirSync(p+'/public/data/cn',{recursive:true});fs.mkdirSync(p+'/public/data/tcm',{recursive:true});['index.html','styles.css','app.js','foods-expanded.js'].forEach(f=>fs.copyFileSync(f,p+'/'+f));['generated/foods-cn-bundle.js','generated/recipes-bulk.js','generated/tcm-herbs-bundle.js','generated/classic-diet-recipes.js'].forEach(f=>fs.copyFileSync(f,p+'/'+f));const pubCn='public/data/cn';if(fs.existsSync(pubCn)){fs.readdirSync(pubCn).forEach(f=>fs.copyFileSync(pubCn+'/'+f,p+'/public/data/cn/'+f));}const pubTcm='public/data/tcm';if(fs.existsSync(pubTcm)){fs.readdirSync(pubTcm).forEach(f=>fs.copyFileSync(pubTcm+'/'+f,p+'/public/data/tcm/'+f));}\"",
     "validate-data": "node scripts/validate-data.mjs",
     "preview": "vite preview --port 3000 --host 0.0.0.0"
   },

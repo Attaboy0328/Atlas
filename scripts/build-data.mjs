@@ -26,6 +26,13 @@ const BULK_SOURCE = {
   summary: "按证候与常见食材组合整理的日常食养条目，剂量需按人数与个体耐受调整。"
 };
 
+const CN_JSON_SOURCES = [
+  "pairing-aliases.json",
+  "regional-foods.json",
+  "expansion-batch4.json",
+  "foods-ingredients.json"
+];
+
 function readJson(name, fallback = []) {
   const file = path.join(dataDir, name);
   if (!fs.existsSync(file)) return fallback;
@@ -38,12 +45,11 @@ function loadFoodCatalogIds() {
   const fRe = /f\(\s*["']([^"']+)["']/g;
   let m;
   while ((m = fRe.exec(expanded))) ids.add(m[1]);
-  const foods = [
-    ...readJson("pairing-aliases.json"),
-    ...readJson("regional-foods.json"),
-    ...readJson("expansion-batch4.json")
-  ];
-  foods.forEach((food) => ids.add(food.id));
+  CN_JSON_SOURCES.flatMap((file) => readJson(file)).forEach((food) => ids.add(food.id));
+  const tcmPath = path.join(root, "data", "tcm", "herbs-chp2025.json");
+  if (fs.existsSync(tcmPath)) {
+    JSON.parse(fs.readFileSync(tcmPath, "utf8")).forEach((herb) => ids.add(herb.id));
+  }
   const runtimeMatch = fs.readFileSync(path.join(root, "app.js"), "utf8").match(/const RUNTIME_FOOD_EXPANSION = \[([\s\S]*?)\n\];/);
   if (runtimeMatch) {
     const idRe = /id:\s*["']([^"']+)["']/g;
@@ -52,12 +58,12 @@ function loadFoodCatalogIds() {
   return ids;
 }
 
-function foodNameFromId(id, catalog) {
+function foodNameFromId(id) {
   const expanded = fs.readFileSync(path.join(root, "foods-expanded.js"), "utf8");
   const re = new RegExp(`f\\(\\s*["']${id}["']\\s*,\\s*["']([^"']+)["']`);
   const m = expanded.match(re);
   if (m) return m[1];
-  for (const file of ["pairing-aliases.json", "regional-foods.json", "expansion-batch4.json"]) {
+  for (const file of CN_JSON_SOURCES) {
     const hit = readJson(file).find((f) => f.id === id);
     if (hit) return hit.name;
   }
@@ -93,13 +99,13 @@ function buildSteps(foodNames, item) {
   ];
 }
 
-function inferNature(foodIds, catalog, fallback) {
+function inferNature(foodIds, fallback) {
   const expanded = fs.readFileSync(path.join(root, "foods-expanded.js"), "utf8");
   const natures = foodIds.map((id) => {
     const re = new RegExp(`f\\(\\s*["']${id}["'][\\s\\S]*?N_(\\w+)`);
     const m = expanded.match(re);
     if (!m) {
-      for (const file of ["pairing-aliases.json", "regional-foods.json", "expansion-batch4.json"]) {
+      for (const file of CN_JSON_SOURCES) {
         const hit = readJson(file).find((f) => f.id === id);
         if (hit) return hit.nature;
       }
@@ -119,10 +125,10 @@ function enhanceBulkRecipe(item, catalog, publishedNames) {
   if (foodIds.length < 1) return null;
   if (publishedNames.has(item.name)) return null;
 
-  const foodNames = foodIds.map((id) => foodNameFromId(id, catalog));
+  const foodNames = foodIds.map((id) => foodNameFromId(id));
   const ingredients = (item.ingredients || []).map(fixIngredient);
   const steps = isGenericSteps(item.steps) ? buildSteps(foodNames, item) : item.steps;
-  const nature = inferNature(foodIds, catalog, item.nature);
+  const nature = inferNature(foodIds, item.nature);
 
   return {
     id: item.id,
@@ -146,7 +152,6 @@ function collectPublishedRecipeNames() {
   const recipeRe = /recipe\(\s*["'][^"']+["']\s*,\s*["']([^"']+)["']/g;
   let m;
   while ((m = recipeRe.exec(app))) names.add(m[1]);
-  const packRe = /recipe\(\s*["'][^"']+["']\s*,\s*["']([^"']+)["']/g;
   return names;
 }
 
@@ -158,14 +163,15 @@ function writeJs(outPath, constName, data) {
   );
 }
 
-// --- foods ---
-const cnFoods = [
-  ...readJson("pairing-aliases.json"),
-  ...readJson("regional-foods.json"),
-  ...readJson("expansion-batch4.json")
-];
+function mergeCnFoods() {
+  const byId = new Map();
+  CN_JSON_SOURCES.flatMap((file) => readJson(file)).forEach((food) => {
+    byId.set(food.id, food);
+  });
+  return [...byId.values()].sort((a, b) => a.name.localeCompare(b.name, "zh-CN"));
+}
 
-// --- recipes ---
+const cnFoods = mergeCnFoods();
 const catalog = loadFoodCatalogIds();
 const publishedNames = collectPublishedRecipeNames();
 const rawBulk = readJson("bulk-recipes.json");
@@ -177,12 +183,11 @@ fs.mkdirSync(genDir, { recursive: true });
 writeJs(path.join(genDir, "foods-cn-bundle.js"), "CN_SUPPLEMENT_FOODS", cnFoods);
 writeJs(path.join(genDir, "recipes-bulk.js"), "BULK_RECIPES_ENHANCED", enhancedBulk);
 
-// copy JSON to public for optional fetch/debug
 const publicDir = path.join(root, "public", "data", "cn");
 fs.mkdirSync(publicDir, { recursive: true });
 fs.writeFileSync(path.join(publicDir, "foods.json"), JSON.stringify(cnFoods, null, 2));
 fs.writeFileSync(path.join(publicDir, "bulk-recipes-enhanced.json"), JSON.stringify(enhancedBulk, null, 2));
 
-console.log(`CN foods: ${cnFoods.length}`);
+console.log(`CN foods: ${cnFoods.length} (pairing + regional + batch4 + ingredients)`);
 console.log(`Bulk recipes enhanced & published: ${enhancedBulk.length} / ${rawBulk.length}`);
 console.log(`Output: generated/foods-cn-bundle.js, generated/recipes-bulk.js`);

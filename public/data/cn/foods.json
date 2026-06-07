@@ -1,9 +1,247 @@
 [
   {
-    "id": "peanut",
-    "name": "花生",
-    "en": "peanut",
-    "category": "坚果种子",
+    "id": "anji-white-tea",
+    "name": "安吉白茶",
+    "en": "anji white tea",
+    "category": "茶类",
+    "nature": "凉",
+    "effects": [
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "searchTerms": [
+      "anjibaicha",
+      "ajbc"
+    ],
+    "summary": "浙西名茶，清润微凉。"
+  },
+  {
+    "id": "white-cardamom",
+    "name": "白豆蔻",
+    "en": "white cardamom",
+    "category": "香料调料",
+    "nature": "温",
+    "effects": [
+      "化湿",
+      "行气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "广东"
+    ],
+    "aliases": [
+      "豆蔻"
+    ],
+    "pinyin": "baidoukou",
+    "initials": "bdk",
+    "searchTerms": [
+      "baidoukou",
+      "bdk",
+      "white cardamom",
+      "白豆蔻",
+      "豆蔻"
+    ],
+    "summary": "白豆蔻，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "white-pepper",
+    "name": "白胡椒",
+    "en": "white pepper",
+    "category": "香料调料",
+    "nature": "热",
+    "effects": [
+      "温中",
+      "下气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南",
+      "广东"
+    ],
+    "aliases": [],
+    "pinyin": "baihujiao",
+    "initials": "bhj",
+    "searchTerms": [
+      "baihujiao",
+      "bhj",
+      "white pepper",
+      "白胡椒"
+    ],
+    "summary": "白胡椒，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "white-radish",
+    "name": "白萝卜",
+    "en": "white radish",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "消食",
+      "化痰"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [
+      "萝卜"
+    ],
+    "pinyin": "bailuobo",
+    "initials": "blb",
+    "searchTerms": [
+      "bailuobo",
+      "blb",
+      "white radish",
+      "白萝卜",
+      "萝卜"
+    ],
+    "summary": "白萝卜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "passion-fruit",
+    "name": "百香果",
+    "en": "passion fruit",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "生津",
+      "安神"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西",
+      "海南"
+    ],
+    "aliases": [
+      "鸡蛋果"
+    ],
+    "pinyin": "baixiangguo",
+    "initials": "bxg",
+    "searchTerms": [
+      "baixiangguo",
+      "bxg",
+      "passion fruit",
+      "百香果",
+      "鸡蛋果"
+    ],
+    "summary": "百香果，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "cabbage",
+    "name": "包菜",
+    "en": "cabbage",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "和中",
+      "养胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [
+      "卷心菜",
+      "圆白菜"
+    ],
+    "pinyin": "baocai",
+    "initials": "bc",
+    "searchTerms": [
+      "baocai",
+      "bc",
+      "cabbage",
+      "包菜",
+      "卷心菜",
+      "圆白菜"
+    ],
+    "summary": "包菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "mint",
+    "name": "薄荷",
+    "en": "mint",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清利",
+      "疏风"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江"
+    ],
+    "aliases": [
+      "银丹草"
+    ],
+    "pinyin": "bohe",
+    "initials": "bh",
+    "searchTerms": [
+      "bohe",
+      "bh",
+      "mint",
+      "薄荷",
+      "银丹草"
+    ],
+    "summary": "薄荷，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "chinese-artichoke",
+    "name": "宝塔菜",
+    "en": "Chinese artichoke",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "活血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "河北"
+    ],
+    "aliases": [
+      "地蚕",
+      "甘露子"
+    ],
+    "pinyin": "baotacai",
+    "initials": "btc",
+    "searchTerms": [
+      "baotacai",
+      "btc",
+      "Chinese artichoke",
+      "宝塔菜",
+      "地蚕",
+      "甘露子"
+    ],
+    "summary": "宝塔菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "brussels-sprouts",
+    "name": "抱子甘蓝",
+    "en": "brussels sprouts",
+    "category": "蔬菜",
     "nature": "平",
     "effects": [
       "和中"
@@ -12,20 +250,2515 @@
       "CN"
     ],
     "provinces": [
+      "云南",
+      "山东"
+    ],
+    "aliases": [
+      "小卷心菜"
+    ],
+    "pinyin": "baoziganlan",
+    "initials": "bzgl",
+    "searchTerms": [
+      "baoziganlan",
+      "bzgl",
+      "brussels sprouts",
+      "抱子甘蓝",
+      "小卷心菜"
+    ],
+    "summary": "抱子甘蓝，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "abalone",
+    "name": "鲍鱼",
+    "en": "abalone",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "滋阴",
+      "明目"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "广东"
+    ],
+    "aliases": [],
+    "pinyin": "baoyu",
+    "initials": "by",
+    "searchTerms": [
+      "baoyu",
+      "by",
+      "abalone",
+      "鲍鱼"
+    ],
+    "summary": "鲍鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "beijing-douzhi",
+    "name": "北京豆汁",
+    "en": "beijing mung bean drink",
+    "category": "饮品",
+    "nature": "凉",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "北京"
+    ],
+    "searchTerms": [
+      "douzhi",
+      "dz"
+    ],
+    "summary": "京味发酵豆饮，偏凉酸，肠胃弱者慎饮。"
+  },
+  {
+    "id": "beijing-kaoya",
+    "name": "北京烤鸭",
+    "en": "peking duck",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "北京"
+    ],
+    "searchTerms": [
+      "kaoya",
+      "ky"
+    ],
+    "summary": "京菜代表，偏温，油脂较高。"
+  },
+  {
+    "id": "water-chestnut",
+    "name": "荸荠",
+    "en": "water chestnut",
+    "category": "水生蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清利",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西",
+      "广东",
+      "福建"
+    ],
+    "aliases": [
+      "马蹄",
+      "地栗"
+    ],
+    "pinyin": "biqi",
+    "initials": "bq",
+    "searchTerms": [
+      "biqi",
+      "bq",
+      "water chestnut",
+      "荸荠",
+      "马蹄",
+      "地栗"
+    ],
+    "summary": "荸荠，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "spinach",
+    "name": "菠菜",
+    "en": "spinach",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "润肠"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
       "山东",
-      "河南",
+      "河北"
+    ],
+    "aliases": [],
+    "pinyin": "bocai",
+    "initials": "bc",
+    "searchTerms": [
+      "bocai",
+      "bc",
+      "spinach",
+      "菠菜"
+    ],
+    "summary": "菠菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "pineapple",
+    "name": "菠萝",
+    "en": "pineapple",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "生津",
+      "消食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "海南"
+    ],
+    "aliases": [
+      "凤梨"
+    ],
+    "pinyin": "boluo",
+    "initials": "bl",
+    "searchTerms": [
+      "boluo",
+      "bl",
+      "pineapple",
+      "菠萝",
+      "凤梨"
+    ],
+    "summary": "菠萝，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "choy-sum",
+    "name": "菜心",
+    "en": "choy sum",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "广西"
+    ],
+    "aliases": [
+      "菜薹"
+    ],
+    "pinyin": "caixin",
+    "initials": "cx",
+    "searchTerms": [
+      "caixin",
+      "cx",
+      "choy sum",
+      "菜心",
+      "菜薹"
+    ],
+    "summary": "菜心，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "broad-bean",
+    "name": "蚕豆",
+    "en": "broad bean",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江"
+    ],
+    "aliases": [
+      "胡豆"
+    ],
+    "pinyin": "candou",
+    "initials": "cd",
+    "searchTerms": [
+      "candou",
+      "cd",
+      "broad bean",
+      "蚕豆",
+      "胡豆"
+    ],
+    "summary": "蚕豆，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "saffron",
+    "name": "藏红花",
+    "en": "saffron",
+    "category": "香料调料",
+    "nature": "平",
+    "effects": [
+      "活血",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏",
+      "新疆"
+    ],
+    "aliases": [
+      "西红花"
+    ],
+    "pinyin": "zanghonghua",
+    "initials": "zhh",
+    "searchTerms": [
+      "zanghonghua",
+      "zhh",
+      "saffron",
+      "藏红花",
+      "西红花"
+    ],
+    "summary": "藏红花，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "straw-mushroom",
+    "name": "草菇",
+    "en": "straw mushroom",
+    "category": "菌菇",
+    "nature": "温",
+    "effects": [
+      "益气",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建"
+    ],
+    "aliases": [],
+    "pinyin": "caogu",
+    "initials": "cg",
+    "searchTerms": [
+      "caogu",
+      "cg",
+      "straw mushroom",
+      "草菇"
+    ],
+    "summary": "草菇，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "tsaoko",
+    "name": "草果",
+    "en": "tsaoko",
+    "category": "香料调料",
+    "nature": "温",
+    "effects": [
+      "燥湿",
+      "除胀"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "广西"
+    ],
+    "aliases": [],
+    "pinyin": "caoguo",
+    "initials": "cg",
+    "searchTerms": [
+      "caoguo",
+      "cg",
+      "tsaoko",
+      "草果"
+    ],
+    "summary": "草果，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "strawberry",
+    "name": "草莓",
+    "en": "strawberry",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津",
+      "润肺"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "辽宁",
+      "江苏"
+    ],
+    "aliases": [],
+    "pinyin": "caomei",
+    "initials": "cm",
+    "searchTerms": [
+      "caomei",
+      "cm",
+      "strawberry",
+      "草莓"
+    ],
+    "summary": "草莓，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "grass-carp",
+    "name": "草鱼",
+    "en": "grass carp",
+    "category": "水产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "和中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北",
+      "广东"
+    ],
+    "aliases": [
+      "鲩鱼"
+    ],
+    "pinyin": "caoyu",
+    "initials": "cy",
+    "searchTerms": [
+      "caoyu",
+      "cy",
+      "grass carp",
+      "草鱼",
+      "鲩鱼"
+    ],
+    "summary": "草鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "tea",
+    "name": "茶",
+    "en": "tea",
+    "category": "茶饮",
+    "nature": "凉",
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "cha",
+      "c",
+      "tea"
+    ],
+    "aliases": [
+      "茶叶",
+      "浓茶"
+    ],
+    "summary": "泛指日常茶叶，偏凉，具体仍要看茶类与浓度。",
+    "caution": "与补铁、空腹、失眠场景需错开。"
+  },
+  {
+    "id": "tea-tree-mushroom",
+    "name": "茶树菇",
+    "en": "tea tree mushroom",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "益气",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "江西"
+    ],
+    "aliases": [
+      "柱状田头菇"
+    ],
+    "pinyin": "chashugu",
+    "initials": "csg",
+    "searchTerms": [
+      "chashugu",
+      "csg",
+      "tea tree mushroom",
+      "茶树菇",
+      "柱状田头菇"
+    ],
+    "summary": "茶树菇，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "pomfret",
+    "name": "鲳鱼",
+    "en": "pomfret",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建"
+    ],
+    "aliases": [
+      "平鱼"
+    ],
+    "pinyin": "changyu",
+    "initials": "cy",
+    "searchTerms": [
+      "changyu",
+      "cy",
+      "pomfret",
+      "鲳鱼",
+      "平鱼"
+    ],
+    "summary": "鲳鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "shahe-fen",
+    "name": "肠粉",
+    "en": "rice noodle roll",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "searchTerms": [
+      "changfen",
+      "cf"
+    ],
+    "summary": "广式早茶常见米浆卷。"
+  },
+  {
+    "id": "chaoshan-beef-ball",
+    "name": "潮汕牛肉丸",
+    "en": "chaoshan beef ball",
+    "category": "荤菜",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "searchTerms": [
+      "chaoshanniurouwan",
+      "csnrw"
+    ],
+    "summary": "手打牛肉丸，弹韧鲜温。"
+  },
+  {
+    "id": "tangerine-peel",
+    "name": "陈皮",
+    "en": "dried tangerine peel",
+    "category": "香料调料",
+    "nature": "温",
+    "effects": [
+      "理气",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "新会"
+    ],
+    "aliases": [],
+    "pinyin": "chenpi",
+    "initials": "cp",
+    "searchTerms": [
+      "chenpi",
+      "cp",
+      "dried tangerine peel",
+      "陈皮"
+    ],
+    "summary": "陈皮，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "razor-clam",
+    "name": "蛏子",
+    "en": "razor clam",
+    "category": "水产",
+    "nature": "寒",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "浙江"
+    ],
+    "aliases": [],
+    "pinyin": "chengzi",
+    "initials": "cz",
+    "searchTerms": [
+      "chengzi",
+      "cz",
+      "razor clam",
+      "蛏子"
+    ],
+    "summary": "蛏子，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "orange",
+    "name": "橙子",
+    "en": "orange",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津",
+      "理气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西",
+      "四川"
+    ],
+    "aliases": [
+      "甜橙"
+    ],
+    "pinyin": "chengzi",
+    "initials": "cz",
+    "searchTerms": [
+      "chengzi",
+      "cz",
+      "orange",
+      "橙子",
+      "甜橙"
+    ],
+    "summary": "橙子，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "cordyceps-flower",
+    "name": "虫草花",
+    "en": "cordyceps flower",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "益气",
+      "润肺"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "广东"
+    ],
+    "aliases": [
+      "北虫草"
+    ],
+    "pinyin": "chongcaohua",
+    "initials": "cch",
+    "searchTerms": [
+      "chongcaohua",
+      "cch",
+      "cordyceps flower",
+      "虫草花",
+      "北虫草"
+    ],
+    "summary": "虫草花，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "chongqing-noodles",
+    "name": "重庆小面",
+    "en": "chongqing noodles",
+    "category": "主食",
+    "nature": "热",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "searchTerms": [
+      "chongqingxiaomian",
+      "cqxm"
+    ],
+    "summary": "渝派麻辣小面。"
+  },
+  {
+    "id": "stinky-tofu",
+    "name": "臭豆腐",
+    "en": "stinky tofu",
+    "category": "发酵食品",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南",
+      "浙江"
+    ],
+    "searchTerms": [
+      "choudoufu",
+      "cdf"
+    ],
+    "summary": "发酵豆制品，地方差异大。"
+  },
+  {
+    "id": "spring-bamboo-shoot",
+    "name": "春笋",
+    "en": "spring bamboo shoot",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "四川"
+    ],
+    "aliases": [],
+    "pinyin": "chunsun",
+    "initials": "cs",
+    "searchTerms": [
+      "chunsun",
+      "cs",
+      "spring bamboo shoot",
+      "春笋"
+    ],
+    "summary": "春笋，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "water-shield",
+    "name": "莼菜",
+    "en": "water shield",
+    "category": "水生蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清润",
+      "和胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "湖北"
+    ],
+    "aliases": [
+      "水葵"
+    ],
+    "pinyin": "chuncai",
+    "initials": "cc",
+    "searchTerms": [
+      "chuncai",
+      "cc",
+      "water shield",
+      "莼菜",
+      "水葵"
+    ],
+    "summary": "莼菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "arrowhead",
+    "name": "慈姑",
+    "en": "arrowhead",
+    "category": "水生蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "利湿"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "广东"
+    ],
+    "aliases": [
+      "茨菰",
+      "燕尾菇"
+    ],
+    "pinyin": "cigu",
+    "initials": "cg",
+    "searchTerms": [
+      "cigu",
+      "cg",
+      "arrowhead",
+      "慈姑",
+      "茨菰",
+      "燕尾菇"
+    ],
+    "summary": "慈姑，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "arrowhead-bamboo-shoot",
+    "name": "慈竹笋",
+    "en": "arrowhead bamboo shoot",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川",
+      "浙江"
+    ],
+    "aliases": [],
+    "pinyin": "cizhusun",
+    "initials": "czs",
+    "searchTerms": [
+      "cizhusun",
+      "czs",
+      "arrowhead bamboo shoot",
+      "慈竹笋"
+    ],
+    "summary": "慈竹笋，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "vinegar",
+    "name": "醋",
+    "en": "vinegar",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山西",
+      "江苏"
+    ],
+    "searchTerms": [
+      "cu",
+      "c",
+      "vinegar"
+    ],
+    "aliases": [
+      "米醋",
+      "陈醋",
+      "香醋"
+    ],
+    "summary": "酸性调味，传统与羊肉等同用有整理性提醒。"
+  },
+  {
+    "id": "chinese-cabbage",
+    "name": "大白菜",
+    "en": "Chinese cabbage",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "和胃",
+      "消食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河北",
+      "山东"
+    ],
+    "aliases": [
+      "白菜"
+    ],
+    "pinyin": "dabaicai",
+    "initials": "dbc",
+    "searchTerms": [
+      "dabaicai",
+      "dbc",
+      "Chinese cabbage",
+      "大白菜",
+      "白菜"
+    ],
+    "summary": "大白菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "scallion",
+    "name": "大葱",
+    "en": "scallion",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "发汗",
+      "通阳"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [
+      "葱白"
+    ],
+    "pinyin": "dacong",
+    "initials": "dc",
+    "searchTerms": [
+      "dacong",
+      "dc",
+      "scallion",
+      "大葱",
+      "葱白"
+    ],
+    "summary": "大葱，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "star-anise",
+    "name": "大茴香",
+    "en": "star anise",
+    "category": "香料调料",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "理气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西",
+      "云南"
+    ],
+    "aliases": [
+      "八角",
+      "大料"
+    ],
+    "pinyin": "dahuixiang",
+    "initials": "dhx",
+    "searchTerms": [
+      "dahuixiang",
+      "dhx",
+      "star anise",
+      "大茴香",
+      "八角",
+      "大料"
+    ],
+    "summary": "大茴香，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "big-plate-chicken",
+    "name": "大盘鸡",
+    "en": "big plate chicken",
+    "category": "肉蛋奶",
+    "nature": "热",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "searchTerms": [
+      "dapanji",
+      "dpj"
+    ],
+    "summary": "新疆融合菜代表。"
+  },
+  {
+    "id": "garlic",
+    "name": "大蒜",
+    "en": "garlic",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "消食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河南"
+    ],
+    "aliases": [
+      "蒜头"
+    ],
+    "pinyin": "dasuan",
+    "initials": "ds",
+    "searchTerms": [
+      "dasuan",
+      "ds",
+      "garlic",
+      "大蒜",
+      "蒜头"
+    ],
+    "summary": "大蒜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "hairy-crab",
+    "name": "大闸蟹",
+    "en": "hairy crab",
+    "category": "水产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "滋阴"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "阳澄湖"
+    ],
+    "aliases": [
+      "中华绒螯蟹"
+    ],
+    "pinyin": "dazhaxie",
+    "initials": "dzx",
+    "searchTerms": [
+      "dazhaxie",
+      "dzx",
+      "hairy crab",
+      "大闸蟹",
+      "中华绒螯蟹"
+    ],
+    "summary": "大闸蟹，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "hairtail",
+    "name": "带鱼",
+    "en": "hairtail",
+    "category": "水产",
+    "nature": "温",
+    "effects": [
+      "补虚",
+      "暖胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "山东"
+    ],
+    "aliases": [
+      "刀鱼"
+    ],
+    "pinyin": "daiyu",
+    "initials": "dy",
+    "searchTerms": [
+      "daiyu",
+      "dy",
+      "hairtail",
+      "带鱼",
+      "刀鱼"
+    ],
+    "summary": "带鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "mussel",
+    "name": "淡菜",
+    "en": "mussel",
+    "category": "水产",
+    "nature": "温",
+    "effects": [
+      "补虚",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "辽宁",
+      "山东"
+    ],
+    "aliases": [
+      "贻贝",
+      "青口"
+    ],
+    "pinyin": "dancai",
+    "initials": "dc",
+    "searchTerms": [
+      "dancai",
+      "dc",
+      "mussel",
+      "淡菜",
+      "贻贝",
+      "青口"
+    ],
+    "summary": "淡菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "sword-bean",
+    "name": "刀豆",
+    "en": "sword bean",
+    "category": "豆类",
+    "nature": "温",
+    "effects": [
+      "温中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "广西"
+    ],
+    "aliases": [],
+    "pinyin": "daodou",
+    "initials": "dd",
+    "searchTerms": [
+      "daodou",
+      "dd",
+      "sword bean",
+      "刀豆"
+    ],
+    "summary": "刀豆，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "dezhou-chicken",
+    "name": "德州扒鸡",
+    "en": "dezhou braised chicken",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东"
+    ],
+    "searchTerms": [
+      "dezhoubaji",
+      "dzbj"
+    ],
+    "summary": "鲁西名产，偏温。"
+  },
+  {
+    "id": "clove",
+    "name": "丁香",
+    "en": "clove",
+    "category": "香料调料",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "降逆"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "海南"
+    ],
+    "aliases": [],
+    "pinyin": "dingxiang",
+    "initials": "dx",
+    "searchTerms": [
+      "dingxiang",
+      "dx",
+      "clove",
+      "丁香"
+    ],
+    "summary": "丁香，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "sour-cabbage-hotpot",
+    "name": "东北酸菜",
+    "en": "northeast sauerkraut",
+    "category": "腌菜",
+    "nature": "平",
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "吉林",
       "辽宁"
     ],
     "searchTerms": [
-      "huasheng",
-      "hs",
-      "peanut"
+      "dongbeisuancai",
+      "dbsc"
+    ],
+    "summary": "东北发酵酸菜，常配白肉火锅。"
+  },
+  {
+    "id": "dongpo-pork",
+    "name": "东坡肉",
+    "en": "dongpo pork",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "searchTerms": [
+      "dongporou",
+      "dpr"
+    ],
+    "summary": "江南红烧猪肉代表，偏温热油腻。"
+  },
+  {
+    "id": "winter-melon",
+    "name": "冬瓜",
+    "en": "winter melon",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "山东"
+    ],
+    "aliases": [],
+    "pinyin": "donggua",
+    "initials": "dg",
+    "searchTerms": [
+      "donggua",
+      "dg",
+      "winter melon",
+      "冬瓜"
+    ],
+    "summary": "冬瓜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "winter-bamboo-shoot",
+    "name": "冬笋",
+    "en": "winter bamboo shoot",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "安徽"
+    ],
+    "aliases": [],
+    "pinyin": "dongsun",
+    "initials": "ds",
+    "searchTerms": [
+      "dongsun",
+      "ds",
+      "winter bamboo shoot",
+      "冬笋"
+    ],
+    "summary": "冬笋，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "dongting-biluochun",
+    "name": "洞庭碧螺春",
+    "en": "dongting biluochun tea",
+    "category": "茶类",
+    "nature": "凉",
+    "effects": [
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "searchTerms": [
+      "biluochun",
+      "blc"
+    ],
+    "summary": "苏南绿茶，清香偏凉。"
+  },
+  {
+    "id": "douchi",
+    "name": "豆豉",
+    "en": "fermented black bean",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南",
+      "广东"
+    ],
+    "searchTerms": [
+      "douchi",
+      "dc"
+    ],
+    "summary": "发酵豆制品，增鲜调味。"
+  },
+  {
+    "id": "prawn",
+    "name": "对虾",
+    "en": "prawn",
+    "category": "水产",
+    "nature": "温",
+    "effects": [
+      "补肾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "辽宁"
     ],
     "aliases": [
-      "落花生"
+      "明虾",
+      "大虾"
     ],
-    "summary": "常见坚果与榨油原料，偏平和。",
-    "caution": "油脂含量高，湿热、反流明显时不宜一次吃太多。"
+    "pinyin": "duixia",
+    "initials": "dx",
+    "searchTerms": [
+      "duixia",
+      "dx",
+      "prawn",
+      "对虾",
+      "明虾",
+      "大虾"
+    ],
+    "summary": "对虾，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "changsha-chili",
+    "name": "剁椒",
+    "en": "chopped chili",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "searchTerms": [
+      "duojiao",
+      "dj"
+    ],
+    "summary": "湘菜常用发酵辣椒。"
+  },
+  {
+    "id": "child-mustard",
+    "name": "儿菜",
+    "en": "baby mustard",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "消食",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川",
+      "重庆"
+    ],
+    "aliases": [
+      "抱子芥",
+      "母子菜"
+    ],
+    "pinyin": "ercai",
+    "initials": "ec",
+    "searchTerms": [
+      "ercai",
+      "ec",
+      "baby mustard",
+      "儿菜",
+      "抱子芥",
+      "母子菜"
+    ],
+    "summary": "儿菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "custard-apple",
+    "name": "番荔枝",
+    "en": "custard apple",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "补脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南",
+      "广东"
+    ],
+    "aliases": [],
+    "pinyin": "fanlizhi",
+    "initials": "flz",
+    "searchTerms": [
+      "fanlizhi",
+      "flz",
+      "custard apple",
+      "番荔枝"
+    ],
+    "summary": "番荔枝，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "guava",
+    "name": "番石榴",
+    "en": "guava",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "生津",
+      "止泻"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "台湾"
+    ],
+    "aliases": [
+      "芭乐"
+    ],
+    "pinyin": "fanshiliu",
+    "initials": "fsl",
+    "searchTerms": [
+      "fanshiliu",
+      "fsl",
+      "guava",
+      "番石榴",
+      "芭乐"
+    ],
+    "summary": "番石榴，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "fengrourou",
+    "name": "粉蒸肉",
+    "en": "steamed pork with rice flour",
+    "category": "荤菜",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南",
+      "江西"
+    ],
+    "searchTerms": [
+      "fenzhengrou",
+      "fzr"
+    ],
+    "summary": "米粉裹肉蒸制，湘赣家常，偏温香。"
+  },
+  {
+    "id": "hui-dried-beef",
+    "name": "风干牛肉",
+    "en": "air dried beef",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "内蒙古"
+    ],
+    "ethnicGroups": [
+      "蒙古族"
+    ],
+    "searchTerms": [
+      "fenggan niurou",
+      "fgnr"
+    ],
+    "summary": "草原风干肉，偏温燥。"
+  },
+  {
+    "id": "honey",
+    "name": "蜂蜜",
+    "en": "honey",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "润燥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "searchTerms": [
+      "fengmi",
+      "fm",
+      "honey"
+    ],
+    "summary": "天然甜味剂，偏润，传统与葱蒜同用有争议条目。",
+    "caution": "一岁以下婴儿、糖尿病管理期不宜。"
+  },
+  {
+    "id": "anchovy",
+    "name": "凤尾鱼",
+    "en": "anchovy",
+    "category": "水产",
+    "nature": "温",
+    "effects": [
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江"
+    ],
+    "aliases": [],
+    "pinyin": "fengweiyu",
+    "initials": "fwy",
+    "searchTerms": [
+      "fengweiyu",
+      "fwy",
+      "anchovy",
+      "凤尾鱼"
+    ],
+    "summary": "凤尾鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "chayote",
+    "name": "佛手瓜",
+    "en": "chayote",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "福建"
+    ],
+    "aliases": [
+      "合掌瓜"
+    ],
+    "pinyin": "foshougua",
+    "initials": "fsg",
+    "searchTerms": [
+      "foshougua",
+      "fsg",
+      "chayote",
+      "佛手瓜",
+      "合掌瓜"
+    ],
+    "summary": "佛手瓜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "buddha-jumps-wall",
+    "name": "佛跳墙",
+    "en": "buddha jumps over the wall",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "searchTerms": [
+      "fotiaoqiang",
+      "ftq"
+    ],
+    "summary": "闽菜名汤，多海味同炖，偏温补。"
+  },
+  {
+    "id": "fermented-tofu",
+    "name": "腐乳",
+    "en": "fermented tofu",
+    "category": "发酵食品",
+    "nature": "温",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "北京",
+      "江苏",
+      "云南"
+    ],
+    "searchTerms": [
+      "furu",
+      "fr"
+    ],
+    "aliases": [
+      "南乳",
+      "红腐乳"
+    ],
+    "summary": "发酵豆制品，咸鲜，偏温。"
+  },
+  {
+    "id": "iron-rich-meal",
+    "name": "富铁餐",
+    "en": "iron-rich meal",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "标签"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "futiecang"
+    ],
+    "summary": "搭配检查用概念标签：指红肉、动物血、部分内脏与深绿叶菜等富铁场景，非单一食材。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "sugarcane",
+    "name": "甘蔗",
+    "en": "sugarcane",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "生津",
+      "润燥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西",
+      "广东"
+    ],
+    "aliases": [],
+    "pinyin": "ganzhe",
+    "initials": "gz",
+    "searchTerms": [
+      "ganzhe",
+      "gz",
+      "sugarcane",
+      "甘蔗"
+    ],
+    "summary": "甘蔗，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "dried-chili",
+    "name": "干辣椒",
+    "en": "dried chili",
+    "category": "香料调料",
+    "nature": "热",
+    "effects": [
+      "温中",
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川",
+      "贵州"
+    ],
+    "aliases": [
+      "辣椒干"
+    ],
+    "pinyin": "ganlajiao",
+    "initials": "glj",
+    "searchTerms": [
+      "ganlajiao",
+      "glj",
+      "dried chili",
+      "干辣椒",
+      "辣椒干"
+    ],
+    "summary": "干辣椒，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "sorghum",
+    "name": "高粱",
+    "en": "sorghum",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "东北",
+      "内蒙古"
+    ],
+    "aliases": [
+      "蜀黍"
+    ],
+    "pinyin": "gaoliang",
+    "initials": "gl",
+    "searchTerms": [
+      "gaoliang",
+      "gl",
+      "sorghum",
+      "高粱",
+      "蜀黍"
+    ],
+    "summary": "高粱，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "goji-berry",
+    "name": "枸杞",
+    "en": "goji berry",
+    "category": "滋补食材",
+    "nature": "平",
+    "effects": [
+      "滋补",
+      "明目"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "宁夏",
+      "甘肃"
+    ],
+    "aliases": [
+      "枸杞子"
+    ],
+    "pinyin": "gouqi",
+    "initials": "gq",
+    "searchTerms": [
+      "gouqi",
+      "gq",
+      "goji berry",
+      "枸杞",
+      "枸杞子"
+    ],
+    "summary": "枸杞，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "goji-shoots",
+    "name": "枸杞头",
+    "en": "goji shoots",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清利",
+      "明目"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "宁夏",
+      "甘肃"
+    ],
+    "aliases": [
+      "枸杞芽",
+      "枸杞嫩头"
+    ],
+    "pinyin": "gouqitou",
+    "initials": "gqt",
+    "searchTerms": [
+      "gouqitou",
+      "gqt",
+      "goji shoots",
+      "枸杞头",
+      "枸杞芽",
+      "枸杞嫩头"
+    ],
+    "summary": "枸杞头，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "cantonese-sausage",
+    "name": "广式腊肠",
+    "en": "cantonese sausage",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "searchTerms": [
+      "guangshilachang",
+      "gslch"
+    ],
+    "aliases": [
+      "腊肠"
+    ],
+    "summary": "岭南腊味代表，偏温咸。"
+  },
+  {
+    "id": "guizhou-sour-soup-fish",
+    "name": "贵州酸汤鱼",
+    "en": "guizhou sour soup fish",
+    "category": "荤菜",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "ethnicGroups": [
+      "苗族",
+      "侗族"
+    ],
+    "searchTerms": [
+      "suantangyu",
+      "sty"
+    ],
+    "summary": "黔菜酸汤鱼，开胃偏温。"
+  },
+  {
+    "id": "guilin-rice-noodle",
+    "name": "桂林米粉",
+    "en": "guilin rice noodle",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "ethnicGroups": [
+      "壮族"
+    ],
+    "searchTerms": [
+      "guilinmifen",
+      "glmf"
+    ],
+    "summary": "广西代表性米粉。"
+  },
+  {
+    "id": "dried-longan",
+    "name": "桂圆干",
+    "en": "dried longan",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "补益",
+      "安神"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "广东"
+    ],
+    "aliases": [
+      "龙眼干"
+    ],
+    "pinyin": "guiyuangan",
+    "initials": "gyg",
+    "searchTerms": [
+      "guiyuangan",
+      "gyg",
+      "dried longan",
+      "桂圆干",
+      "龙眼干"
+    ],
+    "summary": "桂圆干，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "mandarin-fish",
+    "name": "鳜鱼",
+    "en": "mandarin fish",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽",
+      "湖北"
+    ],
+    "aliases": [
+      "桂鱼",
+      "季花鱼"
+    ],
+    "pinyin": "guiyu",
+    "initials": "gy",
+    "searchTerms": [
+      "guiyu",
+      "gy",
+      "mandarin fish",
+      "鳜鱼",
+      "桂鱼",
+      "季花鱼"
+    ],
+    "summary": "鳜鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "crossing-bridge-noodle",
+    "name": "过桥米线",
+    "en": "crossing bridge noodles",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "searchTerms": [
+      "guoqiaomixian",
+      "gqmx"
+    ],
+    "summary": "云南名小吃，热汤现烫。"
+  },
+  {
+    "id": "hami-melon",
+    "name": "哈密瓜",
+    "en": "hami melon",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津",
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆",
+      "甘肃"
+    ],
+    "aliases": [
+      "甜瓜之王"
+    ],
+    "pinyin": "hamigua",
+    "initials": "hmg",
+    "searchTerms": [
+      "hamigua",
+      "hmg",
+      "hami melon",
+      "哈密瓜",
+      "甜瓜之王"
+    ],
+    "summary": "哈密瓜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "clam",
+    "name": "蛤蜊",
+    "en": "clam",
+    "category": "水产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "滋阴"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "辽宁"
+    ],
+    "aliases": [
+      "花蛤"
+    ],
+    "pinyin": "geli",
+    "initials": "gl",
+    "searchTerms": [
+      "geli",
+      "gl",
+      "clam",
+      "蛤蜊",
+      "花蛤"
+    ],
+    "summary": "蛤蜊，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "sea-cucumber",
+    "name": "海参",
+    "en": "sea cucumber",
+    "category": "水产",
+    "nature": "温",
+    "effects": [
+      "滋阴",
+      "补肾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "辽宁"
+    ],
+    "aliases": [],
+    "pinyin": "haishen",
+    "initials": "hs",
+    "searchTerms": [
+      "haishen",
+      "hs",
+      "sea cucumber",
+      "海参"
+    ],
+    "summary": "海参，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "seaweed-salad",
+    "name": "海草",
+    "en": "seaweed",
+    "category": "水产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "化痰"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "福建"
+    ],
+    "aliases": [
+      "海藻"
+    ],
+    "pinyin": "haicao",
+    "initials": "hc",
+    "searchTerms": [
+      "haicao",
+      "hc",
+      "seaweed",
+      "海草",
+      "海藻"
+    ],
+    "summary": "海草，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "kelp",
+    "name": "海带",
+    "en": "kelp",
+    "category": "水产",
+    "nature": "寒",
+    "effects": [
+      "软坚",
+      "散结"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "辽宁"
+    ],
+    "aliases": [
+      "昆布"
+    ],
+    "pinyin": "haidai",
+    "initials": "hd",
+    "searchTerms": [
+      "haidai",
+      "hd",
+      "kelp",
+      "海带",
+      "昆布"
+    ],
+    "summary": "海带，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "sea-urchin",
+    "name": "海胆",
+    "en": "sea urchin",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "滋阴"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "辽宁",
+      "大连"
+    ],
+    "aliases": [],
+    "pinyin": "haidan",
+    "initials": "hd",
+    "searchTerms": [
+      "haidan",
+      "hd",
+      "sea urchin",
+      "海胆"
+    ],
+    "summary": "海胆，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "xiamen-oyster-omelette",
+    "name": "海蛎煎",
+    "en": "oyster omelette",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "searchTerms": [
+      "hailijian",
+      "hlj"
+    ],
+    "summary": "闽南海蛎煎。"
+  },
+  {
+    "id": "conch",
+    "name": "海螺",
+    "en": "conch",
+    "category": "水产",
+    "nature": "寒",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "辽宁"
+    ],
+    "aliases": [],
+    "pinyin": "hailuo",
+    "initials": "hl",
+    "searchTerms": [
+      "hailuo",
+      "hl",
+      "conch",
+      "海螺"
+    ],
+    "summary": "海螺，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "hainan-chicken-rice",
+    "name": "海南鸡饭",
+    "en": "hainan chicken rice",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "searchTerms": [
+      "hainanjifan",
+      "hnjf"
+    ],
+    "summary": "琼菜代表，鸡肉与鸡油饭。"
+  },
+  {
+    "id": "jellyfish",
+    "name": "海蜇",
+    "en": "jellyfish",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "清热",
+      "化痰"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "辽宁"
+    ],
+    "aliases": [],
+    "pinyin": "haizhe",
+    "initials": "hz",
+    "searchTerms": [
+      "haizhe",
+      "hz",
+      "jellyfish",
+      "海蜇"
+    ],
+    "summary": "海蜇，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "leaf-celery",
+    "name": "旱芹",
+    "en": "leaf celery",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河南"
+    ],
+    "aliases": [
+      "药芹"
+    ],
+    "pinyin": "hanqin",
+    "initials": "hq",
+    "searchTerms": [
+      "hanqin",
+      "hq",
+      "leaf celery",
+      "旱芹",
+      "药芹"
+    ],
+    "summary": "旱芹，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "river-mussel",
+    "name": "河蚌",
+    "en": "river mussel",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "滋阴",
+      "明目"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "安徽"
+    ],
+    "aliases": [
+      "蚌肉"
+    ],
+    "pinyin": "hebang",
+    "initials": "hb",
+    "searchTerms": [
+      "hebang",
+      "hb",
+      "river mussel",
+      "河蚌",
+      "蚌肉"
+    ],
+    "summary": "河蚌，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "pufferfish",
+    "name": "河豚",
+    "en": "pufferfish",
+    "category": "水产",
+    "nature": "温",
+    "effects": [
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "福建"
+    ],
+    "aliases": [
+      "河鲀"
+    ],
+    "pinyin": "hetun",
+    "initials": "ht",
+    "searchTerms": [
+      "hetun",
+      "ht",
+      "pufferfish",
+      "河豚",
+      "河鲀"
+    ],
+    "summary": "江鲜名品，需专业处理。",
+    "caution": "有剧毒风险，严禁自行处理与食用野生河豚；须持牌餐饮渠道。"
+  },
+  {
+    "id": "river-shrimp",
+    "name": "河虾",
+    "en": "river shrimp",
+    "category": "水产",
+    "nature": "温",
+    "effects": [
+      "补肾",
+      "通乳"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "湖北"
+    ],
+    "aliases": [
+      "草虾"
+    ],
+    "pinyin": "hexia",
+    "initials": "hx",
+    "searchTerms": [
+      "hexia",
+      "hx",
+      "river shrimp",
+      "河虾",
+      "草虾"
+    ],
+    "summary": "河虾，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "walnut",
+    "name": "核桃",
+    "en": "walnut",
+    "category": "坚果种子",
+    "nature": "温",
+    "effects": [
+      "补肾",
+      "温肺"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "山西"
+    ],
+    "aliases": [
+      "胡桃"
+    ],
+    "pinyin": "hetao",
+    "initials": "ht",
+    "searchTerms": [
+      "hetao",
+      "ht",
+      "walnut",
+      "核桃",
+      "胡桃"
+    ],
+    "summary": "核桃，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "snow-pea",
+    "name": "荷兰豆",
+    "en": "snow pea",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "广东"
+    ],
+    "aliases": [
+      "甜豆"
+    ],
+    "pinyin": "helandou",
+    "initials": "hld",
+    "searchTerms": [
+      "helandou",
+      "hld",
+      "snow pea",
+      "荷兰豆",
+      "甜豆"
+    ],
+    "summary": "荷兰豆，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "black-bean",
+    "name": "黑豆",
+    "en": "black soybean",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "补肾",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "辽宁"
+    ],
+    "aliases": [
+      "乌豆"
+    ],
+    "pinyin": "heidou",
+    "initials": "hd",
+    "searchTerms": [
+      "heidou",
+      "hd",
+      "black soybean",
+      "黑豆",
+      "乌豆"
+    ],
+    "summary": "黑豆，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "black-pepper",
+    "name": "黑胡椒",
+    "en": "black pepper",
+    "category": "香料调料",
+    "nature": "热",
+    "effects": [
+      "温中",
+      "下气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南",
+      "广东"
+    ],
+    "aliases": [],
+    "pinyin": "heihujiao",
+    "initials": "hhj",
+    "searchTerms": [
+      "heihujiao",
+      "hhj",
+      "black pepper",
+      "黑胡椒"
+    ],
+    "summary": "黑胡椒，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "blackberry",
+    "name": "黑莓",
+    "en": "blackberry",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "山东"
+    ],
+    "aliases": [],
+    "pinyin": "heimei",
+    "initials": "hm",
+    "searchTerms": [
+      "heimei",
+      "hm",
+      "blackberry",
+      "黑莓"
+    ],
+    "summary": "黑莓，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "snakehead",
+    "name": "黑鱼",
+    "en": "snakehead",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "补脾",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "江苏"
+    ],
+    "aliases": [
+      "乌鳢",
+      "生鱼"
+    ],
+    "pinyin": "heiyu",
+    "initials": "hy",
+    "searchTerms": [
+      "heiyu",
+      "hy",
+      "snakehead",
+      "黑鱼",
+      "乌鳢",
+      "生鱼"
+    ],
+    "summary": "黑鱼，常见于中式饮食与地方菜。"
   },
   {
     "id": "black-tea",
@@ -54,6 +2787,1759 @@
     "caution": "空腹、失眠、缺铁或胃敏感者不宜浓饮。"
   },
   {
+    "id": "red-bean",
+    "name": "红豆",
+    "en": "red bean",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "利水",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "东北",
+      "黑龙江"
+    ],
+    "aliases": [
+      "赤小豆",
+      "红小豆"
+    ],
+    "pinyin": "hongdou",
+    "initials": "hd",
+    "searchTerms": [
+      "hongdou",
+      "hd",
+      "red bean",
+      "红豆",
+      "赤小豆",
+      "红小豆"
+    ],
+    "summary": "红豆，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "rambutan",
+    "name": "红毛丹",
+    "en": "rambutan",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南",
+      "广东"
+    ],
+    "aliases": [],
+    "pinyin": "hongmaodan",
+    "initials": "hmd",
+    "searchTerms": [
+      "hongmaodan",
+      "hmd",
+      "rambutan",
+      "红毛丹"
+    ],
+    "summary": "红毛丹，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "sweet-potato",
+    "name": "红薯",
+    "en": "sweet potato",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河南"
+    ],
+    "aliases": [
+      "地瓜",
+      "番薯"
+    ],
+    "pinyin": "hongshu",
+    "initials": "hs",
+    "searchTerms": [
+      "hongshu",
+      "hs",
+      "sweet potato",
+      "红薯",
+      "地瓜",
+      "番薯"
+    ],
+    "summary": "红薯，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "red-dates",
+    "name": "红枣",
+    "en": "red dates",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "补中益气",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆",
+      "山东"
+    ],
+    "aliases": [
+      "大枣"
+    ],
+    "pinyin": "hongzao",
+    "initials": "hz",
+    "searchTerms": [
+      "hongzao",
+      "hz",
+      "red dates",
+      "红枣",
+      "大枣"
+    ],
+    "summary": "红枣，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "lion-mane-mushroom",
+    "name": "猴头菇",
+    "en": "lion's mane mushroom",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "养胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "福建"
+    ],
+    "aliases": [
+      "猴头蘑"
+    ],
+    "pinyin": "houtougu",
+    "initials": "htg",
+    "searchTerms": [
+      "houtougu",
+      "htg",
+      "lion's mane mushroom",
+      "猴头菇",
+      "猴头蘑"
+    ],
+    "summary": "猴头菇，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "carrot",
+    "name": "胡萝卜",
+    "en": "carrot",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "明目"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "内蒙古",
+      "山东"
+    ],
+    "aliases": [
+      "红萝卜"
+    ],
+    "pinyin": "huluobo",
+    "initials": "hlb",
+    "searchTerms": [
+      "huluobo",
+      "hlb",
+      "carrot",
+      "胡萝卜",
+      "红萝卜"
+    ],
+    "summary": "胡萝卜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "cauliflower",
+    "name": "花菜",
+    "en": "cauliflower",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "云南"
+    ],
+    "aliases": [
+      "菜花",
+      "花椰菜"
+    ],
+    "pinyin": "huacai",
+    "initials": "hc",
+    "searchTerms": [
+      "huacai",
+      "hc",
+      "cauliflower",
+      "花菜",
+      "菜花",
+      "花椰菜"
+    ],
+    "summary": "花菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "fish-maw",
+    "name": "花胶",
+    "en": "fish maw",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "滋阴",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建"
+    ],
+    "aliases": [
+      "鱼鳔"
+    ],
+    "pinyin": "huajiao",
+    "initials": "hj",
+    "searchTerms": [
+      "huajiao",
+      "hj",
+      "fish maw",
+      "花胶",
+      "鱼鳔"
+    ],
+    "summary": "花胶，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "sichuan-peppercorn",
+    "name": "花椒",
+    "en": "Sichuan peppercorn",
+    "category": "香料调料",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "止痛"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川",
+      "陕西"
+    ],
+    "aliases": [
+      "川椒"
+    ],
+    "pinyin": "huajiao",
+    "initials": "hj",
+    "searchTerms": [
+      "huajiao",
+      "hj",
+      "Sichuan peppercorn",
+      "花椒",
+      "川椒"
+    ],
+    "summary": "花椒，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "peanut",
+    "name": "花生",
+    "en": "peanut",
+    "category": "坚果种子",
+    "nature": "平",
+    "effects": [
+      "润肺",
+      "和胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河南"
+    ],
+    "aliases": [
+      "落花生"
+    ],
+    "pinyin": "huasheng",
+    "initials": "hs",
+    "searchTerms": [
+      "huasheng",
+      "hs",
+      "peanut",
+      "花生",
+      "落花生"
+    ],
+    "summary": "花生，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "nameko-mushroom",
+    "name": "滑子菇",
+    "en": "nameko mushroom",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "辽宁",
+      "河北"
+    ],
+    "aliases": [],
+    "pinyin": "huazigu",
+    "initials": "hzg",
+    "searchTerms": [
+      "huazigu",
+      "hzg",
+      "nameko mushroom",
+      "滑子菇"
+    ],
+    "summary": "滑子菇，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "soybean",
+    "name": "黄豆",
+    "en": "soybean",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "益胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "河南"
+    ],
+    "aliases": [
+      "大豆"
+    ],
+    "pinyin": "huangdou",
+    "initials": "hd",
+    "searchTerms": [
+      "huangdou",
+      "hd",
+      "soybean",
+      "黄豆",
+      "大豆"
+    ],
+    "summary": "黄豆，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "cucumber",
+    "name": "黄瓜",
+    "en": "cucumber",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [
+      "胡瓜"
+    ],
+    "pinyin": "huanggua",
+    "initials": "hg",
+    "searchTerms": [
+      "huanggua",
+      "hg",
+      "cucumber",
+      "黄瓜",
+      "胡瓜"
+    ],
+    "summary": "黄瓜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "yellow-catfish",
+    "name": "黄颡鱼",
+    "en": "yellow catfish",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北",
+      "江苏"
+    ],
+    "aliases": [
+      "黄骨鱼",
+      "昂刺鱼"
+    ],
+    "pinyin": "huangsayu",
+    "initials": "hsy",
+    "searchTerms": [
+      "huangsayu",
+      "hsy",
+      "yellow catfish",
+      "黄颡鱼",
+      "黄骨鱼",
+      "昂刺鱼"
+    ],
+    "summary": "黄颡鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "yellow-croaker",
+    "name": "黄鱼",
+    "en": "yellow croaker",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补肾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建"
+    ],
+    "aliases": [
+      "大黄鱼",
+      "小黄鱼"
+    ],
+    "pinyin": "huangyu",
+    "initials": "hy",
+    "searchTerms": [
+      "huangyu",
+      "hy",
+      "yellow croaker",
+      "黄鱼",
+      "大黄鱼",
+      "小黄鱼"
+    ],
+    "summary": "黄鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "huizhou-stinky-fish",
+    "name": "徽州臭鳜鱼",
+    "en": "huizhou fermented mandarin fish",
+    "category": "荤菜",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "searchTerms": [
+      "chouguiyu",
+      "cgy"
+    ],
+    "summary": "徽菜代表，发酵鳜鱼，偏温鲜。"
+  },
+  {
+    "id": "hotpot-base",
+    "name": "火锅底料",
+    "en": "hotpot base",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆",
+      "四川"
+    ],
+    "searchTerms": [
+      "huoguodiliao",
+      "hgdl"
+    ],
+    "summary": "川渝复合调味，偏热辣。"
+  },
+  {
+    "id": "dragon-fruit",
+    "name": "火龙果",
+    "en": "dragon fruit",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "润肠"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西",
+      "广东"
+    ],
+    "aliases": [
+      "红龙果"
+    ],
+    "pinyin": "huolongguo",
+    "initials": "hlg",
+    "searchTerms": [
+      "huolongguo",
+      "hlg",
+      "dragon fruit",
+      "火龙果",
+      "红龙果"
+    ],
+    "summary": "火龙果，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "termitomyces",
+    "name": "鸡枞",
+    "en": "termitomyces",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "和中",
+      "增鲜"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "贵州"
+    ],
+    "aliases": [
+      "鸡枞菌"
+    ],
+    "pinyin": "jizong",
+    "initials": "jz",
+    "searchTerms": [
+      "jizong",
+      "jz",
+      "termitomyces",
+      "鸡枞",
+      "鸡枞菌"
+    ],
+    "summary": "鸡枞，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "jizha-shrimp",
+    "name": "基围虾",
+    "en": "jizha shrimp",
+    "category": "水产",
+    "nature": "温",
+    "effects": [
+      "补肾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "广西"
+    ],
+    "aliases": [
+      "基围"
+    ],
+    "pinyin": "jiweixia",
+    "initials": "jwx",
+    "searchTerms": [
+      "jiweixia",
+      "jwx",
+      "jizha shrimp",
+      "基围虾",
+      "基围"
+    ],
+    "summary": "基围虾，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "shepherds-purse",
+    "name": "荠菜",
+    "en": "shepherd's purse",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "利湿"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江"
+    ],
+    "aliases": [],
+    "pinyin": "jicai",
+    "initials": "jc",
+    "searchTerms": [
+      "jicai",
+      "jc",
+      "shepherd's purse",
+      "荠菜"
+    ],
+    "summary": "荠菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "crucian-carp",
+    "name": "鲫鱼",
+    "en": "crucian carp",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "安徽"
+    ],
+    "aliases": [],
+    "pinyin": "jiyu",
+    "initials": "jy",
+    "searchTerms": [
+      "jiyu",
+      "jy",
+      "crucian carp",
+      "鲫鱼"
+    ],
+    "summary": "鲫鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "eggplant",
+    "name": "茄子",
+    "en": "eggplant",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "活血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "四川"
+    ],
+    "aliases": [
+      "矮瓜"
+    ],
+    "pinyin": "qiezi",
+    "initials": "qz",
+    "searchTerms": [
+      "qiezi",
+      "qz",
+      "eggplant",
+      "茄子",
+      "矮瓜"
+    ],
+    "summary": "茄子，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "turmeric",
+    "name": "姜黄",
+    "en": "turmeric",
+    "category": "香料调料",
+    "nature": "温",
+    "effects": [
+      "活血",
+      "行气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "四川"
+    ],
+    "aliases": [],
+    "pinyin": "jianghuang",
+    "initials": "jh",
+    "searchTerms": [
+      "jianghuang",
+      "jh",
+      "turmeric",
+      "姜黄"
+    ],
+    "summary": "姜黄，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "yardlong-bean",
+    "name": "豇豆",
+    "en": "yardlong bean",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河北",
+      "山东"
+    ],
+    "aliases": [
+      "长豆角"
+    ],
+    "pinyin": "jiangdou",
+    "initials": "jd",
+    "searchTerms": [
+      "jiangdou",
+      "jd",
+      "yardlong bean",
+      "豇豆",
+      "长豆角"
+    ],
+    "summary": "豇豆，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "water-bamboo",
+    "name": "茭白",
+    "en": "water bamboo",
+    "category": "水生蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清利",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "江苏",
+      "上海"
+    ],
+    "aliases": [
+      "高笋",
+      "茭笋"
+    ],
+    "pinyin": "jiaobai",
+    "initials": "jb",
+    "searchTerms": [
+      "jiaobai",
+      "jb",
+      "water bamboo",
+      "茭白",
+      "高笋",
+      "茭笋"
+    ],
+    "summary": "茭白，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "mustard-greens",
+    "name": "芥菜",
+    "en": "mustard greens",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "化痰"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川",
+      "广东"
+    ],
+    "aliases": [
+      "大叶芥"
+    ],
+    "pinyin": "jiecai",
+    "initials": "jc",
+    "searchTerms": [
+      "jiecai",
+      "jc",
+      "mustard greens",
+      "芥菜",
+      "大叶芥"
+    ],
+    "summary": "芥菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "jinhua-ham",
+    "name": "金华火腿",
+    "en": "jinhua ham",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "searchTerms": [
+      "jinhua huotui",
+      "jhht"
+    ],
+    "summary": "浙闽名产，偏温。"
+  },
+  {
+    "id": "enoki-mushroom",
+    "name": "金针菇",
+    "en": "enoki mushroom",
+    "category": "菌菇",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河北",
+      "山东"
+    ],
+    "aliases": [
+      "金菇"
+    ],
+    "pinyin": "jinzhengu",
+    "initials": "jzg",
+    "searchTerms": [
+      "jinzhengu",
+      "jzg",
+      "enoki mushroom",
+      "金针菇",
+      "金菇"
+    ],
+    "summary": "金针菇，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "garlic-chive",
+    "name": "韭菜",
+    "en": "garlic chive",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "行气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [],
+    "pinyin": "jiucai",
+    "initials": "jc",
+    "searchTerms": [
+      "jiucai",
+      "jc",
+      "garlic chive",
+      "韭菜"
+    ],
+    "summary": "韭菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "chinese-chive",
+    "name": "韭黄",
+    "en": "yellow chive",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "行气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [],
+    "pinyin": "jiuhuang",
+    "initials": "jh",
+    "searchTerms": [
+      "jiuhuang",
+      "jh",
+      "yellow chive",
+      "韭黄"
+    ],
+    "summary": "韭黄，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "chrysanthemum-greens",
+    "name": "菊花脑",
+    "en": "chrysanthemum greens",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清利",
+      "疏风"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "南京"
+    ],
+    "aliases": [
+      "菊花菜",
+      "菊花叶"
+    ],
+    "pinyin": "juhuanao",
+    "initials": "jhn",
+    "searchTerms": [
+      "juhuanao",
+      "jhn",
+      "chrysanthemum greens",
+      "菊花脑",
+      "菊花菜",
+      "菊花叶"
+    ],
+    "summary": "菊花脑，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "chicory",
+    "name": "菊苣",
+    "en": "chicory",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "北京",
+      "山东"
+    ],
+    "aliases": [],
+    "pinyin": "juju",
+    "initials": "jj",
+    "searchTerms": [
+      "juju",
+      "jj",
+      "chicory",
+      "菊苣"
+    ],
+    "summary": "菊苣，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "tangerine",
+    "name": "橘子",
+    "en": "tangerine",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "理气",
+      "化痰"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西",
+      "福建"
+    ],
+    "aliases": [
+      "桔",
+      "柑橘"
+    ],
+    "pinyin": "juzi",
+    "initials": "jz",
+    "searchTerms": [
+      "juzi",
+      "jz",
+      "tangerine",
+      "橘子",
+      "桔",
+      "柑橘"
+    ],
+    "summary": "橘子，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "bracken",
+    "name": "蕨菜",
+    "en": "bracken",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "东北",
+      "云南",
+      "贵州"
+    ],
+    "aliases": [],
+    "pinyin": "juecai",
+    "initials": "jc",
+    "searchTerms": [
+      "juecai",
+      "jc",
+      "bracken",
+      "蕨菜"
+    ],
+    "summary": "山野蕨类嫩尖，需充分焯水去涩。",
+    "caution": "不宜长期大量生食；注意采摘来源与处理方式。"
+  },
+  {
+    "id": "kaifeng-soup-dumpling",
+    "name": "开封灌汤包",
+    "en": "kaifeng soup dumpling",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河南"
+    ],
+    "searchTerms": [
+      "guantangbao",
+      "gtb"
+    ],
+    "summary": "豫菜名点，汤汁饱满。"
+  },
+  {
+    "id": "hakka-stuffed-tofu",
+    "name": "客家酿豆腐",
+    "en": "hakka stuffed tofu",
+    "category": "荤菜",
+    "nature": "平",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建"
+    ],
+    "ethnicGroups": [
+      "客家"
+    ],
+    "searchTerms": [
+      "niangdoufu",
+      "ndf"
+    ],
+    "summary": "客家经典，豆腐酿肉，平和。"
+  },
+  {
+    "id": "button-mushroom",
+    "name": "口蘑",
+    "en": "button mushroom",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "益气",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "内蒙古",
+      "河北"
+    ],
+    "aliases": [
+      "白蘑菇"
+    ],
+    "pinyin": "koumo",
+    "initials": "km",
+    "searchTerms": [
+      "koumo",
+      "km",
+      "button mushroom",
+      "口蘑",
+      "白蘑菇"
+    ],
+    "summary": "口蘑，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "bitter-melon",
+    "name": "苦瓜",
+    "en": "bitter melon",
+    "category": "蔬菜",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "明目"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "广西"
+    ],
+    "aliases": [
+      "凉瓜"
+    ],
+    "pinyin": "kugua",
+    "initials": "kg",
+    "searchTerms": [
+      "kugua",
+      "kg",
+      "bitter melon",
+      "苦瓜",
+      "凉瓜"
+    ],
+    "summary": "苦瓜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "endive",
+    "name": "苦菊",
+    "en": "endive",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [
+      "苦苣菜"
+    ],
+    "pinyin": "kuju",
+    "initials": "kj",
+    "searchTerms": [
+      "kuju",
+      "kj",
+      "endive",
+      "苦菊",
+      "苦苣菜"
+    ],
+    "summary": "苦菊，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "hand-pulled-noodle",
+    "name": "兰州拉面",
+    "en": "lanzhou beef noodle",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "主食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "甘肃"
+    ],
+    "ethnicGroups": [
+      "回族"
+    ],
+    "searchTerms": [
+      "lanzhou lamian",
+      "lzlm"
+    ],
+    "aliases": [
+      "牛肉面"
+    ],
+    "summary": "西北代表性面食。"
+  },
+  {
+    "id": "lanzhou-beef",
+    "name": "兰州牛肉",
+    "en": "lanzhou beef",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "甘肃"
+    ],
+    "ethnicGroups": [
+      "回族"
+    ],
+    "searchTerms": [
+      "lanzhou niurou",
+      "lznr"
+    ],
+    "aliases": [
+      "牛肉面肉"
+    ],
+    "summary": "兰州拉面常用牛肉部位。"
+  },
+  {
+    "id": "blueberry",
+    "name": "蓝莓",
+    "en": "blueberry",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "明目",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "山东"
+    ],
+    "aliases": [],
+    "pinyin": "lanmei",
+    "initials": "lm",
+    "searchTerms": [
+      "lanmei",
+      "lm",
+      "blueberry",
+      "蓝莓"
+    ],
+    "summary": "蓝莓，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "laoganma",
+    "name": "老干妈",
+    "en": "chili crisp",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "searchTerms": [
+      "laoganma",
+      "lgm"
+    ],
+    "summary": "现代复合辣酱代表，偏热。"
+  },
+  {
+    "id": "pear",
+    "name": "梨",
+    "en": "pear",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "润肺",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河北",
+      "山东"
+    ],
+    "aliases": [
+      "雪梨",
+      "鸭梨"
+    ],
+    "pinyin": "li",
+    "initials": "l",
+    "searchTerms": [
+      "li",
+      "l",
+      "pear",
+      "梨",
+      "雪梨",
+      "鸭梨"
+    ],
+    "summary": "梨，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "artemisia-selengensis",
+    "name": "藜蒿",
+    "en": "artemisia selengensis",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清利",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西",
+      "湖北",
+      "湖南"
+    ],
+    "aliases": [
+      "芦蒿",
+      "蒌蒿"
+    ],
+    "pinyin": "lihao",
+    "initials": "lh",
+    "searchTerms": [
+      "lihao",
+      "lh",
+      "artemisia selengensis",
+      "藜蒿",
+      "芦蒿",
+      "蒌蒿"
+    ],
+    "summary": "春季江南常见野菜，清香脆嫩，多炒腊肉或清炒。"
+  },
+  {
+    "id": "quinoa",
+    "name": "藜麦",
+    "en": "quinoa",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山西",
+      "青海"
+    ],
+    "aliases": [],
+    "pinyin": "limai",
+    "initials": "lm",
+    "searchTerms": [
+      "limai",
+      "lm",
+      "quinoa",
+      "藜麦"
+    ],
+    "summary": "藜麦，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "plum",
+    "name": "李子",
+    "en": "plum",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津",
+      "消食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川",
+      "福建"
+    ],
+    "aliases": [],
+    "pinyin": "lizi",
+    "initials": "lz",
+    "searchTerms": [
+      "lizi",
+      "lz",
+      "plum",
+      "李子"
+    ],
+    "summary": "李子，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "carp",
+    "name": "鲤鱼",
+    "en": "carp",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "河南"
+    ],
+    "aliases": [],
+    "pinyin": "liyu",
+    "initials": "ly",
+    "searchTerms": [
+      "liyu",
+      "ly",
+      "carp",
+      "鲤鱼"
+    ],
+    "summary": "鲤鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "lychee",
+    "name": "荔枝",
+    "en": "lychee",
+    "category": "水果",
+    "nature": "热",
+    "effects": [
+      "生津",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建"
+    ],
+    "aliases": [],
+    "pinyin": "lizhi",
+    "initials": "lz",
+    "searchTerms": [
+      "lizhi",
+      "lz",
+      "lychee",
+      "荔枝"
+    ],
+    "summary": "甜美多汁，不宜过量。",
+    "caution": "阴虚火旺、糖尿病患者慎食。"
+  },
+  {
+    "id": "lotus-root",
+    "name": "莲藕",
+    "en": "lotus root",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北",
+      "江苏"
+    ],
+    "aliases": [
+      "藕",
+      "藕节"
+    ],
+    "pinyin": "lianou",
+    "initials": "lo",
+    "searchTerms": [
+      "lianou",
+      "lo",
+      "lotus root",
+      "莲藕",
+      "藕",
+      "藕节"
+    ],
+    "summary": "莲藕，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "wax-apple",
+    "name": "莲雾",
+    "en": "wax apple",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津",
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "台湾",
+      "海南"
+    ],
+    "aliases": [
+      "洋蒲桃"
+    ],
+    "pinyin": "lianwu",
+    "initials": "lw",
+    "searchTerms": [
+      "lianwu",
+      "lw",
+      "wax apple",
+      "莲雾",
+      "洋蒲桃"
+    ],
+    "summary": "莲雾，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "silver-carp",
+    "name": "鲢鱼",
+    "en": "silver carp",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北",
+      "江苏"
+    ],
+    "aliases": [
+      "白鲢"
+    ],
+    "pinyin": "lianyu",
+    "initials": "ly",
+    "searchTerms": [
+      "lianyu",
+      "ly",
+      "silver carp",
+      "鲢鱼",
+      "白鲢"
+    ],
+    "summary": "鲢鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "water-caltrop",
+    "name": "菱角",
+    "en": "water caltrop",
+    "category": "水生蔬菜",
+    "nature": "凉",
+    "effects": [
+      "健脾",
+      "利湿"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "湖北"
+    ],
+    "aliases": [
+      "菱实"
+    ],
+    "pinyin": "lingjiao",
+    "initials": "lj",
+    "searchTerms": [
+      "lingjiao",
+      "lj",
+      "water caltrop",
+      "菱角",
+      "菱实"
+    ],
+    "summary": "菱角，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "durian",
+    "name": "榴莲",
+    "en": "durian",
+    "category": "水果",
+    "nature": "热",
+    "effects": [
+      "温补",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "海南"
+    ],
+    "aliases": [],
+    "pinyin": "liulian",
+    "initials": "ll",
+    "searchTerms": [
+      "liulian",
+      "ll",
+      "durian",
+      "榴莲"
+    ],
+    "summary": "气味浓烈，适量食用。",
+    "caution": "湿热体质、糖尿病患者慎食。"
+  },
+  {
+    "id": "longjing-tea",
+    "name": "龙井茶",
+    "en": "longjing tea",
+    "category": "茶饮",
+    "nature": "凉",
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "teaClass": "绿茶",
+    "searchTerms": [
+      "longjing",
+      "lj"
+    ],
+    "summary": "西湖龙井，绿茶代表。"
+  },
+  {
+    "id": "longan",
+    "name": "龙眼",
+    "en": "longan",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "补益",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "广东"
+    ],
+    "aliases": [
+      "桂圆",
+      "桂圆肉"
+    ],
+    "pinyin": "longyan",
+    "initials": "ly",
+    "searchTerms": [
+      "longyan",
+      "ly",
+      "longan",
+      "龙眼",
+      "桂圆",
+      "桂圆肉"
+    ],
+    "summary": "龙眼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "asparagus",
+    "name": "芦笋",
+    "en": "asparagus",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "福建"
+    ],
+    "aliases": [],
+    "pinyin": "lusun",
+    "initials": "ls",
+    "searchTerms": [
+      "lusun",
+      "ls",
+      "asparagus",
+      "芦笋"
+    ],
+    "summary": "芦笋，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "sea-bass",
+    "name": "鲈鱼",
+    "en": "sea bass",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建"
+    ],
+    "aliases": [
+      "花鲈"
+    ],
+    "pinyin": "luyu",
+    "initials": "ly",
+    "searchTerms": [
+      "luyu",
+      "ly",
+      "sea bass",
+      "鲈鱼",
+      "花鲈"
+    ],
+    "summary": "鲈鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "luzhu-huoshao",
+    "name": "卤煮火烧",
+    "en": "luzhu stew",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "北京"
+    ],
+    "searchTerms": [
+      "luzhu",
+      "lz"
+    ],
+    "summary": "北京传统小吃，偏温热。"
+  },
+  {
     "id": "green-tea",
     "name": "绿茶",
     "en": "green tea",
@@ -80,28 +4566,1036 @@
     "caution": "空腹、畏寒、失眠者不宜浓饮。"
   },
   {
-    "id": "tea",
-    "name": "茶",
-    "en": "tea",
-    "category": "茶饮",
+    "id": "mung-bean",
+    "name": "绿豆",
+    "en": "mung bean",
+    "category": "豆类",
     "nature": "凉",
     "effects": [
-      "清利"
+      "清利",
+      "解毒"
     ],
     "regions": [
       "CN"
     ],
+    "provinces": [
+      "山东",
+      "河南"
+    ],
+    "aliases": [],
+    "pinyin": "lvdou",
+    "initials": "ld",
     "searchTerms": [
-      "cha",
-      "c",
-      "tea"
+      "lvdou",
+      "ld",
+      "mung bean",
+      "绿豆"
+    ],
+    "summary": "绿豆，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "tilapia",
+    "name": "罗非鱼",
+    "en": "tilapia",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "广西"
     ],
     "aliases": [
-      "茶叶",
-      "浓茶"
+      "非洲鲫鱼"
     ],
-    "summary": "泛指日常茶叶，偏凉，具体仍要看茶类与浓度。",
-    "caution": "与补铁、空腹、失眠场景需错开。"
+    "pinyin": "luofeiyu",
+    "initials": "lfy",
+    "searchTerms": [
+      "luofeiyu",
+      "lfy",
+      "tilapia",
+      "罗非鱼",
+      "非洲鲫鱼"
+    ],
+    "summary": "罗非鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "basil",
+    "name": "罗勒",
+    "en": "basil",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "行气",
+      "和胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "台湾"
+    ],
+    "aliases": [
+      "九层塔",
+      "金不换"
+    ],
+    "pinyin": "luole",
+    "initials": "ll",
+    "searchTerms": [
+      "luole",
+      "ll",
+      "basil",
+      "罗勒",
+      "九层塔",
+      "金不换"
+    ],
+    "summary": "罗勒，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "romaine",
+    "name": "罗马生菜",
+    "en": "romaine lettuce",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "山东"
+    ],
+    "aliases": [
+      "长叶生菜"
+    ],
+    "pinyin": "luomashengcai",
+    "initials": "lmsc",
+    "searchTerms": [
+      "luomashengcai",
+      "lmsc",
+      "romaine lettuce",
+      "罗马生菜",
+      "长叶生菜"
+    ],
+    "summary": "罗马生菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "daikon-leaf",
+    "name": "萝卜缨",
+    "en": "daikon leaf",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "消食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [
+      "萝卜叶"
+    ],
+    "pinyin": "luoboying",
+    "initials": "lby",
+    "searchTerms": [
+      "luoboying",
+      "lby",
+      "daikon leaf",
+      "萝卜缨",
+      "萝卜叶"
+    ],
+    "summary": "萝卜缨，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "liuzhou-luosifen",
+    "name": "螺蛳粉",
+    "en": "liuzhou river snail rice noodle",
+    "category": "主食",
+    "nature": "热",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "ethnicGroups": [
+      "壮族"
+    ],
+    "searchTerms": [
+      "luosifen",
+      "lsf"
+    ],
+    "summary": "柳州酸辣粉，偏热辣。"
+  },
+  {
+    "id": "purslane",
+    "name": "马齿苋",
+    "en": "purslane",
+    "category": "野菜",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "利湿"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河北",
+      "山东"
+    ],
+    "aliases": [],
+    "pinyin": "machixian",
+    "initials": "mcx",
+    "searchTerms": [
+      "machixian",
+      "mcx",
+      "purslane",
+      "马齿苋"
+    ],
+    "summary": "马齿苋，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "malantou",
+    "name": "马兰头",
+    "en": "kalimeris",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清利",
+      "凉血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "上海"
+    ],
+    "aliases": [
+      "马兰",
+      "鸡儿肠"
+    ],
+    "pinyin": "malantou",
+    "initials": "mlt",
+    "searchTerms": [
+      "malantou",
+      "mlt",
+      "kalimeris",
+      "马兰头",
+      "马兰",
+      "鸡儿肠"
+    ],
+    "summary": "马兰头，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "cranberry",
+    "name": "蔓越莓",
+    "en": "cranberry",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "辽宁"
+    ],
+    "aliases": [],
+    "pinyin": "manyuemei",
+    "initials": "mym",
+    "searchTerms": [
+      "manyuemei",
+      "mym",
+      "cranberry",
+      "蔓越莓"
+    ],
+    "summary": "蔓越莓，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "mango",
+    "name": "芒果",
+    "en": "mango",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津",
+      "益胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南",
+      "广西"
+    ],
+    "aliases": [],
+    "pinyin": "mangguo",
+    "initials": "mg",
+    "searchTerms": [
+      "mangguo",
+      "mg",
+      "mango",
+      "芒果"
+    ],
+    "summary": "芒果，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "edamame",
+    "name": "毛豆",
+    "en": "edamame",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "安徽"
+    ],
+    "aliases": [
+      "青大豆"
+    ],
+    "pinyin": "maodou",
+    "initials": "md",
+    "searchTerms": [
+      "maodou",
+      "md",
+      "edamame",
+      "毛豆",
+      "青大豆"
+    ],
+    "summary": "毛豆，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "hairy-bamboo-shoot",
+    "name": "毛笋",
+    "en": "hairy bamboo shoot",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建"
+    ],
+    "aliases": [
+      "毛竹笋"
+    ],
+    "pinyin": "maosun",
+    "initials": "ms",
+    "searchTerms": [
+      "maosun",
+      "ms",
+      "hairy bamboo shoot",
+      "毛笋",
+      "毛竹笋"
+    ],
+    "summary": "毛笋，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "tibetan-yak-butter",
+    "name": "牦牛肉",
+    "en": "yak meat",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏",
+      "青海"
+    ],
+    "ethnicGroups": [
+      "藏族"
+    ],
+    "searchTerms": [
+      "maoniurou",
+      "mnr"
+    ],
+    "summary": "高原常见红肉，蛋白质较高。"
+  },
+  {
+    "id": "preserved-vegetable",
+    "name": "梅干菜",
+    "en": "preserved mustard green",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "searchTerms": [
+      "meigancai",
+      "mgc"
+    ],
+    "summary": "江南常用干菜。"
+  },
+  {
+    "id": "milk-tea-mongol",
+    "name": "蒙古奶茶",
+    "en": "mongolian milk tea",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "御寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "内蒙古"
+    ],
+    "ethnicGroups": [
+      "蒙古族"
+    ],
+    "searchTerms": [
+      "menggunaicha",
+      "mgnc"
+    ],
+    "summary": "草原传统咸奶茶。"
+  },
+  {
+    "id": "kiwi",
+    "name": "猕猴桃",
+    "en": "kiwi",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津",
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "陕西",
+      "四川"
+    ],
+    "aliases": [
+      "奇异果"
+    ],
+    "pinyin": "mihoutao",
+    "initials": "mht",
+    "searchTerms": [
+      "mihoutao",
+      "mht",
+      "kiwi",
+      "猕猴桃",
+      "奇异果"
+    ],
+    "summary": "猕猴桃，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "proso-millet",
+    "name": "糜子",
+    "en": "proso millet",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "和胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "陕西",
+      "山西"
+    ],
+    "aliases": [
+      "黍子"
+    ],
+    "pinyin": "mizi",
+    "initials": "mz",
+    "searchTerms": [
+      "mizi",
+      "mz",
+      "proso millet",
+      "糜子",
+      "黍子"
+    ],
+    "summary": "糜子，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "minnan-tusundong",
+    "name": "闽南土笋冻",
+    "en": "minnan sea worm jelly",
+    "category": "小吃",
+    "nature": "凉",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "searchTerms": [
+      "tusundong",
+      "tsd"
+    ],
+    "summary": "闽南海产冻品，偏凉滑。"
+  },
+  {
+    "id": "shrimp",
+    "name": "明虾",
+    "en": "shrimp",
+    "category": "水产",
+    "nature": "温",
+    "effects": [
+      "补肾",
+      "通乳"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建"
+    ],
+    "aliases": [
+      "海虾"
+    ],
+    "pinyin": "mingxia",
+    "initials": "mx",
+    "searchTerms": [
+      "mingxia",
+      "mx",
+      "shrimp",
+      "明虾",
+      "海虾"
+    ],
+    "summary": "明虾，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "cuttlefish",
+    "name": "墨鱼",
+    "en": "cuttlefish",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "滋阴",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "浙江"
+    ],
+    "aliases": [
+      "乌贼"
+    ],
+    "pinyin": "moyu",
+    "initials": "my",
+    "searchTerms": [
+      "moyu",
+      "my",
+      "cuttlefish",
+      "墨鱼",
+      "乌贼"
+    ],
+    "summary": "墨鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "pitaya-leaf",
+    "name": "木菠萝",
+    "en": "jackfruit",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南",
+      "广东"
+    ],
+    "aliases": [
+      "菠萝蜜"
+    ],
+    "pinyin": "boluomi",
+    "initials": "blm",
+    "searchTerms": [
+      "boluomi",
+      "blm",
+      "jackfruit",
+      "木菠萝",
+      "菠萝蜜"
+    ],
+    "summary": "木菠萝，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "wood-ear",
+    "name": "木耳",
+    "en": "wood ear",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "滋阴",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "吉林"
+    ],
+    "aliases": [
+      "黑木耳",
+      "云耳"
+    ],
+    "pinyin": "muer",
+    "initials": "me",
+    "searchTerms": [
+      "muer",
+      "me",
+      "wood ear",
+      "木耳",
+      "黑木耳",
+      "云耳"
+    ],
+    "summary": "木耳，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "papaya-fruit",
+    "name": "木瓜",
+    "en": "papaya",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "消食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "海南"
+    ],
+    "aliases": [
+      "番木瓜"
+    ],
+    "pinyin": "mugua",
+    "initials": "mg",
+    "searchTerms": [
+      "mugua",
+      "mg",
+      "papaya",
+      "木瓜",
+      "番木瓜"
+    ],
+    "summary": "木瓜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "pumpkin",
+    "name": "南瓜",
+    "en": "pumpkin",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "补中益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "云南"
+    ],
+    "aliases": [
+      "倭瓜"
+    ],
+    "pinyin": "nangua",
+    "initials": "ng",
+    "searchTerms": [
+      "nangua",
+      "ng",
+      "pumpkin",
+      "南瓜",
+      "倭瓜"
+    ],
+    "summary": "南瓜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "nanjing-salt-duck",
+    "name": "南京盐水鸭",
+    "en": "nanjing salted duck",
+    "category": "荤菜",
+    "nature": "平",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "searchTerms": [
+      "yanshuiya",
+      "ysy"
+    ],
+    "summary": "金陵名肴，咸鲜平和。"
+  },
+  {
+    "id": "nang-bread",
+    "name": "馕",
+    "en": "nang bread",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "主食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "ethnicGroups": [
+      "维吾尔族"
+    ],
+    "searchTerms": [
+      "nang",
+      "ng"
+    ],
+    "summary": "新疆烤馕，日常主食。"
+  },
+  {
+    "id": "loach",
+    "name": "泥鳅",
+    "en": "loach",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "补中",
+      "利湿"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "安徽"
+    ],
+    "aliases": [],
+    "pinyin": "niqiu",
+    "initials": "nq",
+    "searchTerms": [
+      "niqiu",
+      "nq",
+      "loach",
+      "泥鳅"
+    ],
+    "summary": "泥鳅，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "catfish",
+    "name": "鲶鱼",
+    "en": "catfish",
+    "category": "水产",
+    "nature": "温",
+    "effects": [
+      "补虚",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "湖北"
+    ],
+    "aliases": [
+      "鲇鱼"
+    ],
+    "pinyin": "nianyu",
+    "initials": "ny",
+    "searchTerms": [
+      "nianyu",
+      "ny",
+      "catfish",
+      "鲶鱼",
+      "鲇鱼"
+    ],
+    "summary": "鲶鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "ningxia-goji",
+    "name": "宁夏枸杞",
+    "en": "ningxia goji berry",
+    "category": "果类",
+    "nature": "平",
+    "effects": [
+      "补益"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "宁夏"
+    ],
+    "ethnicGroups": [
+      "回族"
+    ],
+    "searchTerms": [
+      "gouqi",
+      "gq"
+    ],
+    "aliases": [
+      "枸杞子"
+    ],
+    "summary": "中宁枸杞，平补肝肾。"
+  },
+  {
+    "id": "boletus",
+    "name": "牛肝菌",
+    "en": "boletus",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "四川"
+    ],
+    "aliases": [],
+    "pinyin": "niuganjun",
+    "initials": "ngj",
+    "searchTerms": [
+      "niuganjun",
+      "ngj",
+      "boletus",
+      "牛肝菌"
+    ],
+    "summary": "牛肝菌，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "flat-cabbage",
+    "name": "牛心菜",
+    "en": "flat cabbage",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海",
+      "江苏"
+    ],
+    "aliases": [
+      "牛心白"
+    ],
+    "pinyin": "niuxincai",
+    "initials": "nxc",
+    "searchTerms": [
+      "niuxincai",
+      "nxc",
+      "flat cabbage",
+      "牛心菜",
+      "牛心白"
+    ],
+    "summary": "牛心菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "avocado",
+    "name": "牛油果",
+    "en": "avocado",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "润燥",
+      "润肠"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "广东"
+    ],
+    "aliases": [
+      "鳄梨",
+      "油梨"
+    ],
+    "pinyin": "niuyouguo",
+    "initials": "nyg",
+    "searchTerms": [
+      "niuyouguo",
+      "nyg",
+      "avocado",
+      "牛油果",
+      "鳄梨",
+      "油梨"
+    ],
+    "summary": "牛油果，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "lotus-shoot",
+    "name": "藕带",
+    "en": "lotus shoot",
+    "category": "水生蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北",
+      "湖南"
+    ],
+    "aliases": [
+      "藕尖",
+      "藕鞭"
+    ],
+    "pinyin": "oudai",
+    "initials": "od",
+    "searchTerms": [
+      "oudai",
+      "od",
+      "lotus shoot",
+      "藕带",
+      "藕尖",
+      "藕鞭"
+    ],
+    "summary": "藕带，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "crab",
+    "name": "螃蟹",
+    "en": "crab",
+    "category": "水产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "滋阴"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江"
+    ],
+    "aliases": [
+      "河蟹"
+    ],
+    "pinyin": "pangxie",
+    "initials": "px",
+    "searchTerms": [
+      "pangxie",
+      "px",
+      "crab",
+      "螃蟹",
+      "河蟹"
+    ],
+    "summary": "常见淡水蟹，多秋季食用。",
+    "caution": "脾胃虚寒、孕妇慎食。"
+  },
+  {
+    "id": "loquat",
+    "name": "枇杷",
+    "en": "loquat",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "润肺",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "浙江"
+    ],
+    "aliases": [],
+    "pinyin": "pipa",
+    "initials": "pp",
+    "searchTerms": [
+      "pipa",
+      "pp",
+      "loquat",
+      "枇杷"
+    ],
+    "summary": "枇杷，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "doubanjiang",
+    "name": "郫县豆瓣",
+    "en": "pixian bean paste",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "searchTerms": [
+      "pixiandouban",
+      "pxdb"
+    ],
+    "aliases": [
+      "豆瓣酱",
+      "川式豆瓣"
+    ],
+    "summary": "川菜核心发酵调料，偏温热。"
   },
   {
     "id": "beer",
@@ -124,27 +5618,63 @@
     "caution": "痛风、肝病、孕期及服药期间不宜。"
   },
   {
-    "id": "spinach",
-    "name": "菠菜",
-    "en": "spinach",
-    "category": "蔬菜",
-    "nature": "凉",
+    "id": "oyster-mushroom",
+    "name": "平菇",
+    "en": "oyster mushroom",
+    "category": "菌菇",
+    "nature": "平",
     "effects": [
-      "养血"
+      "益气",
+      "健脾"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "全国"
+      "河北",
+      "山东"
     ],
+    "aliases": [
+      "侧耳"
+    ],
+    "pinyin": "pinggu",
+    "initials": "pg",
     "searchTerms": [
-      "bocai",
-      "bc",
-      "spinach"
+      "pinggu",
+      "pg",
+      "oyster mushroom",
+      "平菇",
+      "侧耳"
     ],
-    "summary": "常见叶菜，偏凉，含草酸，宜熟食。",
-    "caution": "肾结石、腹泻明显者不宜大量。"
+    "summary": "平菇，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "apple",
+    "name": "苹果",
+    "en": "apple",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津",
+      "润肺"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "陕西"
+    ],
+    "aliases": [],
+    "pinyin": "pingguo",
+    "initials": "pg",
+    "searchTerms": [
+      "pingguo",
+      "pg",
+      "apple",
+      "苹果"
+    ],
+    "summary": "苹果，常见于中式饮食与地方菜。"
   },
   {
     "id": "grape",
@@ -153,22 +5683,454 @@
     "category": "水果",
     "nature": "平",
     "effects": [
-      "生津"
+      "生津",
+      "益气"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
       "新疆",
-      "宁夏",
       "山东"
     ],
+    "aliases": [],
+    "pinyin": "putao",
+    "initials": "pt",
     "searchTerms": [
       "putao",
       "pt",
-      "grape"
+      "grape",
+      "葡萄"
     ],
-    "summary": "常见水果，偏平，鲜食与制干皆宜。"
+    "summary": "葡萄，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "cattail-shoot",
+    "name": "蒲菜",
+    "en": "cattail shoot",
+    "category": "水生蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "江苏"
+    ],
+    "aliases": [
+      "香蒲菜",
+      "蒲笋"
+    ],
+    "pinyin": "pucai",
+    "initials": "pc",
+    "searchTerms": [
+      "pucai",
+      "pc",
+      "cattail shoot",
+      "蒲菜",
+      "香蒲菜",
+      "蒲笋"
+    ],
+    "summary": "蒲菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "dandelion-greens",
+    "name": "蒲公英",
+    "en": "dandelion greens",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "解毒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "东北",
+      "内蒙古"
+    ],
+    "aliases": [
+      "婆婆丁"
+    ],
+    "pinyin": "pugongying",
+    "initials": "pgy",
+    "searchTerms": [
+      "pugongying",
+      "pgy",
+      "dandelion greens",
+      "蒲公英",
+      "婆婆丁"
+    ],
+    "summary": "蒲公英，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "pu-er-tea",
+    "name": "普洱茶",
+    "en": "pu-er tea",
+    "category": "茶饮",
+    "nature": "温",
+    "effects": [
+      "消脂"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "teaClass": "黑茶",
+    "searchTerms": [
+      "puercha",
+      "pec"
+    ],
+    "summary": "云南黑茶代表，偏温。"
+  },
+  {
+    "id": "keemun-tea",
+    "name": "祁门红茶",
+    "en": "keemun black tea",
+    "category": "茶饮",
+    "nature": "温",
+    "effects": [
+      "提神"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "teaClass": "红茶",
+    "searchTerms": [
+      "qimenhongcha",
+      "qmhc"
+    ],
+    "summary": "安徽红茶名品。"
+  },
+  {
+    "id": "buckwheat",
+    "name": "荞麦",
+    "en": "buckwheat",
+    "category": "谷物",
+    "nature": "凉",
+    "effects": [
+      "健脾",
+      "消积"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山西",
+      "陕西"
+    ],
+    "aliases": [
+      "三角麦"
+    ],
+    "pinyin": "qiaomai",
+    "initials": "qm",
+    "searchTerms": [
+      "qiaomai",
+      "qm",
+      "buckwheat",
+      "荞麦",
+      "三角麦"
+    ],
+    "summary": "荞麦，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "bok-choy",
+    "name": "青菜",
+    "en": "bok choy",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "清热",
+      "润肠"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海",
+      "江苏"
+    ],
+    "aliases": [
+      "小白菜",
+      "油菜"
+    ],
+    "pinyin": "qingcai",
+    "initials": "qc",
+    "searchTerms": [
+      "qingcai",
+      "qc",
+      "bok choy",
+      "青菜",
+      "小白菜",
+      "油菜"
+    ],
+    "summary": "青菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "green-pepper",
+    "name": "青椒",
+    "en": "green pepper",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [
+      "甜椒",
+      "菜椒"
+    ],
+    "pinyin": "qingjiao",
+    "initials": "qj",
+    "searchTerms": [
+      "qingjiao",
+      "qj",
+      "green pepper",
+      "青椒",
+      "甜椒",
+      "菜椒"
+    ],
+    "summary": "青椒，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "qingke",
+    "name": "青稞",
+    "en": "highland barley",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "主食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏",
+      "青海"
+    ],
+    "ethnicGroups": [
+      "藏族"
+    ],
+    "searchTerms": [
+      "qingke",
+      "qk"
+    ],
+    "summary": "高原主粮，可磨粉、酿酒、做糌粑。"
+  },
+  {
+    "id": "highland-barley",
+    "name": "青稞",
+    "en": "highland barley",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏",
+      "青海"
+    ],
+    "aliases": [
+      "裸大麦"
+    ],
+    "pinyin": "qingke",
+    "initials": "qk",
+    "searchTerms": [
+      "qingke",
+      "qk",
+      "highland barley",
+      "青稞",
+      "裸大麦"
+    ],
+    "summary": "青稞，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "mud-crab",
+    "name": "青蟹",
+    "en": "mud crab",
+    "category": "水产",
+    "nature": "寒",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "广东"
+    ],
+    "aliases": [
+      "锯缘青蟹"
+    ],
+    "pinyin": "qingxie",
+    "initials": "qx",
+    "searchTerms": [
+      "qingxie",
+      "qx",
+      "mud crab",
+      "青蟹",
+      "锯缘青蟹"
+    ],
+    "summary": "青蟹，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "mackerel",
+    "name": "鲭鱼",
+    "en": "mackerel",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "补虚",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建"
+    ],
+    "aliases": [
+      "青花鱼"
+    ],
+    "pinyin": "qinghuayu",
+    "initials": "qhy",
+    "searchTerms": [
+      "qinghuayu",
+      "qhy",
+      "mackerel",
+      "鲭鱼",
+      "青花鱼"
+    ],
+    "summary": "鲭鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "agar",
+    "name": "琼脂",
+    "en": "agar",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "海南"
+    ],
+    "aliases": [
+      "洋菜"
+    ],
+    "pinyin": "qiongzhi",
+    "initials": "qz",
+    "searchTerms": [
+      "qiongzhi",
+      "qz",
+      "agar",
+      "琼脂",
+      "洋菜"
+    ],
+    "summary": "琼脂，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "saury",
+    "name": "秋刀鱼",
+    "en": "saury",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "辽宁"
+    ],
+    "aliases": [],
+    "pinyin": "qiudaoyu",
+    "initials": "qdy",
+    "searchTerms": [
+      "qiudaoyu",
+      "qdy",
+      "saury",
+      "秋刀鱼"
+    ],
+    "summary": "秋刀鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "wakame",
+    "name": "裙带菜",
+    "en": "wakame",
+    "category": "水产",
+    "nature": "寒",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "辽宁"
+    ],
+    "aliases": [
+      "裙带"
+    ],
+    "pinyin": "qundaicai",
+    "initials": "qdc",
+    "searchTerms": [
+      "qundaicai",
+      "qdc",
+      "wakame",
+      "裙带菜",
+      "裙带"
+    ],
+    "summary": "裙带菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "hot-dry-noodle",
+    "name": "热干面",
+    "en": "hot dry noodles",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "searchTerms": [
+      "reganmian",
+      "rgm"
+    ],
+    "summary": "武汉早点代表。"
   },
   {
     "id": "ginseng",
@@ -204,77 +6166,956 @@
     ]
   },
   {
-    "id": "honey",
-    "name": "蜂蜜",
-    "en": "honey",
-    "category": "调料",
-    "nature": "平",
+    "id": "cinnamon",
+    "name": "肉桂",
+    "en": "cinnamon",
+    "category": "香料调料",
+    "nature": "热",
     "effects": [
-      "润燥"
+      "温中",
+      "散寒"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "全国"
-    ],
-    "searchTerms": [
-      "fengmi",
-      "fm",
-      "honey"
-    ],
-    "summary": "天然甜味剂，偏润，传统与葱蒜同用有争议条目。",
-    "caution": "一岁以下婴儿、糖尿病管理期不宜。"
-  },
-  {
-    "id": "vinegar",
-    "name": "醋",
-    "en": "vinegar",
-    "category": "调料",
-    "nature": "温",
-    "effects": [
-      "调味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "山西",
-      "江苏"
-    ],
-    "searchTerms": [
-      "cu",
-      "c",
-      "vinegar"
+      "广西",
+      "广东"
     ],
     "aliases": [
-      "米醋",
-      "陈醋",
-      "香醋"
+      "桂皮"
     ],
-    "summary": "酸性调味，传统与羊肉等同用有整理性提醒。"
+    "pinyin": "rougui",
+    "initials": "rg",
+    "searchTerms": [
+      "rougui",
+      "rg",
+      "cinnamon",
+      "肉桂",
+      "桂皮"
+    ],
+    "summary": "肉桂，常见于中式饮食与地方菜。"
   },
   {
-    "id": "celery",
-    "name": "芹菜",
-    "en": "celery",
+    "id": "roujiamo",
+    "name": "肉夹馍",
+    "en": "roujiamo",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "陕西"
+    ],
+    "searchTerms": [
+      "roujiamo",
+      "rjm"
+    ],
+    "summary": "陕西方代表小吃。"
+  },
+  {
+    "id": "mulberry",
+    "name": "桑葚",
+    "en": "mulberry",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "滋阴",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆",
+      "山东"
+    ],
+    "aliases": [
+      "桑椹",
+      "桑甚"
+    ],
+    "pinyin": "sangshen",
+    "initials": "ss",
+    "searchTerms": [
+      "sangshen",
+      "ss",
+      "mulberry",
+      "桑葚",
+      "桑椹",
+      "桑甚"
+    ],
+    "summary": "桑葚，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "shacha-noodle",
+    "name": "沙茶面",
+    "en": "shacha noodle",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "ethnicGroups": [
+      "回族"
+    ],
+    "searchTerms": [
+      "shachamian",
+      "scm"
+    ],
+    "summary": "闽南沙茶酱汤面。"
+  },
+  {
+    "id": "sardine",
+    "name": "沙丁鱼",
+    "en": "sardine",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "山东"
+    ],
+    "aliases": [],
+    "pinyin": "shadingyu",
+    "initials": "sdy",
+    "searchTerms": [
+      "shadingyu",
+      "sdy",
+      "sardine",
+      "沙丁鱼"
+    ],
+    "summary": "沙丁鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "amomum",
+    "name": "砂仁",
+    "en": "amomum",
+    "category": "香料调料",
+    "nature": "温",
+    "effects": [
+      "化湿",
+      "行气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "云南"
+    ],
+    "aliases": [],
+    "pinyin": "sharen",
+    "initials": "sr",
+    "searchTerms": [
+      "sharen",
+      "sr",
+      "amomum",
+      "砂仁"
+    ],
+    "summary": "砂仁，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "shanxi-vinegar-noodle",
+    "name": "山西刀削面",
+    "en": "shanxi knife cut noodle",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山西"
+    ],
+    "searchTerms": [
+      "daoxiaomian",
+      "dxm"
+    ],
+    "summary": "晋面代表，常配老陈醋。"
+  },
+  {
+    "id": "yam",
+    "name": "山药",
+    "en": "Chinese yam",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河南",
+      "河北"
+    ],
+    "aliases": [
+      "淮山",
+      "薯蓣"
+    ],
+    "pinyin": "shanyao",
+    "initials": "sy",
+    "searchTerms": [
+      "shanyao",
+      "sy",
+      "Chinese yam",
+      "山药",
+      "淮山",
+      "薯蓣"
+    ],
+    "summary": "山药，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "hawthorn-fruit",
+    "name": "山楂",
+    "en": "hawthorn",
+    "category": "水果",
+    "nature": "微温",
+    "effects": [
+      "消食",
+      "化瘀"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [
+      "红果"
+    ],
+    "pinyin": "shanzha",
+    "initials": "sz",
+    "searchTerms": [
+      "shanzha",
+      "sz",
+      "hawthorn",
+      "山楂",
+      "红果"
+    ],
+    "summary": "山楂，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "mangosteen",
+    "name": "山竹",
+    "en": "mangosteen",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "云南"
+    ],
+    "aliases": [],
+    "pinyin": "shanzhu",
+    "initials": "sz",
+    "searchTerms": [
+      "shanzhu",
+      "sz",
+      "mangosteen",
+      "山竹"
+    ],
+    "summary": "山竹，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "scallop",
+    "name": "扇贝",
+    "en": "scallop",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "滋阴",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "辽宁",
+      "山东"
+    ],
+    "aliases": [],
+    "pinyin": "shanbei",
+    "initials": "sb",
+    "searchTerms": [
+      "shanbei",
+      "sb",
+      "scallop",
+      "扇贝"
+    ],
+    "summary": "扇贝，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "eel",
+    "name": "鳝鱼",
+    "en": "eel",
+    "category": "水产",
+    "nature": "温",
+    "effects": [
+      "补虚",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "湖北"
+    ],
+    "aliases": [
+      "黄鳝"
+    ],
+    "pinyin": "shanyu",
+    "initials": "sy",
+    "searchTerms": [
+      "shanyu",
+      "sy",
+      "eel",
+      "鳝鱼",
+      "黄鳝"
+    ],
+    "summary": "鳝鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "lettuce",
+    "name": "生菜",
+    "en": "lettuce",
     "category": "蔬菜",
     "nature": "凉",
     "effects": [
-      "降气"
+      "清热",
+      "生津"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "全国"
+      "云南",
+      "广东"
+    ],
+    "aliases": [
+      "叶用莴苣"
+    ],
+    "pinyin": "shengcai",
+    "initials": "sc",
+    "searchTerms": [
+      "shengcai",
+      "sc",
+      "lettuce",
+      "生菜",
+      "叶用莴苣"
+    ],
+    "summary": "生菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "oyster",
+    "name": "生蚝",
+    "en": "oyster",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "滋阴",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建"
+    ],
+    "aliases": [
+      "牡蛎",
+      "海蛎"
+    ],
+    "pinyin": "shenghao",
+    "initials": "sh",
+    "searchTerms": [
+      "shenghao",
+      "sh",
+      "oyster",
+      "生蚝",
+      "牡蛎",
+      "海蛎"
+    ],
+    "summary": "生食与烧烤均常见。",
+    "caution": "生食有微生物风险；痛风者慎食。"
+  },
+  {
+    "id": "ginger",
+    "name": "生姜",
+    "en": "ginger",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "云南"
+    ],
+    "aliases": [
+      "姜"
+    ],
+    "pinyin": "shengjiang",
+    "initials": "sj",
+    "searchTerms": [
+      "shengjiang",
+      "sj",
+      "ginger",
+      "生姜",
+      "姜"
+    ],
+    "summary": "生姜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "grouper",
+    "name": "石斑",
+    "en": "grouper",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建"
+    ],
+    "aliases": [
+      "石斑鱼"
+    ],
+    "pinyin": "shiban",
+    "initials": "sb",
+    "searchTerms": [
+      "shiban",
+      "sb",
+      "grouper",
+      "石斑",
+      "石斑鱼"
+    ],
+    "summary": "石斑，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "pomegranate",
+    "name": "石榴",
+    "en": "pomegranate",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "生津",
+      "收敛"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "陕西",
+      "新疆"
+    ],
+    "aliases": [],
+    "pinyin": "shiliu",
+    "initials": "sl",
+    "searchTerms": [
+      "shiliu",
+      "sl",
+      "pomegranate",
+      "石榴"
+    ],
+    "summary": "石榴，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "persimmon",
+    "name": "柿子",
+    "en": "persimmon",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "润肺",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "陕西",
+      "广西"
+    ],
+    "aliases": [],
+    "pinyin": "shizi",
+    "initials": "sz",
+    "searchTerms": [
+      "shizi",
+      "sz",
+      "persimmon",
+      "柿子"
+    ],
+    "summary": "柿子，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "sugar-apple",
+    "name": "释迦",
+    "en": "sugar apple",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "补脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "台湾",
+      "海南"
+    ],
+    "aliases": [
+      "番荔枝"
+    ],
+    "pinyin": "shijia",
+    "initials": "sj",
+    "searchTerms": [
+      "shijia",
+      "sj",
+      "sugar apple",
+      "释迦",
+      "番荔枝"
+    ],
+    "summary": "释迦，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "hand-grasp-mutton",
+    "name": "手抓羊肉",
+    "en": "hand grasp mutton",
+    "category": "肉蛋奶",
+    "nature": "热",
+    "effects": [
+      "温中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "宁夏",
+      "甘肃"
+    ],
+    "ethnicGroups": [
+      "回族"
     ],
     "searchTerms": [
-      "qincai",
-      "qc",
-      "celery"
+      "shouzhuayangrou",
+      "szyr"
     ],
-    "summary": "常见蔬菜，偏凉，纤维丰富。"
+    "summary": "西北回族传统菜肴。"
+  },
+  {
+    "id": "raspberry",
+    "name": "树莓",
+    "en": "raspberry",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "生津",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "云南"
+    ],
+    "aliases": [
+      "覆盆子"
+    ],
+    "pinyin": "shumei",
+    "initials": "sm",
+    "searchTerms": [
+      "shumei",
+      "sm",
+      "raspberry",
+      "树莓",
+      "覆盆子"
+    ],
+    "summary": "树莓，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "water-celery",
+    "name": "水芹",
+    "en": "water celery",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江"
+    ],
+    "aliases": [],
+    "pinyin": "shuiqin",
+    "initials": "sq",
+    "searchTerms": [
+      "shuiqin",
+      "sq",
+      "water celery",
+      "水芹"
+    ],
+    "summary": "水芹，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "luffa",
+    "name": "丝瓜",
+    "en": "luffa",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "化痰"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "江苏"
+    ],
+    "aliases": [],
+    "pinyin": "sigua",
+    "initials": "sg",
+    "searchTerms": [
+      "sigua",
+      "sg",
+      "luffa",
+      "丝瓜"
+    ],
+    "summary": "丝瓜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "matsutake",
+    "name": "松茸",
+    "en": "matsutake",
+    "category": "菌菇",
+    "nature": "温",
+    "effects": [
+      "益气",
+      "和胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "四川"
+    ],
+    "aliases": [
+      "松蕈"
+    ],
+    "pinyin": "songrong",
+    "initials": "sr",
+    "searchTerms": [
+      "songrong",
+      "sr",
+      "matsutake",
+      "松茸",
+      "松蕈"
+    ],
+    "summary": "松茸，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "tibetan-butter-tea",
+    "name": "酥油茶",
+    "en": "butter tea",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "御寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏",
+      "青海"
+    ],
+    "ethnicGroups": [
+      "藏族"
+    ],
+    "searchTerms": [
+      "suyoucha",
+      "syc"
+    ],
+    "summary": "藏区传统饮品，高热量。"
+  },
+  {
+    "id": "miao-sour-fish",
+    "name": "酸汤鱼",
+    "en": "sour soup fish",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "ethnicGroups": [
+      "苗族",
+      "侗族"
+    ],
+    "searchTerms": [
+      "suantangyu",
+      "sty"
+    ],
+    "summary": "黔东南酸汤鱼，开胃暖身。"
+  },
+  {
+    "id": "bamboo-shoot",
+    "name": "笋",
+    "en": "bamboo shoot",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "化痰"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建"
+    ],
+    "aliases": [
+      "竹笋"
+    ],
+    "pinyin": "sun",
+    "initials": "s",
+    "searchTerms": [
+      "sun",
+      "s",
+      "bamboo shoot",
+      "笋",
+      "竹笋"
+    ],
+    "summary": "笋，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "swimming-crab",
+    "name": "梭子蟹",
+    "en": "swimming crab",
+    "category": "水产",
+    "nature": "寒",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建"
+    ],
+    "aliases": [
+      "海蟹"
+    ],
+    "pinyin": "suozixie",
+    "initials": "szx",
+    "searchTerms": [
+      "suozixie",
+      "szx",
+      "swimming crab",
+      "梭子蟹",
+      "海蟹"
+    ],
+    "summary": "梭子蟹，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "peach",
+    "name": "桃子",
+    "en": "peach",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "生津",
+      "润肠"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "江苏"
+    ],
+    "aliases": [
+      "桃"
+    ],
+    "pinyin": "taozi",
+    "initials": "tz",
+    "searchTerms": [
+      "taozi",
+      "tz",
+      "peach",
+      "桃子",
+      "桃"
+    ],
+    "summary": "桃子，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "tianjin-mahua",
+    "name": "天津麻花",
+    "en": "tianjin fried dough twist",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "休闲"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "searchTerms": [
+      "mahua",
+      "mh"
+    ],
+    "summary": "北方传统油炸点心，偏温腻。"
+  },
+  {
+    "id": "river-snail",
+    "name": "田螺",
+    "en": "river snail",
+    "category": "水产",
+    "nature": "寒",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南",
+      "江苏"
+    ],
+    "aliases": [],
+    "pinyin": "tianluo",
+    "initials": "tl",
+    "searchTerms": [
+      "tianluo",
+      "tl",
+      "river snail",
+      "田螺"
+    ],
+    "summary": "需充分煮熟。",
+    "caution": "寄生虫风险，忌生食。"
+  },
+  {
+    "id": "sweet-melon",
+    "name": "甜瓜",
+    "en": "sweet melon",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津",
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [],
+    "pinyin": "tiangua",
+    "initials": "tg",
+    "searchTerms": [
+      "tiangua",
+      "tg",
+      "sweet melon",
+      "甜瓜"
+    ],
+    "summary": "甜瓜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "tieguanyin",
+    "name": "铁观音",
+    "en": "tieguanyin",
+    "category": "茶饮",
+    "nature": "凉",
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "teaClass": "乌龙茶",
+    "searchTerms": [
+      "tieguanyin",
+      "tgy"
+    ],
+    "summary": "闽南乌龙茶代表。"
+  },
+  {
+    "id": "boat-congee",
+    "name": "艇仔粥",
+    "en": "boat congee",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "searchTerms": [
+      "tingzaizhou",
+      "tzz"
+    ],
+    "summary": "广州传统生滚粥。"
   },
   {
     "id": "rabbit",
@@ -304,124 +7145,746 @@
     "summary": "地方常见肉类，蛋白质较高，偏凉。"
   },
   {
-    "id": "iron-rich-meal",
-    "name": "富铁餐",
-    "en": "iron-rich meal",
+    "id": "baby-cabbage",
+    "name": "娃娃菜",
+    "en": "baby bok choy",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "和胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "河北"
+    ],
+    "aliases": [
+      "小白菜心"
+    ],
+    "pinyin": "wawacai",
+    "initials": "wwc",
+    "searchTerms": [
+      "wawacai",
+      "wwc",
+      "baby bok choy",
+      "娃娃菜",
+      "小白菜心"
+    ],
+    "summary": "娃娃菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "green-pea",
+    "name": "豌豆",
+    "en": "green pea",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "甘肃",
+      "宁夏"
+    ],
+    "aliases": [],
+    "pinyin": "wandou",
+    "initials": "wd",
+    "searchTerms": [
+      "wandou",
+      "wd",
+      "green pea",
+      "豌豆"
+    ],
+    "summary": "豌豆，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "water-spinach",
+    "name": "蕹菜",
+    "en": "water spinach",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "广西",
+      "福建"
+    ],
+    "aliases": [
+      "空心菜",
+      "通菜"
+    ],
+    "pinyin": "wongcai",
+    "initials": "wc",
+    "searchTerms": [
+      "wongcai",
+      "wc",
+      "water spinach",
+      "蕹菜",
+      "空心菜",
+      "通菜"
+    ],
+    "summary": "蕹菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "fig",
+    "name": "无花果",
+    "en": "fig",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "生津",
+      "润肠"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆",
+      "山东"
+    ],
+    "aliases": [],
+    "pinyin": "wuhuaguo",
+    "initials": "whg",
+    "searchTerms": [
+      "wuhuaguo",
+      "whg",
+      "fig",
+      "无花果"
+    ],
+    "summary": "无花果，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "wuxi-rib",
+    "name": "无锡排骨",
+    "en": "wuxi spare ribs",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "searchTerms": [
+      "wuxipaigu",
+      "wxpg"
+    ],
+    "summary": "苏南甜口酱排骨。"
+  },
+  {
+    "id": "turnip",
+    "name": "芜菁",
+    "en": "turnip",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "消食",
+      "化痰"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "内蒙古",
+      "甘肃"
+    ],
+    "aliases": [
+      "圆萝卜"
+    ],
+    "pinyin": "wujing",
+    "initials": "wj",
+    "searchTerms": [
+      "wujing",
+      "wj",
+      "turnip",
+      "芜菁",
+      "圆萝卜"
+    ],
+    "summary": "芜菁，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "wuxianglu",
+    "name": "五芳斋粽子",
+    "en": "wuxianglu zongzi",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "节令"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "searchTerms": [
+      "wufangzhaizongzi",
+      "wfzzz"
+    ],
+    "aliases": [
+      "嘉兴粽子"
+    ],
+    "summary": "江南端午粽代表。"
+  },
+  {
+    "id": "wuhan-duya",
+    "name": "武汉鸭脖",
+    "en": "wuhan duck neck",
+    "category": "小吃",
+    "nature": "热",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "searchTerms": [
+      "wuhanyabo",
+      "whyb"
+    ],
+    "summary": "卤制鸭脖，偏热辣，宜少量。"
+  },
+  {
+    "id": "watermelon",
+    "name": "西瓜",
+    "en": "watermelon",
+    "category": "水果",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "宁夏",
+      "山东"
+    ],
+    "aliases": [],
+    "pinyin": "xigua",
+    "initials": "xg",
+    "searchTerms": [
+      "xigua",
+      "xg",
+      "watermelon",
+      "西瓜"
+    ],
+    "summary": "西瓜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "xihu-lotus-powder",
+    "name": "西湖藕粉",
+    "en": "west lake lotus root starch",
+    "category": "小吃",
+    "nature": "平",
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "searchTerms": [
+      "oufen",
+      "of"
+    ],
+    "summary": "杭州藕粉羹，平和养胃。"
+  },
+  {
+    "id": "broccoli",
+    "name": "西兰花",
+    "en": "broccoli",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "云南"
+    ],
+    "aliases": [
+      "绿花菜"
+    ],
+    "pinyin": "xilanhua",
+    "initials": "xlh",
+    "searchTerms": [
+      "xilanhua",
+      "xlh",
+      "broccoli",
+      "西兰花",
+      "绿花菜"
+    ],
+    "summary": "西兰花，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "celery-stalk",
+    "name": "西芹",
+    "en": "celery stalk",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "理气和胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [],
+    "pinyin": "xiqin",
+    "initials": "xq",
+    "searchTerms": [
+      "xiqin",
+      "xq",
+      "celery stalk",
+      "西芹"
+    ],
+    "summary": "西芹，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "watercress",
+    "name": "西洋菜",
+    "en": "watercress",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清肺",
+      "润燥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "香港"
+    ],
+    "aliases": [
+      "豆瓣菜"
+    ],
+    "pinyin": "xiyangcai",
+    "initials": "xyc",
+    "searchTerms": [
+      "xiyangcai",
+      "xyc",
+      "watercress",
+      "西洋菜",
+      "豆瓣菜"
+    ],
+    "summary": "西洋菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "celery",
+    "name": "西洋芹",
+    "en": "celery",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "理气和胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [
+      "西芹"
+    ],
+    "pinyin": "xiyangqin",
+    "initials": "xyq",
+    "searchTerms": [
+      "xiyangqin",
+      "xyq",
+      "celery",
+      "西洋芹",
+      "西芹"
+    ],
+    "summary": "西洋芹，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "dim-sum-shrimp",
+    "name": "虾饺",
+    "en": "har gow",
     "category": "主食",
     "nature": "平",
     "effects": [
-      "标签"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "searchTerms": [
-      "futiecang"
-    ],
-    "summary": "搭配检查用概念标签：指红肉、动物血、部分内脏与深绿叶菜等富铁场景，非单一食材。",
-    "hiddenFromLibrary": true
-  },
-  {
-    "id": "doubanjiang",
-    "name": "郫县豆瓣",
-    "en": "pixian bean paste",
-    "category": "调料",
-    "nature": "热",
-    "effects": [
-      "调味"
+      "地方风味"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "四川"
-    ],
-    "searchTerms": [
-      "pixiandouban",
-      "pxdb"
-    ],
-    "aliases": [
-      "豆瓣酱",
-      "川式豆瓣"
-    ],
-    "summary": "川菜核心发酵调料，偏温热。"
-  },
-  {
-    "id": "douchi",
-    "name": "豆豉",
-    "en": "fermented black bean",
-    "category": "调料",
-    "nature": "温",
-    "effects": [
-      "调味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "湖南",
       "广东"
     ],
     "searchTerms": [
-      "douchi",
-      "dc"
+      "xiajiao",
+      "xj"
     ],
-    "summary": "发酵豆制品，增鲜调味。"
+    "summary": "粤式点心代表。"
   },
   {
-    "id": "fermented-tofu",
-    "name": "腐乳",
-    "en": "fermented tofu",
-    "category": "发酵食品",
-    "nature": "温",
+    "id": "prickly-pear-fruit",
+    "name": "仙人掌果",
+    "en": "prickly pear fruit",
+    "category": "水果",
+    "nature": "凉",
     "effects": [
-      "调味"
+      "清热",
+      "生津"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "北京",
-      "江苏",
+      "海南",
       "云南"
     ],
-    "searchTerms": [
-      "furu",
-      "fr"
-    ],
     "aliases": [
-      "南乳",
-      "红腐乳"
+      "仙人果"
     ],
-    "summary": "发酵豆制品，咸鲜，偏温。"
+    "pinyin": "xianrenzhangguo",
+    "initials": "xrzzg",
+    "searchTerms": [
+      "xianrenzhangguo",
+      "xrzzg",
+      "prickly pear fruit",
+      "仙人掌果",
+      "仙人果"
+    ],
+    "summary": "仙人掌果，常见于中式饮食与地方菜。"
   },
   {
-    "id": "laoganma",
-    "name": "老干妈",
-    "en": "chili crisp",
-    "category": "调料",
-    "nature": "热",
+    "id": "fresh-corn",
+    "name": "鲜玉米",
+    "en": "fresh corn",
+    "category": "谷物",
+    "nature": "平",
     "effects": [
-      "调味"
+      "健脾",
+      "生津"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "贵州"
+      "吉林",
+      "黑龙江"
     ],
+    "aliases": [
+      "甜玉米",
+      "水果玉米"
+    ],
+    "pinyin": "xianyumi",
+    "initials": "xym",
     "searchTerms": [
-      "laoganma",
-      "lgm"
+      "xianyumi",
+      "xym",
+      "fresh corn",
+      "鲜玉米",
+      "甜玉米",
+      "水果玉米"
     ],
-    "summary": "现代复合辣酱代表，偏热。"
+    "summary": "鲜玉米，常见于中式饮食与地方菜。"
   },
   {
-    "id": "sichuan-peppercorn",
-    "name": "汉源花椒",
-    "en": "sichuan pepper",
-    "category": "调料",
-    "nature": "热",
+    "id": "amaranth-greens",
+    "name": "苋菜",
+    "en": "amaranth greens",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "润肠"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "安徽"
+    ],
+    "aliases": [
+      "红苋",
+      "青苋"
+    ],
+    "pinyin": "xiancai",
+    "initials": "xc",
+    "searchTerms": [
+      "xiancai",
+      "xc",
+      "amaranth greens",
+      "苋菜",
+      "红苋",
+      "青苋"
+    ],
+    "summary": "苋菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "shiitake",
+    "name": "香菇",
+    "en": "shiitake",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "益气",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "浙江"
+    ],
+    "aliases": [
+      "冬菇",
+      "花菇"
+    ],
+    "pinyin": "xianggu",
+    "initials": "xg",
+    "searchTerms": [
+      "xianggu",
+      "xg",
+      "shiitake",
+      "香菇",
+      "冬菇",
+      "花菇"
+    ],
+    "summary": "香菇，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "muskmelon",
+    "name": "香瓜",
+    "en": "muskmelon",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北"
+    ],
+    "aliases": [],
+    "pinyin": "xianggua",
+    "initials": "xg",
+    "searchTerms": [
+      "xianggua",
+      "xg",
+      "muskmelon",
+      "香瓜"
+    ],
+    "summary": "香瓜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "banana",
+    "name": "香蕉",
+    "en": "banana",
+    "category": "水果",
+    "nature": "寒",
+    "effects": [
+      "润肠",
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "广西"
+    ],
+    "aliases": [],
+    "pinyin": "xiangjiao",
+    "initials": "xj",
+    "searchTerms": [
+      "xiangjiao",
+      "xj",
+      "banana",
+      "香蕉"
+    ],
+    "summary": "香蕉，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "whelk",
+    "name": "香螺",
+    "en": "whelk",
+    "category": "水产",
+    "nature": "寒",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "辽宁",
+      "山东"
+    ],
+    "aliases": [],
+    "pinyin": "xiangluo",
+    "initials": "xl",
+    "searchTerms": [
+      "xiangluo",
+      "xl",
+      "whelk",
+      "香螺"
+    ],
+    "summary": "香螺，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "chinese-celery",
+    "name": "香芹",
+    "en": "Chinese celery",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "理气和胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河南"
+    ],
+    "aliases": [
+      "本芹"
+    ],
+    "pinyin": "xiangqin",
+    "initials": "xq",
+    "searchTerms": [
+      "xiangqin",
+      "xq",
+      "Chinese celery",
+      "香芹",
+      "本芹"
+    ],
+    "summary": "香芹，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "geoduck",
+    "name": "象拔蚌",
+    "en": "geoduck",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "滋阴"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "辽宁",
+      "山东"
+    ],
+    "aliases": [],
+    "pinyin": "xiangbabang",
+    "initials": "xbb",
+    "searchTerms": [
+      "xiangbabang",
+      "xbb",
+      "geoduck",
+      "象拔蚌"
+    ],
+    "summary": "象拔蚌，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "shallot",
+    "name": "小葱",
+    "en": "shallot",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "发汗",
+      "通阳"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "广东"
+    ],
+    "aliases": [
+      "香葱"
+    ],
+    "pinyin": "xiaocong",
+    "initials": "xc",
+    "searchTerms": [
+      "xiaocong",
+      "xc",
+      "shallot",
+      "小葱",
+      "香葱"
+    ],
+    "summary": "小葱，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "fennel-herb",
+    "name": "小茴香",
+    "en": "fennel herb",
+    "category": "香料调料",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "理气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "甘肃",
+      "山西"
+    ],
+    "aliases": [
+      "茴香苗"
+    ],
+    "pinyin": "xiaohuixiang",
+    "initials": "xhx",
+    "searchTerms": [
+      "xiaohuixiang",
+      "xhx",
+      "fennel herb",
+      "小茴香",
+      "茴香苗"
+    ],
+    "summary": "小茴香，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "crayfish",
+    "name": "小龙虾",
+    "en": "crayfish",
+    "category": "水产",
+    "nature": "温",
     "effects": [
       "温中"
     ],
@@ -429,17 +7892,133 @@
       "CN"
     ],
     "provinces": [
-      "四川"
-    ],
-    "searchTerms": [
-      "huajiao",
-      "hj"
+      "湖北",
+      "江苏"
     ],
     "aliases": [
-      "花椒",
-      "川椒"
+      "克氏原螯虾"
     ],
-    "summary": "川菜麻香来源，偏热。"
+    "pinyin": "xiaolongxia",
+    "initials": "xlx",
+    "searchTerms": [
+      "xiaolongxia",
+      "xlx",
+      "crayfish",
+      "小龙虾",
+      "克氏原螯虾"
+    ],
+    "summary": "夏季高频水产，调味偏重。",
+    "caution": "痛风、过敏体质者慎食；务必煮熟。"
+  },
+  {
+    "id": "shimeji-mushroom",
+    "name": "蟹味菇",
+    "en": "shimeji mushroom",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河北",
+      "山东"
+    ],
+    "aliases": [
+      "真姬菇"
+    ],
+    "pinyin": "xieweigu",
+    "initials": "xwg",
+    "searchTerms": [
+      "xieweigu",
+      "xwg",
+      "shimeji mushroom",
+      "蟹味菇",
+      "真姬菇"
+    ],
+    "summary": "蟹味菇，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "xinjiang-chaomifen",
+    "name": "新疆炒米粉",
+    "en": "xinjiang fried rice noodle",
+    "category": "主食",
+    "nature": "热",
+    "effects": [
+      "地方风味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "ethnicGroups": [
+      "维吾尔族"
+    ],
+    "searchTerms": [
+      "chaomifen",
+      "cmf"
+    ],
+    "summary": "疆式辣炒米粉，偏热辣。"
+  },
+  {
+    "id": "apricot",
+    "name": "杏",
+    "en": "apricot",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "生津",
+      "润肺"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆",
+      "河北"
+    ],
+    "aliases": [],
+    "pinyin": "xing",
+    "initials": "x",
+    "searchTerms": [
+      "xing",
+      "x",
+      "apricot",
+      "杏"
+    ],
+    "summary": "杏，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "king-oyster-mushroom",
+    "name": "杏鲍菇",
+    "en": "king oyster mushroom",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河北",
+      "福建"
+    ],
+    "aliases": [],
+    "pinyin": "xingbaogu",
+    "initials": "xbg",
+    "searchTerms": [
+      "xingbaogu",
+      "xbg",
+      "king oyster mushroom",
+      "杏鲍菇"
+    ],
+    "summary": "杏鲍菇，常见于中式饮食与地方菜。"
   },
   {
     "id": "yunnan-ham",
@@ -466,74 +8045,63 @@
     "summary": "云南名产，偏温咸鲜。"
   },
   {
-    "id": "jinhua-ham",
-    "name": "金华火腿",
-    "en": "jinhua ham",
-    "category": "肉蛋奶",
+    "id": "snow-cabbage",
+    "name": "雪里蕻",
+    "en": "potherb mustard",
+    "category": "腌菜",
     "nature": "温",
     "effects": [
-      "调味"
+      "开胃"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "浙江"
+      "江浙"
     ],
     "searchTerms": [
-      "jinhua huotui",
-      "jhht"
+      "xuelihong",
+      "xlh"
     ],
-    "summary": "浙闽名产，偏温。"
+    "summary": "常见腌制叶菜。"
   },
   {
-    "id": "tianjin-mahua",
-    "name": "天津麻花",
-    "en": "tianjin fried dough twist",
+    "id": "pickled-mustard",
+    "name": "雪里蕻",
+    "en": "pickled mustard",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "开胃",
+      "消食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "江苏"
+    ],
+    "aliases": [
+      "雪菜"
+    ],
+    "pinyin": "xuelihong",
+    "initials": "xlh",
+    "searchTerms": [
+      "xuelihong",
+      "xlh",
+      "pickled mustard",
+      "雪里蕻",
+      "雪菜"
+    ],
+    "summary": "雪里蕻，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "korean-cold-noodle",
+    "name": "延吉冷面",
+    "en": "yanji cold noodle",
     "category": "主食",
-    "nature": "温",
-    "effects": [
-      "休闲"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "天津"
-    ],
-    "searchTerms": [
-      "mahua",
-      "mh"
-    ],
-    "summary": "北方传统油炸点心，偏温腻。"
-  },
-  {
-    "id": "beijing-kaoya",
-    "name": "北京烤鸭",
-    "en": "peking duck",
-    "category": "肉蛋奶",
-    "nature": "温",
-    "effects": [
-      "高蛋白"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "北京"
-    ],
-    "searchTerms": [
-      "kaoya",
-      "ky"
-    ],
-    "summary": "京菜代表，偏温，油脂较高。"
-  },
-  {
-    "id": "luzhu-huoshao",
-    "name": "卤煮火烧",
-    "en": "luzhu stew",
-    "category": "主食",
-    "nature": "温",
+    "nature": "凉",
     "effects": [
       "地方风味"
     ],
@@ -541,13 +8109,75 @@
       "CN"
     ],
     "provinces": [
-      "北京"
+      "吉林"
+    ],
+    "ethnicGroups": [
+      "朝鲜族"
     ],
     "searchTerms": [
-      "luzhu",
-      "lz"
+      "yanjilengmian",
+      "yjlm"
     ],
-    "summary": "北京传统小吃，偏温热。"
+    "summary": "延边朝鲜族冷面。"
+  },
+  {
+    "id": "oats",
+    "name": "燕麦",
+    "en": "oats",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "内蒙古",
+      "河北"
+    ],
+    "aliases": [
+      "莜麦片原料"
+    ],
+    "pinyin": "yanmai",
+    "initials": "ym",
+    "searchTerms": [
+      "yanmai",
+      "ym",
+      "oats",
+      "燕麦",
+      "莜麦片原料"
+    ],
+    "summary": "燕麦，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "morel",
+    "name": "羊肚菌",
+    "en": "morel",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "四川"
+    ],
+    "aliases": [],
+    "pinyin": "yangdujun",
+    "initials": "ydj",
+    "searchTerms": [
+      "yangdujun",
+      "ydj",
+      "morel",
+      "羊肚菌"
+    ],
+    "summary": "羊肚菌，常见于中式饮食与地方菜。"
   },
   {
     "id": "lamb-skewer",
@@ -576,182 +8206,148 @@
     "summary": "西北与草原地区常见，偏热。"
   },
   {
-    "id": "hand-pulled-noodle",
-    "name": "兰州拉面",
-    "en": "lanzhou beef noodle",
-    "category": "主食",
-    "nature": "平",
+    "id": "bayberry",
+    "name": "杨梅",
+    "en": "bayberry",
+    "category": "水果",
+    "nature": "温",
     "effects": [
-      "主食"
+      "生津",
+      "和胃"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "甘肃"
+      "浙江",
+      "福建"
     ],
-    "ethnicGroups": [
-      "回族"
-    ],
+    "aliases": [],
+    "pinyin": "yangmei",
+    "initials": "ym",
     "searchTerms": [
-      "lanzhou lamian",
-      "lzlm"
+      "yangmei",
+      "ym",
+      "bayberry",
+      "杨梅"
+    ],
+    "summary": "杨梅，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "starfruit",
+    "name": "杨桃",
+    "en": "starfruit",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津",
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建"
     ],
     "aliases": [
-      "牛肉面"
+      "羊桃"
     ],
-    "summary": "西北代表性面食。"
+    "pinyin": "yangtao",
+    "initials": "yt",
+    "searchTerms": [
+      "yangtao",
+      "yt",
+      "starfruit",
+      "杨桃",
+      "羊桃"
+    ],
+    "summary": "杨桃，常见于中式饮食与地方菜。"
   },
   {
-    "id": "roujiamo",
-    "name": "肉夹馍",
-    "en": "roujiamo",
-    "category": "主食",
+    "id": "onion",
+    "name": "洋葱",
+    "en": "onion",
+    "category": "蔬菜",
     "nature": "温",
     "effects": [
-      "地方风味"
+      "温中",
+      "行气"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "陕西"
+      "甘肃",
+      "云南"
     ],
+    "aliases": [],
+    "pinyin": "yangcong",
+    "initials": "yc",
     "searchTerms": [
-      "roujiamo",
-      "rjm"
+      "yangcong",
+      "yc",
+      "onion",
+      "洋葱"
     ],
-    "summary": "陕西方代表小吃。"
+    "summary": "洋葱，常见于中式饮食与地方菜。"
   },
   {
-    "id": "biangbiang-noodle",
-    "name": "biangbiang面",
-    "en": "biangbiang noodle",
-    "category": "主食",
+    "id": "coconut",
+    "name": "椰子",
+    "en": "coconut",
+    "category": "水果",
     "nature": "平",
     "effects": [
-      "主食"
+      "生津",
+      "补虚"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "陕西"
+      "海南",
+      "广东"
     ],
+    "aliases": [],
+    "pinyin": "yezi",
+    "initials": "yz",
     "searchTerms": [
-      "biangbiangmian",
-      "bbm"
+      "yezi",
+      "yz",
+      "coconut",
+      "椰子"
     ],
-    "summary": "陕西宽面，常配油泼辣子。"
+    "summary": "椰子，常见于中式饮食与地方菜。"
   },
   {
-    "id": "hot-dry-noodle",
-    "name": "热干面",
-    "en": "hot dry noodles",
-    "category": "主食",
-    "nature": "温",
+    "id": "wild-lotus-root",
+    "name": "野藕",
+    "en": "wild lotus root",
+    "category": "水生蔬菜",
+    "nature": "凉",
     "effects": [
-      "地方风味"
+      "清热",
+      "凉血"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "湖北"
-    ],
-    "searchTerms": [
-      "reganmian",
-      "rgm"
-    ],
-    "summary": "武汉早点代表。"
-  },
-  {
-    "id": "stinky-tofu",
-    "name": "臭豆腐",
-    "en": "stinky tofu",
-    "category": "发酵食品",
-    "nature": "温",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
+      "湖北",
       "湖南",
-      "浙江"
+      "江苏"
     ],
+    "aliases": [],
+    "pinyin": "yeou",
+    "initials": "yo",
     "searchTerms": [
-      "choudoufu",
-      "cdf"
+      "yeou",
+      "yo",
+      "wild lotus root",
+      "野藕"
     ],
-    "summary": "发酵豆制品，地方差异大。"
-  },
-  {
-    "id": "changsha-chili",
-    "name": "剁椒",
-    "en": "chopped chili",
-    "category": "调料",
-    "nature": "热",
-    "effects": [
-      "调味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "湖南"
-    ],
-    "searchTerms": [
-      "duojiao",
-      "dj"
-    ],
-    "summary": "湘菜常用发酵辣椒。"
-  },
-  {
-    "id": "cantonese-sausage",
-    "name": "广式腊肠",
-    "en": "cantonese sausage",
-    "category": "肉蛋奶",
-    "nature": "温",
-    "effects": [
-      "调味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "广东"
-    ],
-    "searchTerms": [
-      "guangshilachang",
-      "gslch"
-    ],
-    "aliases": [
-      "腊肠"
-    ],
-    "summary": "岭南腊味代表，偏温咸。"
-  },
-  {
-    "id": "dim-sum-shrimp",
-    "name": "虾饺",
-    "en": "har gow",
-    "category": "主食",
-    "nature": "平",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "广东"
-    ],
-    "searchTerms": [
-      "xiajiao",
-      "xj"
-    ],
-    "summary": "粤式点心代表。"
+    "summary": "野藕，常见于中式饮食与地方菜。"
   },
   {
     "id": "yunnan-mushroom-hotpot",
@@ -776,166 +8372,408 @@
     "caution": "务必充分加热，不识别品种勿采食。"
   },
   {
-    "id": "pu-er-tea",
-    "name": "普洱茶",
-    "en": "pu-er tea",
-    "category": "茶饮",
-    "nature": "温",
+    "id": "white-fungus",
+    "name": "银耳",
+    "en": "white fungus",
+    "category": "菌菇",
+    "nature": "平",
     "effects": [
-      "消脂"
+      "滋阴",
+      "润肺"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
+      "福建",
+      "四川"
+    ],
+    "aliases": [
+      "白木耳",
+      "雪耳"
+    ],
+    "pinyin": "yiner",
+    "initials": "ye",
+    "searchTerms": [
+      "yiner",
+      "ye",
+      "white fungus",
+      "银耳",
+      "白木耳",
+      "雪耳"
+    ],
+    "summary": "银耳，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "whitebait",
+    "name": "银鱼",
+    "en": "whitebait",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "补虚",
+      "养胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "太湖"
+    ],
+    "aliases": [
+      "面条鱼"
+    ],
+    "pinyin": "yinyu",
+    "initials": "yy",
+    "searchTerms": [
+      "yinyu",
+      "yy",
+      "whitebait",
+      "银鱼",
+      "面条鱼"
+    ],
+    "summary": "银鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "cherry",
+    "name": "樱桃",
+    "en": "cherry",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "益气",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "辽宁"
+    ],
+    "aliases": [
+      "车厘子"
+    ],
+    "pinyin": "yingtao",
+    "initials": "yt",
+    "searchTerms": [
+      "yingtao",
+      "yt",
+      "cherry",
+      "樱桃",
+      "车厘子"
+    ],
+    "summary": "樱桃，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "chickpea",
+    "name": "鹰嘴豆",
+    "en": "chickpea",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆",
+      "甘肃"
+    ],
+    "aliases": [
+      "鸡心豆"
+    ],
+    "pinyin": "yingzuidou",
+    "initials": "yzd",
+    "searchTerms": [
+      "yingzuidou",
+      "yzd",
+      "chickpea",
+      "鹰嘴豆",
+      "鸡心豆"
+    ],
+    "summary": "鹰嘴豆，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "bighead-carp",
+    "name": "鳙鱼",
+    "en": "bighead carp",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北",
+      "湖南"
+    ],
+    "aliases": [
+      "胖头鱼",
+      "花鲢"
+    ],
+    "pinyin": "yongyu",
+    "initials": "yy",
+    "searchTerms": [
+      "yongyu",
+      "yy",
+      "bighead carp",
+      "鳙鱼",
+      "胖头鱼",
+      "花鲢"
+    ],
+    "summary": "鳙鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "a-choy",
+    "name": "油麦菜",
+    "en": "a-choy",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
       "云南"
     ],
-    "teaClass": "黑茶",
-    "searchTerms": [
-      "puercha",
-      "pec"
+    "aliases": [
+      "莴笋尖菜"
     ],
-    "summary": "云南黑茶代表，偏温。"
+    "pinyin": "youmaicai",
+    "initials": "ymc",
+    "searchTerms": [
+      "youmaicai",
+      "ymc",
+      "a-choy",
+      "油麦菜",
+      "莴笋尖菜"
+    ],
+    "summary": "油麦菜，常见于中式饮食与地方菜。"
   },
   {
-    "id": "tieguanyin",
-    "name": "铁观音",
-    "en": "tieguanyin",
-    "category": "茶饮",
-    "nature": "凉",
+    "id": "squid",
+    "name": "鱿鱼",
+    "en": "squid",
+    "category": "水产",
+    "nature": "平",
     "effects": [
-      "清利"
+      "补虚",
+      "养胃"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
+      "福建",
+      "山东"
+    ],
+    "aliases": [
+      "枪乌贼"
+    ],
+    "pinyin": "youyu",
+    "initials": "yy",
+    "searchTerms": [
+      "youyu",
+      "yy",
+      "squid",
+      "鱿鱼",
+      "枪乌贼"
+    ],
+    "summary": "鱿鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "pomelo",
+    "name": "柚子",
+    "en": "pomelo",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "化痰",
+      "消食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "广西"
+    ],
+    "aliases": [
+      "文旦"
+    ],
+    "pinyin": "youzi",
+    "initials": "yz",
+    "searchTerms": [
+      "youzi",
+      "yz",
+      "pomelo",
+      "柚子",
+      "文旦"
+    ],
+    "summary": "柚子，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "shark-fin",
+    "name": "鱼翅",
+    "en": "shark fin",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "滋阴"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
       "福建"
     ],
-    "teaClass": "乌龙茶",
+    "aliases": [],
+    "pinyin": "yuchi",
+    "initials": "yc",
     "searchTerms": [
-      "tieguanyin",
-      "tgy"
+      "yuchi",
+      "yc",
+      "shark fin",
+      "鱼翅"
     ],
-    "summary": "闽南乌龙茶代表。"
+    "summary": "传统宴席食材，现代多倡导替代。",
+    "caution": "保护野生动物，不建议购买与食用；市面多为养殖或替代料。"
   },
   {
-    "id": "longjing-tea",
-    "name": "龙井茶",
-    "en": "longjing tea",
-    "category": "茶饮",
-    "nature": "凉",
-    "effects": [
-      "清利"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "浙江"
-    ],
-    "teaClass": "绿茶",
-    "searchTerms": [
-      "longjing",
-      "lj"
-    ],
-    "summary": "西湖龙井，绿茶代表。"
-  },
-  {
-    "id": "keemun-tea",
-    "name": "祁门红茶",
-    "en": "keemun black tea",
-    "category": "茶饮",
-    "nature": "温",
-    "effects": [
-      "提神"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "安徽"
-    ],
-    "teaClass": "红茶",
-    "searchTerms": [
-      "qimenhongcha",
-      "qmhc"
-    ],
-    "summary": "安徽红茶名品。"
-  },
-  {
-    "id": "tibetan-butter-tea",
-    "name": "酥油茶",
-    "en": "butter tea",
-    "category": "饮品",
-    "nature": "温",
-    "effects": [
-      "御寒"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "西藏",
-      "青海"
-    ],
-    "ethnicGroups": [
-      "藏族"
-    ],
-    "searchTerms": [
-      "suyoucha",
-      "syc"
-    ],
-    "summary": "藏区传统饮品，高热量。"
-  },
-  {
-    "id": "milk-tea-mongol",
-    "name": "蒙古奶茶",
-    "en": "mongolian milk tea",
-    "category": "饮品",
-    "nature": "温",
-    "effects": [
-      "御寒"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "内蒙古"
-    ],
-    "ethnicGroups": [
-      "蒙古族"
-    ],
-    "searchTerms": [
-      "menggunaicha",
-      "mgnc"
-    ],
-    "summary": "草原传统咸奶茶。"
-  },
-  {
-    "id": "qingke",
-    "name": "青稞",
-    "en": "highland barley",
+    "id": "corn",
+    "name": "玉米",
+    "en": "corn",
     "category": "谷物",
     "nature": "平",
     "effects": [
-      "主食"
+      "健脾"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "西藏",
-      "青海"
+      "吉林",
+      "黑龙江"
     ],
-    "ethnicGroups": [
-      "藏族"
+    "aliases": [
+      "苞谷",
+      "棒子"
     ],
+    "pinyin": "yumi",
+    "initials": "ym",
     "searchTerms": [
-      "qingke",
-      "qk"
+      "yumi",
+      "ym",
+      "corn",
+      "玉米",
+      "苞谷",
+      "棒子"
     ],
-    "summary": "高原主粮，可磨粉、酿酒、做糌粑。"
+    "summary": "玉米，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "taro",
+    "name": "芋头",
+    "en": "taro",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "散结"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建"
+    ],
+    "aliases": [
+      "芋艿"
+    ],
+    "pinyin": "yutou",
+    "initials": "yt",
+    "searchTerms": [
+      "yutou",
+      "yt",
+      "taro",
+      "芋头",
+      "芋艿"
+    ],
+    "summary": "芋头，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "cloud-ear",
+    "name": "云耳",
+    "en": "cloud ear",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "滋阴",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "广西"
+    ],
+    "aliases": [
+      "毛木耳"
+    ],
+    "pinyin": "yuner",
+    "initials": "ye",
+    "searchTerms": [
+      "yuner",
+      "ye",
+      "cloud ear",
+      "云耳",
+      "毛木耳"
+    ],
+    "summary": "云耳，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "kidney-bean",
+    "name": "芸豆",
+    "en": "kidney bean",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "黑龙江"
+    ],
+    "aliases": [
+      "菜豆",
+      "四季豆"
+    ],
+    "pinyin": "yundou",
+    "initials": "yd",
+    "searchTerms": [
+      "yundou",
+      "yd",
+      "kidney bean",
+      "芸豆",
+      "菜豆",
+      "四季豆"
+    ],
+    "summary": "芸豆，常见于中式饮食与地方菜。"
   },
   {
     "id": "tsampa",
@@ -962,80 +8800,43 @@
     "summary": "青稞炒面制主食。"
   },
   {
-    "id": "hand-grasp-mutton",
-    "name": "手抓羊肉",
-    "en": "hand grasp mutton",
-    "category": "肉蛋奶",
-    "nature": "热",
+    "id": "jujube-fruit",
+    "name": "枣",
+    "en": "jujube",
+    "category": "水果",
+    "nature": "温",
     "effects": [
-      "温中"
+      "补中益气",
+      "养血"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "宁夏",
-      "甘肃"
+      "新疆",
+      "山东"
     ],
-    "ethnicGroups": [
-      "回族"
+    "aliases": [
+      "红枣",
+      "大枣"
     ],
+    "pinyin": "zao",
+    "initials": "z",
     "searchTerms": [
-      "shouzhuayangrou",
-      "szyr"
+      "zao",
+      "z",
+      "jujube",
+      "枣",
+      "红枣",
+      "大枣"
     ],
-    "summary": "西北回族传统菜肴。"
+    "summary": "枣，常见于中式饮食与地方菜。"
   },
   {
-    "id": "nang-bread",
-    "name": "馕",
-    "en": "nang bread",
-    "category": "主食",
-    "nature": "平",
-    "effects": [
-      "主食"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "新疆"
-    ],
-    "ethnicGroups": [
-      "维吾尔族"
-    ],
-    "searchTerms": [
-      "nang",
-      "ng"
-    ],
-    "summary": "新疆烤馕，日常主食。"
-  },
-  {
-    "id": "big-plate-chicken",
-    "name": "大盘鸡",
-    "en": "big plate chicken",
-    "category": "肉蛋奶",
-    "nature": "热",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "新疆"
-    ],
-    "searchTerms": [
-      "dapanji",
-      "dpj"
-    ],
-    "summary": "新疆融合菜代表。"
-  },
-  {
-    "id": "miao-sour-fish",
-    "name": "酸汤鱼",
-    "en": "sour soup fish",
-    "category": "海产",
+    "id": "zhacai",
+    "name": "榨菜",
+    "en": "preserved mustard stem",
+    "category": "腌菜",
     "nature": "温",
     "effects": [
       "开胃"
@@ -1044,17 +8845,200 @@
       "CN"
     ],
     "provinces": [
-      "贵州"
-    ],
-    "ethnicGroups": [
-      "苗族",
-      "侗族"
+      "重庆"
     ],
     "searchTerms": [
-      "suantangyu",
-      "sty"
+      "zhacai",
+      "zc"
     ],
-    "summary": "黔东南酸汤鱼，开胃暖身。"
+    "summary": "涪陵榨菜，常见佐餐腌菜。"
+  },
+  {
+    "id": "octopus",
+    "name": "章鱼",
+    "en": "octopus",
+    "category": "水产",
+    "nature": "平",
+    "effects": [
+      "益气",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "山东"
+    ],
+    "aliases": [
+      "八爪鱼"
+    ],
+    "pinyin": "zhangyu",
+    "initials": "zy",
+    "searchTerms": [
+      "zhangyu",
+      "zy",
+      "octopus",
+      "章鱼",
+      "八爪鱼"
+    ],
+    "summary": "章鱼，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "fish-mint",
+    "name": "折耳根",
+    "en": "houttuynia",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清利",
+      "解毒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州",
+      "云南",
+      "四川"
+    ],
+    "aliases": [
+      "鱼腥草",
+      "折耳根菜"
+    ],
+    "pinyin": "zheergen",
+    "initials": "zeg",
+    "searchTerms": [
+      "zheergen",
+      "zeg",
+      "houttuynia",
+      "折耳根",
+      "鱼腥草",
+      "折耳根菜"
+    ],
+    "summary": "折耳根，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "sesame",
+    "name": "芝麻",
+    "en": "sesame",
+    "category": "坚果种子",
+    "nature": "平",
+    "effects": [
+      "润燥",
+      "润肠"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河南",
+      "湖北"
+    ],
+    "aliases": [
+      "胡麻"
+    ],
+    "pinyin": "zhima",
+    "initials": "zm",
+    "searchTerms": [
+      "zhima",
+      "zm",
+      "sesame",
+      "芝麻",
+      "胡麻"
+    ],
+    "summary": "芝麻，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "arugula",
+    "name": "芝麻菜",
+    "en": "arugula",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "北京",
+      "上海"
+    ],
+    "aliases": [
+      "火箭菜"
+    ],
+    "pinyin": "zhimacai",
+    "initials": "zmc",
+    "searchTerms": [
+      "zhimacai",
+      "zmc",
+      "arugula",
+      "芝麻菜",
+      "火箭菜"
+    ],
+    "summary": "芝麻菜，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "bamboo-fungus",
+    "name": "竹荪",
+    "en": "bamboo fungus",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "益气",
+      "润肺"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "贵州"
+    ],
+    "aliases": [
+      "竹笙"
+    ],
+    "pinyin": "zhusun",
+    "initials": "zs",
+    "searchTerms": [
+      "zhusun",
+      "zs",
+      "bamboo fungus",
+      "竹荪",
+      "竹笙"
+    ],
+    "summary": "竹荪，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "tender-bamboo",
+    "name": "竹笋尖",
+    "en": "bamboo tip",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建"
+    ],
+    "aliases": [
+      "笋尖"
+    ],
+    "pinyin": "sunjian",
+    "initials": "sj",
+    "searchTerms": [
+      "sunjian",
+      "sj",
+      "bamboo tip",
+      "竹笋尖",
+      "笋尖"
+    ],
+    "summary": "竹笋尖，常见于中式饮食与地方菜。"
   },
   {
     "id": "bamboo-rice",
@@ -1082,805 +9066,66 @@
     "summary": "少数民族竹筒蒸饭。"
   },
   {
-    "id": "crossing-bridge-noodle",
-    "name": "过桥米线",
-    "en": "crossing bridge noodles",
-    "category": "主食",
+    "id": "cumin",
+    "name": "孜然",
+    "en": "cumin",
+    "category": "香料调料",
     "nature": "温",
     "effects": [
-      "地方风味"
+      "温中",
+      "理气"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "云南"
-    ],
-    "searchTerms": [
-      "guoqiaomixian",
-      "gqmx"
-    ],
-    "summary": "云南名小吃，热汤现烫。"
-  },
-  {
-    "id": "hotpot-base",
-    "name": "火锅底料",
-    "en": "hotpot base",
-    "category": "调料",
-    "nature": "热",
-    "effects": [
-      "调味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "重庆",
-      "四川"
-    ],
-    "searchTerms": [
-      "huoguodiliao",
-      "hgdl"
-    ],
-    "summary": "川渝复合调味，偏热辣。"
-  },
-  {
-    "id": "zhacai",
-    "name": "榨菜",
-    "en": "preserved mustard stem",
-    "category": "腌菜",
-    "nature": "温",
-    "effects": [
-      "开胃"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "重庆"
-    ],
-    "searchTerms": [
-      "zhacai",
-      "zc"
-    ],
-    "summary": "涪陵榨菜，常见佐餐腌菜。"
-  },
-  {
-    "id": "preserved-vegetable",
-    "name": "梅干菜",
-    "en": "preserved mustard green",
-    "category": "腌菜",
-    "nature": "温",
-    "effects": [
-      "调味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "浙江"
-    ],
-    "searchTerms": [
-      "meigancai",
-      "mgc"
-    ],
-    "summary": "江南常用干菜。"
-  },
-  {
-    "id": "snow-cabbage",
-    "name": "雪里蕻",
-    "en": "potherb mustard",
-    "category": "腌菜",
-    "nature": "温",
-    "effects": [
-      "开胃"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "江浙"
-    ],
-    "searchTerms": [
-      "xuelihong",
-      "xlh"
-    ],
-    "summary": "常见腌制叶菜。"
-  },
-  {
-    "id": "dongpo-pork",
-    "name": "东坡肉",
-    "en": "dongpo pork",
-    "category": "肉蛋奶",
-    "nature": "温",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "浙江"
-    ],
-    "searchTerms": [
-      "dongporou",
-      "dpr"
-    ],
-    "summary": "江南红烧猪肉代表，偏温热油腻。"
-  },
-  {
-    "id": "wuxi-rib",
-    "name": "无锡排骨",
-    "en": "wuxi spare ribs",
-    "category": "肉蛋奶",
-    "nature": "温",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "江苏"
-    ],
-    "searchTerms": [
-      "wuxipaigu",
-      "wxpg"
-    ],
-    "summary": "苏南甜口酱排骨。"
-  },
-  {
-    "id": "dezhou-chicken",
-    "name": "德州扒鸡",
-    "en": "dezhou braised chicken",
-    "category": "肉蛋奶",
-    "nature": "温",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "山东"
-    ],
-    "searchTerms": [
-      "dezhoubaji",
-      "dzbj"
-    ],
-    "summary": "鲁西名产，偏温。"
-  },
-  {
-    "id": "guilin-rice-noodle",
-    "name": "桂林米粉",
-    "en": "guilin rice noodle",
-    "category": "主食",
-    "nature": "平",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "广西"
-    ],
-    "ethnicGroups": [
-      "壮族"
-    ],
-    "searchTerms": [
-      "guilinmifen",
-      "glmf"
-    ],
-    "summary": "广西代表性米粉。"
-  },
-  {
-    "id": "shahe-fen",
-    "name": "肠粉",
-    "en": "rice noodle roll",
-    "category": "主食",
-    "nature": "平",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "广东"
-    ],
-    "searchTerms": [
-      "changfen",
-      "cf"
-    ],
-    "summary": "广式早茶常见米浆卷。"
-  },
-  {
-    "id": "shacha-noodle",
-    "name": "沙茶面",
-    "en": "shacha noodle",
-    "category": "主食",
-    "nature": "温",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "福建"
-    ],
-    "ethnicGroups": [
-      "回族"
-    ],
-    "searchTerms": [
-      "shachamian",
-      "scm"
-    ],
-    "summary": "闽南沙茶酱汤面。"
-  },
-  {
-    "id": "boat-congee",
-    "name": "艇仔粥",
-    "en": "boat congee",
-    "category": "主食",
-    "nature": "平",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "广东"
-    ],
-    "searchTerms": [
-      "tingzaizhou",
-      "tzz"
-    ],
-    "summary": "广州传统生滚粥。"
-  },
-  {
-    "id": "buddha-jumps-wall",
-    "name": "佛跳墙",
-    "en": "buddha jumps over the wall",
-    "category": "海产",
-    "nature": "温",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "福建"
-    ],
-    "searchTerms": [
-      "fotiaoqiang",
-      "ftq"
-    ],
-    "summary": "闽菜名汤，多海味同炖，偏温补。"
-  },
-  {
-    "id": "sour-cabbage-hotpot",
-    "name": "东北酸菜",
-    "en": "northeast sauerkraut",
-    "category": "腌菜",
-    "nature": "平",
-    "effects": [
-      "开胃"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "黑龙江",
-      "吉林",
-      "辽宁"
-    ],
-    "searchTerms": [
-      "dongbeisuancai",
-      "dbsc"
-    ],
-    "summary": "东北发酵酸菜，常配白肉火锅。"
-  },
-  {
-    "id": "korean-cold-noodle",
-    "name": "延吉冷面",
-    "en": "yanji cold noodle",
-    "category": "主食",
-    "nature": "凉",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "吉林"
-    ],
-    "ethnicGroups": [
-      "朝鲜族"
-    ],
-    "searchTerms": [
-      "yanjilengmian",
-      "yjlm"
-    ],
-    "summary": "延边朝鲜族冷面。"
-  },
-  {
-    "id": "lanzhou-beef",
-    "name": "兰州牛肉",
-    "en": "lanzhou beef",
-    "category": "肉蛋奶",
-    "nature": "温",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
+      "新疆",
       "甘肃"
     ],
-    "ethnicGroups": [
-      "回族"
-    ],
+    "aliases": [],
+    "pinyin": "ziran",
+    "initials": "zr",
     "searchTerms": [
-      "lanzhou niurou",
-      "lznr"
+      "ziran",
+      "zr",
+      "cumin",
+      "孜然"
     ],
-    "aliases": [
-      "牛肉面肉"
-    ],
-    "summary": "兰州拉面常用牛肉部位。"
+    "summary": "孜然，常见于中式饮食与地方菜。"
   },
   {
-    "id": "tibetan-yak-butter",
-    "name": "牦牛肉",
-    "en": "yak meat",
-    "category": "肉蛋奶",
-    "nature": "温",
+    "id": "nori",
+    "name": "紫菜",
+    "en": "nori",
+    "category": "水产",
+    "nature": "凉",
     "effects": [
-      "高蛋白"
+      "化痰",
+      "清热"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "西藏",
-      "青海"
-    ],
-    "ethnicGroups": [
-      "藏族"
-    ],
-    "searchTerms": [
-      "maoniurou",
-      "mnr"
-    ],
-    "summary": "高原常见红肉，蛋白质较高。"
-  },
-  {
-    "id": "hui-dried-beef",
-    "name": "风干牛肉",
-    "en": "air dried beef",
-    "category": "肉蛋奶",
-    "nature": "温",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "内蒙古"
-    ],
-    "ethnicGroups": [
-      "蒙古族"
-    ],
-    "searchTerms": [
-      "fenggan niurou",
-      "fgnr"
-    ],
-    "summary": "草原风干肉，偏温燥。"
-  },
-  {
-    "id": "hainan-chicken-rice",
-    "name": "海南鸡饭",
-    "en": "hainan chicken rice",
-    "category": "主食",
-    "nature": "平",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "海南"
-    ],
-    "searchTerms": [
-      "hainanjifan",
-      "hnjf"
-    ],
-    "summary": "琼菜代表，鸡肉与鸡油饭。"
-  },
-  {
-    "id": "wuxianglu",
-    "name": "五芳斋粽子",
-    "en": "wuxianglu zongzi",
-    "category": "主食",
-    "nature": "温",
-    "effects": [
-      "节令"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "浙江"
-    ],
-    "searchTerms": [
-      "wufangzhaizongzi",
-      "wfzzz"
-    ],
-    "aliases": [
-      "嘉兴粽子"
-    ],
-    "summary": "江南端午粽代表。"
-  },
-  {
-    "id": "liuzhou-luosifen",
-    "name": "螺蛳粉",
-    "en": "liuzhou river snail rice noodle",
-    "category": "主食",
-    "nature": "热",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "广西"
-    ],
-    "ethnicGroups": [
-      "壮族"
-    ],
-    "searchTerms": [
-      "luosifen",
-      "lsf"
-    ],
-    "summary": "柳州酸辣粉，偏热辣。"
-  },
-  {
-    "id": "chongqing-noodles",
-    "name": "重庆小面",
-    "en": "chongqing noodles",
-    "category": "主食",
-    "nature": "热",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "重庆"
-    ],
-    "searchTerms": [
-      "chongqingxiaomian",
-      "cqxm"
-    ],
-    "summary": "渝派麻辣小面。"
-  },
-  {
-    "id": "shanxi-vinegar-noodle",
-    "name": "山西刀削面",
-    "en": "shanxi knife cut noodle",
-    "category": "主食",
-    "nature": "平",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "山西"
-    ],
-    "searchTerms": [
-      "daoxiaomian",
-      "dxm"
-    ],
-    "summary": "晋面代表，常配老陈醋。"
-  },
-  {
-    "id": "xiamen-oyster-omelette",
-    "name": "海蛎煎",
-    "en": "oyster omelette",
-    "category": "海产",
-    "nature": "平",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "福建"
-    ],
-    "searchTerms": [
-      "hailijian",
-      "hlj"
-    ],
-    "summary": "闽南海蛎煎。"
-  },
-  {
-    "id": "fengrourou",
-    "name": "粉蒸肉",
-    "en": "steamed pork with rice flour",
-    "category": "荤菜",
-    "nature": "温",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "湖南",
-      "江西"
-    ],
-    "searchTerms": [
-      "fenzhengrou",
-      "fzr"
-    ],
-    "summary": "米粉裹肉蒸制，湘赣家常，偏温香。"
-  },
-  {
-    "id": "huizhou-stinky-fish",
-    "name": "徽州臭鳜鱼",
-    "en": "huizhou fermented mandarin fish",
-    "category": "荤菜",
-    "nature": "温",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "安徽"
-    ],
-    "searchTerms": [
-      "chouguiyu",
-      "cgy"
-    ],
-    "summary": "徽菜代表，发酵鳜鱼，偏温鲜。"
-  },
-  {
-    "id": "nanjing-salt-duck",
-    "name": "南京盐水鸭",
-    "en": "nanjing salted duck",
-    "category": "荤菜",
-    "nature": "平",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
+      "福建",
       "江苏"
     ],
+    "aliases": [],
+    "pinyin": "zicai",
+    "initials": "zc",
     "searchTerms": [
-      "yanshuiya",
-      "ysy"
+      "zicai",
+      "zc",
+      "nori",
+      "紫菜"
     ],
-    "summary": "金陵名肴，咸鲜平和。"
+    "summary": "紫菜，常见于中式饮食与地方菜。"
   },
   {
-    "id": "wuhan-duya",
-    "name": "武汉鸭脖",
-    "en": "wuhan duck neck",
-    "category": "小吃",
-    "nature": "热",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "湖北"
-    ],
-    "searchTerms": [
-      "wuhanyabo",
-      "whyb"
-    ],
-    "summary": "卤制鸭脖，偏热辣，宜少量。"
-  },
-  {
-    "id": "kaifeng-soup-dumpling",
-    "name": "开封灌汤包",
-    "en": "kaifeng soup dumpling",
-    "category": "主食",
-    "nature": "温",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "河南"
-    ],
-    "searchTerms": [
-      "guantangbao",
-      "gtb"
-    ],
-    "summary": "豫菜名点，汤汁饱满。"
-  },
-  {
-    "id": "xinjiang-chaomifen",
-    "name": "新疆炒米粉",
-    "en": "xinjiang fried rice noodle",
-    "category": "主食",
-    "nature": "热",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "新疆"
-    ],
-    "ethnicGroups": [
-      "维吾尔族"
-    ],
-    "searchTerms": [
-      "chaomifen",
-      "cmf"
-    ],
-    "summary": "疆式辣炒米粉，偏热辣。"
-  },
-  {
-    "id": "beijing-douzhi",
-    "name": "北京豆汁",
-    "en": "beijing mung bean drink",
-    "category": "饮品",
-    "nature": "凉",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "北京"
-    ],
-    "searchTerms": [
-      "douzhi",
-      "dz"
-    ],
-    "summary": "京味发酵豆饮，偏凉酸，肠胃弱者慎饮。"
-  },
-  {
-    "id": "chaoshan-beef-ball",
-    "name": "潮汕牛肉丸",
-    "en": "chaoshan beef ball",
-    "category": "荤菜",
-    "nature": "温",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "广东"
-    ],
-    "searchTerms": [
-      "chaoshanniurouwan",
-      "csnrw"
-    ],
-    "summary": "手打牛肉丸，弹韧鲜温。"
-  },
-  {
-    "id": "hakka-stuffed-tofu",
-    "name": "客家酿豆腐",
-    "en": "hakka stuffed tofu",
-    "category": "荤菜",
-    "nature": "平",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "广东",
-      "福建"
-    ],
-    "ethnicGroups": [
-      "客家"
-    ],
-    "searchTerms": [
-      "niangdoufu",
-      "ndf"
-    ],
-    "summary": "客家经典，豆腐酿肉，平和。"
-  },
-  {
-    "id": "minnan-tusundong",
-    "name": "闽南土笋冻",
-    "en": "minnan sea worm jelly",
-    "category": "小吃",
-    "nature": "凉",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "福建"
-    ],
-    "searchTerms": [
-      "tusundong",
-      "tsd"
-    ],
-    "summary": "闽南海产冻品，偏凉滑。"
-  },
-  {
-    "id": "anji-white-tea",
-    "name": "安吉白茶",
-    "en": "anji white tea",
-    "category": "茶类",
-    "nature": "凉",
-    "effects": [
-      "清润"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "浙江"
-    ],
-    "searchTerms": [
-      "anjibaicha",
-      "ajbc"
-    ],
-    "summary": "浙西名茶，清润微凉。"
-  },
-  {
-    "id": "dongting-biluochun",
-    "name": "洞庭碧螺春",
-    "en": "dongting biluochun tea",
-    "category": "茶类",
-    "nature": "凉",
-    "effects": [
-      "清润"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "江苏"
-    ],
-    "searchTerms": [
-      "biluochun",
-      "blc"
-    ],
-    "summary": "苏南绿茶，清香偏凉。"
-  },
-  {
-    "id": "xihu-lotus-powder",
-    "name": "西湖藕粉",
-    "en": "west lake lotus root starch",
-    "category": "小吃",
+    "id": "purple-cabbage",
+    "name": "紫甘蓝",
+    "en": "purple cabbage",
+    "category": "蔬菜",
     "nature": "平",
     "effects": [
       "和中"
@@ -1889,64 +9134,73 @@
       "CN"
     ],
     "provinces": [
-      "浙江"
-    ],
-    "searchTerms": [
-      "oufen",
-      "of"
-    ],
-    "summary": "杭州藕粉羹，平和养胃。"
-  },
-  {
-    "id": "guizhou-sour-soup-fish",
-    "name": "贵州酸汤鱼",
-    "en": "guizhou sour soup fish",
-    "category": "荤菜",
-    "nature": "温",
-    "effects": [
-      "地方风味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "贵州"
-    ],
-    "ethnicGroups": [
-      "苗族",
-      "侗族"
-    ],
-    "searchTerms": [
-      "suantangyu",
-      "sty"
-    ],
-    "summary": "黔菜酸汤鱼，开胃偏温。"
-  },
-  {
-    "id": "ningxia-goji",
-    "name": "宁夏枸杞",
-    "en": "ningxia goji berry",
-    "category": "果类",
-    "nature": "平",
-    "effects": [
-      "补益"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "宁夏"
-    ],
-    "ethnicGroups": [
-      "回族"
-    ],
-    "searchTerms": [
-      "gouqi",
-      "gq"
+      "云南",
+      "山东"
     ],
     "aliases": [
-      "枸杞子"
+      "紫包菜"
     ],
-    "summary": "中宁枸杞，平补肝肾。"
+    "pinyin": "ziganlan",
+    "initials": "zgl",
+    "searchTerms": [
+      "ziganlan",
+      "zgl",
+      "purple cabbage",
+      "紫甘蓝",
+      "紫包菜"
+    ],
+    "summary": "紫甘蓝，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "perilla-leaf",
+    "name": "紫苏叶",
+    "en": "perilla leaf",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "行气",
+      "解表"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南",
+      "湖北"
+    ],
+    "aliases": [
+      "苏叶"
+    ],
+    "pinyin": "zisuye",
+    "initials": "zsy",
+    "searchTerms": [
+      "zisuye",
+      "zsy",
+      "perilla leaf",
+      "紫苏叶",
+      "苏叶"
+    ],
+    "summary": "紫苏叶，常见于中式饮食与地方菜。"
+  },
+  {
+    "id": "biangbiang-noodle",
+    "name": "biangbiang面",
+    "en": "biangbiang noodle",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "主食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "陕西"
+    ],
+    "searchTerms": [
+      "biangbiangmian",
+      "bbm"
+    ],
+    "summary": "陕西宽面，常配油泼辣子。"
   }
 ]
