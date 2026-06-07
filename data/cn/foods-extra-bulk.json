@@ -1,0 +1,3026 @@
+[
+  {
+    "id": "cat-condiment-001",
+    "name": "花椒",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-002",
+    "name": "八角",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-003",
+    "name": "桂皮",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-004",
+    "name": "白胡椒",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-005",
+    "name": "黑胡椒",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-006",
+    "name": "辣椒",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-007",
+    "name": "干辣椒",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-008",
+    "name": "泡椒",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-009",
+    "name": "豆瓣酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-010",
+    "name": "黄豆酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-011",
+    "name": "甜面酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-012",
+    "name": "芝麻酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-013",
+    "name": "花生酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-014",
+    "name": "蒜蓉酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-015",
+    "name": "虾酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-016",
+    "name": "沙茶酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-017",
+    "name": "腐乳",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-018",
+    "name": "韭菜花",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-019",
+    "name": "剁椒",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-020",
+    "name": "糟卤",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-021",
+    "name": "料酒",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-022",
+    "name": "黄酒",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-023",
+    "name": "米酒",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-024",
+    "name": "陈醋",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-025",
+    "name": "香醋",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-026",
+    "name": "白醋",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-027",
+    "name": "米醋",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-028",
+    "name": "酱油",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-029",
+    "name": "生抽",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-030",
+    "name": "老抽",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-031",
+    "name": "蚝油",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-032",
+    "name": "鱼露",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-033",
+    "name": "味噌",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-034",
+    "name": "芥末",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-035",
+    "name": "孜然",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-036",
+    "name": "咖喱粉",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-037",
+    "name": "五香粉",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-038",
+    "name": "十三香",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-039",
+    "name": "椒盐",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-040",
+    "name": "黑糖",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-041",
+    "name": "冰糖",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-042",
+    "name": "红糖",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-043",
+    "name": "蜂蜜",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-044",
+    "name": "麦芽糖",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-045",
+    "name": "枫糖浆",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-046",
+    "name": "酸梅膏",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-047",
+    "name": "花生碎",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-048",
+    "name": "芝麻碎",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-049",
+    "name": "葱油",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-050",
+    "name": "花椒油",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-051",
+    "name": "辣椒油",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-052",
+    "name": "芝麻油",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-053",
+    "name": "菜籽油",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-054",
+    "name": "猪油",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-055",
+    "name": "牛油",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-056",
+    "name": "鸡油",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-057",
+    "name": "黄油",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-058",
+    "name": "奶油",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-059",
+    "name": "炼乳",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-060",
+    "name": "奶酪粉",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-061",
+    "name": "番茄酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-062",
+    "name": "蛋黄酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-063",
+    "name": "沙拉酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-064",
+    "name": "凯撒酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-065",
+    "name": "塔塔酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-066",
+    "name": "蒜香黄油",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-067",
+    "name": "松露酱",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-068",
+    "name": "香草荚",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-069",
+    "name": "迷迭香",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-070",
+    "name": "百里香",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-071",
+    "name": "鼠尾草",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-072",
+    "name": "牛至",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-073",
+    "name": "罗勒",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-074",
+    "name": "欧芹",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-075",
+    "name": "月桂叶",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-076",
+    "name": "芫荽籽",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-077",
+    "name": "葛缕子",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-078",
+    "name": "烟熏红椒粉",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-079",
+    "name": "芥菜籽",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-080",
+    "name": "椰浆粉",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-condiment-081",
+    "name": "可可粉",
+    "category": "CAT_CONDIMENT",
+    "nature": "温",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-082",
+    "name": "椰子水",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-083",
+    "name": "柠檬水",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-084",
+    "name": "蜂蜜水",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-085",
+    "name": "苏打水",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-086",
+    "name": "矿泉水",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-087",
+    "name": "气泡水",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-088",
+    "name": "果蔬汁",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-089",
+    "name": "甘蔗汁",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-090",
+    "name": "玉米汁",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-091",
+    "name": "杏仁露",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-092",
+    "name": "核桃露",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-093",
+    "name": "酸奶饮",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-094",
+    "name": "奶昔",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-095",
+    "name": "米乳",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-096",
+    "name": "豆乳",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-097",
+    "name": "植物奶",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-098",
+    "name": "牛乳",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-099",
+    "name": "羊乳",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-100",
+    "name": "马奶",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-101",
+    "name": "拿铁",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-102",
+    "name": "美式咖啡",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-103",
+    "name": "可可",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-104",
+    "name": "热巧克力",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-105",
+    "name": "酸奶昔",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-106",
+    "name": "奶茶",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-107",
+    "name": "水果茶",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-108",
+    "name": "花草茶",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-109",
+    "name": "乌梅饮",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-110",
+    "name": "雪梨汁",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-111",
+    "name": "洛神花饮",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-112",
+    "name": "菊花露",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-113",
+    "name": "薄荷饮",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-114",
+    "name": "柚子茶",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-115",
+    "name": "姜茶",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-116",
+    "name": "红糖姜饮",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-117",
+    "name": "银耳饮",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-118",
+    "name": "米汤",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-119",
+    "name": "酸角汁",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-120",
+    "name": "罗望子饮",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-121",
+    "name": "椰奶",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-122",
+    "name": "燕麦奶",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-123",
+    "name": "抹茶拿铁",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-drink-124",
+    "name": "康普茶",
+    "category": "CAT_DRINK",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-125",
+    "name": "黑米",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-126",
+    "name": "紫米",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-127",
+    "name": "高粱",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-128",
+    "name": "青稞",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-129",
+    "name": "藜麦",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-130",
+    "name": "薏米饭",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-131",
+    "name": "糙米",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-132",
+    "name": "小麦",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-133",
+    "name": "西米",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-134",
+    "name": "粳米",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-135",
+    "name": "籼米",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-136",
+    "name": "黍米",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-137",
+    "name": "糜子",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-138",
+    "name": "燕麦片",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-139",
+    "name": "玉米碴",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-140",
+    "name": "米皮糖",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-141",
+    "name": "米花",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-142",
+    "name": "米线",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-143",
+    "name": "米粉",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-144",
+    "name": "河粉",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-145",
+    "name": "粿条",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-146",
+    "name": "年糕米",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-grain-147",
+    "name": "粽米",
+    "category": "CAT_GRAIN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-148",
+    "name": "芸豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-149",
+    "name": "眉豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-150",
+    "name": "鹰嘴豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-151",
+    "name": "扁豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-152",
+    "name": "刀豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-153",
+    "name": "豌豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-154",
+    "name": "蚕豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-155",
+    "name": "四季豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-156",
+    "name": "荷兰豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-157",
+    "name": "毛豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-158",
+    "name": "菜豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-159",
+    "name": "花豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-160",
+    "name": "斑豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-161",
+    "name": "白芸豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-162",
+    "name": "青豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-163",
+    "name": "黑眼豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-164",
+    "name": "小扁豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-165",
+    "name": "豆荚米",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-166",
+    "name": "豆苗豆",
+    "category": "CAT_BEAN",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-167",
+    "name": "豆皮",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-168",
+    "name": "腐竹",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-169",
+    "name": "豆干",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-170",
+    "name": "香干",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-171",
+    "name": "千张",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-172",
+    "name": "豆泡",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-173",
+    "name": "豆花",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-174",
+    "name": "豆乳皮",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-175",
+    "name": "纳豆",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-176",
+    "name": "豆豉",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-177",
+    "name": "豆瓣",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-178",
+    "name": "豆沙",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-179",
+    "name": "豆泥",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-180",
+    "name": "豆腐脑",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-181",
+    "name": "豆腐丝",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-182",
+    "name": "豆肠",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-183",
+    "name": "油豆腐",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-184",
+    "name": "冻豆腐",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-185",
+    "name": "内酯豆腐",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-bean-product-186",
+    "name": "老豆腐",
+    "category": "CAT_BEAN_PRODUCT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-187",
+    "name": "白菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-188",
+    "name": "油菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-189",
+    "name": "生菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-190",
+    "name": "芹菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-191",
+    "name": "韭菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-192",
+    "name": "大葱",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-193",
+    "name": "小葱",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-194",
+    "name": "洋葱",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-195",
+    "name": "大蒜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-196",
+    "name": "蒜苗",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-197",
+    "name": "青椒",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-198",
+    "name": "彩椒",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-199",
+    "name": "茄子",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-200",
+    "name": "西葫芦",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-201",
+    "name": "丝瓜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-202",
+    "name": "苦菊",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-203",
+    "name": "油麦菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-204",
+    "name": "莴笋",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-205",
+    "name": "芥蓝",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-206",
+    "name": "菜心",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-207",
+    "name": "上海青",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-208",
+    "name": "苋菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-209",
+    "name": "菠菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-210",
+    "name": "茼蒿",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-211",
+    "name": "苜蓿芽",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-212",
+    "name": "包菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-213",
+    "name": "紫甘蓝",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-214",
+    "name": "花椰菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-215",
+    "name": "西兰花",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-216",
+    "name": "胡萝卜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-217",
+    "name": "青萝卜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-218",
+    "name": "樱桃萝卜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-219",
+    "name": "萝卜缨",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-220",
+    "name": "萝卜干",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-221",
+    "name": "土豆",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-222",
+    "name": "山药豆",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-223",
+    "name": "芋头",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-224",
+    "name": "芋苗",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-225",
+    "name": "红薯",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-226",
+    "name": "紫薯",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-227",
+    "name": "木薯",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-228",
+    "name": "莲藕带",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-229",
+    "name": "茭白",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-230",
+    "name": "慈菇",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-231",
+    "name": "荸荠",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-232",
+    "name": "芦笋尖",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-233",
+    "name": "豇豆",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-234",
+    "name": "豆角",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-235",
+    "name": "秋葵",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-236",
+    "name": "佛手瓜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-237",
+    "name": "黄花菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-238",
+    "name": "菜花",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-239",
+    "name": "羽衣甘蓝",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-240",
+    "name": "鸡毛菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-241",
+    "name": "苕尖",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-242",
+    "name": "苜蓿菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-243",
+    "name": "空心菜梗",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-244",
+    "name": "苤蓝",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-245",
+    "name": "榨菜头",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-246",
+    "name": "甜玉米",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-247",
+    "name": "玉米笋",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-248",
+    "name": "番薯叶",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-249",
+    "name": "地瓜叶",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-250",
+    "name": "南瓜花",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-251",
+    "name": "西葫芦花",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-252",
+    "name": "冬寒菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-253",
+    "name": "萝卜苗",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-254",
+    "name": "豆苗",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-255",
+    "name": "青蒜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-256",
+    "name": "蒜苔",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-257",
+    "name": "马兰头",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-258",
+    "name": "香椿头",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-259",
+    "name": "龙须菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-260",
+    "name": "白菜苔",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-261",
+    "name": "芥菜头",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-262",
+    "name": "油菜苔",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-263",
+    "name": "枸杞头",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-264",
+    "name": "枸杞芽",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-265",
+    "name": "黄秋葵",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-266",
+    "name": "豆瓣菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-267",
+    "name": "朝鲜蓟",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-268",
+    "name": "芜菁",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-269",
+    "name": "球茎甘蓝",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-270",
+    "name": "抱子甘蓝",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-271",
+    "name": "洋姜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-272",
+    "name": "牛蒡",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-273",
+    "name": "蒿子秆",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-veg-274",
+    "name": "菱角菜",
+    "category": "CAT_VEG",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-275",
+    "name": "荠菜",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-276",
+    "name": "香椿",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-277",
+    "name": "马兰头",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-278",
+    "name": "灰灰菜",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-279",
+    "name": "蒲公英叶",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-280",
+    "name": "刺儿菜",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-281",
+    "name": "苦菜",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-282",
+    "name": "车前草",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-283",
+    "name": "枸杞头",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-284",
+    "name": "苜蓿",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-285",
+    "name": "野芹菜",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-286",
+    "name": "野韭菜",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-287",
+    "name": "野葱",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-288",
+    "name": "地皮菜",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-289",
+    "name": "榆钱",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-290",
+    "name": "槐花",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-291",
+    "name": "洋槐花",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-292",
+    "name": "蕨根",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-293",
+    "name": "野蒜",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-294",
+    "name": "折耳根",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-295",
+    "name": "蕨根粉",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-296",
+    "name": "观音菜",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-297",
+    "name": "野苋菜",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-298",
+    "name": "山野菜",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-wild-299",
+    "name": "蕨麻",
+    "category": "CAT_WILD",
+    "nature": "凉",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-300",
+    "name": "香菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-301",
+    "name": "平菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-302",
+    "name": "金针菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-303",
+    "name": "杏鲍菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-304",
+    "name": "鸡腿菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-305",
+    "name": "口蘑",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-306",
+    "name": "茶树菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-307",
+    "name": "滑子菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-308",
+    "name": "海鲜菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-309",
+    "name": "姬菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-310",
+    "name": "虫草花",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-311",
+    "name": "羊肚菌",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-312",
+    "name": "松茸",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-313",
+    "name": "牛肝菌",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-314",
+    "name": "鸡枞菌",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-315",
+    "name": "竹荪",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-316",
+    "name": "木耳",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-317",
+    "name": "银耳花",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-318",
+    "name": "蘑菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-319",
+    "name": "白玉菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-320",
+    "name": "蟹味菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-321",
+    "name": "鹿茸菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-322",
+    "name": "鹿肚菌",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-323",
+    "name": "珊瑚菌",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-324",
+    "name": "榛蘑",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-325",
+    "name": "元蘑",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-326",
+    "name": "真姬菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-327",
+    "name": "秀珍菇",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-328",
+    "name": "黑木耳",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-329",
+    "name": "黄伞菌",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-330",
+    "name": "黄牛肝菌",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-331",
+    "name": "青头菌",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-332",
+    "name": "铜绿菌",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-333",
+    "name": "奶浆菌",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-334",
+    "name": "扫把菌",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fungi-335",
+    "name": "鸡油菌",
+    "category": "CAT_FUNGI",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  },
+  {
+    "id": "cat-fruit-336",
+    "name": "葡萄",
+    "category": "CAT_FRUIT",
+    "nature": "平",
+    "regions": [
+      "CN"
+    ]
+  }
+]

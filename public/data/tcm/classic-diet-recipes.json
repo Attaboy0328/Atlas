@@ -1467,6 +1467,7 @@
     ],
     "foodIds": [
       "chicken",
+      "official-walnut",
       "ginger"
     ],
     "subtitle": "补肾健脾",
@@ -2019,6 +2020,7 @@
       "脾阳虚"
     ],
     "foodIds": [
+      "official-walnut",
       "rice",
       "ginger"
     ],
@@ -2177,7 +2179,8 @@
       "肝阳上亢"
     ],
     "foodIds": [
-      "chrysanthemum-morifolium"
+      "chrysanthemum-morifolium",
+      "official-lotus-leaf"
     ],
     "subtitle": "清肝利湿",
     "ingredients": [
@@ -2208,6 +2211,7 @@
     ],
     "foodIds": [
       "wax-gourd",
+      "official-lotus-leaf",
       "coix-seed"
     ],
     "subtitle": "清热利湿",
@@ -2371,6 +2375,7 @@
       "痰湿困脾"
     ],
     "foodIds": [
+      "official-lotus-leaf",
       "coix-seed"
     ],
     "subtitle": "清热利湿",
@@ -2434,6 +2439,7 @@
       "肝郁"
     ],
     "foodIds": [
+      "official-rose",
       "jujube"
     ],
     "subtitle": "疏肝解郁",
@@ -2526,7 +2532,8 @@
       "肝胃不和"
     ],
     "foodIds": [
-      "citrus-reticulata-peel"
+      "citrus-reticulata-peel",
+      "official-rose"
     ],
     "subtitle": "理气解郁",
     "ingredients": [
@@ -2556,6 +2563,7 @@
       "外感风寒"
     ],
     "foodIds": [
+      "official-perilla-leaf",
       "citrus-reticulata-peel"
     ],
     "subtitle": "理气解表",
@@ -3065,6 +3073,7 @@
       "肾气不足"
     ],
     "foodIds": [
+      "official-walnut",
       "radix-ginseng"
     ],
     "subtitle": "补肺益肾",
@@ -3097,6 +3106,7 @@
     ],
     "foodIds": [
       "lion-mane",
+      "official-walnut",
       "jujube"
     ],
     "subtitle": "健脾养胃",
@@ -3715,6 +3725,7 @@
       "失眠"
     ],
     "foodIds": [
+      "official-rose",
       "jujube"
     ],
     "subtitle": "疏肝安神",
@@ -3875,6 +3886,7 @@
       "肝肾阴虚"
     ],
     "foodIds": [
+      "official-walnut",
       "black-bean",
       "rice"
     ],
@@ -3972,6 +3984,7 @@
       "胃寒"
     ],
     "foodIds": [
+      "official-fennel",
       "ginger"
     ],
     "subtitle": "温中行气",
@@ -4064,6 +4077,7 @@
       "血瘀"
     ],
     "foodIds": [
+      "official-rose",
       "salvia-miltiorrhiza"
     ],
     "subtitle": "行气活血",
@@ -5656,6 +5670,453 @@
       {
         "title": "《饮膳正要》",
         "summary": "冬至一阳生，羊肉姜汤为常见温补汤品。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-chunfen-spinach-tofu",
+    "name": "春分菠菜拌豆腐",
+    "solarTerm": "春分",
+    "season": [
+      "春季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "肝郁气滞",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "spinach",
+      "tofu"
+    ],
+    "subtitle": "疏肝和中",
+    "ingredients": [
+      "菠菜 200 克",
+      "北豆腐 200 克",
+      "少盐、香油"
+    ],
+    "steps": [
+      "菠菜焯水去草酸，挤干切段",
+      "豆腐切块焯水或蒸热",
+      "拌匀作凉菜，温热食用"
+    ],
+    "note": "菠菜需焯水；脾胃虚寒、腹泻明显时不宜生食大量。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "春分昼夜均平，宜少酸多甘、调和肝脾，菠菜豆腐为常见平补之品。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-xiaoshu-mung-lily",
+    "name": "小暑绿豆百合汤",
+    "solarTerm": "小暑",
+    "season": [
+      "夏季"
+    ],
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "心阴虚"
+    ],
+    "foodIds": [
+      "mung-bean",
+      "lily-bulb"
+    ],
+    "subtitle": "清暑安神",
+    "ingredients": [
+      "绿豆 40 克",
+      "百合 15 克",
+      "清水 800 ml"
+    ],
+    "steps": [
+      "绿豆浸泡 1 小时，百合提前浸泡",
+      "同煮至绿豆开花、百合软糯",
+      "温热或放凉少量饮用"
+    ],
+    "note": "偏凉，脾胃虚寒、腹泻者不宜冰镇或大量饮用。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "小暑暑湿渐盛，绿豆配百合为常见清暑安神汤。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-dashu-wintermelon-adzuki",
+    "name": "大暑冬瓜赤小豆汤",
+    "solarTerm": "大暑",
+    "season": [
+      "夏季"
+    ],
+    "nature": "寒",
+    "syndromes": [
+      "湿热内蕴",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "winter-melon",
+      "adzuki-bean"
+    ],
+    "subtitle": "清热利湿",
+    "ingredients": [
+      "冬瓜 300 克",
+      "赤小豆 30 克",
+      "生姜 2 片",
+      "清水 1000 ml"
+    ],
+    "steps": [
+      "赤小豆浸泡 2 小时",
+      "冬瓜带皮切块，与赤小豆、生姜同煮 40 分钟",
+      "撇去浮油，少盐调味，温热适量"
+    ],
+    "note": "偏寒凉，阳虚怕冷、腹泻者不宜多食。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "大暑酷热湿重，冬瓜赤小豆为常见清热利湿汤品。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-chushu-pear-tremella",
+    "name": "处暑雪梨银耳羹",
+    "solarTerm": "处暑",
+    "season": [
+      "秋季"
+    ],
+    "nature": "凉",
+    "syndromes": [
+      "肺阴虚",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "pear",
+      "tremella"
+    ],
+    "subtitle": "润燥养阴",
+    "ingredients": [
+      "雪梨 1 个",
+      "银耳 10 克",
+      "冰糖适量（可选）"
+    ],
+    "steps": [
+      "银耳泡发撕小朵，雪梨切块",
+      "小火煮至银耳软糯",
+      "温热少量作加餐"
+    ],
+    "note": "偏滋腻，痰湿偏重、腹泻畏寒者控制频率。",
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "处暑出暑转凉，雪梨银耳为润燥养阴常见羹方。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-bailu-lily-honey",
+    "name": "白露百合蜂蜜水",
+    "solarTerm": "白露",
+    "season": [
+      "秋季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "肺阴虚",
+      "心阴虚"
+    ],
+    "foodIds": [
+      "lily-bulb",
+      "honey"
+    ],
+    "subtitle": "润肺生津",
+    "ingredients": [
+      "百合 15 克",
+      "蜂蜜 10 克",
+      "温水 200 ml"
+    ],
+    "steps": [
+      "百合提前浸泡，蒸或煮至软糯",
+      "放温后加入蜂蜜搅匀",
+      "早晚少量饮用"
+    ],
+    "note": "1 岁以下婴儿、糖尿病血糖控制不佳者不宜。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "白露燥气渐显，百合蜜水为常见润肺生津之品。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-hanlu-yam-jujube",
+    "name": "寒露山药红枣粥",
+    "solarTerm": "寒露",
+    "season": [
+      "秋季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血两虚"
+    ],
+    "foodIds": [
+      "yam",
+      "jujube",
+      "rice"
+    ],
+    "subtitle": "健脾益气",
+    "ingredients": [
+      "山药 100 克",
+      "红枣 5 枚",
+      "粳米 80 克"
+    ],
+    "steps": [
+      "山药去皮切块，红枣去核",
+      "与粳米同煮至软烂",
+      "温热作早餐或加餐"
+    ],
+    "note": "偏温补，湿热壅盛、食积未消时不宜过补。",
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "寒露露寒渐重，山药红枣粥为健脾益气常见粥方。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-shuangjiang-pumpkin-walnut",
+    "name": "霜降南瓜核桃羹",
+    "solarTerm": "霜降",
+    "season": [
+      "秋季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "肾阳虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "pumpkin",
+      "walnut"
+    ],
+    "subtitle": "温补脾肾",
+    "ingredients": [
+      "南瓜 200 克",
+      "核桃仁 20 克",
+      "清水适量"
+    ],
+    "steps": [
+      "南瓜蒸熟压泥",
+      "核桃仁碾碎与南瓜同煮 10 分钟",
+      "温热少量食用"
+    ],
+    "note": "偏温腻，痰湿重、腹泻者不宜多食。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "霜降寒气渐凝，南瓜核桃为温补脾肾常见羹品。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-lidong-lamb-turnip",
+    "name": "立冬羊肉萝卜汤",
+    "solarTerm": "立冬",
+    "season": [
+      "冬季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "阳虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "lamb",
+      "white-radish"
+    ],
+    "subtitle": "温阳散寒",
+    "ingredients": [
+      "羊肉 200 克",
+      "白萝卜 200 克",
+      "生姜 3 片",
+      "清水 1000 ml"
+    ],
+    "steps": [
+      "羊肉焯水去血沫",
+      "与白萝卜、生姜同炖 90 分钟",
+      "撇去浮油，少盐调味，温热适量"
+    ],
+    "note": "偏温热，内热明显、咽痛、痛风急性期不宜多吃。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "立冬阳气潜藏，羊肉萝卜汤为常见温补汤品。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-xiaoxue-blackbean-rice",
+    "name": "小雪黑豆粳米粥",
+    "solarTerm": "小雪",
+    "season": [
+      "冬季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "肾阴虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "black-bean",
+      "rice"
+    ],
+    "subtitle": "补肾健脾",
+    "ingredients": [
+      "黑豆 30 克",
+      "粳米 80 克",
+      "清水适量"
+    ],
+    "steps": [
+      "黑豆提前浸泡 4 小时",
+      "与粳米同煮至软烂",
+      "温热作早餐，每周 2–3 次"
+    ],
+    "note": "消化不良、腹胀明显时可减少黑豆用量。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "小雪寒气渐深，黑豆粥为补肾健脾常见粥方。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-daxue-sweetpotato-ginger",
+    "name": "大雪红薯生姜饮",
+    "solarTerm": "大雪",
+    "season": [
+      "冬季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "阳虚",
+      "脾胃虚寒"
+    ],
+    "foodIds": [
+      "sweet-potato",
+      "ginger"
+    ],
+    "subtitle": "温中暖胃",
+    "ingredients": [
+      "红薯 200 克",
+      "生姜 3 片",
+      "清水 600 ml"
+    ],
+    "steps": [
+      "红薯去皮切块",
+      "与生姜同煮 20 分钟至红薯软烂",
+      "温热少量饮用或作加餐"
+    ],
+    "note": "偏温甜，糖尿病、胃酸过多者控制分量。",
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "大雪严寒，红薯姜饮为温中暖胃常见食养方。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-xiaohan-goji-jujube",
+    "name": "小寒枸杞红枣茶",
+    "solarTerm": "小寒",
+    "season": [
+      "冬季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "气血两虚",
+      "肝血虚"
+    ],
+    "foodIds": [
+      "goji-berry",
+      "jujube"
+    ],
+    "subtitle": "养血明目",
+    "ingredients": [
+      "枸杞 10 克",
+      "红枣 5 枚",
+      "清水 500 ml"
+    ],
+    "steps": [
+      "红枣去核，与枸杞同煮 10 分钟",
+      "温热代茶少量饮用",
+      "上午或午后为宜"
+    ],
+    "note": "偏温补，湿热明显、腹泻者不宜多饮。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "小寒寒气彻骨，枸杞红枣为养血明目常见茶饮。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar-dahan-sesame-walnut",
+    "name": "大寒芝麻核桃糊",
+    "solarTerm": "大寒",
+    "season": [
+      "冬季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "肾阳虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "sesame",
+      "walnut"
+    ],
+    "subtitle": "温补润肠",
+    "ingredients": [
+      "黑芝麻 20 克",
+      "核桃仁 20 克",
+      "温水或热牛奶 200 ml"
+    ],
+    "steps": [
+      "芝麻、核桃炒香或烤香",
+      "研磨成糊，加温水调匀",
+      "温热作早餐或加餐，每周 2–3 次"
+    ],
+    "note": "偏油腻，痰湿重、腹泻者不宜多食。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "大寒岁暮严寒，芝麻核桃糊为温补润肠常见食方。"
       }
     ],
     "draft": false,

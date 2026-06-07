@@ -6,11 +6,19 @@
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import {
+  loadFoodCatalogIds,
+  loadFoodIdAliasMap,
+  normalizeRecipeFoodIds,
+  resolveFoodId,
+  root
+} from "./lib/food-catalog.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const root = path.join(__dirname, "..");
 
 const expanded = fs.readFileSync(path.join(root, "foods-expanded.js"), "utf8");
+const expandedBulkPath = path.join(root, "generated", "foods-expanded-bulk.js");
+const expandedBulk = fs.existsSync(expandedBulkPath) ? fs.readFileSync(expandedBulkPath, "utf8") : "";
 const cnBundlePath = path.join(root, "generated", "foods-cn-bundle.js");
 const bulkPath = path.join(root, "generated", "recipes-bulk.js");
 const pairingExtraPath = path.join(root, "generated", "pairing-rules-extra.js");
@@ -28,7 +36,7 @@ function readJson(relPath) {
   return JSON.parse(fs.readFileSync(file, "utf8"));
 }
 
-function collectFoodIds(source, label) {
+function collectFoodIds(source) {
   const ids = new Set();
   const fRe = /f\(\s*["']([^"']+)["']/g;
   let m;
@@ -37,20 +45,28 @@ function collectFoodIds(source, label) {
   while ((m = objRe.exec(source))) ids.add(m[1]);
   const jsonIdRe = /"id"\s*:\s*"([^"]+)"/g;
   while ((m = jsonIdRe.exec(source))) ids.add(m[1]);
-  return { ids, label };
+  return ids;
 }
 
-const expandedIds = collectFoodIds(expanded, "foods-expanded");
-const cnIds = collectFoodIds(cnBundle, "foods-cn-bundle");
+const expandedIds = new Set([...collectFoodIds(expanded), ...collectFoodIds(expandedBulk)]);
+const cnIds = collectFoodIds(cnBundle);
 const tcmBundlePath = path.join(root, "generated", "tcm-herbs-bundle.js");
 const tcmBundle = fs.existsSync(tcmBundlePath) ? fs.readFileSync(tcmBundlePath, "utf8") : "";
-const tcmIds = collectFoodIds(tcmBundle, "tcm-herbs-bundle");
+const tcmIds = collectFoodIds(tcmBundle);
 const classicPath = path.join(root, "generated", "classic-diet-recipes.js");
 const classicRecipes = fs.existsSync(classicPath) ? fs.readFileSync(classicPath, "utf8") : "";
+const handcraftedPath = path.join(root, "generated", "handcrafted-recipes.js");
+const handcraftedRecipes = fs.existsSync(handcraftedPath) ? fs.readFileSync(handcraftedPath, "utf8") : "";
 const runtimeMatch = app.match(/const RUNTIME_FOOD_EXPANSION = \[([\s\S]*?)\n\];/);
-const runtimeIds = collectFoodIds(runtimeMatch ? runtimeMatch[1] : "", "runtime");
+const runtimeIds = collectFoodIds(runtimeMatch ? runtimeMatch[1] : "");
 
-const allFoodIds = new Set([...expandedIds.ids, ...cnIds.ids, ...tcmIds.ids, ...runtimeIds.ids]);
+const allFoodIds = loadFoodCatalogIds();
+const aliasMap = loadFoodIdAliasMap();
+
+Object.entries(aliasMap).forEach(([alias, canonical]) => {
+  if (alias === canonical) errors.push(`Alias maps to itself: ${alias}`);
+  if (!allFoodIds.has(canonical)) errors.push(`Alias canonical missing from catalog: ${alias} -> ${canonical}`);
+});
 
 function collectRecipeFoodRefs(sources) {
   const refs = [];
@@ -72,8 +88,11 @@ function collectRecipeFoodRefs(sources) {
   return refs;
 }
 
-const recipeRefs = collectRecipeFoodRefs([app, bulkRecipes, classicRecipes]);
-const missingFoodRefs = [...new Set(recipeRefs.map((r) => r.id))].filter((id) => !allFoodIds.has(id));
+const recipeRefs = collectRecipeFoodRefs([handcraftedRecipes, bulkRecipes, classicRecipes]);
+const missingFoodRefs = [...new Set(recipeRefs.map((r) => r.id))].filter((id) => {
+  const normalized = normalizeRecipeFoodIds([id], allFoodIds, aliasMap);
+  return normalized.length < 1;
+});
 if (missingFoodRefs.length) {
   errors.push(`Recipe foodIds missing from food catalog: ${missingFoodRefs.join(", ")}`);
 }
@@ -96,8 +115,11 @@ function collectPairingIds(source) {
   return ids;
 }
 
-const pairingIds = collectPairingIds([app, pairingExtra].filter(Boolean).join("\n"));
-const missingPairing = [...pairingIds].filter((id) => !allFoodIds.has(id));
+const pairingIds = collectPairingIds(pairingExtra);
+const missingPairing = [...pairingIds].filter((id) => {
+  const canon = resolveFoodId(id, aliasMap);
+  return !allFoodIds.has(id) && !allFoodIds.has(canon);
+});
 if (missingPairing.length) {
   errors.push(`Pairing rule ids missing from food catalog: ${missingPairing.join(", ")}`);
 }
@@ -115,7 +137,16 @@ function collectRulesWithoutCategory(source) {
   return missing;
 }
 
-const rulesMissingCategory = collectRulesWithoutCategory(app);
+const pairingJsonSources = [
+  readJson("data/cn/pairing-rules-base.json"),
+  readJson("data/cn/pairing-rules-extra.json"),
+  readJson("data/cn/pairing-rules-extra-batch2.json")
+].filter(Boolean);
+
+const rulesMissingCategory = [
+  ...collectRulesWithoutCategory(pairingExtra),
+  ...pairingJsonSources.flatMap((rules) => collectRulesWithoutCategory(JSON.stringify(rules)))
+];
 if (rulesMissingCategory.length) {
   warnings.push(`Pairing rules missing category: ${rulesMissingCategory.join(", ")}`);
 }
@@ -171,8 +202,13 @@ if (classicCount < 100) {
   warnings.push(`Classic diet recipes published: ${classicCount} — target is 100+`);
 }
 
+if (!fs.existsSync(path.join(root, "generated", "food-id-aliases.js"))) {
+  errors.push("Missing generated/food-id-aliases.js — run npm run build:data");
+}
+
 console.log("=== Atlas validate-data ===");
-console.log(`Food ids: expanded ${expandedIds.ids.size}, cn bundle ${cnIds.ids.size}, tcm ${tcmIds.ids.size}, runtime ${runtimeIds.ids.size}, total ${allFoodIds.size}`);
+console.log(`Food ids: expanded ${expandedIds.size}, cn bundle ${cnIds.size}, tcm ${tcmIds.size}, runtime ${runtimeIds.size}, total ${allFoodIds.size}`);
+console.log(`Food id aliases: ${Object.keys(aliasMap).length}`);
 console.log(`Recipe food references: ${recipeRefs.length}, pairing food ids: ${pairingIds.size}, bulk recipes: ${bulkCount}, classic recipes: ${classicCount}`);
 if (herbs) console.log(`TCM source herbs-chp2025.json: ${herbs.length}`);
 if (ingredients) console.log(`CN ingredients: ${ingredients.length}`);

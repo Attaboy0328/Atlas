@@ -1,0 +1,3160 @@
+[
+  {
+    "id": "softshell-turtle",
+    "name": "甲鱼",
+    "nature": "\\u5e73",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "鳖",
+      "团鱼",
+      "水鱼",
+      "softshell turtle"
+    ],
+    "effects": [
+      "滋补",
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "湖北",
+      "江浙",
+      "两广"
+    ],
+    "extra": {
+      "searchTerms": [
+        "jiayu",
+        "jy",
+        "bie",
+        "tuanyu",
+        "shuiyu"
+      ],
+      "confidence": "中国地方水产扩充条目"
+    }
+  },
+  {
+    "id": "tilapia",
+    "name": "罗非鱼",
+    "nature": "\\u5e73",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "罗非",
+      "非洲鲫鱼",
+      "tilapia"
+    ],
+    "effects": [
+      "高蛋白",
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "海南",
+      "广东",
+      "广西"
+    ],
+    "extra": {
+      "searchTerms": [
+        "luofeiyu",
+        "lfy",
+        "luofei",
+        "feizhoujiyu"
+      ],
+      "confidence": "中国地方水产扩充条目"
+    }
+  },
+  {
+    "id": "snakehead-fish",
+    "name": "黑鱼",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "乌鳢",
+      "财鱼",
+      "生鱼",
+      "snakehead"
+    ],
+    "effects": [
+      "高蛋白",
+      "滋养"
+    ],
+    "regions": [
+      "CN",
+      "湖北",
+      "江苏",
+      "广东"
+    ],
+    "extra": {
+      "searchTerms": [
+        "heiyu",
+        "hy",
+        "wuli",
+        "caiyu",
+        "shengyu"
+      ],
+      "confidence": "中国地方水产扩充条目"
+    }
+  },
+  {
+    "id": "crucian-carp",
+    "name": "鲫鱼",
+    "nature": "\\u5e73",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "鲫瓜子",
+      "crucian carp"
+    ],
+    "effects": [
+      "和中",
+      "滋养"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "jiyu",
+        "jy",
+        "jiguazi"
+      ],
+      "confidence": "中国家常淡水鱼扩充条目"
+    }
+  },
+  {
+    "id": "carp",
+    "name": "鲤鱼",
+    "nature": "\\u5e73",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "carp"
+    ],
+    "effects": [
+      "和中",
+      "滋养"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "liyu",
+        "ly"
+      ],
+      "confidence": "中国家常淡水鱼扩充条目"
+    }
+  },
+  {
+    "id": "grass-carp",
+    "name": "草鱼",
+    "nature": "\\u5e73",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "鲩鱼",
+      "grass carp"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "两广"
+    ],
+    "extra": {
+      "searchTerms": [
+        "caoyu",
+        "cy",
+        "huanyu"
+      ],
+      "confidence": "中国家常淡水鱼扩充条目"
+    }
+  },
+  {
+    "id": "mandarin-fish",
+    "name": "鳜鱼",
+    "nature": "\\u5e73",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "桂鱼",
+      "季花鱼",
+      "mandarin fish"
+    ],
+    "effects": [
+      "鲜补"
+    ],
+    "regions": [
+      "CN",
+      "江浙沪",
+      "湖北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "guiyu",
+        "gy",
+        "guiyu-alt",
+        "jihuayu"
+      ],
+      "confidence": "中国地方淡水鱼扩充条目"
+    }
+  },
+  {
+    "id": "catfish",
+    "name": "鲶鱼",
+    "nature": "\\u5e73",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "胡子鲶",
+      "catfish"
+    ],
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "nianyu",
+        "ny",
+        "huzinian"
+      ],
+      "confidence": "中国地方水产扩充条目"
+    }
+  },
+  {
+    "id": "yellow-catfish",
+    "name": "黄骨鱼",
+    "nature": "\\u5e73",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "黄颡鱼",
+      "嘎鱼",
+      "昂刺鱼",
+      "yellow catfish"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "湖北",
+      "湖南",
+      "江西"
+    ],
+    "extra": {
+      "searchTerms": [
+        "huangguyu",
+        "hgy",
+        "huangsangyu",
+        "gayu",
+        "angciyu"
+      ],
+      "confidence": "中国地方水产扩充条目"
+    }
+  },
+  {
+    "id": "donkey-meat",
+    "name": "驴肉",
+    "nature": "\\u6e29",
+    "category": "\\u8089\\u86cb\\u5976",
+    "aliases": [
+      "驴肉火烧料",
+      "donkey meat"
+    ],
+    "effects": [
+      "补益"
+    ],
+    "regions": [
+      "CN",
+      "河北",
+      "山西",
+      "河南"
+    ],
+    "extra": {
+      "searchTerms": [
+        "lvrou",
+        "lr"
+      ],
+      "confidence": "中国地方肉类扩充条目"
+    }
+  },
+  {
+    "id": "rabbit-meat",
+    "name": "兔肉",
+    "nature": "\\u51c9",
+    "category": "\\u8089\\u86cb\\u5976",
+    "aliases": [
+      "rabbit"
+    ],
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN",
+      "四川",
+      "重庆",
+      "福建"
+    ],
+    "extra": {
+      "searchTerms": [
+        "turou",
+        "tr"
+      ],
+      "confidence": "中国地方肉类扩充条目"
+    }
+  },
+  {
+    "id": "pigeon",
+    "name": "乳鸽",
+    "nature": "\\u6e29",
+    "category": "\\u8089\\u86cb\\u5976",
+    "aliases": [
+      "鸽子",
+      "young pigeon"
+    ],
+    "effects": [
+      "补益"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "香港"
+    ],
+    "extra": {
+      "searchTerms": [
+        "ruge",
+        "rg",
+        "gezi"
+      ],
+      "confidence": "中国地方肉类扩充条目"
+    }
+  },
+  {
+    "id": "button-mushroom",
+    "name": "白蘑菇",
+    "nature": "\\u5e73",
+    "category": "\\u83cc\\u83c7",
+    "aliases": [
+      "白蘑",
+      "口蘑",
+      "button mushroom"
+    ],
+    "effects": [
+      "和中",
+      "增鲜"
+    ],
+    "regions": [
+      "CN",
+      "内蒙古",
+      "河北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "baimogu",
+        "bmg",
+        "baimo",
+        "koumo"
+      ],
+      "confidence": "中国常见菌菇扩充条目"
+    }
+  },
+  {
+    "id": "straw-mushroom",
+    "name": "草菇",
+    "nature": "\\u51c9",
+    "category": "\\u83cc\\u83c7",
+    "aliases": [
+      "straw mushroom"
+    ],
+    "effects": [
+      "和中",
+      "增鲜"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "福建",
+      "海南"
+    ],
+    "extra": {
+      "searchTerms": [
+        "caogu",
+        "cg"
+      ],
+      "confidence": "中国常见菌菇扩充条目"
+    }
+  },
+  {
+    "id": "termitomyces",
+    "name": "鸡枞",
+    "nature": "\\u5e73",
+    "category": "\\u83cc\\u83c7",
+    "aliases": [
+      "鸡枞菌",
+      "termitomyces"
+    ],
+    "effects": [
+      "增鲜",
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "云南",
+      "贵州"
+    ],
+    "extra": {
+      "searchTerms": [
+        "jizong",
+        "jz",
+        "jizongjun"
+      ],
+      "confidence": "中国地方菌菇扩充条目"
+    }
+  },
+  {
+    "id": "matsutake",
+    "name": "松茸",
+    "nature": "\\u6e29",
+    "category": "\\u83cc\\u83c7",
+    "aliases": [
+      "matsutake"
+    ],
+    "effects": [
+      "增鲜",
+      "滋养"
+    ],
+    "regions": [
+      "CN",
+      "云南",
+      "四川",
+      "西藏"
+    ],
+    "extra": {
+      "searchTerms": [
+        "songrong",
+        "sr"
+      ],
+      "confidence": "中国地方菌菇扩充条目"
+    }
+  },
+  {
+    "id": "boletus",
+    "name": "牛肝菌",
+    "nature": "\\u6e29",
+    "category": "\\u83cc\\u83c7",
+    "aliases": [
+      "boletus"
+    ],
+    "effects": [
+      "增鲜"
+    ],
+    "regions": [
+      "CN",
+      "云南",
+      "四川"
+    ],
+    "extra": {
+      "searchTerms": [
+        "niuganjun",
+        "ngj"
+      ],
+      "confidence": "中国地方菌菇扩充条目"
+    }
+  },
+  {
+    "id": "caitai",
+    "name": "红菜苔",
+    "nature": "\\u51c9",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "菜苔",
+      "紫菜苔",
+      "hongcaitai"
+    ],
+    "effects": [
+      "清利",
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "湖北",
+      "武汉"
+    ],
+    "extra": {
+      "searchTerms": [
+        "hongcaitai",
+        "hct",
+        "caitai",
+        "zicaitai"
+      ],
+      "confidence": "中国地方蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "night-blooming-flower",
+    "name": "夜香花",
+    "nature": "\\u51c9",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "夜来香花",
+      "夜香花蕾",
+      "night blooming jasmine flower"
+    ],
+    "effects": [
+      "清润",
+      "增香"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西"
+    ],
+    "extra": {
+      "searchTerms": [
+        "yexianghua",
+        "yxh",
+        "yelaixianghua"
+      ],
+      "confidence": "岭南地方蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "gai-lan",
+    "name": "芥兰",
+    "nature": "\\u51c9",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "广东芥兰",
+      "gai lan",
+      "Chinese broccoli"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西",
+      "香港",
+      "澳门"
+    ],
+    "extra": {
+      "searchTerms": [
+        "jielan",
+        "jl",
+        "gailan",
+        "chinesebroccoli"
+      ],
+      "confidence": "岭南地方蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "red-stem-gai-lan",
+    "name": "红脚芥兰",
+    "nature": "\\u6e29",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "红梗芥兰",
+      "hong jiao gai lan"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "潮汕"
+    ],
+    "extra": {
+      "searchTerms": [
+        "hongjiaojielan",
+        "hjjl",
+        "honggengjielan"
+      ],
+      "confidence": "岭南地方蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "sesame-leaf",
+    "name": "麻叶",
+    "nature": "\\u5e73",
+    "category": "\\u91ce\\u83dc",
+    "aliases": [
+      "芝麻叶",
+      "麻叶菜",
+      "sesame leaf"
+    ],
+    "effects": [
+      "和中",
+      "增香"
+    ],
+    "regions": [
+      "CN",
+      "河南",
+      "安徽",
+      "湖北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "maye",
+        "my",
+        "zhimaye",
+        "mayecai"
+      ],
+      "confidence": "中原地方野菜扩充条目"
+    }
+  },
+  {
+    "id": "fish-mint",
+    "name": "折耳根",
+    "nature": "\\u51c9",
+    "category": "\\u91ce\\u83dc",
+    "aliases": [
+      "鱼腥草",
+      "折耳根菜",
+      "houttuynia"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "贵州",
+      "云南",
+      "四川"
+    ],
+    "extra": {
+      "searchTerms": [
+        "zheergen",
+        "zeg",
+        "yuxingcao"
+      ],
+      "confidence": "西南地方野菜扩充条目"
+    }
+  },
+  {
+    "id": "celtuce",
+    "name": "莴笋",
+    "nature": "\\u51c9",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "莴苣笋",
+      "celtuce"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "wosun",
+        "ws",
+        "wojusun"
+      ],
+      "confidence": "中国常见蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "water-chestnut",
+    "name": "荸荠",
+    "nature": "\\u5bd2",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "马蹄",
+      "地栗",
+      "water chestnut"
+    ],
+    "effects": [
+      "清利",
+      "生津"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西",
+      "江南"
+    ],
+    "extra": {
+      "searchTerms": [
+        "biqi",
+        "bq",
+        "mati",
+        "dili"
+      ],
+      "confidence": "中国地方蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "water-shield",
+    "name": "莼菜",
+    "nature": "\\u51c9",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "水葵",
+      "water shield"
+    ],
+    "effects": [
+      "清润"
+    ],
+    "regions": [
+      "CN",
+      "江苏",
+      "浙江",
+      "湖北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "chuncai",
+        "cc",
+        "shuikui"
+      ],
+      "confidence": "江南地方蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "toon-bud",
+    "name": "香椿",
+    "nature": "\\u6e29",
+    "category": "\\u91ce\\u83dc",
+    "aliases": [
+      "香椿芽",
+      "toon bud"
+    ],
+    "effects": [
+      "开胃",
+      "增香"
+    ],
+    "regions": [
+      "CN",
+      "华北",
+      "山东",
+      "陕西"
+    ],
+    "extra": {
+      "searchTerms": [
+        "xiangchun",
+        "xc",
+        "xiangchunya"
+      ],
+      "confidence": "中国地方野菜扩充条目"
+    }
+  },
+  {
+    "id": "water-bamboo",
+    "name": "茭白",
+    "nature": "\\u51c9",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "高笋",
+      "water bamboo"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "江南",
+      "浙江",
+      "上海"
+    ],
+    "extra": {
+      "searchTerms": [
+        "jiaobai",
+        "jb",
+        "gaosun"
+      ],
+      "confidence": "江南地方蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "sour-bamboo-shoot",
+    "name": "酸笋",
+    "nature": "\\u6e29",
+    "category": "\\u814c\\u83dc",
+    "aliases": [
+      "发酵笋",
+      "酸竹笋"
+    ],
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN",
+      "广西",
+      "贵州"
+    ],
+    "extra": {
+      "searchTerms": [
+        "suansun",
+        "ss",
+        "fajiaosun",
+        "suanzhusun"
+      ],
+      "confidence": "西南地方发酵食材扩充条目"
+    }
+  },
+  {
+    "id": "hami-melon",
+    "name": "哈密瓜",
+    "nature": "\\u51c9",
+    "category": "\\u6c34\\u679c",
+    "aliases": [
+      "新疆哈密瓜",
+      "hami melon"
+    ],
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN",
+      "新疆"
+    ],
+    "extra": {
+      "searchTerms": [
+        "hamigua",
+        "hmg",
+        "xinjianghamigua"
+      ],
+      "confidence": "中国地方水果扩充条目"
+    }
+  },
+  {
+    "id": "wax-apple",
+    "name": "莲雾",
+    "nature": "\\u51c9",
+    "category": "\\u6c34\\u679c",
+    "aliases": [
+      "洋蒲桃",
+      "wax apple"
+    ],
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN",
+      "台湾",
+      "海南"
+    ],
+    "extra": {
+      "searchTerms": [
+        "lianwu",
+        "lw",
+        "yangputao"
+      ],
+      "confidence": "中国地方水果扩充条目"
+    }
+  },
+  {
+    "id": "pineapple-honey",
+    "name": "菠萝蜜",
+    "nature": "\\u6e29",
+    "category": "\\u6c34\\u679c",
+    "aliases": [
+      "木菠萝",
+      "jackfruit"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "海南",
+      "广西",
+      "云南"
+    ],
+    "extra": {
+      "searchTerms": [
+        "boluomi",
+        "blm",
+        "muboluo",
+        "jackfruit"
+      ],
+      "confidence": "热带地方水果扩充条目"
+    }
+  },
+  {
+    "id": "bamboo-fungus",
+    "name": "竹荪",
+    "nature": "\\u5e73",
+    "category": "\\u83cc\\u83c7",
+    "aliases": [
+      "竹笙",
+      "bamboo fungus"
+    ],
+    "effects": [
+      "和中",
+      "增鲜"
+    ],
+    "regions": [
+      "CN",
+      "云南",
+      "贵州",
+      "四川"
+    ],
+    "extra": {
+      "searchTerms": [
+        "zhusun",
+        "zs",
+        "zhusheng"
+      ],
+      "confidence": "西南地方菌菇扩充条目"
+    }
+  },
+  {
+    "id": "termite-mushroom",
+    "name": "干巴菌",
+    "nature": "\\u6e29",
+    "category": "\\u83cc\\u83c7",
+    "aliases": [
+      "牛肝菌干巴菌类",
+      "thelephora"
+    ],
+    "effects": [
+      "增鲜"
+    ],
+    "regions": [
+      "CN",
+      "云南"
+    ],
+    "extra": {
+      "searchTerms": [
+        "ganbajun",
+        "gbj"
+      ],
+      "confidence": "云南地方菌菇扩充条目"
+    }
+  },
+  {
+    "id": "morel",
+    "name": "羊肚菌",
+    "nature": "\\u6e29",
+    "category": "\\u83cc\\u83c7",
+    "aliases": [
+      "morel"
+    ],
+    "effects": [
+      "增鲜",
+      "滋养"
+    ],
+    "regions": [
+      "CN",
+      "云南",
+      "四川",
+      "甘肃"
+    ],
+    "extra": {
+      "searchTerms": [
+        "yangdujun",
+        "ydj"
+      ],
+      "confidence": "西南与西北菌菇扩充条目"
+    }
+  },
+  {
+    "id": "wild-pepper-leaf",
+    "name": "木姜叶",
+    "nature": "\\u6e29",
+    "category": "\\u91ce\\u83dc",
+    "aliases": [
+      "山胡椒叶",
+      "木姜菜"
+    ],
+    "effects": [
+      "行气",
+      "增香"
+    ],
+    "regions": [
+      "CN",
+      "贵州",
+      "湖南",
+      "土家族",
+      "侗族"
+    ],
+    "extra": {
+      "searchTerms": [
+        "mujiangye",
+        "mjy",
+        "shanhujiaoye",
+        "tujia",
+        "dongzu"
+      ],
+      "confidence": "西南少数民族香料扩充条目"
+    }
+  },
+  {
+    "id": "red-sour-soup",
+    "name": "红酸汤",
+    "nature": "\\u6e29",
+    "category": "\\u8c03\\u6599",
+    "aliases": [
+      "凯里酸汤",
+      "番茄酸汤"
+    ],
+    "effects": [
+      "调味",
+      "开胃"
+    ],
+    "regions": [
+      "CN",
+      "贵州",
+      "苗族",
+      "侗族"
+    ],
+    "extra": {
+      "searchTerms": [
+        "hongsuantang",
+        "hst",
+        "kailisuantang",
+        "miaozu",
+        "dongzu"
+      ],
+      "cautionTags": [
+        "reflux"
+      ],
+      "confidence": "西南少数民族调味扩充条目"
+    }
+  },
+  {
+    "id": "ciba-pepper",
+    "name": "糍粑辣椒",
+    "nature": "\\u70ed",
+    "category": "\\u8c03\\u6599",
+    "aliases": [
+      "贵州糍粑海椒"
+    ],
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN",
+      "贵州",
+      "苗族"
+    ],
+    "extra": {
+      "searchTerms": [
+        "cibalajiao",
+        "cblj",
+        "haijiao"
+      ],
+      "cautionTags": [
+        "reflux",
+        "hypertension"
+      ],
+      "confidence": "西南地方调味扩充条目"
+    }
+  },
+  {
+    "id": "zhacai",
+    "name": "榨菜",
+    "nature": "\\u6e29",
+    "category": "\\u814c\\u83dc",
+    "aliases": [
+      "涪陵榨菜"
+    ],
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN",
+      "重庆"
+    ],
+    "extra": {
+      "searchTerms": [
+        "zhacai",
+        "zc",
+        "fulingzhacai"
+      ],
+      "cautionTags": [
+        "hypertension"
+      ],
+      "confidence": "川渝腌菜扩充条目"
+    }
+  },
+  {
+    "id": "yibin-yacai",
+    "name": "芽菜",
+    "nature": "\\u6e29",
+    "category": "\\u814c\\u83dc",
+    "aliases": [
+      "宜宾芽菜",
+      "碎米芽菜"
+    ],
+    "effects": [
+      "开胃",
+      "调味"
+    ],
+    "regions": [
+      "CN",
+      "四川"
+    ],
+    "extra": {
+      "searchTerms": [
+        "yacai",
+        "yc",
+        "yibinyacai",
+        "suimiyacai"
+      ],
+      "cautionTags": [
+        "hypertension"
+      ],
+      "confidence": "川菜腌菜扩充条目"
+    }
+  },
+  {
+    "id": "pickled-chili",
+    "name": "泡椒",
+    "nature": "\\u70ed",
+    "category": "\\u814c\\u83dc",
+    "aliases": [
+      "泡海椒"
+    ],
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN",
+      "四川",
+      "重庆",
+      "贵州"
+    ],
+    "extra": {
+      "searchTerms": [
+        "paojiao",
+        "pj",
+        "paohaijiao"
+      ],
+      "cautionTags": [
+        "reflux",
+        "hypertension"
+      ],
+      "confidence": "西南腌渍调味扩充条目"
+    }
+  },
+  {
+    "id": "caixin",
+    "name": "菜心",
+    "nature": "\\u51c9",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "广东菜心"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西",
+      "香港"
+    ],
+    "extra": {
+      "searchTerms": [
+        "caixin",
+        "cx",
+        "guangdongcaixin"
+      ],
+      "confidence": "两广常用蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "watercress",
+    "name": "西洋菜",
+    "nature": "\\u51c9",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "豆瓣菜",
+      "watercress"
+    ],
+    "effects": [
+      "清润"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "香港",
+      "澳门"
+    ],
+    "extra": {
+      "searchTerms": [
+        "xiyangcai",
+        "xyc",
+        "doubancai"
+      ],
+      "confidence": "粤港澳常用蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "wolfberry-leaf",
+    "name": "枸杞叶",
+    "nature": "\\u51c9",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "枸杞苗"
+    ],
+    "effects": [
+      "清润"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西",
+      "客家"
+    ],
+    "extra": {
+      "searchTerms": [
+        "gouqiye",
+        "gqy",
+        "gouqimiao",
+        "hakka"
+      ],
+      "confidence": "客家与岭南汤料蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "wuzhi-maotao",
+    "name": "五指毛桃",
+    "nature": "\\u5e73",
+    "category": "\\u6ecb\\u8865\\u98df\\u6750",
+    "aliases": [
+      "南芪",
+      "土黄芪"
+    ],
+    "effects": [
+      "和中",
+      "煲汤"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西",
+      "客家"
+    ],
+    "extra": {
+      "searchTerms": [
+        "wuzhimaotao",
+        "wzmt",
+        "nanqi",
+        "tuhuangqi",
+        "hakka"
+      ],
+      "confidence": "两广汤料扩充条目"
+    }
+  },
+  {
+    "id": "tufuling",
+    "name": "土茯苓",
+    "nature": "\\u5e73",
+    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "aliases": [
+      "硬饭头",
+      "土萆薢"
+    ],
+    "effects": [
+      "和中",
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西"
+    ],
+    "extra": {
+      "officialFoodMedicine": false,
+      "searchTerms": [
+        "tufuling",
+        "tfl",
+        "yingfantou",
+        "tubixie"
+      ],
+      "confidence": "岭南汤料与中药材检索扩充条目"
+    }
+  },
+  {
+    "id": "sand-ginger",
+    "name": "沙姜",
+    "nature": "\\u6e29",
+    "category": "\\u8c03\\u6599",
+    "aliases": [
+      "山柰",
+      "广西沙姜"
+    ],
+    "effects": [
+      "调味",
+      "温中"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西",
+      "客家"
+    ],
+    "extra": {
+      "searchTerms": [
+        "shajiang",
+        "sj",
+        "shannai",
+        "hakka"
+      ],
+      "confidence": "两广常用香料扩充条目"
+    }
+  },
+  {
+    "id": "oyster",
+    "name": "生蚝",
+    "nature": "\\u5e73",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "牡蛎",
+      "蚝",
+      "oyster"
+    ],
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西",
+      "福建",
+      "香港"
+    ],
+    "extra": {
+      "searchTerms": [
+        "shenghao",
+        "sh",
+        "muli",
+        "hao"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "沿海高频水产扩充条目"
+    }
+  },
+  {
+    "id": "clam",
+    "name": "花甲",
+    "nature": "\\u51c9",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "蛤蜊",
+      "文蛤",
+      "clams"
+    ],
+    "effects": [
+      "鲜补"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "福建",
+      "广西"
+    ],
+    "extra": {
+      "searchTerms": [
+        "huajia",
+        "hj",
+        "geli",
+        "wenga"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "沿海高频水产扩充条目"
+    }
+  },
+  {
+    "id": "razor-clam",
+    "name": "蛏子",
+    "nature": "\\u51c9",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "竹蛏",
+      "razor clam"
+    ],
+    "effects": [
+      "鲜补"
+    ],
+    "regions": [
+      "CN",
+      "福建",
+      "浙江",
+      "江苏"
+    ],
+    "extra": {
+      "searchTerms": [
+        "chengzi",
+        "cz",
+        "zhucheng"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "沿海高频水产扩充条目"
+    }
+  },
+  {
+    "id": "mud-snail",
+    "name": "泥螺",
+    "nature": "\\u5bd2",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "黄泥螺"
+    ],
+    "effects": [
+      "鲜补"
+    ],
+    "regions": [
+      "CN",
+      "浙江",
+      "上海",
+      "江苏"
+    ],
+    "extra": {
+      "searchTerms": [
+        "niluo",
+        "nl",
+        "huangniluo"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "江浙沪地方海产扩充条目"
+    }
+  },
+  {
+    "id": "river-shrimp",
+    "name": "河虾",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "青虾"
+    ],
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN",
+      "江浙沪"
+    ],
+    "extra": {
+      "searchTerms": [
+        "hexia",
+        "hx",
+        "qingxia"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "江浙沪河鲜扩充条目"
+    }
+  },
+  {
+    "id": "knife-fish",
+    "name": "刀鱼",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "长江刀鱼"
+    ],
+    "effects": [
+      "鲜补"
+    ],
+    "regions": [
+      "CN",
+      "江苏",
+      "上海"
+    ],
+    "extra": {
+      "searchTerms": [
+        "daoyu",
+        "dy",
+        "changjiangdaoyu"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "江浙沪河鲜扩充条目"
+    }
+  },
+  {
+    "id": "malantou",
+    "name": "马兰头",
+    "nature": "\\u51c9",
+    "category": "\\u91ce\\u83dc",
+    "aliases": [
+      "马兰",
+      "鸡儿肠"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "江浙沪"
+    ],
+    "extra": {
+      "searchTerms": [
+        "malantou",
+        "mlt",
+        "malan",
+        "jierchang"
+      ],
+      "confidence": "江南野菜扩充条目"
+    }
+  },
+  {
+    "id": "shepherds-purse",
+    "name": "荠菜",
+    "nature": "\\u51c9",
+    "category": "\\u91ce\\u83dc",
+    "aliases": [
+      "地菜",
+      "shepherd's purse"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "江浙沪",
+      "华北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "jicai",
+        "jc",
+        "dicai"
+      ],
+      "confidence": "江南与华北野菜扩充条目"
+    }
+  },
+  {
+    "id": "loquat",
+    "name": "枇杷",
+    "nature": "\\u51c9",
+    "category": "\\u6c34\\u679c",
+    "aliases": [
+      "loquat"
+    ],
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN",
+      "福建",
+      "浙江",
+      "江苏"
+    ],
+    "extra": {
+      "searchTerms": [
+        "pipa",
+        "pp"
+      ],
+      "confidence": "江南水果扩充条目"
+    }
+  },
+  {
+    "id": "red-yeast-rice",
+    "name": "红糟",
+    "nature": "\\u6e29",
+    "category": "\\u8c03\\u6599",
+    "aliases": [
+      "福州红糟",
+      "红曲糟"
+    ],
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN",
+      "福建",
+      "福州"
+    ],
+    "extra": {
+      "searchTerms": [
+        "hongzao",
+        "hz",
+        "hongquzao",
+        "fuzhouhongzao"
+      ],
+      "confidence": "闽菜地方调味扩充条目"
+    }
+  },
+  {
+    "id": "perilla-nine-layer",
+    "name": "九层塔",
+    "nature": "\\u6e29",
+    "category": "\\u8c03\\u6599",
+    "aliases": [
+      "罗勒",
+      "台湾九层塔",
+      "basil"
+    ],
+    "effects": [
+      "增香",
+      "行气"
+    ],
+    "regions": [
+      "CN",
+      "台湾",
+      "福建"
+    ],
+    "extra": {
+      "searchTerms": [
+        "jiucengta",
+        "jct",
+        "luole",
+        "taiwanjiucengta",
+        "basil"
+      ],
+      "confidence": "闽台常用香草扩充条目"
+    }
+  },
+  {
+    "id": "po-bu-zi",
+    "name": "破布子",
+    "nature": "\\u5e73",
+    "category": "\\u814c\\u83dc",
+    "aliases": [
+      "树子",
+      "破布果"
+    ],
+    "effects": [
+      "开胃",
+      "调味"
+    ],
+    "regions": [
+      "CN",
+      "台湾"
+    ],
+    "extra": {
+      "searchTerms": [
+        "pobuzi",
+        "pbz",
+        "shuzi",
+        "pobuguo"
+      ],
+      "cautionTags": [
+        "hypertension"
+      ],
+      "confidence": "台湾地方调味扩充条目"
+    }
+  },
+  {
+    "id": "yam-bean",
+    "name": "沙葛",
+    "nature": "\\u51c9",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "凉薯",
+      "地瓜"
+    ],
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN",
+      "福建",
+      "广东",
+      "广西",
+      "台湾"
+    ],
+    "extra": {
+      "searchTerms": [
+        "shage",
+        "sg",
+        "liangshu"
+      ],
+      "confidence": "闽粤台常见蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "hazel-mushroom",
+    "name": "榛蘑",
+    "nature": "\\u6e29",
+    "category": "\\u83cc\\u83c7",
+    "aliases": [
+      "hazel mushroom"
+    ],
+    "effects": [
+      "增鲜"
+    ],
+    "regions": [
+      "CN",
+      "东北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "zhenmo",
+        "zm"
+      ],
+      "confidence": "东北山货菌菇扩充条目"
+    }
+  },
+  {
+    "id": "yuanmo",
+    "name": "元蘑",
+    "nature": "\\u5e73",
+    "category": "\\u83cc\\u83c7",
+    "aliases": [
+      "黄蘑元蘑类"
+    ],
+    "effects": [
+      "增鲜"
+    ],
+    "regions": [
+      "CN",
+      "东北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "yuanmo",
+        "ym"
+      ],
+      "confidence": "东北山货菌菇扩充条目"
+    }
+  },
+  {
+    "id": "pine-nut-kernel",
+    "name": "松子仁",
+    "nature": "\\u6e29",
+    "category": "\\u575a\\u679c\\u79cd\\u5b50",
+    "aliases": [
+      "松仁"
+    ],
+    "effects": [
+      "滋养"
+    ],
+    "regions": [
+      "CN",
+      "东北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "songziren",
+        "szr",
+        "songren"
+      ],
+      "confidence": "东北山货坚果扩充条目"
+    }
+  },
+  {
+    "id": "sour-cabbage",
+    "name": "酸菜",
+    "nature": "\\u5e73",
+    "category": "\\u814c\\u83dc",
+    "aliases": [
+      "东北酸菜",
+      "西北酸菜"
+    ],
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN",
+      "东北",
+      "西北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "suancai",
+        "sc",
+        "dongbeisuancai",
+        "xibeisuancai"
+      ],
+      "cautionTags": [
+        "hypertension"
+      ],
+      "confidence": "东北西北腌菜扩充条目"
+    }
+  },
+  {
+    "id": "sea-buckthorn-fruit",
+    "name": "沙棘果",
+    "nature": "\\u6e29",
+    "category": "\\u6c34\\u679c",
+    "aliases": [
+      "沙棘"
+    ],
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN",
+      "西北",
+      "内蒙古"
+    ],
+    "extra": {
+      "searchTerms": [
+        "shajiguo",
+        "sjg",
+        "shaji"
+      ],
+      "confidence": "西北山货水果扩充条目"
+    }
+  },
+  {
+    "id": "seabuckthorn-juice",
+    "name": "沙棘汁",
+    "nature": "\\u6e29",
+    "category": "\\u996e\\u54c1",
+    "aliases": [
+      "沙棘饮"
+    ],
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN",
+      "西北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "shajizhi",
+        "sjz",
+        "shajiyin"
+      ],
+      "confidence": "西北地方饮品扩充条目"
+    }
+  },
+  {
+    "id": "naked-oats",
+    "name": "莜麦",
+    "nature": "\\u6e29",
+    "category": "\\u8c37\\u7269",
+    "aliases": [
+      "燕麦面",
+      "youmai"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "山西",
+      "内蒙古"
+    ],
+    "extra": {
+      "searchTerms": [
+        "youmai",
+        "ym",
+        "yanmaimian"
+      ],
+      "confidence": "华北西北主食扩充条目"
+    }
+  },
+  {
+    "id": "buckwheat-noodle",
+    "name": "荞面",
+    "nature": "\\u51c9",
+    "category": "\\u8c37\\u7269",
+    "aliases": [
+      "荞麦面"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "山西",
+      "陕西",
+      "甘肃"
+    ],
+    "extra": {
+      "searchTerms": [
+        "qiaomian",
+        "qm",
+        "qiaomaimian"
+      ],
+      "confidence": "华北西北主食扩充条目"
+    }
+  },
+  {
+    "id": "sorghum-rice",
+    "name": "高粱米",
+    "nature": "\\u6e29",
+    "category": "\\u8c37\\u7269",
+    "aliases": [
+      "红高粱"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "华北",
+      "东北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "gaoliangmi",
+        "glm",
+        "honggaoliang"
+      ],
+      "confidence": "华北东北粮食扩充条目"
+    }
+  },
+  {
+    "id": "millet-noodle",
+    "name": "糜子",
+    "nature": "\\u6e29",
+    "category": "\\u8c37\\u7269",
+    "aliases": [
+      "黄米"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "陕北",
+      "内蒙古",
+      "宁夏"
+    ],
+    "extra": {
+      "searchTerms": [
+        "mizi",
+        "mz",
+        "huangmi"
+      ],
+      "confidence": "西北粮食扩充条目"
+    }
+  },
+  {
+    "id": "daylily",
+    "name": "黄花菜",
+    "nature": "\\u5e73",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "金针菜"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "山西",
+      "陕西",
+      "湖南"
+    ],
+    "extra": {
+      "searchTerms": [
+        "huanghuacai",
+        "hhc",
+        "jinzhencai"
+      ],
+      "confidence": "华北西北常见菜扩充条目"
+    }
+  },
+  {
+    "id": "wood-ginger-oil",
+    "name": "木姜油",
+    "nature": "\\u6e29",
+    "category": "\\u8c03\\u6599",
+    "aliases": [
+      "木姜子油"
+    ],
+    "effects": [
+      "调味",
+      "增香"
+    ],
+    "regions": [
+      "CN",
+      "贵州",
+      "云南",
+      "苗族",
+      "侗族"
+    ],
+    "extra": {
+      "searchTerms": [
+        "mujiangyou",
+        "mjy",
+        "mujiangziyou",
+        "miaozu",
+        "dongzu"
+      ],
+      "confidence": "西南少数民族香料扩充条目"
+    }
+  },
+  {
+    "id": "green-sour-soup",
+    "name": "白酸汤",
+    "nature": "\\u51c9",
+    "category": "\\u8c03\\u6599",
+    "aliases": [
+      "清酸汤",
+      "米汤酸汤"
+    ],
+    "effects": [
+      "调味",
+      "开胃"
+    ],
+    "regions": [
+      "CN",
+      "贵州",
+      "苗族",
+      "侗族"
+    ],
+    "extra": {
+      "searchTerms": [
+        "baisuantang",
+        "bst",
+        "qingsuantang",
+        "mitangsuantang"
+      ],
+      "confidence": "西南少数民族酸汤扩充条目"
+    }
+  },
+  {
+    "id": "miao-dipping-water",
+    "name": "蘸水",
+    "nature": "\\u70ed",
+    "category": "\\u8c03\\u6599",
+    "aliases": [
+      "贵州蘸水",
+      "糊辣椒蘸水"
+    ],
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN",
+      "贵州",
+      "云南",
+      "苗族",
+      "彝族"
+    ],
+    "extra": {
+      "searchTerms": [
+        "zhanshui",
+        "zs",
+        "hulajiaozhanshui",
+        "miaozu",
+        "yizu"
+      ],
+      "cautionTags": [
+        "reflux",
+        "hypertension"
+      ],
+      "confidence": "西南少数民族蘸水扩充条目"
+    }
+  },
+  {
+    "id": "thorn-vine-pepper",
+    "name": "刺芫荽",
+    "nature": "\\u6e29",
+    "category": "\\u91ce\\u83dc",
+    "aliases": [
+      "大芫荽",
+      "假香菜"
+    ],
+    "effects": [
+      "增香",
+      "行气"
+    ],
+    "regions": [
+      "CN",
+      "云南",
+      "傣族",
+      "景颇族"
+    ],
+    "extra": {
+      "searchTerms": [
+        "ciyuansui",
+        "cys",
+        "dayuansui",
+        "jiaxiangcai",
+        "daizu",
+        "jingpozu"
+      ],
+      "confidence": "西南少数民族香草扩充条目"
+    }
+  },
+  {
+    "id": "water-fern",
+    "name": "水蕨菜",
+    "nature": "\\u51c9",
+    "category": "\\u91ce\\u83dc",
+    "aliases": [
+      "水蕨"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "云南",
+      "贵州",
+      "广西"
+    ],
+    "extra": {
+      "searchTerms": [
+        "shuijuecai",
+        "sjc",
+        "shuijue"
+      ],
+      "confidence": "西南山野菜扩充条目"
+    }
+  },
+  {
+    "id": "fiddlehead",
+    "name": "蕨菜尖",
+    "nature": "\\u51c9",
+    "category": "\\u91ce\\u83dc",
+    "aliases": [
+      "拳头菜"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "贵州",
+      "云南",
+      "东北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "juecaijian",
+        "jcj",
+        "quantoucai"
+      ],
+      "confidence": "山野菜扩充条目"
+    }
+  },
+  {
+    "id": "larou",
+    "name": "腊肉",
+    "nature": "\\u6e29",
+    "category": "\\u8089\\u86cb\\u5976",
+    "aliases": [
+      "熏肉",
+      "苗家腊肉",
+      "川味腊肉"
+    ],
+    "effects": [
+      "温中"
+    ],
+    "regions": [
+      "CN",
+      "四川",
+      "重庆",
+      "贵州",
+      "湖南"
+    ],
+    "extra": {
+      "searchTerms": [
+        "larou",
+        "lr",
+        "xunrou",
+        "miaojialarou",
+        "chuanweilarou"
+      ],
+      "cautionTags": [
+        "hypertension"
+      ],
+      "confidence": "西南腊味扩充条目"
+    }
+  },
+  {
+    "id": "lapork-ribs",
+    "name": "腊排骨",
+    "nature": "\\u6e29",
+    "category": "\\u8089\\u86cb\\u5976",
+    "aliases": [
+      "风干排骨"
+    ],
+    "effects": [
+      "温中"
+    ],
+    "regions": [
+      "CN",
+      "云南",
+      "纳西族"
+    ],
+    "extra": {
+      "searchTerms": [
+        "lapaigu",
+        "lpg",
+        "fengganpaigu",
+        "naxizu"
+      ],
+      "cautionTags": [
+        "hypertension"
+      ],
+      "confidence": "西南腊味扩充条目"
+    }
+  },
+  {
+    "id": "la-bean-curd",
+    "name": "腊豆腐",
+    "nature": "\\u6e29",
+    "category": "\\u8c46\\u5236\\u54c1",
+    "aliases": [
+      "烟熏豆腐"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "贵州",
+      "湖南",
+      "湖北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "ladoufu",
+        "ldf",
+        "yanxundoufu"
+      ],
+      "cautionTags": [
+        "hypertension"
+      ],
+      "confidence": "西南腊味豆制品扩充条目"
+    }
+  },
+  {
+    "id": "mesona",
+    "name": "凉粉草",
+    "nature": "\\u51c9",
+    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "aliases": [
+      "仙草",
+      "烧仙草原草"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西",
+      "客家"
+    ],
+    "extra": {
+      "officialFoodMedicine": false,
+      "searchTerms": [
+        "liangfencao",
+        "lfc",
+        "xiancao",
+        "hakka"
+      ],
+      "confidence": "粤港澳桂凉茶原料扩充条目"
+    }
+  },
+  {
+    "id": "kapok-flower",
+    "name": "木棉花",
+    "nature": "\\u51c9",
+    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "aliases": [
+      "攀枝花"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西"
+    ],
+    "extra": {
+      "officialFoodMedicine": false,
+      "searchTerms": [
+        "mumianhua",
+        "mmh",
+        "panzhihua"
+      ],
+      "confidence": "岭南凉茶药膳材料扩充条目"
+    }
+  },
+  {
+    "id": "chikung-tea-herb",
+    "name": "鸡骨草",
+    "nature": "\\u51c9",
+    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "aliases": [
+      "黄头草"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西"
+    ],
+    "extra": {
+      "officialFoodMedicine": false,
+      "searchTerms": [
+        "jigucao",
+        "jgc",
+        "huangtoucao"
+      ],
+      "confidence": "岭南凉茶药膳材料扩充条目"
+    }
+  },
+  {
+    "id": "selfheal-spike",
+    "name": "夏枯草",
+    "nature": "\\u5bd2",
+    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "aliases": [
+      "棒槌草"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西",
+      "香港"
+    ],
+    "extra": {
+      "officialFoodMedicine": false,
+      "searchTerms": [
+        "xiakucao",
+        "xkc",
+        "bangchuicao"
+      ],
+      "confidence": "粤港澳凉茶原料扩充条目"
+    }
+  },
+  {
+    "id": "patchouli",
+    "name": "藿香",
+    "nature": "\\u6e29",
+    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "aliases": [
+      "广藿香"
+    ],
+    "effects": [
+      "化湿",
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "海南"
+    ],
+    "extra": {
+      "officialFoodMedicine": false,
+      "searchTerms": [
+        "huoxiang",
+        "hx",
+        "guanghuoxiang"
+      ],
+      "confidence": "岭南药膳材料扩充条目"
+    }
+  },
+  {
+    "id": "wormgrass-flower",
+    "name": "虫草花",
+    "nature": "\\u5e73",
+    "category": "\\u83cc\\u83c7",
+    "aliases": [
+      "蛹虫草"
+    ],
+    "effects": [
+      "滋养"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "福建"
+    ],
+    "extra": {
+      "searchTerms": [
+        "chongcaohua",
+        "cch",
+        "yongchongcao"
+      ],
+      "confidence": "粤闽常用煲汤菌菇扩充条目"
+    }
+  },
+  {
+    "id": "dried-scallop",
+    "name": "瑶柱",
+    "nature": "\\u5e73",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "干贝",
+      "江珧柱"
+    ],
+    "effects": [
+      "鲜补"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "香港",
+      "福建"
+    ],
+    "extra": {
+      "searchTerms": [
+        "yaozhu",
+        "yz",
+        "ganbei",
+        "jiangyaozhu"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "粤港澳汤料海产扩充条目"
+    }
+  },
+  {
+    "id": "dried-oyster",
+    "name": "蚝豉",
+    "nature": "\\u5e73",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "蚝干"
+    ],
+    "effects": [
+      "鲜补"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "香港"
+    ],
+    "extra": {
+      "searchTerms": [
+        "haochi",
+        "hc",
+        "haogan"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "粤港澳汤料海产扩充条目"
+    }
+  },
+  {
+    "id": "water-spinach-stem",
+    "name": "通菜梗",
+    "nature": "\\u51c9",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "空心菜梗"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "香港"
+    ],
+    "extra": {
+      "searchTerms": [
+        "tongcaigeng",
+        "tcg",
+        "kongxincaigeng"
+      ],
+      "confidence": "粤菜常用蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "mustard-tuber",
+    "name": "大头菜",
+    "nature": "\\u6e29",
+    "category": "\\u814c\\u83dc",
+    "aliases": [
+      "榨菜头",
+      "客家大头菜"
+    ],
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "四川",
+      "客家"
+    ],
+    "extra": {
+      "searchTerms": [
+        "datoucai",
+        "dtc",
+        "zhacaitou",
+        "hakka"
+      ],
+      "cautionTags": [
+        "hypertension"
+      ],
+      "confidence": "两广客家腌菜扩充条目"
+    }
+  },
+  {
+    "id": "taro-stem",
+    "name": "芋荷梗",
+    "nature": "\\u51c9",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "芋梗"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西",
+      "福建"
+    ],
+    "extra": {
+      "searchTerms": [
+        "yuhegeng",
+        "yhg",
+        "yugeng"
+      ],
+      "confidence": "两广闽菜常用蔬菜扩充条目"
+    }
+  },
+  {
+    "id": "eel",
+    "name": "鳝鱼",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "黄鳝"
+    ],
+    "effects": [
+      "滋养"
+    ],
+    "regions": [
+      "CN",
+      "江浙沪",
+      "湖北",
+      "福建"
+    ],
+    "extra": {
+      "searchTerms": [
+        "shanyu",
+        "sy",
+        "huangshan"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "江南河鲜扩充条目"
+    }
+  },
+  {
+    "id": "river-eel",
+    "name": "鳗鱼",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "白鳝",
+      "河鳗"
+    ],
+    "effects": [
+      "滋养"
+    ],
+    "regions": [
+      "CN",
+      "福建",
+      "浙江",
+      "上海"
+    ],
+    "extra": {
+      "searchTerms": [
+        "manyu",
+        "my",
+        "baishan",
+        "heman"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "闽浙河海鲜扩充条目"
+    }
+  },
+  {
+    "id": "pomfret",
+    "name": "鲳鱼",
+    "nature": "\\u5e73",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "平鱼",
+      "银鲳"
+    ],
+    "effects": [
+      "鲜补"
+    ],
+    "regions": [
+      "CN",
+      "浙江",
+      "福建",
+      "上海"
+    ],
+    "extra": {
+      "searchTerms": [
+        "changyu",
+        "cy",
+        "pingyu",
+        "yinchang"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "沿海高频海产扩充条目"
+    }
+  },
+  {
+    "id": "hairtail",
+    "name": "带鱼",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "刀鱼带鱼类俗称"
+    ],
+    "effects": [
+      "鲜补"
+    ],
+    "regions": [
+      "CN",
+      "浙江",
+      "福建",
+      "山东"
+    ],
+    "extra": {
+      "searchTerms": [
+        "daiyu",
+        "dy",
+        "hairtail"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "沿海高频海产扩充条目"
+    }
+  },
+  {
+    "id": "seaweed-greens",
+    "name": "海白菜",
+    "nature": "\\u51c9",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "石莼"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "福建",
+      "浙江"
+    ],
+    "extra": {
+      "searchTerms": [
+        "haibaicai",
+        "hbc",
+        "shichun"
+      ],
+      "confidence": "沿海海藻扩充条目"
+    }
+  },
+  {
+    "id": "laver",
+    "name": "紫菜",
+    "nature": "\\u51c9",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "坛紫菜",
+      "条斑紫菜"
+    ],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN",
+      "福建",
+      "浙江",
+      "江苏"
+    ],
+    "extra": {
+      "searchTerms": [
+        "zicai",
+        "zc",
+        "tanzicai",
+        "tiaobanzicai"
+      ],
+      "confidence": "沿海海藻扩充条目"
+    }
+  },
+  {
+    "id": "fennel-shoot",
+    "name": "茴香苗",
+    "nature": "\\u6e29",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "小茴香苗"
+    ],
+    "effects": [
+      "行气"
+    ],
+    "regions": [
+      "CN",
+      "江浙沪",
+      "华北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "huixiangmiao",
+        "hxm",
+        "xiaohuixiangmiao"
+      ],
+      "confidence": "江南与华北时蔬扩充条目"
+    }
+  },
+  {
+    "id": "wild-rice-stem",
+    "name": "茨菇",
+    "nature": "\\u51c9",
+    "category": "\\u852c\\u83dc",
+    "aliases": [
+      "慈姑"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "江浙沪",
+      "福建"
+    ],
+    "extra": {
+      "searchTerms": [
+        "cigu",
+        "cg",
+        "cigu-alt"
+      ],
+      "confidence": "江南时蔬扩充条目"
+    }
+  },
+  {
+    "id": "bergamot-fruit",
+    "name": "香橼",
+    "nature": "\\u6e29",
+    "category": "\\u6c34\\u679c",
+    "aliases": [
+      "香圆"
+    ],
+    "effects": [
+      "行气"
+    ],
+    "regions": [
+      "CN",
+      "浙江",
+      "江苏"
+    ],
+    "extra": {
+      "searchTerms": [
+        "xiangyuan",
+        "xy",
+        "xiangyuan-fruit"
+      ],
+      "confidence": "江南地方果材扩充条目"
+    }
+  },
+  {
+    "id": "fermented-rice-wine",
+    "name": "酒酿",
+    "nature": "\\u6e29",
+    "category": "\\u53d1\\u9175\\u98df\\u54c1",
+    "aliases": [
+      "醪糟",
+      "甜酒酿"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "江浙沪",
+      "福建",
+      "四川"
+    ],
+    "extra": {
+      "searchTerms": [
+        "jiuniang",
+        "jn",
+        "laozao",
+        "tianjiuniang"
+      ],
+      "confidence": "酿造发酵食品扩充条目"
+    }
+  },
+  {
+    "id": "muscovy-duck",
+    "name": "番鸭",
+    "nature": "\\u6e29",
+    "category": "\\u8089\\u86cb\\u5976",
+    "aliases": [
+      "麝香鸭"
+    ],
+    "effects": [
+      "补益"
+    ],
+    "regions": [
+      "CN",
+      "福建",
+      "台湾",
+      "广东"
+    ],
+    "extra": {
+      "searchTerms": [
+        "fanya",
+        "fy",
+        "shexiangya"
+      ],
+      "confidence": "闽台粤禽类扩充条目"
+    }
+  },
+  {
+    "id": "yam-leaf",
+    "name": "山药豆",
+    "nature": "\\u5e73",
+    "category": "\\u85af\\u7c7b",
+    "aliases": [
+      "零余子"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "华北",
+      "河南",
+      "山西"
+    ],
+    "extra": {
+      "searchTerms": [
+        "shanyaodou",
+        "syd",
+        "lingyuzi"
+      ],
+      "confidence": "华北地方主食植物扩充条目"
+    }
+  },
+  {
+    "id": "cattail-pollen",
+    "name": "蒲黄",
+    "nature": "\\u6e29",
+    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "aliases": [
+      "香蒲黄粉"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "华北",
+      "西北"
+    ],
+    "extra": {
+      "officialFoodMedicine": false,
+      "searchTerms": [
+        "puhuang",
+        "ph",
+        "xiangpuhuangfen"
+      ],
+      "confidence": "华北西北植物药材检索扩充条目"
+    }
+  },
+  {
+    "id": "lily-root",
+    "name": "百合根",
+    "nature": "\\u5e73",
+    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "aliases": [
+      "食用百合"
+    ],
+    "effects": [
+      "清润"
+    ],
+    "regions": [
+      "CN",
+      "甘肃",
+      "宁夏"
+    ],
+    "extra": {
+      "officialFoodMedicine": false,
+      "searchTerms": [
+        "baihegen",
+        "bhg",
+        "shiyongbaihe"
+      ],
+      "confidence": "西北地方植物食材扩充条目"
+    }
+  },
+  {
+    "id": "sea-buckthorn-leaf",
+    "name": "沙棘叶",
+    "nature": "\\u6e29",
+    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "aliases": [
+      "沙棘嫩叶"
+    ],
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN",
+      "西北"
+    ],
+    "extra": {
+      "officialFoodMedicine": false,
+      "searchTerms": [
+        "shajiye",
+        "sjy",
+        "shajinenye"
+      ],
+      "confidence": "西北地方植物扩充条目"
+    }
+  },
+  {
+    "id": "wild-onion",
+    "name": "沙葱",
+    "nature": "\\u6e29",
+    "category": "\\u91ce\\u83dc",
+    "aliases": [
+      "蒙古韭"
+    ],
+    "effects": [
+      "增香",
+      "行气"
+    ],
+    "regions": [
+      "CN",
+      "内蒙古",
+      "宁夏",
+      "回族"
+    ],
+    "extra": {
+      "searchTerms": [
+        "shacong",
+        "sc",
+        "menggujiu",
+        "huizu"
+      ],
+      "confidence": "西北少数民族野菜扩充条目"
+    }
+  },
+  {
+    "id": "yellow-millet",
+    "name": "黄米",
+    "nature": "\\u6e29",
+    "category": "\\u8c37\\u7269",
+    "aliases": [
+      "黍米"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "华北",
+      "东北",
+      "陕北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "huangmi",
+        "hm",
+        "shumi"
+      ],
+      "confidence": "华北东北粮食扩充条目"
+    }
+  },
+  {
+    "id": "millet-paste",
+    "name": "炒米",
+    "nature": "\\u6e29",
+    "category": "\\u8c37\\u7269",
+    "aliases": [
+      "内蒙古炒米",
+      "蒙古炒米"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "内蒙古",
+      "蒙古族"
+    ],
+    "extra": {
+      "searchTerms": [
+        "chaomi",
+        "cm",
+        "mengguchaomi",
+        "mengguzu"
+      ],
+      "confidence": "北方民族粮食扩充条目"
+    }
+  },
+  {
+    "id": "blood-sausage",
+    "name": "血肠",
+    "nature": "\\u6e29",
+    "category": "\\u8089\\u86cb\\u5976",
+    "aliases": [
+      "东北血肠"
+    ],
+    "effects": [
+      "补益"
+    ],
+    "regions": [
+      "CN",
+      "东北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "xuechang",
+        "xc",
+        "dongbeixuechang"
+      ],
+      "cautionTags": [
+        "hypertension"
+      ],
+      "confidence": "东北地方肉类扩充条目"
+    }
+  },
+  {
+    "id": "venison",
+    "name": "鹿肉",
+    "nature": "\\u6e29",
+    "category": "\\u8089\\u86cb\\u5976",
+    "aliases": [
+      "梅花鹿肉"
+    ],
+    "effects": [
+      "温补"
+    ],
+    "regions": [
+      "CN",
+      "东北",
+      "满族"
+    ],
+    "extra": {
+      "searchTerms": [
+        "lurou",
+        "lr",
+        "meihualurou",
+        "manzu"
+      ],
+      "confidence": "东北地方肉类扩充条目"
+    }
+  },
+  {
+    "id": "hazelnut",
+    "name": "榛子",
+    "nature": "\\u6e29",
+    "category": "\\u575a\\u679c\\u79cd\\u5b50",
+    "aliases": [
+      "平榛"
+    ],
+    "effects": [
+      "滋养"
+    ],
+    "regions": [
+      "CN",
+      "东北",
+      "华北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "zhenzi",
+        "zz",
+        "pingzhen"
+      ],
+      "confidence": "东北山货坚果扩充条目"
+    }
+  },
+  {
+    "id": "goblet-mushroom",
+    "name": "猴头蘑",
+    "nature": "\\u5e73",
+    "category": "\\u83cc\\u83c7",
+    "aliases": [
+      "猴头菇北方山货"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "东北",
+      "华北"
+    ],
+    "extra": {
+      "searchTerms": [
+        "houtoumo",
+        "htm"
+      ],
+      "confidence": "东北山货菌菇扩充条目"
+    }
+  },
+  {
+    "id": "fern-root-starch",
+    "name": "厥麻",
+    "nature": "\\u5e73",
+    "category": "\\u85af\\u7c7b",
+    "aliases": [
+      "人参果芋",
+      "蕨麻米"
+    ],
+    "effects": [
+      "和中"
+    ],
+    "regions": [
+      "CN",
+      "青海",
+      "甘肃",
+      "藏族"
+    ],
+    "extra": {
+      "searchTerms": [
+        "juema",
+        "jm",
+        "juemami",
+        "zangzu"
+      ],
+      "confidence": "西北民族主食植物扩充条目"
+    }
+  },
+  {
+    "id": "goat-milk",
+    "name": "羊奶",
+    "nature": "\\u6e29",
+    "category": "\\u996e\\u54c1",
+    "aliases": [
+      "山羊奶"
+    ],
+    "effects": [
+      "滋养"
+    ],
+    "regions": [
+      "CN",
+      "西北",
+      "宁夏",
+      "陕西"
+    ],
+    "extra": {
+      "searchTerms": [
+        "yangnai",
+        "yn",
+        "shanyangnai"
+      ],
+      "confidence": "西北地方饮品扩充条目"
+    }
+  }
+]

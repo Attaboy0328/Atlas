@@ -1,0 +1,803 @@
+[
+  {
+    "id": "official-ginseng",
+    "name": "人参",
+    "nature": "温",
+    "effects": [
+      "补气",
+      "扶正"
+    ]
+  },
+  {
+    "id": "official-american-ginseng",
+    "name": "西洋参",
+    "nature": "凉",
+    "effects": [
+      "益气",
+      "生津"
+    ]
+  },
+  {
+    "id": "official-licorice",
+    "name": "甘草",
+    "nature": "平",
+    "effects": [
+      "和中",
+      "调和"
+    ]
+  },
+  {
+    "id": "official-dried-ginger",
+    "name": "干姜",
+    "nature": "热",
+    "effects": [
+      "温中",
+      "散寒"
+    ]
+  },
+  {
+    "id": "official-cinnamon",
+    "name": "肉桂",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ]
+  },
+  {
+    "id": "official-fennel",
+    "name": "小茴香",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "理气"
+    ]
+  },
+  {
+    "id": "official-cardamom",
+    "name": "白豆蔻",
+    "nature": "温",
+    "effects": [
+      "化湿",
+      "行气"
+    ]
+  },
+  {
+    "id": "official-amomum",
+    "name": "砂仁",
+    "nature": "温",
+    "effects": [
+      "行气",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-clove",
+    "name": "丁香",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "降逆"
+    ]
+  },
+  {
+    "id": "official-nutmeg",
+    "name": "肉豆蔻",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "涩肠"
+    ]
+  },
+  {
+    "id": "official-gardenia",
+    "name": "栀子",
+    "nature": "寒",
+    "effects": [
+      "清利",
+      "除烦"
+    ]
+  },
+  {
+    "id": "official-cassia-seed",
+    "name": "决明子",
+    "nature": "凉",
+    "effects": [
+      "清利",
+      "润肠"
+    ]
+  },
+  {
+    "id": "official-honeysuckle",
+    "name": "金银花",
+    "nature": "寒",
+    "effects": [
+      "清利",
+      "解暑"
+    ]
+  },
+  {
+    "id": "official-dandelion",
+    "name": "蒲公英",
+    "nature": "寒",
+    "effects": [
+      "清利",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-houttuynia",
+    "name": "鱼腥草",
+    "nature": "寒",
+    "effects": [
+      "清利",
+      "生津"
+    ]
+  },
+  {
+    "id": "official-reed-rhizome",
+    "name": "芦根",
+    "nature": "寒",
+    "effects": [
+      "生津",
+      "清利"
+    ]
+  },
+  {
+    "id": "official-lotus-leaf",
+    "name": "荷叶",
+    "nature": "平",
+    "effects": [
+      "和中",
+      "清暑"
+    ]
+  },
+  {
+    "id": "official-mulberry-leaf",
+    "name": "桑叶",
+    "nature": "凉",
+    "effects": [
+      "清利",
+      "润燥"
+    ]
+  },
+  {
+    "id": "official-perilla-leaf",
+    "name": "紫苏叶",
+    "nature": "温",
+    "effects": [
+      "解表",
+      "行气"
+    ]
+  },
+  {
+    "id": "official-perilla-seed",
+    "name": "紫苏子",
+    "nature": "温",
+    "effects": [
+      "降气",
+      "润肠"
+    ]
+  },
+  {
+    "id": "official-plum",
+    "name": "乌梅",
+    "nature": "平",
+    "effects": [
+      "生津",
+      "敛藏"
+    ]
+  },
+  {
+    "id": "official-sea-buckthorn",
+    "name": "沙棘",
+    "nature": "温",
+    "effects": [
+      "生津",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-goji-berry",
+    "name": "枸杞子",
+    "nature": "平",
+    "effects": [
+      "滋补",
+      "养阴"
+    ]
+  },
+  {
+    "id": "official-morinda",
+    "name": "巴戟天",
+    "nature": "温",
+    "effects": [
+      "温补",
+      "强筋"
+    ]
+  },
+  {
+    "id": "official-euryale",
+    "name": "芡实",
+    "nature": "平",
+    "effects": [
+      "补脾",
+      "固摄"
+    ]
+  },
+  {
+    "id": "official-polygoni-odorati",
+    "name": "玉竹",
+    "nature": "平",
+    "effects": [
+      "养阴",
+      "润燥"
+    ]
+  },
+  {
+    "id": "official-dendrobium",
+    "name": "石斛",
+    "nature": "凉",
+    "effects": [
+      "养阴",
+      "生津"
+    ]
+  },
+  {
+    "id": "official-olive",
+    "name": "橄榄",
+    "nature": "平",
+    "effects": [
+      "生津",
+      "利咽"
+    ]
+  },
+  {
+    "id": "official-sour-jujube-seed",
+    "name": "酸枣仁",
+    "nature": "平",
+    "effects": [
+      "养心",
+      "安神"
+    ]
+  },
+  {
+    "id": "official-broomcorn",
+    "name": "高良姜",
+    "nature": "热",
+    "effects": [
+      "温中",
+      "散寒"
+    ]
+  },
+  {
+    "id": "official-cyperus",
+    "name": "香附",
+    "nature": "平",
+    "effects": [
+      "理气",
+      "解郁"
+    ]
+  },
+  {
+    "id": "official-angelica",
+    "name": "当归",
+    "nature": "温",
+    "effects": [
+      "养血",
+      "活络"
+    ]
+  },
+  {
+    "id": "official-longan-pulp",
+    "name": "桂圆肉",
+    "nature": "温",
+    "effects": [
+      "养血",
+      "安神"
+    ]
+  },
+  {
+    "id": "official-safflower",
+    "name": "红花",
+    "nature": "温",
+    "effects": [
+      "活络",
+      "行散"
+    ]
+  },
+  {
+    "id": "official-peach-kernel",
+    "name": "桃仁",
+    "nature": "平",
+    "effects": [
+      "润肠",
+      "活络"
+    ]
+  },
+  {
+    "id": "official-black-sesame",
+    "name": "黑芝麻",
+    "nature": "平",
+    "effects": [
+      "滋补",
+      "润燥"
+    ]
+  },
+  {
+    "id": "official-walnut",
+    "name": "核桃仁",
+    "nature": "温",
+    "effects": [
+      "温补",
+      "润肠"
+    ]
+  },
+  {
+    "id": "official-almond",
+    "name": "杏仁",
+    "nature": "温",
+    "effects": [
+      "降气",
+      "润燥"
+    ]
+  },
+  {
+    "id": "official-pine-nut",
+    "name": "松子仁",
+    "nature": "温",
+    "effects": [
+      "润燥",
+      "滋养"
+    ]
+  },
+  {
+    "id": "official-bitter-almond",
+    "name": "苦杏仁",
+    "nature": "温",
+    "effects": [
+      "降气",
+      "润燥"
+    ]
+  },
+  {
+    "id": "official-chinese-olive",
+    "name": "青果",
+    "nature": "平",
+    "effects": [
+      "利咽",
+      "生津"
+    ]
+  },
+  {
+    "id": "official-bamboo-leaf",
+    "name": "淡竹叶",
+    "nature": "寒",
+    "effects": [
+      "清利",
+      "除烦"
+    ]
+  },
+  {
+    "id": "official-cordia-fruit",
+    "name": "胖大海",
+    "nature": "凉",
+    "effects": [
+      "利咽",
+      "润燥"
+    ]
+  },
+  {
+    "id": "official-lotus-heart",
+    "name": "莲子心",
+    "nature": "寒",
+    "effects": [
+      "清利",
+      "安神"
+    ]
+  },
+  {
+    "id": "official-gingko",
+    "name": "银杏",
+    "nature": "平",
+    "effects": [
+      "敛肺",
+      "益气"
+    ]
+  },
+  {
+    "id": "official-turmeric",
+    "name": "姜黄",
+    "nature": "温",
+    "effects": [
+      "行气",
+      "活络"
+    ]
+  },
+  {
+    "id": "official-galanga",
+    "name": "良姜",
+    "nature": "热",
+    "effects": [
+      "温中",
+      "散寒"
+    ]
+  },
+  {
+    "id": "official-tsaoko",
+    "name": "草果",
+    "nature": "温",
+    "effects": [
+      "燥湿",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-kaempferia",
+    "name": "山奈",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "调香"
+    ]
+  },
+  {
+    "id": "official-lemongrass",
+    "name": "香茅",
+    "nature": "温",
+    "effects": [
+      "行气",
+      "醒脾"
+    ]
+  },
+  {
+    "id": "official-citron",
+    "name": "香橼",
+    "nature": "温",
+    "effects": [
+      "理气",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-medlar-leaf",
+    "name": "枸杞叶",
+    "nature": "平",
+    "effects": [
+      "清补",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-mulberry",
+    "name": "桑葚",
+    "nature": "寒",
+    "effects": [
+      "养阴",
+      "生津"
+    ]
+  },
+  {
+    "id": "official-fig",
+    "name": "无花果",
+    "nature": "平",
+    "effects": [
+      "润燥",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-date",
+    "name": "大枣",
+    "nature": "温",
+    "effects": [
+      "补中",
+      "养血"
+    ]
+  },
+  {
+    "id": "official-dragon-eye",
+    "name": "龙眼肉",
+    "nature": "温",
+    "effects": [
+      "养心",
+      "补血"
+    ]
+  },
+  {
+    "id": "official-chive-seed",
+    "name": "韭菜子",
+    "nature": "温",
+    "effects": [
+      "温补",
+      "助阳"
+    ]
+  },
+  {
+    "id": "official-quince",
+    "name": "木瓜",
+    "nature": "温",
+    "effects": [
+      "和胃",
+      "舒展"
+    ]
+  },
+  {
+    "id": "official-ophiopogon",
+    "name": "麦冬",
+    "nature": "凉",
+    "effects": [
+      "养阴",
+      "生津"
+    ]
+  },
+  {
+    "id": "official-raspberry",
+    "name": "覆盆子",
+    "nature": "温",
+    "effects": [
+      "固摄",
+      "补养"
+    ]
+  },
+  {
+    "id": "official-rehmannia",
+    "name": "生地黄",
+    "nature": "寒",
+    "effects": [
+      "养阴",
+      "生津"
+    ]
+  },
+  {
+    "id": "official-solomon-seal",
+    "name": "黄精",
+    "nature": "平",
+    "effects": [
+      "滋补",
+      "养阴"
+    ]
+  },
+  {
+    "id": "official-white-peony",
+    "name": "白芍",
+    "nature": "凉",
+    "effects": [
+      "养阴",
+      "和营"
+    ]
+  },
+  {
+    "id": "official-imperata-root",
+    "name": "白茅根",
+    "nature": "寒",
+    "effects": [
+      "清利",
+      "生津"
+    ]
+  },
+  {
+    "id": "official-bupleurum-tip",
+    "name": "柴胡苗",
+    "nature": "平",
+    "effects": [
+      "舒展",
+      "理气"
+    ]
+  },
+  {
+    "id": "official-rose",
+    "name": "玫瑰花",
+    "nature": "温",
+    "effects": [
+      "理气",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-jasmine",
+    "name": "茉莉花",
+    "nature": "温",
+    "effects": [
+      "理气",
+      "调香"
+    ]
+  },
+  {
+    "id": "official-osmanthus",
+    "name": "桂花",
+    "nature": "温",
+    "effects": [
+      "调香",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-kudzu",
+    "name": "葛根",
+    "nature": "凉",
+    "effects": [
+      "生津",
+      "舒展"
+    ]
+  },
+  {
+    "id": "official-kudzu-flower",
+    "name": "葛花",
+    "nature": "平",
+    "effects": [
+      "和中",
+      "醒脾"
+    ]
+  },
+  {
+    "id": "official-tangerine-white",
+    "name": "橘络",
+    "nature": "平",
+    "effects": [
+      "和络",
+      "理气"
+    ]
+  },
+  {
+    "id": "official-tangerine-kernel",
+    "name": "橘核",
+    "nature": "温",
+    "effects": [
+      "理气",
+      "散结"
+    ]
+  },
+  {
+    "id": "official-orange-blossom",
+    "name": "橙花",
+    "nature": "平",
+    "effects": [
+      "理气",
+      "调香"
+    ]
+  },
+  {
+    "id": "official-burdock-seed",
+    "name": "牛蒡子",
+    "nature": "凉",
+    "effects": [
+      "疏利",
+      "清爽"
+    ]
+  },
+  {
+    "id": "official-sweet-osmanthus",
+    "name": "甜桂花",
+    "nature": "温",
+    "effects": [
+      "调香",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-basil-seed",
+    "name": "罗勒子",
+    "nature": "平",
+    "effects": [
+      "和中",
+      "调香"
+    ]
+  },
+  {
+    "id": "official-fragrant-leaf",
+    "name": "香叶",
+    "nature": "温",
+    "effects": [
+      "调香",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-lotus-plum",
+    "name": "梅子",
+    "nature": "平",
+    "effects": [
+      "生津",
+      "开胃"
+    ]
+  },
+  {
+    "id": "official-sand-ginger",
+    "name": "沙姜",
+    "nature": "温",
+    "effects": [
+      "行气",
+      "温中"
+    ]
+  },
+  {
+    "id": "official-bellflower",
+    "name": "桔梗",
+    "nature": "平",
+    "effects": [
+      "宣利",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-caper-spurge",
+    "name": "霸王花",
+    "nature": "凉",
+    "effects": [
+      "清润",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-red-bean",
+    "name": "赤小豆",
+    "nature": "平",
+    "effects": [
+      "利水",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-foxnut",
+    "name": "鸡头米",
+    "nature": "平",
+    "effects": [
+      "补脾",
+      "固摄"
+    ]
+  },
+  {
+    "id": "official-pear-dry",
+    "name": "雪梨干",
+    "nature": "凉",
+    "effects": [
+      "生津",
+      "润燥"
+    ]
+  },
+  {
+    "id": "official-loquat-leaf",
+    "name": "枇杷叶",
+    "nature": "平",
+    "effects": [
+      "和胃",
+      "润燥"
+    ]
+  },
+  {
+    "id": "official-perilla-stem",
+    "name": "苏梗",
+    "nature": "温",
+    "effects": [
+      "理气",
+      "和中"
+    ]
+  },
+  {
+    "id": "official-fermented-rice",
+    "name": "醪糟",
+    "nature": "温",
+    "effects": [
+      "和中",
+      "调味"
+    ]
+  },
+  {
+    "id": "official-chinese-barley",
+    "name": "大麦",
+    "nature": "凉",
+    "effects": [
+      "和中",
+      "助运"
+    ]
+  },
+  {
+    "id": "official-snow-lotus-fruit",
+    "name": "皂角米",
+    "nature": "平",
+    "effects": [
+      "润养",
+      "和中"
+    ]
+  }
+]

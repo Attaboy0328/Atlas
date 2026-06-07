@@ -19,14 +19,21 @@ function loadIds() {
   const expanded = fs.readFileSync(path.join(root, "foods-expanded.js"), "utf8");
   collectIdsFromSource(expanded).forEach((id) => ids.add(id));
   let m;
-  for (const file of ["pairing-aliases.json", "regional-foods.json", "expansion-batch4.json"]) {
+  for (const file of ["foods-pairing-supplement.json", "regional-foods.json", "expansion-batch4.json"]) {
     const p = path.join(root, "data/cn", file);
     if (fs.existsSync(p)) readJson(p).forEach((f) => ids.add(f.id));
   }
-  for (const file of ["herbs-core.json", "herbs-phase2.json", "herbs-phase3.json", "herbs-phase4.json", "herbs-phase5.json"]) {
-    const p = path.join(root, "data/tcm", file);
+  const herbSources = [
+    path.join(root, "data/tcm", "herbs-chp2025.json"),
+    path.join(root, "data/_archive/tcm", "herbs-core.json"),
+    path.join(root, "data/_archive/tcm", "herbs-phase2.json"),
+    path.join(root, "data/_archive/tcm", "herbs-phase3.json"),
+    path.join(root, "data/_archive/tcm", "herbs-phase4.json"),
+    path.join(root, "data/_archive/tcm", "herbs-phase5.json")
+  ];
+  herbSources.forEach((p) => {
     if (fs.existsSync(p)) readJson(p).forEach((h) => ids.add(h.id));
-  }
+  });
   const app = fs.readFileSync(path.join(root, "app.js"), "utf8");
   const rm = app.match(/const RUNTIME_FOOD_EXPANSION = \[([\s\S]*?)\n\];/);
   if (rm) {

@@ -15,4 +15,5 @@ jobs:
         with:
           node-version: "20"
       - run: npm run build:data
-      - run: npm run validate-data
+      - run: npm test
+      - run: npm run build

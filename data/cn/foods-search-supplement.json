@@ -1,0 +1,614 @@
+[
+  {
+    "id": "cistanche-roucongrong",
+    "name": "肉苁蓉",
+    "nature": "\\u6e29",
+    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "aliases": [
+      "苁蓉",
+      "大芸",
+      "甜苁蓉",
+      "cistanche"
+    ],
+    "effects": [
+      "补肾",
+      "润肠"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "confidence": "长尾药食材检索补全条目；目录身份需按最新版清单逐项核验",
+      "searchTerms": [
+        "roucongrong",
+        "rcr",
+        "内蒙古苁蓉",
+        "新疆大芸"
+      ],
+      "cautionTags": [
+        "medication"
+      ],
+      "summary": "肉苁蓉多见于补肾、润肠类传统食养语境，不宜当作普通调味料长期随意叠加。"
+    }
+  },
+  {
+    "id": "dendrobium-tiepi",
+    "name": "铁皮石斛",
+    "nature": "\\u51c9",
+    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "aliases": [
+      "铁皮枫斗",
+      "枫斗",
+      "霍山石斛",
+      "石斛",
+      "dendrobium"
+    ],
+    "effects": [
+      "养阴",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "confidence": "石斛类细分可检索条目；不重复计入106项目录总数",
+      "searchTerms": [
+        "tiepishihu",
+        "tpsh",
+        "霍斗",
+        "浙石斛"
+      ],
+      "cautionTags": [
+        "medication"
+      ],
+      "summary": "铁皮石斛是石斛类中常见的细分称呼，传统上多放在养阴、生津、清润的食养框架里。"
+    }
+  },
+  {
+    "id": "baizhu",
+    "name": "白术",
+    "nature": "\\u6e29",
+    "category": "\\u98df\\u836f\\u7269\\u8d28",
+    "aliases": [
+      "於术",
+      "冬术",
+      "浙术",
+      "atractylodes"
+    ],
+    "effects": [
+      "健脾",
+      "燥湿"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "confidence": "中药材检索补全条目；日常食用边界需谨慎",
+      "searchTerms": [
+        "baizhu",
+        "bz",
+        "浙江白术"
+      ],
+      "cautionTags": [
+        "medication"
+      ],
+      "summary": "白术多见于健脾、燥湿类方药语境，作为食养信息仅作辨识与搭配提醒，不建议自行长期食用。"
+    }
+  },
+  {
+    "id": "crab",
+    "name": "螃蟹",
+    "nature": "\\u5bd2",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "蟹",
+      "河蟹",
+      "大闸蟹",
+      "毛蟹",
+      "crab"
+    ],
+    "effects": [
+      "清鲜",
+      "高蛋白"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "pangxie",
+        "px",
+        "湖蟹",
+        "清水蟹"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "常见海鲜与水产条目"
+    }
+  },
+  {
+    "id": "shrimp",
+    "name": "虾",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "鲜虾",
+      "海虾",
+      "河虾",
+      "shrimp",
+      "prawn"
+    ],
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "xia",
+        "x",
+        "虾仁"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "常见海鲜与水产条目"
+    }
+  },
+  {
+    "id": "lobster",
+    "name": "龙虾",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "大龙虾",
+      "澳龙",
+      "波龙",
+      "lobster"
+    ],
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN",
+      "US"
+    ],
+    "extra": {
+      "searchTerms": [
+        "longxia",
+        "lx",
+        "澳洲龙虾",
+        "波士顿龙虾"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "常见海鲜与水产条目"
+    }
+  },
+  {
+    "id": "black-tiger-shrimp",
+    "name": "黑虎虾",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "草虾",
+      "斑节虾",
+      "black tiger shrimp"
+    ],
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN",
+      "TH"
+    ],
+    "extra": {
+      "searchTerms": [
+        "heihuxia",
+        "hhx",
+        "虎虾"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "常见虾类细分条目"
+    }
+  },
+  {
+    "id": "whiteleg-shrimp",
+    "name": "南美白对虾",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "白虾",
+      "凡纳滨对虾",
+      "whiteleg shrimp"
+    ],
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN",
+      "US"
+    ],
+    "extra": {
+      "searchTerms": [
+        "nanmeibaiduixia",
+        "nmbdx",
+        "南美白虾"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "常见虾类细分条目"
+    }
+  },
+  {
+    "id": "kuruma-prawn",
+    "name": "竹节虾",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "竹节对虾",
+      "九节虾",
+      "kuruma prawn"
+    ],
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN",
+      "JP"
+    ],
+    "extra": {
+      "searchTerms": [
+        "zhujiexia",
+        "zjx",
+        "花虾"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "常见虾类细分条目"
+    }
+  },
+  {
+    "id": "ming-prawn",
+    "name": "明虾",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "对虾",
+      "大明虾",
+      "prawn"
+    ],
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "mingxia",
+        "mx",
+        "海捕明虾"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "常见虾类细分条目"
+    }
+  },
+  {
+    "id": "argentine-red-shrimp",
+    "name": "阿根廷红虾",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "红虾",
+      "阿根廷甜虾",
+      "argentine red shrimp"
+    ],
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "agentinghongxia",
+        "agthx",
+        "船冻红虾"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "常见进口虾类条目"
+    }
+  },
+  {
+    "id": "greasyback-shrimp",
+    "name": "基围虾",
+    "nature": "\\u6e29",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "基围",
+      "沙虾",
+      "greasyback shrimp"
+    ],
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "jiweixia",
+        "jwx",
+        "广东基围虾"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "常见虾类细分条目"
+    }
+  },
+  {
+    "id": "fish-generic",
+    "name": "鱼",
+    "nature": "\\u5e73",
+    "category": "\\u6d77\\u4ea7",
+    "aliases": [
+      "鲜鱼",
+      "鱼肉",
+      "淡水鱼",
+      "海鱼",
+      "fish"
+    ],
+    "effects": [
+      "高蛋白"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "yu",
+        "y"
+      ],
+      "cautionTags": [
+        "allergy"
+      ],
+      "confidence": "常见水产总类条目"
+    }
+  },
+  {
+    "id": "pandan-leaf",
+    "name": "斑斓叶",
+    "nature": "\\u5e73",
+    "category": "\\u8c03\\u6599",
+    "aliases": [
+      "班兰叶",
+      "香兰叶",
+      "香茅兰",
+      "pandan",
+      "pandan leaf"
+    ],
+    "effects": [
+      "芳香",
+      "调味"
+    ],
+    "regions": [
+      "SG",
+      "MY",
+      "TH"
+    ],
+    "extra": {
+      "searchTerms": [
+        "banlanye",
+        "bly",
+        "新加坡班兰",
+        "马来香兰叶"
+      ],
+      "confidence": "东南亚常见香草调味条目"
+    }
+  },
+  {
+    "id": "peach",
+    "name": "桃",
+    "nature": "\\u6e29",
+    "category": "\\u6c34\\u679c",
+    "aliases": [
+      "桃子",
+      "水蜜桃",
+      "毛桃",
+      "peach"
+    ],
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "tao",
+        "t",
+        "奉化水蜜桃",
+        "阳山水蜜桃"
+      ],
+      "confidence": "常见水果条目"
+    }
+  },
+  {
+    "id": "durian",
+    "name": "榴莲",
+    "nature": "\\u70ed",
+    "category": "\\u6c34\\u679c",
+    "aliases": [
+      "榴梿",
+      "金枕榴莲",
+      "猫山王",
+      "durian"
+    ],
+    "effects": [
+      "温补"
+    ],
+    "regions": [
+      "TH",
+      "MY"
+    ],
+    "extra": {
+      "searchTerms": [
+        "liulian",
+        "ll",
+        "泰国金枕",
+        "马来猫山王"
+      ],
+      "confidence": "东南亚常见水果条目",
+      "cautionTags": [
+        "reflux"
+      ]
+    }
+  },
+  {
+    "id": "rice-mi",
+    "name": "米",
+    "nature": "\\u5e73",
+    "category": "\\u8c37\\u7269",
+    "aliases": [
+      "大米",
+      "粳米",
+      "籼米",
+      "rice"
+    ],
+    "effects": [
+      "主食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "mi",
+        "m",
+        "柴米油盐酱醋茶"
+      ],
+      "confidence": "柴米油盐酱醋茶基础条目"
+    }
+  },
+  {
+    "id": "cooking-oil",
+    "name": "油",
+    "nature": "\\u5e73",
+    "category": "\\u8c03\\u6599",
+    "aliases": [
+      "食用油",
+      "菜籽油",
+      "花生油",
+      "芝麻油",
+      "cooking oil"
+    ],
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "you",
+        "y",
+        "柴米油盐酱醋茶"
+      ],
+      "confidence": "柴米油盐酱醋茶基础条目"
+    }
+  },
+  {
+    "id": "salt",
+    "name": "盐",
+    "nature": "\\u5e73",
+    "category": "\\u8c03\\u6599",
+    "aliases": [
+      "食盐",
+      "海盐",
+      "井盐",
+      "salt"
+    ],
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "yan",
+        "y",
+        "柴米油盐酱醋茶"
+      ],
+      "confidence": "柴米油盐酱醋茶基础条目"
+    }
+  },
+  {
+    "id": "sauce-jiang",
+    "name": "酱",
+    "nature": "\\u5e73",
+    "category": "\\u8c03\\u6599",
+    "aliases": [
+      "酱油",
+      "黄豆酱",
+      "豆瓣酱",
+      "甜面酱",
+      "soy sauce",
+      "sauce"
+    ],
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "jiang",
+        "j",
+        "柴米油盐酱醋茶"
+      ],
+      "confidence": "柴米油盐酱醋茶基础条目"
+    }
+  },
+  {
+    "id": "vinegar-cu",
+    "name": "醋",
+    "nature": "\\u6e29",
+    "category": "\\u8c03\\u6599",
+    "aliases": [
+      "米醋",
+      "陈醋",
+      "香醋",
+      "镇江香醋",
+      "vinegar"
+    ],
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "extra": {
+      "searchTerms": [
+        "cu",
+        "c",
+        "柴米油盐酱醋茶"
+      ],
+      "confidence": "柴米油盐酱醋茶基础条目"
+    }
+  }
+]

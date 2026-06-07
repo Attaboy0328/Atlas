@@ -154,12 +154,20 @@ const RECIPE_SEASON_SHORTCUTS = [
 const RECIPE_SOLAR_TERM_SHORTCUTS = [
   { label: "立春", solarTerm: "立春", season: "春季" },
   { label: "雨水", solarTerm: "雨水", season: "春季" },
+  { label: "春分", solarTerm: "春分", season: "春季" },
   { label: "清明", solarTerm: "清明", season: "春季" },
   { label: "小满", solarTerm: "小满", season: "夏季" },
   { label: "夏至", solarTerm: "夏至", season: "夏季" },
+  { label: "小暑", solarTerm: "小暑", season: "夏季" },
+  { label: "大暑", solarTerm: "大暑", season: "夏季" },
   { label: "立秋", solarTerm: "立秋", season: "秋季" },
   { label: "秋分", solarTerm: "秋分", season: "秋季" },
-  { label: "冬至", solarTerm: "冬至", season: "冬季" }
+  { label: "白露", solarTerm: "白露", season: "秋季" },
+  { label: "霜降", solarTerm: "霜降", season: "秋季" },
+  { label: "立冬", solarTerm: "立冬", season: "冬季" },
+  { label: "冬至", solarTerm: "冬至", season: "冬季" },
+  { label: "小雪", solarTerm: "小雪", season: "冬季" },
+  { label: "大寒", solarTerm: "大寒", season: "冬季" }
 ];
 
 const LIBRARY_QI_TOPICS = ["药食同源", "中药材", "行气", "理气", "破气", "降气"];
@@ -349,120 +357,7 @@ const CLASSIC_SOURCE_HINTS = {
   茯苓: ["《神农本草经》", "《本草纲目》"]
 };
 
-const PAIRING_RULES = [
-  {
-    ids: ["crab", "persimmon"],
-    title: "蟹与柿",
-    level: "caution",
-    category: "传统食养",
-    text: "更像寒凉叠加和高鞣酸影响消化，不是“必然中毒”。脾胃虚寒、腹泻或一次吃很多时尤其不舒服。"
-  },
-  {
-    ids: ["crab", "pear"],
-    title: "蟹与梨",
-    level: "caution",
-    category: "传统食养",
-    text: "同属偏寒，常见问题是腹痛、腹泻和胃部不适风险上升。"
-  },
-  {
-    ids: ["crab", "peanut"],
-    title: "蟹与花生",
-    level: "notice",
-    category: "传统食养",
-    text: "高脂加海鲜对部分人会更腻、更难消化，重点是肠胃负担。"
-  },
-  {
-    ids: ["white-radish", "ginseng"],
-    title: "白萝卜与人参",
-    level: "gold",
-    category: "传统食养",
-    text: "传统食养里常说“下气”与“补气”方向不同，属于使用目的不一致，不等于现代意义上的相克中毒。"
-  },
-  {
-    ids: ["tea", "iron-rich-meal"],
-    title: "浓茶与补铁场景",
-    level: "notice",
-    category: "现代安全",
-    text: "不是食物相克，而是茶多酚可能影响铁吸收。缺铁或正在补铁时，尽量与正餐或铁剂错开。"
-  },
-  {
-    ids: ["lamb", "watermelon"],
-    title: "羊肉与西瓜",
-    level: "gold",
-    category: "传统食养",
-    text: "传统饮食整理里常把这组理解为温热与寒凉方向相反，同食后更容易出现腹胀、腹泻或胃部不舒，重点仍是体质、季节和摄入量。"
-  },
-  {
-    ids: ["crab", "ice-cream"],
-    title: "蟹与冰饮冰品",
-    level: "caution",
-    category: "现代安全",
-    text: "这类组合更像寒凉叠加，肠胃虚寒、腹泻、经常胃痛的人群更容易不舒服。"
-  },
-  {
-    ids: ["persimmon", "black-tea"],
-    title: "柿子与浓茶",
-    level: "notice",
-    category: "传统食养",
-    text: "传统整理多提醒这类组合会加重胃部负担，重点不在“中毒”，而在高鞣酸和空腹、过量场景下更容易不适。"
-  },
-  {
-    ids: ["banana", "yogurt"],
-    title: "香蕉与酸奶",
-    level: "notice",
-    category: "现代安全",
-    text: "并非禁配，但对本就腹泻、怕冷或空腹吃冷食容易不适的人，这组偏凉偏滑，可能让肠胃更敏感。"
-  },
-  {
-    ids: ["green-tea", "ginseng"],
-    title: "绿茶与人参",
-    level: "notice",
-    category: "传统食养",
-    text: "传统整理里常提醒浓茶与人参类不宜同服过量，现代重点仍是咖啡因、空腹和个体耐受。"
-  },
-  {
-    ids: ["spinach", "vinegar"],
-    title: "菠菜与醋",
-    level: "notice",
-    category: "现代安全",
-    text: "不是相克，但草酸与部分矿物质吸收相关，肾结石、腹泻明显者不宜大量。"
-  },
-  {
-    ids: ["honey", "green-tea"],
-    title: "蜂蜜与绿茶",
-    level: "gold",
-    category: "民间迷思",
-    text: "民间偶有“不宜同饮”说法，现代更关注空腹、失眠与甜饮叠加后的个体不适。"
-  },
-  {
-    ids: ["doubanjiang", "honey"],
-    title: "豆瓣与蜂蜜",
-    level: "gold",
-    category: "民间迷思",
-    text: "更接近传统相克条目提醒，不应直接等同于有毒结论。"
-  },
-  {
-    ids: ["hotpot-base", "beer"],
-    title: "火锅与啤酒",
-    level: "caution",
-    category: "现代安全",
-    text: "辛辣油腻与酒精叠加，反流、痛风、肝病和服药期间应尽量避免。"
-  },
-  {
-    ids: ["sichuan-peppercorn", "lamb"],
-    title: "花椒与羊肉",
-    level: "notice",
-    category: "传统食养",
-    text: "川西北常见组合，偏温热，口干便秘、炎症期明显者不宜一次过重。"
-  },
-  {
-    ids: ["milk", "tea"],
-    title: "奶茶式同饮",
-    level: "notice",
-    category: "现代安全",
-    text: "不是禁配，但部分人对单宁与蛋白组合更敏感，空腹或反流时更容易不适。"
-  }
-];
+const PAIRING_RULES = typeof PAIRING_RULES_ALL !== "undefined" ? PAIRING_RULES_ALL : [];
 
 const RECIPE_CLASSIC_SOURCES = {
   "ginger-jujube-tea": [{ title: "《千金要方·食治》", summary: "姜枣类饮品常用于温中、和营的日常食治整理。" }, { title: "《饮膳正要》", summary: "将生姜、红枣纳入日常饮食调养场景。" }],
@@ -525,260 +420,21 @@ const RECIPE_CLASSIC_SOURCES = {
   "xiakucao-chrysanthemum": [{ title: "《本草纲目》", summary: "夏枯草、菊花清舒头目。" }]
 };
 
-function recipe(id, name, nature, syndromes, foodIds, subtitle, ingredients, steps, note) {
-  return {
-    id,
-    name,
-    nature,
-    syndromes,
-    foodIds,
-    subtitle,
-    ingredients,
-    steps,
-    note,
-    sources: RECIPE_CLASSIC_SOURCES[id] || [],
-    draft: false
-  };
+let RECIPES = [];
+
+function mergeRecipeBundles() {
+  RECIPES = [];
+  const handcrafted = typeof HANDCRAFTED_RECIPES !== "undefined" ? HANDCRAFTED_RECIPES : [];
+  handcrafted.forEach((item) => {
+    RECIPES.push({
+      ...item,
+      sources: item.sources?.length ? item.sources : (RECIPE_CLASSIC_SOURCES[item.id] || []),
+      draft: false
+    });
+  });
+  if (typeof BULK_RECIPES_ENHANCED !== "undefined") RECIPES.push(...BULK_RECIPES_ENHANCED);
+  if (typeof CLASSIC_DIET_RECIPES !== "undefined") RECIPES.push(...CLASSIC_DIET_RECIPES);
 }
-
-const RECIPES = [
-  recipe("ginger-jujube-tea", "姜枣饮", "温", ["脾阳虚", "胃气虚"], ["ginger", "jujube"], "日常暖胃饮", ["生姜 3 片", "红枣 5 枚", "清水 500 ml"], ["红枣去核，与生姜同煮 12 分钟", "温热少量饮用"], "偏寒、胃脘不舒、晨起怕冷时更常用。"),
-  recipe("yam-red-date-porridge", "山药红枣粥", "平", ["脾气虚", "胃气虚"], ["yam", "jujube", "rice"], "益气养胃", ["山药 80 克", "红枣 6 枚", "大米 80 克"], ["山药切小块", "与大米、红枣同煮成粥"], "更适合食欲差、疲乏、饭后易胀的人。"),
-  recipe("lotus-lily-congee", "莲子百合粥", "平", ["胃阴虚", "阴虚内热"], ["lotus-seed", "lily-bulb", "rice"], "清润和胃", ["莲子 20 克", "百合 20 克", "粳米 80 克"], ["莲子浸泡后与米同煮", "后下百合再煮软"], "适合口干、胃中燥热感较明显时。"),
-  recipe("white-fungus-pear-soup", "银耳雪梨汤", "凉", ["胃阴虚", "肺阴虚"], ["white-fungus", "pear"], "润燥生津", ["银耳 10 克", "梨 1 个", "清水适量"], ["银耳泡发后小火煮软", "加入雪梨再煮 15 分钟"], "偏重清润，不适合明显腹泻时大量喝。"),
-  recipe("codonopsis-astragalus-congee", "党参黄芪红枣粥", "温", ["中气下陷", "脾气虚"], ["codonopsis", "astragalus", "jujube", "rice"], "补中益气", ["党参 10 克", "黄芪 10 克", "红枣 8 枚", "大米 80 克"], ["党参黄芪先煮取汁", "药汁与米、红枣同煮成粥"], "更适合作为体虚、久病后恢复期的日常调养。"),
-  recipe("poria-coix-congee", "茯苓薏米粥", "平", ["痰湿困脾", "湿热内蕴"], ["poria", "coix-seed", "rice"], "健脾渗湿", ["茯苓 15 克", "薏米 30 克", "大米 60 克"], ["薏米提前浸泡", "与茯苓、大米同煮"], "偏向脾虚夹湿、四肢困重、舌苔厚腻场景。"),
-  recipe("chenpi-millet-congee", "陈皮小米粥", "温", ["肝胃不和", "胃气虚"], ["chenpi", "millet"], "和胃理气", ["陈皮 3 克", "小米 80 克"], ["陈皮先煮 5 分钟", "加小米同煮成粥"], "饭后胀满、嗳气明显时更常见。"),
-  recipe("radish-soup", "白萝卜陈皮汤", "凉", ["理气", "降气", "肝胃不和"], ["white-radish", "chenpi"], "顺气消食", ["白萝卜 200 克", "陈皮 3 克"], ["白萝卜切块", "与陈皮同煮 20 分钟"], "适合油腻后胀满，但脾胃虚寒者不宜多。"),
-  recipe("longan-millet-porridge", "桂圆小米粥", "温", ["血虚", "气血两虚"], ["longan", "millet"], "养血安神", ["桂圆肉 12 克", "小米 80 克"], ["同煮成粥"], "偏温甜润，易上火者控制频率。"),
-  recipe("black-sesame-walnut-paste", "黑芝麻核桃糊", "温", ["肾阳虚", "血虚"], ["black-sesame", "walnut"], "温润滋养", ["黑芝麻 20 克", "核桃仁 20 克"], ["炒香后打糊", "温热食用"], "适合作为少量加餐，不宜过甜过油。"),
-  recipe("mulberry-red-date-drink", "桑葚红枣饮", "平", ["血虚", "阴虚内热"], ["mulberry", "jujube"], "养血生津", ["桑葚 15 克", "红枣 5 枚"], ["煮 15 分钟后温服"], "更适合口干、疲乏又兼轻度血虚的人。"),
-  recipe("duck-pear-soup", "鸭梨百合汤", "凉", ["肺阴虚", "胃阴虚"], ["duck", "pear", "lily-bulb"], "润养清和", ["鸭肉 150 克", "梨 1 个", "百合 20 克"], ["鸭肉先焯水", "与梨、百合同炖"], "偏清润，适合燥热与咽干。"),
-  recipe("apricot-lily-soup", "杏仁百合露", "凉", ["肺阴虚"], ["almond", "lily-bulb"], "润肺和中", ["甜杏仁 10 克", "百合 20 克"], ["煮软打匀"], "坚果过敏人群避免。"),
-  recipe("shepherd-purse-lean-soup", "荠菜瘦肉汤", "平", ["脾不统血"], ["shepherd-purse", "pork"], "健脾和中", ["荠菜 150 克", "瘦肉 120 克"], ["瘦肉焯水", "与荠菜同煮"], "更适合作为日常温和配汤。"),
-  recipe("beef-yam-soup", "山药牛肉汤", "温", ["脾不统血", "气血两虚"], ["yam", "beef"], "益气健脾", ["山药 120 克", "牛肉 150 克"], ["牛肉先炖软", "加入山药再煮熟"], "偏补益，湿热偏盛者少量。"),
-  recipe("pumpkin-rice-paste", "南瓜米糊", "温", ["脾气虚", "中气下陷"], ["pumpkin", "rice"], "和中助运", ["南瓜 150 克", "大米 60 克"], ["蒸熟南瓜", "与煮熟的大米打糊"], "适合恢复期和食欲差时做轻食。"),
-  recipe("lamb-ginger-soup", "生姜羊肉汤", "热", ["脾阳虚", "肾阳虚"], ["ginger", "lamb"], "温中散寒", ["羊肉 200 克", "生姜 20 克"], ["羊肉焯水", "与生姜同炖"], "偏热，口干便秘或明显上火时不宜。"),
-  recipe("chicken-poria-stew", "茯苓鸡汤", "温", ["脾气虚", "痰湿困脾"], ["poria", "chicken"], "健脾祛湿", ["茯苓 15 克", "鸡肉 200 克"], ["鸡肉焯水", "与茯苓慢炖"], "兼顾补益与渗湿。"),
-  recipe("hawthorn-malt-drink", "山楂麦芽饮", "平", ["食积", "肝胃不和"], ["hawthorn", "malt"], "消食和胃", ["山楂 10 克", "炒麦芽 10 克"], ["加水煮 12 分钟"], "更适合油腻积滞，不适合空腹长期饮用。"),
-  recipe("lotus-root-soup", "莲藕排骨汤", "平", ["气血两虚", "脾气虚"], ["lotus-root", "pork"], "和中养血", ["莲藕 250 克", "排骨 250 克"], ["排骨焯水", "与莲藕同炖"], "家常度高，适合大多数日常调理。"),
-  recipe("yam-lotus-bowl", "山药莲子羹", "平", ["脾气虚", "脾不统血"], ["yam", "lotus-seed"], "健脾和中", ["山药 100 克", "莲子 20 克", "清水适量"], ["莲子先浸泡", "与山药同煮至软烂"], "适合做成偏温和的日常调养羹。"),
-  recipe("astragalus-chicken-soup", "黄芪鸡汤", "温", ["中气下陷", "气血两虚"], ["astragalus", "chicken", "jujube"], "补气养中", ["黄芪 10 克", "鸡肉 200 克", "红枣 6 枚"], ["鸡肉焯水", "与黄芪红枣同炖"], "更适合恢复期和疲乏明显时，正在用药者先看个人提醒。"),
-  recipe("chenpi-rice-water", "陈皮米汤", "温", ["肝胃不和", "胃气虚"], ["chenpi", "rice"], "和胃理气", ["陈皮 3 克", "大米 50 克"], ["陈皮先煮 5 分钟", "加入米汤同煮"], "适合胃口差、饭后胀满、嗳气偏多时少量饮用。"),
-  recipe("white-fungus-lily-bowl", "银耳百合羹", "平", ["胃阴虚", "肺阴虚"], ["white-fungus", "lily-bulb"], "润养生津", ["银耳 10 克", "百合 20 克", "清水适量"], ["银耳先泡发煮软", "后下百合再煮"], "偏润养，腹泻时不宜多食。"),
-  recipe("lotus-jujube-congee", "莲子红枣粥", "平", ["脾气虚", "血虚"], ["lotus-seed", "jujube", "rice"], "补脾养心", ["莲子 20 克", "红枣 6 枚", "大米 80 克"], ["同煮成粥"], "比纯甜品更适合作为正餐中的软食调养。"),
-  recipe("ginger-chenpi-drink", "生姜陈皮饮", "温", ["理气", "胃气虚"], ["ginger", "chenpi"], "温中理气", ["生姜 3 片", "陈皮 3 克"], ["加水煮 10 分钟"], "适合受凉后胃里发堵、食欲差的场景，口干明显时不宜太频繁。"),
-  recipe("millet-poria-bowl", "小米茯苓粥", "平", ["脾气虚", "痰湿困脾"], ["millet", "poria"], "健脾渗湿", ["小米 80 克", "茯苓 12 克"], ["茯苓煎汁", "以汁煮小米成粥"], "比重补更轻，更适合日常慢慢调。"),
-  recipe("bergamot-pear-drink", "佛手雪梨饮", "凉", ["肝胃不和", "胃阴虚"], ["bergamot", "pear"], "理气生津", ["佛手 5 克", "雪梨 1 个"], ["佛手先煮", "再下雪梨稍煮"], "适合胀闷伴口干场景，腹泻时不宜偏凉多饮。")
-];
-
-/* BEGIN RESTORED BULK APP DATA */
-const RESTORED_PAIRING_RULES = [
-  {
-    "ids": [
-      "crab",
-      "black-tea"
-    ],
-    "title": "蟹与红茶",
-    "level": "notice",
-    "category": "传统食养",
-    "text": "传统整理里常把这组看作增加胃部负担的组合，重点是浓茶、空腹和过量场景。"
-  },
-  {
-    "ids": [
-      "shrimp",
-      "orange"
-    ],
-    "title": "虾与橙子",
-    "level": "notice",
-    "category": "现代安全",
-    "text": "更像酸性水果与海鲜同食后肠胃敏感人群更容易不适，并非一律禁配。"
-  },
-  {
-    "ids": [
-      "soy-milk",
-      "egg"
-    ],
-    "title": "豆浆与鸡蛋",
-    "level": "gold",
-    "category": "民间迷思",
-    "text": "属于常见民间争议搭配，重点在于同时高量摄入时个别人会觉得胀，不是现代意义上的相克中毒。"
-  },
-  {
-    "ids": [
-      "milk",
-      "orange"
-    ],
-    "title": "牛奶与橙子",
-    "level": "notice",
-    "category": "现代安全",
-    "text": "酸甜水果与奶同食时，胃部敏感、反流或空腹人群更容易反酸和不适。"
-  },
-  {
-    "ids": [
-      "honey",
-      "onion"
-    ],
-    "title": "蜂蜜与葱",
-    "level": "gold",
-    "category": "民间迷思",
-    "text": "更接近传统相克迷思提醒，现代重点仍是个人耐受与整体饮食结构。"
-  },
-  {
-    "ids": [
-      "rabbit",
-      "celery"
-    ],
-    "title": "兔肉与芹菜",
-    "level": "gold",
-    "category": "民间迷思",
-    "text": "传统条目里很常见，当前更适合作为整理过的相克迷思，不应直接当成有毒结论。"
-  },
-  {
-    "ids": [
-      "coffee",
-      "green-tea"
-    ],
-    "title": "咖啡与绿茶",
-    "level": "notice",
-    "category": "现代安全",
-    "text": "并非禁配，但双重咖啡因与刺激性叠加时，心悸、失眠、胃部敏感人群更要留意。"
-  },
-  {
-    "ids": [
-      "durian",
-      "beer"
-    ],
-    "title": "榴莲与啤酒",
-    "level": "caution",
-    "category": "现代安全",
-    "text": "更像高糖高热量与酒精叠加的现实负担提醒，酒后和消化不适时应避免。"
-  },
-  {
-    "ids": [
-      "spinach",
-      "milk"
-    ],
-    "title": "菠菜与牛奶",
-    "level": "notice",
-    "category": "现代安全",
-    "text": "重点在草酸和钙同餐时部分人会觉得肠胃不舒服，不属于必须绝对回避的组合。"
-  },
-  {
-    "ids": [
-      "spinach",
-      "cucumber"
-    ],
-    "title": "菠菜与黄瓜",
-    "level": "gold",
-    "category": "民间迷思",
-    "text": "属于营养吸收方向的传统整理提醒，不是毒性问题。"
-  },
-  {
-    "ids": [
-      "watermelon",
-      "ice-cream"
-    ],
-    "title": "西瓜与冰淇淋",
-    "level": "notice",
-    "category": "现代安全",
-    "text": "整体偏寒凉，腹泻、怕冷、胃肠敏感人群更容易不舒服。"
-  },
-  {
-    "ids": [
-      "lamb",
-      "vinegar"
-    ],
-    "title": "羊肉与醋",
-    "level": "gold",
-    "category": "传统食养",
-    "text": "传统上常视作温热与酸收方向不合，现代更适合作为口感与耐受提醒。"
-  },
-  {
-    "ids": [
-      "beef",
-      "chestnut"
-    ],
-    "title": "牛肉与栗子",
-    "level": "gold",
-    "category": "民间迷思",
-    "text": "常见于传统相克条目，现代更应理解为高蛋白高淀粉同餐后消化负担可能偏重。"
-  },
-  {
-    "ids": [
-      "eel",
-      "grape"
-    ],
-    "title": "鳗鱼与葡萄",
-    "level": "gold",
-    "category": "民间迷思",
-    "text": "属于传统相克迷思类提醒，重点不是毒性，而是减少过量混搭。"
-  },
-  {
-    "ids": [
-      "tofu",
-      "honey"
-    ],
-    "title": "豆腐与蜂蜜",
-    "level": "gold",
-    "category": "民间迷思",
-    "text": "传统常见条目，更适合作为历史整理信息保留，而非现代禁忌结论。"
-  },
-  {
-    "ids": [
-      "persimmon",
-      "crab"
-    ],
-    "title": "柿子与螃蟹（补充）",
-    "level": "caution",
-    "category": "传统食养",
-    "text": "这是高频传统案例，核心仍是寒凉叠加与胃部负担，不是见一次就必须中毒。"
-  }
-];
-PAIRING_RULES.push(...RESTORED_PAIRING_RULES);
-if (typeof PAIRING_RULES_EXTRA !== "undefined") {
-  PAIRING_RULES.push(...PAIRING_RULES_EXTRA);
-}
-
-RECIPES.push(...(typeof BULK_RECIPES_ENHANCED !== "undefined" ? BULK_RECIPES_ENHANCED : []));
-RECIPES.push(...(typeof CLASSIC_DIET_RECIPES !== "undefined" ? CLASSIC_DIET_RECIPES : []));
-
-
-const SYNDROME_RECIPE_EXPANSION_PACK = [
-  recipe("biandou-yam-congee", "白扁豆山药粥", "平", ["脾气虚", "痰湿困脾"], ["yam", "soybean", "rice"], "健脾和中", ["山药 100 克", "白扁豆 30 克", "粳米 80 克"], ["白扁豆提前浸泡", "与山药、粳米同煮成粥"], "更适合食欲差、饭后困重、脾虚夹湿的清淡调养。"),
-  recipe("lianzi-qianshi-millet", "莲子芡实小米粥", "平", ["脾气虚", "脾不统血"], ["lotus-seed", "millet", "rice"], "补脾固摄", ["莲子 20 克", "芡实 20 克", "小米 80 克"], ["莲子与芡实先煮 10 分钟", "再下小米慢煮成粥"], "适合久泻后、疲乏和需要做得更稳一点的脾虚场景。"),
-  recipe("dangshen-baizhu-lean-soup", "党参白术瘦肉汤", "温", ["胃气虚", "脾气虚"], ["codonopsis", "pork"], "益气健脾", ["党参 10 克", "白术 8 克", "瘦肉 150 克"], ["瘦肉焯水", "与党参、白术同炖 45 分钟"], "更适合胃口弱、乏力、吃完容易腹胀的人。"),
-  recipe("chaomi-shanzha-drink", "炒米山楂饮", "平", ["食积", "胃气虚"], ["hawthorn", "rice"], "消食和胃", ["炒米 20 克", "山楂 10 克", "清水 500 ml"], ["炒米略洗", "与山楂同煮 12 分钟后温饮"], "更适合油腻积滞、胃里发堵，但本身虚寒明显者不宜过量。"),
-  recipe("pumpkin-biancong-soup", "南瓜白扁豆羹", "温", ["中气下陷", "脾气虚"], ["pumpkin", "soybean"], "补中助运", ["南瓜 200 克", "白扁豆 30 克"], ["白扁豆煮熟", "与蒸熟南瓜一同打成羹"], "适合恢复期、食欲差和中气不足的轻食场景。"),
-  recipe("sharen-chenpi-fish", "砂仁陈皮鲫鱼汤", "温", ["肝胃不和", "胃气虚"], ["chenpi", "crucian-carp"], "和胃理气", ["鲫鱼 1 条", "砂仁 3 克", "陈皮 3 克"], ["鲫鱼煎至微黄", "与砂仁、陈皮同炖 30 分钟"], "更适合胃口差、嗳气、饭后胀满的人。"),
-  recipe("danggui-huangqi-chicken", "当归黄芪鸡汤", "温", ["气血两虚", "血虚"], ["astragalus", "chicken", "jujube"], "补气养血", ["黄芪 12 克", "当归 6 克", "鸡肉 200 克", "红枣 6 枚"], ["鸡肉焯水", "与黄芪、当归、红枣同炖 50 分钟"], "适合久病体虚、面色少华、乏力明显的日常调养。"),
-  recipe("longan-goji-steamed-egg", "桂圆枸杞蒸蛋", "温", ["血虚", "气血两虚"], ["longan-dried", "egg"], "养血安神", ["桂圆干 10 克", "枸杞 8 克", "鸡蛋 2 个"], ["鸡蛋打散调匀", "加桂圆、枸杞蒸熟"], "更适合劳倦后心烦、睡得浅、气血偏弱的人。"),
-  recipe("redbean-jujube-congee", "红豆红枣糯米粥", "平", ["气血两虚", "血虚"], ["red-bean", "jujube", "glutinous-rice"], "养血和中", ["红豆 30 克", "红枣 8 枚", "糯米 60 克"], ["红豆先煮软", "再下糯米、红枣煮成粥"], "适合气血不足、食量偏小的人，痰湿偏重时不宜太黏太甜。"),
-  recipe("black-chicken-danggui", "乌鸡当归汤", "温", ["血虚", "气血两虚"], ["chicken"], "养血调中", ["乌鸡 250 克", "当归 6 克", "生姜 2 片"], ["乌鸡焯水", "与当归、生姜小火慢炖"], "更适合血虚、产后恢复或体虚怕冷的人群。"),
-  recipe("rose-chenpi-drink", "玫瑰陈皮饮", "温", ["理气", "肝郁气滞"], ["chenpi"], "疏肝理气", ["玫瑰花 6 克", "陈皮 3 克"], ["热水冲泡或小火煮 8 分钟"], "更适合情绪郁闷、胸胁不舒、饭量下降的轻度场景。"),
-  recipe("foshou-maiya-drink", "佛手麦芽饮", "平", ["行气", "理气", "胃气虚"], ["bergamot", "malt"], "理气和胃", ["佛手 5 克", "炒麦芽 10 克"], ["加水煮 10 分钟后温饮"], "更适合肝胃不舒、食积轻、嗳气偏多的人。"),
-  recipe("radish-beef-soup", "陈皮白萝卜牛肉汤", "温", ["降气", "理气"], ["white-radish", "chenpi", "beef"], "顺气和中", ["白萝卜 200 克", "牛肉 150 克", "陈皮 3 克"], ["牛肉焯水后先炖软", "再下白萝卜与陈皮"], "更适合气机不畅、吃后发胀的人。"),
-  recipe("zisu-sharen-congee", "紫苏砂仁粥", "温", ["理气", "气虚"], ["rice"], "和胃醒脾", ["紫苏叶 6 克", "砂仁 3 克", "粳米 80 克"], ["紫苏与砂仁煎汁", "用药汁煮粳米成粥"], "适合胃口不开、恶心反胃、轻度气虚夹滞的人。"),
-  recipe("huangqi-longan-millet", "黄芪桂圆小米粥", "温", ["气血两虚", "中气下陷"], ["astragalus", "longan-dried", "millet"], "补气养血", ["黄芪 10 克", "桂圆干 10 克", "小米 80 克"], ["黄芪先煮汁", "再与桂圆、小米同煮"], "更适合作为疲乏、面色差、久坐无力时的温和粥方。"),
-  recipe("chuanbei-pear", "川贝炖梨", "凉", ["肺阴虚"], ["pear"], "润肺止咳", ["雪梨 1 个", "川贝粉 2 克"], ["梨去核留盅", "填入川贝粉后蒸熟"], "适合咽干、干咳、痰少而黏的场景。"),
-  recipe("yuzhu-maidong-congee", "玉竹麦冬粥", "凉", ["肺阴虚", "胃阴虚"], ["rice"], "养阴润燥", ["玉竹 12 克", "麦冬 10 克", "粳米 80 克"], ["玉竹、麦冬先煎汁", "以药汁煮粥"], "更适合口干、咽燥、胃中燥热感较明显的人。"),
-  recipe("almond-lily-soup", "南北杏百合汤", "平", ["肺气虚", "肺阴虚"], ["lily-bulb"], "润肺和中", ["南杏仁 10 克", "北杏仁 6 克", "百合 20 克"], ["加水同煮 25 分钟"], "更适合久咳后津液不足、咽部不适的人。"),
-  recipe("whitefungus-loquat-drink", "银耳枇杷饮", "平", ["肺阴虚", "阴虚内热"], ["white-fungus"], "清润生津", ["银耳 10 克", "枇杷 2 个"], ["银耳先煮软", "下枇杷稍煮即可"], "适合燥热、咽干和天气干燥时作轻润饮。"),
-  recipe("shashen-yuzhu-duck", "沙参玉竹老鸭汤", "平", ["肺阴虚", "胃阴虚"], ["duck"], "养阴润燥", ["沙参 12 克", "玉竹 12 克", "老鸭 250 克"], ["老鸭焯水", "与沙参、玉竹同炖 1 小时"], "更适合久咳、口干、虚热感和胃阴不足并见者。"),
-  recipe("luohanguo-wuhuaguo", "罗汉果无花果汤", "凉", ["肺气虚", "肺阴虚"], ["luo-han-guo"], "润肺利咽", ["罗汉果 1/4 个", "无花果 3 个"], ["加水煮 15 分钟"], "适合说话多、咽干、燥咳或烟酒后咽部不适。"),
-  recipe("yinchen-redbean-soup", "茵陈赤小豆汤", "凉", ["湿热内蕴"], ["red-bean"], "清利湿热", ["茵陈 10 克", "赤小豆 30 克"], ["赤小豆先煮 20 分钟", "再加茵陈同煮"], "更适合湿热偏重、口苦口黏、尿黄的饮食整理场景。"),
-  recipe("coix-wintermelon-soup", "薏米冬瓜赤豆汤", "凉", ["湿热内蕴", "痰湿困脾"], ["coix-seed", "wax-gourd", "red-bean"], "清利湿滞", ["薏米 30 克", "冬瓜 200 克", "赤小豆 20 克"], ["赤小豆与薏米先煮", "后下冬瓜煮软"], "更适合暑湿困重、身体发沉、饮食偏腻后的调理。"),
-  recipe("cornsilk-heye-drink", "玉米须荷叶饮", "凉", ["湿热内蕴"], ["corn"], "清利轻饮", ["玉米须 15 克", "荷叶 6 克"], ["加水煮 10 分钟后温饮"], "更适合湿热偏盛、口渴油腻、暑天困重时少量饮用。"),
-  recipe("meigui-foshou-tea", "玫瑰佛手茶", "温", ["肝郁气滞"], ["bergamot"], "疏肝解郁", ["玫瑰花 6 克", "佛手 5 克"], ["热水冲泡 10 分钟"], "更适合情绪抑郁、胸闷、两胁不舒和食欲波动时。"),
-  recipe("qingpi-chenpi-lean", "青皮陈皮炖瘦肉", "温", ["肝郁气滞", "理气"], ["chenpi", "pork"], "理气和中", ["青皮 4 克", "陈皮 3 克", "瘦肉 150 克"], ["瘦肉焯水", "与青皮、陈皮同炖 40 分钟"], "适合肝郁夹胃口差、胀满、嗳气的人。"),
-  recipe("celery-mungbean-drink", "芹菜绿豆饮", "凉", ["湿热内蕴"], ["mung-bean"], "清利轻养", ["芹菜 100 克", "绿豆 20 克"], ["绿豆先煮开花", "再下芹菜稍煮"], "适合油腻辛辣后口苦、烦热、胃口不佳的时段。"),
-  recipe("mumian-fuling-lean", "木棉花茯苓瘦肉汤", "平", ["湿热内蕴", "痰湿困脾"], ["poria", "pork"], "健脾祛湿", ["木棉花 10 克", "茯苓 15 克", "瘦肉 150 克"], ["瘦肉焯水", "与木棉花、茯苓同炖"], "更适合岭南潮湿天气里困重、纳差、便黏的人。"),
-  recipe("jigucao-lean-soup", "鸡骨草瘦肉汤", "凉", ["湿热内蕴"], ["pork"], "清利湿热", ["鸡骨草 15 克", "瘦肉 150 克"], ["瘦肉焯水", "与鸡骨草同炖 45 分钟"], "适合湿热偏盛、口苦、食后腻滞感明显的人。"),
-  recipe("xiakucao-chrysanthemum", "夏枯草菊花饮", "凉", ["肝郁气滞", "阴虚内热"], ["chrysanthemum"], "清舒头目", ["夏枯草 10 克", "菊花 6 克"], ["加水煮 10 分钟后温饮"], "更适合情绪郁滞夹头面烦热、目赤口干的人。")
-];
-
-RECIPES.push(...SYNDROME_RECIPE_EXPANSION_PACK);
-/* END RESTORED BULK APP DATA */
 
 const app = document.getElementById("app");
 const toastEl = document.getElementById("toast");
@@ -798,11 +454,14 @@ const state = {
   libraryEthnic: "全部",
   libraryTopic: "",
   libraryKind: "全部",
+  libraryOfficialBatch: "全部",
   libraryProvincesExpanded: false,
   libraryEthnicsExpanded: false,
   checkerQuery: "",
   checkerSelected: [],
   checkerScrollPending: false,
+  checkerRulesOpen: false,
+  checkerRulesQuery: "",
   recipesQuery: "",
   recipesNature: "全部",
   recipesSyndrome: "全部",
@@ -887,21 +546,21 @@ RUNTIME_SEARCH_INDEX.push(
 );
 
 RUNTIME_SEARCH_INDEX.push(
-  { name: "??", aliases: ["???"], pinyin: "hualuo", initials: "hl", regional: ["????"], english: ["babylon snail"] },
-  { name: "???", aliases: ["??", "??"], pinyin: "qingkoubei", initials: "qkb", regional: ["????"], english: ["mussel"] },
-  { name: "???", aliases: ["??"], pinyin: "hailuyu", initials: "hly", regional: ["????"], english: ["sea bass"] },
-  { name: "???", aliases: [], pinyin: "wutouyu", initials: "wty", regional: ["????"], english: ["mullet"] },
-  { name: "???", aliases: [], pinyin: "shibanyu", initials: "sby", regional: ["????"], english: ["grouper"] },
-  { name: "???", aliases: [], pinyin: "haipengzi", initials: "hpz", regional: ["????"], english: ["samphire"] },
-  { name: "???", aliases: [], pinyin: "yanjiaocao", initials: "yjc", regional: ["????"], english: ["seablite"] },
-  { name: "???", aliases: [], pinyin: "huajiaoya", initials: "hjy", regional: ["?????"], english: ["pepper sprout"] },
-  { name: "??", aliases: [], pinyin: "yesuan", initials: "ys", regional: ["????"], english: ["wild garlic"] },
-  { name: "???", aliases: ["???"], pinyin: "suansunsi", initials: "sss", regional: ["????"], english: ["pickled bamboo shoot"] },
-  { name: "???", aliases: [], pinyin: "suancaixin", initials: "scx", regional: ["????"], english: ["pickled greens heart"] },
-  { name: "????", aliases: ["?????"], pinyin: "doubanlajiang", initials: "dblj", regional: ["????"], english: ["chili bean paste"] },
-  { name: "???", aliases: [], pinyin: "paojiaojiang", initials: "pjj", regional: ["?????"], english: ["pickled chili sauce"] },
-  { name: "???", aliases: [], pinyin: "jiemoyou", initials: "jmy", regional: ["?????"], english: ["mustard oil"] },
-  { name: "???", aliases: [], pinyin: "zisuyan", initials: "zsy", regional: ["??????"], english: ["perilla salt"] }
+  { name: "花螺", aliases: ["花螺肉"], pinyin: "hualuo", initials: "hl", regional: ["沿海河鲜"], english: ["babylon snail"] },
+  { name: "青口贝", aliases: ["贻贝", "海虹"], pinyin: "qingkoubei", initials: "qkb", regional: ["沿海贝类"], english: ["mussel"] },
+  { name: "海鲈鱼", aliases: ["鲈鱼"], pinyin: "hailuyu", initials: "hly", regional: ["沿海河鲜"], english: ["sea bass"] },
+  { name: "乌头鱼", aliases: [], pinyin: "wutouyu", initials: "wty", regional: ["南方河鲜"], english: ["mullet"] },
+  { name: "石斑鱼", aliases: [], pinyin: "shibanyu", initials: "sby", regional: ["沿海海鲜"], english: ["grouper"] },
+  { name: "海蓬子", aliases: [], pinyin: "haipengzi", initials: "hpz", regional: ["沿海野菜"], english: ["samphire"] },
+  { name: "盐碱草", aliases: [], pinyin: "yanjiaocao", initials: "yjc", regional: ["沿海野菜"], english: ["seablite"] },
+  { name: "花椒芽", aliases: [], pinyin: "huajiaoya", initials: "hjy", regional: ["北方山野菜"], english: ["pepper sprout"] },
+  { name: "野蒜", aliases: [], pinyin: "yesuan", initials: "ys", regional: ["山野调味"], english: ["wild garlic"] },
+  { name: "酸笋丝", aliases: ["酸笋"], pinyin: "suansunsi", initials: "sss", regional: ["西南腌渍"], english: ["pickled bamboo shoot"] },
+  { name: "酸菜心", aliases: [], pinyin: "suancaixin", initials: "scx", regional: ["东北腌渍"], english: ["pickled greens heart"] },
+  { name: "豆瓣辣椒酱", aliases: ["豆瓣辣酱"], pinyin: "doubanlajiang", initials: "dblj", regional: ["川味调料"], english: ["chili bean paste"] },
+  { name: "泡辣椒酱", aliases: [], pinyin: "paojiaojiang", initials: "pjj", regional: ["西南泡菜"], english: ["pickled chili sauce"] },
+  { name: "芥末油", aliases: [], pinyin: "jiemoyou", initials: "jmy", regional: ["调味油料"], english: ["mustard oil"] },
+  { name: "紫苏盐", aliases: [], pinyin: "zisuyan", initials: "zsy", regional: ["客家调味"], english: ["perilla salt"] }
 );
 
 const RUNTIME_SEARCH_INDEX_MAP = new Map(
@@ -1051,22 +710,22 @@ RUNTIME_FOOD_EXPANSION.push(
 );
 
 RUNTIME_FOOD_EXPANSION.push(
-  { id: "sea-bass-local", name: "???", en: "sea bass", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["hailuyu", "hly", "sea bass"], summary: "????????????????????", caution: "???????????????" },
-  { id: "mullet", name: "???", en: "mullet", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["wutouyu", "wty", "mullet"], summary: "??????????????????", caution: "?????????????????" },
-  { id: "red-grouper", name: "???", en: "grouper", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["shibanyu", "sby", "grouper"], summary: "???????????????", caution: "?????????????????" },
-  { id: "moon-shell", name: "??", en: "babylon snail", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["hualuo", "hl", "babylon snail"], summary: "????????????????", caution: "?????????????????" },
-  { id: "sea-clam", name: "???", en: "mussel", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["qingkoubei", "qkb", "mussel"], summary: "???????????????????", caution: "???????????????" },
-  { id: "marsh-samphire", name: "???", en: "samphire", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["haipengzi", "hpz", "samphire"], summary: "?????????????????????", caution: "?????????????????????" },
-  { id: "seablite", name: "???", en: "seablite", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["yanjiaocao", "yjc", "seablite"], summary: "???????????????", caution: "????????????????" },
-  { id: "wild-pepper-leaf", name: "???", en: "pepper sprout", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["huajiaoya", "hjy", "pepper sprout"], summary: "???????????????????", caution: "??????????????????" },
-  { id: "wild-garlic-leaf", name: "??", en: "wild garlic", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["yesuan", "ys", "wild garlic"], summary: "?????????????????", caution: "????????????????????" },
-  { id: "pickled-bamboo-shoot", name: "???", en: "pickled bamboo shoot", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["suansunsi", "sss"], summary: "??????????????", caution: "?????????????????" },
-  { id: "pickled-greens", name: "???", en: "pickled greens heart", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["suancaixin", "scx"], summary: "??????????????", caution: "???????????????" },
-  { id: "fermented-chili-bean", name: "????", en: "chili bean paste", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["doubanlajiang", "dblj"], summary: "???????????????", caution: "????????????????????" },
-  { id: "pickled-pepper-sauce", name: "???", en: "pickled chili sauce", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["paojiaojiang", "pjj"], summary: "???????????????", caution: "??????????????????" },
-  { id: "mustard-oil", name: "???", en: "mustard oil", category: "??", nature: "?", effects: ["??"], regions: ["CN", "IN"], searchTerms: ["jiemoyou", "jmy", "mustard oil"], summary: "??????????????????", caution: "??????????????????" },
-  { id: "perilla-salt", name: "???", en: "perilla salt", category: "??", nature: "?", effects: ["??"], regions: ["CN", "JP"], searchTerms: ["zisuyan", "zsy", "perilla salt"], summary: "?????????????", caution: "???????????" },
-  { id: "devils-tongue-berry", name: "???", en: "raspberry berry", category: "??", nature: "?", effects: ["??"], regions: ["CN"], searchTerms: ["cipaoguo", "cpg"], summary: "????????????????????", caution: "???????????????????" }
+  { id: "sea-bass-local", name: "海鲈鱼", en: "sea bass", category: "海产", nature: "平", effects: ["滋养"], regions: ["CN"], searchTerms: ["hailuyu", "hly", "sea bass"], summary: "沿海常见鲈鱼，适合清蒸或煮汤。", caution: "海鲜过敏、痛风急性期注意总量。" },
+  { id: "mullet", name: "乌头鱼", en: "mullet", category: "海产", nature: "平", effects: ["滋养"], regions: ["CN"], searchTerms: ["wutouyu", "wty", "mullet"], summary: "南方河海鲜鱼，肉质细嫩。", caution: "海鲜过敏者慎食，需彻底做熟。" },
+  { id: "red-grouper", name: "石斑鱼", en: "grouper", category: "海产", nature: "平", effects: ["滋养"], regions: ["CN"], searchTerms: ["shibanyu", "sby", "grouper"], summary: "高档海鱼，常见于清蒸与煲汤。", caution: "海鲜过敏、痛风人群控制频率。" },
+  { id: "moon-shell", name: "花螺", en: "babylon snail", category: "海产", nature: "凉", effects: ["清利"], regions: ["CN"], searchTerms: ["hualuo", "hl", "babylon snail"], summary: "沿海螺类，需彻底做熟后食用。", caution: "脾胃虚寒、腹泻者不宜多食。" },
+  { id: "sea-clam", name: "青口贝", en: "mussel", category: "海产", nature: "寒", effects: ["清利"], regions: ["CN"], searchTerms: ["qingkoubei", "qkb", "mussel"], summary: "常见贝类，多用于煮汤或蒜蓉蒸。", caution: "贝类过敏、痛风及体寒者注意总量。" },
+  { id: "marsh-samphire", name: "海蓬子", en: "samphire", category: "野菜", nature: "凉", effects: ["清利"], regions: ["CN"], searchTerms: ["haipengzi", "hpz", "samphire"], summary: "沿海盐碱地野菜，口感脆嫩。", caution: "来源不明或未熟透时不宜食用。" },
+  { id: "seablite", name: "盐碱草", en: "seablite", category: "野菜", nature: "凉", effects: ["清利"], regions: ["CN"], searchTerms: ["yanjiaocao", "yjc", "seablite"], summary: "海边常见野菜，宜焯水后熟食。", caution: "脾胃虚寒、腹泻者少食。" },
+  { id: "wild-pepper-leaf", name: "花椒芽", en: "pepper sprout", category: "野菜", nature: "温", effects: ["行气"], regions: ["CN"], searchTerms: ["huajiaoya", "hjy", "pepper sprout"], summary: "春季山野菜，辛香开胃。", caution: "上火、咽痛时不宜多吃。" },
+  { id: "wild-garlic-leaf", name: "野蒜", en: "wild garlic", category: "野菜", nature: "温", effects: ["行气"], regions: ["CN"], searchTerms: ["yesuan", "ys", "wild garlic"], summary: "山野蒜类，香气浓，宜做配菜。", caution: "胃热、口腔溃疡者少食。" },
+  { id: "pickled-bamboo-shoot", name: "酸笋丝", en: "pickled bamboo shoot", category: "腌菜", nature: "凉", effects: ["开胃"], regions: ["CN"], searchTerms: ["suansunsi", "sss"], summary: "西南常见腌渍笋丝，酸辣开胃。", caution: "高盐、胃酸反流者控制总量。" },
+  { id: "pickled-greens", name: "酸菜心", en: "pickled greens heart", category: "腌菜", nature: "凉", effects: ["开胃"], regions: ["CN"], searchTerms: ["suancaixin", "scx"], summary: "东北腌渍菜心，咸酸爽脆。", caution: "高血压、水肿期注意控盐。" },
+  { id: "fermented-chili-bean", name: "豆瓣辣椒酱", en: "chili bean paste", category: "调料", nature: "热", effects: ["温中"], regions: ["CN"], searchTerms: ["doubanlajiang", "dblj"], summary: "川味重口调味，辛辣鲜香。", caution: "反流、痔疮、上火明显时慎用。" },
+  { id: "pickled-pepper-sauce", name: "泡辣椒酱", en: "pickled chili sauce", category: "腌菜", nature: "热", effects: ["温中"], regions: ["CN"], searchTerms: ["paojiaojiang", "pjj"], summary: "泡椒类腌渍调味，偏热辣。", caution: "胃病患者、控盐期注意总量。" },
+  { id: "mustard-oil", name: "芥末油", en: "mustard oil", category: "调料", nature: "温", effects: ["温中"], regions: ["CN", "IN"], searchTerms: ["jiemoyou", "jmy", "mustard oil"], summary: "辛香调味油，用量宜少。", caution: "胃黏膜敏感、甲状腺问题者慎用。" },
+  { id: "perilla-salt", name: "紫苏盐", en: "perilla salt", category: "调料", nature: "温", effects: ["行气"], regions: ["CN", "JP"], searchTerms: ["zisuyan", "zsy", "perilla salt"], summary: "客家风味调味盐，辛香提味。", caution: "控盐期不宜多用。" },
+  { id: "devils-tongue-berry", name: "刺泡果", en: "wild raspberry", category: "水果", nature: "平", effects: ["生津"], regions: ["CN"], searchTerms: ["cipaoguo", "cpg"], summary: "山野浆果，酸甜，宜熟食少量。", caution: "未成熟或来源不明时不要采食。" }
 );
 
 [
@@ -1317,18 +976,21 @@ RUNTIME_FOOD_EXPANSION.push(
   if (entry) Object.assign(entry, patch);
 });
 
-const foods = dedupeFoods(normalizeFoods([
-  ...(Array.isArray(EXPANDED_FOODS) ? EXPANDED_FOODS : []),
-  ...(typeof CN_SUPPLEMENT_FOODS !== "undefined" ? CN_SUPPLEMENT_FOODS : []),
-  ...(typeof TCM_HERBS_CORE !== "undefined" ? TCM_HERBS_CORE : []),
-  ...filterRuntimeFoodExpansion(RUNTIME_FOOD_EXPANSION, [
-    ...(Array.isArray(EXPANDED_FOODS) ? EXPANDED_FOODS : []),
-    ...(typeof CN_SUPPLEMENT_FOODS !== "undefined" ? CN_SUPPLEMENT_FOODS : []),
-    ...(typeof TCM_HERBS_CORE !== "undefined" ? TCM_HERBS_CORE : [])
-  ])
-]));
-const foodMap = new Map(foods.map((food) => [food.id, food]));
-const publishedRecipeItems = RECIPES.filter((item) => !item.draft);
+let foods = [];
+let foodMap = new Map();
+
+function resolveFoodId(id) {
+  if (typeof FOOD_ID_ALIASES !== "undefined" && FOOD_ID_ALIASES[id]) {
+    return FOOD_ID_ALIASES[id];
+  }
+  return id;
+}
+
+function foodByRecipeId(id) {
+  const resolved = resolveFoodId(id);
+  return foodMap.get(resolved) || foodMap.get(id);
+}
+let publishedRecipeItems = [];
 const RECIPE_SYNDROME_META = {
   "脾气虚": {
     useFor: ["食欲差", "饭后易胀", "疲乏乏力", "大便偏稀"],
@@ -1513,8 +1175,8 @@ function recipeFilterTagTooltip(tagId, lookup) {
   return tag.full;
 }
 
-const RECIPE_FILTER_TAGS = buildRecipeFilterTags(publishedRecipeItems);
-const RECIPE_FILTER_TAG_LOOKUP = buildRecipeFilterTagLookups(RECIPE_FILTER_TAGS);
+let RECIPE_FILTER_TAGS = [];
+let RECIPE_FILTER_TAG_LOOKUP = buildRecipeFilterTagLookups([]);
 
 const RECIPE_STRUCTURE_META = {
   "脾气虚": { timing: ["早餐", "晚餐", "恢复期"], cooking: ["煮粥", "炖煮"], keywords: ["山药", "莲子", "小米", "大枣", "鸡肉"] },
@@ -1597,25 +1259,7 @@ function inferRecipeStructure(item) {
   };
 }
 
-const recipes = publishedRecipeItems.map((item) => ({
-  ...item,
-  sources: item.sources || RECIPE_CLASSIC_SOURCES[item.id] || [],
-  primarySyndrome: item.primarySyndrome || item.syndromes[0] || "",
-  secondarySyndromes: (item.syndromes || []).slice(1),
-  useFor: uniq((item.useFor || []).concat(RECIPE_SYNDROME_META[item.primarySyndrome || item.syndromes[0] || ""]?.useFor || [])),
-  avoidFor: uniq((item.avoidFor || []).concat(RECIPE_SYNDROME_META[item.primarySyndrome || item.syndromes[0] || ""]?.avoidFor || [])),
-  foods: item.foodIds.map((id) => foodMap.get(id)).filter(Boolean)
-})).map((item) => {
-  const inferred = inferRecipeStructure(item);
-  return {
-    ...item,
-    ...inferred,
-    season: (item.season && item.season.length) ? item.season : inferred.season,
-    solarTerm: cleanString(item.solarTerm || ""),
-    useForTags: stringsToFilterTagIds(item.useFor, "useFor", RECIPE_FILTER_TAG_LOOKUP),
-    avoidForTags: stringsToFilterTagIds(item.avoidFor, "avoidFor", RECIPE_FILTER_TAG_LOOKUP)
-  };
-});
+let recipes = [];
 
 function recipeFilterTagsInUse(kind) {
   const field = kind === "useFor" ? "useForTags" : "avoidForTags";
@@ -1631,25 +1275,25 @@ function recipeFilterTagsInUse(kind) {
     .slice(0, kind === "useFor" ? 18 : 16);
 }
 
-const RECIPE_USE_FOR_TAG_OPTIONS = recipeFilterTagsInUse("useFor");
-const RECIPE_AVOID_FOR_TAG_OPTIONS = recipeFilterTagsInUse("avoidFor");
-const RECIPE_TIMING_OPTIONS = uniq(recipes.flatMap((item) => item.timing || [])).slice(0, 12);
-const RECIPE_COOKING_OPTIONS = uniq(recipes.flatMap((item) => item.cooking || [])).slice(0, 12);
-const RECIPE_CORE_FOOD_OPTIONS = uniq(recipes.flatMap((item) => item.coreFoods || [])).slice(0, 18);
-const RECIPE_SEASON_OPTIONS = uniq(recipes.flatMap((item) => item.season || [])).slice(0, 8);
-const RECIPE_BODY_FEEL_OPTIONS = uniq(recipes.flatMap((item) => item.bodyFeel || [])).slice(0, 12);
-const RECIPE_TONIFY_OPTIONS = uniq(recipes.map((item) => item.tonify).filter(Boolean)).slice(0, 4);
-const RECIPE_CLEAR_OPTIONS = uniq(recipes.map((item) => item.clear).filter(Boolean)).slice(0, 4);
-const OFFICIAL_COUNT = foods.filter((food) => food.officialFoodMedicine).length;
-const TCM_HERB_COUNT = foods.filter((food) => food.itemKind === "tcm-herb" || food.category === "中药材").length;
-const TEA_COUNT = foods.filter((food) => food.category === "茶饮").length;
-
-const CATEGORY_COUNTS = countBy(foods, (food) => food.category);
-const NATURE_COUNTS = countBy(foods, (food) => food.nature);
-const REGION_COUNTS = countBy(
-  foods.flatMap((food) => food.regions.map((region) => ({ region }))),
-  (item) => item.region
-);
+let RECIPE_USE_FOR_TAG_OPTIONS = [];
+let RECIPE_AVOID_FOR_TAG_OPTIONS = [];
+let RECIPE_TIMING_OPTIONS = [];
+let RECIPE_COOKING_OPTIONS = [];
+let RECIPE_CORE_FOOD_OPTIONS = [];
+let RECIPE_SEASON_OPTIONS = [];
+let RECIPE_SOLAR_TERM_OPTIONS = [];
+let RECIPE_BODY_FEEL_OPTIONS = [];
+let RECIPE_TONIFY_OPTIONS = [];
+let RECIPE_CLEAR_OPTIONS = [];
+let OFFICIAL_COUNT = 0;
+let FOOD_MEDICINE_CATALOG_ENTRIES = [];
+let FOOD_MEDICINE_CATALOG_BY_ID = new Map();
+let CATALOG_OFFICIAL_COUNT = 0;
+let TCM_HERB_COUNT = 0;
+let TEA_COUNT = 0;
+let CATEGORY_COUNTS = {};
+let NATURE_COUNTS = {};
+let REGION_COUNTS = {};
 
 function collectTagCounts(items, tagKey) {
   const counts = {};
@@ -1662,18 +1306,12 @@ function collectTagCounts(items, tagKey) {
   return counts;
 }
 
-const libraryCatalog = foods.filter((food) => !food.hiddenFromLibrary);
-const PROVINCE_COUNTS = collectTagCounts(libraryCatalog, "provinces");
-const ETHNIC_COUNTS = collectTagCounts(libraryCatalog, "ethnicGroups");
-const PROVINCES_IN_CATALOG = Object.keys(PROVINCE_COUNTS)
-  .filter(isProvinceFilterTag)
-  .sort(
-    (a, b) => PROVINCE_COUNTS[b] - PROVINCE_COUNTS[a] || a.localeCompare(b, "zh-CN")
-  );
-const ETHNICS_IN_CATALOG = Object.keys(ETHNIC_COUNTS).sort(
-  (a, b) => ETHNIC_COUNTS[b] - ETHNIC_COUNTS[a] || a.localeCompare(b, "zh-CN")
-);
-const LIBRARY_ETHNIC_QUICK = ETHNICS_IN_CATALOG.slice(0, 8);
+let libraryCatalog = [];
+let PROVINCE_COUNTS = {};
+let ETHNIC_COUNTS = {};
+let PROVINCES_IN_CATALOG = [];
+let ETHNICS_IN_CATALOG = [];
+let LIBRARY_ETHNIC_QUICK = [];
 
 function getVisibleEthnics() {
   if (state.libraryEthnicsExpanded || ETHNICS_IN_CATALOG.length <= ETHNIC_FILTER_EXPAND_LIMIT) {
@@ -1711,23 +1349,141 @@ function foodMatchesQiTerm(food, term) {
   return (food.effects || []).includes(term) || (food.qiTerms || []).includes(term);
 }
 
-const QI_TERM_COUNTS = Object.fromEntries(
-  QI_TERMS_HOME.map((term) => [
-    term,
-    libraryCatalog.filter((food) => food.itemKind !== "tcm-herb" && foodMatchesQiTerm(food, term)).length
-  ])
-);
+let QI_TERM_COUNTS = {};
 
-boot();
+function rebuildAppIndexes() {
+  foods = dedupeFoods(normalizeFoods([
+    ...(Array.isArray(EXPANDED_FOODS) ? EXPANDED_FOODS : []),
+    ...(typeof CN_SUPPLEMENT_FOODS !== "undefined" ? CN_SUPPLEMENT_FOODS : []),
+    ...(typeof TCM_HERBS_CORE !== "undefined" ? TCM_HERBS_CORE : []),
+    ...filterRuntimeFoodExpansion(RUNTIME_FOOD_EXPANSION, [
+      ...(Array.isArray(EXPANDED_FOODS) ? EXPANDED_FOODS : []),
+      ...(typeof CN_SUPPLEMENT_FOODS !== "undefined" ? CN_SUPPLEMENT_FOODS : []),
+      ...(typeof TCM_HERBS_CORE !== "undefined" ? TCM_HERBS_CORE : [])
+    ])
+  ]));
+  foodMap = new Map(foods.map((food) => [food.id, food]));
+  mergeRecipeBundles();
+  publishedRecipeItems = RECIPES.filter((item) => !item.draft);
+  RECIPE_FILTER_TAGS = buildRecipeFilterTags(publishedRecipeItems);
+  RECIPE_FILTER_TAG_LOOKUP = buildRecipeFilterTagLookups(RECIPE_FILTER_TAGS);
+  recipes = publishedRecipeItems.map((item) => ({
+    ...item,
+    sources: item.sources || RECIPE_CLASSIC_SOURCES[item.id] || [],
+    primarySyndrome: item.primarySyndrome || item.syndromes[0] || "",
+    secondarySyndromes: (item.syndromes || []).slice(1),
+    useFor: uniq((item.useFor || []).concat(RECIPE_SYNDROME_META[item.primarySyndrome || item.syndromes[0] || ""]?.useFor || [])),
+    avoidFor: uniq((item.avoidFor || []).concat(RECIPE_SYNDROME_META[item.primarySyndrome || item.syndromes[0] || ""]?.avoidFor || [])),
+    foods: item.foodIds.map((id) => foodByRecipeId(id)).filter(Boolean)
+  })).map((item) => {
+    const inferred = inferRecipeStructure(item);
+    return {
+      ...item,
+      ...inferred,
+      season: (item.season && item.season.length) ? item.season : inferred.season,
+      solarTerm: cleanString(item.solarTerm || ""),
+      useForTags: stringsToFilterTagIds(item.useFor, "useFor", RECIPE_FILTER_TAG_LOOKUP),
+      avoidForTags: stringsToFilterTagIds(item.avoidFor, "avoidFor", RECIPE_FILTER_TAG_LOOKUP)
+    };
+  });
+  RECIPE_USE_FOR_TAG_OPTIONS = recipeFilterTagsInUse("useFor");
+  RECIPE_AVOID_FOR_TAG_OPTIONS = recipeFilterTagsInUse("avoidFor");
+  RECIPE_TIMING_OPTIONS = uniq(recipes.flatMap((item) => item.timing || [])).slice(0, 12);
+  RECIPE_COOKING_OPTIONS = uniq(recipes.flatMap((item) => item.cooking || [])).slice(0, 12);
+  RECIPE_CORE_FOOD_OPTIONS = uniq(recipes.flatMap((item) => item.coreFoods || [])).slice(0, 18);
+  RECIPE_SEASON_OPTIONS = uniq(recipes.flatMap((item) => item.season || [])).slice(0, 8);
+  RECIPE_SOLAR_TERM_OPTIONS = uniq(recipes.map((item) => item.solarTerm).filter(Boolean))
+    .sort((a, b) => a.localeCompare(b, "zh-CN"));
+  RECIPE_BODY_FEEL_OPTIONS = uniq(recipes.flatMap((item) => item.bodyFeel || [])).slice(0, 12);
+  RECIPE_TONIFY_OPTIONS = uniq(recipes.map((item) => item.tonify).filter(Boolean)).slice(0, 4);
+  RECIPE_CLEAR_OPTIONS = uniq(recipes.map((item) => item.clear).filter(Boolean)).slice(0, 4);
+  OFFICIAL_COUNT = foods.filter((food) => food.officialFoodMedicine).length;
+  FOOD_MEDICINE_CATALOG_ENTRIES = typeof FOOD_MEDICINE_CATALOG !== "undefined" ? FOOD_MEDICINE_CATALOG : [];
+  FOOD_MEDICINE_CATALOG_BY_ID = new Map(
+    FOOD_MEDICINE_CATALOG_ENTRIES.map((row) => [resolveFoodId(row.canonicalId), row])
+  );
+  CATALOG_OFFICIAL_COUNT = FOOD_MEDICINE_CATALOG_ENTRIES.length;
+  TCM_HERB_COUNT = foods.filter((food) => food.itemKind === "tcm-herb" || food.category === "中药材").length;
+  TEA_COUNT = foods.filter((food) => food.category === "茶饮").length;
+  CATEGORY_COUNTS = countBy(foods, (food) => food.category);
+  NATURE_COUNTS = countBy(foods, (food) => food.nature);
+  REGION_COUNTS = countBy(
+    foods.flatMap((food) => food.regions.map((region) => ({ region }))),
+    (item) => item.region
+  );
+  libraryCatalog = foods.filter((food) => !food.hiddenFromLibrary);
+  PROVINCE_COUNTS = collectTagCounts(libraryCatalog, "provinces");
+  ETHNIC_COUNTS = collectTagCounts(libraryCatalog, "ethnicGroups");
+  PROVINCES_IN_CATALOG = Object.keys(PROVINCE_COUNTS)
+    .filter(isProvinceFilterTag)
+    .sort(
+      (a, b) => PROVINCE_COUNTS[b] - PROVINCE_COUNTS[a] || a.localeCompare(b, "zh-CN")
+    );
+  ETHNICS_IN_CATALOG = Object.keys(ETHNIC_COUNTS).sort(
+    (a, b) => ETHNIC_COUNTS[b] - ETHNIC_COUNTS[a] || a.localeCompare(b, "zh-CN")
+  );
+  LIBRARY_ETHNIC_QUICK = ETHNICS_IN_CATALOG.slice(0, 8);
+  QI_TERM_COUNTS = Object.fromEntries(
+    QI_TERMS_HOME.map((term) => [
+      term,
+      libraryCatalog.filter((food) => food.itemKind !== "tcm-herb" && foodMatchesQiTerm(food, term)).length
+    ])
+  );
+}
+
+rebuildAppIndexes();
+
+window.atlasMergeDeferredBundles = function atlasMergeDeferredBundles() {
+  rebuildAppIndexes();
+  if (typeof render === "function" && document.getElementById("app")) {
+    render();
+  }
+};
+
+if (!window.__atlasDeferBoot) boot();
+else window.atlasBoot = boot;
 
 let navStackDepth = 0;
 
+function setupPwaInstallUi() {
+  const banner = document.getElementById("pwaInstallBanner");
+  const installBtn = document.getElementById("pwaInstallBtn");
+  const dismissBtn = document.getElementById("pwaInstallDismiss");
+  if (!banner || !installBtn || !dismissBtn) return;
+
+  const dismissed = localStorage.getItem("atlas-pwa-install-dismissed") === "1";
+  const showBanner = () => {
+    if (dismissed || window.matchMedia("(display-mode: standalone)").matches) return;
+    banner.hidden = false;
+  };
+
+  window.addEventListener("atlas:beforeinstallprompt", showBanner);
+
+  installBtn.addEventListener("click", async () => {
+    const prompt = window.__atlasInstallPrompt;
+    if (!prompt) return;
+    await prompt.prompt();
+    await prompt.userChoice;
+    window.__atlasInstallPrompt = null;
+    banner.hidden = true;
+  });
+
+  dismissBtn.addEventListener("click", () => {
+    localStorage.setItem("atlas-pwa-install-dismissed", "1");
+    banner.hidden = true;
+  });
+}
+
 function boot() {
   bindShellEvents();
+  setupPwaInstallUi();
   applyUrlState();
   syncUrl();
   window.addEventListener("popstate", handlePopState);
   state.isNavigating = !document.startViewTransition;
+  if ((state.view === "library" || state.view === "recipes") && typeof window.atlasEnsureDeferredBundles === "function") {
+    window.atlasEnsureDeferredBundles();
+  }
   render();
   setTimeout(() => {
     state.isNavigating = false;
@@ -1973,12 +1729,14 @@ function applyUrlState() {
   if (params.get("le")) state.libraryEthnic = params.get("le") || "全部";
   if (params.has("lt")) state.libraryTopic = params.get("lt") || "";
   if (params.get("lk")) state.libraryKind = params.get("lk");
+  if (params.get("lob")) state.libraryOfficialBatch = params.get("lob") || "全部";
 
   if (params.get("rn")) state.recipesNature = params.get("rn");
   if (params.get("rs")) state.recipesSyndrome = params.get("rs");
   if (params.get("rcf")) state.recipesCoreFood = params.get("rcf");
   if (params.get("ruf")) state.recipesUseFor = normalizeRecipeFilterValue(params.get("ruf"), "useFor", RECIPE_FILTER_TAG_LOOKUP);
   if (params.get("raf")) state.recipesAvoidFor = normalizeRecipeFilterValue(params.get("raf"), "avoidFor", RECIPE_FILTER_TAG_LOOKUP);
+  if (params.get("rst")) state.recipesSolarTerm = params.get("rst") || "全部";
 
   const foodId = params.get("food");
   const recipeId = params.get("recipe");
@@ -2232,6 +1990,10 @@ function saveJson(key, value) {
 
 function navigate(view) {
   if (state.view === view) return;
+
+  if ((view === "library" || view === "recipes") && typeof window.atlasEnsureDeferredBundles === "function") {
+    window.atlasEnsureDeferredBundles();
+  }
 
   state.view = view;
   if (state.sheet) {
@@ -2544,6 +2306,17 @@ function bindLibraryFilterControls(root) {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.libraryTopic = button.dataset.libraryTopic === state.libraryTopic ? "" : button.dataset.libraryTopic;
+      if (state.libraryTopic !== "药食同源" && state.libraryOfficialBatch !== "全部") {
+        state.libraryOfficialBatch = "全部";
+      }
+      afterLibraryFilterChange({ scrollToResults: true });
+    });
+  });
+
+  root.querySelectorAll("[data-library-official-batch]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.libraryOfficialBatch = button.dataset.libraryOfficialBatch;
       afterLibraryFilterChange({ scrollToResults: true });
     });
   });
@@ -2593,6 +2366,34 @@ function bindCheckerEvents() {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       openFoodDetail(button.dataset.openCheckerFood);
+    });
+  });
+
+  app.querySelectorAll("[data-toggle-pairing-rules]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.checkerRulesOpen = !state.checkerRulesOpen;
+      rerenderCurrent();
+    });
+  });
+
+  const rulesInput = app.querySelector("#checkerRulesQuery");
+  if (rulesInput) {
+    rulesInput.value = state.checkerRulesQuery;
+    bindReactiveInput(rulesInput, (value) => {
+      state.checkerRulesQuery = cleanString(value);
+      rerenderCurrent({ preserveFocusId: "checkerRulesQuery" });
+    });
+  }
+
+  app.querySelectorAll("[data-apply-pairing-rule]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      const ids = (button.dataset.applyPairingRule || "").split(",").filter((id) => foodMap.has(id));
+      if (!ids.length) return;
+      state.checkerSelected = ids.slice(0, 4);
+      state.checkerScrollPending = true;
+      rerenderCurrent();
     });
   });
 
@@ -2683,6 +2484,14 @@ function bindRecipeFilterControls(root, options = {}) {
     });
   });
 
+  root.querySelectorAll("[data-recipes-solarterm]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.recipesSolarTerm = button.dataset.recipesSolarterm;
+      afterRecipeFilterChange({ scrollToResults: true });
+    });
+  });
+
   root.querySelectorAll("[data-recipes-bodyfeel]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
@@ -2749,6 +2558,7 @@ function countLibraryActiveFilters() {
   if (state.libraryRegion !== "ALL") count += 1;
   if (state.libraryProvince !== "全部") count += 1;
   if (state.libraryEthnic !== "全部") count += 1;
+  if (state.libraryOfficialBatch !== "全部") count += 1;
   return count;
 }
 
@@ -2759,6 +2569,7 @@ function countRecipesAdvancedFilters() {
   if (state.recipesTiming !== "全部") count += 1;
   if (state.recipesCooking !== "全部") count += 1;
   if (state.recipesSeason !== "全部") count += 1;
+  if (state.recipesSolarTerm !== "全部") count += 1;
   if (state.recipesBodyFeel !== "全部") count += 1;
   if (state.recipesTonify !== "全部") count += 1;
   if (state.recipesClear !== "全部") count += 1;
@@ -2770,7 +2581,6 @@ function countRecipesActiveFilters() {
   if (state.recipesNature !== "全部") count += 1;
   if (state.recipesSyndrome !== "全部") count += 1;
   if (state.recipesCoreFood !== "全部") count += 1;
-  if (state.recipesSolarTerm !== "全部") count += 1;
   return count;
 }
 
@@ -2785,6 +2595,7 @@ function getLibraryFilterSummary() {
   if (state.libraryRegion !== "ALL") parts.push(REGION_LABELS[state.libraryRegion] || state.libraryRegion);
   if (state.libraryProvince !== "全部") parts.push(state.libraryProvince);
   if (state.libraryEthnic !== "全部") parts.push(state.libraryEthnic);
+  if (state.libraryOfficialBatch !== "全部") parts.push(`${state.libraryOfficialBatch} 批`);
   return parts.length ? parts.join(" · ") : "全部食材";
 }
 
@@ -2843,6 +2654,7 @@ function resetLibraryFilters() {
   state.libraryProvince = "全部";
   state.libraryEthnic = "全部";
   state.libraryTopic = "";
+  state.libraryOfficialBatch = "全部";
   state.libraryProvincesExpanded = false;
   state.libraryEthnicsExpanded = false;
 }
@@ -2936,6 +2748,7 @@ function renderRecipesFilterDrawerContent(resultCount) {
           open: isRecipeFilterGroupOpen("season-feel"),
           bodyHtml: [
             renderChipSection("适宜季节", RECIPE_SEASON_OPTIONS, "data-recipes-season", state.recipesSeason),
+            renderChipSection("节气", RECIPE_SOLAR_TERM_OPTIONS, "data-recipes-solarterm", state.recipesSolarTerm),
             renderChipSection("身体感受", RECIPE_BODY_FEEL_OPTIONS, "data-recipes-bodyfeel", state.recipesBodyFeel)
           ].join("")
         })}
@@ -3062,6 +2875,7 @@ function renderLibraryFilterSections() {
     ? `<button type="button" class="plain-button filter-expand-button" data-toggle-library-ethnics>${state.libraryEthnicsExpanded ? "收起民族" : `展开全部 ${ETHNICS_IN_CATALOG.length} 个`}</button>`
     : "";
   const teaTopicActive = LIBRARY_TEA_TOPICS.includes(state.libraryTopic);
+  const showOfficialBatchFilter = state.libraryTopic === "药食同源" || state.libraryKind === "food-medicine" || state.libraryOfficialBatch !== "全部";
   return `
     <section class="filter-panel filter-panel-library filter-drawer-panel">
       <div class="filter-subsection">
@@ -3082,6 +2896,15 @@ function renderLibraryFilterSections() {
           ${LIBRARY_QI_TOPICS.map((item) => chip(item, item, "data-library-topic", state.libraryTopic === item, compact)).join("")}
         </div>
       </div>
+      ${showOfficialBatchFilter ? `
+      <div class="filter-subsection">
+        <div class="filter-label">食药同源目录批次</div>
+        <div class="filter-group filter-group-wrap">
+          ${["全部", "2002", "2019", "2023"].map((item) => chip(item, item, "data-library-official-batch", state.libraryOfficialBatch === item, compact)).join("")}
+        </div>
+        <p class="filter-hint">按国家目录公布批次筛选；目录共 ${CATALOG_OFFICIAL_COUNT} 项可追溯条目。</p>
+      </div>
+      ` : ""}
       ${renderFilterDisclosureGroup({
         id: "library-tea",
         title: "茶类细分",
@@ -3247,11 +3070,78 @@ function renderLibrary() {
       activeFilterCount: countLibraryActiveFilters(),
       resultCount: items.length,
       resultUnit: "食材",
-      resultMeta: `药食同源 ${OFFICIAL_COUNT} · 中药材 ${TCM_HERB_COUNT} · 茶类 ${TEA_COUNT}`
+      resultMeta: `药食同源 ${OFFICIAL_COUNT}${CATALOG_OFFICIAL_COUNT ? ` · 目录 ${CATALOG_OFFICIAL_COUNT}` : ""} · 中药材 ${TCM_HERB_COUNT} · 茶类 ${TEA_COUNT}`
     })}
 
     <section class="food-list">
       ${items.length ? items.map(foodRow).join("") : emptyState("暂时没有匹配项", "换个别名、功效词或地区试试。", true)}
+    </section>
+  `;
+}
+
+function pairingLevelLabel(level) {
+  if (level === "caution") return "注意";
+  if (level === "gold") return "提示";
+  return "留意";
+}
+
+function renderPairingRulesBrowse() {
+  const query = state.checkerRulesQuery.trim().toLowerCase();
+  const filtered = PAIRING_RULES.filter((rule) => {
+    if (!query) return true;
+    const blob = `${rule.title} ${rule.text} ${rule.category} ${(rule.ids || []).join(" ")}`.toLowerCase();
+    return blob.includes(query);
+  });
+  const byCategory = {};
+  PAIRING_CATEGORY_ORDER.forEach((cat) => { byCategory[cat] = []; });
+  filtered.forEach((rule) => {
+    const cat = rule.category || "其他";
+    if (!byCategory[cat]) byCategory[cat] = [];
+    byCategory[cat].push(rule);
+  });
+  const categories = [...PAIRING_CATEGORY_ORDER, ...Object.keys(byCategory).filter((c) => !PAIRING_CATEGORY_ORDER.includes(c))];
+
+  return `
+    <section class="detail-section pairing-rules-browse">
+      <button type="button" class="pairing-rules-toggle" data-toggle-pairing-rules aria-expanded="${state.checkerRulesOpen}">
+        <span class="section-title">规则库</span>
+        <span class="pairing-rules-toggle-meta">${PAIRING_RULES.length} 条 · ${state.checkerRulesOpen ? "收起" : "展开浏览"}</span>
+      </button>
+      ${state.checkerRulesOpen ? `
+        <p class="section-copy">按类别浏览已整理的搭配规则，点击可快速加入检查。</p>
+        ${searchField({
+          id: "checkerRulesQuery",
+          placeholder: "筛选规则，如：蟹 / 柿子 / 现代安全",
+          value: state.checkerRulesQuery
+        })}
+        ${filtered.length
+          ? categories.map((category) => {
+            const rules = byCategory[category] || [];
+            if (!rules.length) return "";
+            return `
+              <div class="pairing-rules-group">
+                <h3 class="pairing-rules-group-title">${category} <small>${rules.length}</small></h3>
+                <div class="pairing-rules-list">
+                  ${rules.map((rule) => {
+                    const names = rule.ids.map((id) => foodMap.get(id)?.name || id).join(" + ");
+                    return `
+                      <article class="pairing-rule-card pairing-rule-${rule.level || "notice"}">
+                        <div class="pairing-rule-card-head">
+                          <strong>${rule.title}</strong>
+                          <span class="pairing-rule-level">${pairingLevelLabel(rule.level)}</span>
+                        </div>
+                        <p class="pairing-rule-foods">${names}</p>
+                        <p class="pairing-rule-text">${rule.text}</p>
+                        <button type="button" class="plain-button pairing-rule-apply" data-apply-pairing-rule="${rule.ids.join(",")}">加入检查</button>
+                      </article>
+                    `;
+                  }).join("")}
+                </div>
+              </div>
+            `;
+          }).join("")
+          : emptyState("没有匹配规则", "换个关键词试试。")}
+      ` : ""}
     </section>
   `;
 }
@@ -3318,6 +3208,8 @@ function renderChecker() {
       <p class="section-copy">优先级：药物与过敏 &gt; 营养与疾病状态 &gt; 传统食养。标签：现代安全 / 传统食养 / 民间迷思。</p>
       ${result}
     </section>
+
+    ${renderPairingRulesBrowse()}
   `;
 }
 
@@ -3447,7 +3339,7 @@ function renderProfile() {
     <section class="detail-section">
       <h2 class="section-title">数据说明</h2>
       <ul>
-        <li>药食同源专题以可追溯条目方式持续补全，当前库内已整理 ${OFFICIAL_COUNT} 项；中药材核心目录 ${TCM_HERB_COUNT} 项，正名与规格以《中华人民共和国药典》2025年版为基准。</li>
+        <li>药食同源专题以可追溯条目方式持续补全，当前库内已整理 ${OFFICIAL_COUNT} 项${CATALOG_OFFICIAL_COUNT ? `；官方目录 manifest 已收录 ${CATALOG_OFFICIAL_COUNT} 项（2002 / 2019 / 2023 批次）` : ""}。中药材核心目录 ${TCM_HERB_COUNT} 项，正名与规格以《中华人民共和国药典》2025年版为基准。</li>
         <li>非药食同源的中药材条目标注为「参考查阅」，仅供信息整理，不替代诊断、处方或药典医嘱。</li>
         <li>传统食性、气机术语、发物和证候提示属于整理性注释，不替代医疗判断。</li>
         <li>当前页面以中国、日本、韩国、美国、英国等常见日常食材为主，地区扩库会继续分批补充。</li>
@@ -3470,8 +3362,15 @@ function filterFoods() {
       || (food.ethnicGroups || []).includes(state.libraryEthnic);
     const byTopic = !state.libraryTopic || matchTopic(food, state.libraryTopic);
     const byKind = matchLibraryKind(food, state.libraryKind);
-    return byNature && byCategory && byRegion && byProvince && byEthnic && byTopic && byKind;
+    const byOfficialBatch = matchOfficialBatch(food);
+    return byNature && byCategory && byRegion && byProvince && byEthnic && byTopic && byKind && byOfficialBatch;
   });
+}
+
+function matchOfficialBatch(food) {
+  if (state.libraryOfficialBatch === "全部") return true;
+  const catalogRow = FOOD_MEDICINE_CATALOG_BY_ID.get(resolveFoodId(food.id));
+  return catalogRow?.officialBatch === state.libraryOfficialBatch;
 }
 
 function matchLibraryKind(food, kind) {
@@ -3798,7 +3697,7 @@ function isRecipeFilterGroupOpen(groupId) {
   const activeChecks = {
     "body-fit": () => state.recipesUseFor !== "全部" || state.recipesAvoidFor !== "全部",
     "timing-cooking": () => state.recipesTiming !== "全部" || state.recipesCooking !== "全部",
-    "season-feel": () => state.recipesSeason !== "全部" || state.recipesBodyFeel !== "全部",
+    "season-feel": () => state.recipesSeason !== "全部" || state.recipesSolarTerm !== "全部" || state.recipesBodyFeel !== "全部",
     "tonify-clear": () => state.recipesTonify !== "全部" || state.recipesClear !== "全部"
   };
   if (activeChecks[groupId]?.()) return true;
@@ -4093,8 +3992,15 @@ function showSheet(html) {
   bindSheetSubnavSpy(sheetContent);
 }
 
+function recipesForFood(foodId, limit = 6) {
+  return publishedRecipeItems
+    .filter((item) => (item.foodIds || []).some((id) => foodByRecipeId(id)?.id === foodId))
+    .slice(0, limit)
+    .map((item) => recipes.find((recipe) => recipe.id === item.id) || item);
+}
+
 function renderFoodDetail(food) {
-  const relatedRecipes = recipes.filter((item) => item.foodIds.includes(food.id));
+  const relatedRecipes = recipesForFood(food.id, 6);
   const classics = buildClassicNotes(food);
   const sources = Array.isArray(food.sources) ? food.sources : [];
   const favorite = state.favorites.includes(food.id);
@@ -4483,6 +4389,7 @@ function syncUrl(options = {}) {
     if (state.libraryEthnic !== "全部") params.set("le", state.libraryEthnic);
     if (state.libraryTopic) params.set("lt", state.libraryTopic);
     if (state.libraryKind !== "全部") params.set("lk", state.libraryKind);
+    if (state.libraryOfficialBatch !== "全部") params.set("lob", state.libraryOfficialBatch);
   }
   if (state.view === "recipes") {
     if (state.recipesQuery) params.set("q", state.recipesQuery);
@@ -4491,6 +4398,7 @@ function syncUrl(options = {}) {
     if (state.recipesCoreFood !== "全部") params.set("rcf", state.recipesCoreFood);
     if (state.recipesUseFor !== "全部") params.set("ruf", state.recipesUseFor);
     if (state.recipesAvoidFor !== "全部") params.set("raf", state.recipesAvoidFor);
+    if (state.recipesSolarTerm !== "全部") params.set("rst", state.recipesSolarTerm);
   }
   if (state.view === "checker" && state.checkerQuery) params.set("q", state.checkerQuery);
   if (state.view === "checker" && state.checkerSelected.length) params.set("pair", state.checkerSelected.join(","));

@@ -2410,6 +2410,39 @@ const BULK_RECIPES_ENHANCED = [
     "cookingMethod": "pudding"
   },
   {
+    "id": "restored-recipe-074",
+    "name": "佛手雪梨饮",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "bergamot",
+      "pear"
+    ],
+    "subtitle": "养阴和胃",
+    "ingredients": [
+      "佛手 50–100 克（按人数调整）",
+      "雪梨 1 个",
+      "清水适量 500 ml"
+    ],
+    "steps": [
+      "\\u4f5b\\u624b、\\u68a8洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
+    ],
+    "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "按证候与常见食材组合整理的日常食养条目，剂量需按人数与个体耐受调整。"
+      }
+    ],
+    "draft": false,
+    "bulkTier": 2,
+    "cookingMethod": "drink"
+  },
+  {
     "id": "restored-recipe-075",
     "name": "薏米茯苓盅",
     "nature": "凉",
@@ -2839,6 +2872,39 @@ const BULK_RECIPES_ENHANCED = [
     "cookingMethod": "pudding"
   },
   {
+    "id": "restored-recipe-088",
+    "name": "山楂麦芽饮",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "hawthorn",
+      "malt"
+    ],
+    "subtitle": "养阴和胃",
+    "ingredients": [
+      "山楂 50–100 克（按人数调整）",
+      "麦芽 50–100 克（按人数调整）",
+      "清水适量 500 ml"
+    ],
+    "steps": [
+      "\\u5c71\\u6942、\\u9ea6\\u82bd洗净。",
+      "加清水 500–800 ml，小火煮 15–20 分钟出味，避免久煎偏苦或偏燥。",
+      "滤渣或不滤均可，温饮少量；空腹、睡前及明显上火时不宜大量。"
+    ],
+    "note": "按“胃阴虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "按证候与常见食材组合整理的日常食养条目，剂量需按人数与个体耐受调整。"
+      }
+    ],
+    "draft": false,
+    "bulkTier": 2,
+    "cookingMethod": "drink"
+  },
+  {
     "id": "restored-recipe-089",
     "name": "雪梨银耳盅",
     "nature": "凉",
@@ -3233,6 +3299,39 @@ const BULK_RECIPES_ENHANCED = [
     "draft": false,
     "bulkTier": 2,
     "cookingMethod": "soup"
+  },
+  {
+    "id": "restored-recipe-101",
+    "name": "山药莲子羹",
+    "nature": "平",
+    "syndromes": [
+      "脾阳虚"
+    ],
+    "foodIds": [
+      "yam",
+      "lotus-seed"
+    ],
+    "subtitle": "温脾助运",
+    "ingredients": [
+      "山药 100 克",
+      "莲子 20 克",
+      "清水适量 500 ml"
+    ],
+    "steps": [
+      "\\u5c71\\u836f、\\u83b2\\u5b50分别处理，银耳、百合等干货提前泡发。",
+      "加清水同煮至软烂，可按温脾助运思路做成羹状。",
+      "温热少量食用，甜腻或痰湿偏重时控制频率。"
+    ],
+    "note": "按“脾阳虚”的日常食养思路整理，强调温和、规律、少量持续，不把食疗方当成处方替代。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "按证候与常见食材组合整理的日常食养条目，剂量需按人数与个体耐受调整。"
+      }
+    ],
+    "draft": false,
+    "bulkTier": 2,
+    "cookingMethod": "pudding"
   },
   {
     "id": "restored-recipe-102",

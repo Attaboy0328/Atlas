@@ -6,9 +6,17 @@
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import {
+  CN_JSON_SOURCES,
+  loadFoodCatalogIds,
+  loadFoodIdAliasMap,
+  normalizeRecipeFoodIds,
+  readCnJson,
+  root,
+  writeJsAliasBundle
+} from "./lib/food-catalog.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const root = path.join(__dirname, "..");
 const dataDir = path.join(root, "data", "cn");
 const genDir = path.join(root, "generated");
 
@@ -26,38 +34,8 @@ const BULK_SOURCE = {
   summary: "按证候与常见食材组合整理的日常食养条目，剂量需按人数与个体耐受调整。"
 };
 
-const CN_JSON_SOURCES = [
-  "pairing-aliases.json",
-  "regional-foods.json",
-  "expansion-batch4.json",
-  "foods-ingredients.json",
-  "foods-seasonal-river.json",
-  "foods-medicine-homologous.json"
-];
-
 function readJson(name, fallback = []) {
-  const file = path.join(dataDir, name);
-  if (!fs.existsSync(file)) return fallback;
-  return JSON.parse(fs.readFileSync(file, "utf8"));
-}
-
-function loadFoodCatalogIds() {
-  const ids = new Set();
-  const expanded = fs.readFileSync(path.join(root, "foods-expanded.js"), "utf8");
-  const fRe = /f\(\s*["']([^"']+)["']/g;
-  let m;
-  while ((m = fRe.exec(expanded))) ids.add(m[1]);
-  CN_JSON_SOURCES.flatMap((file) => readJson(file)).forEach((food) => ids.add(food.id));
-  const tcmPath = path.join(root, "data", "tcm", "herbs-chp2025.json");
-  if (fs.existsSync(tcmPath)) {
-    JSON.parse(fs.readFileSync(tcmPath, "utf8")).forEach((herb) => ids.add(herb.id));
-  }
-  const runtimeMatch = fs.readFileSync(path.join(root, "app.js"), "utf8").match(/const RUNTIME_FOOD_EXPANSION = \[([\s\S]*?)\n\];/);
-  if (runtimeMatch) {
-    const idRe = /id:\s*["']([^"']+)["']/g;
-    while ((m = idRe.exec(runtimeMatch[1]))) ids.add(m[1]);
-  }
-  return ids;
+  return readCnJson(name, fallback);
 }
 
 function foodNameFromId(id) {
@@ -186,8 +164,8 @@ function inferNature(foodIds, fallback) {
   return closest[0];
 }
 
-function enhanceBulkRecipe(item, catalog, publishedNames) {
-  const foodIds = (item.foodIds || []).filter((id) => catalog.has(id));
+function enhanceBulkRecipe(item, catalog, publishedNames, aliasMap) {
+  const foodIds = normalizeRecipeFoodIds(item.foodIds || [], catalog, aliasMap);
   if (foodIds.length < 1) return null;
   if (publishedNames.has(item.name)) return null;
 
@@ -240,23 +218,29 @@ function mergeCnFoods() {
 
 const cnFoods = mergeCnFoods();
 const catalog = loadFoodCatalogIds();
+const aliasMap = loadFoodIdAliasMap();
 const publishedNames = collectPublishedRecipeNames();
 const rawBulk = readJson("bulk-recipes.json");
 const enhancedBulk = rawBulk
-  .map((item) => enhanceBulkRecipe(item, catalog, publishedNames))
+  .map((item) => enhanceBulkRecipe(item, catalog, publishedNames, aliasMap))
   .filter(Boolean);
 
 fs.mkdirSync(genDir, { recursive: true });
+writeJsAliasBundle(aliasMap);
 writeJs(path.join(genDir, "foods-cn-bundle.js"), "CN_SUPPLEMENT_FOODS", cnFoods);
 writeJs(path.join(genDir, "recipes-bulk.js"), "BULK_RECIPES_ENHANCED", enhancedBulk);
-function loadPairingRulesExtra() {
+function loadPairingRulesAll() {
   return [
+    ...readJson("pairing-rules-base.json"),
     ...readJson("pairing-rules-extra.json"),
     ...readJson("pairing-rules-extra-batch2.json", [])
   ];
 }
 
-writeJs(path.join(genDir, "pairing-rules-extra.js"), "PAIRING_RULES_EXTRA", loadPairingRulesExtra());
+writeJs(path.join(genDir, "pairing-rules-extra.js"), "PAIRING_RULES_ALL", loadPairingRulesAll());
+
+const catalogManifest = readJson("food-medicine-catalog.json", []);
+writeJs(path.join(genDir, "food-medicine-catalog.js"), "FOOD_MEDICINE_CATALOG", catalogManifest);
 
 const publicDir = path.join(root, "public", "data", "cn");
 fs.mkdirSync(publicDir, { recursive: true });
@@ -265,4 +249,6 @@ fs.writeFileSync(path.join(publicDir, "bulk-recipes-enhanced.json"), JSON.string
 
 console.log(`CN foods: ${cnFoods.length} (pairing + regional + batch4 + ingredients)`);
 console.log(`Bulk recipes enhanced & published: ${enhancedBulk.length} / ${rawBulk.length}`);
-console.log(`Output: generated/foods-cn-bundle.js, generated/recipes-bulk.js, generated/pairing-rules-extra.js`);
+console.log(`Food id aliases: ${Object.keys(aliasMap).length}`);
+console.log(`Food-medicine catalog: ${catalogManifest.length} entries`);
+console.log(`Output: generated/foods-cn-bundle.js, generated/recipes-bulk.js, generated/pairing-rules-extra.js, generated/food-id-aliases.js, generated/food-medicine-catalog.js`);

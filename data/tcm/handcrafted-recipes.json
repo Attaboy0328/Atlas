@@ -1,0 +1,1348 @@
+[
+  {
+    "id": "ginger-jujube-tea",
+    "name": "姜枣饮",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "ginger",
+      "jujube"
+    ],
+    "subtitle": "日常暖胃饮",
+    "ingredients": [
+      "生姜 3 片",
+      "红枣 5 枚",
+      "清水 500 ml"
+    ],
+    "steps": [
+      "红枣去核，与生姜同煮 12 分钟",
+      "温热少量饮用"
+    ],
+    "note": "偏寒、胃脘不舒、晨起怕冷时更常用。"
+  },
+  {
+    "id": "yam-red-date-porridge",
+    "name": "山药红枣粥",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "yam",
+      "jujube",
+      "rice"
+    ],
+    "subtitle": "益气养胃",
+    "ingredients": [
+      "山药 80 克",
+      "红枣 6 枚",
+      "大米 80 克"
+    ],
+    "steps": [
+      "山药切小块",
+      "与大米、红枣同煮成粥"
+    ],
+    "note": "更适合食欲差、疲乏、饭后易胀的人。"
+  },
+  {
+    "id": "lotus-lily-congee",
+    "name": "莲子百合粥",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "阴虚内热"
+    ],
+    "foodIds": [
+      "lotus-seed",
+      "lily-bulb",
+      "rice"
+    ],
+    "subtitle": "清润和胃",
+    "ingredients": [
+      "莲子 20 克",
+      "百合 20 克",
+      "粳米 80 克"
+    ],
+    "steps": [
+      "莲子浸泡后与米同煮",
+      "后下百合再煮软"
+    ],
+    "note": "适合口干、胃中燥热感较明显时。"
+  },
+  {
+    "id": "white-fungus-pear-soup",
+    "name": "银耳雪梨汤",
+    "nature": "凉",
+    "syndromes": [
+      "胃阴虚",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "white-fungus",
+      "pear"
+    ],
+    "subtitle": "润燥生津",
+    "ingredients": [
+      "银耳 10 克",
+      "梨 1 个",
+      "清水适量"
+    ],
+    "steps": [
+      "银耳泡发后小火煮软",
+      "加入雪梨再煮 15 分钟"
+    ],
+    "note": "偏重清润，不适合明显腹泻时大量喝。"
+  },
+  {
+    "id": "codonopsis-astragalus-congee",
+    "name": "党参黄芪红枣粥",
+    "nature": "温",
+    "syndromes": [
+      "中气下陷",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "codonopsis",
+      "astragalus",
+      "jujube",
+      "rice"
+    ],
+    "subtitle": "补中益气",
+    "ingredients": [
+      "党参 10 克",
+      "黄芪 10 克",
+      "红枣 8 枚",
+      "大米 80 克"
+    ],
+    "steps": [
+      "党参黄芪先煮取汁",
+      "药汁与米、红枣同煮成粥"
+    ],
+    "note": "更适合作为体虚、久病后恢复期的日常调养。"
+  },
+  {
+    "id": "poria-coix-congee",
+    "name": "茯苓薏米粥",
+    "nature": "平",
+    "syndromes": [
+      "痰湿困脾",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "poria",
+      "coix-seed",
+      "rice"
+    ],
+    "subtitle": "健脾渗湿",
+    "ingredients": [
+      "茯苓 15 克",
+      "薏米 30 克",
+      "大米 60 克"
+    ],
+    "steps": [
+      "薏米提前浸泡",
+      "与茯苓、大米同煮"
+    ],
+    "note": "偏向脾虚夹湿、四肢困重、舌苔厚腻场景。"
+  },
+  {
+    "id": "chenpi-millet-congee",
+    "name": "陈皮小米粥",
+    "nature": "温",
+    "syndromes": [
+      "肝胃不和",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "chenpi",
+      "millet"
+    ],
+    "subtitle": "和胃理气",
+    "ingredients": [
+      "陈皮 3 克",
+      "小米 80 克"
+    ],
+    "steps": [
+      "陈皮先煮 5 分钟",
+      "加小米同煮成粥"
+    ],
+    "note": "饭后胀满、嗳气明显时更常见。"
+  },
+  {
+    "id": "radish-soup",
+    "name": "白萝卜陈皮汤",
+    "nature": "凉",
+    "syndromes": [
+      "理气",
+      "降气",
+      "肝胃不和"
+    ],
+    "foodIds": [
+      "white-radish",
+      "chenpi"
+    ],
+    "subtitle": "顺气消食",
+    "ingredients": [
+      "白萝卜 200 克",
+      "陈皮 3 克"
+    ],
+    "steps": [
+      "白萝卜切块",
+      "与陈皮同煮 20 分钟"
+    ],
+    "note": "适合油腻后胀满，但脾胃虚寒者不宜多。"
+  },
+  {
+    "id": "longan-millet-porridge",
+    "name": "桂圆小米粥",
+    "nature": "温",
+    "syndromes": [
+      "血虚",
+      "气血两虚"
+    ],
+    "foodIds": [
+      "longan",
+      "millet"
+    ],
+    "subtitle": "养血安神",
+    "ingredients": [
+      "桂圆肉 12 克",
+      "小米 80 克"
+    ],
+    "steps": [
+      "同煮成粥"
+    ],
+    "note": "偏温甜润，易上火者控制频率。"
+  },
+  {
+    "id": "black-sesame-walnut-paste",
+    "name": "黑芝麻核桃糊",
+    "nature": "温",
+    "syndromes": [
+      "肾阳虚",
+      "血虚"
+    ],
+    "foodIds": [
+      "black-sesame",
+      "walnut"
+    ],
+    "subtitle": "温润滋养",
+    "ingredients": [
+      "黑芝麻 20 克",
+      "核桃仁 20 克"
+    ],
+    "steps": [
+      "炒香后打糊",
+      "温热食用"
+    ],
+    "note": "适合作为少量加餐，不宜过甜过油。"
+  },
+  {
+    "id": "mulberry-red-date-drink",
+    "name": "桑葚红枣饮",
+    "nature": "平",
+    "syndromes": [
+      "血虚",
+      "阴虚内热"
+    ],
+    "foodIds": [
+      "mulberry",
+      "jujube"
+    ],
+    "subtitle": "养血生津",
+    "ingredients": [
+      "桑葚 15 克",
+      "红枣 5 枚"
+    ],
+    "steps": [
+      "煮 15 分钟后温服"
+    ],
+    "note": "更适合口干、疲乏又兼轻度血虚的人。"
+  },
+  {
+    "id": "duck-pear-soup",
+    "name": "鸭梨百合汤",
+    "nature": "凉",
+    "syndromes": [
+      "肺阴虚",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "duck",
+      "pear",
+      "lily-bulb"
+    ],
+    "subtitle": "润养清和",
+    "ingredients": [
+      "鸭肉 150 克",
+      "梨 1 个",
+      "百合 20 克"
+    ],
+    "steps": [
+      "鸭肉先焯水",
+      "与梨、百合同炖"
+    ],
+    "note": "偏清润，适合燥热与咽干。"
+  },
+  {
+    "id": "apricot-lily-soup",
+    "name": "杏仁百合露",
+    "nature": "凉",
+    "syndromes": [
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "almond",
+      "lily-bulb"
+    ],
+    "subtitle": "润肺和中",
+    "ingredients": [
+      "甜杏仁 10 克",
+      "百合 20 克"
+    ],
+    "steps": [
+      "煮软打匀"
+    ],
+    "note": "坚果过敏人群避免。"
+  },
+  {
+    "id": "shepherd-purse-lean-soup",
+    "name": "荠菜瘦肉汤",
+    "nature": "平",
+    "syndromes": [
+      "脾不统血"
+    ],
+    "foodIds": [
+      "shepherd-purse",
+      "pork"
+    ],
+    "subtitle": "健脾和中",
+    "ingredients": [
+      "荠菜 150 克",
+      "瘦肉 120 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "与荠菜同煮"
+    ],
+    "note": "更适合作为日常温和配汤。"
+  },
+  {
+    "id": "beef-yam-soup",
+    "name": "山药牛肉汤",
+    "nature": "温",
+    "syndromes": [
+      "脾不统血",
+      "气血两虚"
+    ],
+    "foodIds": [
+      "yam",
+      "beef"
+    ],
+    "subtitle": "益气健脾",
+    "ingredients": [
+      "山药 120 克",
+      "牛肉 150 克"
+    ],
+    "steps": [
+      "牛肉先炖软",
+      "加入山药再煮熟"
+    ],
+    "note": "偏补益，湿热偏盛者少量。"
+  },
+  {
+    "id": "pumpkin-rice-paste",
+    "name": "南瓜米糊",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "中气下陷"
+    ],
+    "foodIds": [
+      "pumpkin",
+      "rice"
+    ],
+    "subtitle": "和中助运",
+    "ingredients": [
+      "南瓜 150 克",
+      "大米 60 克"
+    ],
+    "steps": [
+      "蒸熟南瓜",
+      "与煮熟的大米打糊"
+    ],
+    "note": "适合恢复期和食欲差时做轻食。"
+  },
+  {
+    "id": "lamb-ginger-soup",
+    "name": "生姜羊肉汤",
+    "nature": "热",
+    "syndromes": [
+      "脾阳虚",
+      "肾阳虚"
+    ],
+    "foodIds": [
+      "ginger",
+      "lamb"
+    ],
+    "subtitle": "温中散寒",
+    "ingredients": [
+      "羊肉 200 克",
+      "生姜 20 克"
+    ],
+    "steps": [
+      "羊肉焯水",
+      "与生姜同炖"
+    ],
+    "note": "偏热，口干便秘或明显上火时不宜。"
+  },
+  {
+    "id": "chicken-poria-stew",
+    "name": "茯苓鸡汤",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "poria",
+      "chicken"
+    ],
+    "subtitle": "健脾祛湿",
+    "ingredients": [
+      "茯苓 15 克",
+      "鸡肉 200 克"
+    ],
+    "steps": [
+      "鸡肉焯水",
+      "与茯苓慢炖"
+    ],
+    "note": "兼顾补益与渗湿。"
+  },
+  {
+    "id": "hawthorn-malt-drink",
+    "name": "山楂麦芽饮",
+    "nature": "平",
+    "syndromes": [
+      "食积",
+      "肝胃不和"
+    ],
+    "foodIds": [
+      "hawthorn",
+      "malt"
+    ],
+    "subtitle": "消食和胃",
+    "ingredients": [
+      "山楂 10 克",
+      "炒麦芽 10 克"
+    ],
+    "steps": [
+      "加水煮 12 分钟"
+    ],
+    "note": "更适合油腻积滞，不适合空腹长期饮用。"
+  },
+  {
+    "id": "lotus-root-soup",
+    "name": "莲藕排骨汤",
+    "nature": "平",
+    "syndromes": [
+      "气血两虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "lotus-root",
+      "pork"
+    ],
+    "subtitle": "和中养血",
+    "ingredients": [
+      "莲藕 250 克",
+      "排骨 250 克"
+    ],
+    "steps": [
+      "排骨焯水",
+      "与莲藕同炖"
+    ],
+    "note": "家常度高，适合大多数日常调理。"
+  },
+  {
+    "id": "yam-lotus-bowl",
+    "name": "山药莲子羹",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "脾不统血"
+    ],
+    "foodIds": [
+      "yam",
+      "lotus-seed"
+    ],
+    "subtitle": "健脾和中",
+    "ingredients": [
+      "山药 100 克",
+      "莲子 20 克",
+      "清水适量"
+    ],
+    "steps": [
+      "莲子先浸泡",
+      "与山药同煮至软烂"
+    ],
+    "note": "适合做成偏温和的日常调养羹。"
+  },
+  {
+    "id": "astragalus-chicken-soup",
+    "name": "黄芪鸡汤",
+    "nature": "温",
+    "syndromes": [
+      "中气下陷",
+      "气血两虚"
+    ],
+    "foodIds": [
+      "astragalus",
+      "chicken",
+      "jujube"
+    ],
+    "subtitle": "补气养中",
+    "ingredients": [
+      "黄芪 10 克",
+      "鸡肉 200 克",
+      "红枣 6 枚"
+    ],
+    "steps": [
+      "鸡肉焯水",
+      "与黄芪红枣同炖"
+    ],
+    "note": "更适合恢复期和疲乏明显时，正在用药者先看个人提醒。"
+  },
+  {
+    "id": "chenpi-rice-water",
+    "name": "陈皮米汤",
+    "nature": "温",
+    "syndromes": [
+      "肝胃不和",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "chenpi",
+      "rice"
+    ],
+    "subtitle": "和胃理气",
+    "ingredients": [
+      "陈皮 3 克",
+      "大米 50 克"
+    ],
+    "steps": [
+      "陈皮先煮 5 分钟",
+      "加入米汤同煮"
+    ],
+    "note": "适合胃口差、饭后胀满、嗳气偏多时少量饮用。"
+  },
+  {
+    "id": "white-fungus-lily-bowl",
+    "name": "银耳百合羹",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "white-fungus",
+      "lily-bulb"
+    ],
+    "subtitle": "润养生津",
+    "ingredients": [
+      "银耳 10 克",
+      "百合 20 克",
+      "清水适量"
+    ],
+    "steps": [
+      "银耳先泡发煮软",
+      "后下百合再煮"
+    ],
+    "note": "偏润养，腹泻时不宜多食。"
+  },
+  {
+    "id": "lotus-jujube-congee",
+    "name": "莲子红枣粥",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "血虚"
+    ],
+    "foodIds": [
+      "lotus-seed",
+      "jujube",
+      "rice"
+    ],
+    "subtitle": "补脾养心",
+    "ingredients": [
+      "莲子 20 克",
+      "红枣 6 枚",
+      "大米 80 克"
+    ],
+    "steps": [
+      "同煮成粥"
+    ],
+    "note": "比纯甜品更适合作为正餐中的软食调养。"
+  },
+  {
+    "id": "ginger-chenpi-drink",
+    "name": "生姜陈皮饮",
+    "nature": "温",
+    "syndromes": [
+      "理气",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "ginger",
+      "chenpi"
+    ],
+    "subtitle": "温中理气",
+    "ingredients": [
+      "生姜 3 片",
+      "陈皮 3 克"
+    ],
+    "steps": [
+      "加水煮 10 分钟"
+    ],
+    "note": "适合受凉后胃里发堵、食欲差的场景，口干明显时不宜太频繁。"
+  },
+  {
+    "id": "millet-poria-bowl",
+    "name": "小米茯苓粥",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "millet",
+      "poria"
+    ],
+    "subtitle": "健脾渗湿",
+    "ingredients": [
+      "小米 80 克",
+      "茯苓 12 克"
+    ],
+    "steps": [
+      "茯苓煎汁",
+      "以汁煮小米成粥"
+    ],
+    "note": "比重补更轻，更适合日常慢慢调。"
+  },
+  {
+    "id": "bergamot-pear-drink",
+    "name": "佛手雪梨饮",
+    "nature": "凉",
+    "syndromes": [
+      "肝胃不和",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "bergamot",
+      "pear"
+    ],
+    "subtitle": "理气生津",
+    "ingredients": [
+      "佛手 5 克",
+      "雪梨 1 个"
+    ],
+    "steps": [
+      "佛手先煮",
+      "再下雪梨稍煮"
+    ],
+    "note": "适合胀闷伴口干场景，腹泻时不宜偏凉多饮。"
+  },
+  {
+    "id": "biandou-yam-congee",
+    "name": "白扁豆山药粥",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "yam",
+      "soybean",
+      "rice"
+    ],
+    "subtitle": "健脾和中",
+    "ingredients": [
+      "山药 100 克",
+      "白扁豆 30 克",
+      "粳米 80 克"
+    ],
+    "steps": [
+      "白扁豆提前浸泡",
+      "与山药、粳米同煮成粥"
+    ],
+    "note": "更适合食欲差、饭后困重、脾虚夹湿的清淡调养。"
+  },
+  {
+    "id": "lianzi-qianshi-millet",
+    "name": "莲子芡实小米粥",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "脾不统血"
+    ],
+    "foodIds": [
+      "lotus-seed",
+      "millet",
+      "rice"
+    ],
+    "subtitle": "补脾固摄",
+    "ingredients": [
+      "莲子 20 克",
+      "芡实 20 克",
+      "小米 80 克"
+    ],
+    "steps": [
+      "莲子与芡实先煮 10 分钟",
+      "再下小米慢煮成粥"
+    ],
+    "note": "适合久泻后、疲乏和需要做得更稳一点的脾虚场景。"
+  },
+  {
+    "id": "dangshen-baizhu-lean-soup",
+    "name": "党参白术瘦肉汤",
+    "nature": "温",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "codonopsis",
+      "pork"
+    ],
+    "subtitle": "益气健脾",
+    "ingredients": [
+      "党参 10 克",
+      "白术 8 克",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "与党参、白术同炖 45 分钟"
+    ],
+    "note": "更适合胃口弱、乏力、吃完容易腹胀的人。"
+  },
+  {
+    "id": "chaomi-shanzha-drink",
+    "name": "炒米山楂饮",
+    "nature": "平",
+    "syndromes": [
+      "食积",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "hawthorn",
+      "rice"
+    ],
+    "subtitle": "消食和胃",
+    "ingredients": [
+      "炒米 20 克",
+      "山楂 10 克",
+      "清水 500 ml"
+    ],
+    "steps": [
+      "炒米略洗",
+      "与山楂同煮 12 分钟后温饮"
+    ],
+    "note": "更适合油腻积滞、胃里发堵，但本身虚寒明显者不宜过量。"
+  },
+  {
+    "id": "pumpkin-biancong-soup",
+    "name": "南瓜白扁豆羹",
+    "nature": "温",
+    "syndromes": [
+      "中气下陷",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "pumpkin",
+      "soybean"
+    ],
+    "subtitle": "补中助运",
+    "ingredients": [
+      "南瓜 200 克",
+      "白扁豆 30 克"
+    ],
+    "steps": [
+      "白扁豆煮熟",
+      "与蒸熟南瓜一同打成羹"
+    ],
+    "note": "适合恢复期、食欲差和中气不足的轻食场景。"
+  },
+  {
+    "id": "sharen-chenpi-fish",
+    "name": "砂仁陈皮鲫鱼汤",
+    "nature": "温",
+    "syndromes": [
+      "肝胃不和",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "chenpi",
+      "crucian-carp"
+    ],
+    "subtitle": "和胃理气",
+    "ingredients": [
+      "鲫鱼 1 条",
+      "砂仁 3 克",
+      "陈皮 3 克"
+    ],
+    "steps": [
+      "鲫鱼煎至微黄",
+      "与砂仁、陈皮同炖 30 分钟"
+    ],
+    "note": "更适合胃口差、嗳气、饭后胀满的人。"
+  },
+  {
+    "id": "danggui-huangqi-chicken",
+    "name": "当归黄芪鸡汤",
+    "nature": "温",
+    "syndromes": [
+      "气血两虚",
+      "血虚"
+    ],
+    "foodIds": [
+      "astragalus",
+      "chicken",
+      "jujube"
+    ],
+    "subtitle": "补气养血",
+    "ingredients": [
+      "黄芪 12 克",
+      "当归 6 克",
+      "鸡肉 200 克",
+      "红枣 6 枚"
+    ],
+    "steps": [
+      "鸡肉焯水",
+      "与黄芪、当归、红枣同炖 50 分钟"
+    ],
+    "note": "适合久病体虚、面色少华、乏力明显的日常调养。"
+  },
+  {
+    "id": "longan-goji-steamed-egg",
+    "name": "桂圆枸杞蒸蛋",
+    "nature": "温",
+    "syndromes": [
+      "血虚",
+      "气血两虚"
+    ],
+    "foodIds": [
+      "longan-dried",
+      "egg"
+    ],
+    "subtitle": "养血安神",
+    "ingredients": [
+      "桂圆干 10 克",
+      "枸杞 8 克",
+      "鸡蛋 2 个"
+    ],
+    "steps": [
+      "鸡蛋打散调匀",
+      "加桂圆、枸杞蒸熟"
+    ],
+    "note": "更适合劳倦后心烦、睡得浅、气血偏弱的人。"
+  },
+  {
+    "id": "redbean-jujube-congee",
+    "name": "红豆红枣糯米粥",
+    "nature": "平",
+    "syndromes": [
+      "气血两虚",
+      "血虚"
+    ],
+    "foodIds": [
+      "red-bean",
+      "jujube",
+      "glutinous-rice"
+    ],
+    "subtitle": "养血和中",
+    "ingredients": [
+      "红豆 30 克",
+      "红枣 8 枚",
+      "糯米 60 克"
+    ],
+    "steps": [
+      "红豆先煮软",
+      "再下糯米、红枣煮成粥"
+    ],
+    "note": "适合气血不足、食量偏小的人，痰湿偏重时不宜太黏太甜。"
+  },
+  {
+    "id": "black-chicken-danggui",
+    "name": "乌鸡当归汤",
+    "nature": "温",
+    "syndromes": [
+      "血虚",
+      "气血两虚"
+    ],
+    "foodIds": [
+      "chicken"
+    ],
+    "subtitle": "养血调中",
+    "ingredients": [
+      "乌鸡 250 克",
+      "当归 6 克",
+      "生姜 2 片"
+    ],
+    "steps": [
+      "乌鸡焯水",
+      "与当归、生姜小火慢炖"
+    ],
+    "note": "更适合血虚、产后恢复或体虚怕冷的人群。"
+  },
+  {
+    "id": "rose-chenpi-drink",
+    "name": "玫瑰陈皮饮",
+    "nature": "温",
+    "syndromes": [
+      "理气",
+      "肝郁气滞"
+    ],
+    "foodIds": [
+      "chenpi"
+    ],
+    "subtitle": "疏肝理气",
+    "ingredients": [
+      "玫瑰花 6 克",
+      "陈皮 3 克"
+    ],
+    "steps": [
+      "热水冲泡或小火煮 8 分钟"
+    ],
+    "note": "更适合情绪郁闷、胸胁不舒、饭量下降的轻度场景。"
+  },
+  {
+    "id": "foshou-maiya-drink",
+    "name": "佛手麦芽饮",
+    "nature": "平",
+    "syndromes": [
+      "行气",
+      "理气",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "bergamot",
+      "malt"
+    ],
+    "subtitle": "理气和胃",
+    "ingredients": [
+      "佛手 5 克",
+      "炒麦芽 10 克"
+    ],
+    "steps": [
+      "加水煮 10 分钟后温饮"
+    ],
+    "note": "更适合肝胃不舒、食积轻、嗳气偏多的人。"
+  },
+  {
+    "id": "radish-beef-soup",
+    "name": "陈皮白萝卜牛肉汤",
+    "nature": "温",
+    "syndromes": [
+      "降气",
+      "理气"
+    ],
+    "foodIds": [
+      "white-radish",
+      "chenpi",
+      "beef"
+    ],
+    "subtitle": "顺气和中",
+    "ingredients": [
+      "白萝卜 200 克",
+      "牛肉 150 克",
+      "陈皮 3 克"
+    ],
+    "steps": [
+      "牛肉焯水后先炖软",
+      "再下白萝卜与陈皮"
+    ],
+    "note": "更适合气机不畅、吃后发胀的人。"
+  },
+  {
+    "id": "zisu-sharen-congee",
+    "name": "紫苏砂仁粥",
+    "nature": "温",
+    "syndromes": [
+      "理气",
+      "气虚"
+    ],
+    "foodIds": [
+      "rice"
+    ],
+    "subtitle": "和胃醒脾",
+    "ingredients": [
+      "紫苏叶 6 克",
+      "砂仁 3 克",
+      "粳米 80 克"
+    ],
+    "steps": [
+      "紫苏与砂仁煎汁",
+      "用药汁煮粳米成粥"
+    ],
+    "note": "适合胃口不开、恶心反胃、轻度气虚夹滞的人。"
+  },
+  {
+    "id": "huangqi-longan-millet",
+    "name": "黄芪桂圆小米粥",
+    "nature": "温",
+    "syndromes": [
+      "气血两虚",
+      "中气下陷"
+    ],
+    "foodIds": [
+      "astragalus",
+      "longan-dried",
+      "millet"
+    ],
+    "subtitle": "补气养血",
+    "ingredients": [
+      "黄芪 10 克",
+      "桂圆干 10 克",
+      "小米 80 克"
+    ],
+    "steps": [
+      "黄芪先煮汁",
+      "再与桂圆、小米同煮"
+    ],
+    "note": "更适合作为疲乏、面色差、久坐无力时的温和粥方。"
+  },
+  {
+    "id": "chuanbei-pear",
+    "name": "川贝炖梨",
+    "nature": "凉",
+    "syndromes": [
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "pear"
+    ],
+    "subtitle": "润肺止咳",
+    "ingredients": [
+      "雪梨 1 个",
+      "川贝粉 2 克"
+    ],
+    "steps": [
+      "梨去核留盅",
+      "填入川贝粉后蒸熟"
+    ],
+    "note": "适合咽干、干咳、痰少而黏的场景。"
+  },
+  {
+    "id": "yuzhu-maidong-congee",
+    "name": "玉竹麦冬粥",
+    "nature": "凉",
+    "syndromes": [
+      "肺阴虚",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "rice"
+    ],
+    "subtitle": "养阴润燥",
+    "ingredients": [
+      "玉竹 12 克",
+      "麦冬 10 克",
+      "粳米 80 克"
+    ],
+    "steps": [
+      "玉竹、麦冬先煎汁",
+      "以药汁煮粥"
+    ],
+    "note": "更适合口干、咽燥、胃中燥热感较明显的人。"
+  },
+  {
+    "id": "almond-lily-soup",
+    "name": "南北杏百合汤",
+    "nature": "平",
+    "syndromes": [
+      "肺气虚",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "lily-bulb"
+    ],
+    "subtitle": "润肺和中",
+    "ingredients": [
+      "南杏仁 10 克",
+      "北杏仁 6 克",
+      "百合 20 克"
+    ],
+    "steps": [
+      "加水同煮 25 分钟"
+    ],
+    "note": "更适合久咳后津液不足、咽部不适的人。"
+  },
+  {
+    "id": "whitefungus-loquat-drink",
+    "name": "银耳枇杷饮",
+    "nature": "平",
+    "syndromes": [
+      "肺阴虚",
+      "阴虚内热"
+    ],
+    "foodIds": [
+      "white-fungus"
+    ],
+    "subtitle": "清润生津",
+    "ingredients": [
+      "银耳 10 克",
+      "枇杷 2 个"
+    ],
+    "steps": [
+      "银耳先煮软",
+      "下枇杷稍煮即可"
+    ],
+    "note": "适合燥热、咽干和天气干燥时作轻润饮。"
+  },
+  {
+    "id": "shashen-yuzhu-duck",
+    "name": "沙参玉竹老鸭汤",
+    "nature": "平",
+    "syndromes": [
+      "肺阴虚",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "duck"
+    ],
+    "subtitle": "养阴润燥",
+    "ingredients": [
+      "沙参 12 克",
+      "玉竹 12 克",
+      "老鸭 250 克"
+    ],
+    "steps": [
+      "老鸭焯水",
+      "与沙参、玉竹同炖 1 小时"
+    ],
+    "note": "更适合久咳、口干、虚热感和胃阴不足并见者。"
+  },
+  {
+    "id": "luohanguo-wuhuaguo",
+    "name": "罗汉果无花果汤",
+    "nature": "凉",
+    "syndromes": [
+      "肺气虚",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "luo-han-guo"
+    ],
+    "subtitle": "润肺利咽",
+    "ingredients": [
+      "罗汉果 1/4 个",
+      "无花果 3 个"
+    ],
+    "steps": [
+      "加水煮 15 分钟"
+    ],
+    "note": "适合说话多、咽干、燥咳或烟酒后咽部不适。"
+  },
+  {
+    "id": "yinchen-redbean-soup",
+    "name": "茵陈赤小豆汤",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "red-bean"
+    ],
+    "subtitle": "清利湿热",
+    "ingredients": [
+      "茵陈 10 克",
+      "赤小豆 30 克"
+    ],
+    "steps": [
+      "赤小豆先煮 20 分钟",
+      "再加茵陈同煮"
+    ],
+    "note": "更适合湿热偏重、口苦口黏、尿黄的饮食整理场景。"
+  },
+  {
+    "id": "coix-wintermelon-soup",
+    "name": "薏米冬瓜赤豆汤",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "coix-seed",
+      "wax-gourd",
+      "red-bean"
+    ],
+    "subtitle": "清利湿滞",
+    "ingredients": [
+      "薏米 30 克",
+      "冬瓜 200 克",
+      "赤小豆 20 克"
+    ],
+    "steps": [
+      "赤小豆与薏米先煮",
+      "后下冬瓜煮软"
+    ],
+    "note": "更适合暑湿困重、身体发沉、饮食偏腻后的调理。"
+  },
+  {
+    "id": "cornsilk-heye-drink",
+    "name": "玉米须荷叶饮",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "corn"
+    ],
+    "subtitle": "清利轻饮",
+    "ingredients": [
+      "玉米须 15 克",
+      "荷叶 6 克"
+    ],
+    "steps": [
+      "加水煮 10 分钟后温饮"
+    ],
+    "note": "更适合湿热偏盛、口渴油腻、暑天困重时少量饮用。"
+  },
+  {
+    "id": "meigui-foshou-tea",
+    "name": "玫瑰佛手茶",
+    "nature": "温",
+    "syndromes": [
+      "肝郁气滞"
+    ],
+    "foodIds": [
+      "bergamot"
+    ],
+    "subtitle": "疏肝解郁",
+    "ingredients": [
+      "玫瑰花 6 克",
+      "佛手 5 克"
+    ],
+    "steps": [
+      "热水冲泡 10 分钟"
+    ],
+    "note": "更适合情绪抑郁、胸闷、两胁不舒和食欲波动时。"
+  },
+  {
+    "id": "qingpi-chenpi-lean",
+    "name": "青皮陈皮炖瘦肉",
+    "nature": "温",
+    "syndromes": [
+      "肝郁气滞",
+      "理气"
+    ],
+    "foodIds": [
+      "chenpi",
+      "pork"
+    ],
+    "subtitle": "理气和中",
+    "ingredients": [
+      "青皮 4 克",
+      "陈皮 3 克",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "与青皮、陈皮同炖 40 分钟"
+    ],
+    "note": "适合肝郁夹胃口差、胀满、嗳气的人。"
+  },
+  {
+    "id": "celery-mungbean-drink",
+    "name": "芹菜绿豆饮",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "mung-bean"
+    ],
+    "subtitle": "清利轻养",
+    "ingredients": [
+      "芹菜 100 克",
+      "绿豆 20 克"
+    ],
+    "steps": [
+      "绿豆先煮开花",
+      "再下芹菜稍煮"
+    ],
+    "note": "适合油腻辛辣后口苦、烦热、胃口不佳的时段。"
+  },
+  {
+    "id": "mumian-fuling-lean",
+    "name": "木棉花茯苓瘦肉汤",
+    "nature": "平",
+    "syndromes": [
+      "湿热内蕴",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "poria",
+      "pork"
+    ],
+    "subtitle": "健脾祛湿",
+    "ingredients": [
+      "木棉花 10 克",
+      "茯苓 15 克",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "与木棉花、茯苓同炖"
+    ],
+    "note": "更适合岭南潮湿天气里困重、纳差、便黏的人。"
+  },
+  {
+    "id": "jigucao-lean-soup",
+    "name": "鸡骨草瘦肉汤",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "pork"
+    ],
+    "subtitle": "清利湿热",
+    "ingredients": [
+      "鸡骨草 15 克",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "与鸡骨草同炖 45 分钟"
+    ],
+    "note": "适合湿热偏盛、口苦、食后腻滞感明显的人。"
+  },
+  {
+    "id": "xiakucao-chrysanthemum",
+    "name": "夏枯草菊花饮",
+    "nature": "凉",
+    "syndromes": [
+      "肝郁气滞",
+      "阴虚内热"
+    ],
+    "foodIds": [
+      "chrysanthemum"
+    ],
+    "subtitle": "清舒头目",
+    "ingredients": [
+      "夏枯草 10 克",
+      "菊花 6 克"
+    ],
+    "steps": [
+      "加水煮 10 分钟后温饮"
+    ],
+    "note": "更适合情绪郁滞夹头面烦热、目赤口干的人。"
+  }
+]

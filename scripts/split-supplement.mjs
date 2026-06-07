@@ -25,6 +25,6 @@ const pairing = foods.filter((f) => aliasIds.has(f.id));
 const regional = foods.filter((f) => !aliasIds.has(f.id));
 
 fs.mkdirSync("data/cn", { recursive: true });
-fs.writeFileSync("data/cn/pairing-aliases.json", JSON.stringify(pairing, null, 2));
+fs.writeFileSync("data/cn/foods-pairing-supplement.json", JSON.stringify(pairing, null, 2));
 fs.writeFileSync("data/cn/regional-foods.json", JSON.stringify(regional, null, 2));
 console.log(`pairing ${pairing.length}, regional ${regional.length}`);
