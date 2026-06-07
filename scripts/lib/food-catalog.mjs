@@ -91,6 +91,9 @@ export function loadFoodCatalogMeta() {
   CN_JSON_SOURCES.flatMap((file) => readCnJson(file)).forEach((food) => {
     foods.push({ id: food.id, name: food.name, source: "cn" });
   });
+  readCnJson("origin-products.json", readCnJson("origin-products.seed.json", [])).forEach((food) => {
+    if (food?.id && food?.name) foods.push({ id: food.id, name: food.name, source: "origin" });
+  });
   const tcmPath = path.join(root, "data", "tcm", "herbs-chp2025.json");
   if (fs.existsSync(tcmPath)) {
     JSON.parse(fs.readFileSync(tcmPath, "utf8")).forEach((herb) => {

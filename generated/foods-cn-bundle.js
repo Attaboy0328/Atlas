@@ -732,7 +732,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "grass-carp",
     "name": "草鱼",
     "en": "grass carp",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "暖胃",
@@ -746,7 +746,10 @@ const CN_SUPPLEMENT_FOODS = [
       "广东"
     ],
     "aliases": [
-      "鲩鱼"
+      "鲩鱼",
+      "脆肉鲩",
+      "脆肉皖",
+      "中山脆肉鲩"
     ],
     "pinyin": "caoyu",
     "initials": "cy",
@@ -755,7 +758,9 @@ const CN_SUPPLEMENT_FOODS = [
       "cy",
       "grass carp",
       "草鱼",
-      "鲩鱼"
+      "鲩鱼",
+      "脆肉鲩",
+      "脆肉皖"
     ],
     "summary": "草鱼，常见于中式饮食与地方菜。"
   },
@@ -6129,7 +6134,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "crab",
     "name": "螃蟹",
     "en": "crab",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热",

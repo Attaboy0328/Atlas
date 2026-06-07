@@ -1,4 +1,4 @@
-const CACHE_NAME = "atlas-v5";
+const CACHE_NAME = "atlas-v6";
 const PRECACHE = [
   "./",
   "./index.html",
@@ -18,7 +18,9 @@ const PRECACHE = [
   "./generated/tcm-herbs-bundle.js",
   "./generated/recipes-bulk.js",
   "./generated/classic-diet-recipes.js",
-  "./generated/food-medicine-catalog.js"
+  "./generated/food-medicine-catalog.js",
+  "./generated/origin-products.js",
+  "./generated/dao-di-regions.js"
 ];
 
 self.addEventListener("install", (event) => {

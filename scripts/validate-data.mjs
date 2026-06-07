@@ -206,6 +206,52 @@ if (!fs.existsSync(path.join(root, "generated", "food-id-aliases.js"))) {
   errors.push("Missing generated/food-id-aliases.js — run npm run build:data");
 }
 
+const originProducts = readJson("data/cn/origin-products.json")
+  || readJson("data/cn/origin-products.seed.json");
+if (!originProducts?.length) {
+  errors.push("Missing or empty origin products — run npm run ingest:origin");
+} else {
+  const originIds = new Set();
+  originProducts.forEach((product) => {
+    if (!product.id) errors.push("Origin product missing id");
+    if (originIds.has(product.id)) errors.push(`Duplicate origin product id: ${product.id}`);
+    originIds.add(product.id);
+    if (!product.provenance?.source) {
+      warnings.push(`Origin product missing provenance.source: ${product.name || product.id}`);
+    }
+    if (product.baseFoodId) {
+      const base = resolveFoodId(product.baseFoodId, aliasMap);
+      if (!allFoodIds.has(product.baseFoodId) && !allFoodIds.has(base)) {
+        warnings.push(`Origin product baseFoodId not in catalog: ${product.name} -> ${product.baseFoodId}`);
+      }
+    }
+  });
+}
+
+const originBundlePath = path.join(root, "generated", "origin-products.js");
+if (!fs.existsSync(originBundlePath)) {
+  errors.push("Missing generated/origin-products.js — run npm run build:data");
+} else {
+  const originBundle = fs.readFileSync(originBundlePath, "utf8");
+  const originBundleIds = collectFoodIds(originBundle);
+  originBundleIds.forEach((id) => {
+    if (!allFoodIds.has(id)) warnings.push(`Origin bundle id not in catalog meta: ${id}`);
+  });
+}
+
+const daoDi = readJson("data/tcm/dao-di-regions.json");
+if (!daoDi?.length) {
+  warnings.push("Missing or empty data/tcm/dao-di-regions.json");
+} else {
+  daoDi.forEach((row) => {
+    if (!row.canonicalId) warnings.push(`Dao-di row missing canonicalId: ${row.name || "(unknown)"}`);
+  });
+}
+
+if (!fs.existsSync(path.join(root, "generated", "dao-di-regions.js"))) {
+  errors.push("Missing generated/dao-di-regions.js — run npm run build:data");
+}
+
 console.log("=== Atlas validate-data ===");
 console.log(`Food ids: expanded ${expandedIds.size}, cn bundle ${cnIds.size}, tcm ${tcmIds.size}, runtime ${runtimeIds.size}, total ${allFoodIds.size}`);
 console.log(`Food id aliases: ${Object.keys(aliasMap).length}`);

@@ -227,7 +227,8 @@ const FOOD_SEARCH_INDEX = [
   { name: "黑鱼", aliases: ["乌鳢", "财鱼", "生鱼"], pinyin: "heiyu", initials: "hy", regional: ["湖北财鱼", "广东生鱼"], english: ["snakehead"] },
   { name: "鲫鱼", aliases: ["鲫瓜子"], pinyin: "jiyu", initials: "jy", regional: ["鲫鱼汤"], english: ["crucian carp"] },
   { name: "鲤鱼", aliases: [], pinyin: "liyu", initials: "ly", regional: ["黄河鲤鱼"], english: ["carp"] },
-  { name: "草鱼", aliases: ["鲩鱼"], pinyin: "caoyu", initials: "cy", regional: ["广东鲩鱼"], english: ["grass carp"] },
+  { name: "草鱼", aliases: ["鲩鱼", "脆肉鲩", "脆肉皖"], pinyin: "caoyu", initials: "cy", regional: ["广东鲩鱼", "中山脆肉鲩"], english: ["grass carp"] },
+  { name: "笋壳鱼", aliases: ["尖塘鳢", "珍珠笋壳鱼"], pinyin: "sunkaiyu", initials: "sky", regional: ["华南笋壳鱼"], english: ["marble goby"] },
   { name: "鳜鱼", aliases: ["桂鱼", "季花鱼"], pinyin: "guiyu", initials: "gy", regional: ["松鼠桂鱼"], english: ["mandarin fish"] },
   { name: "鲶鱼", aliases: ["胡子鲶"], pinyin: "nianyu", initials: "ny", regional: ["塘鲺"], english: ["catfish"] },
   { name: "黄骨鱼", aliases: ["黄颡鱼", "嘎鱼", "昂刺鱼"], pinyin: "huangguyu", initials: "hgy", regional: ["湖北黄骨鱼", "江西昂刺鱼"], english: ["yellow catfish"] },
@@ -978,6 +979,13 @@ RUNTIME_FOOD_EXPANSION.push(
 
 let foods = [];
 let foodMap = new Map();
+let ORIGIN_BY_BASE_ID = new Map();
+let DAO_DI_BY_CANONICAL = new Map();
+
+const FOOD_CATEGORY_ALIASES = {
+  水产: "海产",
+  果类: "水果"
+};
 
 function resolveFoodId(id) {
   if (typeof FOOD_ID_ALIASES !== "undefined" && FOOD_ID_ALIASES[id]) {
@@ -1360,9 +1368,20 @@ function rebuildAppIndexes() {
       ...(Array.isArray(EXPANDED_FOODS) ? EXPANDED_FOODS : []),
       ...(typeof CN_SUPPLEMENT_FOODS !== "undefined" ? CN_SUPPLEMENT_FOODS : []),
       ...(typeof TCM_HERBS_CORE !== "undefined" ? TCM_HERBS_CORE : [])
-    ])
+    ]),
+    ...(typeof ORIGIN_PRODUCT_FOODS !== "undefined" ? ORIGIN_PRODUCT_FOODS : [])
   ]));
   foodMap = new Map(foods.map((food) => [food.id, food]));
+  ORIGIN_BY_BASE_ID = new Map();
+  foods.filter((food) => food.isOriginProduct).forEach((food) => {
+    const baseId = food.baseFoodId ? resolveFoodId(food.baseFoodId) : null;
+    if (!baseId) return;
+    if (!ORIGIN_BY_BASE_ID.has(baseId)) ORIGIN_BY_BASE_ID.set(baseId, []);
+    ORIGIN_BY_BASE_ID.get(baseId).push(food);
+  });
+  DAO_DI_BY_CANONICAL = new Map(
+    (typeof DAO_DI_REGIONS !== "undefined" ? DAO_DI_REGIONS : []).map((row) => [resolveFoodId(row.canonicalId), row])
+  );
   mergeRecipeBundles();
   publishedRecipeItems = RECIPES.filter((item) => !item.draft);
   RECIPE_FILTER_TAGS = buildRecipeFilterTags(publishedRecipeItems);
@@ -1954,7 +1973,7 @@ function normalizeFoods(items) {
       ...enrichment,
       name: cleanString(food.name),
       en: cleanString(food.en),
-      category: cleanString(food.category),
+      category: normalizeFoodCategory(cleanString(food.category)),
       nature: cleanNature(food.nature),
       flavor: cleanString(food.flavor),
       summary: cleanString(food.summary),
@@ -2057,6 +2076,13 @@ function mergeFoodEntries(current, incoming) {
   merged.sources = (primary.sources?.length ? primary.sources : secondary.sources) || [];
   merged.pinyin = primary.pinyin || secondary.pinyin || "";
   merged.initials = primary.initials || secondary.initials || "";
+  merged.isOriginProduct = Boolean(current.isOriginProduct || incoming.isOriginProduct);
+  merged.baseFoodId = primary.baseFoodId || secondary.baseFoodId || "";
+  merged.giSystems = (primary.giSystems?.length ? primary.giSystems : secondary.giSystems) || [];
+  merged.peop = primary.peop || secondary.peop || null;
+  merged.daoDi = primary.daoDi || secondary.daoDi || null;
+  merged.provenance = primary.provenance || secondary.provenance || null;
+  merged.regulatoryNote = primary.regulatoryNote || secondary.regulatoryNote || "";
   merged.searchBlob = uniq([merged.name, ...(merged.searchTerms || []), ...(merged.aliases || [])])
     .map((item) => cleanString(item).toLowerCase())
     .filter(Boolean)
@@ -2083,21 +2109,35 @@ function foodCompletenessScore(food) {
   ].filter(Boolean).length
     + (food.officialFoodMedicine ? 20 : 0)
     + (food.pharmacopoeiaEdition ? 15 : 0)
-    + (food.meridians?.length ? 5 : 0);
+    + (food.meridians?.length ? 5 : 0)
+    + (food.isOriginProduct ? 25 : 0)
+    + ((food.giSystems || []).length ? 10 : 0)
+    + (food.peop ? 6 : 0);
+}
+
+function decodeUnicodeLiterals(value) {
+  const text = String(value ?? "").trim();
+  if (!text || !/\\u[0-9a-fA-F]{4}/.test(text)) return text;
+  return text.replace(/\\u([0-9a-fA-F]{4})/g, (_, hex) => String.fromCharCode(parseInt(hex, 16)));
+}
+
+function normalizeFoodCategory(category) {
+  const decoded = decodeUnicodeLiterals(category);
+  return FOOD_CATEGORY_ALIASES[decoded] || decoded;
 }
 
 function cleanNature(value) {
-  const normalized = cleanString(value);
+  const normalized = decodeUnicodeLiterals(cleanString(value));
   const aliases = { 微寒: "寒", 大寒: "寒", 微温: "温", 大温: "温", 大热: "热" };
   const mapped = aliases[normalized] || normalized;
   return ["寒", "凉", "平", "温", "热", "复合"].includes(mapped) ? mapped : "复合";
 }
 
 function cleanString(value) {
-  return String(value || "")
+  return decodeUnicodeLiterals(String(value || "")
     .replace(/\uFFFD/g, "")
     .replace(/\s+/g, " ")
-    .trim();
+    .trim());
 }
 
 function uniq(items) {
@@ -3503,8 +3543,10 @@ function renderProfile() {
 }
 
 function filterFoods() {
+  const term = cleanString(state.libraryQuery).toLowerCase();
   return searchFoods(state.libraryQuery).filter((food) => {
     if (food.hiddenFromLibrary) return false;
+    if (term) return true;
     const byNature = state.libraryNature === "全部" || food.nature === state.libraryNature;
     const byCategory = state.libraryCategory === "全部" || food.category === state.libraryCategory;
     const byRegion = state.libraryRegion === "ALL" || food.regions.includes(state.libraryRegion);
@@ -3828,6 +3870,9 @@ function handleFeedbackSubmit(event) {
 
 function foodListMeta(food) {
   const parts = [food.category, food.teaClass];
+  if (food.isOriginProduct || (food.giSystems || []).length) parts.push("地理标志");
+  if (food.peop) parts.push("PEOP");
+  if (food.daoDi?.isAuthentic || DAO_DI_BY_CANONICAL.has(resolveFoodId(food.id))) parts.push("道地");
   if (food.pharmacopoeiaEdition === "2025" && (food.itemKind === "tcm-herb" || food.category === "中药材")) {
     parts.push("药典2025");
   }
@@ -4154,14 +4199,102 @@ function showSheet(html) {
 }
 
 function recipesForFood(foodId, limit = 6) {
+  const food = foodMap.get(foodId);
+  const relatedIds = uniq([
+    foodId,
+    resolveFoodId(foodId),
+    food?.baseFoodId ? resolveFoodId(food.baseFoodId) : ""
+  ].filter(Boolean));
   return publishedRecipeItems
-    .filter((item) => (item.foodIds || []).some((id) => foodByRecipeId(id)?.id === foodId))
+    .filter((item) => (item.foodIds || []).some((id) => relatedIds.includes(foodByRecipeId(id)?.id)))
     .slice(0, limit)
     .map((item) => recipes.find((recipe) => recipe.id === item.id) || item);
 }
 
+function pairingRulesForFood(foodId, limit = 4) {
+  const food = foodMap.get(foodId);
+  const relatedIds = new Set([
+    foodId,
+    resolveFoodId(foodId),
+    food?.baseFoodId ? resolveFoodId(food.baseFoodId) : ""
+  ].filter(Boolean));
+  return PAIRING_RULES
+    .filter((rule) => (rule.ids || []).some((id) => relatedIds.has(resolveFoodId(id))))
+    .slice(0, limit);
+}
+
+function giSystemLabel(system) {
+  return ({
+    cnipa: "国知局 GI",
+    mara: "农产品 GI",
+    provincial: "省级 GI",
+    peop: "PEOP"
+  })[system] || system;
+}
+
+function renderOriginCertificationSection(food) {
+  const relatedOrigin = food.isOriginProduct
+    ? [food]
+    : (ORIGIN_BY_BASE_ID.get(resolveFoodId(food.id)) || []);
+  const daoDi = food.daoDi || DAO_DI_BY_CANONICAL.get(resolveFoodId(food.id));
+  const hasGi = relatedOrigin.some((item) => (item.giSystems || []).length);
+  const hasPeop = relatedOrigin.some((item) => item.peop);
+  const hasDaoDi = Boolean(daoDi?.daoDiRegions?.length) || relatedOrigin.some((item) => item.daoDi?.isAuthentic);
+  if (!hasGi && !hasPeop && !hasDaoDi && !relatedOrigin.length) return "";
+
+  const giBadges = uniq(relatedOrigin.flatMap((item) => (item.giSystems || []).map((row) => `${giSystemLabel(row.system)} · ${row.type || row.label || ""}`)));
+  const peopLines = relatedOrigin.filter((item) => item.peop).map((item) => item.peop.label || "生态原产地（历史认证）");
+  const daoDiPlaces = uniq([
+    ...(daoDi?.daoDiRegions || []).map((row) => row.place),
+    ...relatedOrigin.flatMap((item) => (item.daoDi?.isAuthentic ? (item.daoDi.regions || []) : []))
+  ]);
+
+  const provenanceBlocks = relatedOrigin
+    .filter((item) => item.provenance)
+    .map((item) => {
+      const p = item.provenance;
+      const link = p.sourceUrl
+        ? `<a class="plain-button inline-link" href="${p.sourceUrl}" target="_blank" rel="noopener noreferrer">查看公开来源</a>`
+        : "";
+      return `
+        <li>
+          <strong>${item.name}</strong> · ${p.source || "公开名录"}
+          ${p.sourceId ? `<small>登记引用：${p.sourceId}</small>` : ""}
+          ${p.fetchedAt ? `<small>整理日期：${p.fetchedAt}</small>` : ""}
+          ${link}
+        </li>
+      `;
+    })
+    .join("");
+
+  const relatedLinks = (!food.isOriginProduct && relatedOrigin.length)
+    ? `<p class="section-copy">相关产地产品：
+        ${relatedOrigin.map((item) => `<button type="button" class="plain-button inline-link" data-open-food="${item.id}">${item.name}</button>`).join("、")}
+      </p>`
+    : "";
+
+  const baseLink = (food.isOriginProduct && food.baseFoodId && foodMap.has(resolveFoodId(food.baseFoodId)))
+    ? `<p class="section-copy">基原条目：<button type="button" class="plain-button inline-link" data-open-food="${resolveFoodId(food.baseFoodId)}">${foodMap.get(resolveFoodId(food.baseFoodId)).name}</button></p>`
+    : "";
+
+  return `
+    <section class="detail-section origin-cert-section">
+      <h3>产地与公开认证</h3>
+      ${giBadges.length ? `<div class="filter-group filter-group-wrap">${giBadges.map((label) => `<span class="pill-badge origin-gi-badge">${label}</span>`).join("")}</div>` : ""}
+      ${peopLines.length ? `<p><strong>PEOP：</strong>${uniq(peopLines).join("；")}</p>` : ""}
+      ${daoDiPlaces.length ? `<p><strong>道地产区：</strong>${daoDiPlaces.join("、")}</p>` : ""}
+      ${daoDi?.sources?.length ? `<p class="section-copy">道地依据：${daoDi.sources.join("、")}</p>` : ""}
+      ${baseLink}
+      ${relatedLinks}
+      ${provenanceBlocks ? `<ul class="origin-provenance-list">${provenanceBlocks}</ul>` : ""}
+      <p class="section-copy">${food.regulatoryNote || "产地与认证信息整理自公开登记名录，以登记机关最新公告为准，不替代官方证明。"}</p>
+    </section>
+  `;
+}
+
 function renderFoodDetail(food) {
   const relatedRecipes = recipesForFood(food.id, 6);
+  const pairingHits = pairingRulesForFood(food.id, 4);
   const classics = buildClassicNotes(food);
   const sources = Array.isArray(food.sources) ? food.sources : [];
   const favorite = state.favorites.includes(food.id);
@@ -4169,10 +4302,13 @@ function renderFoodDetail(food) {
   const isTcmHerb = food.itemKind === "tcm-herb" || food.category === "中药材";
   const isReferenceOnly = food.usageScope === "reference-only";
   const relatedFormFoods = (food.relatedForms || []).map((id) => foodMap.get(id)).filter(Boolean);
+  const originSection = renderOriginCertificationSection(food);
   const sheetNav = renderSheetSubnav([
     { id: "sheet-overview", label: "概览" },
+    ...(originSection ? [{ id: "sheet-origin", label: "产地认证" }] : []),
     { id: "sheet-eating", label: isTcmHerb ? "使用提示" : "怎么吃" },
     ...(hasSuitability ? [{ id: "sheet-suitability", label: "宜忌" }] : []),
+    ...(pairingHits.length ? [{ id: "sheet-pairing", label: "搭配提醒" }] : []),
     { id: "sheet-sources", label: "依据" }
   ]);
 
@@ -4195,6 +4331,9 @@ function renderFoodDetail(food) {
       <div class="filter-group filter-group-wrap">
         <span class="pill-badge">${food.category}</span>
         ${food.officialFoodMedicine ? '<span class="pill-badge">药食同源</span>' : ""}
+        ${(food.giSystems || []).length ? '<span class="pill-badge origin-gi-badge">地理标志</span>' : ""}
+        ${food.peop ? '<span class="pill-badge">PEOP</span>' : ""}
+        ${(food.daoDi?.isAuthentic || DAO_DI_BY_CANONICAL.has(resolveFoodId(food.id))) ? '<span class="pill-badge">道地产区</span>' : ""}
         ${food.pharmacopoeiaEdition === "2025" ? '<span class="pill-badge">药典2025</span>' : ""}
         ${isReferenceOnly ? '<span class="pill-badge">参考查阅</span>' : ""}
         ${food.effects.slice(0, 3).map((effect) => `<span class="pill-badge">${effect}</span>`).join("")}
@@ -4203,6 +4342,8 @@ function renderFoodDetail(food) {
       <p class="sheet-summary">${food.summary || "暂无摘要。"}</p>
       <button class="plain-button cta-button" data-toggle-favorite="${food.id}">${favorite ? "已收藏" : isTcmHerb ? "收藏此条目" : "收藏这个食材"}</button>
     </section>
+
+    ${originSection ? `<div id="sheet-origin">${originSection}</div>` : ""}
 
     <section class="detail-section">
       <h3 id="sheet-nature">${isTcmHerb ? "传统中药属性" : "传统食养属性"}</h3>
@@ -4231,6 +4372,22 @@ function renderFoodDetail(food) {
         <div class="detail-block"><strong>安全提示</strong><p>${food.caution || "结合剂量、加工方式和个人状态综合判断。"} </p></div>
       </div>
     </section>
+
+    ${pairingHits.length ? `
+      <section class="detail-section" id="sheet-pairing">
+        <h3>搭配提醒</h3>
+        <div class="pairing-rules-list">
+          ${pairingHits.map((rule) => `
+            <article class="pairing-rule-card pairing-rule-${rule.level || "notice"}">
+              <div class="pairing-rule-card-head">
+                <strong>${rule.title}</strong>
+                <span class="pairing-rule-level">${pairingLevelLabel(rule.level)}</span>
+              </div>
+              <p class="pairing-rule-text">${rule.text}</p>
+            </article>
+          `).join("")}
+        </div>
+      </section>` : ""}
 
     ${hasSuitability
       ? `

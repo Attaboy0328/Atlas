@@ -1274,6 +1274,34 @@ button {
   margin-top: 8px;
 }
 
+.origin-cert-section {
+  border-top: 1px solid color-mix(in srgb, var(--ink) 8%, transparent);
+}
+
+.origin-gi-badge {
+  background: color-mix(in srgb, var(--accent) 14%, var(--surface-raised));
+  color: var(--accent-strong, var(--accent));
+}
+
+.origin-provenance-list {
+  margin: 12px 0 0;
+  padding-left: 18px;
+  display: grid;
+  gap: 10px;
+}
+
+.origin-provenance-list li {
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.origin-provenance-list small {
+  display: block;
+  margin-top: 2px;
+  color: var(--ink-soft);
+  font-size: 11px;
+}
+
 .pwa-install-panel .pwa-install-button,
 .pwa-install-panel .pwa-install-guide-button {
   width: 100%;

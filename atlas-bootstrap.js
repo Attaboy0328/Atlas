@@ -72,7 +72,9 @@
     "generated/foods-cn-bundle.js",
     "generated/food-id-aliases.js",
     "generated/pairing-rules-extra.js",
-    "generated/handcrafted-recipes.js"
+    "generated/handcrafted-recipes.js",
+    "generated/origin-products.js",
+    "generated/dao-di-regions.js"
   ];
 
   preloadCore.reduce((chain, src) => chain.then(() => loadScript(src)), Promise.resolve())

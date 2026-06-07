@@ -1,0 +1,642 @@
+[
+  {
+    "id": "wenshan-sanqi",
+    "name": "文山三七",
+    "baseFoodId": "panax-notoginseng",
+    "category": "中药材",
+    "nature": "温",
+    "provinces": [
+      "云南",
+      "文山"
+    ],
+    "aliases": [
+      "云南三七",
+      "文山田七"
+    ],
+    "searchTerms": [
+      "wenshan",
+      "ws",
+      "文山",
+      "三七",
+      "田七"
+    ],
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": {
+      "isAuthentic": true,
+      "regions": [
+        "云南文山"
+      ]
+    },
+    "summary": "文山三七为云南文山州道地三七，公开地理标志名录常见条目。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "https://www.moa.gov.cn/",
+      "sourceId": "seed-wenshan-sanqi",
+      "fetchedAt": "2026-06-08",
+      "note": "整理自公开地理标志名录种子数据，以登记机关最新公告为准。"
+    }
+  },
+  {
+    "id": "ningxia-goji-origin",
+    "name": "宁夏枸杞",
+    "baseFoodId": "goji-berry",
+    "category": "水果",
+    "nature": "平",
+    "provinces": [
+      "宁夏",
+      "中宁"
+    ],
+    "aliases": [
+      "中宁枸杞",
+      "枸杞子"
+    ],
+    "searchTerms": [
+      "ningxia",
+      "nx",
+      "宁夏",
+      "枸杞",
+      "中宁"
+    ],
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": {
+      "isAuthentic": true,
+      "regions": [
+        "宁夏中宁"
+      ]
+    },
+    "summary": "宁夏中宁枸杞为药食同源枸杞的道地产区代表，公开 GI 名录常见条目。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "https://www.cnipa.gov.cn/",
+      "sourceId": "seed-ningxia-goji",
+      "fetchedAt": "2026-06-08"
+    }
+  },
+  {
+    "id": "huoshan-shihu-gi",
+    "name": "霍山石斛",
+    "baseFoodId": "herba-dendrobii-huoshanense",
+    "category": "中药材",
+    "nature": "寒",
+    "provinces": [
+      "安徽",
+      "霍山"
+    ],
+    "aliases": [
+      "米斛",
+      "霍斛"
+    ],
+    "searchTerms": [
+      "huoshan",
+      "hs",
+      "霍山",
+      "石斛",
+      "米斛"
+    ],
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": {
+      "isAuthentic": true,
+      "regions": [
+        "安徽霍山"
+      ]
+    },
+    "summary": "霍山石斛为皖西道地石斛，药典与公开地理标志名录均有收录整理。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "https://www.moa.gov.cn/",
+      "sourceId": "seed-huoshan-shihu",
+      "fetchedAt": "2026-06-08"
+    }
+  },
+  {
+    "id": "jianning-lotus-seed",
+    "name": "建宁莲子",
+    "baseFoodId": "lotus-seed",
+    "category": "食药物质",
+    "nature": "平",
+    "provinces": [
+      "福建",
+      "建宁"
+    ],
+    "aliases": [
+      "建莲",
+      "建宁白莲"
+    ],
+    "searchTerms": [
+      "jianning",
+      "jn",
+      "建宁",
+      "莲子",
+      "建莲"
+    ],
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": {
+      "isAuthentic": true,
+      "regions": [
+        "福建建宁"
+      ]
+    },
+    "summary": "建宁莲子为闽西北道地莲子，公开地理标志与农产品地理标志名录常见。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "https://www.moa.gov.cn/",
+      "sourceId": "seed-jianning-lotus",
+      "fetchedAt": "2026-06-08"
+    }
+  },
+  {
+    "id": "wuyi-rock-tea",
+    "name": "武夷岩茶",
+    "baseFoodId": "oolong-tea",
+    "category": "茶饮",
+    "nature": "平",
+    "provinces": [
+      "福建",
+      "武夷山"
+    ],
+    "teaClass": "乌龙茶",
+    "aliases": [
+      "岩茶",
+      "武夷山岩茶"
+    ],
+    "searchTerms": [
+      "wuyi",
+      "wy",
+      "武夷",
+      "岩茶"
+    ],
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": {
+      "isAuthentic": false,
+      "regions": [
+        "福建武夷山"
+      ]
+    },
+    "summary": "武夷岩茶为闽北乌龙茶地理标志产品；有 GI，一般不按「道地药材」归类。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "https://www.cnipa.gov.cn/",
+      "sourceId": "seed-wuyi-rock-tea",
+      "fetchedAt": "2026-06-08"
+    }
+  },
+  {
+    "id": "anxi-tieguanyin",
+    "name": "安溪铁观音",
+    "baseFoodId": "tieguanyin",
+    "category": "茶饮",
+    "nature": "凉",
+    "provinces": [
+      "福建",
+      "安溪"
+    ],
+    "teaClass": "乌龙茶",
+    "aliases": [
+      "铁观音"
+    ],
+    "searchTerms": [
+      "anxi",
+      "ax",
+      "安溪",
+      "铁观音"
+    ],
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": {
+      "isAuthentic": false,
+      "regions": [
+        "福建安溪"
+      ]
+    },
+    "summary": "安溪铁观音为国家地理标志保护产品，闽南乌龙茶代表。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "https://www.cnipa.gov.cn/",
+      "sourceId": "seed-anxi-tieguanyin",
+      "fetchedAt": "2026-06-08"
+    }
+  },
+  {
+    "id": "xihu-longjing",
+    "name": "西湖龙井",
+    "baseFoodId": "longjing-tea",
+    "category": "茶饮",
+    "nature": "凉",
+    "provinces": [
+      "浙江",
+      "杭州"
+    ],
+    "teaClass": "绿茶",
+    "aliases": [
+      "龙井茶",
+      "龙井"
+    ],
+    "searchTerms": [
+      "xihu",
+      "xh",
+      "西湖",
+      "龙井"
+    ],
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": {
+      "isAuthentic": false,
+      "regions": [
+        "浙江杭州"
+      ]
+    },
+    "summary": "西湖龙井为国家地理标志保护绿茶产品。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "https://www.cnipa.gov.cn/",
+      "sourceId": "seed-xihu-longjing",
+      "fetchedAt": "2026-06-08"
+    }
+  },
+  {
+    "id": "yunnan-puer-gi",
+    "name": "普洱茶",
+    "baseFoodId": "pu-er-tea",
+    "category": "茶饮",
+    "nature": "温",
+    "provinces": [
+      "云南"
+    ],
+    "teaClass": "黑茶",
+    "aliases": [
+      "普洱",
+      "云南普洱茶"
+    ],
+    "searchTerms": [
+      "puer",
+      "pe",
+      "普洱",
+      "云南普洱"
+    ],
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": {
+      "isAuthentic": false,
+      "regions": [
+        "云南"
+      ]
+    },
+    "summary": "普洱茶为国家地理标志保护黑茶产品。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "https://www.cnipa.gov.cn/",
+      "sourceId": "seed-yunnan-puer",
+      "fetchedAt": "2026-06-08"
+    }
+  },
+  {
+    "id": "wuchang-rice",
+    "name": "五常大米",
+    "baseFoodId": "rice",
+    "category": "谷物",
+    "nature": "平",
+    "provinces": [
+      "黑龙江",
+      "五常"
+    ],
+    "aliases": [
+      "五常稻花香"
+    ],
+    "searchTerms": [
+      "wuchang",
+      "wc",
+      "五常",
+      "大米"
+    ],
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "daoDi": {
+      "isAuthentic": false,
+      "regions": [
+        "黑龙江五常"
+      ]
+    },
+    "summary": "五常大米为东北公开地理标志粮食产品。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "https://www.moa.gov.cn/",
+      "sourceId": "seed-wuchang-rice",
+      "fetchedAt": "2026-06-08"
+    }
+  },
+  {
+    "id": "panjin-rice",
+    "name": "盘锦大米",
+    "baseFoodId": "rice",
+    "category": "谷物",
+    "nature": "平",
+    "provinces": [
+      "辽宁",
+      "盘锦"
+    ],
+    "searchTerms": [
+      "panjin",
+      "pj",
+      "盘锦",
+      "大米"
+    ],
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": {
+      "isAuthentic": false,
+      "regions": [
+        "辽宁盘锦"
+      ]
+    },
+    "summary": "盘锦大米为国家地理标志保护粮食产品。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "https://www.cnipa.gov.cn/",
+      "sourceId": "seed-panjin-rice",
+      "fetchedAt": "2026-06-08"
+    }
+  },
+  {
+    "id": "huai-yam-gi",
+    "name": "怀山药",
+    "baseFoodId": "yam",
+    "category": "食药物质",
+    "nature": "平",
+    "provinces": [
+      "河南",
+      "焦作"
+    ],
+    "aliases": [
+      "铁棍山药",
+      "怀庆山药"
+    ],
+    "searchTerms": [
+      "huai",
+      "怀山药",
+      "铁棍山药",
+      "焦作"
+    ],
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": {
+      "isAuthentic": true,
+      "regions": [
+        "河南焦作"
+      ]
+    },
+    "summary": "怀山药（铁棍山药）为河南焦作一带药食同源山药的地理标志产品。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "https://www.cnipa.gov.cn/",
+      "sourceId": "seed-huai-yam",
+      "fetchedAt": "2026-06-08"
+    }
+  },
+  {
+    "id": "longxi-astragalus-gi",
+    "name": "陇西黄芪",
+    "baseFoodId": "astragalus",
+    "category": "食药物质",
+    "nature": "温",
+    "provinces": [
+      "甘肃",
+      "陇西"
+    ],
+    "aliases": [
+      "甘肃黄芪"
+    ],
+    "searchTerms": [
+      "longxi",
+      "lx",
+      "陇西",
+      "黄芪"
+    ],
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": {
+      "isAuthentic": true,
+      "regions": [
+        "甘肃陇西"
+      ]
+    },
+    "summary": "陇西黄芪为甘肃道地黄芪的地理标志产品。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "https://www.cnipa.gov.cn/",
+      "sourceId": "seed-longxi-astragalus",
+      "fetchedAt": "2026-06-08"
+    }
+  },
+  {
+    "id": "minxian-angelica-gi",
+    "name": "岷县当归",
+    "baseFoodId": "angelica-sinensis",
+    "category": "中药材",
+    "nature": "温",
+    "provinces": [
+      "甘肃",
+      "岷县"
+    ],
+    "aliases": [
+      "甘肃当归",
+      "岷县归"
+    ],
+    "searchTerms": [
+      "minxian",
+      "mx",
+      "岷县",
+      "当归"
+    ],
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "daoDi": {
+      "isAuthentic": true,
+      "regions": [
+        "甘肃岷县"
+      ]
+    },
+    "summary": "岷县当归为甘肃道地当归的地理标志产品。",
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "https://www.cnipa.gov.cn/",
+      "sourceId": "seed-minxian-angelica",
+      "fetchedAt": "2026-06-08"
+    }
+  },
+  {
+    "id": "marble-goby",
+    "name": "笋壳鱼",
+    "baseFoodId": null,
+    "category": "海产",
+    "nature": "平",
+    "provinces": [
+      "广东",
+      "广西"
+    ],
+    "aliases": [
+      "尖塘鳢",
+      "珍珠笋壳鱼",
+      "澳洲笋壳鱼"
+    ],
+    "searchTerms": [
+      "sunkaiyu",
+      "sky",
+      "笋壳鱼",
+      "尖塘鳢",
+      "塘鳢"
+    ],
+    "giSystems": [],
+    "daoDi": {
+      "isAuthentic": false,
+      "regions": [
+        "华南"
+      ]
+    },
+    "summary": "笋壳鱼（尖塘鳢）为华南常见淡水食用鱼，肉质细嫩。",
+    "provenance": {
+      "source": "manual-seed",
+      "sourceUrl": "",
+      "sourceId": "seed-marble-goby",
+      "fetchedAt": "2026-06-08",
+      "note": "物种基原条目；产地认证信息待公开库增量抓取。"
+    }
+  },
+  {
+    "id": "zhongshan-crisp-grass-carp",
+    "name": "脆肉鲩",
+    "baseFoodId": "grass-carp",
+    "category": "海产",
+    "nature": "温",
+    "provinces": [
+      "广东",
+      "中山"
+    ],
+    "aliases": [
+      "脆肉皖",
+      "脆肉草鱼",
+      "中山脆肉鲩"
+    ],
+    "searchTerms": [
+      "cuirouwan",
+      "crw",
+      "脆肉鲩",
+      "脆肉皖",
+      "中山"
+    ],
+    "giSystems": [],
+    "peop": {
+      "status": "historical",
+      "label": "生态原产地保护产品（历史认证，已不再新增）",
+      "region": "广东中山"
+    },
+    "daoDi": {
+      "isAuthentic": false,
+      "regions": [
+        "广东中山"
+      ]
+    },
+    "summary": "脆肉鲩为广东中山等地对草鱼的育肥工艺产品，常作粤菜食材。",
+    "provenance": {
+      "source": "peop-historical",
+      "sourceUrl": "",
+      "sourceId": "seed-zhongshan-crisp-grass-carp",
+      "fetchedAt": "2026-06-08",
+      "note": "PEOP 为历史认证体系示例条目；现行认证以公开登记机关公告为准。"
+    }
+  }
+]
