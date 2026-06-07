@@ -78,7 +78,10 @@ function collectPublishedRecipeNames(handcraftedList) {
 
 const catalog = loadFoodCatalogIds();
 const aliasMap = loadFoodIdAliasMap();
-const rawHandcrafted = readJson("handcrafted-recipes.json", []);
+const rawHandcrafted = [
+  ...readJson("handcrafted-recipes.json", []),
+  ...readJson("handcrafted-recipes-batch2.json", [])
+];
 const handcraftedRecipes = rawHandcrafted
   .map((item) => {
     const foodIds = normalizeRecipeFoodIds(item.foodIds || [], catalog, aliasMap);
@@ -97,7 +100,9 @@ const handcraftedRecipes = rawHandcrafted
 const publishedNames = collectPublishedRecipeNames(rawHandcrafted);
 const rawClassic = [
   ...readJson("classic-diet-recipes.json"),
-  ...readJson("solar-term-recipes.json", [])
+  ...readJson("classic-diet-recipes-batch2.json", []),
+  ...readJson("solar-term-recipes.json", []),
+  ...readJson("solar-term-recipes-batch2.json", [])
 ];
 const classicRecipes = rawClassic
   .map((item) => {

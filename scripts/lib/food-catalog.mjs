@@ -12,14 +12,20 @@ export const CN_JSON_SOURCES = [
   "expansion-batch4.json",
   "foods-ingredients.json",
   "foods-seasonal-river.json",
-  "foods-medicine-homologous.json"
+  "foods-medicine-homologous.json",
+  "foods-medicine-homologous-batch2.json",
+  "foods-base-staples.json",
+  "foods-ingredients-batch2.json",
+  "foods-seasonal-river-batch2.json"
 ];
 
 export const EXPANDED_BULK_JSON_SOURCES = [
   "foods-official-bulk.json",
   "foods-extra-bulk.json",
   "foods-regional-push.json",
-  "foods-search-supplement.json"
+  "foods-search-supplement.json",
+  "foods-regional-push-batch2.json",
+  "foods-search-supplement-batch2.json"
 ];
 
 export function readCnJson(name, fallback = []) {

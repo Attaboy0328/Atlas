@@ -234,7 +234,8 @@ function loadPairingRulesAll() {
     ...readJson("pairing-rules-base.json"),
     ...readJson("pairing-rules-extra.json"),
     ...readJson("pairing-rules-extra-batch2.json", []),
-    ...readJson("pairing-rules-extra-batch3.json", [])
+    ...readJson("pairing-rules-extra-batch3.json", []),
+    ...readJson("pairing-rules-extra-batch4.json", [])
   ];
 }
 

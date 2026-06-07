@@ -792,7 +792,8 @@
         "suanzhusun"
       ],
       "confidence": "西南地方发酵食材扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "hami-melon",
@@ -2160,7 +2161,8 @@
         "hypertension"
       ],
       "confidence": "西南腊味扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "lapork-ribs",

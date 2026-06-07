@@ -4682,7 +4682,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "长白山人参",
       "国家知识产权局地理标志",
       "吉林",
-      "radix-ginseng",
+      "ginseng",
       "地理标志",
       "GI"
     ],
@@ -4691,7 +4691,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "radix-ginseng",
+    "baseFoodId": "ginseng",
     "giSystems": [
       {
         "system": "cnipa",
@@ -5112,7 +5112,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "湘西腊肉",
       "农业农村部农产品地理标志",
       "湖南",
-      "larou",
+      "bacon",
       "地理标志",
       "GI"
     ],
@@ -5121,7 +5121,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "larou",
+    "baseFoodId": "bacon",
     "giSystems": [
       {
         "system": "mara",
@@ -5208,7 +5208,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "杭白菊",
       "农业农村部农产品地理标志",
       "浙江",
-      "chrysanthemum-morifolium",
+      "chrysanthemum",
       "地理标志",
       "GI"
     ],
@@ -5217,7 +5217,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "chrysanthemum-morifolium",
+    "baseFoodId": "chrysanthemum",
     "giSystems": [
       {
         "system": "mara",
@@ -5256,7 +5256,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "桐乡杭白菊",
       "国家知识产权局地理标志",
       "浙江",
-      "chrysanthemum-morifolium",
+      "chrysanthemum",
       "地理标志",
       "GI"
     ],
@@ -5265,7 +5265,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "chrysanthemum-morifolium",
+    "baseFoodId": "chrysanthemum",
     "giSystems": [
       {
         "system": "cnipa",
@@ -5878,7 +5878,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "岳西茯苓",
       "农业农村部农产品地理标志",
       "安徽",
-      "poria-cocos",
+      "poria",
       "地理标志",
       "GI"
     ],
@@ -5887,7 +5887,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "poria-cocos",
+    "baseFoodId": "poria",
     "giSystems": [
       {
         "system": "mara",
@@ -5901,6 +5901,726 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-yuexi-poria",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "cnipa-xihu-longjing-manifest",
+    "name": "西湖龙井",
+    "en": "",
+    "category": "茶饮",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "西湖龙井",
+      "国家知识产权局地理标志",
+      "浙江",
+      "green-tea",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "西湖龙井为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "green-tea",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-xihu-longjing-manifest",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "cnipa-dongting-biluochun-manifest",
+    "name": "洞庭碧螺春",
+    "en": "",
+    "category": "茶饮",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "洞庭碧螺春",
+      "国家知识产权局地理标志",
+      "江苏",
+      "green-tea",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "洞庭碧螺春为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "green-tea",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-dongting-biluochun-manifest",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "cnipa-anxi-tieguanyin-manifest",
+    "name": "安溪铁观音",
+    "en": "",
+    "category": "茶饮",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "安溪铁观音",
+      "国家知识产权局地理标志",
+      "福建",
+      "oolong-tea",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "安溪铁观音为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "oolong-tea",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-anxi-tieguanyin-manifest",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "cnipa-wuyi-yancha-manifest",
+    "name": "武夷岩茶",
+    "en": "",
+    "category": "茶饮",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "武夷岩茶",
+      "国家知识产权局地理标志",
+      "福建",
+      "oolong-tea",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "武夷岩茶为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "oolong-tea",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-wuyi-yancha-manifest",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "cnipa-fuding-baicha-manifest",
+    "name": "福鼎白茶",
+    "en": "",
+    "category": "茶饮",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "福鼎白茶",
+      "国家知识产权局地理标志",
+      "福建",
+      "white-tea",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "福鼎白茶为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "white-tea",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-fuding-baicha-manifest",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "cnipa-puer-tea-manifest",
+    "name": "普洱茶",
+    "en": "",
+    "category": "茶饮",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "普洱茶",
+      "国家知识产权局地理标志",
+      "云南",
+      "pu-er-tea",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "普洱茶为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "pu-er-tea",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-puer-tea-manifest",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "mara-wuchang-rice-manifest",
+    "name": "五常大米",
+    "en": "",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "五常大米",
+      "农业农村部农产品地理标志",
+      "黑龙江",
+      "rice",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "五常大米为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "rice",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-wuchang-rice-manifest",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "mara-panjin-rice-manifest",
+    "name": "盘锦大米",
+    "en": "",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "辽宁"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "盘锦大米",
+      "农业农村部农产品地理标志",
+      "辽宁",
+      "rice",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "盘锦大米为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "rice",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-panjin-rice-manifest",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "mara-yangcheng-crab-manifest",
+    "name": "阳澄湖大闸蟹",
+    "en": "",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "阳澄湖大闸蟹",
+      "农业农村部农产品地理标志",
+      "江苏",
+      "crab",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "阳澄湖大闸蟹为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "crab",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-yangcheng-crab-manifest",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "mara-gannan-orange-manifest",
+    "name": "赣南脐橙",
+    "en": "",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "赣南脐橙",
+      "农业农村部农产品地理标志",
+      "江西",
+      "orange",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "赣南脐橙为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "orange",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-gannan-orange-manifest",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "mara-korla-pear-manifest",
+    "name": "库尔勒香梨",
+    "en": "",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "库尔勒香梨",
+      "农业农村部农产品地理标志",
+      "新疆",
+      "pear",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "库尔勒香梨为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "pear",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-korla-pear-manifest",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "cnipa-jinhua-ham-manifest2",
+    "name": "金华火腿",
+    "en": "",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "金华火腿",
+      "国家知识产权局地理标志",
+      "浙江",
+      "jinhua-ham-gi",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "金华火腿为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "jinhua-ham-gi",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-jinhua-ham-manifest2",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "cnipa-shaoxing-wine-manifest",
+    "name": "绍兴黄酒",
+    "en": "",
+    "category": "饮品",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "绍兴黄酒",
+      "国家知识产权局地理标志",
+      "浙江",
+      "cat-condiment-022",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "绍兴黄酒为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "cat-condiment-022",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-shaoxing-wine-manifest",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "cnipa-pixian-douban-manifest",
+    "name": "郫县豆瓣",
+    "en": "",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "郫县豆瓣",
+      "国家知识产权局地理标志",
+      "四川",
+      "doubanjiang",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "郫县豆瓣为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "doubanjiang",
+    "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "cnipa",
+      "sourceUrl": "",
+      "sourceId": "cnipa-pixian-douban-manifest",
+      "fetchedAt": "2026-06-07",
+      "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+    },
+    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
+  },
+  {
+    "id": "mara-ningxia-lamb-manifest",
+    "name": "宁夏滩羊",
+    "en": "",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "产地认证"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "宁夏"
+    ],
+    "aliases": [],
+    "searchTerms": [
+      "宁夏滩羊",
+      "农业农村部农产品地理标志",
+      "宁夏",
+      "lamb",
+      "地理标志",
+      "GI"
+    ],
+    "summary": "宁夏滩羊为公开地理标志名录整理条目。",
+    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
+    "teaClass": "",
+    "itemKind": "food",
+    "isOriginProduct": true,
+    "baseFoodId": "lamb",
+    "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      }
+    ],
+    "peop": null,
+    "daoDi": null,
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "",
+      "sourceId": "mara-ningxia-lamb-manifest",
       "fetchedAt": "2026-06-07",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
@@ -5977,6 +6697,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "江西",
       "赣州",
+      "mara-gannan-orange-manifest",
       "地理标志",
       "GI"
     ],
@@ -5985,7 +6706,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "mara-gannan-orange-manifest",
     "giSystems": [
       {
         "system": "mara",
@@ -6171,6 +6892,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "新疆",
       "巴州",
+      "mara-korla-pear-manifest",
       "地理标志",
       "GI"
     ],
@@ -6179,7 +6901,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "mara-korla-pear-manifest",
     "giSystems": [
       {
         "system": "mara",
@@ -6766,6 +7488,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "山东",
       "烟台",
+      "vermicelli",
       "地理标志",
       "GI"
     ],
@@ -6774,7 +7497,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "vermicelli",
     "giSystems": [
       {
         "system": "mara",
@@ -6814,7 +7537,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "浙江",
       "湖州",
-      "anji-white-tea",
+      "white-tea",
       "地理标志",
       "GI"
     ],
@@ -6823,7 +7546,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "anji-white-tea",
+    "baseFoodId": "white-tea",
     "giSystems": [
       {
         "system": "mara",
@@ -7057,7 +7780,6 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "湖北",
       "恩施",
-      "mara-enshi-yulu-manifest",
       "地理标志",
       "GI"
     ],
@@ -7066,7 +7788,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "mara-enshi-yulu-manifest",
+    "baseFoodId": null,
     "giSystems": [
       {
         "system": "mara",

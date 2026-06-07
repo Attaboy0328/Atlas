@@ -1,5 +1,10 @@
 [
   {
+    "alias": "amaranth",
+    "canonical": "amaranth-greens",
+    "note": "auto: duplicate name「苋菜」→ amaranth-greens"
+  },
+  {
     "alias": "argentine-red-shrimp",
     "canonical": "prawn-red-argentine",
     "note": "auto: duplicate name「阿根廷红虾」→ prawn-red-argentine"
@@ -7,7 +12,12 @@
   {
     "alias": "astragalus-membranaceus",
     "canonical": "astragalus",
-    "note": "黄芪"
+    "note": "黄芪药典 id 归并到 catalog 短 id"
+  },
+  {
+    "alias": "biangbiang-noodles",
+    "canonical": "biangbiang-noodle",
+    "note": "auto: duplicate name「biangbiang面」→ biangbiang-noodle"
   },
   {
     "alias": "black-tiger-shrimp",
@@ -18,6 +28,11 @@
     "alias": "caixin",
     "canonical": "choy-sum",
     "note": "auto: duplicate name「菜心」→ choy-sum"
+  },
+  {
+    "alias": "cantonese-dimsum",
+    "canonical": "dim-sum-shrimp",
+    "note": "auto: duplicate name「虾饺」→ dim-sum-shrimp"
   },
   {
     "alias": "cat-bean-148",
@@ -85,6 +100,11 @@
     "note": "auto: duplicate name「泡椒」→ pickled-chili"
   },
   {
+    "alias": "cat-condiment-009",
+    "canonical": "doubanjiang",
+    "note": "auto: duplicate name「豆瓣酱」→ doubanjiang"
+  },
+  {
     "alias": "cat-condiment-017",
     "canonical": "fermented-tofu",
     "note": "auto: duplicate name「腐乳」→ fermented-tofu"
@@ -93,6 +113,21 @@
     "alias": "cat-condiment-019",
     "canonical": "changsha-chili",
     "note": "auto: duplicate name「剁椒」→ changsha-chili"
+  },
+  {
+    "alias": "cat-condiment-021",
+    "canonical": "cooking-wine",
+    "note": "auto: duplicate name「料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cat-condiment-028",
+    "canonical": "soy-sauce",
+    "note": "auto: duplicate name「酱油」→ soy-sauce"
+  },
+  {
+    "alias": "cat-condiment-031",
+    "canonical": "oyster-sauce",
+    "note": "auto: duplicate name「蚝油」→ oyster-sauce"
   },
   {
     "alias": "cat-condiment-034",
@@ -108,6 +143,16 @@
     "alias": "cat-condiment-043",
     "canonical": "honey",
     "note": "auto: duplicate name「蜂蜜」→ honey"
+  },
+  {
+    "alias": "cat-condiment-051",
+    "canonical": "chili-oil",
+    "note": "auto: duplicate name「辣椒油」→ chili-oil"
+  },
+  {
+    "alias": "cat-condiment-052",
+    "canonical": "sesame-oil",
+    "note": "auto: duplicate name「芝麻油」→ sesame-oil"
   },
   {
     "alias": "cat-condiment-073",
@@ -350,6 +395,11 @@
     "note": "auto: duplicate name「豇豆」→ yardlong-bean"
   },
   {
+    "alias": "cat-veg-235",
+    "canonical": "okra",
+    "note": "auto: duplicate name「秋葵」→ okra"
+  },
+  {
     "alias": "cat-veg-236",
     "canonical": "chayote",
     "note": "auto: duplicate name「佛手瓜」→ chayote"
@@ -400,9 +450,19 @@
     "note": "auto: duplicate name「枸杞头」→ goji-shoots"
   },
   {
+    "alias": "celery-celery",
+    "canonical": "celery-stalk",
+    "note": "auto: duplicate name「西芹」→ celery-stalk"
+  },
+  {
     "alias": "chives",
     "canonical": "garlic-chive",
     "note": "auto: duplicate name「韭菜」→ garlic-chive"
+  },
+  {
+    "alias": "chrysanthemum-morifolium",
+    "canonical": "chrysanthemum",
+    "note": "菊花"
   },
   {
     "alias": "citrus-reticulata-peel",
@@ -420,6 +480,11 @@
     "note": "薏米"
   },
   {
+    "alias": "crossing-bridge-noodles",
+    "canonical": "crossing-bridge-noodle",
+    "note": "auto: duplicate name「过桥米线」→ crossing-bridge-noodle"
+  },
+  {
     "alias": "dioscorea-opposita",
     "canonical": "yam",
     "note": "山药"
@@ -428,6 +493,11 @@
     "alias": "dried-longan",
     "canonical": "longan-dried",
     "note": "桂圆干"
+  },
+  {
+    "alias": "enoki",
+    "canonical": "enoki-mushroom",
+    "note": "auto: duplicate name「金针菇」→ enoki-mushroom"
   },
   {
     "alias": "fructus-piperis",
@@ -450,6 +520,11 @@
     "note": "auto: duplicate name「基围虾」→ jizha-shrimp"
   },
   {
+    "alias": "hawthorn-fruit",
+    "canonical": "hawthorn",
+    "note": "山楂"
+  },
+  {
     "alias": "juglans-regia-kernel",
     "canonical": "walnut",
     "note": "核桃仁"
@@ -457,7 +532,7 @@
   {
     "alias": "jujube-fruit-dried",
     "canonical": "jujube",
-    "note": "大枣"
+    "note": "大枣药食同源"
   },
   {
     "alias": "kiwifruit",
@@ -468,6 +543,11 @@
     "alias": "kuruma-prawn",
     "canonical": "prawn-kuruma",
     "note": "auto: duplicate name「竹节虾」→ prawn-kuruma"
+  },
+  {
+    "alias": "larou",
+    "canonical": "bacon",
+    "note": "auto: duplicate name「腊肉」→ bacon"
   },
   {
     "alias": "lily-bulb-white",
@@ -485,6 +565,11 @@
     "note": "桂圆肉"
   },
   {
+    "alias": "longan-dried",
+    "canonical": "dried-longan",
+    "note": "桂圆肉 catalog"
+  },
+  {
     "alias": "loofah",
     "canonical": "luffa",
     "note": "auto: duplicate name「丝瓜」→ luffa"
@@ -498,6 +583,11 @@
     "alias": "lycium-barbarum-ningxia",
     "canonical": "goji-berry",
     "note": "宁夏枸杞别名"
+  },
+  {
+    "alias": "miao-sour-soup",
+    "canonical": "miao-sour-fish",
+    "note": "auto: duplicate name「酸汤鱼」→ miao-sour-fish"
   },
   {
     "alias": "millet-noodle",
@@ -570,6 +660,11 @@
     "note": "荷叶"
   },
   {
+    "alias": "official-medlar",
+    "canonical": "goji-berry",
+    "note": "枸杞 official 条目"
+  },
+  {
     "alias": "official-mulberry",
     "canonical": "mulberry",
     "note": "auto: duplicate name「桑葚」→ mulberry"
@@ -610,6 +705,11 @@
     "note": "auto: duplicate name「松子仁」→ official-pine-nut"
   },
   {
+    "alias": "poria-cocos",
+    "canonical": "poria",
+    "note": "茯苓药典 id 归并到 catalog 短 id"
+  },
+  {
     "alias": "prawn-jwei",
     "canonical": "jizha-shrimp",
     "note": "auto: duplicate name「基围虾」→ jizha-shrimp"
@@ -630,9 +730,34 @@
     "note": "auto: duplicate name「兔肉」→ rabbit"
   },
   {
+    "alias": "radix-ginseng",
+    "canonical": "ginseng",
+    "note": "人参"
+  },
+  {
+    "alias": "rice-mi",
+    "canonical": "rice",
+    "note": "大米/粳米归并"
+  },
+  {
+    "alias": "river-clam",
+    "canonical": "river-mussel",
+    "note": "auto: duplicate name「河蚌」→ river-mussel"
+  },
+  {
     "alias": "seaweed",
     "canonical": "nori",
     "note": "auto: duplicate name「紫菜」→ nori"
+  },
+  {
+    "alias": "seaweed-nori",
+    "canonical": "nori",
+    "note": "auto: duplicate name「紫菜」→ nori"
+  },
+  {
+    "alias": "semen-coicis",
+    "canonical": "coix-seed",
+    "note": "薏苡仁/薏米"
   },
   {
     "alias": "sesamum-nigrum",
@@ -653,6 +778,11 @@
     "alias": "snow-cabbage",
     "canonical": "pickled-mustard",
     "note": "auto: duplicate name「雪里蕻」→ pickled-mustard"
+  },
+  {
+    "alias": "sour-bamboo-shoot",
+    "canonical": "dai-sour-bamboo",
+    "note": "auto: duplicate name「酸笋」→ dai-sour-bamboo"
   },
   {
     "alias": "tremella",

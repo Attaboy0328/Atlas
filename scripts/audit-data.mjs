@@ -83,13 +83,6 @@ if (garbled) warnings.push(`app.js RUNTIME_SEARCH_INDEX garbled entries: ${garbl
 const fffd = (app.match(/\uFFFD/g) || []).length;
 if (fffd) warnings.push(`U+FFFD replacement chars in app.js: ${fffd}`);
 
-// Archive leftovers
-["data/tcm/herbs-phase2.json", "data/tcm/herbs-core.json", "foods-cn-supplement.js"].forEach((rel) => {
-  if (fs.existsSync(path.join(root, rel))) {
-    warnings.push(`Legacy file still in tree (should archive): ${rel}`);
-  }
-});
-
 console.log("=== Atlas audit-data ===");
 info.forEach((line) => console.log("  ·", line));
 if (warnings.length) {

@@ -55,6 +55,9 @@ npm run build:data
 - `data/cn/pairing-rules-extra.json`
 - `data/cn/pairing-rules-extra-batch2.json`
 - `data/cn/pairing-rules-extra-batch3.json`
+- `data/cn/pairing-rules-extra-batch4.json`
+- `data/cn/foods-base-staples.json` — 大米、乌龙茶、鸡肉等基原 id
+- `data/cn/foods-medicine-homologous-batch2.json` — 食药同源专卡补全
 
 每条需 `ids`、`title`、`level`、`category`、`text`。新增批次后确认 `scripts/build-data.mjs` 已纳入。
 

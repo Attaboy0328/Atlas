@@ -141,7 +141,8 @@ const pairingJsonSources = [
   readJson("data/cn/pairing-rules-base.json"),
   readJson("data/cn/pairing-rules-extra.json"),
   readJson("data/cn/pairing-rules-extra-batch2.json"),
-  readJson("data/cn/pairing-rules-extra-batch3.json")
+  readJson("data/cn/pairing-rules-extra-batch3.json"),
+  readJson("data/cn/pairing-rules-extra-batch4.json")
 ].filter(Boolean);
 
 const rulesMissingCategory = [

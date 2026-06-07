@@ -1,0 +1,20 @@
+[
+  {"ids":["astragalus","green-tea"],"title":"黄芪与绿茶","level":"notice","category":"现代安全","text":"补气类食材/药材与浓茶同服，部分人感觉补益感减弱，宜错开 1–2 小时。"},
+  {"ids":["ginseng","white-radish"],"title":"人参与白萝卜","level":"gold","category":"传统食养","text":"传统认为萝卜下气、人参补气，方向不同；现代更应理解为进补期不宜大量生食萝卜。"},
+  {"ids":["codonopsis","tea"],"title":"党参与茶","level":"notice","category":"现代安全","text":"党参炖汤后不宜立即饮浓茶，避免影响消化与补益感受。"},
+  {"ids":["hawthorn","shrimp"],"title":"山楂与虾","level":"notice","category":"现代安全","text":"山楂酸涩，与部分海鲜同餐可能加重胃部不适，重点在空腹与过量。"},
+  {"ids":["hotpot-base","beer"],"title":"火锅与啤酒","level":"caution","category":"现代安全","text":"辛辣油腻火锅配酒精，易加重胃肠负担与尿酸波动，痛风者尤其注意。"},
+  {"ids":["crab","tea"],"title":"螃蟹与茶","level":"notice","category":"传统食养","text":"传统提醒鞣酸影响消化感受，宜餐后间隔再饮，非绝对禁忌。"},
+  {"ids":["milk","orange"],"title":"牛奶与柑橘","level":"notice","category":"现代安全","text":"部分人会腹胀，多与乳糖不耐或一次吃太多有关。"},
+  {"ids":["spinach","milk"],"title":"菠菜与牛奶","level":"notice","category":"现代安全","text":"草酸可能影响钙吸收感受，焯水后搭配更稳妥。"},
+  {"ids":["eel","perilla-leaf"],"title":"黄鳝与紫苏叶","level":"notice","category":"传统食养","text":"江南常见搭配，重点在河鲜做熟与个体过敏史。"},
+  {"ids":["preserved-egg","tofu"],"title":"皮蛋与豆腐","level":"notice","category":"现代安全","text":"凉拌常见，注意皮蛋来源与卫生，胃弱者适量。"},
+  {"ids":["durian","milk"],"title":"榴莲与奶","level":"caution","category":"现代安全","text":"部分人同餐后腹胀，热带水果与乳制品叠加需适量。"},
+  {"ids":["watermelon","crab"],"title":"西瓜与螃蟹","level":"caution","category":"传统食养","text":"寒凉叠加，脾胃虚寒者尤应注意份量与空腹。"},
+  {"ids":["lamb","pomegranate"],"title":"羊肉与石榴","level":"notice","category":"传统食养","text":"温补肉类与酸涩水果同餐，部分人会感到消化不适。"},
+  {"ids":["chicken","jujube"],"title":"鸡肉与大枣","level":"gold","category":"传统食养","text":"补气养血常见炖汤组合，感冒发热时不宜大补。"},
+  {"ids":["goji-berry","chrysanthemum"],"title":"枸杞与菊花","level":"gold","category":"传统食养","text":"经典清肝明目组合，虚寒腹泻者菊花用量宜少。"},
+  {"ids":["poria","yam"],"title":"茯苓与山药","level":"gold","category":"传统食养","text":"健脾常见配伍，湿重苔腻者可常用，腹胀明显者少量。"},
+  {"ids":["coix-seed","adzuki-bean"],"title":"薏米与赤小豆","level":"gold","category":"传统食养","text":"利湿经典组合，孕妇慎用薏米，阳虚者不宜长期单用。"},
+  {"ids":["oolong-tea","pork"],"title":"乌龙茶与猪肉","level":"notice","category":"现代安全","text":"乌龙茶鞣酸较高，空腹浓饮或餐后立即浓茶可能影响消化舒适感。"}
+]

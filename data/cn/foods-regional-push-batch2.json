@@ -1,0 +1,313 @@
+[
+  {
+    "id": "roujiamo",
+    "name": "肉夹馍",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "陕西"
+    ],
+    "ethnicGroups": [
+      "汉族"
+    ],
+    "searchTerms": [
+      "roujiamo",
+      "rjm",
+      "肉夹馍",
+      "陕西"
+    ],
+    "summary": "陕西名吃，腊汁肉夹馍，咸香饱腹。",
+    "caution": "控盐控脂期适量。"
+  },
+  {
+    "id": "biangbiang-noodles",
+    "name": "biangbiang面",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "陕西"
+    ],
+    "ethnicGroups": [
+      "汉族"
+    ],
+    "searchTerms": [
+      "biangbiang",
+      "面",
+      "陕西面食"
+    ],
+    "summary": "宽面劲道，油泼辣子提香，关中代表面食。",
+    "caution": "辛辣刺激胃病患者适量。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "lanzhou-beef-noodle",
+    "name": "兰州牛肉面",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "甘肃"
+    ],
+    "ethnicGroups": [
+      "回族"
+    ],
+    "searchTerms": [
+      "lanzhou",
+      "牛肉面",
+      "兰州拉面"
+    ],
+    "summary": "清真风味牛肉面，清汤鲜肉，一清二白三红四绿。",
+    "caution": "高血压者注意汤底盐分。"
+  },
+  {
+    "id": "crossing-bridge-noodles",
+    "name": "过桥米线",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "ethnicGroups": [
+      "汉族"
+    ],
+    "searchTerms": [
+      "guoqiao",
+      "过桥米线",
+      "云南"
+    ],
+    "summary": "云南名吃，热汤烫生料，鲜香滑嫩。",
+    "caution": "汤底滚烫，注意防烫；海鲜配料过敏者慎选。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "harbin-red-sausage",
+    "name": "哈尔滨红肠",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江"
+    ],
+    "ethnicGroups": [
+      "汉族"
+    ],
+    "searchTerms": [
+      "haerbin",
+      "红肠",
+      "哈尔滨"
+    ],
+    "summary": "东北熏制香肠，蒜香浓郁，宜切片冷食或炒菜。",
+    "caution": "加工肉制品不宜过量。"
+  },
+  {
+    "id": "mongolian-lamb",
+    "name": "手把羊肉",
+    "category": "肉蛋奶",
+    "nature": "热",
+    "effects": [
+      "温阳"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "内蒙古"
+    ],
+    "ethnicGroups": [
+      "蒙古族"
+    ],
+    "searchTerms": [
+      "shouba",
+      "羊肉",
+      "蒙古"
+    ],
+    "summary": "蒙古族传统菜肴，清水煮羊，蘸料食用。",
+    "caution": "内热、痛风者适量。"
+  },
+  {
+    "id": "tibetan-butter-tea",
+    "name": "酥油茶",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "御寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏",
+      "青海"
+    ],
+    "ethnicGroups": [
+      "藏族"
+    ],
+    "searchTerms": [
+      "suyou",
+      "cha",
+      "酥油茶",
+      "藏餐"
+    ],
+    "summary": "藏族日常饮品，酥油与茶盐同打，御寒耐饥。",
+    "caution": "高血脂、乳糖不耐受者适量。"
+  },
+  {
+    "id": "dai-sour-bamboo",
+    "name": "酸笋",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "ethnicGroups": [
+      "傣族"
+    ],
+    "searchTerms": [
+      "suansun",
+      "酸笋",
+      "傣族"
+    ],
+    "summary": "傣族风味发酵笋，酸辣开胃，宜炒肉、煮鱼。",
+    "caution": "胃溃疡、控盐期适量。"
+  },
+  {
+    "id": "miao-sour-soup",
+    "name": "酸汤鱼",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "ethnicGroups": [
+      "苗族"
+    ],
+    "searchTerms": [
+      "suantangyu",
+      "酸汤鱼",
+      "贵州",
+      "苗族"
+    ],
+    "summary": "苗家酸汤煮鱼，酸辣鲜香，开胃消食。",
+    "caution": "海鲜过敏者禁食；胃酸过多者适量。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "cantonese-dimsum",
+    "name": "虾饺",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "ethnicGroups": [
+      "汉族"
+    ],
+    "searchTerms": [
+      "xiajiao",
+      "虾饺",
+      "粤式",
+      "早茶"
+    ],
+    "summary": "广式早茶代表，晶莹剔透，鲜虾为馅。",
+    "caution": "海鲜过敏者禁食。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "hakka-stuffed-tofu",
+    "name": "客家酿豆腐",
+    "category": "豆品",
+    "nature": "平",
+    "effects": [
+      "益气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建"
+    ],
+    "ethnicGroups": [
+      "客家"
+    ],
+    "searchTerms": [
+      "niangdoufu",
+      "酿豆腐",
+      "客家"
+    ],
+    "summary": "客家名菜，豆腐酿肉馅，鲜香软嫩。",
+    "caution": "痛风急性期适量。"
+  },
+  {
+    "id": "uyghur-polo",
+    "name": "抓饭",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "ethnicGroups": [
+      "维吾尔族"
+    ],
+    "searchTerms": [
+      "zhuafan",
+      "抓饭",
+      "新疆",
+      "polo"
+    ],
+    "summary": "新疆羊肉抓饭，胡萝卜与大米同焖，油润香浓。",
+    "caution": "控脂控糖期适量。"
+  }
+]

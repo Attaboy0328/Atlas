@@ -84,7 +84,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-010",
@@ -194,7 +195,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-022",
@@ -257,7 +259,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-029",
@@ -284,7 +287,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-032",
@@ -467,7 +471,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-052",
@@ -476,7 +481,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-053",
@@ -2161,7 +2167,8 @@
     "nature": "平",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-veg-236",

@@ -5238,6 +5238,623 @@
     "classicTier": 1
   },
   {
+    "id": "classic2-shanyao-fuling-zhou",
+    "name": "山药茯苓粥（经典）",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "yam",
+      "poria",
+      "rice"
+    ],
+    "subtitle": "健脾渗湿",
+    "ingredients": [
+      "山药 100 克",
+      "茯苓 15 克",
+      "粳米 80 克"
+    ],
+    "steps": [
+      "山药去皮切块",
+      "茯苓煎汁或与山药、粳米同煮至软烂"
+    ],
+    "note": "腹胀明显者山药用量宜少。",
+    "sources": [
+      {
+        "title": "《脾胃论》",
+        "summary": "山药配茯苓，健脾而不滞湿。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-dangshen-shanyao-tang",
+    "name": "党参山药鸡汤",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血两虚"
+    ],
+    "foodIds": [
+      "codonopsis",
+      "yam",
+      "chicken"
+    ],
+    "subtitle": "益气健脾",
+    "ingredients": [
+      "党参 12 克",
+      "山药 100 克",
+      "鸡肉 250 克",
+      "生姜 3 片"
+    ],
+    "steps": [
+      "鸡肉焯水",
+      "与党参、山药、生姜同炖 1 小时"
+    ],
+    "note": "外感发热时不宜。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "党参山药配鸡肉，平补脾气。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-huangqi-gouqi-cha",
+    "name": "黄芪枸杞茶",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血两虚"
+    ],
+    "foodIds": [
+      "astragalus",
+      "goji-berry"
+    ],
+    "subtitle": "益气明目",
+    "ingredients": [
+      "黄芪 10 克",
+      "枸杞 10 克",
+      "热水 500 ml"
+    ],
+    "steps": [
+      "黄芪、枸杞同煮 15 分钟",
+      "温热代茶少量饮用"
+    ],
+    "note": "实热、外感初起不宜。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "黄芪配枸杞，益气养血明目。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-lianzi-baihe-geng",
+    "name": "莲子百合羹",
+    "nature": "平",
+    "syndromes": [
+      "心脾两虚",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "lotus-seed",
+      "lily-bulb",
+      "jujube"
+    ],
+    "subtitle": "养心安神",
+    "ingredients": [
+      "莲子 20 克",
+      "百合 20 克",
+      "红枣 4 枚"
+    ],
+    "steps": [
+      "莲子浸泡",
+      "与百合、红枣同煮至软糯"
+    ],
+    "note": "甜腻偏重时控制频率。",
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "莲子百合羹宁心安神。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-yiner-lianzi-tang",
+    "name": "银耳莲子汤",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "white-fungus",
+      "lotus-seed",
+      "jujube"
+    ],
+    "subtitle": "养阴润燥",
+    "ingredients": [
+      "银耳 10 克",
+      "莲子 15 克",
+      "红枣 3 枚"
+    ],
+    "steps": [
+      "银耳泡发煮软",
+      "加莲子、红枣再煮 20 分钟"
+    ],
+    "note": "风寒咳嗽者不宜。",
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "银耳莲子汤养阴润燥。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-chenpi-shengjiang-yin",
+    "name": "陈皮生姜饮",
+    "nature": "温",
+    "syndromes": [
+      "痰湿困脾",
+      "胃寒"
+    ],
+    "foodIds": [
+      "chenpi",
+      "ginger"
+    ],
+    "subtitle": "温中化湿",
+    "ingredients": [
+      "陈皮 5 克",
+      "生姜 3 片",
+      "清水 500 ml"
+    ],
+    "steps": [
+      "陈皮、生姜同煮 12 分钟",
+      "温热少量饮用"
+    ],
+    "note": "阴虚口干者少量。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "陈皮配生姜，温中化湿和胃。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-shanzha-chenpi-cha",
+    "name": "山楂陈皮茶（经典）",
+    "nature": "温",
+    "syndromes": [
+      "食积",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "hawthorn",
+      "chenpi"
+    ],
+    "subtitle": "消食理气",
+    "ingredients": [
+      "山楂 10 克",
+      "陈皮 3 克",
+      "热水 400 ml"
+    ],
+    "steps": [
+      "同煮或冲泡后温服"
+    ],
+    "note": "胃酸过多、空腹不宜大量。",
+    "sources": [
+      {
+        "title": "《脾胃论》",
+        "summary": "山楂配陈皮，消食理气。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-doufu-xianggu",
+    "name": "豆腐香菇汤",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "tofu",
+      "shiitake",
+      "ginger"
+    ],
+    "subtitle": "益气和中",
+    "ingredients": [
+      "豆腐 200 克",
+      "香菇 5 朵",
+      "生姜 2 片"
+    ],
+    "steps": [
+      "香菇泡发",
+      "与豆腐、生姜同煮 15 分钟"
+    ],
+    "note": "痛风患者适量。",
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "豆腐香菇汤益气和中。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-jiyu-doufu",
+    "name": "鲫鱼豆腐汤（经典）",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "产后体虚"
+    ],
+    "foodIds": [
+      "crucian-carp",
+      "tofu",
+      "ginger"
+    ],
+    "subtitle": "健脾利湿",
+    "ingredients": [
+      "鲫鱼 1 条",
+      "豆腐 150 克",
+      "生姜 3 片"
+    ],
+    "steps": [
+      "鲫鱼煎至两面微黄",
+      "加豆腐、生姜同炖 30 分钟"
+    ],
+    "note": "须彻底煮熟；感冒发热时不宜。",
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "鲫鱼豆腐汤健脾利湿，产后常用。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-chunsun-zhurou",
+    "name": "春笋瘦肉汤",
+    "nature": "平",
+    "syndromes": [
+      "肝郁气滞",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "bamboo-shoot",
+      "pork",
+      "ginger"
+    ],
+    "subtitle": "清热化痰",
+    "ingredients": [
+      "春笋 200 克",
+      "瘦肉 100 克",
+      "生姜 2 片"
+    ],
+    "steps": [
+      "春笋焯水",
+      "与瘦肉、生姜同煮 25 分钟"
+    ],
+    "note": "纤维高，消化不良者少量。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "春笋配瘦肉，清热化痰。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-heixia-yimi-zhou",
+    "name": "河虾薏米粥",
+    "nature": "平",
+    "syndromes": [
+      "肾阳虚",
+      "湿气重"
+    ],
+    "foodIds": [
+      "river-shrimp",
+      "coix-seed",
+      "rice"
+    ],
+    "subtitle": "补肾利湿",
+    "ingredients": [
+      "河虾 80 克",
+      "薏米 30 克",
+      "大米 60 克"
+    ],
+    "steps": [
+      "薏米浸泡",
+      "与大米同煮至半熟",
+      "加河虾煮熟"
+    ],
+    "note": "海鲜过敏者禁食；痛风适量。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "河鲜配薏米，利湿补虚。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-lvdou-yimi-tang",
+    "name": "绿豆薏米汤",
+    "nature": "寒",
+    "syndromes": [
+      "湿热内蕴",
+      "暑湿"
+    ],
+    "foodIds": [
+      "mung-bean",
+      "coix-seed"
+    ],
+    "subtitle": "清热利湿",
+    "ingredients": [
+      "绿豆 50 克",
+      "薏米 30 克",
+      "清水适量"
+    ],
+    "steps": [
+      "浸泡后同煮至豆烂"
+    ],
+    "note": "脾胃虚寒、孕妇慎用薏米。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "绿豆配薏米，夏令清热利湿。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-bohe-juhua",
+    "name": "薄荷菊花茶（经典）",
+    "nature": "凉",
+    "syndromes": [
+      "风热犯肺",
+      "肝阳上亢"
+    ],
+    "foodIds": [
+      "mint",
+      "chrysanthemum"
+    ],
+    "subtitle": "疏散风热",
+    "ingredients": [
+      "薄荷 3 克",
+      "菊花 3 克",
+      "热水 300 ml"
+    ],
+    "steps": [
+      "菊花先泡",
+      "后下薄荷 3 分钟"
+    ],
+    "note": "体虚怕冷者不宜。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "薄荷菊花疏散风热。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-luohanguo-chrys",
+    "name": "罗汉果菊花茶",
+    "nature": "凉",
+    "syndromes": [
+      "肺阴虚",
+      "燥咳"
+    ],
+    "foodIds": [
+      "luo-han-guo",
+      "chrysanthemum"
+    ],
+    "subtitle": "清肺生津",
+    "ingredients": [
+      "罗汉果 1/4 个",
+      "菊花 3 克",
+      "热水 500 ml"
+    ],
+    "steps": [
+      "罗汉果掰碎与菊花同泡或煮饮"
+    ],
+    "note": "脾胃虚寒者不宜。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "罗汉果配菊花，清肺润燥。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-lingzhi-jujube",
+    "name": "灵芝红枣茶",
+    "nature": "平",
+    "syndromes": [
+      "心气不足",
+      "失眠"
+    ],
+    "foodIds": [
+      "ganoderma-lucidum",
+      "jujube"
+    ],
+    "subtitle": "益气安神",
+    "ingredients": [
+      "灵芝 5 克",
+      "红枣 3 枚",
+      "清水 500 ml"
+    ],
+    "steps": [
+      "同煮 20 分钟后温服"
+    ],
+    "note": "实证热盛、感冒发热时不宜。",
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "灵芝配红枣，益气安神。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-xiyangshen-maidong",
+    "name": "西洋参麦冬饮",
+    "nature": "凉",
+    "syndromes": [
+      "气阴两虚",
+      "津伤口渴"
+    ],
+    "foodIds": [
+      "panax-quinquefolius",
+      "ophiopogon-japonicus"
+    ],
+    "subtitle": "益气养阴",
+    "ingredients": [
+      "西洋参 3 克",
+      "麦冬 10 克",
+      "清水 400 ml"
+    ],
+    "steps": [
+      "煎煮或冲泡 15 分钟",
+      "温服"
+    ],
+    "note": "脾胃虚寒、腹泻者不宜。",
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "西洋参配麦冬，益气养阴生津。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-shihu-yiner",
+    "name": "石斛银耳羹（经典）",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "dendrobium-officinale",
+      "white-fungus",
+      "jujube"
+    ],
+    "subtitle": "养阴润燥",
+    "ingredients": [
+      "铁皮石斛 6 克",
+      "银耳 10 克",
+      "红枣 3 枚"
+    ],
+    "steps": [
+      "银耳泡发煮软",
+      "加石斛、红枣同煮"
+    ],
+    "note": "风寒咳嗽者不宜。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "石斛配银耳，养阴润肺。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-roucongrong-yangrou",
+    "name": "肉苁蓉羊肉汤",
+    "nature": "温",
+    "syndromes": [
+      "肾阳虚",
+      "肠燥"
+    ],
+    "foodIds": [
+      "cistanche-deserticola",
+      "lamb",
+      "ginger"
+    ],
+    "subtitle": "温肾润肠",
+    "ingredients": [
+      "肉苁蓉 10 克",
+      "羊肉 200 克",
+      "生姜 20 克"
+    ],
+    "steps": [
+      "羊肉焯水",
+      "与肉苁蓉、生姜同炖 90 分钟"
+    ],
+    "note": "阴虚火旺、腹泻者忌用。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "肉苁蓉配羊肉，温肾助阳润肠。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic2-nangua-xiaomi",
+    "name": "南瓜小米粥（经典）",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "pumpkin",
+      "millet",
+      "jujube"
+    ],
+    "subtitle": "温中养胃",
+    "ingredients": [
+      "南瓜 200 克",
+      "小米 80 克",
+      "红枣 3 枚"
+    ],
+    "steps": [
+      "南瓜切块",
+      "与小米、红枣同煮成粥"
+    ],
+    "note": "腹胀者不宜多食。",
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "南瓜小米粥温中养胃。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
     "id": "solar-lichun-chive-egg",
     "name": "立春韭菜炒蛋",
     "solarTerm": "立春",
@@ -6118,6 +6735,788 @@
       {
         "title": "《饮膳正要》",
         "summary": "大寒岁暮严寒，芝麻核桃糊为温补润肠常见食方。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-lichun-lvcha",
+    "name": "立春绿茶饮",
+    "solarTerm": "立春",
+    "season": [
+      "春季"
+    ],
+    "nature": "凉",
+    "syndromes": [
+      "肝阳上亢",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "green-tea",
+      "mint"
+    ],
+    "subtitle": "疏肝清利",
+    "ingredients": [
+      "绿茶 3 克",
+      "薄荷 2 克",
+      "热水 300 ml"
+    ],
+    "steps": [
+      "温水冲泡",
+      "薄荷后下 2 分钟"
+    ],
+    "note": "畏寒、失眠者不宜浓饮。",
+    "sources": [
+      {
+        "title": "《茶经》",
+        "summary": "春启万物，轻饮绿茶薄荷以疏肝。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-yushui-chenpi",
+    "name": "雨水陈皮生姜粥",
+    "solarTerm": "雨水",
+    "season": [
+      "春季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "痰湿困脾",
+      "胃寒"
+    ],
+    "foodIds": [
+      "chenpi",
+      "ginger",
+      "rice"
+    ],
+    "subtitle": "温中化湿",
+    "ingredients": [
+      "陈皮 5 克",
+      "生姜 3 片",
+      "大米 80 克"
+    ],
+    "steps": [
+      "陈皮、生姜先煮",
+      "加米同煮成粥"
+    ],
+    "note": "阴虚口干者少量。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "雨水湿重，陈皮生姜温中化湿。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-jingzhe-xiangsun",
+    "name": "惊蛰春笋炒肉",
+    "solarTerm": "惊蛰",
+    "season": [
+      "春季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "肝郁气滞"
+    ],
+    "foodIds": [
+      "bamboo-shoot",
+      "pork"
+    ],
+    "subtitle": "醒脾化痰",
+    "ingredients": [
+      "春笋 200 克",
+      "瘦肉 100 克",
+      "生姜 2 片"
+    ],
+    "steps": [
+      "春笋焯水切片",
+      "与瘦肉、生姜快炒"
+    ],
+    "note": "纤维高，消化不良者少量。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "惊蛰食笋，清化痰热。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-qingming-qingtuan",
+    "name": "清明艾草青团",
+    "solarTerm": "清明",
+    "season": [
+      "春季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "脾胃虚寒"
+    ],
+    "foodIds": [
+      "rice",
+      "jujube"
+    ],
+    "subtitle": "温中补气",
+    "ingredients": [
+      "糯米粉 100 克",
+      "艾草汁适量",
+      "红枣馅 适量"
+    ],
+    "steps": [
+      "艾草汁和粉成团",
+      "包红枣馅蒸熟"
+    ],
+    "note": "糯米黏滞，腹胀者适量；艾草过敏者慎食。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "清明食艾，温经散寒，江南习俗整理。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-guyu-lvcha",
+    "name": "谷雨新茶",
+    "solarTerm": "谷雨",
+    "season": [
+      "春季"
+    ],
+    "nature": "凉",
+    "syndromes": [
+      "肝胃不和"
+    ],
+    "foodIds": [
+      "green-tea"
+    ],
+    "subtitle": "清利头面",
+    "ingredients": [
+      "谷雨前绿茶 3 克",
+      "热水 250 ml"
+    ],
+    "steps": [
+      "80℃水冲泡",
+      "淡饮为宜"
+    ],
+    "note": "空腹、失眠者不宜。",
+    "sources": [
+      {
+        "title": "《茶经》",
+        "summary": "谷雨采茶，清利头目。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-lixia-lvdou",
+    "name": "立夏绿豆汤",
+    "solarTerm": "立夏",
+    "season": [
+      "夏季"
+    ],
+    "nature": "寒",
+    "syndromes": [
+      "暑热",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "mung-bean",
+      "coix-seed"
+    ],
+    "subtitle": "清热解暑",
+    "ingredients": [
+      "绿豆 50 克",
+      "薏米 20 克"
+    ],
+    "steps": [
+      "浸泡后同煮至豆烂",
+      "冷藏或温饮"
+    ],
+    "note": "脾胃虚寒者忌用。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "立夏暑气渐盛，绿豆薏米解暑。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-xiaoman-kugua",
+    "name": "小满苦瓜炒蛋",
+    "solarTerm": "小满",
+    "season": [
+      "夏季"
+    ],
+    "nature": "寒",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "bitter-melon",
+      "egg"
+    ],
+    "subtitle": "清热利湿",
+    "ingredients": [
+      "苦瓜 1 根",
+      "鸡蛋 2 个"
+    ],
+    "steps": [
+      "苦瓜切片焯水",
+      "与蛋液同炒"
+    ],
+    "note": "脾胃虚寒、孕妇慎食大量苦瓜。",
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "小满湿热，苦瓜清利。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-mangzhong-sour-plum",
+    "name": "芒种酸梅汤",
+    "solarTerm": "芒种",
+    "season": [
+      "夏季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "津伤口渴",
+      "食积"
+    ],
+    "foodIds": [
+      "smoked-plum",
+      "hawthorn"
+    ],
+    "subtitle": "生津消食",
+    "ingredients": [
+      "乌梅 5 枚",
+      "山楂 10 克",
+      "冰糖适量"
+    ],
+    "steps": [
+      "同煮 30 分钟",
+      "放温饮用"
+    ],
+    "note": "胃酸过多者适量。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "芒种暑湿，酸梅汤生津开胃。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-xiazhi-lvdou",
+    "name": "夏至荷叶绿豆粥",
+    "solarTerm": "夏至",
+    "season": [
+      "夏季"
+    ],
+    "nature": "寒",
+    "syndromes": [
+      "暑湿"
+    ],
+    "foodIds": [
+      "lotus-leaf",
+      "mung-bean",
+      "rice"
+    ],
+    "subtitle": "清暑利湿",
+    "ingredients": [
+      "荷叶 10 克",
+      "绿豆 40 克",
+      "大米 60 克"
+    ],
+    "steps": [
+      "荷叶先煮取汁",
+      "与绿豆、米同煮粥"
+    ],
+    "note": "脾胃虚寒忌用。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "夏至阳极，荷叶绿豆清暑。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-xiaoshu-wintermelon",
+    "name": "小暑冬瓜排骨汤",
+    "solarTerm": "小暑",
+    "season": [
+      "夏季"
+    ],
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "winter-melon",
+      "pork"
+    ],
+    "subtitle": "清热利水",
+    "ingredients": [
+      "冬瓜 300 克",
+      "排骨 200 克",
+      "生姜 2 片"
+    ],
+    "steps": [
+      "排骨焯水",
+      "与冬瓜、生姜同炖 45 分钟"
+    ],
+    "note": "阳虚怕冷者不宜多食。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "小暑酷热，冬瓜汤清热利水。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-dashu-bohe",
+    "name": "大暑薄荷金银花饮",
+    "solarTerm": "大暑",
+    "season": [
+      "夏季"
+    ],
+    "nature": "寒",
+    "syndromes": [
+      "暑热",
+      "风热犯肺"
+    ],
+    "foodIds": [
+      "mint",
+      "honeysuckle"
+    ],
+    "subtitle": "清热解毒",
+    "ingredients": [
+      "薄荷 3 克",
+      "金银花 6 克",
+      "热水 400 ml"
+    ],
+    "steps": [
+      "金银花先煮",
+      "后下薄荷 3 分钟"
+    ],
+    "note": "脾胃虚寒者不宜。",
+    "sources": [
+      {
+        "title": "《温病条辨》",
+        "summary": "大暑酷热，薄荷金银花解暑。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-liqiu-pear",
+    "name": "立秋川贝炖梨",
+    "solarTerm": "立秋",
+    "season": [
+      "秋季"
+    ],
+    "nature": "凉",
+    "syndromes": [
+      "肺阴虚",
+      "燥咳"
+    ],
+    "foodIds": [
+      "pear",
+      "lily-bulb"
+    ],
+    "subtitle": "润肺止咳",
+    "ingredients": [
+      "雪梨 1 个",
+      "百合 15 克",
+      "冰糖适量"
+    ],
+    "steps": [
+      "雪梨挖心",
+      "放入百合蒸熟或炖煮至软"
+    ],
+    "note": "风寒咳嗽、脾胃虚寒者不宜。",
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "立秋燥起，炖梨润肺。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-chushu-yiner",
+    "name": "处暑银耳莲子羹",
+    "solarTerm": "处暑",
+    "season": [
+      "秋季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "white-fungus",
+      "lotus-seed"
+    ],
+    "subtitle": "养阴润燥",
+    "ingredients": [
+      "银耳 10 克",
+      "莲子 20 克"
+    ],
+    "steps": [
+      "同煮至软糯"
+    ],
+    "note": "甜腻偏重时控制频率。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "处暑余热，银耳莲子养阴。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-bailu-chrys",
+    "name": "白露菊花茶",
+    "solarTerm": "白露",
+    "season": [
+      "秋季"
+    ],
+    "nature": "凉",
+    "syndromes": [
+      "肝阳上亢",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "chrysanthemum",
+      "goji-berry"
+    ],
+    "subtitle": "清肝明目",
+    "ingredients": [
+      "菊花 5 克",
+      "枸杞 10 克",
+      "热水 400 ml"
+    ],
+    "steps": [
+      "冲泡或短煮后饮用"
+    ],
+    "note": "腹泻、畏寒者不宜。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "白露秋凉，菊花枸杞养肝明目。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-qiufen-lianou",
+    "name": "秋分莲藕排骨汤",
+    "solarTerm": "秋分",
+    "season": [
+      "秋季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "血虚",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "lotus-root",
+      "pork"
+    ],
+    "subtitle": "养血润燥",
+    "ingredients": [
+      "莲藕 300 克",
+      "排骨 200 克",
+      "生姜 3 片"
+    ],
+    "steps": [
+      "同炖 1 小时",
+      "少盐调味"
+    ],
+    "note": "脾胃虚寒宜加生姜。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "秋分平补，莲藕排骨润燥。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-hanlu-shanyao",
+    "name": "寒露山药粥",
+    "solarTerm": "寒露",
+    "season": [
+      "秋季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "肺气虚"
+    ],
+    "foodIds": [
+      "yam",
+      "rice",
+      "jujube"
+    ],
+    "subtitle": "健脾益肺",
+    "ingredients": [
+      "山药 100 克",
+      "大米 80 克",
+      "红枣 4 枚"
+    ],
+    "steps": [
+      "同煮成粥"
+    ],
+    "note": "腹胀者适量。",
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "寒露渐冷，山药粥健脾。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-shuangjiang-hawthorn",
+    "name": "霜降山楂陈皮饮",
+    "solarTerm": "霜降",
+    "season": [
+      "秋季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "食积",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "hawthorn",
+      "chenpi"
+    ],
+    "subtitle": "消食化积",
+    "ingredients": [
+      "山楂 12 克",
+      "陈皮 3 克",
+      "热水 400 ml"
+    ],
+    "steps": [
+      "同煮 15 分钟后温服"
+    ],
+    "note": "胃酸过多者不宜。",
+    "sources": [
+      {
+        "title": "《脾胃论》",
+        "summary": "霜降进补前先消食理气。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-lidong-niurou",
+    "name": "立冬牛肉萝卜汤",
+    "solarTerm": "立冬",
+    "season": [
+      "冬季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "beef",
+      "white-radish",
+      "ginger"
+    ],
+    "subtitle": "补气暖胃",
+    "ingredients": [
+      "牛肉 200 克",
+      "白萝卜 200 克",
+      "生姜 5 片"
+    ],
+    "steps": [
+      "牛肉焯水",
+      "与萝卜、生姜同炖 90 分钟"
+    ],
+    "note": "高尿酸者适量。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "立冬温补，牛肉萝卜汤益气。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-xiaoxue-hongzao",
+    "name": "小雪红枣桂圆茶",
+    "solarTerm": "小雪",
+    "season": [
+      "冬季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "血虚",
+      "心脾两虚"
+    ],
+    "foodIds": [
+      "jujube",
+      "dried-longan"
+    ],
+    "subtitle": "养血安神",
+    "ingredients": [
+      "红枣 5 枚",
+      "桂圆肉 10 克",
+      "热水 500 ml"
+    ],
+    "steps": [
+      "同煮 10 分钟后温服"
+    ],
+    "note": "湿热、糖尿病者慎用。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "小雪寒气，红枣桂圆养血。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-daxue-yangrou",
+    "name": "大雪当归生姜羊肉汤",
+    "solarTerm": "大雪",
+    "season": [
+      "冬季"
+    ],
+    "nature": "热",
+    "syndromes": [
+      "血虚",
+      "脾阳虚"
+    ],
+    "foodIds": [
+      "lamb",
+      "ginger",
+      "jujube"
+    ],
+    "subtitle": "温阳补血",
+    "ingredients": [
+      "羊肉 250 克",
+      "生姜 30 克",
+      "红枣 5 枚"
+    ],
+    "steps": [
+      "羊肉焯水",
+      "与生姜、红枣同炖至软烂"
+    ],
+    "note": "阴虚火旺者忌用。",
+    "sources": [
+      {
+        "title": "《千金要方·食治篇》",
+        "summary": "大雪严寒，生姜羊肉汤温阳。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-xiaohan-shengdeng",
+    "name": "小寒生姜大枣粥",
+    "solarTerm": "小寒",
+    "season": [
+      "冬季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "胃寒"
+    ],
+    "foodIds": [
+      "ginger",
+      "jujube",
+      "rice"
+    ],
+    "subtitle": "温中散寒",
+    "ingredients": [
+      "生姜 5 片",
+      "红枣 6 枚",
+      "大米 80 克"
+    ],
+    "steps": [
+      "红枣去核",
+      "与生姜、米同煮成粥"
+    ],
+    "note": "阴虚内热者不宜。",
+    "sources": [
+      {
+        "title": "《千金要方·食治篇》",
+        "summary": "小寒彻骨，姜枣粥温中。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar2-dahan-hutao",
+    "name": "大寒核桃黑芝麻糊",
+    "solarTerm": "大寒",
+    "season": [
+      "冬季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "肾阳虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "walnut",
+      "black-sesame"
+    ],
+    "subtitle": "温补润肠",
+    "ingredients": [
+      "核桃仁 20 克",
+      "黑芝麻 20 克",
+      "温水 200 ml"
+    ],
+    "steps": [
+      "炒香磨糊",
+      "温水调匀温服"
+    ],
+    "note": "痰湿重、腹泻者不宜多食。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "大寒岁暮，核桃芝麻温补润肠。"
       }
     ],
     "draft": false,
