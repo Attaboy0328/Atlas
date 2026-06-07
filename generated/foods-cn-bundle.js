@@ -300,7 +300,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "abalone",
     "name": "鲍鱼",
     "en": "abalone",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴",
@@ -823,7 +823,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "pomfret",
     "name": "鲳鱼",
     "en": "pomfret",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -956,7 +956,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "razor-clam",
     "name": "蛏子",
     "en": "razor clam",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -1444,7 +1444,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "hairy-crab",
     "name": "大闸蟹",
     "en": "hairy crab",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热",
@@ -1475,7 +1475,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "hairtail",
     "name": "带鱼",
     "en": "hairtail",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补虚",
@@ -1506,7 +1506,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "mussel",
     "name": "淡菜",
     "en": "mussel",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补虚",
@@ -1840,7 +1840,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "prawn",
     "name": "对虾",
     "en": "prawn",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补肾"
@@ -2053,7 +2053,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "anchovy",
     "name": "凤尾鱼",
     "en": "anchovy",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补虚"
@@ -2426,7 +2426,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "mandarin-fish",
     "name": "鳜鱼",
     "en": "mandarin fish",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -2511,7 +2511,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "clam",
     "name": "蛤蜊",
     "en": "clam",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热",
@@ -2542,7 +2542,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "sea-cucumber",
     "name": "海参",
     "en": "sea cucumber",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "滋阴",
@@ -2570,7 +2570,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "seaweed-salad",
     "name": "海草",
     "en": "seaweed",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热",
@@ -2601,7 +2601,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "kelp",
     "name": "海带",
     "en": "kelp",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "软坚",
@@ -2632,7 +2632,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "sea-urchin",
     "name": "海胆",
     "en": "sea urchin",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴"
@@ -2680,7 +2680,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "conch",
     "name": "海螺",
     "en": "conch",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -2728,7 +2728,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "jellyfish",
     "name": "海蜇",
     "en": "jellyfish",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "清热",
@@ -2786,7 +2786,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "river-mussel",
     "name": "河蚌",
     "en": "river mussel",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴",
@@ -2817,7 +2817,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "pufferfish",
     "name": "河豚",
     "en": "pufferfish",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补虚"
@@ -2848,7 +2848,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "river-shrimp",
     "name": "河虾",
     "en": "river shrimp",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补肾",
@@ -3024,7 +3024,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "snakehead",
     "name": "黑鱼",
     "en": "snakehead",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补脾",
@@ -3328,7 +3328,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "fish-maw",
     "name": "花胶",
     "en": "fish maw",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴",
@@ -3510,7 +3510,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "yellow-catfish",
     "name": "黄颡鱼",
     "en": "yellow catfish",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -3543,7 +3543,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "yellow-croaker",
     "name": "黄鱼",
     "en": "yellow croaker",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -3710,7 +3710,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "jizha-shrimp",
     "name": "基围虾",
     "en": "jizha shrimp",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补肾"
@@ -3768,7 +3768,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "crucian-carp",
     "name": "鲫鱼",
     "en": "crucian carp",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -4625,7 +4625,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "carp",
     "name": "鲤鱼",
     "en": "carp",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -4746,7 +4746,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "silver-carp",
     "name": "鲢鱼",
     "en": "silver carp",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -4921,7 +4921,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "sea-bass",
     "name": "鲈鱼",
     "en": "sea bass",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -5027,7 +5027,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "tilapia",
     "name": "罗非鱼",
     "en": "tilapia",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -5631,7 +5631,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "shrimp",
     "name": "明虾",
     "en": "shrimp",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补肾",
@@ -5662,7 +5662,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "cuttlefish",
     "name": "墨鱼",
     "en": "cuttlefish",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴",
@@ -5924,7 +5924,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "loach",
     "name": "泥鳅",
     "en": "loach",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补中",
@@ -5952,7 +5952,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "catfish",
     "name": "鲶鱼",
     "en": "catfish",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补虚",
@@ -6639,7 +6639,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "mud-crab",
     "name": "青蟹",
     "en": "mud crab",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -6669,7 +6669,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "mackerel",
     "name": "鲭鱼",
     "en": "mackerel",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补虚",
@@ -6700,7 +6700,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "agar",
     "name": "琼脂",
     "en": "agar",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "清热"
@@ -6730,7 +6730,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "saury",
     "name": "秋刀鱼",
     "en": "saury",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补虚"
@@ -6757,7 +6757,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "wakame",
     "name": "裙带菜",
     "en": "wakame",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -6969,7 +6969,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "sardine",
     "name": "沙丁鱼",
     "en": "sardine",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补虚"
@@ -7137,7 +7137,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "scallop",
     "name": "扇贝",
     "en": "scallop",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴",
@@ -7165,7 +7165,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "eel",
     "name": "鳝鱼",
     "en": "eel",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补虚",
@@ -7256,7 +7256,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "oyster",
     "name": "生蚝",
     "en": "oyster",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴",
@@ -7321,7 +7321,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "grouper",
     "name": "石斑",
     "en": "grouper",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补虚"
@@ -7660,7 +7660,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "swimming-crab",
     "name": "梭子蟹",
     "en": "swimming crab",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -7776,7 +7776,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "river-snail",
     "name": "田螺",
     "en": "river snail",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -8669,7 +8669,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "whelk",
     "name": "香螺",
     "en": "whelk",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -8726,7 +8726,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "geoduck",
     "name": "象拔蚌",
     "en": "geoduck",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴"
@@ -8815,7 +8815,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "crayfish",
     "name": "小龙虾",
     "en": "crayfish",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "温中"
@@ -9428,7 +9428,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "whitebait",
     "name": "银鱼",
     "en": "whitebait",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补虚",
@@ -9553,7 +9553,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "bighead-carp",
     "name": "鳙鱼",
     "en": "bighead carp",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -9616,7 +9616,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "squid",
     "name": "鱿鱼",
     "en": "squid",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补虚",
@@ -9678,7 +9678,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "shark-fin",
     "name": "鱼翅",
     "en": "shark fin",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴"
@@ -9964,7 +9964,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "octopus",
     "name": "章鱼",
     "en": "octopus",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "益气",
@@ -10199,7 +10199,7 @@ const CN_SUPPLEMENT_FOODS = [
     "id": "nori",
     "name": "紫菜",
     "en": "nori",
-    "category": "水产",
+    "category": "海产",
     "nature": "凉",
     "effects": [
       "化痰",

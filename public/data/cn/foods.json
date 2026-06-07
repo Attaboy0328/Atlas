@@ -299,7 +299,7 @@
     "id": "abalone",
     "name": "鲍鱼",
     "en": "abalone",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴",
@@ -822,7 +822,7 @@
     "id": "pomfret",
     "name": "鲳鱼",
     "en": "pomfret",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -955,7 +955,7 @@
     "id": "razor-clam",
     "name": "蛏子",
     "en": "razor clam",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -1443,7 +1443,7 @@
     "id": "hairy-crab",
     "name": "大闸蟹",
     "en": "hairy crab",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热",
@@ -1474,7 +1474,7 @@
     "id": "hairtail",
     "name": "带鱼",
     "en": "hairtail",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补虚",
@@ -1505,7 +1505,7 @@
     "id": "mussel",
     "name": "淡菜",
     "en": "mussel",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补虚",
@@ -1839,7 +1839,7 @@
     "id": "prawn",
     "name": "对虾",
     "en": "prawn",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补肾"
@@ -2052,7 +2052,7 @@
     "id": "anchovy",
     "name": "凤尾鱼",
     "en": "anchovy",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补虚"
@@ -2425,7 +2425,7 @@
     "id": "mandarin-fish",
     "name": "鳜鱼",
     "en": "mandarin fish",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -2510,7 +2510,7 @@
     "id": "clam",
     "name": "蛤蜊",
     "en": "clam",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热",
@@ -2541,7 +2541,7 @@
     "id": "sea-cucumber",
     "name": "海参",
     "en": "sea cucumber",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "滋阴",
@@ -2569,7 +2569,7 @@
     "id": "seaweed-salad",
     "name": "海草",
     "en": "seaweed",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热",
@@ -2600,7 +2600,7 @@
     "id": "kelp",
     "name": "海带",
     "en": "kelp",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "软坚",
@@ -2631,7 +2631,7 @@
     "id": "sea-urchin",
     "name": "海胆",
     "en": "sea urchin",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴"
@@ -2679,7 +2679,7 @@
     "id": "conch",
     "name": "海螺",
     "en": "conch",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -2727,7 +2727,7 @@
     "id": "jellyfish",
     "name": "海蜇",
     "en": "jellyfish",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "清热",
@@ -2785,7 +2785,7 @@
     "id": "river-mussel",
     "name": "河蚌",
     "en": "river mussel",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴",
@@ -2816,7 +2816,7 @@
     "id": "pufferfish",
     "name": "河豚",
     "en": "pufferfish",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补虚"
@@ -2847,7 +2847,7 @@
     "id": "river-shrimp",
     "name": "河虾",
     "en": "river shrimp",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补肾",
@@ -3023,7 +3023,7 @@
     "id": "snakehead",
     "name": "黑鱼",
     "en": "snakehead",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补脾",
@@ -3327,7 +3327,7 @@
     "id": "fish-maw",
     "name": "花胶",
     "en": "fish maw",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴",
@@ -3509,7 +3509,7 @@
     "id": "yellow-catfish",
     "name": "黄颡鱼",
     "en": "yellow catfish",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -3542,7 +3542,7 @@
     "id": "yellow-croaker",
     "name": "黄鱼",
     "en": "yellow croaker",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -3709,7 +3709,7 @@
     "id": "jizha-shrimp",
     "name": "基围虾",
     "en": "jizha shrimp",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补肾"
@@ -3767,7 +3767,7 @@
     "id": "crucian-carp",
     "name": "鲫鱼",
     "en": "crucian carp",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -4624,7 +4624,7 @@
     "id": "carp",
     "name": "鲤鱼",
     "en": "carp",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -4745,7 +4745,7 @@
     "id": "silver-carp",
     "name": "鲢鱼",
     "en": "silver carp",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -4920,7 +4920,7 @@
     "id": "sea-bass",
     "name": "鲈鱼",
     "en": "sea bass",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -5026,7 +5026,7 @@
     "id": "tilapia",
     "name": "罗非鱼",
     "en": "tilapia",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -5630,7 +5630,7 @@
     "id": "shrimp",
     "name": "明虾",
     "en": "shrimp",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补肾",
@@ -5661,7 +5661,7 @@
     "id": "cuttlefish",
     "name": "墨鱼",
     "en": "cuttlefish",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴",
@@ -5923,7 +5923,7 @@
     "id": "loach",
     "name": "泥鳅",
     "en": "loach",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补中",
@@ -5951,7 +5951,7 @@
     "id": "catfish",
     "name": "鲶鱼",
     "en": "catfish",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补虚",
@@ -6638,7 +6638,7 @@
     "id": "mud-crab",
     "name": "青蟹",
     "en": "mud crab",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -6668,7 +6668,7 @@
     "id": "mackerel",
     "name": "鲭鱼",
     "en": "mackerel",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补虚",
@@ -6699,7 +6699,7 @@
     "id": "agar",
     "name": "琼脂",
     "en": "agar",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "清热"
@@ -6729,7 +6729,7 @@
     "id": "saury",
     "name": "秋刀鱼",
     "en": "saury",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补虚"
@@ -6756,7 +6756,7 @@
     "id": "wakame",
     "name": "裙带菜",
     "en": "wakame",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -6968,7 +6968,7 @@
     "id": "sardine",
     "name": "沙丁鱼",
     "en": "sardine",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补虚"
@@ -7136,7 +7136,7 @@
     "id": "scallop",
     "name": "扇贝",
     "en": "scallop",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴",
@@ -7164,7 +7164,7 @@
     "id": "eel",
     "name": "鳝鱼",
     "en": "eel",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "补虚",
@@ -7255,7 +7255,7 @@
     "id": "oyster",
     "name": "生蚝",
     "en": "oyster",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴",
@@ -7320,7 +7320,7 @@
     "id": "grouper",
     "name": "石斑",
     "en": "grouper",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补虚"
@@ -7659,7 +7659,7 @@
     "id": "swimming-crab",
     "name": "梭子蟹",
     "en": "swimming crab",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -7775,7 +7775,7 @@
     "id": "river-snail",
     "name": "田螺",
     "en": "river snail",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -8668,7 +8668,7 @@
     "id": "whelk",
     "name": "香螺",
     "en": "whelk",
-    "category": "水产",
+    "category": "海产",
     "nature": "寒",
     "effects": [
       "清热"
@@ -8725,7 +8725,7 @@
     "id": "geoduck",
     "name": "象拔蚌",
     "en": "geoduck",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴"
@@ -8814,7 +8814,7 @@
     "id": "crayfish",
     "name": "小龙虾",
     "en": "crayfish",
-    "category": "水产",
+    "category": "海产",
     "nature": "温",
     "effects": [
       "温中"
@@ -9427,7 +9427,7 @@
     "id": "whitebait",
     "name": "银鱼",
     "en": "whitebait",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补虚",
@@ -9552,7 +9552,7 @@
     "id": "bighead-carp",
     "name": "鳙鱼",
     "en": "bighead carp",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "健脾",
@@ -9615,7 +9615,7 @@
     "id": "squid",
     "name": "鱿鱼",
     "en": "squid",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "补虚",
@@ -9677,7 +9677,7 @@
     "id": "shark-fin",
     "name": "鱼翅",
     "en": "shark fin",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "滋阴"
@@ -9963,7 +9963,7 @@
     "id": "octopus",
     "name": "章鱼",
     "en": "octopus",
-    "category": "水产",
+    "category": "海产",
     "nature": "平",
     "effects": [
       "益气",
@@ -10198,7 +10198,7 @@
     "id": "nori",
     "name": "紫菜",
     "en": "nori",
-    "category": "水产",
+    "category": "海产",
     "nature": "凉",
     "effects": [
       "化痰",

@@ -129,8 +129,6 @@ const PROFILE_OPTIONS = [
   { id: "hypertension", label: "高血压、心脏或肾脏问题" }
 ];
 
-const QUICK_TERMS = ["行气", "理气", "破气", "降气", "药食同源"];
-
 const RECIPE_SCENARIO_SHORTCUTS = [
   { label: "想暖胃", nature: "温", syndrome: "全部" },
   { label: "饭后胀满", nature: "全部", syndrome: "肝胃不和" },
@@ -170,8 +168,9 @@ const RECIPE_SOLAR_TERM_SHORTCUTS = [
   { label: "大寒", solarTerm: "大寒", season: "冬季" }
 ];
 
-const LIBRARY_QI_TOPICS = ["药食同源", "中药材", "行气", "理气", "破气", "降气"];
-const LIBRARY_TEA_TOPICS = ["茶", "绿茶", "白茶", "黄茶", "乌龙茶", "黑茶", "红茶"];
+const LIBRARY_QI_TOPICS = ["行气", "理气", "破气", "降气"];
+const LIBRARY_CERT_FILTERS = ["地理标志", "道地", "PEOP"];
+const LIBRARY_TEA_CLASSES = ["绿茶", "白茶", "黄茶", "乌龙茶", "黑茶", "红茶"];
 
 const RECENT_LIMIT = 12;
 
@@ -454,6 +453,7 @@ const state = {
   libraryProvince: "全部",
   libraryEthnic: "全部",
   libraryTopic: "",
+  libraryCertFilter: "",
   libraryKind: "全部",
   libraryOfficialBatch: "全部",
   libraryProvincesExpanded: false,
@@ -1777,14 +1777,29 @@ function pushRecentRecipe(id) {
   saveJson("foodwise-recent-recipes", state.recentRecipes);
 }
 
-function navigateToLibraryFromHome({ nature, topic, query } = {}) {
+function navigateToLibraryFromHome({ nature, topic, kind, query } = {}) {
   if (nature) {
     state.libraryNature = nature;
     state.libraryTopic = "";
+    state.libraryCertFilter = "";
+  }
+  if (kind) {
+    state.libraryKind = kind;
+    state.libraryTopic = "";
+    state.libraryNature = "全部";
+    if (kind === "food-medicine") state.libraryCertFilter = "";
   }
   if (topic !== undefined) {
     state.libraryTopic = topic;
     state.libraryNature = "全部";
+    state.libraryCertFilter = "";
+    if (topic === "药食同源") {
+      state.libraryKind = "food-medicine";
+      state.libraryTopic = "";
+    } else if (topic === "中药材") {
+      state.libraryKind = "tcm-herb";
+      state.libraryTopic = "";
+    }
   }
   if (query !== undefined) {
     state.libraryQuery = query;
@@ -1883,7 +1898,15 @@ function applyUrlState() {
   if (params.get("lp")) state.libraryProvince = params.get("lp") || "全部";
   if (params.get("le")) state.libraryEthnic = params.get("le") || "全部";
   if (params.has("lt")) state.libraryTopic = params.get("lt") || "";
+  if (params.has("lcf")) state.libraryCertFilter = params.get("lcf") || "";
   if (params.get("lk")) state.libraryKind = params.get("lk");
+  if (state.libraryTopic === "药食同源") {
+    state.libraryKind = "food-medicine";
+    state.libraryTopic = "";
+  } else if (state.libraryTopic === "中药材") {
+    state.libraryKind = "tcm-herb";
+    state.libraryTopic = "";
+  }
   if (params.get("lob")) state.libraryOfficialBatch = params.get("lob") || "全部";
 
   if (params.get("rn")) state.recipesNature = params.get("rn");
@@ -2028,10 +2051,15 @@ function dedupeFoods(items) {
 
   const merged = new Map();
   [...byId.values()].forEach((food) => {
-    const key = cleanString(food.name).toLowerCase();
-    if (!key) return;
+    const nameKey = cleanString(food.name).toLowerCase();
+    if (!nameKey) return;
+    const key = food.isOriginProduct ? `origin:${food.id}` : nameKey;
 
     if (!merged.has(key)) {
+      if (!food.isOriginProduct && merged.has(nameKey)) {
+        merged.set(key, mergeFoodEntries(merged.get(nameKey), food));
+        return;
+      }
       merged.set(key, food);
       return;
     }
@@ -2418,6 +2446,9 @@ function bindLibraryFilterControls(root) {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.libraryKind = button.dataset.libraryKind;
+      if (state.libraryKind !== "food-medicine" && state.libraryOfficialBatch !== "全部") {
+        state.libraryOfficialBatch = "全部";
+      }
       afterLibraryFilterChange({ scrollToResults: true });
     });
   });
@@ -2434,6 +2465,9 @@ function bindLibraryFilterControls(root) {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.libraryCategory = button.dataset.libraryCategory;
+      if (state.libraryCategory !== "茶饮" && isTeaSubtopic(state.libraryTopic)) {
+        state.libraryTopic = "";
+      }
       afterLibraryFilterChange({ scrollToResults: true });
     });
   });
@@ -2482,9 +2516,23 @@ function bindLibraryFilterControls(root) {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.libraryTopic = button.dataset.libraryTopic === state.libraryTopic ? "" : button.dataset.libraryTopic;
-      if (state.libraryTopic !== "药食同源" && state.libraryOfficialBatch !== "全部") {
-        state.libraryOfficialBatch = "全部";
-      }
+      afterLibraryFilterChange({ scrollToResults: true });
+    });
+  });
+
+  root.querySelectorAll("[data-library-cert]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.libraryCertFilter = button.dataset.libraryCert === state.libraryCertFilter ? "" : button.dataset.libraryCert;
+      afterLibraryFilterChange({ scrollToResults: true });
+    });
+  });
+
+  root.querySelectorAll("[data-library-tea-class]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      const value = button.dataset.libraryTeaClass;
+      state.libraryTopic = value === state.libraryTopic ? "" : value;
       afterLibraryFilterChange({ scrollToResults: true });
     });
   });
@@ -2745,6 +2793,7 @@ function countLibraryActiveFilters() {
   if (state.libraryKind !== "全部") count += 1;
   if (state.libraryNature !== "全部") count += 1;
   if (state.libraryTopic) count += 1;
+  if (state.libraryCertFilter) count += 1;
   if (state.libraryCategory !== "全部") count += 1;
   if (state.libraryRegion !== "ALL") count += 1;
   if (state.libraryProvince !== "全部") count += 1;
@@ -2782,6 +2831,7 @@ function getLibraryFilterSummary() {
   }
   if (state.libraryNature !== "全部") parts.push(state.libraryNature);
   if (state.libraryTopic) parts.push(state.libraryTopic);
+  if (state.libraryCertFilter) parts.push(state.libraryCertFilter);
   if (state.libraryCategory !== "全部") parts.push(state.libraryCategory);
   if (state.libraryRegion !== "ALL") parts.push(REGION_LABELS[state.libraryRegion] || state.libraryRegion);
   if (state.libraryProvince !== "全部") parts.push(state.libraryProvince);
@@ -2818,15 +2868,18 @@ function renderStickyBrowseToolbar({
   resultUnit,
   resultMeta = "",
   quickFiltersHtml = "",
-  filterButtonLabel = ""
+  filterButtonLabel = "",
+  searchBypassesFilters = false
 }) {
   const filterLabel = filterButtonLabel || (activeFilterCount > 0 ? `筛选 · ${activeFilterCount}` : "筛选");
+  const summaryClass = searchBypassesFilters && activeFilterCount > 0 ? "sticky-toolbar-summary is-muted" : "sticky-toolbar-summary";
   return `
     <section class="sticky-toolbar">
       ${searchField({ id: searchId, placeholder, value: queryValue })}
       ${quickFiltersHtml}
+      ${searchBypassesFilters && activeFilterCount > 0 ? '<p class="sticky-toolbar-search-hint">搜索时已忽略下方筛选条件</p>' : ""}
       <div class="sticky-toolbar-meta">
-        <p class="sticky-toolbar-summary">${summary}</p>
+        <p class="${summaryClass}">${summary}</p>
         <button type="button" class="filter-open-button" data-open-filters="${filterScope}">${filterLabel}</button>
       </div>
       <div class="result-summary result-summary-sticky" id="result-anchor">
@@ -2845,9 +2898,21 @@ function resetLibraryFilters() {
   state.libraryProvince = "全部";
   state.libraryEthnic = "全部";
   state.libraryTopic = "";
+  state.libraryCertFilter = "";
   state.libraryOfficialBatch = "全部";
   state.libraryProvincesExpanded = false;
   state.libraryEthnicsExpanded = false;
+}
+
+function isTeaSubtopic(topic) {
+  return LIBRARY_TEA_CLASSES.includes(topic) || topic === "茶";
+}
+
+function foodMatchesCategory(food, category) {
+  if (category === "全部") return true;
+  const normalized = normalizeFoodCategory(food.category);
+  const target = normalizeFoodCategory(category);
+  return normalized === target;
 }
 
 function getVisibleProvinces() {
@@ -2886,7 +2951,7 @@ function renderLibraryFilterDrawerContent(resultCount) {
     <section class="filter-drawer">
       <div class="filter-drawer-head">
         <h2 class="filter-drawer-title">筛选食材库</h2>
-        <p class="filter-drawer-copy">按食性、专题、分类与地区组合查找。</p>
+        <p class="filter-drawer-copy">按食性、气机、产地认证与分类组合查找；选「茶饮」后可细分茶类。</p>
       </div>
       ${renderLibraryFilterSections()}
       <div class="filter-drawer-footer">
@@ -3065,8 +3130,9 @@ function renderLibraryFilterSections() {
   const ethnicToggle = ETHNICS_IN_CATALOG.length > ETHNIC_FILTER_EXPAND_LIMIT
     ? `<button type="button" class="plain-button filter-expand-button" data-toggle-library-ethnics>${state.libraryEthnicsExpanded ? "收起民族" : `展开全部 ${ETHNICS_IN_CATALOG.length} 个`}</button>`
     : "";
-  const teaTopicActive = LIBRARY_TEA_TOPICS.includes(state.libraryTopic);
-  const showOfficialBatchFilter = state.libraryTopic === "药食同源" || state.libraryKind === "food-medicine" || state.libraryOfficialBatch !== "全部";
+  const showOfficialBatchFilter = state.libraryKind === "food-medicine" || state.libraryOfficialBatch !== "全部";
+  const regionOpen = state.libraryRegion !== "ALL" || state.libraryProvince !== "全部" || state.libraryProvincesExpanded;
+  const teaClassActive = LIBRARY_TEA_CLASSES.includes(state.libraryTopic);
   return `
     <section class="filter-panel filter-panel-library filter-drawer-panel">
       <div class="filter-subsection">
@@ -3082,10 +3148,17 @@ function renderLibraryFilterSections() {
         </div>
       </div>
       <div class="filter-subsection">
-        <div class="filter-label">气机与专题</div>
+        <div class="filter-label">气机术语</div>
         <div class="filter-group filter-group-wrap">
           ${LIBRARY_QI_TOPICS.map((item) => chip(item, item, "data-library-topic", state.libraryTopic === item, compact)).join("")}
         </div>
+      </div>
+      <div class="filter-subsection">
+        <div class="filter-label">产地认证</div>
+        <div class="filter-group filter-group-wrap">
+          ${LIBRARY_CERT_FILTERS.map((item) => chip(item, item, "data-library-cert", state.libraryCertFilter === item, compact)).join("")}
+        </div>
+        <p class="filter-hint">地理标志、道地产区与 PEOP 信息整理自公开登记名录。</p>
       </div>
       ${showOfficialBatchFilter ? `
       <div class="filter-subsection">
@@ -3096,46 +3169,48 @@ function renderLibraryFilterSections() {
         <p class="filter-hint">按国家目录公布批次筛选；目录共 ${CATALOG_OFFICIAL_COUNT} 项可追溯条目。</p>
       </div>
       ` : ""}
-      ${renderFilterDisclosureGroup({
-        id: "library-tea",
-        title: "茶类细分",
-        open: teaTopicActive || state.libraryCategory === "茶饮",
-        bodyHtml: `
-          <div class="filter-subsection filter-subsection-nested">
-            <div class="filter-label">按茶类筛选</div>
-            <div class="filter-group filter-group-wrap">
-              ${LIBRARY_TEA_TOPICS.map((item) => chip(item, item, "data-library-topic", state.libraryTopic === item, compact)).join("")}
-            </div>
-            <p class="filter-hint">选「茶」看全部茶饮；选具体茶类可进一步缩小范围。</p>
-          </div>
-        `
-      })}
       <div class="filter-subsection">
         <div class="filter-label">食材分类</div>
         <div class="filter-group filter-group-wrap">
           ${["全部", ...CATEGORY_ORDER.filter((category) => CATEGORY_COUNTS[category])].map((item) => chip(item, item, "data-library-category", state.libraryCategory === item, compact)).join("")}
         </div>
       </div>
-      <div class="filter-subsection">
-        <div class="filter-label">地区来源</div>
+      ${state.libraryCategory === "茶饮" ? `
+      <div class="filter-subsection filter-subsection-tea-inline">
+        <div class="filter-label">茶类</div>
         <div class="filter-group filter-group-wrap">
-          ${chip("全部地区", "ALL", "data-library-region", state.libraryRegion === "ALL", compact)}
-          ${Object.entries(REGION_LABELS)
-            .filter(([region]) => REGION_COUNTS[region])
-            .map(([region, label]) => chip(label, region, "data-library-region", state.libraryRegion === region, compact))
-            .join("")}
+          ${chip("全部茶类", "", "data-library-tea-class", !teaClassActive, compact)}
+          ${LIBRARY_TEA_CLASSES.map((item) => chip(item, item, "data-library-tea-class", state.libraryTopic === item, compact)).join("")}
         </div>
       </div>
-      <div class="filter-subsection">
-        <div class="filter-label-row">
-          <div class="filter-label">中国省份 / 地区</div>
-          ${provinceToggle}
-        </div>
-        <div class="filter-group filter-province-grid">
-          ${chip("全部", "全部", "data-library-province", state.libraryProvince === "全部", compact)}
-          ${visibleProvinces.map((province) => chip(province, province, "data-library-province", state.libraryProvince === province, compact)).join("")}
-        </div>
-      </div>
+      ` : ""}
+      ${renderFilterDisclosureGroup({
+        id: "library-region",
+        title: "地区筛选",
+        open: regionOpen,
+        bodyHtml: `
+          <div class="filter-subsection filter-subsection-nested">
+            <div class="filter-label">地区来源</div>
+            <div class="filter-group filter-group-wrap">
+              ${chip("全部地区", "ALL", "data-library-region", state.libraryRegion === "ALL", compact)}
+              ${Object.entries(REGION_LABELS)
+                .filter(([region]) => REGION_COUNTS[region])
+                .map(([region, label]) => chip(label, region, "data-library-region", state.libraryRegion === region, compact))
+                .join("")}
+            </div>
+          </div>
+          <div class="filter-subsection filter-subsection-nested">
+            <div class="filter-label-row">
+              <div class="filter-label">中国省份 / 地区</div>
+              ${provinceToggle}
+            </div>
+            <div class="filter-group filter-province-grid">
+              ${chip("全部", "全部", "data-library-province", state.libraryProvince === "全部", compact)}
+              ${visibleProvinces.map((province) => chip(province, province, "data-library-province", state.libraryProvince === province, compact)).join("")}
+            </div>
+          </div>
+        `
+      })}
       ${ETHNICS_IN_CATALOG.length ? `
       ${renderFilterDisclosureGroup({
         id: "library-ethnic",
@@ -3261,7 +3336,8 @@ function renderLibrary() {
       activeFilterCount: countLibraryActiveFilters(),
       resultCount: items.length,
       resultUnit: "食材",
-      resultMeta: `药食同源 ${OFFICIAL_COUNT}${CATALOG_OFFICIAL_COUNT ? ` · 目录 ${CATALOG_OFFICIAL_COUNT}` : ""} · 中药材 ${TCM_HERB_COUNT} · 茶类 ${TEA_COUNT}`
+      resultMeta: `药食同源 ${OFFICIAL_COUNT}${CATALOG_OFFICIAL_COUNT ? ` · 目录 ${CATALOG_OFFICIAL_COUNT}` : ""} · 中药材 ${TCM_HERB_COUNT} · 茶类 ${TEA_COUNT}`,
+      searchBypassesFilters: Boolean(cleanString(state.libraryQuery))
     })}
 
     <section class="food-list">
@@ -3548,7 +3624,8 @@ function filterFoods() {
     if (food.hiddenFromLibrary) return false;
     if (term) return true;
     const byNature = state.libraryNature === "全部" || food.nature === state.libraryNature;
-    const byCategory = state.libraryCategory === "全部" || food.category === state.libraryCategory;
+    const byCategory = foodMatchesCategory(food, state.libraryCategory);
+    const byCert = !state.libraryCertFilter || matchCertFilter(food, state.libraryCertFilter);
     const byRegion = state.libraryRegion === "ALL" || food.regions.includes(state.libraryRegion);
     const byProvince = state.libraryProvince === "全部"
       || (food.provinces || []).includes(state.libraryProvince)
@@ -3558,8 +3635,27 @@ function filterFoods() {
     const byTopic = !state.libraryTopic || matchTopic(food, state.libraryTopic);
     const byKind = matchLibraryKind(food, state.libraryKind);
     const byOfficialBatch = matchOfficialBatch(food);
-    return byNature && byCategory && byRegion && byProvince && byEthnic && byTopic && byKind && byOfficialBatch;
+    return byNature && byCategory && byCert && byRegion && byProvince && byEthnic && byTopic && byKind && byOfficialBatch;
   });
+}
+
+function matchCertFilter(food, cert) {
+  const baseId = resolveFoodId(food.id);
+  const linkedOrigin = ORIGIN_BY_BASE_ID.get(baseId) || [];
+  if (cert === "地理标志") {
+    return Boolean((food.giSystems || []).length)
+      || linkedOrigin.some((item) => (item.giSystems || []).length);
+  }
+  if (cert === "道地") {
+    return Boolean(food.daoDi?.isAuthentic)
+      || DAO_DI_BY_CANONICAL.has(baseId)
+      || linkedOrigin.some((item) => item.daoDi?.isAuthentic);
+  }
+  if (cert === "PEOP") {
+    return Boolean(food.peop)
+      || linkedOrigin.some((item) => item.peop);
+  }
+  return true;
 }
 
 function matchOfficialBatch(food) {
@@ -4706,6 +4802,7 @@ function syncUrl(options = {}) {
     if (state.libraryProvince !== "全部") params.set("lp", state.libraryProvince);
     if (state.libraryEthnic !== "全部") params.set("le", state.libraryEthnic);
     if (state.libraryTopic) params.set("lt", state.libraryTopic);
+    if (state.libraryCertFilter) params.set("lcf", state.libraryCertFilter);
     if (state.libraryKind !== "全部") params.set("lk", state.libraryKind);
     if (state.libraryOfficialBatch !== "全部") params.set("lob", state.libraryOfficialBatch);
   }

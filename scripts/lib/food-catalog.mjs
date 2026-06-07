@@ -84,6 +84,10 @@ export function loadFoodCatalogMeta() {
   while ((m = fRe.exec(expanded))) {
     foods.push({ id: m[1], name: m[2], source: "expanded" });
   }
+  const teaRe = /tea\(\s*["']([^"']+)["']\s*,\s*["']([^"']+)["']/g;
+  while ((m = teaRe.exec(expanded))) {
+    foods.push({ id: m[1], name: m[2], source: "expanded-tea" });
+  }
   EXPANDED_BULK_JSON_SOURCES.flatMap((file) => readCnJson(file))
     .forEach((food) => {
       if (food?.id && food?.name) foods.push({ id: food.id, name: food.name, source: "expanded-bulk" });

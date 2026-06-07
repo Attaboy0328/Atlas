@@ -4338,6 +4338,7 @@ const CLASSIC_DIET_RECIPES = [
     ],
     "foodIds": [
       "lotus-seed",
+      "oolong-tea",
       "jujube"
     ],
     "subtitle": "健脾安神",
