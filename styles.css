@@ -1963,10 +1963,89 @@ button {
   margin-bottom: 8px;
 }
 
-.recipe-filter-tag-group .chip[title] {
-  text-decoration: underline dotted;
-  text-decoration-color: color-mix(in srgb, var(--green) 42%, transparent);
-  text-underline-offset: 2px;
+.recipe-filter-drawer {
+  display: grid;
+  gap: 8px;
+  padding: 12px;
+}
+
+.recipe-filter-drawer .filter-disclosure {
+  border: 1px solid color-mix(in srgb, var(--line) 58%, transparent);
+  background: color-mix(in srgb, var(--surface) 96%, white);
+}
+
+.recipe-filter-drawer .filter-disclosure + .filter-disclosure {
+  margin-top: 0;
+}
+
+.filter-disclosure-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 600;
+}
+
+.filter-disclosure-badge {
+  min-width: 18px;
+  min-height: 18px;
+  padding: 0 6px;
+  border-radius: var(--radius-pill);
+  background: color-mix(in srgb, var(--green-pale) 72%, white);
+  color: var(--green-deep);
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 18px;
+  text-align: center;
+}
+
+.recipe-filter-drawer .filter-disclosure-body {
+  display: grid;
+  gap: 12px;
+  padding: 0 14px 14px;
+}
+
+.recipe-filter-scroll-row {
+  gap: 8px;
+  padding-bottom: 2px;
+  mask-image: linear-gradient(90deg, #000 92%, transparent);
+}
+
+.recipe-filter-scroll-row .chip {
+  max-width: none;
+  white-space: nowrap;
+}
+
+.recipe-filter-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.recipe-filter-dual-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.recipe-filter-dual-grid .filter-subsection {
+  min-width: 0;
+}
+
+.recipe-filter-dual-grid .recipe-filter-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.recipe-filter-solar-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.filter-chip-has-tip::after {
+  content: "·";
+  margin-left: 1px;
+  color: color-mix(in srgb, var(--green) 48%, var(--ink-soft));
+  font-weight: 700;
+}
+
+.chip.active.filter-chip-has-tip::after {
+  color: color-mix(in srgb, var(--green-deep) 72%, white);
 }
 
 .food-row,
