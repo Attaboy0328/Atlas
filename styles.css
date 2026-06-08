@@ -3768,26 +3768,45 @@ button {
 
 .recipe-row-card {
   position: relative;
-  grid-template-columns: minmax(0, 1fr) auto;
-  align-items: center;
-  min-height: 78px;
-  padding: 14px 12px 14px 16px;
   overflow: hidden;
 }
 
-.recipe-row-compact {
-  min-height: 64px;
-  padding: 11px 10px 11px 14px;
+.recipe-row-data {
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  gap: 10px;
+  align-items: center;
+  min-height: 58px;
+  padding: 10px 10px 10px 14px;
   box-shadow: none;
 }
 
-.recipe-row-compact .recipe-row-benefit {
-  font-size: 12px;
-  margin-top: 2px;
+.recipe-row-data .recipe-row-main {
+  min-width: 0;
 }
 
-.recipe-row-compact .recipe-row-tags {
-  margin-top: 5px;
+.recipe-row-title {
+  display: block;
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.35;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.recipe-row-meta {
+  display: block;
+  margin-top: 2px;
+  color: var(--ink-soft);
+  font-size: 12px;
+  line-height: 1.45;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.recipe-row-compact {
+  box-shadow: none;
 }
 
 .recipe-card-accent {

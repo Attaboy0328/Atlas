@@ -5011,27 +5011,30 @@ function recipeTierBadge(item) {
   return `<span class="pill-badge recipe-tier-badge" style="color:${meta.tone};background:${meta.pale}">${meta.label}</span>`;
 }
 
+function recipeDataRowMeta(item) {
+  const secondarySyndromes = Array.isArray(item.secondarySyndromes) ? item.secondarySyndromes : [];
+  const syndromeLine = item.primarySyndrome || secondarySyndromes[0] || "";
+  const parts = [
+    item.subtitle,
+    syndromeLine,
+    ...(item.cooking || []).slice(0, 1),
+    item.solarTerm || ""
+  ].filter(Boolean);
+  return parts.length ? parts.join(" · ") : "传统食疗整理";
+}
+
 function recipeRow(item, options = {}) {
   const { hideNatureStamp = false } = options;
-  const secondarySyndromes = Array.isArray(item.secondarySyndromes) ? item.secondarySyndromes : [];
-  const syndromeLine = item.primarySyndrome || secondarySyndromes[0] || "日常食养";
   const natureMeta = NATURE_META[item.nature] || NATURE_META.复合;
-  const benefit = item.subtitle || (item.primarySyndrome ? `宜 ${item.primarySyndrome}` : "传统食疗整理");
 
   return `
-    <article class="recipe-row recipe-row-card recipe-row-compact" data-open-recipe="${item.id}" role="button" tabindex="0">
+    <article class="recipe-row recipe-row-card recipe-row-compact recipe-row-data" data-open-recipe="${item.id}" role="button" tabindex="0">
       <div class="recipe-card-accent" style="background:${natureMeta.tone}"></div>
       <div class="food-main recipe-row-main">
-        <div class="recipe-row-head">
-          <strong>${item.name}</strong>
-          <div class="recipe-row-badges">${recipeTierBadge(item)}</div>
-        </div>
-        <small class="recipe-row-benefit">${benefit}</small>
-        <div class="recipe-row-tags">
-          ${hideNatureStamp ? "" : natureStamp(item.nature || "平", { small: true })}
-          <span class="recipe-row-tag">${syndromeLine}</span>
-        </div>
+        <strong class="recipe-row-title">${item.name}</strong>
+        <small class="recipe-row-meta">${recipeDataRowMeta(item)}</small>
       </div>
+      ${hideNatureStamp ? "" : natureStamp(item.nature || "平", { small: true })}
       <span class="food-row-chevron" aria-hidden="true">›</span>
     </article>
   `;
