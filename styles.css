@@ -999,6 +999,172 @@ button {
   transform: scale(0.96);
 }
 
+.sticky-toolbar-control-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+  min-width: 0;
+}
+
+.sticky-toolbar-empty-label {
+  flex: 1;
+  min-width: 0;
+  color: var(--ink-soft);
+  font-size: 12px;
+  line-height: 1.4;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.active-filter-bar {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.active-filter-scroll {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 2px;
+  scrollbar-width: none;
+}
+
+.active-filter-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.active-filter-chip {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 34px;
+  padding: 0 10px 0 12px;
+  border: 1px solid color-mix(in srgb, var(--green) 28%, var(--line));
+  border-radius: var(--radius-pill);
+  background: color-mix(in srgb, var(--green-pale) 52%, white);
+  color: var(--green-deep);
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.active-filter-chip-x {
+  font-size: 14px;
+  line-height: 1;
+  opacity: 0.72;
+}
+
+.filter-segmented {
+  display: flex;
+  align-items: stretch;
+  gap: 0;
+  margin-top: 10px;
+  padding: 3px;
+  border: 1px solid color-mix(in srgb, var(--line) 78%, transparent);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--surface) 90%, white);
+}
+
+.filter-segmented-item {
+  flex: 1 1 0;
+  min-height: 34px;
+  padding: 0 6px;
+  border: 0;
+  border-radius: 9px;
+  background: transparent;
+  color: var(--ink-soft);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.filter-segmented-item.active {
+  background: color-mix(in srgb, var(--green-pale) 72%, white);
+  color: var(--green-deep);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.8) inset;
+}
+
+.toolbar-shortcut-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+  overflow-x: auto;
+  padding-bottom: 2px;
+  scrollbar-width: none;
+}
+
+.toolbar-shortcut-row::-webkit-scrollbar {
+  display: none;
+}
+
+.filter-drill-button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  min-height: 44px;
+  margin-top: 4px;
+  padding: 0 14px;
+  border: 1px solid color-mix(in srgb, var(--line) 78%, transparent);
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--surface) 94%, white);
+  color: var(--ink);
+  font-size: 13px;
+  cursor: pointer;
+  text-align: left;
+}
+
+.filter-drill-label {
+  flex: 1;
+  min-width: 0;
+  color: var(--ink-soft);
+}
+
+.filter-drill-value {
+  flex: 0 0 auto;
+  color: var(--green-deep);
+  font-weight: 600;
+}
+
+.filter-drill-chevron {
+  flex: 0 0 auto;
+  color: var(--ink-soft);
+  font-size: 18px;
+  line-height: 1;
+}
+
+.filter-drawer-head-subpage {
+  display: grid;
+  gap: 8px;
+}
+
+.filter-subpage-back {
+  justify-self: start;
+  min-height: 32px;
+  padding: 0;
+  color: var(--green);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.filter-label-secondary {
+  margin-top: -2px;
+  font-size: 11px;
+  color: var(--ink-soft);
+}
+
+.filter-chip-compact {
+  min-height: 34px;
+  padding: 0 12px;
+  font-size: 11px;
+}
+
 .result-summary-sticky {
   padding: 8px 2px 0;
   margin: 0;
@@ -1046,7 +1212,8 @@ button {
   padding-bottom: 0;
 }
 
-.quick-filter-row .chip {
+.quick-filter-row .chip,
+.toolbar-shortcut-row .chip {
   min-height: 34px;
   font-size: 11px;
 }

@@ -1382,27 +1382,6 @@ function getVisibleEthnics() {
   return head;
 }
 
-function renderLibraryEthnicShortcuts() {
-  if (!LIBRARY_ETHNIC_QUICK.length) return "";
-  return `
-    <div class="library-shortcut-stack">
-      <div class="recipe-scenario-row library-ethnic-row">
-        <span class="recipe-shortcut-label">民族</span>
-        ${chip("全部", "全部", "data-library-ethnic-quick", state.libraryEthnic === "全部")}
-        ${LIBRARY_ETHNIC_QUICK.map((ethnic) => chip(
-          ethnic,
-          ethnic,
-          "data-library-ethnic-quick",
-          state.libraryEthnic === ethnic
-        )).join("")}
-        ${ETHNICS_IN_CATALOG.length > LIBRARY_ETHNIC_QUICK.length
-          ? `<button type="button" class="plain-button library-more-filters" data-open-filters="library">更多民族</button>`
-          : ""}
-      </div>
-    </div>
-  `;
-}
-
 function foodMatchesQiTerm(food, term) {
   return (food.effects || []).includes(term) || (food.qiTerms || []).includes(term);
 }
@@ -2537,6 +2516,7 @@ function bindLibraryEvents() {
   }
 
   bindLibraryFilterControls(app);
+  bindActiveFilterChipEvents(app);
 }
 
 function bindLibraryFilterControls(root) {
@@ -2590,14 +2570,6 @@ function bindLibraryFilterControls(root) {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       state.libraryEthnic = button.dataset.libraryEthnic;
-      afterLibraryFilterChange({ scrollToResults: true });
-    });
-  });
-
-  root.querySelectorAll("[data-library-ethnic-quick]").forEach((button) => {
-    button.addEventListener("click", () => {
-      triggerHapticFeedback();
-      state.libraryEthnic = button.dataset.libraryEthnicQuick;
       afterLibraryFilterChange({ scrollToResults: true });
     });
   });
@@ -2749,6 +2721,7 @@ function bindRecipeEvents() {
   });
 
   bindRecipeFilterControls(app);
+  bindActiveFilterChipEvents(app);
 }
 
 function bindRecipeFilterControls(root, options = {}) {
@@ -2946,6 +2919,13 @@ function countRecipesActiveFilters() {
   return count;
 }
 
+function countRecipesDrawerFilters() {
+  let count = countRecipesAdvancedFilters();
+  if (state.recipesSyndrome !== "全部") count += 1;
+  if (state.recipesCoreFood !== "全部") count += 1;
+  return count;
+}
+
 function getLibraryFilterSummary() {
   const parts = [];
   if (state.libraryKind !== "全部") {
@@ -2983,32 +2963,178 @@ function getRecipesFilterSummary() {
   return parts.length ? parts.join(" · ") : "全部食疗方";
 }
 
+const LIBRARY_KIND_LABELS = {
+  全部: "全部",
+  food: "食材",
+  "food-medicine": "药食同源",
+  "tcm-herb": "中药材"
+};
+
+function buildLibraryActiveFilterChips() {
+  const chips = [];
+  if (state.libraryKind !== "全部") chips.push({ key: "kind", label: LIBRARY_KIND_LABELS[state.libraryKind] || state.libraryKind });
+  if (state.libraryNature !== "全部") chips.push({ key: "nature", label: state.libraryNature });
+  if (state.libraryTopic) chips.push({ key: "topic", label: state.libraryTopic });
+  if (state.libraryCertFilter) chips.push({ key: "cert", label: state.libraryCertFilter });
+  if (state.libraryDaoDiSystem) {
+    const sys = DAO_DI_SYSTEMS_LIST.find((row) => row.id === state.libraryDaoDiSystem);
+    chips.push({ key: "daodi", label: sys?.name || state.libraryDaoDiSystem });
+  }
+  if (state.libraryCategory !== "全部") chips.push({ key: "category", label: state.libraryCategory });
+  if (state.libraryRegion !== "ALL") chips.push({ key: "region", label: REGION_LABELS[state.libraryRegion] || state.libraryRegion });
+  if (state.libraryProvince !== "全部") chips.push({ key: "province", label: state.libraryProvince });
+  if (state.libraryEthnic !== "全部") chips.push({ key: "ethnic", label: state.libraryEthnic });
+  if (state.libraryOfficialBatch !== "全部") chips.push({ key: "officialBatch", label: `${state.libraryOfficialBatch} 批` });
+  return chips;
+}
+
+function buildRecipesActiveFilterChips() {
+  const chips = [];
+  if (state.recipesSyndrome !== "全部") chips.push({ key: "syndrome", label: state.recipesSyndrome });
+  if (state.recipesCoreFood !== "全部") chips.push({ key: "coreFood", label: state.recipesCoreFood });
+  if (state.recipesUseFor !== "全部") chips.push({ key: "useFor", label: recipeFilterTagLabel(state.recipesUseFor, RECIPE_FILTER_TAG_LOOKUP) });
+  if (state.recipesAvoidFor !== "全部") chips.push({ key: "avoidFor", label: recipeFilterTagLabel(state.recipesAvoidFor, RECIPE_FILTER_TAG_LOOKUP) });
+  if (state.recipesTiming !== "全部") chips.push({ key: "timing", label: state.recipesTiming });
+  if (state.recipesCooking !== "全部") chips.push({ key: "cooking", label: state.recipesCooking });
+  if (state.recipesSeason !== "全部") chips.push({ key: "season", label: state.recipesSeason });
+  if (state.recipesSolarTerm !== "全部") chips.push({ key: "solarTerm", label: state.recipesSolarTerm });
+  if (state.recipesBodyFeel !== "全部") chips.push({ key: "bodyFeel", label: state.recipesBodyFeel });
+  if (state.recipesTonify !== "全部") chips.push({ key: "tonify", label: state.recipesTonify });
+  if (state.recipesClear !== "全部") chips.push({ key: "clear", label: state.recipesClear });
+  return chips;
+}
+
+function clearLibraryFilterByKey(key) {
+  if (key === "kind") state.libraryKind = "全部";
+  if (key === "nature") state.libraryNature = "全部";
+  if (key === "topic") state.libraryTopic = "";
+  if (key === "cert") {
+    state.libraryCertFilter = "";
+    state.libraryDaoDiSystem = "";
+  }
+  if (key === "daodi") state.libraryDaoDiSystem = "";
+  if (key === "category") state.libraryCategory = "全部";
+  if (key === "region") state.libraryRegion = "ALL";
+  if (key === "province") state.libraryProvince = "全部";
+  if (key === "ethnic") state.libraryEthnic = "全部";
+  if (key === "officialBatch") state.libraryOfficialBatch = "全部";
+}
+
+function clearRecipeFilterByKey(key) {
+  if (key === "syndrome") state.recipesSyndrome = "全部";
+  if (key === "coreFood") state.recipesCoreFood = "全部";
+  if (key === "useFor") state.recipesUseFor = "全部";
+  if (key === "avoidFor") state.recipesAvoidFor = "全部";
+  if (key === "timing") state.recipesTiming = "全部";
+  if (key === "cooking") state.recipesCooking = "全部";
+  if (key === "season") state.recipesSeason = "全部";
+  if (key === "solarTerm") state.recipesSolarTerm = "全部";
+  if (key === "bodyFeel") state.recipesBodyFeel = "全部";
+  if (key === "tonify") state.recipesTonify = "全部";
+  if (key === "clear") state.recipesClear = "全部";
+}
+
+function bindActiveFilterChipEvents(root) {
+  root.querySelectorAll("[data-clear-filter]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      const scope = button.dataset.clearFilter;
+      const key = button.dataset.clearKey;
+      if (scope === "library") {
+        clearLibraryFilterByKey(key);
+        afterLibraryFilterChange({ scrollToResults: true });
+        return;
+      }
+      if (scope === "recipes") {
+        clearRecipeFilterByKey(key);
+        afterRecipeFilterChange({ scrollToResults: true });
+      }
+    });
+  });
+}
+
+function renderActiveFilterChips(chips, scope) {
+  if (!chips.length) return "";
+  return `
+    <div class="active-filter-bar">
+      <div class="active-filter-scroll">
+        ${chips.map((item) => `
+          <button type="button" class="active-filter-chip" data-clear-filter="${scope}" data-clear-key="${item.key}">
+            <span>${item.label}</span>
+            <span class="active-filter-chip-x" aria-hidden="true">×</span>
+          </button>
+        `).join("")}
+      </div>
+    </div>
+  `;
+}
+
+function renderFilterDrillButton({ label, value, subPage }) {
+  const display = value && value !== "全部" && value !== "ALL" ? value : "全部";
+  return `
+    <button type="button" class="filter-drill-button" data-filter-subpage="${subPage}">
+      <span class="filter-drill-label">${label}</span>
+      <span class="filter-drill-value">${display}</span>
+      <span class="filter-drill-chevron" aria-hidden="true">›</span>
+    </button>
+  `;
+}
+
+function renderRecipeNatureSegmented() {
+  return `
+    <div class="filter-segmented" role="tablist" aria-label="食疗方食性">
+      ${["全部", "平", "温", "热", "凉", "寒"].map((item) => `
+        <button
+          type="button"
+          class="filter-segmented-item${state.recipesNature === item ? " active" : ""}"
+          data-recipes-nature="${item}"
+          role="tab"
+          aria-selected="${state.recipesNature === item ? "true" : "false"}"
+        >${item}</button>
+      `).join("")}
+    </div>
+  `;
+}
+
+function renderRecipeHotShortcutRow() {
+  return `
+    <div class="toolbar-shortcut-row" aria-label="热门场景">
+      ${RECIPE_SCENARIO_SHORTCUTS.slice(0, 6).map((scenario, index) => chip(
+        scenario.label,
+        String(index),
+        "data-recipe-scenario",
+        isRecipeScenarioActive(scenario),
+        "filter-chip-compact"
+      )).join("")}
+    </div>
+  `;
+}
+
 function renderStickyBrowseToolbar({
   searchId,
   placeholder,
   queryValue,
   filterScope,
-  summary,
   activeFilterCount,
   resultCount,
   resultUnit,
   resultMeta = "",
-  quickFiltersHtml = "",
+  toolbarExtrasHtml = "",
+  activeFiltersHtml = "",
   filterButtonLabel = "",
-  searchBypassesFilters = false
+  searchBypassesFilters = false,
+  emptySummaryLabel = ""
 }) {
   const filterLabel = filterButtonLabel || (activeFilterCount > 0 ? `筛选 · ${activeFilterCount}` : "筛选");
-  const summaryClass = searchBypassesFilters && activeFilterCount > countPinnedLibraryFiltersWhenSearch()
-    ? "sticky-toolbar-summary is-muted"
-    : "sticky-toolbar-summary";
+  const showSearchHint = searchBypassesFilters && activeFilterCount > countPinnedLibraryFiltersWhenSearch();
   return `
     <section class="sticky-toolbar">
       ${searchField({ id: searchId, placeholder, value: queryValue })}
-      ${quickFiltersHtml}
-      ${searchBypassesFilters && activeFilterCount > countPinnedLibraryFiltersWhenSearch() ? '<p class="sticky-toolbar-search-hint">搜索时已忽略食性、分类与地区等筛选；条目类型与产地认证仍生效</p>' : ""}
-      <div class="sticky-toolbar-meta">
-        <p class="${summaryClass}">${summary}</p>
+      ${toolbarExtrasHtml}
+      ${showSearchHint ? '<p class="sticky-toolbar-search-hint">搜索时已忽略食性、分类与地区等筛选；条目类型与产地认证仍生效</p>' : ""}
+      <div class="sticky-toolbar-control-row">
         <button type="button" class="filter-open-button" data-open-filters="${filterScope}">${filterLabel}</button>
+        ${activeFiltersHtml || (emptySummaryLabel ? `<span class="sticky-toolbar-empty-label">${emptySummaryLabel}</span>` : "")}
       </div>
       <div class="result-summary result-summary-sticky" id="result-anchor">
         <span>找到 ${resultCount} 个${resultUnit}</span>
@@ -3070,12 +3196,71 @@ function resetRecipesAdvancedFilters() {
   state.recipesTiming = "全部";
   state.recipesCooking = "全部";
   state.recipesSeason = "全部";
+  state.recipesSolarTerm = "全部";
   state.recipesBodyFeel = "全部";
   state.recipesTonify = "全部";
   state.recipesClear = "全部";
 }
 
+function resetRecipesFilters() {
+  state.recipesNature = "全部";
+  state.recipesSyndrome = "全部";
+  state.recipesCoreFood = "全部";
+  resetRecipesAdvancedFilters();
+}
+
+function renderLibraryProvinceSubpage(resultCount) {
+  const compact = "filter-chip-compact";
+  return `
+    <section class="filter-drawer">
+      <div class="filter-drawer-head filter-drawer-head-subpage">
+        <button type="button" class="plain-button filter-subpage-back" data-filter-subpage-back>‹ 返回</button>
+        <h2 class="filter-drawer-title">选择省份 / 地区</h2>
+      </div>
+      <section class="filter-panel filter-drawer-panel">
+        <div class="filter-group filter-province-grid">
+          ${chip("全部", "全部", "data-library-province", state.libraryProvince === "全部", compact)}
+          ${PROVINCES_IN_CATALOG.map((province) => chip(province, province, "data-library-province", state.libraryProvince === province, compact)).join("")}
+        </div>
+      </section>
+      <div class="filter-drawer-footer">
+        <button type="button" class="plain-button" data-filter-subpage-back>返回</button>
+        <button type="button" class="action-button filter-drawer-apply" data-close-filter-sheet="true">查看 ${resultCount} 个食材</button>
+      </div>
+    </section>
+  `;
+}
+
+function renderLibraryEthnicSubpage(resultCount) {
+  const compact = "filter-chip-compact";
+  return `
+    <section class="filter-drawer">
+      <div class="filter-drawer-head filter-drawer-head-subpage">
+        <button type="button" class="plain-button filter-subpage-back" data-filter-subpage-back>‹ 返回</button>
+        <h2 class="filter-drawer-title">选择民族风味</h2>
+      </div>
+      <section class="filter-panel filter-drawer-panel">
+        <div class="filter-group filter-group-wrap">
+          ${chip("全部", "全部", "data-library-ethnic", state.libraryEthnic === "全部", compact)}
+          ${ETHNICS_IN_CATALOG.map((ethnic) => chip(ethnic, ethnic, "data-library-ethnic", state.libraryEthnic === ethnic, compact)).join("")}
+        </div>
+        <p class="filter-hint">按条目标注的民族风味标签筛选，与道地药材体系（藏药/蒙药/维药等）含义不同。</p>
+      </section>
+      <div class="filter-drawer-footer">
+        <button type="button" class="plain-button" data-filter-subpage-back>返回</button>
+        <button type="button" class="action-button filter-drawer-apply" data-close-filter-sheet="true">查看 ${resultCount} 个食材</button>
+      </div>
+    </section>
+  `;
+}
+
 function renderLibraryFilterDrawerContent(resultCount) {
+  if (state.sheet?.subPage === "province") {
+    return renderLibraryProvinceSubpage(resultCount);
+  }
+  if (state.sheet?.subPage === "ethnic") {
+    return renderLibraryEthnicSubpage(resultCount);
+  }
   return `
     <section class="filter-drawer">
       <div class="filter-drawer-head">
@@ -3093,10 +3278,11 @@ function renderLibraryFilterDrawerContent(resultCount) {
 
 function renderRecipesFilterDrawerContent(resultCount) {
   const compact = "filter-chip-compact";
-  const renderChipSection = (label, options, dataAttr, activeValue) => `
+  const syndromes = uniq(recipes.map((item) => item.primarySyndrome).filter(Boolean));
+  const renderChipSection = (label, options, dataAttr, activeValue, scroll = false) => `
     <div class="filter-subsection">
       <div class="filter-label">${label}</div>
-      <div class="filter-group filter-group-wrap recipe-syndrome-group">
+      <div class="filter-group ${scroll ? "filter-group-scroll quick-filter-row" : "filter-group-wrap recipe-syndrome-group"}">
         ${["全部", ...options].map((item) => chip(item, item, dataAttr, activeValue === item, compact)).join("")}
       </div>
     </div>
@@ -3105,68 +3291,34 @@ function renderRecipesFilterDrawerContent(resultCount) {
   return `
     <section class="filter-drawer">
       <div class="filter-drawer-head">
-        <h2 class="filter-drawer-title">更多筛选</h2>
-        <p class="filter-drawer-copy">按适用场景、慎用提示与时段季节组合查找。虚线短标签悬停可看完整说明。</p>
+        <h2 class="filter-drawer-title">筛选食疗方</h2>
+        <p class="filter-drawer-copy">食性可在页顶切换；此处组合证候、场景、时令与补泻方向。</p>
       </div>
       <section class="filter-panel recipe-filter-panel filter-drawer-panel">
-        ${renderFilterDisclosureGroup({
-          id: "recipe-scene",
-          title: "场景与做法",
-          open: isRecipeFilterGroupOpen("recipe-scene"),
-          bodyHtml: [
-            renderRecipeFilterTagSection("适用场景", RECIPE_USE_FOR_TAG_OPTIONS, "data-recipes-usefor", state.recipesUseFor),
-            renderRecipeFilterTagSection("慎用提示", RECIPE_AVOID_FOR_TAG_OPTIONS, "data-recipes-avoidfor", state.recipesAvoidFor),
-            renderChipSection("建议时段", RECIPE_TIMING_OPTIONS, "data-recipes-timing", state.recipesTiming),
-            renderChipSection("烹调方式", RECIPE_COOKING_OPTIONS, "data-recipes-cooking", state.recipesCooking)
-          ].join("")
-        })}
-        ${renderFilterDisclosureGroup({
-          id: "recipe-season-tonify",
-          title: "时令与补泻",
-          open: isRecipeFilterGroupOpen("recipe-season-tonify"),
-          bodyHtml: [
-            renderChipSection("适宜季节", RECIPE_SEASON_OPTIONS, "data-recipes-season", state.recipesSeason),
-            renderChipSection("节气", RECIPE_SOLAR_TERM_OPTIONS, "data-recipes-solarterm", state.recipesSolarTerm),
-            renderChipSection("身体感受", RECIPE_BODY_FEEL_OPTIONS, "data-recipes-bodyfeel", state.recipesBodyFeel),
-            renderChipSection("补神/益气", RECIPE_TONIFY_OPTIONS, "data-recipes-tonify", state.recipesTonify),
-            renderChipSection("清热/祛湿", RECIPE_CLEAR_OPTIONS, "data-recipes-clear", state.recipesClear)
-          ].join("")
-        })}
+        ${renderChipSection("证候", syndromes, "data-recipes-syndrome", state.recipesSyndrome, true)}
+        ${renderChipSection("核心食材", RECIPE_CORE_FOOD_OPTIONS, "data-recipes-corefood", state.recipesCoreFood, true)}
+        ${renderRecipeFilterTagSection("适用场景", RECIPE_USE_FOR_TAG_OPTIONS, "data-recipes-usefor", state.recipesUseFor)}
+        ${renderRecipeFilterTagSection("慎用提示", RECIPE_AVOID_FOR_TAG_OPTIONS, "data-recipes-avoidfor", state.recipesAvoidFor)}
+        ${renderChipSection("建议时段", RECIPE_TIMING_OPTIONS, "data-recipes-timing", state.recipesTiming)}
+        ${renderChipSection("烹调方式", RECIPE_COOKING_OPTIONS, "data-recipes-cooking", state.recipesCooking)}
+        ${renderChipSection("适宜季节", RECIPE_SEASON_OPTIONS, "data-recipes-season", state.recipesSeason)}
+        ${renderChipSection("节气", RECIPE_SOLAR_TERM_OPTIONS, "data-recipes-solarterm", state.recipesSolarTerm)}
+        ${renderChipSection("身体感受", RECIPE_BODY_FEEL_OPTIONS, "data-recipes-bodyfeel", state.recipesBodyFeel)}
+        ${renderChipSection("补神/益气", RECIPE_TONIFY_OPTIONS, "data-recipes-tonify", state.recipesTonify)}
+        ${renderChipSection("清热/祛湿", RECIPE_CLEAR_OPTIONS, "data-recipes-clear", state.recipesClear)}
       </section>
       <div class="filter-drawer-footer">
-        <button type="button" class="plain-button" data-reset-filters="recipes-advanced">重置</button>
+        <button type="button" class="plain-button" data-reset-filters="recipes">重置</button>
         <button type="button" class="action-button filter-drawer-apply" data-close-filter-sheet="true">查看 ${resultCount} 个食疗方</button>
       </div>
     </section>
   `;
 }
 
-function renderRecipesQuickFilters(syndromes) {
-  return `
-    <div class="quick-filter-stack">
-      <div class="filter-subsection quick-filter-block">
-        <div class="filter-label">食性</div>
-        <div class="filter-group filter-group-scroll quick-filter-row">
-          ${["全部", "平", "温", "热", "凉", "寒"].map((item) => chip(item, item, "data-recipes-nature", state.recipesNature === item)).join("")}
-        </div>
-      </div>
-      <div class="filter-subsection quick-filter-block">
-        <div class="filter-label">证候</div>
-        <div class="filter-group filter-group-scroll quick-filter-row">
-          ${["全部", ...syndromes].map((item) => chip(item, item, "data-recipes-syndrome", state.recipesSyndrome === item)).join("")}
-        </div>
-      </div>
-      <div class="filter-subsection quick-filter-block">
-        <div class="filter-label">核心食材</div>
-        <div class="filter-group filter-group-scroll quick-filter-row">
-          ${["全部", ...RECIPE_CORE_FOOD_OPTIONS].map((item) => chip(item, item, "data-recipes-corefood", state.recipesCoreFood === item)).join("")}
-        </div>
-      </div>
-    </div>
-  `;
-}
-
 function afterLibraryFilterChange(options = {}) {
+  if (state.sheet?.type === "filters" && state.sheet.scope === "library") {
+    refreshOpenFilterSheet();
+  }
   rerenderCurrent({
     preserveFocusId: options.preserveFocusId,
     scrollToResults: options.scrollToResults && state.sheet?.type !== "filters"
@@ -3174,6 +3326,9 @@ function afterLibraryFilterChange(options = {}) {
 }
 
 function afterRecipeFilterChange(options = {}) {
+  if (state.sheet?.type === "filters" && state.sheet.scope === "recipes") {
+    refreshOpenFilterSheet();
+  }
   rerenderCurrent({
     preserveFocusId: options.preserveFocusId,
     scrollToResults: options.scrollToResults && state.sheet?.type !== "filters"
@@ -3182,7 +3337,7 @@ function afterRecipeFilterChange(options = {}) {
 
 function openFilterSheet(scope) {
   triggerHapticFeedback();
-  state.sheet = { type: "filters", scope };
+  state.sheet = { type: "filters", scope, subPage: null };
   const html = scope === "library"
     ? renderLibraryFilterDrawerContent(filterFoods().length)
     : renderRecipesFilterDrawerContent(filterRecipes().length);
@@ -3204,7 +3359,24 @@ function showFilterSheet(html) {
 
 function bindFilterSheetEvents() {
   bindLibraryFilterControls(sheetContent);
-  bindRecipeFilterControls(sheetContent, { advancedOnly: true });
+  bindRecipeFilterControls(sheetContent);
+  bindActiveFilterChipEvents(sheetContent);
+
+  sheetContent.querySelectorAll("[data-filter-subpage]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.sheet = { ...state.sheet, subPage: button.dataset.filterSubpage };
+      refreshOpenFilterSheet();
+    });
+  });
+
+  sheetContent.querySelectorAll("[data-filter-subpage-back]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.sheet = { ...state.sheet, subPage: null };
+      refreshOpenFilterSheet();
+    });
+  });
 
   sheetContent.querySelectorAll("[data-close-filter-sheet]").forEach((button) => {
     button.addEventListener("click", () => {
@@ -3221,8 +3393,8 @@ function bindFilterSheetEvents() {
         afterLibraryFilterChange();
         return;
       }
-      if (button.dataset.resetFilters === "recipes-advanced") {
-        resetRecipesAdvancedFilters();
+      if (button.dataset.resetFilters === "recipes") {
+        resetRecipesFilters();
         afterRecipeFilterChange();
       }
     });
@@ -3237,17 +3409,9 @@ function renderLibraryFilterSections() {
     { label: "中药材", value: "tcm-herb" }
   ];
   const compact = "filter-chip-compact";
-  const visibleProvinces = getVisibleProvinces();
-  const visibleEthnics = getVisibleEthnics();
-  const provinceToggle = PROVINCES_IN_CATALOG.length > PROVINCE_FILTER_EXPAND_LIMIT
-    ? `<button type="button" class="plain-button filter-expand-button" data-toggle-library-provinces>${state.libraryProvincesExpanded ? "收起省份" : `展开全部 ${PROVINCES_IN_CATALOG.length} 个`}</button>`
-    : "";
-  const ethnicToggle = ETHNICS_IN_CATALOG.length > ETHNIC_FILTER_EXPAND_LIMIT
-    ? `<button type="button" class="plain-button filter-expand-button" data-toggle-library-ethnics>${state.libraryEthnicsExpanded ? "收起民族" : `展开全部 ${ETHNICS_IN_CATALOG.length} 个`}</button>`
-    : "";
   const showOfficialBatchFilter = state.libraryKind === "food-medicine" || state.libraryOfficialBatch !== "全部";
-  const regionOpen = state.libraryRegion !== "ALL" || state.libraryProvince !== "全部" || state.libraryProvincesExpanded;
   const teaClassActive = LIBRARY_TEA_CLASSES.includes(state.libraryTopic);
+  const quickEthnics = LIBRARY_ETHNIC_QUICK.length ? LIBRARY_ETHNIC_QUICK : ETHNICS_IN_CATALOG.slice(0, 8);
   return `
     <section class="filter-panel filter-panel-library filter-drawer-panel">
       <div class="filter-subsection">
@@ -3309,52 +3473,28 @@ function renderLibraryFilterSections() {
         </div>
       </div>
       ` : ""}
-      ${renderFilterDisclosureGroup({
-        id: "library-region",
-        title: "地区筛选",
-        open: regionOpen,
-        bodyHtml: `
-          <div class="filter-subsection filter-subsection-nested">
-            <div class="filter-label">地区来源</div>
-            <div class="filter-group filter-group-wrap">
-              ${chip("全部地区", "ALL", "data-library-region", state.libraryRegion === "ALL", compact)}
-              ${Object.entries(REGION_LABELS)
-                .filter(([region]) => REGION_COUNTS[region])
-                .map(([region, label]) => chip(label, region, "data-library-region", state.libraryRegion === region, compact))
-                .join("")}
-            </div>
-          </div>
-          <div class="filter-subsection filter-subsection-nested">
-            <div class="filter-label-row">
-              <div class="filter-label">中国省份 / 地区</div>
-              ${provinceToggle}
-            </div>
-            <div class="filter-group filter-province-grid">
-              ${chip("全部", "全部", "data-library-province", state.libraryProvince === "全部", compact)}
-              ${visibleProvinces.map((province) => chip(province, province, "data-library-province", state.libraryProvince === province, compact)).join("")}
-            </div>
-          </div>
-        `
-      })}
+      <div class="filter-subsection">
+        <div class="filter-label">地区与产区</div>
+        <div class="filter-label filter-label-secondary">地区来源</div>
+        <div class="filter-group filter-group-scroll quick-filter-row">
+          ${chip("全部地区", "ALL", "data-library-region", state.libraryRegion === "ALL", compact)}
+          ${Object.entries(REGION_LABELS)
+            .filter(([region]) => REGION_COUNTS[region])
+            .map(([region, label]) => chip(label, region, "data-library-region", state.libraryRegion === region, compact))
+            .join("")}
+        </div>
+        ${renderFilterDrillButton({ label: "省份 / 地区", value: state.libraryProvince, subPage: "province" })}
+        <p class="filter-hint">道地药材体系按产区归类中药材；民族风味按饮食条目标签筛选，含义不同。</p>
+      </div>
       ${ETHNICS_IN_CATALOG.length ? `
-      ${renderFilterDisclosureGroup({
-        id: "library-ethnic",
-        title: "民族风味",
-        open: state.libraryEthnic !== "全部" || state.libraryEthnicsExpanded,
-        bodyHtml: `
-          <div class="filter-subsection filter-subsection-nested">
-            <div class="filter-label-row">
-              <div class="filter-label">按民族筛选</div>
-              ${ethnicToggle}
-            </div>
-            <div class="filter-group filter-group-wrap">
-              ${chip("全部", "全部", "data-library-ethnic", state.libraryEthnic === "全部", compact)}
-              ${visibleEthnics.map((ethnic) => chip(ethnic, ethnic, "data-library-ethnic", state.libraryEthnic === ethnic, compact)).join("")}
-            </div>
-            <p class="filter-hint">按条目标注的民族风味标签筛选，可与省份、专题组合使用。</p>
-          </div>
-        `
-      })}
+      <div class="filter-subsection">
+        <div class="filter-label">民族风味</div>
+        <div class="filter-group filter-group-scroll quick-filter-row">
+          ${chip("全部", "全部", "data-library-ethnic", state.libraryEthnic === "全部", compact)}
+          ${quickEthnics.map((ethnic) => chip(ethnic, ethnic, "data-library-ethnic", state.libraryEthnic === ethnic, compact)).join("")}
+        </div>
+        ${renderFilterDrillButton({ label: "全部民族", value: state.libraryEthnic, subPage: "ethnic" })}
+      </div>
       ` : ""}
     </section>
   `;
@@ -3487,21 +3627,21 @@ function renderHomeV2() {
 
 function renderLibrary() {
   const items = filterFoods();
+  const activeCount = countLibraryActiveFilters();
 
   return `
     <section class="page-title page-title-compact">
       <h1>食材库</h1>
     </section>
 
-    ${renderLibraryEthnicShortcuts()}
-
     ${renderStickyBrowseToolbar({
       searchId: "libraryQuery",
       placeholder: FOOD_SEARCH_PLACEHOLDER,
       queryValue: state.libraryQuery,
       filterScope: "library",
-      summary: getLibraryFilterSummary(),
-      activeFilterCount: countLibraryActiveFilters(),
+      activeFilterCount: activeCount,
+      activeFiltersHtml: renderActiveFilterChips(buildLibraryActiveFilterChips(), "library"),
+      emptySummaryLabel: activeCount === 0 ? "全部食材" : "",
       resultCount: items.length,
       resultUnit: "食材",
       resultMeta: `药食同源 ${OFFICIAL_COUNT}${CATALOG_OFFICIAL_COUNT ? ` · 目录 ${CATALOG_OFFICIAL_COUNT}` : ""} · 中药材 ${TCM_HERB_COUNT} · 茶类 ${TEA_COUNT}`,
@@ -3644,63 +3784,29 @@ function renderChecker() {
   `;
 }
 
-function renderRecipeScenarioShortcuts() {
-  return `
-    <div class="recipe-shortcut-stack">
-      <div class="recipe-scenario-row">
-        <span class="recipe-shortcut-label">场景</span>
-        ${RECIPE_SCENARIO_SHORTCUTS.map((scenario, index) => chip(
-          scenario.label,
-          String(index),
-          "data-recipe-scenario",
-          isRecipeScenarioActive(scenario)
-        )).join("")}
-      </div>
-      <div class="recipe-scenario-row">
-        <span class="recipe-shortcut-label">时令</span>
-        ${RECIPE_SEASON_SHORTCUTS.map((shortcut, index) => chip(
-          shortcut.label,
-          String(index),
-          "data-recipe-season",
-          isRecipeSeasonShortcutActive(shortcut)
-        )).join("")}
-      </div>
-      <div class="recipe-scenario-row">
-        <span class="recipe-shortcut-label">节气</span>
-        ${RECIPE_SOLAR_TERM_SHORTCUTS.map((shortcut, index) => chip(
-          shortcut.label,
-          String(index),
-          "data-recipe-solar-term",
-          isRecipeSolarTermShortcutActive(shortcut)
-        )).join("")}
-      </div>
-    </div>
-  `;
-}
-
 function renderRecipes() {
   const items = filterRecipes();
-  const syndromes = uniq(recipes.map((item) => item.primarySyndrome).filter(Boolean));
-  const advancedCount = countRecipesAdvancedFilters();
+  const drawerCount = countRecipesDrawerFilters();
 
   return `
     <section class="page-title page-title-compact">
       <h1>食疗方</h1>
     </section>
 
-    ${renderRecipeScenarioShortcuts()}
-
     ${renderStickyBrowseToolbar({
       searchId: "recipesQuery",
       placeholder: "搜索食疗方、食材、证候，如：胃阴虚 / 脾气虚 / 银耳",
       queryValue: state.recipesQuery,
       filterScope: "recipes",
-      summary: getRecipesFilterSummary(),
-      activeFilterCount: countRecipesActiveFilters(),
+      toolbarExtrasHtml: `
+        ${renderRecipeNatureSegmented()}
+        ${renderRecipeHotShortcutRow()}
+      `,
+      activeFilterCount: drawerCount,
+      activeFiltersHtml: renderActiveFilterChips(buildRecipesActiveFilterChips(), "recipes"),
+      emptySummaryLabel: drawerCount === 0 && state.recipesNature === "全部" ? "全部食疗方" : "",
       resultCount: items.length,
-      resultUnit: "食疗方",
-      quickFiltersHtml: renderRecipesQuickFilters(syndromes),
-      filterButtonLabel: advancedCount > 0 ? `更多 · ${advancedCount}` : "更多筛选"
+      resultUnit: "食疗方"
     })}
 
     <section class="recipe-list">
