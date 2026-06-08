@@ -7,6 +7,15 @@ const NATURE_META = {
   复合: { tone: "#756c82", pale: "#eeeaf2", label: "复合" }
 };
 
+const NATURE_STAMP_CLASS = {
+  寒: "nature-stamp--cold",
+  凉: "nature-stamp--cool",
+  平: "nature-stamp--neutral",
+  温: "nature-stamp--warm",
+  热: "nature-stamp--hot",
+  复合: "nature-stamp--compound"
+};
+
 const REGION_LABELS = {
   CN: "中国",
   JP: "日本",
@@ -174,6 +183,20 @@ const PROFILE_OPTIONS = [
   { id: "diarrhea", label: "容易腹泻、怕冷或消化较弱" },
   { id: "iron", label: "缺铁、贫血或关注铁吸收" },
   { id: "hypertension", label: "高血压、心脏或肾脏问题" }
+];
+
+const RECIPE_LIFESTYLE_SCENARIOS = [
+  { label: "熬夜调理", subtitle: "滋阴润燥", tone: "#6f98a4", pale: "#e9f1f2", scenarioIndex: 2 },
+  { label: "清热祛湿", subtitle: "暑湿困重", tone: "#4a7c59", pale: "#e3f0e8", scenarioIndex: 6 },
+  { label: "进补益气", subtitle: "气虚乏力", tone: "#b36a45", pale: "#f4e5da", scenarioIndex: 4 },
+  { label: "暖胃消食", subtitle: "饭后胀满", tone: "#8a7340", pale: "#f3ecda", scenarioIndex: 1 }
+];
+
+const CHECKER_PAIRING_SHORTCUTS = [
+  { label: "蟹与柿", ids: ["crab", "persimmon"] },
+  { label: "蟹与梨", ids: ["crab", "pear"] },
+  { label: "羊肉西瓜", ids: ["lamb", "watermelon"] },
+  { label: "柿子浓茶", ids: ["persimmon", "tea"] }
 ];
 
 const RECIPE_SCENARIO_SHORTCUTS = [
@@ -493,6 +516,7 @@ const closeSheet = document.getElementById("closeSheet");
 const state = {
   view: "home",
   homeQuery: "",
+  homeExploreOpen: false,
   libraryQuery: "",
   libraryNature: "全部",
   libraryCategory: "全部",
@@ -2300,9 +2324,34 @@ function navigate(view) {
 }
 
 function syncNav() {
-  document.querySelectorAll(".nav-button").forEach((button) => {
+  const navButtons = [...document.querySelectorAll(".nav-button")];
+  navButtons.forEach((button) => {
     button.classList.toggle("active", button.dataset.view === state.view);
   });
+  const indicator = document.querySelector(".nav-indicator");
+  const activeButton = navButtons.find((button) => button.dataset.view === state.view);
+  if (indicator && activeButton) {
+    const nav = activeButton.closest(".bottom-nav");
+    if (nav) {
+      const navRect = nav.getBoundingClientRect();
+      const btnRect = activeButton.getBoundingClientRect();
+      indicator.style.width = `${btnRect.width}px`;
+      indicator.style.transform = `translateX(${btnRect.left - navRect.left}px)`;
+    }
+  }
+  syncNavCheckerBadge();
+}
+
+function syncNavCheckerBadge() {
+  const badge = document.querySelector('.nav-button[data-view="checker"] .nav-badge');
+  if (!badge) return;
+  const count = state.checkerSelected.length;
+  if (count > 0) {
+    badge.textContent = String(count);
+    badge.hidden = false;
+  } else {
+    badge.hidden = true;
+  }
 }
 
 function triggerStaggeredAnimation() {
@@ -2365,6 +2414,7 @@ function render() {
     dismissSheetChrome();
   }
   triggerStaggeredAnimation();
+  syncNav();
 }
 
 function bindViewEvents() {
@@ -2430,6 +2480,46 @@ function bindViewEvents() {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
       navigateToLibraryFromHome({ query: state.homeQuery });
+    });
+  });
+
+  app.querySelectorAll("[data-toggle-home-explore]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback("medium");
+      state.homeExploreOpen = !state.homeExploreOpen;
+      rerenderCurrent();
+    });
+  });
+
+  app.querySelectorAll("[data-home-journey]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback("medium");
+      navigate(button.dataset.homeJourney);
+    });
+  });
+
+  app.querySelectorAll("[data-recipe-lifestyle]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback("medium");
+      const item = RECIPE_LIFESTYLE_SCENARIOS[Number(button.dataset.recipeLifestyle)];
+      const scenario = item ? RECIPE_SCENARIO_SHORTCUTS[item.scenarioIndex] : null;
+      if (!scenario) return;
+      applyRecipeScenario(scenario);
+      afterRecipeFilterChange({ scrollToResults: true });
+    });
+  });
+
+  app.querySelectorAll("[data-checker-pairing]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback("medium");
+      const shortcut = CHECKER_PAIRING_SHORTCUTS[Number(button.dataset.checkerPairing)];
+      if (!shortcut) return;
+      const ids = shortcut.ids.filter((id) => foodMap.has(id));
+      if (!ids.length) return;
+      state.checkerSelected = ids.slice(0, 4);
+      state.checkerScrollPending = true;
+      showToast(`已加入 ${shortcut.label}`);
+      rerenderCurrent();
     });
   });
 
@@ -2517,6 +2607,14 @@ function bindLibraryEvents() {
 
   bindLibraryFilterControls(app);
   bindActiveFilterChipEvents(app);
+
+  app.querySelectorAll("[data-clear-library-filters]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback("medium");
+      resetLibraryFilters();
+      afterLibraryFilterChange({ scrollToResults: true });
+    });
+  });
 }
 
 function bindLibraryFilterControls(root) {
@@ -2649,14 +2747,15 @@ function bindCheckerEvents() {
 
   app.querySelectorAll("[data-add-food]").forEach((button) => {
     button.addEventListener("click", () => {
-      triggerHapticFeedback();
+      triggerHapticFeedback("medium");
       const id = button.dataset.addFood;
-      if (!state.checkerSelected.includes(id) && state.checkerSelected.length < 4) {
-        state.checkerSelected.push(id);
-        state.checkerQuery = "";
-        state.checkerScrollPending = true;
-        rerenderCurrent();
-      }
+      const food = foodMap.get(id);
+      if (!food || state.checkerSelected.includes(id) || state.checkerSelected.length >= 4) return;
+      state.checkerSelected.push(id);
+      state.checkerQuery = "";
+      state.checkerScrollPending = true;
+      showToast(`已加入 ${food.name}`);
+      rerenderCurrent();
     });
   });
 
@@ -3096,17 +3195,141 @@ function renderRecipeNatureSegmented() {
   `;
 }
 
-function renderRecipeHotShortcutRow() {
+function renderRecipeScenarioCards() {
   return `
-    <div class="toolbar-shortcut-row" aria-label="热门场景">
-      ${RECIPE_SCENARIO_SHORTCUTS.slice(0, 6).map((scenario, index) => chip(
-        scenario.label,
-        String(index),
-        "data-recipe-scenario",
-        isRecipeScenarioActive(scenario),
-        "filter-chip-compact"
-      )).join("")}
+    <div class="scenario-card-row" aria-label="生活场景">
+      ${RECIPE_LIFESTYLE_SCENARIOS.map((item, index) => {
+        const scenario = RECIPE_SCENARIO_SHORTCUTS[item.scenarioIndex];
+        const active = scenario && isRecipeScenarioActive(scenario);
+        return `
+          <button
+            type="button"
+            class="scenario-card${active ? " active" : ""}"
+            data-recipe-lifestyle="${index}"
+            style="--scenario-tone:${item.tone};--scenario-pale:${item.pale}"
+          >
+            <strong>${item.label}</strong>
+            <span>${item.subtitle}</span>
+          </button>
+        `;
+      }).join("")}
     </div>
+  `;
+}
+
+function renderCheckerScenarioRow() {
+  return `
+    <div class="scenario-card-row checker-scenario-row" aria-label="常见搭配">
+      ${CHECKER_PAIRING_SHORTCUTS.map((item, index) => `
+        <button type="button" class="scenario-card scenario-card--checker" data-checker-pairing="${index}">
+          <strong>${item.label}</strong>
+          <span>一键加入检查</span>
+        </button>
+      `).join("")}
+    </div>
+  `;
+}
+
+function renderLibraryFilterStatusBar(activeCount) {
+  if (!activeCount) return "";
+  return `
+    <div class="filter-status-bar">
+      <span class="filter-status-text">已应用 <strong class="tabular-nums">${activeCount}</strong> 项筛选</span>
+      <button type="button" class="filter-status-clear" data-clear-library-filters>清除全部</button>
+    </div>
+  `;
+}
+
+function renderHomeJourney() {
+  return `
+    <nav class="home-journey" aria-label="使用路径">
+      <button type="button" class="home-journey-step" data-home-journey="library">
+        <span class="home-journey-num">壹</span>
+        <span class="home-journey-label">察食性</span>
+        <span class="home-journey-hint">食材库</span>
+      </button>
+      <span class="home-journey-arrow" aria-hidden="true">→</span>
+      <button type="button" class="home-journey-step" data-home-journey="checker">
+        <span class="home-journey-num">贰</span>
+        <span class="home-journey-label">明搭配</span>
+        <span class="home-journey-hint">搭配检查</span>
+      </button>
+      <span class="home-journey-arrow" aria-hidden="true">→</span>
+      <button type="button" class="home-journey-step" data-home-journey="recipes">
+        <span class="home-journey-num">叁</span>
+        <span class="home-journey-label">查食疗</span>
+        <span class="home-journey-hint">食疗方</span>
+      </button>
+    </nav>
+  `;
+}
+
+function renderHomeTopicCards() {
+  return `
+    <div class="scenario-card-row home-topic-row" aria-label="专题入口">
+      ${HOME_LIBRARY_SHORTCUTS.map((item) => `
+        <button
+          type="button"
+          class="scenario-card scenario-card--topic"
+          data-home-library-shortcut="${item.label}"
+          data-shortcut-kind="${item.kind || ""}"
+          data-shortcut-cert="${item.cert || ""}"
+          style="--scenario-tone:${item.tone};--scenario-pale:${item.pale}"
+        >
+          <strong>${item.label}</strong>
+          <span>${item.hint}</span>
+        </button>
+      `).join("")}
+    </div>
+  `;
+}
+
+function renderHomeExplorePanel() {
+  const qiTermTiles = QI_TERMS_HOME
+    .map((term) => {
+      const meta = QI_TERM_META[term];
+      return `
+        <button class="qi-term-tile qi-term-tile--explore" data-quick-term="${term}" style="--scenario-tone:${meta.tone};--scenario-pale:${meta.pale}">
+          <strong style="color:${meta.tone}">${term}</strong>
+          <span>${meta.hint}</span>
+          <small>${QI_TERM_COUNTS[term] || 0}种</small>
+        </button>
+      `;
+    })
+    .join("");
+
+  return `
+    <section class="home-explore-panel">
+      <div class="home-section">
+        <h2 class="section-title">传统气机术语</h2>
+        <p class="section-copy">进阶专题，点击进入食材库筛选。</p>
+      </div>
+      <section class="qi-term-grid">${qiTermTiles}</section>
+      ${DAO_DI_SYSTEMS_LIST.length ? `
+      <div class="home-section">
+        <h2 class="section-title">道地药材体系</h2>
+        <p class="section-copy">十五大道地产区，按体系浏览中药材。</p>
+      </div>
+      <section class="qi-term-grid home-daodi-system-grid">
+        ${DAO_DI_SYSTEMS_LIST.map((row) => {
+          const colors = DAO_DI_SYSTEM_COLORS[row.id] || { tone: "#3d6b4a", pale: "#e8f2ea" };
+          return `
+          <button
+            type="button"
+            class="qi-term-tile home-daodi-system-tile"
+            data-home-daodi-system="${row.id}"
+            title="${row.summary || row.name}"
+            style="--scenario-tone:${colors.tone};--scenario-pale:${colors.pale}"
+          >
+            <strong class="home-daodi-system-title" style="color:${colors.tone}">${row.name}</strong>
+            <span class="home-daodi-count">${row.herbCount || 0} 种</span>
+            <span class="home-daodi-region">${row.region || ""}</span>
+          </button>
+        `;
+        }).join("")}
+      </section>
+      ` : ""}
+    </section>
   `;
 }
 
@@ -3508,47 +3731,20 @@ function renderHomeV2() {
     : [];
   const natureTiles = ["寒", "凉", "平", "温", "热"]
     .map((nature) => {
-      const meta = NATURE_META[nature];
+      const stampClass = NATURE_STAMP_CLASS[nature];
       return `
-        <button class="nature-tile" data-library-nature-link="${nature}" style="background:${meta.pale};border-color:${meta.tone}22">
-          <strong style="color:${meta.tone}">${nature}</strong>
+        <button class="nature-stamp-tile" data-library-nature-link="${nature}">
+          <span class="nature-stamp nature-stamp--tile ${stampClass}">${nature}</span>
           <small>${NATURE_COUNTS[nature] || 0}种</small>
         </button>
       `;
     })
     .join("");
 
-  const qiTermTiles = QI_TERMS_HOME
-    .map((term) => {
-      const meta = QI_TERM_META[term];
-      return `
-        <button class="qi-term-tile" data-quick-term="${term}" style="background:${meta.pale};border-color:${meta.tone}22">
-          <strong style="color:${meta.tone}">${term}</strong>
-          <span>${meta.hint}</span>
-          <small>${QI_TERM_COUNTS[term] || 0}种</small>
-        </button>
-      `;
-    })
-    .join("");
-
-  const libraryShortcutTiles = HOME_LIBRARY_SHORTCUTS
-    .map((item) => `
-      <button
-        class="qi-term-tile home-library-shortcut"
-        data-home-library-shortcut="${item.label}"
-        data-shortcut-kind="${item.kind || ""}"
-        data-shortcut-cert="${item.cert || ""}"
-        style="background:${item.pale};border-color:${item.tone}22"
-      >
-        <strong style="color:${item.tone}">${item.label}</strong>
-        <span>${item.hint}</span>
-      </button>
-    `)
-    .join("");
-
   return `
-    <section class="hero">
-      <h1>察食性，明食理<br>知食性，辨宜忌</h1>
+    <section class="hero hero-editorial">
+      <p class="hero-eyebrow">传统食养 · 现代安全提示</p>
+      <h1>察食性，明食理</h1>
       ${searchField({
         id: "homeSearch",
         placeholder: FOOD_SEARCH_PLACEHOLDER,
@@ -3572,51 +3768,30 @@ function renderHomeV2() {
         : ""}
     </section>
 
+    ${renderHomeJourney()}
+
     <section class="home-section">
       <h2 class="section-title">按传统食性浏览</h2>
-      <p class="section-copy">点选食性，直接进入食材库查看。</p>
+      <p class="section-copy">点选食性印章，进入食材库查看。</p>
     </section>
 
-    <section class="nature-grid">${natureTiles}</section>
-
-    <section class="home-section">
-      <h2 class="section-title">传统气机术语</h2>
-      <p class="section-copy">进阶专题入口，点击后进入食材库继续筛选。</p>
-    </section>
-
-    <section class="qi-term-grid">${qiTermTiles}</section>
+    <section class="nature-stamp-grid">${natureTiles}</section>
 
     <section class="home-section">
       <h2 class="section-title">专题与产地</h2>
-      <p class="section-copy">药食同源、地理标志与道地产区，一键进入食材库筛选。</p>
+      <p class="section-copy">药食同源、地理标志与道地产区。</p>
     </section>
 
-    <section class="qi-term-grid home-library-shortcut-grid">${libraryShortcutTiles}</section>
+    ${renderHomeTopicCards()}
 
-    ${DAO_DI_SYSTEMS_LIST.length ? `
-    <section class="home-section">
-      <h2 class="section-title">道地药材体系</h2>
-      <p class="section-copy">关药、川药、怀药等十五大道地产区，点击进入中药材库按体系浏览。</p>
-    </section>
-    <section class="qi-term-grid home-daodi-system-grid">
-      ${DAO_DI_SYSTEMS_LIST.map((row) => {
-        const colors = DAO_DI_SYSTEM_COLORS[row.id] || { tone: "#3d6b4a", pale: "#e8f2ea" };
-        return `
-        <button
-          type="button"
-          class="qi-term-tile home-daodi-system-tile"
-          data-home-daodi-system="${row.id}"
-          title="${row.summary || row.name}"
-          style="background:${colors.pale};border-color:${colors.tone}28"
-        >
-          <strong class="home-daodi-system-title" style="color:${colors.tone}">${row.name}</strong>
-          <span class="home-daodi-count">${row.herbCount || 0} 种</span>
-          <span class="home-daodi-region">${row.region || ""}</span>
-        </button>
-      `;
-      }).join("")}
-    </section>
-    ` : ""}
+    <div class="home-explore-toggle-wrap">
+      <button type="button" class="home-explore-toggle" data-toggle-home-explore aria-expanded="${state.homeExploreOpen}">
+        ${state.homeExploreOpen ? "收起探索" : "探索更多 · 气机术语 · 道地体系"}
+        <span class="home-explore-chevron" aria-hidden="true">${state.homeExploreOpen ? "‹" : "›"}</span>
+      </button>
+    </div>
+
+    ${state.homeExploreOpen ? renderHomeExplorePanel() : ""}
 
     <section class="notice gold">
       <strong>数据边界</strong>
@@ -3648,9 +3823,11 @@ function renderLibrary() {
       searchBypassesFilters: Boolean(cleanString(state.libraryQuery))
     })}
 
-    <section class="food-list">
+    ${renderLibraryFilterStatusBar(activeCount)}
+
+    <section class="food-list food-list-data">
       ${items.length
-        ? items.map((food) => foodRow(food)).join("")
+        ? items.map((food) => foodRow(food, { dataRow: true })).join("")
         : `${cleanString(state.libraryQuery)
           ? renderNearMatchBlock(state.libraryQuery, suggestNearFoodMatches(state.libraryQuery))
           : ""}${emptyState("暂时没有匹配项", cleanString(state.libraryQuery) && suggestNearFoodMatches(state.libraryQuery).length ? "也可点击上方相近条目继续查看。" : "换个别名、功效词或地区试试。", true)}`}
@@ -3725,6 +3902,23 @@ function renderPairingRulesBrowse() {
   `;
 }
 
+function renderCheckerTraySlots(selectedFoods) {
+  const slots = Array.from({ length: 4 }, (_, index) => {
+    const food = selectedFoods[index];
+    if (food) {
+      return `
+        <button class="selected-chip selected-chip-button checker-slot filled" type="button" data-open-checker-food="${food.id}">
+          <span class="checker-slot-avatar" style="background:${(NATURE_META[food.nature] || NATURE_META.复合).pale};color:${(NATURE_META[food.nature] || NATURE_META.复合).tone}">${food.name.slice(0, 1)}</span>
+          <span class="checker-slot-name">${food.name}</span>
+          <span class="remove-chip" data-remove-food="${food.id}" aria-label="移除 ${food.name}">×</span>
+        </button>
+      `;
+    }
+    return `<div class="checker-slot empty" aria-label="空位 ${index + 1}"><span>+</span></div>`;
+  });
+  return slots.join("");
+}
+
 function renderChecker() {
   const selectedFoods = state.checkerSelected.map((id) => foodMap.get(id)).filter(Boolean);
   const showSuggestions = state.checkerQuery.trim().length > 0;
@@ -3737,18 +3931,16 @@ function renderChecker() {
       <p>一次选择 2–4 种食材，查看传统搭配、现代安全提醒和常见“相克”迷思。</p>
     </section>
 
-    <section>
-      <h2 class="section-title">已选食材</h2>
+    ${renderCheckerScenarioRow()}
+
+    <section class="checker-tray-section">
+      <div class="checker-tray-head">
+        <h2 class="section-title">已选食材</h2>
+        <span class="checker-tray-count tabular-nums">${selectedFoods.length}/4</span>
+      </div>
       <p class="section-copy">不是安全认证，只提示已知的高优先级问题。</p>
-      <div class="selected-tray">
-        ${selectedFoods.length
-          ? selectedFoods.map((food) => `
-            <button class="selected-chip selected-chip-button" type="button" data-open-checker-food="${food.id}">
-              ${food.name}
-              <span class="remove-chip" data-remove-food="${food.id}" aria-label="移除 ${food.name}">×</span>
-            </button>
-          `).join("")
-          : "<span class='section-copy'>从下方搜索并添加食材</span>"}
+      <div class="selected-tray checker-tray${selectedFoods.length ? " has-items" : ""}">
+        ${renderCheckerTraySlots(selectedFoods)}
       </div>
     </section>
 
@@ -3800,7 +3992,7 @@ function renderRecipes() {
       filterScope: "recipes",
       toolbarExtrasHtml: `
         ${renderRecipeNatureSegmented()}
-        ${renderRecipeHotShortcutRow()}
+        ${renderRecipeScenarioCards()}
       `,
       activeFilterCount: drawerCount,
       activeFiltersHtml: renderActiveFilterChips(buildRecipesActiveFilterChips(), "recipes"),
@@ -4170,9 +4362,39 @@ function foodOriginBadges(food) {
   return badges.length ? `<div class="food-row-badges">${badges.join("")}</div>` : "";
 }
 
+function foodDataRowMeta(food) {
+  const tags = [];
+  if (food.nature) tags.push(food.nature);
+  if (food.category) tags.push(food.category);
+  const province = (food.provinces && food.provinces[0]) || "";
+  if (province) tags.push(province);
+  const alias = (food.aliases && food.aliases[0]) || food.pinyinAbbr || "";
+  const tagLine = tags.filter(Boolean).join(" · ");
+  return alias && tagLine ? `${alias} · ${tagLine}` : (alias || tagLine || foodListMeta(food));
+}
+
 function foodRow(food, options = {}) {
-  const { compact = false, showOriginBadges = true, home = false, checkerPick = false } = options;
+  const { compact = false, showOriginBadges = true, home = false, checkerPick = false, dataRow = false } = options;
   const dataAttr = checkerPick ? "data-add-food" : (home ? "data-open-home-food" : "data-open-food");
+  const natureMeta = NATURE_META[food.nature] || NATURE_META.复合;
+
+  if (dataRow) {
+    return `
+      <button type="button" class="food-row food-row-data suggestion-row" ${dataAttr}="${food.id}">
+        <span class="food-avatar" style="background:${natureMeta.pale};color:${natureMeta.tone}">${(food.name || "?").slice(0, 1)}</span>
+        <div class="food-main">
+          <div class="food-main-head">
+            <strong>${food.name}</strong>
+            ${showOriginBadges ? foodOriginBadges(food) : ""}
+          </div>
+          <small class="food-data-meta">${foodDataRowMeta(food)}</small>
+        </div>
+        ${natureStamp(food.nature, { small: true })}
+        <span class="food-row-chevron" aria-hidden="true">›</span>
+      </button>
+    `;
+  }
+
   const classes = [
     "food-row",
     "suggestion-row",
@@ -4189,7 +4411,7 @@ function foodRow(food, options = {}) {
         </div>
         <small>${foodListMeta(food)}</small>
       </div>
-      ${natureBadge(food.nature)}
+      ${compact ? natureBadge(food.nature) : natureStamp(food.nature, { small: true })}
     </button>
   `;
 }
@@ -4210,10 +4432,12 @@ function emptyState(title, copy, showFeedbackButton = false) {
   `;
 }
 
-function triggerHapticFeedback() {
+function triggerHapticFeedback(level = "light") {
+  const duration = { light: 8, medium: 18, none: 0 }[level] ?? 8;
+  if (!duration) return;
   if (typeof window !== "undefined" && window.navigator && typeof window.navigator.vibrate === "function") {
     try {
-      window.navigator.vibrate(12);
+      window.navigator.vibrate(duration);
     } catch (e) {
       // Ignore vibration error under restricted iframe policies
     }
@@ -4400,23 +4624,25 @@ function recipeTierBadge(item) {
 
 function recipeRow(item) {
   const secondarySyndromes = Array.isArray(item.secondarySyndromes) ? item.secondarySyndromes : [];
-  const syndromeLine = [
-    item.primarySyndrome ? `主证：${item.primarySyndrome}` : "主证：未标注",
-    secondarySyndromes.length ? `兼见：${secondarySyndromes.join(" / ")}` : ""
-  ].filter(Boolean).join(" · ");
+  const syndromeLine = item.primarySyndrome || secondarySyndromes[0] || "日常食养";
   const natureMeta = NATURE_META[item.nature] || NATURE_META.复合;
+  const benefit = item.subtitle || (item.primarySyndrome ? `宜 ${item.primarySyndrome}` : "传统食疗整理");
 
   return `
-    <article class="recipe-row" data-open-recipe="${item.id}" role="button" tabindex="0">
-      <div class="nature-seal" style="background:${natureMeta.pale};color:${natureMeta.tone}">${item.nature || "平"}</div>
+    <article class="recipe-row recipe-row-card" data-open-recipe="${item.id}" role="button" tabindex="0">
+      <div class="recipe-card-accent" style="background:${natureMeta.pale}"></div>
       <div class="food-main recipe-row-main">
         <div class="recipe-row-head">
           <strong>${item.name}</strong>
           <div class="recipe-row-badges">${recipeTierBadge(item)}</div>
         </div>
-        ${item.subtitle ? `<small class="recipe-row-subtitle">${item.subtitle}</small>` : ""}
-        <small class="recipe-row-syndrome">${syndromeLine}</small>
+        <small class="recipe-row-benefit">${benefit}</small>
+        <div class="recipe-row-tags">
+          ${natureStamp(item.nature || "平", { small: true })}
+          <span class="recipe-row-tag">${syndromeLine}</span>
+        </div>
       </div>
+      <span class="food-row-chevron" aria-hidden="true">›</span>
     </article>
   `;
 }
@@ -4451,6 +4677,14 @@ function searchField({ id, placeholder, buttonAttr = "", buttonLabel = "搜索",
         : `<span class="search-icon" aria-hidden="true"></span>`}
     </label>
   `;
+}
+
+function natureStamp(nature, options = {}) {
+  const value = nature || "平";
+  const meta = NATURE_META[value] || NATURE_META.复合;
+  const stampClass = NATURE_STAMP_CLASS[value] || NATURE_STAMP_CLASS.复合;
+  const smallClass = options.small ? " nature-stamp--small" : "";
+  return `<span class="nature-stamp ${stampClass}${smallClass}" title="${meta.label}">${value}</span>`;
 }
 
 function natureBadge(nature) {
