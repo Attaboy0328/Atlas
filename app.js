@@ -3012,6 +3012,14 @@ function countRecipesDrawerFilters() {
   return count;
 }
 
+function getActiveRecipeLifestyleLabel() {
+  const match = RECIPE_LIFESTYLE_SCENARIOS.find((item) => {
+    const scenario = RECIPE_SCENARIO_SHORTCUTS[item.scenarioIndex];
+    return scenario && isRecipeScenarioActive(scenario);
+  });
+  return match?.label || "";
+}
+
 function getLibraryFilterSummary() {
   const parts = [];
   if (state.libraryKind !== "全部") {
@@ -3076,6 +3084,9 @@ function buildLibraryActiveFilterChips() {
 
 function buildRecipesActiveFilterChips() {
   const chips = [];
+  const lifestyleLabel = getActiveRecipeLifestyleLabel();
+  if (lifestyleLabel) chips.push({ key: "lifestyle", label: lifestyleLabel });
+  if (state.recipesNature !== "全部") chips.push({ key: "nature", label: state.recipesNature });
   if (state.recipesSyndrome !== "全部") chips.push({ key: "syndrome", label: state.recipesSyndrome });
   if (state.recipesCoreFood !== "全部") chips.push({ key: "coreFood", label: state.recipesCoreFood });
   if (state.recipesUseFor !== "全部") chips.push({ key: "useFor", label: recipeFilterTagLabel(state.recipesUseFor, RECIPE_FILTER_TAG_LOOKUP) });
@@ -3107,6 +3118,13 @@ function clearLibraryFilterByKey(key) {
 }
 
 function clearRecipeFilterByKey(key) {
+  if (key === "lifestyle") {
+    state.recipesNature = "全部";
+    state.recipesSyndrome = "全部";
+    resetRecipesAdvancedFilters();
+    return;
+  }
+  if (key === "nature") state.recipesNature = "全部";
   if (key === "syndrome") state.recipesSyndrome = "全部";
   if (key === "coreFood") state.recipesCoreFood = "全部";
   if (key === "useFor") state.recipesUseFor = "全部";
@@ -3157,16 +3175,20 @@ function renderActiveFilterChips(chips, scope) {
 
 function renderRecipeNatureSegmented() {
   return `
-    <div class="filter-segmented" role="tablist" aria-label="食疗方食性">
-      ${["全部", "平", "温", "热", "凉", "寒"].map((item) => `
+    <div class="filter-segmented filter-segmented-nature" role="tablist" aria-label="食疗方食性">
+      ${["全部", "平", "温", "热", "凉", "寒"].map((item) => {
+        const natureClass = item === "全部" ? "" : (NATURE_STAMP_CLASS[item] || "");
+        const active = state.recipesNature === item;
+        return `
         <button
           type="button"
-          class="filter-segmented-item${state.recipesNature === item ? " active" : ""}"
+          class="filter-segmented-item filter-segmented-nature-item ${natureClass}${active ? " active" : ""}"
           data-recipes-nature="${item}"
           role="tab"
-          aria-selected="${state.recipesNature === item ? "true" : "false"}"
+          aria-selected="${active ? "true" : "false"}"
         >${item}</button>
-      `).join("")}
+      `;
+      }).join("")}
     </div>
   `;
 }
@@ -3322,23 +3344,29 @@ function renderStickyBrowseToolbar({
   activeFiltersHtml = "",
   filterButtonLabel = "",
   searchBypassesFilters = false,
-  emptySummaryLabel = ""
+  emptySummaryLabel = "",
+  inlineResult = false
 }) {
   const filterLabel = filterButtonLabel || (activeFilterCount > 0 ? `筛选 · ${activeFilterCount}` : "筛选");
   const showSearchHint = searchBypassesFilters && activeFilterCount > countPinnedLibraryFiltersWhenSearch();
+  const inlineResultHtml = inlineResult
+    ? `<span class="toolbar-result-inline tabular-nums" id="result-anchor">找到 ${resultCount} 个${resultUnit}</span>`
+    : "";
   return `
     <section class="sticky-toolbar">
       ${searchField({ id: searchId, placeholder, value: queryValue })}
       ${toolbarExtrasHtml}
       ${showSearchHint ? '<p class="sticky-toolbar-search-hint">搜索时已忽略食性、分类与地区等筛选；条目类型与产地认证仍生效</p>' : ""}
-      <div class="sticky-toolbar-control-row">
+      <div class="sticky-toolbar-control-row${inlineResult ? " sticky-toolbar-control-row-merged" : ""}">
         <button type="button" class="filter-open-button" data-open-filters="${filterScope}">${filterLabel}</button>
-        ${activeFiltersHtml || (emptySummaryLabel ? `<span class="sticky-toolbar-empty-label">${emptySummaryLabel}</span>` : "")}
+        ${activeFiltersHtml || (!inlineResult && emptySummaryLabel ? `<span class="sticky-toolbar-empty-label">${emptySummaryLabel}</span>` : "")}
+        ${inlineResultHtml}
       </div>
+      ${inlineResult ? "" : `
       <div class="result-summary result-summary-sticky" id="result-anchor">
         <span>找到 ${resultCount} 个${resultUnit}</span>
         ${resultMeta ? `<span>${resultMeta}</span>` : ""}
-      </div>
+      </div>`}
     </section>
   `;
 }
@@ -3895,6 +3923,7 @@ function renderChecker() {
 function renderRecipes() {
   const items = filterRecipes();
   const drawerCount = countRecipesDrawerFilters();
+  const hideNatureInList = state.recipesNature !== "全部";
 
   return `
     <section class="page-title page-title-compact">
@@ -3903,7 +3932,7 @@ function renderRecipes() {
 
     ${renderStickyBrowseToolbar({
       searchId: "recipesQuery",
-      placeholder: "搜索食疗方、食材、证候，如：胃阴虚 / 脾气虚 / 银耳",
+      placeholder: "搜索方名、证候、食材",
       queryValue: state.recipesQuery,
       filterScope: "recipes",
       toolbarExtrasHtml: `
@@ -3912,13 +3941,14 @@ function renderRecipes() {
       `,
       activeFilterCount: drawerCount,
       activeFiltersHtml: renderActiveFilterChips(buildRecipesActiveFilterChips(), "recipes"),
-      emptySummaryLabel: drawerCount === 0 && state.recipesNature === "全部" ? "全部食疗方" : "",
+      emptySummaryLabel: !buildRecipesActiveFilterChips().length && drawerCount === 0 ? "全部食疗方" : "",
       resultCount: items.length,
-      resultUnit: "食疗方"
+      resultUnit: "食疗方",
+      inlineResult: true
     })}
 
-    <section class="recipe-list">
-      ${items.length ? items.map(recipeRow).join("") : emptyState("没搜到对应食疗方", "可换证候词、核心食材或放宽筛选条件。", true)}
+    <section class="recipe-list recipe-list-compact">
+      ${items.length ? items.map((item) => recipeRow(item, { hideNatureStamp: hideNatureInList })).join("") : emptyState("没搜到对应食疗方", "可换证候词、核心食材或放宽筛选条件。", true)}
     </section>
 
     <section class="notice notice-compact">
@@ -4538,15 +4568,16 @@ function recipeTierBadge(item) {
   return `<span class="pill-badge recipe-tier-badge" style="color:${meta.tone};background:${meta.pale}">${meta.label}</span>`;
 }
 
-function recipeRow(item) {
+function recipeRow(item, options = {}) {
+  const { hideNatureStamp = false } = options;
   const secondarySyndromes = Array.isArray(item.secondarySyndromes) ? item.secondarySyndromes : [];
   const syndromeLine = item.primarySyndrome || secondarySyndromes[0] || "日常食养";
   const natureMeta = NATURE_META[item.nature] || NATURE_META.复合;
   const benefit = item.subtitle || (item.primarySyndrome ? `宜 ${item.primarySyndrome}` : "传统食疗整理");
 
   return `
-    <article class="recipe-row recipe-row-card" data-open-recipe="${item.id}" role="button" tabindex="0">
-      <div class="recipe-card-accent" style="background:${natureMeta.pale}"></div>
+    <article class="recipe-row recipe-row-card recipe-row-compact" data-open-recipe="${item.id}" role="button" tabindex="0">
+      <div class="recipe-card-accent" style="background:${natureMeta.tone}"></div>
       <div class="food-main recipe-row-main">
         <div class="recipe-row-head">
           <strong>${item.name}</strong>
@@ -4554,7 +4585,7 @@ function recipeRow(item) {
         </div>
         <small class="recipe-row-benefit">${benefit}</small>
         <div class="recipe-row-tags">
-          ${natureStamp(item.nature || "平", { small: true })}
+          ${hideNatureStamp ? "" : natureStamp(item.nature || "平", { small: true })}
           <span class="recipe-row-tag">${syndromeLine}</span>
         </div>
       </div>
