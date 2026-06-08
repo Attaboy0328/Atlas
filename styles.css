@@ -3382,6 +3382,31 @@ button {
   display: none;
 }
 
+.recipe-scenario-row {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  overflow-x: visible;
+}
+
+.recipe-scenario-row .scenario-card {
+  flex: unset;
+  min-width: 0;
+  max-width: none;
+  width: 100%;
+  padding: 9px 7px 8px 9px;
+  gap: 3px;
+}
+
+.recipe-scenario-row .scenario-card strong {
+  font-size: 12px;
+}
+
+.recipe-scenario-row .scenario-card span {
+  font-size: 10px;
+  line-height: 1.35;
+}
+
 .scenario-card {
   flex: 0 0 auto;
   min-width: 132px;

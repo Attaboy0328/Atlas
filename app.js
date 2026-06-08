@@ -3195,7 +3195,7 @@ function renderRecipeNatureSegmented() {
 
 function renderRecipeScenarioCards() {
   return `
-    <div class="scenario-card-row" aria-label="生活场景">
+    <div class="scenario-card-row recipe-scenario-row" aria-label="生活场景">
       ${RECIPE_LIFESTYLE_SCENARIOS.map((item, index) => {
         const scenario = RECIPE_SCENARIO_SHORTCUTS[item.scenarioIndex];
         const active = scenario && isRecipeScenarioActive(scenario);
