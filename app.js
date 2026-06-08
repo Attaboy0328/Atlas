@@ -2903,6 +2903,15 @@ function bindCheckerEvents() {
     });
   });
 
+  app.querySelectorAll("[data-clear-checker-selection]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.checkerSelected = [];
+      state.checkerScrollPending = false;
+      rerenderCurrent();
+    });
+  });
+
   app.querySelectorAll("[data-open-checker-food]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
@@ -3366,15 +3375,37 @@ function renderRecipeScenarioCards() {
   `;
 }
 
+function isCheckerPairingActive(shortcut) {
+  const ids = shortcut.ids.filter((id) => foodMap.has(id));
+  if (!ids.length) return false;
+  return ids.every((id) => state.checkerSelected.includes(id));
+}
+
 function renderCheckerScenarioRow() {
   return `
     <div class="scenario-card-row checker-scenario-row" aria-label="常见搭配">
-      ${CHECKER_PAIRING_SHORTCUTS.map((item, index) => `
-        <button type="button" class="scenario-card scenario-card--checker" data-checker-pairing="${index}">
+      ${CHECKER_PAIRING_SHORTCUTS.map((item, index) => {
+        const active = isCheckerPairingActive(item);
+        return `
+        <button type="button" class="scenario-card scenario-card--checker${active ? " active" : ""}" data-checker-pairing="${index}">
           <strong>${item.label}</strong>
-          <span>一键加入检查</span>
+          <span>加入</span>
         </button>
-      `).join("")}
+      `;
+      }).join("")}
+    </div>
+  `;
+}
+
+function checkerHasActiveProfile() {
+  return PROFILE_OPTIONS.some((option) => state.profile[option.id]);
+}
+
+function renderCheckerProfileHint() {
+  return `
+    <div class="checker-profile-hint">
+      <span>完善个人提醒后，检查会更贴合你的情况。</span>
+      <button type="button" class="text-button" data-view="profile">去完善</button>
     </div>
   `;
 }
@@ -4198,7 +4229,7 @@ function renderPairingRulesBrowse() {
     <section class="detail-section pairing-rules-browse">
       <button type="button" class="pairing-rules-toggle" data-toggle-pairing-rules aria-expanded="${state.checkerRulesOpen}">
         <span class="section-title">规则库</span>
-        <span class="pairing-rules-toggle-meta">${PAIRING_RULES.length} 条 · ${state.checkerRulesOpen ? "收起" : "展开浏览"}</span>
+        <span class="pairing-rules-toggle-meta">${PAIRING_RULES.length} 条 · ${state.checkerRulesOpen ? "收起" : "更多规则 ›"}</span>
       </button>
       ${state.checkerRulesOpen ? `
         <p class="section-copy">按类别浏览已整理的搭配规则，点击可快速加入检查。</p>
@@ -4263,25 +4294,14 @@ function renderChecker() {
   const result = buildCheckerResult(selectedFoods);
 
   return `
-    <section class="page-title">
+    <section class="page-title page-title-compact">
       <h1>搭配检查</h1>
-      <p>一次选择 2–4 种食材，查看传统搭配、现代安全提醒和常见“相克”迷思。</p>
+      <p>一次选择 2–4 种食材，查看传统搭配、现代安全提醒和常见「相克」迷思。</p>
     </section>
 
     ${renderCheckerScenarioRow()}
 
-    <section class="checker-tray-section">
-      <div class="checker-tray-head">
-        <h2 class="section-title">已选食材</h2>
-        <span class="checker-tray-count tabular-nums">${selectedFoods.length}/4</span>
-      </div>
-      <p class="section-copy">不是安全认证，只提示已知的高优先级问题。</p>
-      <div class="selected-tray checker-tray${selectedFoods.length ? " has-items" : ""}">
-        ${renderCheckerTraySlots(selectedFoods)}
-      </div>
-    </section>
-
-    <section class="picker-panel">
+    <section class="picker-panel checker-picker-panel">
       ${searchField({
         id: "checkerQuery",
         placeholder: "搜索要检查的食材，如：见手青 / jsq",
@@ -4289,13 +4309,13 @@ function renderChecker() {
       })}
       ${showSuggestions
         ? `
-          <div class="suggestion-list suggestion-list-card">
+          <div class="suggestion-list suggestion-list-card checker-suggestion-list">
             ${suggestions.length
               ? suggestions.map((food) => foodRow(food, { compact: true, showOriginBadges: false, checkerPick: true })).join("")
               : `
-                <div class="empty-suggestion-state" style="text-align: center; padding: 18px 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;">
-                  <span style="color: var(--ink-soft); font-size: 13px;">没搜到对应食材，试试名称、别名、全拼或首字母。</span>
-                  <button class="action-button feedback-trigger-btn" data-trigger-feedback="true" style="max-width: 130px; min-height: 32px; padding: 0 14px; border-radius: var(--radius-pill); font-size: 12px;" type="button">建议收录此食材</button>
+                <div class="empty-suggestion-state checker-empty-suggestion">
+                  <span>没搜到对应食材，试试名称、别名、全拼或首字母。</span>
+                  <button class="action-button feedback-trigger-btn" data-trigger-feedback="true" type="button">建议收录此食材</button>
                 </div>
               `}
           </div>
@@ -4303,9 +4323,24 @@ function renderChecker() {
         : ""}
     </section>
 
+    <section class="checker-tray-section">
+      <div class="checker-tray-head">
+        <h2 class="section-title">已选食材</h2>
+        <div class="checker-tray-actions">
+          ${selectedFoods.length ? `<button type="button" class="checker-tray-clear" data-clear-checker-selection="true">清空</button>` : ""}
+          <span class="checker-tray-count tabular-nums">${selectedFoods.length}/4</span>
+        </div>
+      </div>
+      <p class="section-copy checker-tray-copy">不是安全认证，只提示已知的高优先级问题。</p>
+      <div class="selected-tray checker-tray${selectedFoods.length ? " has-items" : " is-empty"}">
+        ${renderCheckerTraySlots(selectedFoods)}
+      </div>
+    </section>
+
+    ${checkerHasActiveProfile() ? "" : renderCheckerProfileHint()}
+
     <section class="detail-section checker-results" id="checker-results">
       <h2 class="section-title">检查结果</h2>
-      <p class="section-copy">优先级：药物与过敏 &gt; 营养与疾病状态 &gt; 传统食养。标签：现代安全 / 传统食养 / 民间迷思。</p>
       ${result}
     </section>
 
@@ -4617,9 +4652,17 @@ function filterRecipes() {
   });
 }
 
+function noticeCategoryClass(category) {
+  if (category === "现代安全") return "notice-category--modern";
+  if (category === "传统食养") return "notice-category--traditional";
+  if (category === "民间迷思") return "notice-category--myth";
+  return "";
+}
+
 function buildCheckerResult(selectedFoods) {
   if (selectedFoods.length < 2) {
-    return emptyState("先选 2 种以上食材", "这样我才能判断寒热叠加、证候方向和高优先级提醒。");
+    const remaining = 2 - selectedFoods.length;
+    return `<p class="checker-results-hint">再选 ${remaining} 种食材后即可查看搭配提醒（优先级：药物与过敏 &gt; 营养与疾病状态 &gt; 传统食养）。</p>`;
   }
 
   const notices = [];
@@ -4671,14 +4714,16 @@ function buildCheckerResult(selectedFoods) {
   const noticeHtml = sortedNotices.map((item) => renderNotice(item.level, item.title, item.text, item.foodId, item.category)).join("");
 
   const balance = `
-    <section class="detail-section">
-      <h3>均衡搭配建议</h3>
-      <ul>
-        <li>优先让主食、蛋白质和蔬菜结构完整，再看寒热标签。</li>
-        <li>寒凉组可配温热主食或熟食，温热组可配清润蔬菜或汤水。</li>
-        <li>若其中有高盐酱料、酒精或刺激性调味，优先关注现代安全和基础疾病状态。</li>
-      </ul>
-    </section>
+    <details class="disclosure checker-balance-disclosure">
+      <summary>均衡搭配建议</summary>
+      <div class="disclosure-body checker-balance-body">
+        <ul class="checker-balance-list">
+          <li>优先让主食、蛋白质和蔬菜结构完整，再看寒热标签。</li>
+          <li>寒凉组可配温热主食或熟食，温热组可配清润蔬菜或汤水。</li>
+          <li>若其中有高盐酱料、酒精或刺激性调味，优先关注现代安全和基础疾病状态。</li>
+        </ul>
+      </div>
+    </details>
   `;
 
   return noticeHtml + balance;
@@ -4686,8 +4731,9 @@ function buildCheckerResult(selectedFoods) {
 
 function renderNotice(level, title, text, foodId = "", category = "") {
   const className = level === "caution" ? "notice caution" : level === "gold" ? "notice gold" : "notice";
-  const categoryTag = category ? `<span class="notice-category">${category}</span>` : "";
-  return `<section class="${className}"><strong>${title}</strong>${categoryTag}<p>${text}</p>${foodId ? `<button type="button" class="checker-food-link" data-open-checker-food="${foodId}">查看食材详情</button>` : ""}</section>`;
+  const categoryClass = noticeCategoryClass(category);
+  const categoryTag = category ? `<span class="notice-category ${categoryClass}">${category}</span>` : "";
+  return `<section class="${className}"><div class="notice-head"><strong>${title}</strong>${categoryTag}</div><p>${text}</p>${foodId ? `<button type="button" class="checker-food-link" data-open-checker-food="${foodId}">查看食材详情</button>` : ""}</section>`;
 }
 
 function foodOriginBadges(food) {
