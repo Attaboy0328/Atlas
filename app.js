@@ -126,8 +126,7 @@ function isCountryCodeTag(tag) {
 
 function isProvinceFilterTag(tag) {
   if (!tag || isCountryCodeTag(tag) || REGION_LABELS[tag]) return false;
-  if (CN_PROVINCES.includes(tag)) return true;
-  return /[\u4e00-\u9fff]/.test(tag);
+  return CN_PROVINCES.includes(tag);
 }
 
 function regionDisplayLabel(tag) {
@@ -2324,21 +2323,9 @@ function navigate(view) {
 }
 
 function syncNav() {
-  const navButtons = [...document.querySelectorAll(".nav-button")];
-  navButtons.forEach((button) => {
+  document.querySelectorAll(".nav-button").forEach((button) => {
     button.classList.toggle("active", button.dataset.view === state.view);
   });
-  const indicator = document.querySelector(".nav-indicator");
-  const activeButton = navButtons.find((button) => button.dataset.view === state.view);
-  if (indicator && activeButton) {
-    const nav = activeButton.closest(".bottom-nav");
-    if (nav) {
-      const navRect = nav.getBoundingClientRect();
-      const btnRect = activeButton.getBoundingClientRect();
-      indicator.style.width = `${btnRect.width}px`;
-      indicator.style.transform = `translateX(${btnRect.left - navRect.left}px)`;
-    }
-  }
   syncNavCheckerBadge();
 }
 
@@ -3168,17 +3155,6 @@ function renderActiveFilterChips(chips, scope) {
   `;
 }
 
-function renderFilterDrillButton({ label, value, subPage }) {
-  const display = value && value !== "全部" && value !== "ALL" ? value : "全部";
-  return `
-    <button type="button" class="filter-drill-button" data-filter-subpage="${subPage}">
-      <span class="filter-drill-label">${label}</span>
-      <span class="filter-drill-value">${display}</span>
-      <span class="filter-drill-chevron" aria-hidden="true">›</span>
-    </button>
-  `;
-}
-
 function renderRecipeNatureSegmented() {
   return `
     <div class="filter-segmented" role="tablist" aria-label="食疗方食性">
@@ -3432,58 +3408,7 @@ function resetRecipesFilters() {
   resetRecipesAdvancedFilters();
 }
 
-function renderLibraryProvinceSubpage(resultCount) {
-  const compact = "filter-chip-compact";
-  return `
-    <section class="filter-drawer">
-      <div class="filter-drawer-head filter-drawer-head-subpage">
-        <button type="button" class="plain-button filter-subpage-back" data-filter-subpage-back>‹ 返回</button>
-        <h2 class="filter-drawer-title">选择省份 / 地区</h2>
-      </div>
-      <section class="filter-panel filter-drawer-panel">
-        <div class="filter-group filter-province-grid">
-          ${chip("全部", "全部", "data-library-province", state.libraryProvince === "全部", compact)}
-          ${PROVINCES_IN_CATALOG.map((province) => chip(province, province, "data-library-province", state.libraryProvince === province, compact)).join("")}
-        </div>
-      </section>
-      <div class="filter-drawer-footer">
-        <button type="button" class="plain-button" data-filter-subpage-back>返回</button>
-        <button type="button" class="action-button filter-drawer-apply" data-close-filter-sheet="true">查看 ${resultCount} 个食材</button>
-      </div>
-    </section>
-  `;
-}
-
-function renderLibraryEthnicSubpage(resultCount) {
-  const compact = "filter-chip-compact";
-  return `
-    <section class="filter-drawer">
-      <div class="filter-drawer-head filter-drawer-head-subpage">
-        <button type="button" class="plain-button filter-subpage-back" data-filter-subpage-back>‹ 返回</button>
-        <h2 class="filter-drawer-title">选择民族风味</h2>
-      </div>
-      <section class="filter-panel filter-drawer-panel">
-        <div class="filter-group filter-group-wrap">
-          ${chip("全部", "全部", "data-library-ethnic", state.libraryEthnic === "全部", compact)}
-          ${ETHNICS_IN_CATALOG.map((ethnic) => chip(ethnic, ethnic, "data-library-ethnic", state.libraryEthnic === ethnic, compact)).join("")}
-        </div>
-        <p class="filter-hint">按条目标注的民族风味标签筛选，与道地药材体系（藏药/蒙药/维药等）含义不同。</p>
-      </section>
-      <div class="filter-drawer-footer">
-        <button type="button" class="plain-button" data-filter-subpage-back>返回</button>
-        <button type="button" class="action-button filter-drawer-apply" data-close-filter-sheet="true">查看 ${resultCount} 个食材</button>
-      </div>
-    </section>
-  `;
-}
-
 function renderLibraryFilterDrawerContent(resultCount) {
-  if (state.sheet?.subPage === "province") {
-    return renderLibraryProvinceSubpage(resultCount);
-  }
-  if (state.sheet?.subPage === "ethnic") {
-    return renderLibraryEthnicSubpage(resultCount);
-  }
   return `
     <section class="filter-drawer">
       <div class="filter-drawer-head">
@@ -3585,22 +3510,6 @@ function bindFilterSheetEvents() {
   bindRecipeFilterControls(sheetContent);
   bindActiveFilterChipEvents(sheetContent);
 
-  sheetContent.querySelectorAll("[data-filter-subpage]").forEach((button) => {
-    button.addEventListener("click", () => {
-      triggerHapticFeedback();
-      state.sheet = { ...state.sheet, subPage: button.dataset.filterSubpage };
-      refreshOpenFilterSheet();
-    });
-  });
-
-  sheetContent.querySelectorAll("[data-filter-subpage-back]").forEach((button) => {
-    button.addEventListener("click", () => {
-      triggerHapticFeedback();
-      state.sheet = { ...state.sheet, subPage: null };
-      refreshOpenFilterSheet();
-    });
-  });
-
   sheetContent.querySelectorAll("[data-close-filter-sheet]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
@@ -3634,7 +3543,6 @@ function renderLibraryFilterSections() {
   const compact = "filter-chip-compact";
   const showOfficialBatchFilter = state.libraryKind === "food-medicine" || state.libraryOfficialBatch !== "全部";
   const teaClassActive = LIBRARY_TEA_CLASSES.includes(state.libraryTopic);
-  const quickEthnics = LIBRARY_ETHNIC_QUICK.length ? LIBRARY_ETHNIC_QUICK : ETHNICS_IN_CATALOG.slice(0, 8);
   return `
     <section class="filter-panel filter-panel-library filter-drawer-panel">
       <div class="filter-subsection">
@@ -3697,8 +3605,7 @@ function renderLibraryFilterSections() {
       </div>
       ` : ""}
       <div class="filter-subsection">
-        <div class="filter-label">地区与产区</div>
-        <div class="filter-label filter-label-secondary">地区来源</div>
+        <div class="filter-label">地区来源</div>
         <div class="filter-group filter-group-scroll quick-filter-row">
           ${chip("全部地区", "ALL", "data-library-region", state.libraryRegion === "ALL", compact)}
           ${Object.entries(REGION_LABELS)
@@ -3706,17 +3613,22 @@ function renderLibraryFilterSections() {
             .map(([region, label]) => chip(label, region, "data-library-region", state.libraryRegion === region, compact))
             .join("")}
         </div>
-        ${renderFilterDrillButton({ label: "省份 / 地区", value: state.libraryProvince, subPage: "province" })}
-        <p class="filter-hint">道地药材体系按产区归类中药材；民族风味按饮食条目标签筛选，含义不同。</p>
+      </div>
+      <div class="filter-subsection">
+        <div class="filter-label">中国省份</div>
+        <div class="filter-group filter-province-grid">
+          ${chip("全部", "全部", "data-library-province", state.libraryProvince === "全部", compact)}
+          ${PROVINCES_IN_CATALOG.map((province) => chip(province, province, "data-library-province", state.libraryProvince === province, compact)).join("")}
+        </div>
       </div>
       ${ETHNICS_IN_CATALOG.length ? `
       <div class="filter-subsection">
         <div class="filter-label">民族风味</div>
-        <div class="filter-group filter-group-scroll quick-filter-row">
+        <div class="filter-group filter-group-wrap">
           ${chip("全部", "全部", "data-library-ethnic", state.libraryEthnic === "全部", compact)}
-          ${quickEthnics.map((ethnic) => chip(ethnic, ethnic, "data-library-ethnic", state.libraryEthnic === ethnic, compact)).join("")}
+          ${ETHNICS_IN_CATALOG.map((ethnic) => chip(ethnic, ethnic, "data-library-ethnic", state.libraryEthnic === ethnic, compact)).join("")}
         </div>
-        ${renderFilterDrillButton({ label: "全部民族", value: state.libraryEthnic, subPage: "ethnic" })}
+        <p class="filter-hint">按饮食条目标签筛选；与道地药材体系含义不同。</p>
       </div>
       ` : ""}
     </section>
@@ -3731,10 +3643,14 @@ function renderHomeV2() {
     : [];
   const natureTiles = ["寒", "凉", "平", "温", "热"]
     .map((nature) => {
-      const stampClass = NATURE_STAMP_CLASS[nature];
+      const meta = NATURE_META[nature];
       return `
-        <button class="nature-stamp-tile" data-library-nature-link="${nature}">
-          <span class="nature-stamp nature-stamp--tile ${stampClass}">${nature}</span>
+        <button
+          class="nature-tile"
+          data-library-nature-link="${nature}"
+          style="--tone:${meta.tone};--tone-pale:${meta.pale}"
+        >
+          <strong>${nature}</strong>
           <small>${NATURE_COUNTS[nature] || 0}种</small>
         </button>
       `;
@@ -3772,10 +3688,10 @@ function renderHomeV2() {
 
     <section class="home-section">
       <h2 class="section-title">按传统食性浏览</h2>
-      <p class="section-copy">点选食性印章，进入食材库查看。</p>
+      <p class="section-copy">点选食性，直接进入食材库查看。</p>
     </section>
 
-    <section class="nature-stamp-grid">${natureTiles}</section>
+    <section class="nature-grid">${natureTiles}</section>
 
     <section class="home-section">
       <h2 class="section-title">专题与产地</h2>

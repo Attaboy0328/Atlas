@@ -254,33 +254,48 @@ button {
   display: grid;
   place-items: center;
   align-content: center;
-  gap: 3px;
+  gap: 2px;
   color: #727c76;
   font-size: 11px;
   letter-spacing: 0.02em;
   border-radius: 16px;
-  transition: transform 120ms cubic-bezier(0.2, 0.8, 0.2, 1), color 240ms ease;
-  will-change: transform;
+  transition: color 220ms ease;
 }
 
 .nav-icon-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.nav-icon-slot {
   position: relative;
-  width: 28px;
-  height: 28px;
+  width: 24px;
+  height: 24px;
   display: grid;
   place-items: center;
 }
 
 .nav-icon {
+  position: absolute;
   width: 22px;
   height: 22px;
-  transition: color 220ms ease, transform 220ms var(--ease-ios);
+  transition: opacity 200ms ease, color 200ms ease;
+}
+
+.nav-icon-outline {
+  opacity: 0.42;
+}
+
+.nav-icon-filled {
+  opacity: 0;
 }
 
 .nav-badge {
   position: absolute;
-  top: -4px;
-  right: -8px;
+  top: -5px;
+  right: -9px;
   min-width: 16px;
   height: 16px;
   padding: 0 4px;
@@ -292,18 +307,21 @@ button {
   line-height: 16px;
   text-align: center;
   box-shadow: 0 2px 6px rgba(169, 74, 56, 0.35);
+  z-index: 1;
 }
 
-.nav-indicator {
-  position: absolute;
-  top: 8px;
-  left: 0;
-  height: 32px;
-  border-radius: 14px;
-  background: color-mix(in srgb, var(--green-pale) 72%, white);
-  transition: transform 320ms var(--ease-ios), width 320ms var(--ease-ios);
-  pointer-events: none;
-  z-index: -1;
+.nav-dot {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--green-deep);
+  opacity: 0;
+  transform: scale(0.4);
+  transition: opacity 200ms var(--ease-ios), transform 200ms var(--ease-ios);
+}
+
+.nav-label {
+  line-height: 1.2;
 }
 
 .nav-button.active {
@@ -311,9 +329,18 @@ button {
   font-weight: 600;
 }
 
-.nav-button.active .nav-icon {
+.nav-button.active .nav-icon-outline {
+  opacity: 0;
+}
+
+.nav-button.active .nav-icon-filled {
+  opacity: 1;
   color: var(--green-deep);
-  transform: translateY(-1px);
+}
+
+.nav-button.active .nav-dot {
+  opacity: 1;
+  transform: scale(1);
 }
 
 @keyframes ios-nav-bounce {
@@ -754,7 +781,11 @@ button {
 
 .essential-tile:active,
 .tea-class-tile:active,
-.nature-tile:active,
+.nature-tile:active {
+  transform: none;
+  filter: brightness(0.97);
+}
+
 .qi-term-tile:active {
   transform: scale(0.98) translateY(1px);
 }
