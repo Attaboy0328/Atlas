@@ -73,8 +73,7 @@ const QI_TERMS_HOME = ["行气", "理气", "破气", "降气"];
 const HOME_LIBRARY_SHORTCUTS = [
   { label: "药食同源", kind: "food-medicine", tone: "#8a7340", pale: "#f3ecda", hint: "国家目录可追溯条目" },
   { label: "地理标志", cert: "地理标志", tone: "#4a6a8a", pale: "#e5edf5", hint: "GI · 公开登记名录" },
-  { label: "道地产区", cert: "道地", tone: "#6b5b8a", pale: "#ece8f2", hint: "药材志道地整理" },
-  { label: "中药材", kind: "tcm-herb", tone: "#7a4a4a", pale: "#f3e8e8", hint: "药典2025参考查阅" }
+  { label: "道地产区", cert: "道地", tone: "#6b5b8a", pale: "#ece8f2", hint: "药材志道地整理" }
 ];
 
 const FOOD_SEARCH_NEAR_HINTS = [

@@ -3625,6 +3625,33 @@ button {
   padding-bottom: 0;
 }
 
+.home-topic-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  overflow-x: visible;
+  margin-top: 8px;
+  padding-bottom: 0;
+}
+
+.home-topic-row .scenario-card {
+  flex: unset;
+  min-width: 0;
+  max-width: none;
+  width: 100%;
+  padding: 10px 8px 9px 10px;
+  gap: 3px;
+}
+
+.home-topic-row .scenario-card strong {
+  font-size: 12px;
+}
+
+.home-topic-row .scenario-card span {
+  font-size: 10px;
+  line-height: 1.35;
+}
+
 .checker-scenario-row .scenario-card {
   flex: unset;
   min-width: 0;
