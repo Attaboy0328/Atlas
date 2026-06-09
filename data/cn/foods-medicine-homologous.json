@@ -58,6 +58,8 @@
     "nature": "温",
     "effects": ["温补", "润肠"],
     "regions": ["CN", "US"],
+    "aliases": ["核桃", "胡桃"],
+    "searchTerms": ["hetao", "ht", "walnut", "核桃", "胡桃", "核桃仁"],
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",

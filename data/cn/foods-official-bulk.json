@@ -361,12 +361,26 @@
   {
     "id": "official-almond",
     "name": "杏仁",
+    "en": "almond",
     "nature": "温",
     "effects": [
       "降气",
       "润燥"
     ],
-    "hiddenFromLibrary": true
+    "aliases": [
+      "扁桃",
+      "甜杏仁"
+    ],
+    "searchTerms": [
+      "xingren",
+      "xr",
+      "biantao",
+      "bt",
+      "almond",
+      "杏仁",
+      "扁桃",
+      "甜杏仁"
+    ]
   },
   {
     "id": "official-pine-nut",

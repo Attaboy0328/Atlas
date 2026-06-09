@@ -34,7 +34,7 @@ function buildFood(id, name, nature, category, aliases, effects, regions, extra 
   return {
     id,
     name,
-    en: aliases.find((alias) => /[a-z]/i.test(alias)) || name,
+    en: extra.en || aliases.find((alias) => /[a-z]/i.test(alias)) || "",
     jp: "",
     kr: "",
     aliases,
@@ -67,21 +67,32 @@ function buildFood(id, name, nature, category, aliases, effects, regions, extra 
     faNote: extra.faNote || "",
     regulatoryNote: extra.regulatoryNote || "",
     sources: extra.sources || [],
-    safetyNote: extra.safetyNote || ""
+    safetyNote: extra.safetyNote || "",
+    ...(extra.usageScope ? { usageScope: extra.usageScope } : {}),
+    ...(extra.hiddenFromLibrary ? { hiddenFromLibrary: true } : {})
   };
 }
 
 function mapRegionalEntry(item) {
   const category = CATEGORY_MAP[item.category] || item.category;
+  const extra = {
+    ...(item.extra || {}),
+    ...(item.en ? { en: item.en } : {}),
+    ...(item.searchTerms ? { searchTerms: item.searchTerms } : {}),
+    ...(item.summary ? { summary: item.summary } : {}),
+    ...(item.caution ? { caution: item.caution } : {}),
+    ...(item.usageScope ? { usageScope: item.usageScope } : {}),
+    ...(item.hiddenFromLibrary ? { hiddenFromLibrary: true } : {})
+  };
   return buildFood(
     item.id,
     item.name,
     item.nature,
     category,
-    item.aliases,
+    item.aliases || [item.name],
     item.effects,
     item.regions,
-    item.extra || {}
+    extra
   );
 }
 
@@ -91,13 +102,16 @@ function mapOfficialBulk(item) {
     item.name,
     item.nature,
     CATEGORY_MAP.CAT_OFFICIAL,
-    [item.name],
+    item.aliases || [item.name],
     item.effects,
     ["CN"],
     {
       officialFoodMedicine: true,
       officialBatch: item.officialBatch || "2025",
-      confidence: item.confidence || "药食同源目录补回条目"
+      confidence: item.confidence || "药食同源目录补回条目",
+      en: item.en || "",
+      searchTerms: item.searchTerms || [],
+      ...(item.hiddenFromLibrary ? { hiddenFromLibrary: true } : {})
     }
   );
 }
@@ -109,11 +123,13 @@ function mapExtraBulk(item) {
     item.name,
     item.nature,
     category,
-    [item.name],
+    item.aliases || [item.name],
     item.effects || ["日常食养"],
     item.regions || ["CN"],
     {
-      confidence: item.confidence || "中国地方食材与常见食物扩充条目"
+      confidence: item.confidence || "中国地方食材与常见食物扩充条目",
+      en: item.en || "",
+      searchTerms: item.searchTerms || []
     }
   );
 }
@@ -122,12 +138,14 @@ const regional = readCnJson("foods-regional-push.json", []);
 const official = readCnJson("foods-official-bulk.json", []);
 const extra = readCnJson("foods-extra-bulk.json", []);
 const tail = readCnJson("foods-search-supplement.json", []);
+const batch3 = readCnJson("foods-search-supplement-batch3.json", []);
 
 const bulk = [
   ...regional.map(mapRegionalEntry),
   ...official.map(mapOfficialBulk),
   ...extra.map(mapExtraBulk),
-  ...tail.map(mapRegionalEntry)
+  ...tail.map(mapRegionalEntry),
+  ...batch3.map(mapRegionalEntry)
 ];
 
 fs.mkdirSync(genDir, { recursive: true });
@@ -137,5 +155,5 @@ fs.writeFileSync(
   "utf8"
 );
 
-console.log(`Expanded bulk foods: ${bulk.length} (regional ${regional.length}, official ${official.length}, extra ${extra.length}, tail ${tail.length})`);
+console.log(`Expanded bulk foods: ${bulk.length} (regional ${regional.length}, official ${official.length}, extra ${extra.length}, tail ${tail.length}, batch3 ${batch3.length})`);
 console.log("Output: generated/foods-expanded-bulk.js");

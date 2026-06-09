@@ -225,8 +225,20 @@ const enhancedBulk = rawBulk
   .map((item) => enhanceBulkRecipe(item, catalog, publishedNames, aliasMap))
   .filter(Boolean);
 
+function buildFoodSearchSynonymMap() {
+  const rows = readJson("food-search-synonyms.json", []);
+  const map = {};
+  rows.forEach((row) => {
+    const term = String(row.term || "").trim().toLowerCase();
+    const foodId = String(row.foodId || "").trim();
+    if (term && foodId) map[term] = foodId;
+  });
+  return map;
+}
+
 fs.mkdirSync(genDir, { recursive: true });
 writeJsAliasBundle(aliasMap);
+writeJs(path.join(genDir, "food-search-synonyms.js"), "FOOD_SEARCH_SYNONYMS", buildFoodSearchSynonymMap());
 writeJs(path.join(genDir, "foods-cn-bundle.js"), "CN_SUPPLEMENT_FOODS", cnFoods);
 writeJs(path.join(genDir, "recipes-bulk.js"), "BULK_RECIPES_ENHANCED", enhancedBulk);
 function loadPairingRulesAll() {
@@ -253,4 +265,5 @@ console.log(`CN foods: ${cnFoods.length} (pairing + regional + batch4 + ingredie
 console.log(`Bulk recipes enhanced & published: ${enhancedBulk.length} / ${rawBulk.length}`);
 console.log(`Food id aliases: ${Object.keys(aliasMap).length}`);
 console.log(`Food-medicine catalog: ${catalogManifest.length} entries`);
-console.log(`Output: generated/foods-cn-bundle.js, generated/recipes-bulk.js, generated/pairing-rules-extra.js, generated/food-id-aliases.js, generated/food-medicine-catalog.js`);
+console.log(`Food search synonyms: ${Object.keys(buildFoodSearchSynonymMap()).length}`);
+console.log(`Output: generated/foods-cn-bundle.js, generated/recipes-bulk.js, generated/pairing-rules-extra.js, generated/food-id-aliases.js, generated/food-search-synonyms.js, generated/food-medicine-catalog.js`);

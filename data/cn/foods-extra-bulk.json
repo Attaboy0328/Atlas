@@ -1499,10 +1499,21 @@
   {
     "id": "cat-bean-164",
     "name": "小扁豆",
+    "en": "lentil",
     "category": "CAT_BEAN",
     "nature": "平",
     "regions": [
       "CN"
+    ],
+    "aliases": [
+      "红小扁豆",
+      "绿小扁豆"
+    ],
+    "searchTerms": [
+      "xiaobiandou",
+      "xbd",
+      "lentil",
+      "小扁豆"
     ]
   },
   {

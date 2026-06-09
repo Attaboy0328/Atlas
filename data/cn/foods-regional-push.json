@@ -305,11 +305,12 @@
   {
     "id": "pigeon",
     "name": "乳鸽",
+    "en": "young pigeon",
     "nature": "温",
     "category": "肉蛋奶",
     "aliases": [
       "鸽子",
-      "young pigeon"
+      "烧乳鸽"
     ],
     "effects": [
       "补益"
@@ -323,7 +324,11 @@
       "searchTerms": [
         "ruge",
         "rg",
-        "gezi"
+        "gezi",
+        "gz",
+        "乳鸽",
+        "鸽子",
+        "young pigeon"
       ],
       "confidence": "中国地方肉类扩充条目"
     }

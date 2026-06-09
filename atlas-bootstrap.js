@@ -71,6 +71,7 @@
     "generated/foods-expanded-bulk.js",
     "generated/foods-cn-bundle.js",
     "generated/food-id-aliases.js",
+    "generated/food-search-synonyms.js",
     "generated/pairing-rules-extra.js",
     "generated/handcrafted-recipes.js",
     "generated/origin-products.js",

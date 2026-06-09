@@ -93,7 +93,21 @@ const FOOD_SEARCH_NEAR_HINTS = [
   { terms: ["濑尿虾", "皮皮虾", "虾蛄"], ids: ["mantis-shrimp"] },
   { terms: ["鲮鱼", "鲮鱼饼", "lingyu"], ids: ["mud-carp"] },
   { terms: ["田鸡", "牛蛙", "tianji"], ids: ["frog"] },
-  { terms: ["跳跳鱼", "弹涂鱼"], ids: ["mudskipper"] }
+  { terms: ["跳跳鱼", "弹涂鱼"], ids: ["mudskipper"] },
+  { terms: ["核桃", "hetao", "ht"], ids: ["walnut"] },
+  { terms: ["番瓜", "fangua"], ids: ["pumpkin"] },
+  { terms: ["白贝", "baibei"], ids: ["clam"] },
+  { terms: ["扁桃", "biantao"], ids: ["official-almond"] },
+  { terms: ["乳鸽", "鸽子", "ruge", "gezi"], ids: ["pigeon"] },
+  { terms: ["沙棘", "沙棘果", "沙棘汁", "shaji", "sj"], ids: ["official-sea-buckthorn", "sea-buckthorn-fruit", "seabuckthorn-juice", "hippophae-fruit"] },
+  { terms: ["小扁豆", "xiaobiandou"], ids: ["cat-bean-164"] },
+  { terms: ["刺梨", "cili"], ids: ["prickly-pear-fruit"] },
+  { terms: ["蜜饯", "mijian"], ids: ["preserved-fruit"] },
+  { terms: ["奇亚籽", "chia", "jiyazi"], ids: ["chia-seed"] },
+  { terms: ["瓜子", "葵瓜子", "葵花籽", "guazi", "kuihuazi"], ids: ["sunflower-seed"] },
+  { terms: ["西瓜子", "xiguazi"], ids: ["watermelon-seed"] },
+  { terms: ["竹鼠", "zhushu"], ids: ["bamboo-rat"] },
+  { terms: ["田鼠", "tianshu"], ids: ["field-mouse"] }
 ];
 
 const DAO_DI_SYSTEM_COLORS = {
@@ -1173,6 +1187,65 @@ const FOOD_CATEGORY_ALIASES = {
   果类: "水果"
 };
 
+const FOOD_ENGLISH_SUBTITLE_REGIONS = new Set(["US", "UK", "JP", "KR", "TH", "MY", "SG", "AU", "NZ", "AR", "FR", "IT", "ES", "MX", "IN"]);
+
+let FOOD_SEARCH_SYNONYM_MAP = new Map();
+
+function isLatinText(value) {
+  return /[a-z]/i.test(cleanString(value));
+}
+
+function isChineseText(value) {
+  return /[\u4e00-\u9fff]/.test(cleanString(value));
+}
+
+function buildDisplayAliases(food, rawAliases = []) {
+  const name = cleanString(food.name);
+  return uniq(
+    rawAliases
+      .map(cleanString)
+      .filter((item) => item && isChineseText(item) && item !== name)
+  );
+}
+
+function shouldShowEnglishLabel(food) {
+  const en = cleanString(food.en);
+  if (!en || !isLatinText(en)) return false;
+  if (en.toLowerCase() === cleanString(food.name).toLowerCase()) return false;
+  if (food.officialFoodMedicine && isChineseText(food.name)) return false;
+  if (food.itemKind === "tcm-herb" || food.category === "中药材") return false;
+  if ((food.regions || []).some((region) => FOOD_ENGLISH_SUBTITLE_REGIONS.has(region))) return true;
+  return ["海产", "水果", "坚果种子", "肉蛋奶", "茶饮", "饮品"].includes(food.category);
+}
+
+function formatFoodSubtitle(food) {
+  return [food.category, food.teaClass, shouldShowEnglishLabel(food) ? food.en : ""].filter(Boolean).join(" · ");
+}
+
+function rebuildFoodSearchSynonymMap() {
+  FOOD_SEARCH_SYNONYM_MAP = new Map();
+  if (typeof FOOD_SEARCH_SYNONYMS === "undefined") return;
+  Object.entries(FOOD_SEARCH_SYNONYMS).forEach(([term, id]) => {
+    const key = cleanString(term).toLowerCase();
+    const canonical = resolveFoodId(cleanString(id));
+    if (key && canonical) FOOD_SEARCH_SYNONYM_MAP.set(key, canonical);
+  });
+}
+
+function resolveSearchSynonymIds(term) {
+  const key = cleanString(term).toLowerCase();
+  if (!key) return [];
+  const id = FOOD_SEARCH_SYNONYM_MAP.get(key);
+  return id ? [id] : [];
+}
+
+function foodsForSearchSynonym(term, excludeIds = []) {
+  const exclude = new Set((excludeIds || []).map((id) => resolveFoodId(id)));
+  return resolveSearchSynonymIds(term)
+    .map((id) => foodMap.get(id))
+    .filter((food) => food && isFoodSearchVisible(food) && !exclude.has(food.id));
+}
+
 function resolveFoodId(id) {
   if (typeof FOOD_ID_ALIASES !== "undefined" && FOOD_ID_ALIASES[id]) {
     return FOOD_ID_ALIASES[id];
@@ -1723,6 +1796,7 @@ function rebuildAppIndexes() {
     foods.flatMap((food) => food.regions.map((region) => ({ region }))),
     (item) => item.region
   );
+  rebuildFoodSearchSynonymMap();
   libraryCatalog = foods.filter((food) => !food.hiddenFromLibrary);
   PROVINCE_COUNTS = collectTagCounts(libraryCatalog, "provinces");
   ETHNIC_COUNTS = collectTagCounts(libraryCatalog, "ethnicGroups");
@@ -2406,16 +2480,28 @@ function normalizeFoods(items) {
           ...(indexEntry.english || [])
         ]
       : [];
-    const aliases = uniq([...(food.aliases || []), food.en, food.jp, food.kr, ...(indexEntry?.aliases || []), ...(indexEntry?.regional || []), ...(indexEntry?.english || [])].filter(Boolean));
+    const rawAliases = uniq([
+      ...(food.aliases || []),
+      ...(indexEntry?.aliases || []),
+      ...(indexEntry?.regional || [])
+    ].map(cleanString).filter(Boolean));
+    const displayAliases = buildDisplayAliases(food, rawAliases);
     const searchTerms = uniq([
       food.name,
-      ...aliases,
+      ...displayAliases,
+      ...rawAliases.filter((item) => isLatinText(item)),
+      food.en,
+      food.jp,
+      food.kr,
+      food.pinyin,
+      food.initials,
       ...indexTerms,
+      ...(indexEntry?.english || []),
       ...(food.searchTerms || []),
       ...(food.effects || []),
       ...(food.qiTerms || []),
       ...(EXTRA_SHORTCUTS[food.name] || [])
-    ]).map(cleanString);
+    ].map(cleanString).filter(Boolean));
 
     return {
       ...food,
@@ -2445,7 +2531,8 @@ function normalizeFoods(items) {
       meridians: uniq((food.meridians || []).map(cleanString).filter(Boolean)),
       relatedForms: uniq((food.relatedForms || []).map(cleanString).filter(Boolean)),
       sources: Array.isArray(food.sources) ? food.sources : [],
-      aliases,
+      aliases: displayAliases,
+      displayAliases,
       ...regionParts,
       effects: uniq((food.effects || []).map(cleanString).filter(Boolean)),
       benefits: uniq([...(food.benefits || []), ...(enrichment.benefits || [])].map(cleanString).filter(Boolean)),
@@ -4815,6 +4902,14 @@ function suggestNearFoodMatches(query, excludeIds = []) {
   const hits = [];
   const seen = new Set();
 
+  foodsForSearchSynonym(term, excludeIds).forEach((food) => {
+    const resolved = resolveFoodId(food.id);
+    if (!seen.has(resolved)) {
+      seen.add(resolved);
+      hits.push(food);
+    }
+  });
+
   FOOD_SEARCH_NEAR_HINTS.forEach((hint) => {
     if (!hint.terms.some((item) => {
       const normalized = cleanString(item).toLowerCase();
@@ -4856,6 +4951,10 @@ function searchFoods(query, options = {}) {
 
   if (term) {
     items = items.filter((food) => food.searchBlob.includes(term));
+    const synonymHits = foodsForSearchSynonym(term, excludeIds);
+    synonymHits.forEach((food) => {
+      if (!items.some((item) => item.id === food.id)) items.push(food);
+    });
   }
 
   items.sort((a, b) => scoreFood(b, term) - scoreFood(a, term) || a.name.localeCompare(b.name, "zh-CN"));
@@ -5455,6 +5554,8 @@ function handleHomeSearchSubmit() {
 
 function findExactFoodMatch(items, term) {
   const normalized = term.toLowerCase();
+  const synonymHits = foodsForSearchSynonym(normalized);
+  if (synonymHits.length === 1) return synonymHits[0];
   return items.find((food) => {
     if (food.name.toLowerCase() === normalized) return true;
     if (food.aliases.some((alias) => alias.toLowerCase() === normalized)) return true;
@@ -5735,7 +5836,7 @@ function renderFoodDetail(food) {
         <div class="nature-seal" style="background:${(NATURE_META[food.nature] || NATURE_META.复合).pale};color:${(NATURE_META[food.nature] || NATURE_META.复合).tone}">${food.nature}</div>
         <div class="sheet-hero-heading">
           <h2 class="sheet-title">${food.name}</h2>
-          <p class="sheet-subtitle">${[food.category, food.teaClass, food.en].filter(Boolean).join(" · ")}</p>
+          <p class="sheet-subtitle">${formatFoodSubtitle(food)}</p>
         </div>
         ${renderSheetFavoriteButton({
           kind: "food",

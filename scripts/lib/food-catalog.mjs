@@ -26,7 +26,8 @@ export const EXPANDED_BULK_JSON_SOURCES = [
   "foods-regional-push.json",
   "foods-search-supplement.json",
   "foods-regional-push-batch2.json",
-  "foods-search-supplement-batch2.json"
+  "foods-search-supplement-batch2.json",
+  "foods-search-supplement-batch3.json"
 ];
 
 export function readCnJson(name, fallback = []) {

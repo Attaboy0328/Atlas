@@ -3442,6 +3442,18 @@
       "CN",
       "US"
     ],
+    "aliases": [
+      "核桃",
+      "胡桃"
+    ],
+    "searchTerms": [
+      "hetao",
+      "ht",
+      "walnut",
+      "核桃",
+      "胡桃",
+      "核桃仁"
+    ],
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
@@ -7304,16 +7316,20 @@
       "云南"
     ],
     "aliases": [
-      "倭瓜"
+      "倭瓜",
+      "番瓜"
     ],
     "pinyin": "nangua",
     "initials": "ng",
     "searchTerms": [
       "nangua",
       "ng",
+      "fangua",
+      "fg",
       "pumpkin",
       "南瓜",
-      "倭瓜"
+      "倭瓜",
+      "番瓜"
     ],
     "summary": "南瓜，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"

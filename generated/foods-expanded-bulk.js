@@ -176,7 +176,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "crucian-carp",
@@ -607,7 +608,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "pigeon",
@@ -617,7 +619,7 @@ const EXPANDED_FOODS_BULK = [
     "kr": "",
     "aliases": [
       "鸽子",
-      "young pigeon"
+      "烧乳鸽"
     ],
     "effects": [
       "补益"
@@ -649,7 +651,11 @@ const EXPANDED_FOODS_BULK = [
     "searchTerms": [
       "ruge",
       "rg",
-      "gezi"
+      "gezi",
+      "gz",
+      "乳鸽",
+      "鸽子",
+      "young pigeon"
     ],
     "alone": "",
     "timing": "",
@@ -1553,7 +1559,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "sour-bamboo-shoot",
     "name": "酸笋",
-    "en": "酸笋",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -1603,7 +1609,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hami-melon",
@@ -1933,7 +1940,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "wild-pepper-leaf",
     "name": "木姜叶",
-    "en": "木姜叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -1992,7 +1999,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "red-sour-soup",
     "name": "红酸汤",
-    "en": "红酸汤",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -2052,7 +2059,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "ciba-pepper",
     "name": "糍粑辣椒",
-    "en": "糍粑辣椒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -2108,7 +2115,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "zhacai",
     "name": "榨菜",
-    "en": "榨菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -2162,7 +2169,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "yibin-yacai",
     "name": "芽菜",
-    "en": "芽菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -2219,7 +2226,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "pickled-chili",
     "name": "泡椒",
-    "en": "泡椒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -2276,7 +2283,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "caixin",
     "name": "菜心",
-    "en": "菜心",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -2325,7 +2332,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "watercress",
@@ -2385,7 +2393,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "wolfberry-leaf",
     "name": "枸杞叶",
-    "en": "枸杞叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -2435,12 +2443,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "wuzhi-maotao",
     "name": "五指毛桃",
-    "en": "五指毛桃",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -2498,7 +2507,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "tufuling",
     "name": "土茯苓",
-    "en": "土茯苓",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -2554,7 +2563,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "sand-ginger",
     "name": "沙姜",
-    "en": "沙姜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -2787,7 +2796,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "mud-snail",
     "name": "泥螺",
-    "en": "泥螺",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -2843,7 +2852,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "river-shrimp",
     "name": "河虾",
-    "en": "河虾",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -2897,7 +2906,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "knife-fish",
     "name": "刀鱼",
-    "en": "刀鱼",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -2952,7 +2961,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "malantou",
     "name": "马兰头",
-    "en": "马兰头",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3113,7 +3122,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "red-yeast-rice",
     "name": "红糟",
-    "en": "红糟",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3226,7 +3235,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "po-bu-zi",
     "name": "破布子",
-    "en": "破布子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3283,7 +3292,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "yam-bean",
     "name": "沙葛",
-    "en": "沙葛",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3390,7 +3399,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "yuanmo",
     "name": "元蘑",
-    "en": "元蘑",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3441,7 +3450,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "pine-nut-kernel",
     "name": "松子仁",
-    "en": "松子仁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3488,12 +3497,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sour-cabbage",
     "name": "酸菜",
-    "en": "酸菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3550,7 +3560,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "sea-buckthorn-fruit",
     "name": "沙棘果",
-    "en": "沙棘果",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3603,7 +3613,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "seabuckthorn-juice",
     "name": "沙棘汁",
-    "en": "沙棘汁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3709,7 +3719,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "buckwheat-noodle",
     "name": "荞面",
-    "en": "荞面",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3763,7 +3773,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "sorghum-rice",
     "name": "高粱米",
-    "en": "高粱米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3816,7 +3826,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "millet-noodle",
     "name": "糜子",
-    "en": "糜子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3865,12 +3875,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "daylily",
     "name": "黄花菜",
-    "en": "黄花菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3924,7 +3935,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "wood-ginger-oil",
     "name": "木姜油",
-    "en": "木姜油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -3982,7 +3993,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "green-sour-soup",
     "name": "白酸汤",
-    "en": "白酸汤",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4039,7 +4050,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "miao-dipping-water",
     "name": "蘸水",
-    "en": "蘸水",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4100,7 +4111,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "thorn-vine-pepper",
     "name": "刺芫荽",
-    "en": "刺芫荽",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4159,7 +4170,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "water-fern",
     "name": "水蕨菜",
-    "en": "水蕨菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4213,7 +4224,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "fiddlehead",
     "name": "蕨菜尖",
-    "en": "蕨菜尖",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4267,7 +4278,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "larou",
     "name": "腊肉",
-    "en": "腊肉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4323,12 +4334,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "lapork-ribs",
     "name": "腊排骨",
-    "en": "腊排骨",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4384,7 +4396,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "la-bean-curd",
     "name": "腊豆腐",
-    "en": "腊豆腐",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4440,7 +4452,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "mesona",
     "name": "凉粉草",
-    "en": "凉粉草",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4496,7 +4508,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "kapok-flower",
     "name": "木棉花",
-    "en": "木棉花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4549,7 +4561,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "chikung-tea-herb",
     "name": "鸡骨草",
-    "en": "鸡骨草",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4602,7 +4614,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "selfheal-spike",
     "name": "夏枯草",
-    "en": "夏枯草",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4656,7 +4668,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "patchouli",
     "name": "藿香",
-    "en": "藿香",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4710,7 +4722,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "wormgrass-flower",
     "name": "虫草花",
-    "en": "虫草花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4758,12 +4770,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "dried-scallop",
     "name": "瑶柱",
-    "en": "瑶柱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4821,7 +4834,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "dried-oyster",
     "name": "蚝豉",
-    "en": "蚝豉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4876,7 +4889,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "water-spinach-stem",
     "name": "通菜梗",
-    "en": "通菜梗",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4929,7 +4942,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "mustard-tuber",
     "name": "大头菜",
-    "en": "大头菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -4987,7 +5000,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "taro-stem",
     "name": "芋荷梗",
-    "en": "芋荷梗",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5041,7 +5054,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "eel",
     "name": "鳝鱼",
-    "en": "鳝鱼",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5097,7 +5110,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "river-eel",
     "name": "鳗鱼",
-    "en": "鳗鱼",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5155,7 +5168,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "pomfret",
     "name": "鲳鱼",
-    "en": "鲳鱼",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5213,7 +5226,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "hairtail",
     "name": "带鱼",
-    "en": "带鱼",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5269,7 +5282,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "seaweed-greens",
     "name": "海白菜",
-    "en": "海白菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5322,7 +5335,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "laver",
     "name": "紫菜",
-    "en": "紫菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5378,7 +5391,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "fennel-shoot",
     "name": "茴香苗",
-    "en": "茴香苗",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5431,7 +5444,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "wild-rice-stem",
     "name": "茨菇",
-    "en": "茨菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5484,7 +5497,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "bergamot-fruit",
     "name": "香橼",
-    "en": "香橼",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5537,7 +5550,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "fermented-rice-wine",
     "name": "酒酿",
-    "en": "酒酿",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5593,7 +5606,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "muscovy-duck",
     "name": "番鸭",
-    "en": "番鸭",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5647,7 +5660,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "yam-leaf",
     "name": "山药豆",
-    "en": "山药豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5701,7 +5714,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cattail-pollen",
     "name": "蒲黄",
-    "en": "蒲黄",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5754,7 +5767,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "lily-root",
     "name": "百合根",
-    "en": "百合根",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5807,7 +5820,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "sea-buckthorn-leaf",
     "name": "沙棘叶",
-    "en": "沙棘叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5859,7 +5872,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "wild-onion",
     "name": "沙葱",
-    "en": "沙葱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5915,7 +5928,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "yellow-millet",
     "name": "黄米",
-    "en": "黄米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -5969,7 +5982,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "millet-paste",
     "name": "炒米",
-    "en": "炒米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6024,7 +6037,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "blood-sausage",
     "name": "血肠",
-    "en": "血肠",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6078,7 +6091,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "venison",
     "name": "鹿肉",
-    "en": "鹿肉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6132,7 +6145,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "hazelnut",
     "name": "榛子",
-    "en": "榛子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6185,7 +6198,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "goblet-mushroom",
     "name": "猴头蘑",
-    "en": "猴头蘑",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6237,7 +6250,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "fern-root-starch",
     "name": "厥麻",
-    "en": "厥麻",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6293,7 +6306,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "goat-milk",
     "name": "羊奶",
-    "en": "羊奶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6347,7 +6360,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-ginseng",
     "name": "人参",
-    "en": "人参",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6390,12 +6403,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-american-ginseng",
     "name": "西洋参",
-    "en": "西洋参",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6438,12 +6452,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-licorice",
     "name": "甘草",
-    "en": "甘草",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6486,12 +6501,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-dried-ginger",
     "name": "干姜",
-    "en": "干姜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6534,12 +6550,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-cinnamon",
     "name": "肉桂",
-    "en": "肉桂",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6582,12 +6599,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-fennel",
     "name": "小茴香",
-    "en": "小茴香",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6635,7 +6653,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-cardamom",
     "name": "白豆蔻",
-    "en": "白豆蔻",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6678,12 +6696,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-amomum",
     "name": "砂仁",
-    "en": "砂仁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6726,12 +6745,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-clove",
     "name": "丁香",
-    "en": "丁香",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6774,12 +6794,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-nutmeg",
     "name": "肉豆蔻",
-    "en": "肉豆蔻",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6822,12 +6843,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-gardenia",
     "name": "栀子",
-    "en": "栀子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6870,12 +6892,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-cassia-seed",
     "name": "决明子",
-    "en": "决明子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6918,12 +6941,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-honeysuckle",
     "name": "金银花",
-    "en": "金银花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -6971,7 +6995,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-dandelion",
     "name": "蒲公英",
-    "en": "蒲公英",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7019,7 +7043,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-houttuynia",
     "name": "鱼腥草",
-    "en": "鱼腥草",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7067,7 +7091,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-reed-rhizome",
     "name": "芦根",
-    "en": "芦根",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7110,12 +7134,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-lotus-leaf",
     "name": "荷叶",
-    "en": "荷叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7163,7 +7188,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-mulberry-leaf",
     "name": "桑叶",
-    "en": "桑叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7211,7 +7236,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-perilla-leaf",
     "name": "紫苏叶",
-    "en": "紫苏叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7259,7 +7284,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-perilla-seed",
     "name": "紫苏子",
-    "en": "紫苏子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7302,12 +7327,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-plum",
     "name": "乌梅",
-    "en": "乌梅",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7355,7 +7381,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-sea-buckthorn",
     "name": "沙棘",
-    "en": "沙棘",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7398,12 +7424,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-goji-berry",
     "name": "枸杞子",
-    "en": "枸杞子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7451,7 +7478,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-morinda",
     "name": "巴戟天",
-    "en": "巴戟天",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7494,12 +7521,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-euryale",
     "name": "芡实",
-    "en": "芡实",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7542,12 +7570,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-polygoni-odorati",
     "name": "玉竹",
-    "en": "玉竹",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7590,12 +7619,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-dendrobium",
     "name": "石斛",
-    "en": "石斛",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7638,12 +7668,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-olive",
     "name": "橄榄",
-    "en": "橄榄",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7691,7 +7722,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-sour-jujube-seed",
     "name": "酸枣仁",
-    "en": "酸枣仁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7734,12 +7765,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-broomcorn",
     "name": "高良姜",
-    "en": "高良姜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7782,12 +7814,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-cyperus",
     "name": "香附",
-    "en": "香附",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7830,12 +7863,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-angelica",
     "name": "当归",
-    "en": "当归",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7878,12 +7912,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-longan-pulp",
     "name": "桂圆肉",
-    "en": "桂圆肉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7926,12 +7961,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-safflower",
     "name": "红花",
-    "en": "红花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -7974,12 +8010,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-peach-kernel",
     "name": "桃仁",
-    "en": "桃仁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8022,12 +8059,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-black-sesame",
     "name": "黑芝麻",
-    "en": "黑芝麻",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8070,12 +8108,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-walnut",
     "name": "核桃仁",
-    "en": "核桃仁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8123,11 +8162,12 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-almond",
     "name": "杏仁",
-    "en": "杏仁",
+    "en": "almond",
     "jp": "",
     "kr": "",
     "aliases": [
-      "杏仁"
+      "扁桃",
+      "甜杏仁"
     ],
     "effects": [
       "降气",
@@ -8155,7 +8195,16 @@ const EXPANDED_FOODS_BULK = [
     "confidence": "药食同源目录补回条目",
     "teaClass": "",
     "teaNote": "",
-    "searchTerms": [],
+    "searchTerms": [
+      "xingren",
+      "xr",
+      "biantao",
+      "bt",
+      "almond",
+      "杏仁",
+      "扁桃",
+      "甜杏仁"
+    ],
     "alone": "",
     "timing": "",
     "pair": "",
@@ -8171,7 +8220,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-pine-nut",
     "name": "松子仁",
-    "en": "松子仁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8219,7 +8268,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-bitter-almond",
     "name": "苦杏仁",
-    "en": "苦杏仁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8262,12 +8311,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-chinese-olive",
     "name": "青果",
-    "en": "青果",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8310,12 +8360,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-bamboo-leaf",
     "name": "淡竹叶",
-    "en": "淡竹叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8358,12 +8409,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-cordia-fruit",
     "name": "胖大海",
-    "en": "胖大海",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8406,12 +8458,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-lotus-heart",
     "name": "莲子心",
-    "en": "莲子心",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8454,12 +8507,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-gingko",
     "name": "银杏",
-    "en": "银杏",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8507,7 +8561,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-turmeric",
     "name": "姜黄",
-    "en": "姜黄",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8550,12 +8604,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-galanga",
     "name": "良姜",
-    "en": "良姜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8603,7 +8658,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-tsaoko",
     "name": "草果",
-    "en": "草果",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8646,12 +8701,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-kaempferia",
     "name": "山奈",
-    "en": "山奈",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8699,7 +8755,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-lemongrass",
     "name": "香茅",
-    "en": "香茅",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8747,7 +8803,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-citron",
     "name": "香橼",
-    "en": "香橼",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8790,12 +8846,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-medlar-leaf",
     "name": "枸杞叶",
-    "en": "枸杞叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8843,7 +8900,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-mulberry",
     "name": "桑葚",
-    "en": "桑葚",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8886,12 +8943,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-fig",
     "name": "无花果",
-    "en": "无花果",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8934,12 +8992,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-date",
     "name": "大枣",
-    "en": "大枣",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -8982,12 +9041,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-dragon-eye",
     "name": "龙眼肉",
-    "en": "龙眼肉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9030,12 +9090,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-chive-seed",
     "name": "韭菜子",
-    "en": "韭菜子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9078,12 +9139,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-quince",
     "name": "木瓜",
-    "en": "木瓜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9126,12 +9188,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-ophiopogon",
     "name": "麦冬",
-    "en": "麦冬",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9174,12 +9237,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-raspberry",
     "name": "覆盆子",
-    "en": "覆盆子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9222,12 +9286,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-rehmannia",
     "name": "生地黄",
-    "en": "生地黄",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9270,12 +9335,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-solomon-seal",
     "name": "黄精",
-    "en": "黄精",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9318,12 +9384,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-white-peony",
     "name": "白芍",
-    "en": "白芍",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9366,12 +9433,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-imperata-root",
     "name": "白茅根",
-    "en": "白茅根",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9414,12 +9482,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-bupleurum-tip",
     "name": "柴胡苗",
-    "en": "柴胡苗",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9467,7 +9536,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-rose",
     "name": "玫瑰花",
-    "en": "玫瑰花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9510,12 +9579,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-jasmine",
     "name": "茉莉花",
-    "en": "茉莉花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9563,7 +9633,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-osmanthus",
     "name": "桂花",
-    "en": "桂花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9611,7 +9681,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-kudzu",
     "name": "葛根",
-    "en": "葛根",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9654,12 +9724,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-kudzu-flower",
     "name": "葛花",
-    "en": "葛花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9707,7 +9778,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-tangerine-white",
     "name": "橘络",
-    "en": "橘络",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9755,7 +9826,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-tangerine-kernel",
     "name": "橘核",
-    "en": "橘核",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9798,12 +9869,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-orange-blossom",
     "name": "橙花",
-    "en": "橙花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9851,7 +9923,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-burdock-seed",
     "name": "牛蒡子",
-    "en": "牛蒡子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9894,12 +9966,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-sweet-osmanthus",
     "name": "甜桂花",
-    "en": "甜桂花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9947,7 +10020,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-basil-seed",
     "name": "罗勒子",
-    "en": "罗勒子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -9995,7 +10068,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-fragrant-leaf",
     "name": "香叶",
-    "en": "香叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10043,7 +10116,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-lotus-plum",
     "name": "梅子",
-    "en": "梅子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10091,7 +10164,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-sand-ginger",
     "name": "沙姜",
-    "en": "沙姜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10134,12 +10207,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-bellflower",
     "name": "桔梗",
-    "en": "桔梗",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10182,12 +10256,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-caper-spurge",
     "name": "霸王花",
-    "en": "霸王花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10235,7 +10310,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-red-bean",
     "name": "赤小豆",
-    "en": "赤小豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10278,12 +10353,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-foxnut",
     "name": "鸡头米",
-    "en": "鸡头米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10331,7 +10407,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-pear-dry",
     "name": "雪梨干",
-    "en": "雪梨干",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10379,7 +10455,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-loquat-leaf",
     "name": "枇杷叶",
-    "en": "枇杷叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10422,12 +10498,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-perilla-stem",
     "name": "苏梗",
-    "en": "苏梗",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10475,7 +10552,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-fermented-rice",
     "name": "醪糟",
-    "en": "醪糟",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10523,7 +10600,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "official-chinese-barley",
     "name": "大麦",
-    "en": "大麦",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10566,12 +10643,13 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-snow-lotus-fruit",
     "name": "皂角米",
-    "en": "皂角米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10619,7 +10697,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-001",
     "name": "花椒",
-    "en": "花椒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10666,7 +10744,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-002",
     "name": "八角",
-    "en": "八角",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10713,7 +10791,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-003",
     "name": "桂皮",
-    "en": "桂皮",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10760,7 +10838,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-004",
     "name": "白胡椒",
-    "en": "白胡椒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10807,7 +10885,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-005",
     "name": "黑胡椒",
-    "en": "黑胡椒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10854,7 +10932,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-006",
     "name": "辣椒",
-    "en": "辣椒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10901,7 +10979,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-007",
     "name": "干辣椒",
-    "en": "干辣椒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10948,7 +11026,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-008",
     "name": "泡椒",
-    "en": "泡椒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -10995,7 +11073,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-009",
     "name": "豆瓣酱",
-    "en": "豆瓣酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11042,7 +11120,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-010",
     "name": "黄豆酱",
-    "en": "黄豆酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11089,7 +11167,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-011",
     "name": "甜面酱",
-    "en": "甜面酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11136,7 +11214,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-012",
     "name": "芝麻酱",
-    "en": "芝麻酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11183,7 +11261,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-013",
     "name": "花生酱",
-    "en": "花生酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11230,7 +11308,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-014",
     "name": "蒜蓉酱",
-    "en": "蒜蓉酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11277,7 +11355,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-015",
     "name": "虾酱",
-    "en": "虾酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11324,7 +11402,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-016",
     "name": "沙茶酱",
-    "en": "沙茶酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11371,7 +11449,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-017",
     "name": "腐乳",
-    "en": "腐乳",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11418,7 +11496,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-018",
     "name": "韭菜花",
-    "en": "韭菜花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11465,7 +11543,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-019",
     "name": "剁椒",
-    "en": "剁椒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11512,7 +11590,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-020",
     "name": "糟卤",
-    "en": "糟卤",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11559,7 +11637,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-021",
     "name": "料酒",
-    "en": "料酒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11606,7 +11684,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-022",
     "name": "黄酒",
-    "en": "黄酒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11653,7 +11731,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-023",
     "name": "米酒",
-    "en": "米酒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11700,7 +11778,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-024",
     "name": "陈醋",
-    "en": "陈醋",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11747,7 +11825,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-025",
     "name": "香醋",
-    "en": "香醋",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11794,7 +11872,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-026",
     "name": "白醋",
-    "en": "白醋",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11841,7 +11919,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-027",
     "name": "米醋",
-    "en": "米醋",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11888,7 +11966,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-028",
     "name": "酱油",
-    "en": "酱油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11935,7 +12013,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-029",
     "name": "生抽",
-    "en": "生抽",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -11982,7 +12060,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-030",
     "name": "老抽",
-    "en": "老抽",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12029,7 +12107,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-031",
     "name": "蚝油",
-    "en": "蚝油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12076,7 +12154,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-032",
     "name": "鱼露",
-    "en": "鱼露",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12123,7 +12201,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-033",
     "name": "味噌",
-    "en": "味噌",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12170,7 +12248,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-034",
     "name": "芥末",
-    "en": "芥末",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12217,7 +12295,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-035",
     "name": "孜然",
-    "en": "孜然",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12264,7 +12342,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-036",
     "name": "咖喱粉",
-    "en": "咖喱粉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12311,7 +12389,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-037",
     "name": "五香粉",
-    "en": "五香粉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12358,7 +12436,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-038",
     "name": "十三香",
-    "en": "十三香",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12405,7 +12483,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-039",
     "name": "椒盐",
-    "en": "椒盐",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12452,7 +12530,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-040",
     "name": "黑糖",
-    "en": "黑糖",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12499,7 +12577,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-041",
     "name": "冰糖",
-    "en": "冰糖",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12546,7 +12624,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-042",
     "name": "红糖",
-    "en": "红糖",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12593,7 +12671,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-043",
     "name": "蜂蜜",
-    "en": "蜂蜜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12640,7 +12718,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-044",
     "name": "麦芽糖",
-    "en": "麦芽糖",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12687,7 +12765,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-045",
     "name": "枫糖浆",
-    "en": "枫糖浆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12734,7 +12812,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-046",
     "name": "酸梅膏",
-    "en": "酸梅膏",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12781,7 +12859,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-047",
     "name": "花生碎",
-    "en": "花生碎",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12828,7 +12906,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-048",
     "name": "芝麻碎",
-    "en": "芝麻碎",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12875,7 +12953,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-049",
     "name": "葱油",
-    "en": "葱油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12922,7 +13000,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-050",
     "name": "花椒油",
-    "en": "花椒油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -12969,7 +13047,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-051",
     "name": "辣椒油",
-    "en": "辣椒油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13016,7 +13094,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-052",
     "name": "芝麻油",
-    "en": "芝麻油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13063,7 +13141,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-053",
     "name": "菜籽油",
-    "en": "菜籽油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13110,7 +13188,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-054",
     "name": "猪油",
-    "en": "猪油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13157,7 +13235,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-055",
     "name": "牛油",
-    "en": "牛油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13204,7 +13282,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-056",
     "name": "鸡油",
-    "en": "鸡油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13251,7 +13329,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-057",
     "name": "黄油",
-    "en": "黄油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13298,7 +13376,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-058",
     "name": "奶油",
-    "en": "奶油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13345,7 +13423,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-059",
     "name": "炼乳",
-    "en": "炼乳",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13392,7 +13470,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-060",
     "name": "奶酪粉",
-    "en": "奶酪粉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13439,7 +13517,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-061",
     "name": "番茄酱",
-    "en": "番茄酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13486,7 +13564,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-062",
     "name": "蛋黄酱",
-    "en": "蛋黄酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13533,7 +13611,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-063",
     "name": "沙拉酱",
-    "en": "沙拉酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13580,7 +13658,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-064",
     "name": "凯撒酱",
-    "en": "凯撒酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13627,7 +13705,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-065",
     "name": "塔塔酱",
-    "en": "塔塔酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13674,7 +13752,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-066",
     "name": "蒜香黄油",
-    "en": "蒜香黄油",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13721,7 +13799,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-067",
     "name": "松露酱",
-    "en": "松露酱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13768,7 +13846,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-068",
     "name": "香草荚",
-    "en": "香草荚",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13815,7 +13893,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-069",
     "name": "迷迭香",
-    "en": "迷迭香",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13862,7 +13940,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-070",
     "name": "百里香",
-    "en": "百里香",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13909,7 +13987,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-071",
     "name": "鼠尾草",
-    "en": "鼠尾草",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -13956,7 +14034,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-072",
     "name": "牛至",
-    "en": "牛至",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14003,7 +14081,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-073",
     "name": "罗勒",
-    "en": "罗勒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14050,7 +14128,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-074",
     "name": "欧芹",
-    "en": "欧芹",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14097,7 +14175,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-075",
     "name": "月桂叶",
-    "en": "月桂叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14144,7 +14222,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-076",
     "name": "芫荽籽",
-    "en": "芫荽籽",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14191,7 +14269,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-077",
     "name": "葛缕子",
-    "en": "葛缕子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14238,7 +14316,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-078",
     "name": "烟熏红椒粉",
-    "en": "烟熏红椒粉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14285,7 +14363,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-079",
     "name": "芥菜籽",
-    "en": "芥菜籽",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14332,7 +14410,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-080",
     "name": "椰浆粉",
-    "en": "椰浆粉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14379,7 +14457,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-condiment-081",
     "name": "可可粉",
-    "en": "可可粉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14426,7 +14504,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-082",
     "name": "椰子水",
-    "en": "椰子水",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14473,7 +14551,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-083",
     "name": "柠檬水",
-    "en": "柠檬水",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14520,7 +14598,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-084",
     "name": "蜂蜜水",
-    "en": "蜂蜜水",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14567,7 +14645,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-085",
     "name": "苏打水",
-    "en": "苏打水",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14614,7 +14692,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-086",
     "name": "矿泉水",
-    "en": "矿泉水",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14661,7 +14739,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-087",
     "name": "气泡水",
-    "en": "气泡水",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14708,7 +14786,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-088",
     "name": "果蔬汁",
-    "en": "果蔬汁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14755,7 +14833,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-089",
     "name": "甘蔗汁",
-    "en": "甘蔗汁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14802,7 +14880,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-090",
     "name": "玉米汁",
-    "en": "玉米汁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14849,7 +14927,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-091",
     "name": "杏仁露",
-    "en": "杏仁露",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14896,7 +14974,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-092",
     "name": "核桃露",
-    "en": "核桃露",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14943,7 +15021,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-093",
     "name": "酸奶饮",
-    "en": "酸奶饮",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -14990,7 +15068,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-094",
     "name": "奶昔",
-    "en": "奶昔",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15037,7 +15115,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-095",
     "name": "米乳",
-    "en": "米乳",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15084,7 +15162,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-096",
     "name": "豆乳",
-    "en": "豆乳",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15131,7 +15209,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-097",
     "name": "植物奶",
-    "en": "植物奶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15178,7 +15256,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-098",
     "name": "牛乳",
-    "en": "牛乳",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15225,7 +15303,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-099",
     "name": "羊乳",
-    "en": "羊乳",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15272,7 +15350,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-100",
     "name": "马奶",
-    "en": "马奶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15319,7 +15397,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-101",
     "name": "拿铁",
-    "en": "拿铁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15366,7 +15444,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-102",
     "name": "美式咖啡",
-    "en": "美式咖啡",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15413,7 +15491,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-103",
     "name": "可可",
-    "en": "可可",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15460,7 +15538,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-104",
     "name": "热巧克力",
-    "en": "热巧克力",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15507,7 +15585,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-105",
     "name": "酸奶昔",
-    "en": "酸奶昔",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15554,7 +15632,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-106",
     "name": "奶茶",
-    "en": "奶茶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15601,7 +15679,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-107",
     "name": "水果茶",
-    "en": "水果茶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15648,7 +15726,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-108",
     "name": "花草茶",
-    "en": "花草茶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15695,7 +15773,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-109",
     "name": "乌梅饮",
-    "en": "乌梅饮",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15742,7 +15820,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-110",
     "name": "雪梨汁",
-    "en": "雪梨汁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15789,7 +15867,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-111",
     "name": "洛神花饮",
-    "en": "洛神花饮",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15836,7 +15914,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-112",
     "name": "菊花露",
-    "en": "菊花露",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15883,7 +15961,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-113",
     "name": "薄荷饮",
-    "en": "薄荷饮",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15930,7 +16008,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-114",
     "name": "柚子茶",
-    "en": "柚子茶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -15977,7 +16055,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-115",
     "name": "姜茶",
-    "en": "姜茶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16024,7 +16102,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-116",
     "name": "红糖姜饮",
-    "en": "红糖姜饮",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16071,7 +16149,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-117",
     "name": "银耳饮",
-    "en": "银耳饮",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16118,7 +16196,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-118",
     "name": "米汤",
-    "en": "米汤",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16165,7 +16243,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-119",
     "name": "酸角汁",
-    "en": "酸角汁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16212,7 +16290,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-120",
     "name": "罗望子饮",
-    "en": "罗望子饮",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16259,7 +16337,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-121",
     "name": "椰奶",
-    "en": "椰奶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16306,7 +16384,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-122",
     "name": "燕麦奶",
-    "en": "燕麦奶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16353,7 +16431,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-123",
     "name": "抹茶拿铁",
-    "en": "抹茶拿铁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16400,7 +16478,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-drink-124",
     "name": "康普茶",
-    "en": "康普茶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16447,7 +16525,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-125",
     "name": "黑米",
-    "en": "黑米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16494,7 +16572,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-126",
     "name": "紫米",
-    "en": "紫米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16541,7 +16619,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-127",
     "name": "高粱",
-    "en": "高粱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16588,7 +16666,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-128",
     "name": "青稞",
-    "en": "青稞",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16635,7 +16713,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-129",
     "name": "藜麦",
-    "en": "藜麦",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16682,7 +16760,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-130",
     "name": "薏米饭",
-    "en": "薏米饭",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16729,7 +16807,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-131",
     "name": "糙米",
-    "en": "糙米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16776,7 +16854,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-132",
     "name": "小麦",
-    "en": "小麦",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16823,7 +16901,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-133",
     "name": "西米",
-    "en": "西米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16870,7 +16948,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-134",
     "name": "粳米",
-    "en": "粳米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16917,7 +16995,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-135",
     "name": "籼米",
-    "en": "籼米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -16964,7 +17042,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-136",
     "name": "黍米",
-    "en": "黍米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17011,7 +17089,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-137",
     "name": "糜子",
-    "en": "糜子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17058,7 +17136,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-138",
     "name": "燕麦片",
-    "en": "燕麦片",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17105,7 +17183,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-139",
     "name": "玉米碴",
-    "en": "玉米碴",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17152,7 +17230,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-140",
     "name": "米皮糖",
-    "en": "米皮糖",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17199,7 +17277,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-141",
     "name": "米花",
-    "en": "米花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17246,7 +17324,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-142",
     "name": "米线",
-    "en": "米线",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17293,7 +17371,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-143",
     "name": "米粉",
-    "en": "米粉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17340,7 +17418,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-144",
     "name": "河粉",
-    "en": "河粉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17387,7 +17465,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-145",
     "name": "粿条",
-    "en": "粿条",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17434,7 +17512,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-146",
     "name": "年糕米",
-    "en": "年糕米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17481,7 +17559,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-grain-147",
     "name": "粽米",
-    "en": "粽米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17528,7 +17606,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-148",
     "name": "芸豆",
-    "en": "芸豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17575,7 +17653,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-149",
     "name": "眉豆",
-    "en": "眉豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17622,7 +17700,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-150",
     "name": "鹰嘴豆",
-    "en": "鹰嘴豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17669,7 +17747,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-151",
     "name": "扁豆",
-    "en": "扁豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17716,7 +17794,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-152",
     "name": "刀豆",
-    "en": "刀豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17763,7 +17841,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-153",
     "name": "豌豆",
-    "en": "豌豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17810,7 +17888,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-154",
     "name": "蚕豆",
-    "en": "蚕豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17857,7 +17935,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-155",
     "name": "四季豆",
-    "en": "四季豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17904,7 +17982,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-156",
     "name": "荷兰豆",
-    "en": "荷兰豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17951,7 +18029,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-157",
     "name": "毛豆",
-    "en": "毛豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -17998,7 +18076,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-158",
     "name": "菜豆",
-    "en": "菜豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18045,7 +18123,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-159",
     "name": "花豆",
-    "en": "花豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18092,7 +18170,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-160",
     "name": "斑豆",
-    "en": "斑豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18139,7 +18217,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-161",
     "name": "白芸豆",
-    "en": "白芸豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18186,7 +18264,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-162",
     "name": "青豆",
-    "en": "青豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18233,7 +18311,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-163",
     "name": "黑眼豆",
-    "en": "黑眼豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18280,11 +18358,12 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-164",
     "name": "小扁豆",
-    "en": "小扁豆",
+    "en": "lentil",
     "jp": "",
     "kr": "",
     "aliases": [
-      "小扁豆"
+      "红小扁豆",
+      "绿小扁豆"
     ],
     "effects": [
       "日常食养"
@@ -18311,7 +18390,12 @@ const EXPANDED_FOODS_BULK = [
     "confidence": "中国地方食材与常见食物扩充条目",
     "teaClass": "",
     "teaNote": "",
-    "searchTerms": [],
+    "searchTerms": [
+      "xiaobiandou",
+      "xbd",
+      "lentil",
+      "小扁豆"
+    ],
     "alone": "",
     "timing": "",
     "pair": "",
@@ -18327,7 +18411,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-165",
     "name": "豆荚米",
-    "en": "豆荚米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18374,7 +18458,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-166",
     "name": "豆苗豆",
-    "en": "豆苗豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18421,7 +18505,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-167",
     "name": "豆皮",
-    "en": "豆皮",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18468,7 +18552,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-168",
     "name": "腐竹",
-    "en": "腐竹",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18515,7 +18599,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-169",
     "name": "豆干",
-    "en": "豆干",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18562,7 +18646,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-170",
     "name": "香干",
-    "en": "香干",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18609,7 +18693,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-171",
     "name": "千张",
-    "en": "千张",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18656,7 +18740,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-172",
     "name": "豆泡",
-    "en": "豆泡",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18703,7 +18787,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-173",
     "name": "豆花",
-    "en": "豆花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18750,7 +18834,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-174",
     "name": "豆乳皮",
-    "en": "豆乳皮",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18797,7 +18881,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-175",
     "name": "纳豆",
-    "en": "纳豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18844,7 +18928,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-176",
     "name": "豆豉",
-    "en": "豆豉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18891,7 +18975,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-177",
     "name": "豆瓣",
-    "en": "豆瓣",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18938,7 +19022,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-178",
     "name": "豆沙",
-    "en": "豆沙",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -18985,7 +19069,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-179",
     "name": "豆泥",
-    "en": "豆泥",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19032,7 +19116,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-180",
     "name": "豆腐脑",
-    "en": "豆腐脑",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19079,7 +19163,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-181",
     "name": "豆腐丝",
-    "en": "豆腐丝",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19126,7 +19210,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-182",
     "name": "豆肠",
-    "en": "豆肠",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19173,7 +19257,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-183",
     "name": "油豆腐",
-    "en": "油豆腐",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19220,7 +19304,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-184",
     "name": "冻豆腐",
-    "en": "冻豆腐",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19267,7 +19351,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-185",
     "name": "内酯豆腐",
-    "en": "内酯豆腐",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19314,7 +19398,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-bean-product-186",
     "name": "老豆腐",
-    "en": "老豆腐",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19361,7 +19445,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-187",
     "name": "白菜",
-    "en": "白菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19408,7 +19492,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-188",
     "name": "油菜",
-    "en": "油菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19455,7 +19539,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-189",
     "name": "生菜",
-    "en": "生菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19502,7 +19586,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-190",
     "name": "芹菜",
-    "en": "芹菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19549,7 +19633,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-191",
     "name": "韭菜",
-    "en": "韭菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19596,7 +19680,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-192",
     "name": "大葱",
-    "en": "大葱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19643,7 +19727,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-193",
     "name": "小葱",
-    "en": "小葱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19690,7 +19774,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-194",
     "name": "洋葱",
-    "en": "洋葱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19737,7 +19821,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-195",
     "name": "大蒜",
-    "en": "大蒜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19784,7 +19868,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-196",
     "name": "蒜苗",
-    "en": "蒜苗",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19831,7 +19915,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-197",
     "name": "青椒",
-    "en": "青椒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19878,7 +19962,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-198",
     "name": "彩椒",
-    "en": "彩椒",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19925,7 +20009,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-199",
     "name": "茄子",
-    "en": "茄子",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -19972,7 +20056,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-200",
     "name": "西葫芦",
-    "en": "西葫芦",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20019,7 +20103,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-201",
     "name": "丝瓜",
-    "en": "丝瓜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20066,7 +20150,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-202",
     "name": "苦菊",
-    "en": "苦菊",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20113,7 +20197,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-203",
     "name": "油麦菜",
-    "en": "油麦菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20160,7 +20244,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-204",
     "name": "莴笋",
-    "en": "莴笋",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20207,7 +20291,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-205",
     "name": "芥蓝",
-    "en": "芥蓝",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20254,7 +20338,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-206",
     "name": "菜心",
-    "en": "菜心",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20301,7 +20385,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-207",
     "name": "上海青",
-    "en": "上海青",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20348,7 +20432,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-208",
     "name": "苋菜",
-    "en": "苋菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20395,7 +20479,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-209",
     "name": "菠菜",
-    "en": "菠菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20442,7 +20526,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-210",
     "name": "茼蒿",
-    "en": "茼蒿",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20489,7 +20573,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-211",
     "name": "苜蓿芽",
-    "en": "苜蓿芽",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20536,7 +20620,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-212",
     "name": "包菜",
-    "en": "包菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20583,7 +20667,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-213",
     "name": "紫甘蓝",
-    "en": "紫甘蓝",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20630,7 +20714,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-214",
     "name": "花椰菜",
-    "en": "花椰菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20677,7 +20761,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-215",
     "name": "西兰花",
-    "en": "西兰花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20724,7 +20808,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-216",
     "name": "胡萝卜",
-    "en": "胡萝卜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20771,7 +20855,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-217",
     "name": "青萝卜",
-    "en": "青萝卜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20818,7 +20902,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-218",
     "name": "樱桃萝卜",
-    "en": "樱桃萝卜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20865,7 +20949,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-219",
     "name": "萝卜缨",
-    "en": "萝卜缨",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20912,7 +20996,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-220",
     "name": "萝卜干",
-    "en": "萝卜干",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -20959,7 +21043,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-221",
     "name": "土豆",
-    "en": "土豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21006,7 +21090,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-222",
     "name": "山药豆",
-    "en": "山药豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21053,7 +21137,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-223",
     "name": "芋头",
-    "en": "芋头",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21100,7 +21184,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-224",
     "name": "芋苗",
-    "en": "芋苗",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21147,7 +21231,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-225",
     "name": "红薯",
-    "en": "红薯",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21194,7 +21278,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-226",
     "name": "紫薯",
-    "en": "紫薯",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21241,7 +21325,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-227",
     "name": "木薯",
-    "en": "木薯",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21288,7 +21372,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-228",
     "name": "莲藕带",
-    "en": "莲藕带",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21335,7 +21419,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-229",
     "name": "茭白",
-    "en": "茭白",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21382,7 +21466,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-230",
     "name": "慈菇",
-    "en": "慈菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21429,7 +21513,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-231",
     "name": "荸荠",
-    "en": "荸荠",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21476,7 +21560,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-232",
     "name": "芦笋尖",
-    "en": "芦笋尖",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21523,7 +21607,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-233",
     "name": "豇豆",
-    "en": "豇豆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21570,7 +21654,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-234",
     "name": "豆角",
-    "en": "豆角",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21617,7 +21701,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-235",
     "name": "秋葵",
-    "en": "秋葵",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21664,7 +21748,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-236",
     "name": "佛手瓜",
-    "en": "佛手瓜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21711,7 +21795,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-237",
     "name": "黄花菜",
-    "en": "黄花菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21758,7 +21842,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-238",
     "name": "菜花",
-    "en": "菜花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21805,7 +21889,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-239",
     "name": "羽衣甘蓝",
-    "en": "羽衣甘蓝",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21852,7 +21936,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-240",
     "name": "鸡毛菜",
-    "en": "鸡毛菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21899,7 +21983,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-241",
     "name": "苕尖",
-    "en": "苕尖",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21946,7 +22030,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-242",
     "name": "苜蓿菜",
-    "en": "苜蓿菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -21993,7 +22077,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-243",
     "name": "空心菜梗",
-    "en": "空心菜梗",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22040,7 +22124,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-244",
     "name": "苤蓝",
-    "en": "苤蓝",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22087,7 +22171,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-245",
     "name": "榨菜头",
-    "en": "榨菜头",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22134,7 +22218,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-246",
     "name": "甜玉米",
-    "en": "甜玉米",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22181,7 +22265,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-247",
     "name": "玉米笋",
-    "en": "玉米笋",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22228,7 +22312,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-248",
     "name": "番薯叶",
-    "en": "番薯叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22275,7 +22359,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-249",
     "name": "地瓜叶",
-    "en": "地瓜叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22322,7 +22406,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-250",
     "name": "南瓜花",
-    "en": "南瓜花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22369,7 +22453,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-251",
     "name": "西葫芦花",
-    "en": "西葫芦花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22416,7 +22500,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-252",
     "name": "冬寒菜",
-    "en": "冬寒菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22463,7 +22547,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-253",
     "name": "萝卜苗",
-    "en": "萝卜苗",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22510,7 +22594,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-254",
     "name": "豆苗",
-    "en": "豆苗",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22557,7 +22641,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-255",
     "name": "青蒜",
-    "en": "青蒜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22604,7 +22688,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-256",
     "name": "蒜苔",
-    "en": "蒜苔",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22651,7 +22735,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-257",
     "name": "马兰头",
-    "en": "马兰头",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22698,7 +22782,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-258",
     "name": "香椿头",
-    "en": "香椿头",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22745,7 +22829,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-259",
     "name": "龙须菜",
-    "en": "龙须菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22792,7 +22876,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-260",
     "name": "白菜苔",
-    "en": "白菜苔",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22839,7 +22923,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-261",
     "name": "芥菜头",
-    "en": "芥菜头",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22886,7 +22970,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-262",
     "name": "油菜苔",
-    "en": "油菜苔",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22933,7 +23017,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-263",
     "name": "枸杞头",
-    "en": "枸杞头",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -22980,7 +23064,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-264",
     "name": "枸杞芽",
-    "en": "枸杞芽",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23027,7 +23111,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-265",
     "name": "黄秋葵",
-    "en": "黄秋葵",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23074,7 +23158,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-266",
     "name": "豆瓣菜",
-    "en": "豆瓣菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23121,7 +23205,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-267",
     "name": "朝鲜蓟",
-    "en": "朝鲜蓟",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23168,7 +23252,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-268",
     "name": "芜菁",
-    "en": "芜菁",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23215,7 +23299,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-269",
     "name": "球茎甘蓝",
-    "en": "球茎甘蓝",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23262,7 +23346,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-270",
     "name": "抱子甘蓝",
-    "en": "抱子甘蓝",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23309,7 +23393,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-271",
     "name": "洋姜",
-    "en": "洋姜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23356,7 +23440,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-272",
     "name": "牛蒡",
-    "en": "牛蒡",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23403,7 +23487,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-273",
     "name": "蒿子秆",
-    "en": "蒿子秆",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23450,7 +23534,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-veg-274",
     "name": "菱角菜",
-    "en": "菱角菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23497,7 +23581,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-275",
     "name": "荠菜",
-    "en": "荠菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23544,7 +23628,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-276",
     "name": "香椿",
-    "en": "香椿",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23591,7 +23675,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-277",
     "name": "马兰头",
-    "en": "马兰头",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23638,7 +23722,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-278",
     "name": "灰灰菜",
-    "en": "灰灰菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23685,7 +23769,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-279",
     "name": "蒲公英叶",
-    "en": "蒲公英叶",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23732,7 +23816,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-280",
     "name": "刺儿菜",
-    "en": "刺儿菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23779,7 +23863,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-281",
     "name": "苦菜",
-    "en": "苦菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23826,7 +23910,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-282",
     "name": "车前草",
-    "en": "车前草",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23873,7 +23957,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-283",
     "name": "枸杞头",
-    "en": "枸杞头",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23920,7 +24004,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-284",
     "name": "苜蓿",
-    "en": "苜蓿",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -23967,7 +24051,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-285",
     "name": "野芹菜",
-    "en": "野芹菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24014,7 +24098,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-286",
     "name": "野韭菜",
-    "en": "野韭菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24061,7 +24145,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-287",
     "name": "野葱",
-    "en": "野葱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24108,7 +24192,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-288",
     "name": "地皮菜",
-    "en": "地皮菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24155,7 +24239,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-289",
     "name": "榆钱",
-    "en": "榆钱",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24202,7 +24286,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-290",
     "name": "槐花",
-    "en": "槐花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24249,7 +24333,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-291",
     "name": "洋槐花",
-    "en": "洋槐花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24296,7 +24380,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-292",
     "name": "蕨根",
-    "en": "蕨根",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24343,7 +24427,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-293",
     "name": "野蒜",
-    "en": "野蒜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24390,7 +24474,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-294",
     "name": "折耳根",
-    "en": "折耳根",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24437,7 +24521,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-295",
     "name": "蕨根粉",
-    "en": "蕨根粉",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24484,7 +24568,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-296",
     "name": "观音菜",
-    "en": "观音菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24531,7 +24615,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-297",
     "name": "野苋菜",
-    "en": "野苋菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24578,7 +24662,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-298",
     "name": "山野菜",
-    "en": "山野菜",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24625,7 +24709,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-wild-299",
     "name": "蕨麻",
-    "en": "蕨麻",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24672,7 +24756,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-300",
     "name": "香菇",
-    "en": "香菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24719,7 +24803,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-301",
     "name": "平菇",
-    "en": "平菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24766,7 +24850,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-302",
     "name": "金针菇",
-    "en": "金针菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24813,7 +24897,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-303",
     "name": "杏鲍菇",
-    "en": "杏鲍菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24860,7 +24944,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-304",
     "name": "鸡腿菇",
-    "en": "鸡腿菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24907,7 +24991,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-305",
     "name": "口蘑",
-    "en": "口蘑",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -24954,7 +25038,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-306",
     "name": "茶树菇",
-    "en": "茶树菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25001,7 +25085,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-307",
     "name": "滑子菇",
-    "en": "滑子菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25048,7 +25132,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-308",
     "name": "海鲜菇",
-    "en": "海鲜菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25095,7 +25179,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-309",
     "name": "姬菇",
-    "en": "姬菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25142,7 +25226,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-310",
     "name": "虫草花",
-    "en": "虫草花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25189,7 +25273,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-311",
     "name": "羊肚菌",
-    "en": "羊肚菌",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25236,7 +25320,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-312",
     "name": "松茸",
-    "en": "松茸",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25283,7 +25367,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-313",
     "name": "牛肝菌",
-    "en": "牛肝菌",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25330,7 +25414,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-314",
     "name": "鸡枞菌",
-    "en": "鸡枞菌",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25377,7 +25461,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-315",
     "name": "竹荪",
-    "en": "竹荪",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25424,7 +25508,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-316",
     "name": "木耳",
-    "en": "木耳",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25471,7 +25555,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-317",
     "name": "银耳花",
-    "en": "银耳花",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25518,7 +25602,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-318",
     "name": "蘑菇",
-    "en": "蘑菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25565,7 +25649,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-319",
     "name": "白玉菇",
-    "en": "白玉菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25612,7 +25696,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-320",
     "name": "蟹味菇",
-    "en": "蟹味菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25659,7 +25743,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-321",
     "name": "鹿茸菇",
-    "en": "鹿茸菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25706,7 +25790,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-322",
     "name": "鹿肚菌",
-    "en": "鹿肚菌",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25753,7 +25837,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-323",
     "name": "珊瑚菌",
-    "en": "珊瑚菌",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25800,7 +25884,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-324",
     "name": "榛蘑",
-    "en": "榛蘑",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25847,7 +25931,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-325",
     "name": "元蘑",
-    "en": "元蘑",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25894,7 +25978,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-326",
     "name": "真姬菇",
-    "en": "真姬菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25941,7 +26025,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-327",
     "name": "秀珍菇",
-    "en": "秀珍菇",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -25988,7 +26072,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-328",
     "name": "黑木耳",
-    "en": "黑木耳",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -26035,7 +26119,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-329",
     "name": "黄伞菌",
-    "en": "黄伞菌",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -26082,7 +26166,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-330",
     "name": "黄牛肝菌",
-    "en": "黄牛肝菌",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -26129,7 +26213,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-331",
     "name": "青头菌",
-    "en": "青头菌",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -26176,7 +26260,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-332",
     "name": "铜绿菌",
-    "en": "铜绿菌",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -26223,7 +26307,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-333",
     "name": "奶浆菌",
-    "en": "奶浆菌",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -26270,7 +26354,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-334",
     "name": "扫把菌",
-    "en": "扫把菌",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -26317,7 +26401,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fungi-335",
     "name": "鸡油菌",
-    "en": "鸡油菌",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -26364,7 +26448,7 @@ const EXPANDED_FOODS_BULK = [
   {
     "id": "cat-fruit-336",
     "name": "葡萄",
-    "en": "葡萄",
+    "en": "",
     "jp": "",
     "kr": "",
     "aliases": [
@@ -26754,7 +26838,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "black-tiger-shrimp",
@@ -26810,7 +26895,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "whiteleg-shrimp",
@@ -26866,7 +26952,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "kuruma-prawn",
@@ -26922,7 +27009,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "ming-prawn",
@@ -26977,7 +27065,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "argentine-red-shrimp",
@@ -27032,7 +27121,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "greasyback-shrimp",
@@ -27087,7 +27177,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "fish-generic",
@@ -27589,6 +27680,385 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
+    "safetyNote": "",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "prickly-pear-fruit",
+    "name": "刺梨",
+    "en": "prickly pear fruit",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "刺梨子",
+      "山刺梨"
+    ],
+    "effects": [
+      "生津",
+      "清润"
+    ],
+    "regions": [
+      "CN",
+      "贵州"
+    ],
+    "category": "水果",
+    "nature": "凉",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "贵州等地常见野果，味酸涩，多用于泡酒、制汁或蜜饯。",
+    "benefits": [
+      "传统食养常见关键词：生津、清润",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "cili",
+      "cl",
+      "刺梨",
+      "刺梨子"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
     "safetyNote": ""
+  },
+  {
+    "id": "preserved-fruit",
+    "name": "蜜饯",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "果脯",
+      "话梅"
+    ],
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "果脯蜜饯",
+    "nature": "温",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "糖渍或盐渍果脯类零食，偏甜偏温，宜少量佐餐。",
+    "benefits": [
+      "传统食养常见关键词：生津",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "含糖量高，糖尿病、控糖人群应限量；儿童不宜多食。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "mijian",
+      "mj",
+      "蜜饯",
+      "果脯"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "chia-seed",
+    "name": "奇亚籽",
+    "en": "chia seed",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "奇亚子"
+    ],
+    "effects": [
+      "润肠"
+    ],
+    "regions": [
+      "CN",
+      "US",
+      "MX"
+    ],
+    "category": "坚果种子",
+    "nature": "平",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "进口超级食物种子，吸水膨胀，常见于早餐、酸奶搭配。",
+    "benefits": [
+      "传统食养常见关键词：润肠",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "jiyazi",
+      "jyz",
+      "chia",
+      "奇亚籽"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "sunflower-seed",
+    "name": "葵花籽",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "瓜子",
+      "葵瓜子",
+      "香瓜子"
+    ],
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "坚果种子",
+    "nature": "平",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "常见炒货零食，偏平，宜少量；盐焗、奶油口味注意钠与添加糖。",
+    "benefits": [
+      "传统食养常见关键词：休闲零食",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "kuihuazi",
+      "khz",
+      "guazi",
+      "gz",
+      "瓜子",
+      "葵花籽"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "watermelon-seed",
+    "name": "西瓜子",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "西瓜子"
+    ],
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "坚果种子",
+    "nature": "平",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "常见炒货零食，偏平，宜少量；盐焗口味注意钠摄入。",
+    "benefits": [
+      "传统食养常见关键词：休闲零食",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "xiguazi",
+      "xgz",
+      "西瓜子"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "bamboo-rat",
+    "name": "竹鼠",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "芒洞鼠",
+      "竹狸"
+    ],
+    "effects": [
+      "补益"
+    ],
+    "regions": [
+      "CN",
+      "广西",
+      "广东"
+    ],
+    "category": "肉蛋奶",
+    "nature": "温",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "华南地方物产参考条目，传统上偶有入馔记载，非日常食材。",
+    "benefits": [
+      "传统食养常见关键词：补益",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "野生动物及来源不明肉类存在疫病与法律风险；本条仅供查阅，不建议自行采购食用。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "zhushu",
+      "zs",
+      "竹鼠"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": "",
+    "usageScope": "reference-only"
+  },
+  {
+    "id": "field-mouse",
+    "name": "田鼠",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "田鼠"
+    ],
+    "effects": [
+      "补益"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西"
+    ],
+    "category": "肉蛋奶",
+    "nature": "温",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "部分地方饮食中的参考条目，非日常食材。",
+    "benefits": [
+      "传统食养常见关键词：补益",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "野生动物及来源不明肉类存在疫病与法律风险；本条仅供查阅，不建议自行采购食用。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "tianshu",
+      "ts",
+      "田鼠"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": "",
+    "usageScope": "reference-only"
   }
 ];
