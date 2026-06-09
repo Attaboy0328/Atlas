@@ -139,13 +139,15 @@ const official = readCnJson("foods-official-bulk.json", []);
 const extra = readCnJson("foods-extra-bulk.json", []);
 const tail = readCnJson("foods-search-supplement.json", []);
 const batch3 = readCnJson("foods-search-supplement-batch3.json", []);
+const batch4 = readCnJson("foods-search-supplement-batch4.json", []);
 
 const bulk = [
   ...regional.map(mapRegionalEntry),
   ...official.map(mapOfficialBulk),
   ...extra.map(mapExtraBulk),
   ...tail.map(mapRegionalEntry),
-  ...batch3.map(mapRegionalEntry)
+  ...batch3.map(mapRegionalEntry),
+  ...batch4.map(mapRegionalEntry)
 ];
 
 fs.mkdirSync(genDir, { recursive: true });
@@ -155,5 +157,5 @@ fs.writeFileSync(
   "utf8"
 );
 
-console.log(`Expanded bulk foods: ${bulk.length} (regional ${regional.length}, official ${official.length}, extra ${extra.length}, tail ${tail.length}, batch3 ${batch3.length})`);
+console.log(`Expanded bulk foods: ${bulk.length} (regional ${regional.length}, official ${official.length}, extra ${extra.length}, tail ${tail.length}, batch3 ${batch3.length}, batch4 ${batch4.length})`);
 console.log("Output: generated/foods-expanded-bulk.js");

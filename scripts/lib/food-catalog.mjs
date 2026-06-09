@@ -18,7 +18,8 @@ export const CN_JSON_SOURCES = [
   "foods-ingredients-batch2.json",
   "foods-seasonal-river-batch2.json",
   "foods-modern-regional-batch.json",
-  "foods-search-supplement-batch3.json"
+  "foods-search-supplement-batch3.json",
+  "foods-search-supplement-batch4.json"
 ];
 
 export const EXPANDED_BULK_JSON_SOURCES = [
@@ -28,7 +29,8 @@ export const EXPANDED_BULK_JSON_SOURCES = [
   "foods-search-supplement.json",
   "foods-regional-push-batch2.json",
   "foods-search-supplement-batch2.json",
-  "foods-search-supplement-batch3.json"
+  "foods-search-supplement-batch3.json",
+  "foods-search-supplement-batch4.json"
 ];
 
 export function readCnJson(name, fallback = []) {

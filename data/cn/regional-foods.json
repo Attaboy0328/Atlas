@@ -973,7 +973,8 @@
       "changfen",
       "cf"
     ],
-    "summary": "广式早茶常见米浆卷。"
+    "summary": "广式早茶常见米浆卷。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "shacha-noodle",

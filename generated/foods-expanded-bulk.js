@@ -28060,5 +28060,930 @@ const EXPANDED_FOODS_BULK = [
     "sources": [],
     "safetyNote": "",
     "usageScope": "reference-only"
+  },
+  {
+    "id": "youtiao",
+    "name": "油条",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "油炸鬼",
+      "馃子",
+      "果子"
+    ],
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "主食",
+    "nature": "热",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "常见油炸面食，偏温热油腻，早餐宜少量。",
+    "benefits": [
+      "传统食养常见关键词：充饥",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "反流、胆囊不适、控脂人群适量。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "youtiao",
+      "yt",
+      "油条",
+      "油炸鬼",
+      "馃子"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "zongzi",
+    "name": "粽子",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "肉粽",
+      "碱水粽",
+      "甜粽"
+    ],
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "主食",
+    "nature": "温",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "糯米包裹馅料的节令食品，偏温黏腻，宜热食、适量。",
+    "benefits": [
+      "传统食养常见关键词：充饥",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "糯米难消化，胃胀、糖尿病者适量。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "zongzi",
+      "zz",
+      "粽子",
+      "肉粽"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "mooncake",
+    "name": "月饼",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "广式月饼",
+      "苏式月饼",
+      "冰皮月饼"
+    ],
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "零食",
+    "nature": "温",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "中秋常见糕点，偏甜偏油，宜分次少量。",
+    "benefits": [
+      "传统食养常见关键词：充饥",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "高糖高脂，糖尿病、控脂人群限量。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "yuebing",
+      "yb",
+      "mooncake",
+      "月饼"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "tangyuan",
+    "name": "汤圆",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "元宵",
+      "团子",
+      "芝麻汤圆"
+    ],
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "主食",
+    "nature": "温",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "糯米制圆子，多煮糖水食用，偏温黏。",
+    "benefits": [
+      "传统食养常见关键词：充饥",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "糯米难消化，吞咽与控糖人群注意。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "tangyuan",
+      "ty",
+      "yuanxiao",
+      "yx",
+      "汤圆",
+      "元宵"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "shumai",
+    "name": "烧麦",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "烧卖",
+      "稍麦",
+      "干蒸烧卖"
+    ],
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "主食",
+    "nature": "温",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "面皮包馅蒸制点心，南北做法不一，宜热食。",
+    "benefits": [
+      "传统食养常见关键词：充饥",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "糯米馅偏黏腻，胃弱者适量。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "shaomai",
+      "sm",
+      "shumai",
+      "烧麦",
+      "烧卖"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "liangpi",
+    "name": "凉皮",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "陕西凉皮",
+      "麻酱凉皮"
+    ],
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN",
+      "陕西"
+    ],
+    "category": "主食",
+    "nature": "凉",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "小麦淀粉或面筋制凉拌主食，偏凉爽口。",
+    "benefits": [
+      "传统食养常见关键词：充饥",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "脾胃虚寒、腹泻者少食生冷。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "liangpi",
+      "lp",
+      "凉皮"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "spring-roll",
+    "name": "春卷",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "炸春卷",
+      "春饼卷"
+    ],
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "主食",
+    "nature": "温",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "面皮裹馅炸或蒸的点心，宜热食、控油。",
+    "benefits": [
+      "传统食养常见关键词：充饥",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "油炸版本高脂，胃热、控脂者适量。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "chunjuan",
+      "cj",
+      "spring roll",
+      "春卷"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "rice-roll",
+    "name": "肠粉",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "布拉肠",
+      "猪肠粉",
+      "广式肠粉"
+    ],
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN",
+      "广东"
+    ],
+    "category": "主食",
+    "nature": "平",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "米浆蒸制卷粉，粤菜早茶常见，宜热食。",
+    "benefits": [
+      "传统食养常见关键词：充饥",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "肠胃敏感者注意酱汁与油腻配料。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "changfen",
+      "cf",
+      "rice roll",
+      "肠粉"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "wonton",
+    "name": "馄饨",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "抄手",
+      "云吞",
+      "扁食",
+      "清汤馄饨"
+    ],
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "主食",
+    "nature": "平",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "薄皮裹馅煮汤面食，南北叫法不同，宜热食。",
+    "benefits": [
+      "传统食养常见关键词：充饥",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "鲜肉馅需彻底煮熟；控钠者注意汤底。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "huntun",
+      "ht",
+      "wonton",
+      "馄饨",
+      "抄手",
+      "云吞",
+      "扁食"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "glutinous-rice-cake",
+    "name": "糍粑",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "糯米糍",
+      "红糖糍粑",
+      "打糍粑"
+    ],
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "主食",
+    "nature": "温",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "糯米捶打或蒸制的黏食，宜热食、少量。",
+    "benefits": [
+      "传统食养常见关键词：充饥",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "糯米难消化，胃胀、糖尿病者适量。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "ciba",
+      "cb",
+      "糯米糍",
+      "糍粑"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "qingtuan",
+    "name": "青团",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "艾糍",
+      "清明果",
+      "艾草青团"
+    ],
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "零食",
+    "nature": "平",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "艾草或麦青汁和糯米粉制成的节令点心。",
+    "benefits": [
+      "传统食养常见关键词：充饥",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "糯米偏黏，消化不良者适量。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "qingtuan",
+      "qt",
+      "青团",
+      "艾糍",
+      "清明果"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "cashew",
+    "name": "腰果",
+    "en": "cashew",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "腰果仁",
+      "盐焗腰果"
+    ],
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "坚果种子",
+    "nature": "平",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "常见坚果炒货，偏平，宜少量。",
+    "benefits": [
+      "传统食养常见关键词：休闲零食",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "盐焗、油炸版本注意钠与热量；过敏体质留意。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "yaoguo",
+      "yg",
+      "cashew",
+      "腰果"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "pistachio",
+    "name": "开心果",
+    "en": "pistachio",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "阿月浑子",
+      "开口笑"
+    ],
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN",
+      "US"
+    ],
+    "category": "坚果种子",
+    "nature": "温",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "常见坚果炒货，偏温香，宜少量。",
+    "benefits": [
+      "传统食养常见关键词：休闲零食",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "调味、盐焗版本控钠；过敏体质留意。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "kaixinguo",
+      "kxg",
+      "pistachio",
+      "开心果"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "pecan",
+    "name": "碧根果",
+    "en": "pecan",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "美国山核桃",
+      "长寿果"
+    ],
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN",
+      "US"
+    ],
+    "category": "坚果种子",
+    "nature": "温",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "进口坚果炒货，油脂含量高，宜少量。",
+    "benefits": [
+      "传统食养常见关键词：休闲零食",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "控脂、胆囊敏感者适量。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "bigenquo",
+      "bgq",
+      "pecan",
+      "碧根果"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "macadamia",
+    "name": "夏威夷果",
+    "en": "macadamia",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "澳洲坚果",
+      "夏威夷坚果"
+    ],
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN",
+      "AU",
+      "US"
+    ],
+    "category": "坚果种子",
+    "nature": "温",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "奶油香坚果，油脂丰富，宜少量。",
+    "benefits": [
+      "传统食养常见关键词：休闲零食",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "高脂高热量，控脂与肥胖管理期限量。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "xiaweiyiguo",
+      "xwyg",
+      "macadamia",
+      "夏威夷果"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "pine-nut-snack",
+    "name": "松子",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "松子仁",
+      "炒松子",
+      "东北松子"
+    ],
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "坚果种子",
+    "nature": "温",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "常见炒货坚果，偏温润，宜少量。",
+    "benefits": [
+      "传统食养常见关键词：休闲零食",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "高脂，腹泻、肥胖管理期适量；与药食「松子仁」区分规格。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "songzi",
+      "sz",
+      "pine nut",
+      "松子",
+      "松子仁"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
+  },
+  {
+    "id": "spicy-strip",
+    "name": "辣条",
+    "en": "",
+    "jp": "",
+    "kr": "",
+    "aliases": [
+      "面筋辣条",
+      "大辣片"
+    ],
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "category": "零食",
+    "nature": "热",
+    "flavor": "未标注",
+    "meridians": [],
+    "summary": "调味面筋零食，辛辣重口，宜偶尔少量。",
+    "benefits": [
+      "传统食养常见关键词：开胃",
+      "日常营养价值需结合品种、份量与烹调方式评估"
+    ],
+    "caution": "高盐高油辛辣，胃病患者、儿童不宜多食。",
+    "cautionTags": [],
+    "suitableFor": [],
+    "avoidFor": [],
+    "contraindications": [],
+    "officialFoodMedicine": false,
+    "officialBatch": "",
+    "confidence": "常见食材；传统属性待持续复核",
+    "teaClass": "",
+    "teaNote": "",
+    "searchTerms": [
+      "latiao",
+      "lt",
+      "辣条"
+    ],
+    "alone": "",
+    "timing": "",
+    "pair": "",
+    "qiTerms": [],
+    "qiTermNote": "",
+    "varietyNote": "",
+    "faCategory": "",
+    "faNote": "",
+    "regulatoryNote": "",
+    "sources": [],
+    "safetyNote": ""
   }
 ];

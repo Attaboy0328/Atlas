@@ -219,6 +219,7 @@ const FOOD_ID_ALIASES = {
   "semen-coicis": "coix-seed",
   "sesamum-nigrum": "black-sesame",
   "shachong": "sand-worm",
+  "shahe-fen": "rice-roll",
   "silver-fish-fresh": "whitebait",
   "snakehead-fish": "snakehead",
   "snow-cabbage": "pickled-mustard",

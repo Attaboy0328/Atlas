@@ -1095,6 +1095,11 @@
     "note": "沙虫拼音 id"
   },
   {
+    "alias": "shahe-fen",
+    "canonical": "rice-roll",
+    "note": "auto: duplicate name「肠粉」→ rice-roll"
+  },
+  {
     "alias": "silver-fish-fresh",
     "canonical": "whitebait",
     "note": "auto: duplicate name「银鱼」→ whitebait"

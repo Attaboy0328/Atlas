@@ -435,6 +435,32 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "脾胃虚寒、生食需洗净去皮。"
   },
   {
+    "id": "pecan",
+    "name": "碧根果",
+    "en": "pecan",
+    "category": "坚果种子",
+    "nature": "温",
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN",
+      "US"
+    ],
+    "aliases": [
+      "美国山核桃",
+      "长寿果"
+    ],
+    "searchTerms": [
+      "bigenquo",
+      "bgq",
+      "pecan",
+      "碧根果"
+    ],
+    "summary": "进口坚果炒货，油脂含量高，宜少量。",
+    "caution": "控脂、胆囊敏感者适量。"
+  },
+  {
     "id": "flat-bream",
     "name": "鳊鱼",
     "en": "flat bream",
@@ -906,7 +932,34 @@ const CN_SUPPLEMENT_FOODS = [
       "changfen",
       "cf"
     ],
-    "summary": "广式早茶常见米浆卷。"
+    "summary": "广式早茶常见米浆卷。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "rice-roll",
+    "name": "肠粉",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN",
+      "广东"
+    ],
+    "aliases": [
+      "布拉肠",
+      "猪肠粉",
+      "广式肠粉"
+    ],
+    "searchTerms": [
+      "changfen",
+      "cf",
+      "rice roll",
+      "肠粉"
+    ],
+    "summary": "米浆蒸制卷粉，粤菜早茶常见，宜热食。",
+    "caution": "肠胃敏感者注意酱汁与油腻配料。"
   },
   {
     "id": "korean-kimchi-cn",
@@ -1181,6 +1234,30 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "发酵豆制品，地方差异大。"
   },
   {
+    "id": "spring-roll",
+    "name": "春卷",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "炸春卷",
+      "春饼卷"
+    ],
+    "searchTerms": [
+      "chunjuan",
+      "cj",
+      "spring roll",
+      "春卷"
+    ],
+    "summary": "面皮裹馅炸或蒸的点心，宜热食、控油。",
+    "caution": "油炸版本高脂，胃热、控脂者适量。"
+  },
+  {
     "id": "bamboo-shoot",
     "name": "春笋",
     "en": "spring bamboo shoot",
@@ -1305,6 +1382,31 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "慈竹笋，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "glutinous-rice-cake",
+    "name": "糍粑",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "糯米糍",
+      "红糖糍粑",
+      "打糍粑"
+    ],
+    "searchTerms": [
+      "ciba",
+      "cb",
+      "糯米糍",
+      "糍粑"
+    ],
+    "summary": "糯米捶打或蒸制的黏食，宜热食、少量。",
+    "caution": "糯米难消化，胃胀、糖尿病者适量。"
   },
   {
     "id": "cili-fruit",
@@ -2462,6 +2564,43 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "凤尾鱼，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "chicken-feet",
+    "name": "凤爪",
+    "en": "chicken feet",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN",
+      "广东"
+    ],
+    "provinces": [
+      "广东",
+      "香港"
+    ],
+    "aliases": [
+      "鸡爪",
+      "鸡脚",
+      "卤凤爪"
+    ],
+    "pinyin": "fengzhao",
+    "initials": "fz",
+    "searchTerms": [
+      "fengzhao",
+      "fz",
+      "jizhua",
+      "jz",
+      "chicken feet",
+      "凤爪",
+      "鸡爪"
+    ],
+    "baseFoodId": "chicken",
+    "summary": "禽类部位零食或卤味，胶原蛋白丰富，宜卤炖、少量。",
+    "caution": "高盐卤味控钠；痛风及消化弱者适量。"
   },
   {
     "id": "bergamot",
@@ -3992,7 +4131,8 @@ const CN_SUPPLEMENT_FOODS = [
       "福建"
     ],
     "aliases": [
-      "鱼鳔"
+      "鱼鳔",
+      "鱼肚"
     ],
     "pinyin": "huajiao",
     "initials": "hj",
@@ -4001,7 +4141,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hj",
       "fish maw",
       "花胶",
-      "鱼鳔"
+      "鱼鳔",
+      "鱼肚"
     ],
     "summary": "花胶，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
@@ -4427,6 +4568,35 @@ const CN_SUPPLEMENT_FOODS = [
       "清真拉面"
     ],
     "summary": "西北回族清真饮食代表，牛肉汤面，偏平和。"
+  },
+  {
+    "id": "wonton",
+    "name": "馄饨",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "抄手",
+      "云吞",
+      "扁食",
+      "清汤馄饨"
+    ],
+    "searchTerms": [
+      "huntun",
+      "ht",
+      "wonton",
+      "馄饨",
+      "抄手",
+      "云吞",
+      "扁食"
+    ],
+    "summary": "薄皮裹馅煮汤面食，南北叫法不同，宜热食。",
+    "caution": "鲜肉馅需彻底煮熟；控钠者注意汤底。"
   },
   {
     "id": "hotpot-base",
@@ -4947,6 +5117,40 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "浙闽名产，偏温。"
   },
   {
+    "id": "tuna",
+    "name": "金枪鱼",
+    "en": "tuna",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "补虚"
+    ],
+    "regions": [
+      "CN",
+      "JP",
+      "US"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "吞拿鱼",
+      "鲔鱼"
+    ],
+    "pinyin": "jinqiangyu",
+    "initials": "jqy",
+    "searchTerms": [
+      "jinqiangyu",
+      "jqy",
+      "tuna",
+      "金枪鱼",
+      "吞拿鱼",
+      "鲔鱼"
+    ],
+    "summary": "高蛋白海鱼，常见于刺身、罐头与煎烤。",
+    "caution": "大型金枪鱼汞蓄积风险需留意；生食注意冷链。"
+  },
+  {
     "id": "honeysuckle",
     "name": "金银花",
     "en": "honeysuckle",
@@ -5350,6 +5554,32 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "豫菜名点，汤汁饱满。"
   },
   {
+    "id": "pistachio",
+    "name": "开心果",
+    "en": "pistachio",
+    "category": "坚果种子",
+    "nature": "温",
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN",
+      "US"
+    ],
+    "aliases": [
+      "阿月浑子",
+      "开口笑"
+    ],
+    "searchTerms": [
+      "kaixinguo",
+      "kxg",
+      "pistachio",
+      "开心果"
+    ],
+    "summary": "常见坚果炒货，偏温香，宜少量。",
+    "caution": "调味、盐焗版本控钠；过敏体质留意。"
+  },
+  {
     "id": "hakka-stuffed-tofu",
     "name": "客家酿豆腐",
     "en": "hakka stuffed tofu",
@@ -5578,6 +5808,29 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "传统腌制肉，宜炒蒜苗、蒸饭。",
     "caution": "盐分与亚硝酸盐风险，不宜过量。"
+  },
+  {
+    "id": "spicy-strip",
+    "name": "辣条",
+    "category": "零食",
+    "nature": "热",
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "面筋辣条",
+      "大辣片"
+    ],
+    "searchTerms": [
+      "latiao",
+      "lt",
+      "辣条"
+    ],
+    "summary": "调味面筋零食，辛辣重口，宜偶尔少量。",
+    "caution": "高盐高油辛辣，胃病患者、儿童不宜多食。"
   },
   {
     "id": "mantis-shrimp",
@@ -5900,6 +6153,44 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "阴虚火旺、糖尿病患者慎食。"
   },
   {
+    "id": "chestnut",
+    "name": "栗子",
+    "en": "chestnut",
+    "category": "坚果种子",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河北",
+      "山东",
+      "云南"
+    ],
+    "aliases": [
+      "板栗",
+      "糖炒栗子",
+      "锥栗"
+    ],
+    "pinyin": "lizi",
+    "initials": "lz",
+    "searchTerms": [
+      "lizi",
+      "lz",
+      "banli",
+      "bl",
+      "chestnut",
+      "栗子",
+      "板栗",
+      "糖炒栗子"
+    ],
+    "summary": "秋冬常见坚果，偏温，宜炒食、炖肉或做糕点。",
+    "caution": "胃胀、积食、糖尿病者适量；生吃难消化宜熟食。"
+  },
+  {
     "id": "lotus-root",
     "name": "莲藕",
     "en": "lotus root",
@@ -6012,6 +6303,30 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "鲢鱼，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "liangpi",
+    "name": "凉皮",
+    "category": "主食",
+    "nature": "凉",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN",
+      "陕西"
+    ],
+    "aliases": [
+      "陕西凉皮",
+      "麻酱凉皮"
+    ],
+    "searchTerms": [
+      "liangpi",
+      "lp",
+      "凉皮"
+    ],
+    "summary": "小麦淀粉或面筋制凉拌主食，偏凉爽口。",
+    "caution": "脾胃虚寒、腹泻者少食生冷。"
   },
   {
     "id": "cooking-wine",
@@ -7349,6 +7664,42 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "wood-ginger",
+    "name": "木姜子",
+    "en": "litsea cubeba",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "行气",
+      "去腥"
+    ],
+    "regions": [
+      "CN",
+      "贵州",
+      "湖南"
+    ],
+    "provinces": [
+      "贵州",
+      "湖南",
+      "云南"
+    ],
+    "aliases": [
+      "山胡椒",
+      "木姜子果"
+    ],
+    "pinyin": "mujiangzi",
+    "initials": "mjz",
+    "searchTerms": [
+      "mujiangzi",
+      "mjz",
+      "litsea",
+      "木姜子",
+      "山胡椒"
+    ],
+    "summary": "西南少数民族常用香辛料，可腌制、熬油或蘸水。",
+    "caution": "辛香刺激，胃溃疡、咽喉敏感者适量。"
+  },
+  {
     "id": "naxi-grilled-fish",
     "name": "纳西烤鱼",
     "en": "Naxi grilled fish",
@@ -7673,6 +8024,38 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "乳糖不耐受者慎用；一岁以下婴儿不宜替代母乳。"
   },
   {
+    "id": "beef-brisket-cut",
+    "name": "牛腩",
+    "en": "beef brisket",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补气",
+      "强筋"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "牛腹肉",
+      "红烧牛腩"
+    ],
+    "pinyin": "niunan",
+    "initials": "nn",
+    "searchTerms": [
+      "niunan",
+      "nn",
+      "beef brisket",
+      "牛腩"
+    ],
+    "baseFoodId": "beef",
+    "summary": "牛腹部部位，宜炖、卤、清汤，偏温。",
+    "caution": "高脂部位，控脂、痛风人群适量。"
+  },
+  {
     "id": "beef-steak",
     "name": "牛排",
     "en": "beef steak",
@@ -7840,6 +8223,39 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "藕带，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "pork-ribs-cut",
+    "name": "排骨",
+    "en": "pork ribs",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "猪肋排",
+      "小排",
+      "糖醋排骨"
+    ],
+    "pinyin": "paigu",
+    "initials": "pg",
+    "searchTerms": [
+      "paigu",
+      "pg",
+      "pork ribs",
+      "排骨",
+      "猪肋排"
+    ],
+    "baseFoodId": "pork",
+    "summary": "猪肋排部位，宜炖汤、红烧、烤制。",
+    "caution": "高脂、高嘌呤，痛风及控脂者适量。"
   },
   {
     "id": "crab",
@@ -8426,6 +8842,32 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "qingtuan",
+    "name": "青团",
+    "category": "零食",
+    "nature": "平",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "艾糍",
+      "清明果",
+      "艾草青团"
+    ],
+    "searchTerms": [
+      "qingtuan",
+      "qt",
+      "青团",
+      "艾糍",
+      "清明果"
+    ],
+    "summary": "艾草或麦青汁和糯米粉制成的节令点心。",
+    "caution": "糯米偏黏，消化不良者适量。"
+  },
+  {
     "id": "mud-crab",
     "name": "青蟹",
     "en": "mud crab",
@@ -8745,6 +9187,40 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "广东常见滋补禽类，多用于炖汤、红烧；体质偏热、感冒发热时适量。",
     "caution": "高嘌呤，痛风急性期慎食；须彻底做熟。"
+  },
+  {
+    "id": "salmon",
+    "name": "三文鱼",
+    "en": "salmon",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "补虚",
+      "润燥"
+    ],
+    "regions": [
+      "CN",
+      "NO",
+      "CL"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "鲑鱼",
+      "三文鱼片"
+    ],
+    "pinyin": "sanwenyu",
+    "initials": "swy",
+    "searchTerms": [
+      "sanwenyu",
+      "swy",
+      "salmon",
+      "三文鱼",
+      "鲑鱼"
+    ],
+    "summary": "常见海鱼，可煎烤或熟食；生食需可靠冷链与级別。",
+    "caution": "孕妇、免疫低下者慎生食；注意寄生虫与来源。"
   },
   {
     "id": "mulberry",
@@ -9067,6 +9543,32 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "扇贝，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "shumai",
+    "name": "烧麦",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "烧卖",
+      "稍麦",
+      "干蒸烧卖"
+    ],
+    "searchTerms": [
+      "shaomai",
+      "sm",
+      "shumai",
+      "烧麦",
+      "烧卖"
+    ],
+    "summary": "面皮包馅蒸制点心，南北做法不一，宜热食。",
+    "caution": "糯米馅偏黏腻，胃弱者适量。"
   },
   {
     "id": "she-minced-tea",
@@ -9476,6 +9978,32 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "pine-nut-snack",
+    "name": "松子",
+    "category": "坚果种子",
+    "nature": "温",
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "松子仁",
+      "炒松子",
+      "东北松子"
+    ],
+    "searchTerms": [
+      "songzi",
+      "sz",
+      "pine nut",
+      "松子",
+      "松子仁"
+    ],
+    "summary": "常见炒货坚果，偏温润，宜少量。",
+    "caution": "高脂，腹泻、肥胖管理期适量；与药食「松子仁」区分规格。"
+  },
+  {
     "id": "tibetan-butter-tea",
     "name": "酥油茶",
     "en": "butter tea",
@@ -9560,6 +10088,33 @@ const CN_SUPPLEMENT_FOODS = [
       "中秋"
     ],
     "summary": "立秋至中秋海产高峰，宜清蒸、姜炒；痛风、孕妇及过敏体质慎食。"
+  },
+  {
+    "id": "tangyuan",
+    "name": "汤圆",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "元宵",
+      "团子",
+      "芝麻汤圆"
+    ],
+    "searchTerms": [
+      "tangyuan",
+      "ty",
+      "yuanxiao",
+      "yx",
+      "汤圆",
+      "元宵"
+    ],
+    "summary": "糯米制圆子，多煮糖水食用，偏温黏。",
+    "caution": "糯米难消化，吞咽与控糖人群注意。"
   },
   {
     "id": "pond-loach",
@@ -10637,6 +11192,33 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "海鲜过敏者禁食；高尿酸适量。"
   },
   {
+    "id": "macadamia",
+    "name": "夏威夷果",
+    "en": "macadamia",
+    "category": "坚果种子",
+    "nature": "温",
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN",
+      "AU",
+      "US"
+    ],
+    "aliases": [
+      "澳洲坚果",
+      "夏威夷坚果"
+    ],
+    "searchTerms": [
+      "xiaweiyiguo",
+      "xwyg",
+      "macadamia",
+      "夏威夷果"
+    ],
+    "summary": "奶油香坚果，油脂丰富，宜少量。",
+    "caution": "高脂高热量，控脂与肥胖管理期限量。"
+  },
+  {
     "id": "prickly-pear-fruit",
     "name": "仙人掌果",
     "en": "prickly pear fruit",
@@ -11342,6 +11924,72 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "cod-fish",
+    "name": "鳕鱼",
+    "en": "cod",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "补虚"
+    ],
+    "regions": [
+      "CN",
+      "NO",
+      "IS"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "真鳕鱼",
+      "银鳕鱼（市售俗称）"
+    ],
+    "pinyin": "xueyu",
+    "initials": "xy",
+    "searchTerms": [
+      "xueyu",
+      "xy",
+      "cod",
+      "鳕鱼",
+      "真鳕鱼"
+    ],
+    "summary": "肉质细白的海鱼，宜蒸烤；市售「银鳕鱼」多为油鱼或裸盖鱼需辨品类。",
+    "caution": "油鱼类易引起油脂泻，购买时注意来源标识。"
+  },
+  {
+    "id": "duck-neck",
+    "name": "鸭脖",
+    "en": "duck neck",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北",
+      "湖南"
+    ],
+    "aliases": [
+      "麻辣鸭脖",
+      "卤鸭脖"
+    ],
+    "pinyin": "yabo",
+    "initials": "yb",
+    "searchTerms": [
+      "yabo",
+      "yb",
+      "duck neck",
+      "鸭脖",
+      "麻辣鸭脖"
+    ],
+    "baseFoodId": "duck",
+    "summary": "常见卤味零食，辛辣重口，宜少量。",
+    "caution": "高盐辛辣，胃病患者、儿童不宜多食。"
+  },
+  {
     "id": "duck-egg",
     "name": "鸭蛋",
     "en": "duck egg",
@@ -11490,6 +12138,40 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "燕麦，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "bird-nest",
+    "name": "燕窝",
+    "en": "bird nest",
+    "category": "滋补食材",
+    "nature": "平",
+    "effects": [
+      "滋阴",
+      "润肺"
+    ],
+    "regions": [
+      "CN",
+      "东南亚"
+    ],
+    "provinces": [
+      "福建",
+      "广东"
+    ],
+    "aliases": [
+      "燕盏",
+      "即食燕窝"
+    ],
+    "pinyin": "yanwo",
+    "initials": "yw",
+    "searchTerms": [
+      "yanwo",
+      "yw",
+      "bird nest",
+      "燕窝"
+    ],
+    "usageScope": "reference-only",
+    "summary": "传统滋补品，市面多为屋燕唾液腺分泌物制品，非日常食材。",
+    "caution": "来源与真伪难辨；过敏与孕期人群遵医嘱；本条仅供查阅。"
   },
   {
     "id": "morel",
@@ -11669,6 +12351,31 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "洋葱，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "cashew",
+    "name": "腰果",
+    "en": "cashew",
+    "category": "坚果种子",
+    "nature": "平",
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "腰果仁",
+      "盐焗腰果"
+    ],
+    "searchTerms": [
+      "yaoguo",
+      "yg",
+      "cashew",
+      "腰果"
+    ],
+    "summary": "常见坚果炒货，偏平，宜少量。",
+    "caution": "盐焗、油炸版本注意钠与热量；过敏体质留意。"
   },
   {
     "id": "coconut",
@@ -12059,6 +12766,32 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "youtiao",
+    "name": "油条",
+    "category": "主食",
+    "nature": "热",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "油炸鬼",
+      "馃子",
+      "果子"
+    ],
+    "searchTerms": [
+      "youtiao",
+      "yt",
+      "油条",
+      "油炸鬼",
+      "馃子"
+    ],
+    "summary": "常见油炸面食，偏温热油腻，早餐宜少量。",
+    "caution": "反流、胆囊不适、控脂人群适量。"
+  },
+  {
     "id": "squid",
     "name": "鱿鱼",
     "en": "squid",
@@ -12266,6 +12999,31 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "芋头，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "mooncake",
+    "name": "月饼",
+    "category": "零食",
+    "nature": "温",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "广式月饼",
+      "苏式月饼",
+      "冰皮月饼"
+    ],
+    "searchTerms": [
+      "yuebing",
+      "yb",
+      "mooncake",
+      "月饼"
+    ],
+    "summary": "中秋常见糕点，偏甜偏油，宜分次少量。",
+    "caution": "高糖高脂，糖尿病、控脂人群限量。"
   },
   {
     "id": "cloud-ear",
@@ -12907,6 +13665,31 @@ const CN_SUPPLEMENT_FOODS = [
       "perilla seed",
       "紫苏子"
     ]
+  },
+  {
+    "id": "zongzi",
+    "name": "粽子",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "肉粽",
+      "碱水粽",
+      "甜粽"
+    ],
+    "searchTerms": [
+      "zongzi",
+      "zz",
+      "粽子",
+      "肉粽"
+    ],
+    "summary": "糯米包裹馅料的节令食品，偏温黏腻，宜热食、适量。",
+    "caution": "糯米难消化，胃胀、糖尿病者适量。"
   },
   {
     "id": "biangbiang-noodle",
