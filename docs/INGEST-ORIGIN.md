@@ -57,6 +57,35 @@ npm run ingest:origin
 - `generated/origin-products.js` 存在
 - `baseFoodId` 是否在食材 catalog 中（警告）
 
+## 全量 GI 抓取（截至 2026-06-09）
+
+从国家知识产权局公告 PDF 解析 CNIPA 地理标志产品，并合并道地药材 stub、MARA 历史 AGI、PEOP 公告条目：
+
+```bash
+npm run sync:gi-full
+npm run build:data
+npm test
+```
+
+分项抓取：
+
+```bash
+npm run fetch:mara-agi   # 绿色食品中心 API，约 3510 条历史 AGI
+npm run fetch:peop       # stycd 证书 + ycdoffice 公告，约 400+ 条 PEOP
+```
+
+输出：
+
+| 文件 | 说明 |
+|------|------|
+| `data/raw/origin/cnipa-announcements/products-through-2026-06-09.json` | CNIPA PDF 解析结果（~2257） |
+| `data/raw/origin/mara-agi/products-through-2026-06-09.json` | MARA 农产品地理标志（3510） |
+| `data/raw/origin/peop-announcements/products-through-2026-06-09.json` | PEOP 生态原产地（~400+） |
+| `data/raw/origin/dao-di-origin-stubs.json` | 363 道地药材产地卡 |
+| `data/raw/origin/mara-agi-origin-stubs.json` | MARA 产地卡 stub |
+| `data/raw/origin/peop-origin-stubs.json` | PEOP 产地卡 stub |
+| `data/cn/origin-products.json` | 归一化输出（去重合并后 4400+ 条） |
+
 ## 道地交叉表
 
 `data/cn/gi-dao-di-crosswalk.json` 在 ingest 时自动为 GI 条目补 `baseFoodId`、`daoDi`、`peop`。

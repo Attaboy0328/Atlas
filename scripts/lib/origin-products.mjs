@@ -102,6 +102,9 @@ function originNameRank(product, seedIds) {
   if (seedIds.has(product.id)) score += 100;
   if (/-gi$/.test(product.id)) score += 50;
   if (!/manifest/.test(product.id)) score += 20;
+  if (/^mara-agi\d+$/i.test(product.id)) score += 5;
+  if (/[\u4e00-\u9fff]/.test(product.id)) score -= 40;
+  if (/^mara-/.test(product.id) && !/^mara-agi/i.test(product.id)) score -= 10;
   score += (product.giSystems?.length || 0) * 5;
   return score;
 }
@@ -131,6 +134,7 @@ export function dedupeOriginProductsByName(items, seedIds = new Set()) {
       canonical.aliases = uniq([...(canonical.aliases || []), dup.id, ...(dup.aliases || [])]);
       canonical.searchTerms = uniq([...(canonical.searchTerms || []), ...(dup.searchTerms || [])]);
       canonical.provinces = uniq([...(canonical.provinces || []), ...(dup.provinces || [])]);
+      if (!canonical.peop && dup.peop) canonical.peop = dup.peop;
       if (!canonical.summary && dup.summary) canonical.summary = dup.summary;
       if (!canonical.provenance?.sourceId && dup.provenance?.sourceId) {
         canonical.provenance = { ...(canonical.provenance || {}), ...dup.provenance };

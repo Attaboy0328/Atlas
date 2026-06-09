@@ -2279,7 +2279,7 @@
   },
   {
     "detailId": "107",
-    "name": "滑石粉系滑石经精选净制、粉碎、干燥制成。主产山东、辽宁、广西。",
+    "name": "滑石粉",
     "aliases": [
       "中药学名（拉丁名）：TALCI PULVIS"
     ],
@@ -3333,11 +3333,12 @@
   },
   {
     "detailId": "148",
-    "name": "延胡索（元胡）",
+    "name": "延胡索",
     "aliases": [
       "延胡",
       "玄胡索",
-      "元胡索"
+      "元胡索",
+      "元胡"
     ],
     "latinName": "CORYDALIS RHIZOMA",
     "family": "罂粟科",
@@ -6243,11 +6244,12 @@
   },
   {
     "detailId": "259",
-    "name": "降香（印度黄檀）",
+    "name": "降香",
     "aliases": [
       "降真香",
       "紫藤香",
-      "降真"
+      "降真",
+      "印度黄檀"
     ],
     "latinName": "LIGNUM DALBERGIAE",
     "family": "豆科",
