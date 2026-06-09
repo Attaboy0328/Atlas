@@ -1,6 +1,6 @@
 [
   {
-    "id": "prickly-pear-fruit",
+    "id": "cili-fruit",
     "name": "刺梨",
     "en": "prickly pear fruit",
     "category": "水果",
@@ -14,7 +14,7 @@
   {
     "id": "preserved-fruit",
     "name": "蜜饯",
-    "category": "果脯蜜饯",
+    "category": "零食",
     "nature": "温",
     "effects": ["生津"],
     "regions": ["CN"],

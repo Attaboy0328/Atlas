@@ -1307,6 +1307,32 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "cili-fruit",
+    "name": "刺梨",
+    "en": "prickly pear fruit",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "生津",
+      "清润"
+    ],
+    "regions": [
+      "CN",
+      "贵州"
+    ],
+    "aliases": [
+      "刺梨子",
+      "山刺梨"
+    ],
+    "searchTerms": [
+      "cili",
+      "cl",
+      "刺梨",
+      "刺梨子"
+    ],
+    "summary": "贵州等地常见野果，味酸涩，多用于泡酒、制汁或蜜饯。"
+  },
+  {
     "id": "sashimi-salmon",
     "name": "刺身三文鱼",
     "en": "sashimi salmon",
@@ -5472,6 +5498,32 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "sunflower-seed",
+    "name": "葵花籽",
+    "category": "坚果种子",
+    "nature": "平",
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "瓜子",
+      "葵瓜子",
+      "香瓜子"
+    ],
+    "searchTerms": [
+      "kuihuazi",
+      "khz",
+      "guazi",
+      "gz",
+      "瓜子",
+      "葵花籽"
+    ],
+    "summary": "常见炒货零食，偏平，宜少量；盐焗、奶油口味注意钠与添加糖。"
+  },
+  {
     "id": "lahu-bamboo-rice",
     "name": "拉祜族竹筒饭",
     "en": "Lahu bamboo rice",
@@ -7034,6 +7086,30 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "preserved-fruit",
+    "name": "蜜饯",
+    "category": "零食",
+    "nature": "温",
+    "effects": [
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "果脯",
+      "话梅"
+    ],
+    "searchTerms": [
+      "mijian",
+      "mj",
+      "蜜饯",
+      "果脯"
+    ],
+    "summary": "糖渍或盐渍果脯类零食，偏甜偏温，宜少量佐餐。",
+    "caution": "含糖量高，糖尿病、控糖人群应限量；儿童不宜多食。"
+  },
+  {
     "id": "flour",
     "name": "面粉",
     "en": "flour",
@@ -8133,6 +8209,31 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "安徽红茶名品。"
   },
   {
+    "id": "chia-seed",
+    "name": "奇亚籽",
+    "en": "chia seed",
+    "category": "坚果种子",
+    "nature": "平",
+    "effects": [
+      "润肠"
+    ],
+    "regions": [
+      "CN",
+      "US",
+      "MX"
+    ],
+    "aliases": [
+      "奇亚子"
+    ],
+    "searchTerms": [
+      "jiyazi",
+      "jyz",
+      "chia",
+      "奇亚籽"
+    ],
+    "summary": "进口超级食物种子，吸水膨胀，常见于早餐、酸奶搭配。"
+  },
+  {
     "id": "buckwheat",
     "name": "荞麦",
     "en": "buckwheat",
@@ -8612,6 +8713,38 @@ const CN_SUPPLEMENT_FOODS = [
       "rjm"
     ],
     "summary": "陕西方代表小吃。"
+  },
+  {
+    "id": "pigeon",
+    "name": "乳鸽",
+    "en": "young pigeon",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补益"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "香港"
+    ],
+    "aliases": [
+      "鸽子",
+      "烧乳鸽"
+    ],
+    "pinyin": "ruge",
+    "initials": "rg",
+    "searchTerms": [
+      "ruge",
+      "rg",
+      "gezi",
+      "gz",
+      "乳鸽",
+      "鸽子",
+      "young pigeon"
+    ],
+    "summary": "广东常见滋补禽类，多用于炖汤、红烧；体质偏热、感冒发热时适量。",
+    "caution": "高嘌呤，痛风急性期慎食；须彻底做熟。"
   },
   {
     "id": "mulberry",
@@ -9579,6 +9712,28 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "寄生虫风险，忌生食。"
   },
   {
+    "id": "field-mouse",
+    "name": "田鼠",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补益"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "广西"
+    ],
+    "searchTerms": [
+      "tianshu",
+      "ts",
+      "田鼠"
+    ],
+    "summary": "部分地方饮食中的参考条目，非日常食材。",
+    "usageScope": "reference-only",
+    "caution": "野生动物及来源不明肉类存在疫病与法律风险；本条仅供查阅，不建议自行采购食用。"
+  },
+  {
     "id": "sweet-melon",
     "name": "甜瓜",
     "en": "sweet melon",
@@ -10187,6 +10342,24 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "西瓜，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "watermelon-seed",
+    "name": "西瓜子",
+    "category": "坚果种子",
+    "nature": "平",
+    "effects": [
+      "休闲零食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "xiguazi",
+      "xgz",
+      "西瓜子"
+    ],
+    "summary": "常见炒货零食，偏平，宜少量；盐焗口味注意钠摄入。"
   },
   {
     "id": "xihu-lotus-powder",
@@ -12428,6 +12601,32 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "日常荤食，偏平，炖、煮、炒均可。",
     "caution": "高脂血症、控脂期注意部位与份量。"
+  },
+  {
+    "id": "bamboo-rat",
+    "name": "竹鼠",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补益"
+    ],
+    "regions": [
+      "CN",
+      "广西",
+      "广东"
+    ],
+    "aliases": [
+      "芒洞鼠",
+      "竹狸"
+    ],
+    "searchTerms": [
+      "zhushu",
+      "zs",
+      "竹鼠"
+    ],
+    "summary": "华南地方物产参考条目，传统上偶有入馔记载，非日常食材。",
+    "usageScope": "reference-only",
+    "caution": "野生动物及来源不明肉类存在疫病与法律风险；本条仅供查阅，不建议自行采购食用。"
   },
   {
     "id": "bamboo-fungus",

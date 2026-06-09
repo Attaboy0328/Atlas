@@ -101,7 +101,7 @@ const FOOD_SEARCH_NEAR_HINTS = [
   { terms: ["乳鸽", "鸽子", "ruge", "gezi"], ids: ["pigeon"] },
   { terms: ["沙棘", "沙棘果", "沙棘汁", "shaji", "sj"], ids: ["official-sea-buckthorn", "sea-buckthorn-fruit", "seabuckthorn-juice", "hippophae-fruit"] },
   { terms: ["小扁豆", "xiaobiandou"], ids: ["cat-bean-164"] },
-  { terms: ["刺梨", "cili"], ids: ["prickly-pear-fruit"] },
+  { terms: ["刺梨", "刺梨子", "cili"], ids: ["cili-fruit"] },
   { terms: ["蜜饯", "mijian"], ids: ["preserved-fruit"] },
   { terms: ["奇亚籽", "chia", "jiyazi"], ids: ["chia-seed"] },
   { terms: ["瓜子", "葵瓜子", "葵花籽", "guazi", "kuihuazi"], ids: ["sunflower-seed"] },
@@ -2544,7 +2544,8 @@ function normalizeFoods(items) {
     searchBlob: uniq(searchTerms).join(" ").toLowerCase(),
     alone: cleanString(food.alone || enrichment.alone || ""),
     timing: cleanString(food.timing || enrichment.timing || ""),
-    pair: cleanString(food.pair || enrichment.pair || "")
+    pair: cleanString(food.pair || enrichment.pair || ""),
+    hiddenFromLibrary: Boolean(food.hiddenFromLibrary)
   };
   });
 }
@@ -2623,8 +2624,9 @@ function mergeFoodEntries(current, incoming) {
   merged.peop = primary.peop || secondary.peop || null;
   merged.daoDi = primary.daoDi || secondary.daoDi || null;
   merged.provenance = primary.provenance || secondary.provenance || null;
-  merged.regulatoryNote = primary.regulatoryNote || secondary.regulatoryNote || "";
-  merged.searchBlob = uniq([merged.name, ...(merged.searchTerms || []), ...(merged.aliases || [])])
+    merged.regulatoryNote = primary.regulatoryNote || secondary.regulatoryNote || "";
+    merged.hiddenFromLibrary = Boolean(current.hiddenFromLibrary && incoming.hiddenFromLibrary);
+    merged.searchBlob = uniq([merged.name, ...(merged.searchTerms || []), ...(merged.aliases || [])])
     .map((item) => cleanString(item).toLowerCase())
     .filter(Boolean)
     .join(" ");
@@ -4947,11 +4949,16 @@ function renderNearMatchBlock(query, matches, { dataAttr = "data-open-food", lim
 function searchFoods(query, options = {}) {
   const term = cleanString(query).toLowerCase();
   const excludeIds = options.excludeIds || [];
-  let items = foods.filter((food) => !excludeIds.includes(food.id) && isFoodSearchVisible(food));
+  const base = foods.filter((food) => !excludeIds.includes(food.id) && isFoodSearchVisible(food));
+  let items = base;
 
   if (term) {
-    items = items.filter((food) => food.searchBlob.includes(term));
     const synonymHits = foodsForSearchSynonym(term, excludeIds);
+    const synonymIds = new Set(synonymHits.map((food) => food.id));
+    items = base.filter((food) => {
+      const blob = food.searchBlob || "";
+      return synonymIds.has(food.id) || blob.includes(term);
+    });
     synonymHits.forEach((food) => {
       if (!items.some((item) => item.id === food.id)) items.push(food);
     });
@@ -4974,11 +4981,12 @@ function searchFoods(query, options = {}) {
 function scoreFood(food, term) {
   if (!term) return Number(food.officialFoodMedicine) * 10 + Number(food.category === "茶饮");
   let score = 0;
+  if (resolveSearchSynonymIds(term).includes(resolveFoodId(food.id))) score += 120;
   if (food.name.toLowerCase() === term) score += 100;
   if (food.aliases.some((alias) => alias.toLowerCase() === term)) score += 80;
   if (food.name.toLowerCase().includes(term)) score += 60;
   if (food.searchTerms.some((item) => item.toLowerCase() === term)) score += 40;
-  if (food.searchBlob.includes(term)) score += 10;
+  if ((food.searchBlob || "").includes(term)) score += 10;
   return score;
 }
 

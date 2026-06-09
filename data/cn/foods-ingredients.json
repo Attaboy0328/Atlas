@@ -7626,5 +7626,37 @@
     ],
     "summary": "桂圆干，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "pigeon",
+    "name": "乳鸽",
+    "en": "young pigeon",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补益"
+    ],
+    "regions": [
+      "CN",
+      "广东",
+      "香港"
+    ],
+    "aliases": [
+      "鸽子",
+      "烧乳鸽"
+    ],
+    "pinyin": "ruge",
+    "initials": "rg",
+    "searchTerms": [
+      "ruge",
+      "rg",
+      "gezi",
+      "gz",
+      "乳鸽",
+      "鸽子",
+      "young pigeon"
+    ],
+    "summary": "广东常见滋补禽类，多用于炖汤、红烧；体质偏热、感冒发热时适量。",
+    "caution": "高嘌呤，痛风急性期慎食；须彻底做熟。"
   }
 ]

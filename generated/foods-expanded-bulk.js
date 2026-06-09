@@ -27684,7 +27684,7 @@ const EXPANDED_FOODS_BULK = [
     "hiddenFromLibrary": true
   },
   {
-    "id": "prickly-pear-fruit",
+    "id": "cili-fruit",
     "name": "刺梨",
     "en": "prickly pear fruit",
     "jp": "",
@@ -27754,7 +27754,7 @@ const EXPANDED_FOODS_BULK = [
     "regions": [
       "CN"
     ],
-    "category": "果脯蜜饯",
+    "category": "零食",
     "nature": "温",
     "flavor": "未标注",
     "meridians": [],
