@@ -5076,6 +5076,7 @@ function foodRow(food, options = {}) {
         <small>${foodListMeta(food)}</small>
       </div>
       ${compact ? natureBadge(food.nature) : natureStamp(food.nature, { small: true })}
+      ${compact ? "" : `<span class="food-row-chevron" aria-hidden="true">›</span>`}
     </button>
   `;
 }
