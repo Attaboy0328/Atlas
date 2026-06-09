@@ -2078,7 +2078,7 @@ function bindShellEvents() {
   });
 
   closeSheet.addEventListener("click", closeDetailSheet);
-  sheetBackdrop.addEventListener("click", closeDetailSheet);
+  bindSheetBackdropDismiss();
   bindSheetSwipeClose();
   bindZoomGuards();
   document.addEventListener("click", handleDelegatedActionClick);
@@ -5538,13 +5538,25 @@ function finalizeCloseDetailSheet(options = {}) {
 
 function closeDetailSheet() {
   if (!state.sheet) return;
+  triggerHapticFeedback();
 
   if (navStackDepth > 0) {
-    history.back();
+    navStackDepth = Math.max(0, navStackDepth - 1);
+    finalizeCloseDetailSheet({ skipUrl: true });
+    syncUrl({ push: false });
     return;
   }
 
   finalizeCloseDetailSheet();
+}
+
+function bindSheetBackdropDismiss() {
+  sheetBackdrop.addEventListener("pointerdown", (event) => {
+    if (event.pointerType === "mouse" && event.button !== 0) return;
+    if (event.target !== sheetBackdrop) return;
+    event.preventDefault();
+    closeDetailSheet();
+  });
 }
 
 function showSheet(html) {
@@ -5885,29 +5897,29 @@ function bindSheetSubnavSpy(container = sheetContent) {
 }
 
 function bindSheetSwipeClose() {
-  const handle = sheet.querySelector(".sheet-handle");
-  if (!handle || handle.dataset.swipeBound === "true") return;
-  handle.dataset.swipeBound = "true";
+  const dismissZone = sheet.querySelector(".sheet-dismiss-zone");
+  if (!dismissZone || dismissZone.dataset.swipeBound === "true") return;
+  dismissZone.dataset.swipeBound = "true";
 
   let startY = 0;
   let dragging = false;
 
-  handle.addEventListener("touchstart", (event) => {
+  dismissZone.addEventListener("touchstart", (event) => {
     if (event.touches.length !== 1) return;
     startY = event.touches[0].clientY;
     dragging = true;
   }, { passive: true });
 
-  handle.addEventListener("touchmove", (event) => {
+  dismissZone.addEventListener("touchmove", (event) => {
     if (!dragging || event.touches.length !== 1) return;
     const delta = event.touches[0].clientY - startY;
-    if (delta > 72) {
+    if (delta > 48) {
       dragging = false;
       closeDetailSheet();
     }
   }, { passive: true });
 
-  handle.addEventListener("touchend", () => {
+  dismissZone.addEventListener("touchend", () => {
     dragging = false;
   }, { passive: true });
 }

@@ -3252,11 +3252,14 @@ button {
   background: rgba(18, 30, 23, 0.34);
   opacity: 0;
   backdrop-filter: blur(0);
+  touch-action: manipulation;
   transition: opacity 240ms var(--ease-ios), backdrop-filter 320ms var(--ease-ios);
 }
 
 .sheet-backdrop.visible {
   opacity: 1;
+  cursor: pointer;
+  background: rgba(18, 30, 23, 0.44);
   backdrop-filter: blur(8px);
 }
 
@@ -3266,7 +3269,7 @@ button {
   left: 50%;
   bottom: 0;
   width: min(100%, 480px);
-  max-height: 90vh;
+  max-height: 84vh;
   overflow: hidden;
   border-radius: 28px 28px 0 0;
   background: var(--surface);
@@ -3280,10 +3283,17 @@ button {
   transform: translate(-50%, 0);
 }
 
+.sheet-dismiss-zone {
+  position: relative;
+  z-index: 2;
+  padding: 8px 0 4px;
+  touch-action: none;
+}
+
 .sheet-handle {
   width: 40px;
   height: 5px;
-  margin: 10px auto 0;
+  margin: 0 auto;
   border-radius: 999px;
   background: color-mix(in srgb, var(--ink-3) 55%, transparent);
 }
@@ -3303,7 +3313,7 @@ button {
 }
 
 .sheet-content {
-  max-height: calc(90vh - 14px);
+  max-height: calc(84vh - 44px);
   overflow-y: auto;
   overflow-x: hidden;
   overscroll-behavior: contain;
