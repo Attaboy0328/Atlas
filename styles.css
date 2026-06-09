@@ -2933,9 +2933,10 @@ button {
 }
 
 .accent-swatches {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
   gap: 12px;
+  max-width: 280px;
 }
 
 .accent-swatch {

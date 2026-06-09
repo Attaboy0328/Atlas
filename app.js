@@ -195,27 +195,61 @@ const THEME_MODE_OPTIONS = [
 
 const THEME_ACCENT_OPTIONS = [
   { id: "pine", label: "松绿", swatch: "#2e674d" },
-  { id: "bamboo", label: "竹青", swatch: "#3d6b52" },
   { id: "ochre", label: "赭石", swatch: "#8a5c3a" },
-  { id: "indigo", label: "黛蓝", swatch: "#3d5a6b" }
+  { id: "slate", label: "黛蓝", swatch: "#3d5a6b" },
+  { id: "cinnabar", label: "朱砂", swatch: "#9e4a42" },
+  { id: "wisteria", label: "藤紫", swatch: "#6b5b8a" },
+  { id: "amber", label: "琥珀", swatch: "#a67c35" },
+  { id: "sandalwood", label: "檀木", swatch: "#7a5c52" },
+  { id: "indigo", label: "靛青", swatch: "#3a4f7a" },
+  { id: "lotus", label: "藕荷", swatch: "#9a6b7a" },
+  { id: "autumn", label: "秋香", swatch: "#8a7a3a" }
 ];
+
+const THEME_ACCENT_LEGACY_MAP = {
+  bamboo: "pine"
+};
 
 const THEME_ACCENT_PRESETS = {
   pine: {
     light: { green: "#2e674d", greenDeep: "#1f4a37", greenPale: "#e2ebe3", brandTint: "#e6efe8", accent: "#b8863b" },
-    dark: { green: "#4f9e78", greenDeep: "#8fd3ac", greenPale: "#1f352b", brandTint: "#21392e", accent: "#cba265" }
-  },
-  bamboo: {
-    light: { green: "#3d6b52", greenDeep: "#2a4d3a", greenPale: "#e4efe8", brandTint: "#e8f2ec", accent: "#7a9b6e" },
-    dark: { green: "#5aab82", greenDeep: "#9fd4b0", greenPale: "#1e3328", brandTint: "#1f3a2d", accent: "#a8c99a" }
+    dark: { green: "#5aab82", greenDeep: "#7ec9a4", greenPale: "#1f352b", brandTint: "#21392e", accent: "#d4a85a" }
   },
   ochre: {
     light: { green: "#8a5c3a", greenDeep: "#6b4428", greenPale: "#f0e8df", brandTint: "#f5ebe3", accent: "#c4925a" },
-    dark: { green: "#c4895a", greenDeep: "#e8b896", greenPale: "#3a2a1f", brandTint: "#3d2e24", accent: "#d4a574" }
+    dark: { green: "#c4895a", greenDeep: "#d9a574", greenPale: "#3a2a1f", brandTint: "#3d2e24", accent: "#e0b888" }
+  },
+  slate: {
+    light: { green: "#3d5a6b", greenDeep: "#2a4150", greenPale: "#e5edf2", brandTint: "#e8f0f5", accent: "#6b8a9b" },
+    dark: { green: "#6a9ab8", greenDeep: "#8ab4cc", greenPale: "#1f2e38", brandTint: "#243440", accent: "#94b8cc" }
+  },
+  cinnabar: {
+    light: { green: "#9e4a42", greenDeep: "#7a352f", greenPale: "#f5e8e6", brandTint: "#f8ecea", accent: "#b8863b" },
+    dark: { green: "#d4736a", greenDeep: "#e8958c", greenPale: "#3a2420", brandTint: "#402826", accent: "#d4a85a" }
+  },
+  wisteria: {
+    light: { green: "#6b5b8a", greenDeep: "#524670", greenPale: "#eeeaf2", brandTint: "#f0ecf5", accent: "#8a7340" },
+    dark: { green: "#9a8ab8", greenDeep: "#b4a4d0", greenPale: "#2a2438", brandTint: "#302840", accent: "#c4a86a" }
+  },
+  amber: {
+    light: { green: "#a67c35", greenDeep: "#7a5a22", greenPale: "#f5eed8", brandTint: "#f8f2e6", accent: "#8a5c3a" },
+    dark: { green: "#d4a85a", greenDeep: "#e8c078", greenPale: "#3a3020", brandTint: "#403528", accent: "#c4895a" }
+  },
+  sandalwood: {
+    light: { green: "#7a5c52", greenDeep: "#5c443c", greenPale: "#f0eae6", brandTint: "#f5efeb", accent: "#9a7a6a" },
+    dark: { green: "#b89484", greenDeep: "#d0ac9c", greenPale: "#352a26", brandTint: "#3a302c", accent: "#c4a494" }
   },
   indigo: {
-    light: { green: "#3d5a6b", greenDeep: "#2a4150", greenPale: "#e5edf2", brandTint: "#e8f0f5", accent: "#6b8a9b" },
-    dark: { green: "#5a8aa8", greenDeep: "#8ab8d4", greenPale: "#1f2e38", brandTint: "#243440", accent: "#94b8cc" }
+    light: { green: "#3a4f7a", greenDeep: "#283a5c", greenPale: "#e6ebf2", brandTint: "#eaedf5", accent: "#6b7a9b" },
+    dark: { green: "#6a8ac4", greenDeep: "#88a4d8", greenPale: "#1e2838", brandTint: "#242e42", accent: "#94a8c8" }
+  },
+  lotus: {
+    light: { green: "#9a6b7a", greenDeep: "#7a5260", greenPale: "#f5eaee", brandTint: "#f8eef2", accent: "#8a7340" },
+    dark: { green: "#c494a8", greenDeep: "#d8acb8", greenPale: "#382830", brandTint: "#3e2e34", accent: "#c4a86a" }
+  },
+  autumn: {
+    light: { green: "#8a7a3a", greenDeep: "#6a5c28", greenPale: "#f0ecd8", brandTint: "#f5f0e6", accent: "#a67c35" },
+    dark: { green: "#c4b45a", greenDeep: "#d8c878", greenPale: "#383020", brandTint: "#3e3828", accent: "#d4a85a" }
   }
 };
 
@@ -1893,10 +1927,38 @@ function resolveThemeMode(mode = state.themeMode) {
   return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 }
 
+function normalizeThemeAccent(accent) {
+  if (THEME_ACCENT_PRESETS[accent]) return accent;
+  return THEME_ACCENT_LEGACY_MAP[accent] || "pine";
+}
+
+function migrateThemeAccent() {
+  let changed = false;
+  const accent = state.themeAccent || "pine";
+
+  if (accent === "bamboo") {
+    state.themeAccent = "pine";
+    changed = true;
+  } else if (accent === "indigo" && !state.profile.themeAccentV2) {
+    state.themeAccent = "slate";
+    changed = true;
+  } else if (!THEME_ACCENT_PRESETS[accent]) {
+    state.themeAccent = "pine";
+    changed = true;
+  }
+
+  if (!state.profile.themeAccentV2) {
+    state.profile.themeAccentV2 = true;
+    changed = true;
+  }
+
+  if (changed) persistAppearanceSettings();
+}
+
 function applyThemeAppearance() {
   const root = document.documentElement;
   const mode = state.themeMode || "system";
-  const accent = THEME_ACCENT_PRESETS[state.themeAccent] ? state.themeAccent : "pine";
+  const accent = normalizeThemeAccent(state.themeAccent);
 
   if (mode === "system") {
     root.removeAttribute("data-theme");
@@ -1935,6 +1997,7 @@ function persistAppearanceSettings() {
 }
 
 function initAppearanceSettings() {
+  migrateThemeAccent();
   applyThemeAppearance();
   const media = window.matchMedia("(prefers-color-scheme: dark)");
   if (typeof media.addEventListener === "function") {
