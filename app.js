@@ -187,6 +187,38 @@ const PROFILE_OPTIONS = [
   { id: "hypertension", label: "高血压、心脏或肾脏问题" }
 ];
 
+const THEME_MODE_OPTIONS = [
+  { id: "system", label: "跟随系统" },
+  { id: "light", label: "浅色" },
+  { id: "dark", label: "深色" }
+];
+
+const THEME_ACCENT_OPTIONS = [
+  { id: "pine", label: "松绿", swatch: "#2e674d" },
+  { id: "bamboo", label: "竹青", swatch: "#3d6b52" },
+  { id: "ochre", label: "赭石", swatch: "#8a5c3a" },
+  { id: "indigo", label: "黛蓝", swatch: "#3d5a6b" }
+];
+
+const THEME_ACCENT_PRESETS = {
+  pine: {
+    light: { green: "#2e674d", greenDeep: "#1f4a37", greenPale: "#e2ebe3", brandTint: "#e6efe8", accent: "#b8863b" },
+    dark: { green: "#4f9e78", greenDeep: "#8fd3ac", greenPale: "#1f352b", brandTint: "#21392e", accent: "#cba265" }
+  },
+  bamboo: {
+    light: { green: "#3d6b52", greenDeep: "#2a4d3a", greenPale: "#e4efe8", brandTint: "#e8f2ec", accent: "#7a9b6e" },
+    dark: { green: "#5aab82", greenDeep: "#9fd4b0", greenPale: "#1e3328", brandTint: "#1f3a2d", accent: "#a8c99a" }
+  },
+  ochre: {
+    light: { green: "#8a5c3a", greenDeep: "#6b4428", greenPale: "#f0e8df", brandTint: "#f5ebe3", accent: "#c4925a" },
+    dark: { green: "#c4895a", greenDeep: "#e8b896", greenPale: "#3a2a1f", brandTint: "#3d2e24", accent: "#d4a574" }
+  },
+  indigo: {
+    light: { green: "#3d5a6b", greenDeep: "#2a4150", greenPale: "#e5edf2", brandTint: "#e8f0f5", accent: "#6b8a9b" },
+    dark: { green: "#5a8aa8", greenDeep: "#8ab8d4", greenPale: "#1f2e38", brandTint: "#243440", accent: "#94b8cc" }
+  }
+};
+
 const RECIPE_LIFESTYLE_SCENARIOS = [
   { label: "熬夜调理", subtitle: "滋阴润燥", tone: "#6f98a4", pale: "#e9f1f2", scenarioIndex: 2 },
   { label: "清热祛湿", subtitle: "暑湿困重", tone: "#4a7c59", pale: "#e3f0e8", scenarioIndex: 6 },
@@ -593,6 +625,8 @@ const state = {
   recipesTonify: "全部",
   recipesClear: "全部",
   profile: loadJson("foodwise-profile", {}),
+  themeMode: loadJson("foodwise-profile", {}).themeMode || "system",
+  themeAccent: loadJson("foodwise-profile", {}).themeAccent || "pine",
   favorites: loadJson("foodwise-favorites", []),
   favoriteRecipes: loadJson("foodwise-favorite-recipes", []),
   recentFoods: loadJson("foodwise-recent-foods", []),
@@ -1854,7 +1888,68 @@ function renderPwaInstallSection() {
   `;
 }
 
+function resolveThemeMode(mode = state.themeMode) {
+  if (mode === "dark" || mode === "light") return mode;
+  return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+}
+
+function applyThemeAppearance() {
+  const root = document.documentElement;
+  const mode = state.themeMode || "system";
+  const accent = THEME_ACCENT_PRESETS[state.themeAccent] ? state.themeAccent : "pine";
+
+  if (mode === "system") {
+    root.removeAttribute("data-theme");
+  } else {
+    root.dataset.theme = mode;
+  }
+  root.dataset.accent = accent;
+
+  const resolved = resolveThemeMode(mode);
+  const preset = THEME_ACCENT_PRESETS[accent];
+  const colors = resolved === "dark" ? preset.dark : preset.light;
+
+  root.style.setProperty("--green", colors.green);
+  root.style.setProperty("--green-deep", colors.greenDeep);
+  root.style.setProperty("--green-pale", colors.greenPale);
+  root.style.setProperty("--brand", colors.green);
+  root.style.setProperty("--brand-strong", colors.greenDeep);
+  root.style.setProperty("--brand-tint", colors.brandTint);
+  root.style.setProperty("--accent", colors.accent);
+
+  const themeColor = resolved === "dark" ? "#14171a" : "#f6f3eb";
+  let meta = document.querySelector('meta[name="theme-color"][data-dynamic="true"]');
+  if (!meta) {
+    meta = document.createElement("meta");
+    meta.name = "theme-color";
+    meta.dataset.dynamic = "true";
+    document.head.appendChild(meta);
+  }
+  meta.content = themeColor;
+}
+
+function persistAppearanceSettings() {
+  state.profile.themeMode = state.themeMode;
+  state.profile.themeAccent = state.themeAccent;
+  saveJson("foodwise-profile", state.profile);
+}
+
+function initAppearanceSettings() {
+  applyThemeAppearance();
+  const media = window.matchMedia("(prefers-color-scheme: dark)");
+  if (typeof media.addEventListener === "function") {
+    media.addEventListener("change", () => {
+      if (state.themeMode === "system") applyThemeAppearance();
+    });
+  } else if (typeof media.addListener === "function") {
+    media.addListener(() => {
+      if (state.themeMode === "system") applyThemeAppearance();
+    });
+  }
+}
+
 function boot() {
+  initAppearanceSettings();
   bindShellEvents();
   app.addEventListener("scroll", updateTopbarOnScroll, { passive: true });
   bindSearchClearControls();
@@ -3126,6 +3221,32 @@ function bindRecipeFilterControls(root, options = {}) {
 }
 
 function bindProfileEvents() {
+  app.querySelectorAll("[data-theme-mode]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const nextMode = button.dataset.themeMode;
+      if (!nextMode || state.themeMode === nextMode) return;
+      triggerHapticFeedback();
+      state.themeMode = nextMode;
+      persistAppearanceSettings();
+      applyThemeAppearance();
+      rerenderCurrent();
+      showToast("显示模式已更新");
+    });
+  });
+
+  app.querySelectorAll("[data-theme-accent]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const nextAccent = button.dataset.themeAccent;
+      if (!nextAccent || !THEME_ACCENT_PRESETS[nextAccent] || state.themeAccent === nextAccent) return;
+      triggerHapticFeedback();
+      state.themeAccent = nextAccent;
+      persistAppearanceSettings();
+      applyThemeAppearance();
+      rerenderCurrent();
+      showToast("主题色已更新");
+    });
+  });
+
   app.querySelectorAll("[data-profile-toggle]").forEach((checkbox) => {
     checkbox.checked = Boolean(state.profile[checkbox.dataset.profileToggle]);
     checkbox.addEventListener("change", () => {
@@ -4450,6 +4571,40 @@ function renderRecipes() {
   `;
 }
 
+function renderAppearanceSettings() {
+  const mode = state.themeMode || "system";
+  const accent = state.themeAccent || "pine";
+  const accentLabel = THEME_ACCENT_OPTIONS.find((option) => option.id === accent)?.label || "松绿";
+
+  return `
+    <section class="profile-panel appearance-panel">
+      <h2 class="section-title">外观</h2>
+      <p class="section-copy">跟随系统或手动切换深浅模式，并选择主题色。仅保存在当前浏览器。</p>
+
+      <div class="appearance-field">
+        <span class="appearance-label">显示模式</span>
+        <div class="filter-segmented appearance-segmented" role="group" aria-label="显示模式">
+          ${THEME_MODE_OPTIONS.map((option) => `
+            <button type="button" class="filter-segmented-item${mode === option.id ? " active" : ""}" data-theme-mode="${option.id}">${option.label}</button>
+          `).join("")}
+        </div>
+      </div>
+
+      <div class="appearance-field">
+        <span class="appearance-label">主题色</span>
+        <div class="accent-swatches" role="group" aria-label="主题色">
+          ${THEME_ACCENT_OPTIONS.map((option) => `
+            <button type="button" class="accent-swatch${accent === option.id ? " active" : ""}" data-theme-accent="${option.id}" style="--swatch-color: ${option.swatch}" aria-label="${option.label}" title="${option.label}">
+              <span class="accent-swatch-dot" aria-hidden="true"></span>
+            </button>
+          `).join("")}
+        </div>
+        <p class="appearance-accent-name">当前：${accentLabel}</p>
+      </div>
+    </section>
+  `;
+}
+
 function renderProfile() {
   const favorites = state.favorites.map((id) => foodMap.get(id)).filter(Boolean);
   const recentFoodItems = state.recentFoods.map((id) => foodMap.get(id)).filter(Boolean);
@@ -4467,6 +4622,8 @@ function renderProfile() {
     </section>
 
     ${renderPwaInstallSection()}
+
+    ${renderAppearanceSettings()}
 
     <section class="profile-panel">
       <h2 class="section-title">个人提醒</h2>
@@ -5124,16 +5281,16 @@ function renderSheetSubnav(items) {
   `;
 }
 
-function searchField({ id, placeholder, buttonAttr = "", buttonLabel = "搜索", action = false, value = "" }) {
+function searchField({ id, placeholder, buttonAttr = "", buttonLabel = "搜索", action = false, actionText = "搜索", value = "" }) {
   const safeValue = value ? `value="${escapeHtml(value)}"` : "";
   const hasValue = Boolean(cleanString(value));
   return `
-    <label class="search-input${hasValue ? " has-value" : ""}">
+    <label class="search-input${hasValue ? " has-value" : ""}${action ? " search-input--action" : ""}">
       <span class="search-icon" aria-hidden="true"></span>
       <input id="${id}" type="search" placeholder="${placeholder}" ${safeValue} autocomplete="off" enterkeyhint="search">
       <button class="search-clear" type="button" data-search-clear="${id}" aria-label="清除" tabindex="-1"><span aria-hidden="true">✕</span></button>
       ${action
-        ? `<button class="icon-button search-button" type="button" ${buttonAttr} aria-label="${buttonLabel}"><span class="search-icon search-icon--button" aria-hidden="true"></span></button>`
+        ? `<button class="search-button search-button--text" type="button" ${buttonAttr} aria-label="${buttonLabel}">${escapeHtml(actionText)}</button>`
         : ""}
     </label>
   `;
