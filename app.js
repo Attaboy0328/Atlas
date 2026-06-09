@@ -514,6 +514,45 @@ const sheet = document.getElementById("detailSheet");
 const sheetContent = document.getElementById("sheetContent");
 const sheetBackdrop = document.getElementById("sheetBackdrop");
 const closeSheet = document.getElementById("closeSheet");
+const topbarEl = document.getElementById("topbar");
+const topbarTitleEl = document.getElementById("topbarTitle");
+
+const VIEW_TOPBAR_TITLES = {
+  home: "",
+  library: "食材库",
+  checker: "搭配检查",
+  recipes: "食疗方",
+  profile: "我的档案"
+};
+
+let topbarTitleThreshold = 120;
+
+function measureTopbarThreshold() {
+  const heading = app.querySelector(".page-title h1, .hero h1");
+  if (heading) {
+    topbarTitleThreshold = Math.max(40, heading.offsetTop + heading.offsetHeight - 52);
+  } else {
+    topbarTitleThreshold = 60;
+  }
+}
+
+function updateTopbarOnScroll() {
+  if (!topbarEl) return;
+  const scrolled = app.scrollTop;
+  topbarEl.classList.toggle("is-scrolled", scrolled > 8);
+  const hasTitle = Boolean(VIEW_TOPBAR_TITLES[state.view]);
+  topbarEl.classList.toggle("show-title", hasTitle && scrolled > topbarTitleThreshold);
+}
+
+function syncTopbarTitle() {
+  if (!topbarTitleEl) return;
+  const title = VIEW_TOPBAR_TITLES[state.view] || "";
+  topbarTitleEl.textContent = title;
+  requestAnimationFrame(() => {
+    measureTopbarThreshold();
+    updateTopbarOnScroll();
+  });
+}
 
 const state = {
   view: "home",
@@ -1817,6 +1856,8 @@ function renderPwaInstallSection() {
 
 function boot() {
   bindShellEvents();
+  app.addEventListener("scroll", updateTopbarOnScroll, { passive: true });
+  bindSearchClearControls();
   setupPwaInstallUi();
   applyUrlState();
   syncUrl();
@@ -1833,6 +1874,27 @@ function boot() {
       appContainer.classList.remove("ios-navigation-active");
     }
   }, 420);
+}
+
+function bindSearchClearControls() {
+  document.addEventListener("input", (event) => {
+    const input = event.target;
+    if (!input || input.type !== "search") return;
+    const label = input.closest(".search-input");
+    if (label) label.classList.toggle("has-value", Boolean(input.value));
+  });
+
+  document.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-search-clear]");
+    if (!button) return;
+    event.preventDefault();
+    const input = document.getElementById(button.dataset.searchClear);
+    if (!input) return;
+    triggerHapticFeedback();
+    input.value = "";
+    input.dispatchEvent(new Event("input", { bubbles: true }));
+    input.focus({ preventScroll: true });
+  });
 }
 
 function handlePopState() {
@@ -2419,6 +2481,8 @@ function navigate(view) {
 
   const transitionUpdate = () => {
     render();
+    app.scrollTop = 0;
+    updateTopbarOnScroll();
   };
 
   if (document.startViewTransition) {
@@ -2512,6 +2576,7 @@ function render() {
   }
 
   app.innerHTML = views[state.view]();
+  syncTopbarTitle();
   bindViewEvents();
   if (state.sheet?.type === "filters") {
     const validScope = (state.sheet.scope === "library" && state.view === "library")
@@ -5061,12 +5126,15 @@ function renderSheetSubnav(items) {
 
 function searchField({ id, placeholder, buttonAttr = "", buttonLabel = "搜索", action = false, value = "" }) {
   const safeValue = value ? `value="${escapeHtml(value)}"` : "";
+  const hasValue = Boolean(cleanString(value));
   return `
-    <label class="search-input">
+    <label class="search-input${hasValue ? " has-value" : ""}">
+      <span class="search-icon" aria-hidden="true"></span>
       <input id="${id}" type="search" placeholder="${placeholder}" ${safeValue} autocomplete="off" enterkeyhint="search">
+      <button class="search-clear" type="button" data-search-clear="${id}" aria-label="清除" tabindex="-1"><span aria-hidden="true">✕</span></button>
       ${action
-        ? `<button class="icon-button search-button" type="button" ${buttonAttr} aria-label="${buttonLabel}"><span class="search-icon" aria-hidden="true"></span></button>`
-        : `<span class="search-icon" aria-hidden="true"></span>`}
+        ? `<button class="icon-button search-button" type="button" ${buttonAttr} aria-label="${buttonLabel}"><span class="search-icon search-icon--button" aria-hidden="true"></span></button>`
+        : ""}
     </label>
   `;
 }

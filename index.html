@@ -1,111 +1,113 @@
-<!doctype html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, viewport-fit=cover">
-  <meta name="theme-color" content="#f6f3eb">
-  <meta name="description" content="传统食养食材属性、搭配检查与食疗方查询">
-  <link rel="manifest" href="manifest.webmanifest">
-  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="icons/icon-192.png">
-  <title>食养知行 - 食材属性与搭配查询</title>
-  <script>
-    (function () {
-      window.__atlasInstallPrompt = null;
-      window.addEventListener("beforeinstallprompt", function (event) {
-        event.preventDefault();
-        window.__atlasInstallPrompt = event;
-        window.dispatchEvent(new Event("atlas:beforeinstallprompt"));
-      });
-      if ("serviceWorker" in navigator) {
-        navigator.serviceWorker.register("./sw.js").catch(function () {});
-      }
-    })();
-  </script>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <div class="app-shell">
-    <header class="topbar">
-      <button class="brand-button" data-view="home" aria-label="返回首页">
-        <img class="brand-mark" src="icons/icon-192.png" alt="" width="38" height="38" decoding="async">
-        <span>
-          <strong>食养知行</strong>
-          <small>传统食养 · 现代安全提示</small>
-        </span>
-      </button>
-      <button class="text-button" data-view="profile">数据说明</button>
-    </header>
-
-    <main id="app" class="app-content" aria-live="polite"></main>
-
-    <nav class="bottom-nav" aria-label="主要导航">
-      <button class="nav-button active" data-view="home">
-        <span class="nav-icon-wrap">
-          <span class="nav-icon-slot">
-            <svg class="nav-icon nav-icon-outline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><path d="M5.5 10.5 12 5l6.5 5.5V19a1.5 1.5 0 0 1-1.5 1.5H7A1.5 1.5 0 0 1 5.5 19v-8.5Z"/><path d="M10 21v-6.5h4V21"/></svg>
-            <svg class="nav-icon nav-icon-filled" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.8 4.5 9.3V19a1.5 1.5 0 0 0 1.5 1.5H9V14h6v6.5h3A1.5 1.5 0 0 0 19.5 19V9.3L12 2.8Z"/></svg>
-          </span>
-          <span class="nav-dot" aria-hidden="true"></span>
-        </span>
-        <span class="nav-label">首页</span>
-      </button>
-      <button class="nav-button" data-view="library">
-        <span class="nav-icon-wrap">
-          <span class="nav-icon-slot">
-            <svg class="nav-icon nav-icon-outline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><path d="M5 7.5h14M5 12h14M5 16.5h9"/><rect x="4" y="5" width="16" height="14" rx="2.5"/></svg>
-            <svg class="nav-icon nav-icon-filled" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 6.5A2.5 2.5 0 0 1 8.5 4h7A2.5 2.5 0 0 1 18 6.5v11A2.5 2.5 0 0 1 15.5 20h-7A2.5 2.5 0 0 1 6 17.5v-11ZM8 9h8v1.5H8V9Zm0 4.5h5V15H8v-1.5Z"/></svg>
-          </span>
-          <span class="nav-dot" aria-hidden="true"></span>
-        </span>
-        <span class="nav-label">食材</span>
-      </button>
-      <button class="nav-button" data-view="checker">
-        <span class="nav-icon-wrap">
-          <span class="nav-icon-slot">
-            <svg class="nav-icon nav-icon-outline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><path d="M8.5 12.5h7M10 10.5l-2 2 2 2M14 10.5l2 2-2 2"/><rect x="4" y="5" width="16" height="14" rx="2.5"/></svg>
-            <svg class="nav-icon nav-icon-filled" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8.5 4A2.5 2.5 0 0 0 6 6.5v11A2.5 2.5 0 0 0 8.5 20h7a2.5 2.5 0 0 0 2.5-2.5v-11A2.5 2.5 0 0 0 15.5 4h-7Zm-.8 7.2 1.6-1.6 1.4 1.4 3.4-3.4 1.4 1.4-4.8 4.8-2.8-2.8 1.4-1.4 1.4 1.4Z"/></svg>
-            <span class="nav-badge" hidden></span>
-          </span>
-          <span class="nav-dot" aria-hidden="true"></span>
-        </span>
-        <span class="nav-label">搭配</span>
-      </button>
-      <button class="nav-button" data-view="recipes">
-        <span class="nav-icon-wrap">
-          <span class="nav-icon-slot">
-            <svg class="nav-icon nav-icon-outline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><path d="M6 9.5c0-2.2 2.7-4 6-4s6 1.8 6 4-2.7 4-6 4-6-1.8-6-4Z"/><path d="M6 9.5V14c0 2.2 2.7 4 6 4s6-1.8 6-4V9.5"/></svg>
-            <svg class="nav-icon nav-icon-filled" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 4.5c3.6 0 6.5 1.9 6.5 4.2S15.6 13 12 13 5.5 11.1 5.5 8.7 8.4 4.5 12 4.5Zm-6.5 9.8c0 2.3 2.9 4.2 6.5 4.2s6.5-1.9 6.5-4.2V13H5.5v1.3Z"/></svg>
-          </span>
-          <span class="nav-dot" aria-hidden="true"></span>
-        </span>
-        <span class="nav-label">食疗</span>
-      </button>
-      <button class="nav-button" data-view="profile">
-        <span class="nav-icon-wrap">
-          <span class="nav-icon-slot">
-            <svg class="nav-icon nav-icon-outline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><circle cx="12" cy="8.5" r="3"/><path d="M6 19c0-3.3 2.7-5.5 6-5.5s6 2.2 6 5.5"/></svg>
-            <svg class="nav-icon nav-icon-filled" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 12.5a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm-6.5 7c0-3.6 2.9-5.5 6.5-5.5s6.5 1.9 6.5 5.5H5.5Z"/></svg>
-          </span>
-          <span class="nav-dot" aria-hidden="true"></span>
-        </span>
-        <span class="nav-label">我的</span>
-      </button>
-    </nav>
-  </div>
-
-  <div id="sheetBackdrop" class="sheet-backdrop" hidden></div>
-  <aside id="detailSheet" class="detail-sheet" aria-modal="true" role="dialog" aria-label="详情" hidden>
-    <div class="sheet-handle"></div>
-    <button id="closeSheet" class="sheet-close" aria-label="关闭详情">关闭</button>
-    <div id="sheetContent" class="sheet-content"></div>
-  </aside>
-
-  <div id="toast" class="toast" role="status" aria-live="polite"></div>
-  <script src="atlas-bootstrap.js"></script>
-</body>
-</html>
-
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="theme-color" content="#f6f3eb" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14171a" media="(prefers-color-scheme: dark)">
+  <meta name="description" content="传统食养食材属性、搭配检查与食疗方查询">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <title>食养知行 - 食材属性与搭配查询</title>
+  <script>
+    (function () {
+      window.__atlasInstallPrompt = null;
+      window.addEventListener("beforeinstallprompt", function (event) {
+        event.preventDefault();
+        window.__atlasInstallPrompt = event;
+        window.dispatchEvent(new Event("atlas:beforeinstallprompt"));
+      });
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("./sw.js").catch(function () {});
+      }
+    })();
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar" id="topbar">
+      <button class="brand-button" data-view="home" aria-label="返回首页">
+        <img class="brand-mark" src="icons/icon-192.png" alt="" width="38" height="38" decoding="async">
+        <span class="brand-text">
+          <strong>食养知行</strong>
+          <small>传统食养 · 现代安全提示</small>
+        </span>
+      </button>
+      <h2 class="topbar-title" id="topbarTitle" aria-hidden="true"></h2>
+      <button class="text-button" data-view="profile">数据说明</button>
+    </header>
+
+    <main id="app" class="app-content" aria-live="polite"></main>
+
+    <nav class="bottom-nav" aria-label="主要导航">
+      <button class="nav-button active" data-view="home">
+        <span class="nav-icon-wrap">
+          <span class="nav-icon-slot">
+            <svg class="nav-icon nav-icon-outline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><path d="M5.5 10.5 12 5l6.5 5.5V19a1.5 1.5 0 0 1-1.5 1.5H7A1.5 1.5 0 0 1 5.5 19v-8.5Z"/><path d="M10 21v-6.5h4V21"/></svg>
+            <svg class="nav-icon nav-icon-filled" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.8 4.5 9.3V19a1.5 1.5 0 0 0 1.5 1.5H9V14h6v6.5h3A1.5 1.5 0 0 0 19.5 19V9.3L12 2.8Z"/></svg>
+          </span>
+          <span class="nav-dot" aria-hidden="true"></span>
+        </span>
+        <span class="nav-label">首页</span>
+      </button>
+      <button class="nav-button" data-view="library">
+        <span class="nav-icon-wrap">
+          <span class="nav-icon-slot">
+            <svg class="nav-icon nav-icon-outline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><path d="M5 7.5h14M5 12h14M5 16.5h9"/><rect x="4" y="5" width="16" height="14" rx="2.5"/></svg>
+            <svg class="nav-icon nav-icon-filled" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 6.5A2.5 2.5 0 0 1 8.5 4h7A2.5 2.5 0 0 1 18 6.5v11A2.5 2.5 0 0 1 15.5 20h-7A2.5 2.5 0 0 1 6 17.5v-11ZM8 9h8v1.5H8V9Zm0 4.5h5V15H8v-1.5Z"/></svg>
+          </span>
+          <span class="nav-dot" aria-hidden="true"></span>
+        </span>
+        <span class="nav-label">食材</span>
+      </button>
+      <button class="nav-button" data-view="checker">
+        <span class="nav-icon-wrap">
+          <span class="nav-icon-slot">
+            <svg class="nav-icon nav-icon-outline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><path d="M8.5 12.5h7M10 10.5l-2 2 2 2M14 10.5l2 2-2 2"/><rect x="4" y="5" width="16" height="14" rx="2.5"/></svg>
+            <svg class="nav-icon nav-icon-filled" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8.5 4A2.5 2.5 0 0 0 6 6.5v11A2.5 2.5 0 0 0 8.5 20h7a2.5 2.5 0 0 0 2.5-2.5v-11A2.5 2.5 0 0 0 15.5 4h-7Zm-.8 7.2 1.6-1.6 1.4 1.4 3.4-3.4 1.4 1.4-4.8 4.8-2.8-2.8 1.4-1.4 1.4 1.4Z"/></svg>
+            <span class="nav-badge" hidden></span>
+          </span>
+          <span class="nav-dot" aria-hidden="true"></span>
+        </span>
+        <span class="nav-label">搭配</span>
+      </button>
+      <button class="nav-button" data-view="recipes">
+        <span class="nav-icon-wrap">
+          <span class="nav-icon-slot">
+            <svg class="nav-icon nav-icon-outline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><path d="M6 9.5c0-2.2 2.7-4 6-4s6 1.8 6 4-2.7 4-6 4-6-1.8-6-4Z"/><path d="M6 9.5V14c0 2.2 2.7 4 6 4s6-1.8 6-4V9.5"/></svg>
+            <svg class="nav-icon nav-icon-filled" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 4.5c3.6 0 6.5 1.9 6.5 4.2S15.6 13 12 13 5.5 11.1 5.5 8.7 8.4 4.5 12 4.5Zm-6.5 9.8c0 2.3 2.9 4.2 6.5 4.2s6.5-1.9 6.5-4.2V13H5.5v1.3Z"/></svg>
+          </span>
+          <span class="nav-dot" aria-hidden="true"></span>
+        </span>
+        <span class="nav-label">食疗</span>
+      </button>
+      <button class="nav-button" data-view="profile">
+        <span class="nav-icon-wrap">
+          <span class="nav-icon-slot">
+            <svg class="nav-icon nav-icon-outline" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><circle cx="12" cy="8.5" r="3"/><path d="M6 19c0-3.3 2.7-5.5 6-5.5s6 2.2 6 5.5"/></svg>
+            <svg class="nav-icon nav-icon-filled" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 12.5a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm-6.5 7c0-3.6 2.9-5.5 6.5-5.5s6.5 1.9 6.5 5.5H5.5Z"/></svg>
+          </span>
+          <span class="nav-dot" aria-hidden="true"></span>
+        </span>
+        <span class="nav-label">我的</span>
+      </button>
+    </nav>
+  </div>
+
+  <div id="sheetBackdrop" class="sheet-backdrop" hidden></div>
+  <aside id="detailSheet" class="detail-sheet" aria-modal="true" role="dialog" aria-label="详情" hidden>
+    <div class="sheet-handle"></div>
+    <button id="closeSheet" class="sheet-close" aria-label="关闭详情">关闭</button>
+    <div id="sheetContent" class="sheet-content"></div>
+  </aside>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="atlas-bootstrap.js"></script>
+</body>
+</html>
+
