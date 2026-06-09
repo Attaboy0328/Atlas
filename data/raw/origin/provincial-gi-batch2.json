@@ -1,0 +1,82 @@
+{
+  "registry": "provincial-gi-batch2",
+  "fetchedAt": "2026-06-09",
+  "note": "Batch5 省级地理标志富元数据。",
+  "items": [
+    {
+      "id": "prov-gd-rongxian-pomelo-gi",
+      "name": "容县沙田柚",
+      "category": "水果",
+      "nature": "凉",
+      "provinces": ["广西", "容县"],
+      "aliases": ["沙田柚"],
+      "searchTerms": ["rongxian", "rx", "容县", "沙田柚"],
+      "giSystems": [{ "system": "provincial", "type": "省级地理标志", "label": "广西省级地理标志" }],
+      "summary": "容县沙田柚为广西玉林容县省级地理标志柚类。",
+      "provenance": { "source": "provincial", "sourceId": "prov-gx-rongxian-pomelo", "fetchedAt": "2026-06-09" }
+    },
+    {
+      "id": "prov-zj-yangshan-peach-gi",
+      "name": "阳山水蜜桃",
+      "category": "水果",
+      "nature": "温",
+      "provinces": ["江苏", "无锡"],
+      "baseFoodId": "peach",
+      "searchTerms": ["yangshan", "ys", "阳山", "水蜜桃"],
+      "giSystems": [{ "system": "provincial", "type": "省级地理标志", "label": "江苏省级地理标志" }],
+      "summary": "阳山水蜜桃为江苏无锡阳山省级地理标志桃品。",
+      "provenance": { "source": "provincial", "sourceId": "prov-js-yangshan-peach", "fetchedAt": "2026-06-09" }
+    },
+    {
+      "id": "prov-sc-yongchuan-douchi-gi",
+      "name": "永川豆豉",
+      "category": "调料",
+      "nature": "温",
+      "provinces": ["重庆", "永川"],
+      "searchTerms": ["yongchuan", "yc", "永川", "豆豉"],
+      "giSystems": [{ "system": "provincial", "type": "省级地理标志", "label": "重庆省级地理标志" }],
+      "summary": "永川豆豉为重庆永川省级地理标志豆豉。",
+      "provenance": { "source": "provincial", "sourceId": "prov-cq-yongchuan-douchi", "fetchedAt": "2026-06-09" }
+    },
+    {
+      "id": "prov-fj-anxi-ocean-fish-gi",
+      "name": "安海土笋",
+      "category": "海产",
+      "nature": "寒",
+      "provinces": ["福建", "晋江"],
+      "searchTerms": ["anhai", "ah", "安海", "土笋"],
+      "giSystems": [{ "system": "provincial", "type": "省级地理标志", "label": "福建省级地理标志" }],
+      "summary": "安海土笋为福建晋江安海省级地理标志滩涂食材。",
+      "provenance": { "source": "provincial", "sourceId": "prov-fj-anhai-tusun", "fetchedAt": "2026-06-09" }
+    },
+    {
+      "id": "prov-hn-changsha-stinky-tofu-gi",
+      "name": "长沙臭豆腐",
+      "category": "主食",
+      "nature": "平",
+      "provinces": ["湖南", "长沙"],
+      "searchTerms": ["changsha", "cs", "长沙", "臭豆腐"],
+      "giSystems": [{ "system": "provincial", "type": "省级地理标志", "label": "湖南省级地理标志" }],
+      "summary": "长沙臭豆腐为湖南长沙省级地理标志豆制品小吃。",
+      "provenance": { "source": "provincial", "sourceId": "prov-hn-changsha-stinky-tofu", "fetchedAt": "2026-06-09" }
+    },
+    {
+      "id": "peop-wuyuan-green-tea-gi",
+      "name": "婺源绿茶",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": ["江西", "婺源"],
+      "teaClass": "绿茶",
+      "baseFoodId": "green-tea",
+      "searchTerms": ["wuyuan", "wy", "婺源", "绿茶"],
+      "giSystems": [{ "system": "provincial", "type": "省级地理标志", "label": "江西省级地理标志" }],
+      "peop": {
+        "status": "historical",
+        "label": "生态原产地保护产品（历史认证，已不再新增）",
+        "region": "江西婺源"
+      },
+      "summary": "婺源绿茶为江西婺源省级地理标志绿茶，部分批次曾登记 PEOP 生态原产地。",
+      "provenance": { "source": "peop-historical", "sourceId": "peop-wuyuan-green-tea", "fetchedAt": "2026-06-09", "note": "PEOP 为历史认证体系示例；现行以公开登记机关公告为准。" }
+    }
+  ]
+}

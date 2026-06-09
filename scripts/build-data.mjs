@@ -226,12 +226,13 @@ const enhancedBulk = rawBulk
   .filter(Boolean);
 
 function buildFoodSearchSynonymMap() {
-  const rows = readJson("food-search-synonyms.json", []);
   const map = {};
-  rows.forEach((row) => {
-    const term = String(row.term || "").trim().toLowerCase();
-    const foodId = String(row.foodId || "").trim();
-    if (term && foodId) map[term] = foodId;
+  ["food-search-synonyms.json", "origin-search-synonyms.json"].forEach((file) => {
+    readJson(file, []).forEach((row) => {
+      const term = String(row.term || "").trim().toLowerCase();
+      const foodId = String(row.foodId || "").trim();
+      if (term && foodId) map[term] = foodId;
+    });
   });
   return map;
 }

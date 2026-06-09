@@ -14,6 +14,7 @@ import {
   loadRawOriginImports,
   mergeOriginProducts
 } from "./lib/origin-products.mjs";
+import { applyCrosswalkToProducts } from "./lib/gi-dao-di-crosswalk.mjs";
 import { loadFoodCatalogMeta, loadFoodIdAliasMap, resolveFoodId } from "./lib/food-catalog.mjs";
 
 const outPath = path.join(root, "data", "cn", "origin-products.json");
@@ -22,6 +23,7 @@ const seed = readCnJson("origin-products.seed.json", []);
 const seedIds = new Set(seed.map((row) => row.id).filter(Boolean));
 const imported = loadRawOriginImports();
 const merged = dedupeOriginProductsByName(mergeOriginProducts([...seed, ...imported]), seedIds);
+const crosswalked = applyCrosswalkToProducts(merged);
 
 const aliasMap = loadFoodIdAliasMap();
 const catalogMeta = loadFoodCatalogMeta();
@@ -32,7 +34,7 @@ const catalogIndex = {
 };
 catalogNames.forEach((id, name) => catalogIndex.index.set(name, id));
 
-const normalized = merged.map((product) => ({
+const normalized = crosswalked.map((product) => ({
   ...product,
   baseFoodId: autoLinkBaseFoodId(product, catalogIndex, aliasMap)
 }));

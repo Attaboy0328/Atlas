@@ -1,0 +1,110 @@
+{
+  "registry": "cnipa-gi-batch2",
+  "fetchedAt": "2026-06-09",
+  "note": "Batch5 国家知识产权局地理标志保护产品富元数据。",
+  "items": [
+    {
+      "id": "cnipa-xixia-shiitake-gi",
+      "name": "西峡香菇",
+      "category": "菌菇",
+      "nature": "平",
+      "provinces": ["河南", "西峡"],
+      "baseFoodId": "shiitake",
+      "searchTerms": ["xixia", "xx", "西峡", "香菇"],
+      "giSystems": [{ "system": "cnipa", "type": "地理标志保护产品", "label": "国家知识产权局地理标志" }],
+      "summary": "西峡香菇为河南南阳西峡地理标志香菇。",
+      "provenance": { "source": "cnipa", "sourceUrl": "https://www.cnipa.gov.cn/", "sourceId": "cnipa-xixia-shiitake-gi", "fetchedAt": "2026-06-09" }
+    },
+    {
+      "id": "cnipa-baihao-yinzhen-gi",
+      "name": "白毫银针",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": ["福建", "福鼎"],
+      "teaClass": "白茶",
+      "baseFoodId": "white-tea",
+      "aliases": ["银针", "福鼎银针"],
+      "searchTerms": ["baihao", "bh", "白毫银针", "银针"],
+      "giSystems": [{ "system": "cnipa", "type": "地理标志保护产品", "label": "国家知识产权局地理标志" }],
+      "summary": "白毫银针为闽东地理标志白茶。",
+      "provenance": { "source": "cnipa", "sourceUrl": "https://www.cnipa.gov.cn/", "sourceId": "cnipa-baihao-yinzhen-gi", "fetchedAt": "2026-06-09" }
+    },
+    {
+      "id": "cnipa-dianhong-tea-gi",
+      "name": "滇红",
+      "category": "茶饮",
+      "nature": "温",
+      "provinces": ["云南", "凤庆"],
+      "teaClass": "红茶",
+      "baseFoodId": "black-tea",
+      "aliases": ["云南红茶", "凤庆滇红"],
+      "searchTerms": ["dianhong", "dh", "滇红", "云南红茶"],
+      "giSystems": [{ "system": "cnipa", "type": "地理标志保护产品", "label": "国家知识产权局地理标志" }],
+      "summary": "滇红为云南凤庆等地地理标志红茶。",
+      "provenance": { "source": "cnipa", "sourceUrl": "https://www.cnipa.gov.cn/", "sourceId": "cnipa-dianhong-tea-gi", "fetchedAt": "2026-06-09" }
+    },
+    {
+      "id": "cnipa-yingde-black-tea-gi",
+      "name": "英德红茶",
+      "category": "茶饮",
+      "nature": "温",
+      "provinces": ["广东", "英德"],
+      "teaClass": "红茶",
+      "baseFoodId": "black-tea",
+      "searchTerms": ["yingde", "yd", "英德", "红茶"],
+      "giSystems": [{ "system": "cnipa", "type": "地理标志保护产品", "label": "国家知识产权局地理标志" }],
+      "summary": "英德红茶为广东清远英德地理标志红茶。",
+      "provenance": { "source": "cnipa", "sourceUrl": "https://www.cnipa.gov.cn/", "sourceId": "cnipa-yingde-black-tea-gi", "fetchedAt": "2026-06-09" }
+    },
+    {
+      "id": "cnipa-anhua-dark-tea-gi",
+      "name": "安化黑茶",
+      "category": "茶饮",
+      "nature": "温",
+      "provinces": ["湖南", "安化"],
+      "teaClass": "黑茶",
+      "aliases": ["安化千两茶", "茯茶"],
+      "searchTerms": ["anhua", "ah", "安化", "黑茶"],
+      "giSystems": [{ "system": "cnipa", "type": "地理标志保护产品", "label": "国家知识产权局地理标志" }],
+      "summary": "安化黑茶为湖南益阳安化地理标志黑茶。",
+      "provenance": { "source": "cnipa", "sourceUrl": "https://www.cnipa.gov.cn/", "sourceId": "cnipa-anhua-dark-tea-gi", "fetchedAt": "2026-06-09" }
+    },
+    {
+      "id": "cnipa-qingdao-beer-gi",
+      "name": "青岛啤酒",
+      "category": "饮品",
+      "nature": "凉",
+      "provinces": ["山东", "青岛"],
+      "searchTerms": ["qingdao", "qd", "青岛", "啤酒"],
+      "giSystems": [{ "system": "cnipa", "type": "地理标志保护产品", "label": "国家知识产权局地理标志" }],
+      "summary": "青岛啤酒为山东青岛地理标志啤酒产品。",
+      "provenance": { "source": "cnipa", "sourceUrl": "https://www.cnipa.gov.cn/", "sourceId": "cnipa-qingdao-beer-gi", "fetchedAt": "2026-06-09" }
+    },
+    {
+      "id": "cnipa-zhuye-qing-green-tea-gi",
+      "name": "竹叶青",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": ["四川", "峨眉山"],
+      "teaClass": "绿茶",
+      "baseFoodId": "green-tea",
+      "searchTerms": ["zhuyeqing", "zyq", "竹叶青"],
+      "giSystems": [{ "system": "cnipa", "type": "地理标志保护产品", "label": "国家知识产权局地理标志" }],
+      "summary": "竹叶青为四川峨眉山地理标志绿茶。",
+      "provenance": { "source": "cnipa", "sourceUrl": "https://www.cnipa.gov.cn/", "sourceId": "cnipa-zhuye-qing-green-tea-gi", "fetchedAt": "2026-06-09" }
+    },
+    {
+      "id": "cnipa-zhenghe-white-tea-gi",
+      "name": "政和白茶",
+      "category": "茶饮",
+      "nature": "凉",
+      "provinces": ["福建", "政和"],
+      "teaClass": "白茶",
+      "baseFoodId": "white-tea",
+      "searchTerms": ["zhenghe", "zh", "政和", "白茶"],
+      "giSystems": [{ "system": "cnipa", "type": "地理标志保护产品", "label": "国家知识产权局地理标志" }],
+      "summary": "政和白茶为福建南平政和地理标志白茶。",
+      "provenance": { "source": "cnipa", "sourceUrl": "https://www.cnipa.gov.cn/", "sourceId": "cnipa-zhenghe-white-tea-gi", "fetchedAt": "2026-06-09" }
+    }
+  ]
+}

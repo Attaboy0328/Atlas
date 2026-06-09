@@ -57,7 +57,28 @@ npm run ingest:origin
 - `generated/origin-products.js` 存在
 - `baseFoodId` 是否在食材 catalog 中（警告）
 
-## 重名自动合并
+## 道地交叉表
+
+`data/cn/gi-dao-di-crosswalk.json` 在 ingest 时自动为 GI 条目补 `baseFoodId`、`daoDi`、`peop`。
+
+## 月度自动补充
+
+```bash
+npm run sync:origin-monthly   # 本地：队列 → manifest + 道地抓取 + 物化
+```
+
+GitHub Actions `monthly-origin-daodi-sync.yml` 每月 1 日 UTC 05:00 自动运行，提交变更。
+
+队列文件：`data/cn/gi-expansion-queue.json`（默认每轮 30 条）。
+
+## 搜索审计
+
+```bash
+node scripts/audit-origin-search.mjs
+```
+
+已纳入 `npm test`。
+
 
 `npm run consolidate:aliases` 会：
 

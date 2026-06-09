@@ -1,0 +1,30 @@
+{
+  "note": "Maps GI origin product ids to canonical food/herb ids and dao-di metadata. Applied during ingest-origin-products.",
+  "entries": [
+    { "giId": "wenshan-sanqi", "canonicalId": "panax-notoginseng", "daoDi": { "isAuthentic": true, "regions": ["云南文山"] } },
+    { "giId": "ningxia-goji-origin", "canonicalId": "goji-berry", "daoDi": { "isAuthentic": true, "regions": ["宁夏中宁"] } },
+    { "giId": "huoshan-shihu-gi", "canonicalId": "dendrobium-officinale", "daoDi": { "isAuthentic": true, "regions": ["安徽霍山"] } },
+    { "giId": "jianning-lotus-seed", "canonicalId": "lotus-seed", "daoDi": { "isAuthentic": true, "regions": ["福建建宁"] } },
+    { "giId": "longxi-astragalus-gi", "canonicalId": "astragalus-membranaceus", "daoDi": { "isAuthentic": true, "regions": ["甘肃陇西"] } },
+    { "giId": "minxian-angelica-gi", "canonicalId": "angelica-sinensis", "daoDi": { "isAuthentic": true, "regions": ["甘肃岷县"] } },
+    { "giId": "huai-yam-gi", "canonicalId": "yam", "daoDi": { "isAuthentic": true, "regions": ["河南焦作", "河南温县"] } },
+    { "giId": "xinhui-chenpi-gi", "canonicalId": "chenpi", "daoDi": { "isAuthentic": true, "regions": ["广东新会"] } },
+    { "giId": "xihu-longjing", "canonicalId": "longjing-tea", "daoDi": { "isAuthentic": false, "regions": ["浙江杭州"] } },
+    { "giId": "anxi-tieguanyin", "canonicalId": "tieguanyin", "daoDi": { "isAuthentic": false, "regions": ["福建安溪"] } },
+    { "giId": "yunnan-puer-gi", "canonicalId": "pu-er-tea", "daoDi": { "isAuthentic": false, "regions": ["云南"] } },
+    { "giId": "wuyi-rock-tea", "canonicalId": "oolong-tea", "daoDi": { "isAuthentic": false, "regions": ["福建武夷山"] } },
+    { "giId": "mara-wenshan-dendrobium", "giName": "文山铁皮石斛", "canonicalId": "dendrobium-officinale", "daoDi": { "isAuthentic": true, "regions": ["云南文山"] } },
+    { "giId": "mara-bozhou-peony-root", "giName": "亳州白芍", "canonicalId": "paeonia-lactiflora", "daoDi": { "isAuthentic": true, "regions": ["安徽亳州"] } },
+    { "giId": "mara-minxian-codonopsis", "giName": "岷县党参", "canonicalId": "codonopsis-pilosula", "daoDi": { "isAuthentic": true, "regions": ["甘肃岷县"] } },
+    { "giId": "mara-yuexi-poria", "giName": "岳西茯苓", "canonicalId": "poria", "daoDi": { "isAuthentic": true, "regions": ["安徽岳西"] } },
+    { "giId": "mara-gutian-white-fungus", "giName": "古田银耳", "canonicalId": "white-fungus", "daoDi": { "isAuthentic": false, "regions": ["福建古田"] } },
+    { "giId": "mara-tongjiang-white-fungus", "giName": "通江银耳", "canonicalId": "white-fungus", "daoDi": { "isAuthentic": false, "regions": ["四川通江"] } },
+    { "giId": "huazhou-juhong-gi", "canonicalId": "citri-exocarpium", "daoDi": { "isAuthentic": true, "regions": ["广东化州"] } },
+    { "giId": "mara-longxi-angelica-gi", "giName": "陇西当归", "canonicalId": "angelica-sinensis", "daoDi": { "isAuthentic": true, "regions": ["甘肃陇西"] } },
+    { "giId": "mara-ningxia-licorice-gi", "giName": "宁夏甘草", "canonicalId": "glycyrrhiza-uralensis", "daoDi": { "isAuthentic": true, "regions": ["宁夏"] } },
+    { "giId": "mara-bozhou-chrysanthemum-gi", "giName": "亳州菊花", "canonicalId": "chrysanthemum-morifolium", "daoDi": { "isAuthentic": true, "regions": ["安徽亳州"] } },
+    { "giId": "mara-wenxian-yam-gi", "giName": "温县怀山药", "canonicalId": "yam", "daoDi": { "isAuthentic": true, "regions": ["河南温县"] } },
+    { "giId": "cnipa-xixia-shiitake-gi", "giName": "西峡香菇", "canonicalId": "shiitake", "daoDi": { "isAuthentic": false, "regions": ["河南西峡"] } },
+    { "giId": "zhongshan-crisp-grass-carp", "canonicalId": "grass-carp", "peop": { "status": "historical", "label": "生态原产地保护产品（历史认证，已不再新增）", "region": "广东中山" }, "daoDi": { "isAuthentic": false, "regions": ["广东中山"] } }
+  ]
+}

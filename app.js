@@ -135,7 +135,23 @@ const FOOD_SEARCH_NEAR_HINTS = [
   { terms: ["燕窝", "yanwo"], ids: ["bird-nest"] },
   { terms: ["木姜子", "mujiangzi"], ids: ["wood-ginger"] },
   { terms: ["栗子", "板栗", "banli"], ids: ["chestnut"] },
-  { terms: ["鱼肚", "yudu"], ids: ["fish-maw"] }
+  { terms: ["鱼肚", "yudu"], ids: ["fish-maw"] },
+  { terms: ["阳澄湖", "大闸蟹", "yangchenghu", "阳澄湖蟹"], ids: ["yangcheng-lake-crab", "crab"] },
+  { terms: ["龙井", "longjing"], ids: ["xihu-longjing", "longjing-tea", "green-tea"] },
+  { terms: ["铁观音", "tieguanyin"], ids: ["anxi-tieguanyin", "tieguanyin", "oolong-tea"] },
+  { terms: ["普洱", "puer", "普洱茶"], ids: ["yunnan-puer-gi", "pu-er-tea"] },
+  { terms: ["岩茶", "武夷岩茶", "wuyi"], ids: ["wuyi-rock-tea", "oolong-tea"] },
+  { terms: ["赣南", "脐橙", "gannan"], ids: ["gannan-navel-orange", "orange"] },
+  { terms: ["五常", "五常大米", "wuchang"], ids: ["wuchang-rice", "rice"] },
+  { terms: ["新会陈皮", "xinhui"], ids: ["xinhui-chenpi-gi", "chenpi"] },
+  { terms: ["宁夏枸杞", "中宁枸杞", "ningxia"], ids: ["ningxia-goji-origin", "goji-berry"] },
+  { terms: ["文山三七", "wenshan"], ids: ["wenshan-sanqi", "panax-notoginseng"] },
+  { terms: ["库尔勒", "香梨"], ids: ["korla-pear-gi", "pear"] },
+  { terms: ["金华火腿", "宣威火腿"], ids: ["jinhua-ham-gi", "xuanwei-ham-gi"] },
+  { terms: ["安吉白茶", "黄山毛峰", "祁门红茶"], ids: ["anji-white-tea-gi", "huangshan-maofeng-gi", "keemun-black-tea-gi"] },
+  { terms: ["西峡香菇", "庆元香菇"], ids: ["cnipa-xixia-shiitake-gi", "qingyuan-mushroom-gi", "shiitake"] },
+  { terms: ["安化黑茶", "六堡茶", "茯砖茶"], ids: ["cnipa-anhua-dark-tea-gi", "liubao-tea-gi", "fuzhuan-brick-tea-gi"] },
+  { terms: ["脆肉鲩", "peop", "生态原产地"], ids: ["zhongshan-crisp-grass-carp"] }
 ];
 
 const DAO_DI_SYSTEM_COLORS = {

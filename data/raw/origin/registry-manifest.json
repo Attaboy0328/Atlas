@@ -104,6 +104,26 @@
     { "name": "金华火腿", "system": "cnipa", "region": "浙江", "category": "肉蛋奶", "sourceId": "cnipa-jinhua-ham-manifest2" },
     { "name": "绍兴黄酒", "system": "cnipa", "region": "浙江", "category": "饮品", "sourceId": "cnipa-shaoxing-wine-manifest" },
     { "name": "郫县豆瓣", "system": "cnipa", "region": "四川", "category": "调料", "baseFoodId": "doubanjiang", "sourceId": "cnipa-pixian-douban-manifest" },
-    { "name": "宁夏滩羊", "system": "mara", "region": "宁夏", "category": "肉蛋奶", "baseFoodId": "lamb", "sourceId": "mara-ningxia-lamb-manifest" }
+    { "name": "宁夏滩羊", "system": "mara", "region": "宁夏", "category": "肉蛋奶", "baseFoodId": "lamb", "sourceId": "mara-ningxia-lamb-manifest" },
+    { "name": "射阳大米", "system": "mara", "region": "江苏", "category": "谷物", "baseFoodId": "rice", "sourceId": "mara-sheyang-rice" },
+    { "name": "增城丝苗米", "system": "mara", "region": "广东", "category": "谷物", "baseFoodId": "rice", "sourceId": "mara-zengcheng-rice" },
+    { "name": "建三江大米", "system": "mara", "region": "黑龙江", "category": "谷物", "baseFoodId": "rice", "sourceId": "mara-jiansanjiang-rice" },
+    { "name": "盐源苹果", "system": "mara", "region": "四川", "category": "水果", "baseFoodId": "apple", "sourceId": "mara-yanyuan-apple" },
+    { "name": "沾化冬枣", "system": "mara", "region": "山东", "category": "水果", "baseFoodId": "jujube", "sourceId": "mara-zhanhua-jujube" },
+    { "name": "蒙阴蜜桃", "system": "mara", "region": "山东", "category": "水果", "baseFoodId": "peach", "sourceId": "mara-mengyin-peach" },
+    { "name": "奉化水蜜桃", "system": "mara", "region": "浙江", "category": "水果", "baseFoodId": "peach", "sourceId": "mara-fenghua-peach" },
+    { "name": "黄岩蜜橘", "system": "mara", "region": "浙江", "category": "水果", "baseFoodId": "orange", "sourceId": "mara-huangyan-orange" },
+    { "name": "河套面粉", "system": "mara", "region": "内蒙古", "category": "谷物", "sourceId": "mara-hetao-wheat" },
+    { "name": "彭州大蒜", "system": "mara", "region": "四川", "category": "蔬菜", "baseFoodId": "garlic", "sourceId": "mara-pengzhou-garlic" },
+    { "name": "北海金鲳", "system": "mara", "region": "广西", "category": "海产", "sourceId": "mara-beihai-golden-pomfret" },
+    { "name": "渤海对虾", "system": "mara", "region": "天津", "category": "海产", "baseFoodId": "shrimp", "sourceId": "mara-bohai-shrimp" },
+    { "name": "永春芦柑", "system": "mara", "region": "福建", "category": "水果", "baseFoodId": "orange", "sourceId": "mara-yongchun-orange" },
+    { "name": "梁平大米", "system": "mara", "region": "重庆", "category": "谷物", "baseFoodId": "rice", "sourceId": "mara-liangping-rice" },
+    { "name": "张裕葡萄酒", "system": "cnipa", "region": "山东", "category": "饮品", "sourceId": "cnipa-yantai-wine" },
+    { "name": "崂山绿茶", "system": "cnipa", "region": "山东", "category": "茶饮", "teaClass": "绿茶", "baseFoodId": "green-tea", "sourceId": "cnipa-laoshan-green-tea" },
+    { "name": "宜红", "system": "cnipa", "region": "湖北", "category": "茶饮", "teaClass": "红茶", "baseFoodId": "black-tea", "sourceId": "cnipa-yihong-tea" },
+    { "name": "冻顶乌龙", "system": "cnipa", "region": "台湾", "category": "茶饮", "teaClass": "乌龙茶", "baseFoodId": "oolong-tea", "sourceId": "cnipa-dongding-oolong" },
+    { "name": "随州香菇", "system": "mara", "region": "湖北", "category": "菌菇", "baseFoodId": "shiitake", "sourceId": "mara-suizhou-shiitake" },
+    { "name": "南部黑木耳", "system": "mara", "region": "四川", "category": "菌菇", "sourceId": "mara-nanbu-black-fungus" }
   ]
 }
