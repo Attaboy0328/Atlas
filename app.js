@@ -1758,7 +1758,9 @@ else window.atlasBoot = boot;
 let navStackDepth = 0;
 
 function isPwaStandalone() {
-  return window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
+  return window.matchMedia("(display-mode: standalone)").matches
+    || window.matchMedia("(display-mode: minimal-ui)").matches
+    || window.navigator.standalone === true;
 }
 
 function hasPwaInstallPrompt() {
@@ -1892,14 +1894,7 @@ function openPwaInstallGuide() {
 }
 
 function renderPwaInstallSection() {
-  if (isPwaStandalone()) {
-    return `
-      <section class="detail-section pwa-install-panel">
-        <h2 class="section-title">安装应用</h2>
-        <p class="section-copy">你正在以独立应用方式使用食养知行，数据会缓存在本机以便更快打开。</p>
-      </section>
-    `;
-  }
+  if (isPwaStandalone()) return "";
 
   const canInstall = hasPwaInstallPrompt();
   const browserKind = getPwaBrowserKind();
@@ -5344,6 +5339,13 @@ function renderSheetSubnav(items) {
   `;
 }
 
+function renderSheetFavoriteButton({ kind, id, active, label }) {
+  const attr = kind === "recipe" ? "data-toggle-recipe-favorite" : "data-toggle-favorite";
+  const text = active ? "已收藏" : "收藏";
+  const activeClass = active ? " is-favorited" : "";
+  return `<button type="button" class="plain-button sheet-favorite-button${activeClass}" ${attr}="${id}" aria-label="${label}" aria-pressed="${active}"><span class="sheet-favorite-icon" aria-hidden="true">${active ? "★" : "☆"}</span><span class="sheet-favorite-label">${text}</span></button>`;
+}
+
 function searchField({ id, placeholder, buttonAttr = "", buttonLabel = "搜索", action = false, actionText = "搜索", value = "" }) {
   const safeValue = value ? `value="${escapeHtml(value)}"` : "";
   const hasValue = Boolean(cleanString(value));
@@ -5718,10 +5720,16 @@ function renderFoodDetail(food) {
     <section class="sheet-hero" id="sheet-overview">
       <div class="sheet-hero-top">
         <div class="nature-seal" style="background:${(NATURE_META[food.nature] || NATURE_META.复合).pale};color:${(NATURE_META[food.nature] || NATURE_META.复合).tone}">${food.nature}</div>
-        <div>
+        <div class="sheet-hero-heading">
           <h2 class="sheet-title">${food.name}</h2>
           <p class="sheet-subtitle">${[food.category, food.teaClass, food.en].filter(Boolean).join(" · ")}</p>
         </div>
+        ${renderSheetFavoriteButton({
+          kind: "food",
+          id: food.id,
+          active: favorite,
+          label: favorite ? "已收藏" : isTcmHerb ? "收藏此条目" : "收藏这个食材"
+        })}
       </div>
       <div class="filter-group filter-group-wrap">
         <span class="pill-badge">${food.category}</span>
@@ -5735,7 +5743,6 @@ function renderFoodDetail(food) {
       </div>
       ${food.aliases.length ? `<p class="sheet-subtitle">别名：${food.aliases.slice(0, 8).join("、")}</p>` : ""}
       <p class="sheet-summary">${food.summary || "暂无摘要。"}</p>
-      <button class="plain-button cta-button" data-toggle-favorite="${food.id}">${favorite ? "已收藏" : isTcmHerb ? "收藏此条目" : "收藏这个食材"}</button>
     </section>
 
     ${originSection ? `<div id="sheet-origin">${originSection}</div>` : ""}
@@ -5928,6 +5935,7 @@ function renderRecipeDetail(item) {
   const sheetNav = renderSheetSubnav([
     { id: "recipe-overview", label: "概览" },
     { id: "recipe-ingredients", label: "材料" },
+    { id: "recipe-scenarios", label: "场景" },
     { id: "recipe-steps", label: "做法" },
     ...(sources.length ? [{ id: "recipe-sources", label: "依据" }] : [])
   ]);
@@ -5937,16 +5945,21 @@ function renderRecipeDetail(item) {
     <section class="sheet-hero" id="recipe-overview">
       <div class="sheet-hero-top">
         <div class="nature-seal" style="background:${(NATURE_META[item.nature] || NATURE_META.复合).pale};color:${(NATURE_META[item.nature] || NATURE_META.复合).tone}">${item.nature}</div>
-        <div>
+        <div class="sheet-hero-heading">
           <h2 class="sheet-title">${item.name}</h2>
           <p class="sheet-subtitle">${item.subtitle}</p>
         </div>
+        ${renderSheetFavoriteButton({
+          kind: "recipe",
+          id: item.id,
+          active: favorite,
+          label: favorite ? "已收藏食疗方" : "收藏这个食疗方"
+        })}
       </div>
       <div class="filter-group filter-group-wrap">
         ${recipeTierBadge(item)}${item.solarTerm ? `<span class="pill-badge">节气：${item.solarTerm}</span>` : ""}${item.primarySyndrome ? `<span class="pill-badge">主证：${item.primarySyndrome}</span>` : ""}${secondarySyndromes.map((syndrome) => `<span class="pill-badge">兼见：${syndrome}</span>`).join("")}
       </div>
       <p class="sheet-summary">${item.note || "这是一条用于日常饮食整理的食疗方条目。"}${item.bulkTier === 2 ? " 本条为参考方，步骤按通用食养思路整理，请结合个体情况调整。" : ""}</p>
-      <button class="plain-button cta-button" data-toggle-recipe-favorite="${item.id}">${favorite ? "已收藏" : "收藏这个食疗方"}</button>
     </section>
 
     <section class="detail-section" id="recipe-ingredients">
@@ -5954,7 +5967,7 @@ function renderRecipeDetail(item) {
       <ul>${ingredients.length ? ingredients.map((line) => `<li>${line}</li>`).join("") : "<li>材料信息还在继续补全。</li>"}</ul>
     </section>
 
-    <section class="detail-section">
+    <section class="detail-section" id="recipe-scenarios">
       <h3>适用场景与慎用提示</h3>
       ${useFor.length ? `<p><strong>更适合：</strong>${useFor.join("、")}</p>` : ""}
       ${avoidFor.length ? `<div class="recipe-caution-list"><strong>谨慎参考：</strong><ul>${avoidFor.map((line) => {

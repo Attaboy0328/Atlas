@@ -2403,10 +2403,10 @@ button {
 
 .recipe-caution-full {
   display: block;
-  margin-top: 2px;
+  margin-top: 4px;
   color: var(--ink-soft);
   font-size: 12px;
-  line-height: 1.45;
+  line-height: 1.55;
 }
 
 .qi-term-grid + .notice,
@@ -3312,13 +3312,55 @@ button {
 }
 
 .sheet-hero {
-  padding: 20px 2px 22px;
+  padding: var(--sp-4) 2px;
+  border-bottom: 1px solid color-mix(in srgb, var(--line) 50%, transparent);
 }
 
 .sheet-hero-top {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 14px;
+}
+
+.sheet-hero-heading {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.sheet-favorite-button {
+  flex: 0 0 auto;
+  width: auto;
+  min-height: 34px;
+  margin-top: 2px;
+  padding: 0 10px;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  border-radius: var(--radius-pill);
+  border: 1px solid color-mix(in srgb, var(--brand) 32%, var(--line));
+  background: var(--surface);
+  color: var(--brand-strong);
+  font-size: 12px;
+  font-weight: 600;
+  transition: background-color 180ms var(--ease-ios), border-color 180ms var(--ease-ios), transform 180ms var(--ease-press);
+}
+
+.sheet-favorite-button.is-favorited {
+  background: var(--brand-tint);
+  border-color: color-mix(in srgb, var(--brand) 45%, var(--line));
+}
+
+.sheet-favorite-button:active {
+  transform: scale(0.96);
+}
+
+.sheet-favorite-icon {
+  font-size: 13px;
+  line-height: 1;
+}
+
+.sheet-favorite-label {
+  line-height: 1;
 }
 
 .sheet-hero .nature-seal {
@@ -3357,8 +3399,10 @@ button {
 }
 
 .sheet-content .detail-section {
-  padding: 20px 2px;
+  margin-top: 0;
+  padding: var(--sp-4) 2px;
   border: 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--line) 50%, transparent);
   border-radius: 0;
   background: transparent;
   box-shadow: none;
@@ -3366,6 +3410,32 @@ button {
 
 .sheet-content .detail-section:last-child {
   border-bottom: 0;
+  padding-bottom: var(--sp-2);
+}
+
+.sheet-content .detail-section h3 {
+  margin: 0 0 var(--sp-2);
+}
+
+.sheet-content .detail-section > * + * {
+  margin-top: var(--sp-3);
+}
+
+.sheet-content .detail-section > h3 + * {
+  margin-top: var(--sp-2);
+}
+
+.sheet-content .detail-section li + li,
+.sheet-content .recipe-steps li + li {
+  margin-top: 8px;
+}
+
+.sheet-content .source-list {
+  margin-bottom: 0;
+}
+
+.sheet-content .recipe-caution-list {
+  margin-top: 0;
 }
 
 .detail-section h3 {
