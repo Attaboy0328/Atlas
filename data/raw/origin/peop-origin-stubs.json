@@ -1,7 +1,7 @@
 {
   "registry": "peop-origin-stubs",
   "cutoff": "2026-06-09",
-  "count": 437,
+  "count": 438,
   "items": [
     {
       "id": "peop-艾力努尔-柯坪阿恰恰玛古-芜菁-及冻干片-冻干粉",
@@ -114,9 +114,9 @@
       }
     },
     {
-      "id": "peop-荟之纯-芦荟饮品系列",
-      "name": "“荟之纯”芦荟饮品系列",
-      "category": "滋补食材",
+      "id": "peop-格桑丹珠-红枸杞-黑枸杞-藜麦",
+      "name": "“格桑丹珠”红枸杞、黑枸杞、藜麦",
+      "category": "谷物",
       "nature": "平",
       "provinces": [
         "CN"
@@ -126,11 +126,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "“荟之纯”芦荟饮品系列为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "“格桑丹珠”红枸杞、黑枸杞、藜麦为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/75643.htm",
-        "sourceId": "peop-荟之纯-芦荟饮品系列",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2021/0425/180.html",
+        "sourceId": "peop-格桑丹珠-红枸杞-黑枸杞-藜麦",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -224,28 +224,6 @@
       }
     },
     {
-      "id": "peop-力酱-天道力酱-幸运力酱-牌系列酱香型白酒",
-      "name": "“力酱”“天道力酱”“幸运力酱”牌系列酱香型白酒",
-      "category": "饮品",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "“力酱”“天道力酱”“幸运力酱”牌系列酱香型白酒为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/78758.htm",
-        "sourceId": "peop-力酱-天道力酱-幸运力酱-牌系列酱香型白酒",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-泥坑-牌浓香型-净雅香型白酒",
       "name": "“泥坑”牌浓香型、 净雅香型白酒",
       "category": "饮品",
@@ -312,28 +290,6 @@
       }
     },
     {
-      "id": "peop-沙河-系列浓香型白酒",
-      "name": "“沙河”系列浓香型白酒",
-      "category": "饮品",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "“沙河”系列浓香型白酒为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79867.htm",
-        "sourceId": "peop-沙河-系列浓香型白酒",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-特仑苏-纯牛奶-灭菌乳-现代牧业-纯牛奶-灭菌乳",
       "name": "“特仑苏”纯牛奶（灭菌乳）、 “现代牧业”纯牛奶（灭菌乳）",
       "category": "肉蛋奶",
@@ -395,6 +351,50 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/78484.htm",
         "sourceId": "peop-天琪坊-牌冕宁火腿",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-新河湾-黄淮白山羊-脱毒甘薯-甘薯粉丝-优质小麦及其制品",
+      "name": "“新河湾”黄淮白山羊、脱毒甘薯、甘薯粉丝、优质小麦及其制品",
+      "category": "肉蛋奶",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "“新河湾”黄淮白山羊、脱毒甘薯、甘薯粉丝、优质小麦及其制品为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0929/398.html",
+        "sourceId": "peop-新河湾-黄淮白山羊-脱毒甘薯-甘薯粉丝-优质小麦及其制品",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-宇航人牌-千喜寿源牌-v9-能牌-沙棘及其制品-普通食品",
+      "name": "“宇航人牌、千喜寿源牌、V9 能牌” 沙棘及其制品 （普通食品）",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "“宇航人牌、千喜寿源牌、V9 能牌” 沙棘及其制品 （普通食品）为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/76777.htm",
+        "sourceId": "peop-宇航人牌-千喜寿源牌-v9-能牌-沙棘及其制品-普通食品",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -483,160 +483,6 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/78828.htm",
         "sourceId": "peop-壮象-牌香杉木板",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-nbsp",
-      "name": "&nbsp;",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "&nbsp;为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74342.htm",
-        "sourceId": "peop-nbsp",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-13318986900",
-      "name": "13318986900",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "13318986900为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74487.htm",
-        "sourceId": "peop-13318986900",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-13716043349",
-      "name": "13716043349",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "13716043349为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74487.htm",
-        "sourceId": "peop-13716043349",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-15313917092-13011865565",
-      "name": "15313917092 13011865565",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "15313917092 13011865565为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74487.htm",
-        "sourceId": "peop-15313917092-13011865565",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-15919955258",
-      "name": "15919955258",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "15919955258为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74487.htm",
-        "sourceId": "peop-15919955258",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-17600880352",
-      "name": "17600880352",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "17600880352为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74487.htm",
-        "sourceId": "peop-17600880352",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-18205188919",
-      "name": "18205188919",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "18205188919为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74487.htm",
-        "sourceId": "peop-18205188919",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -813,28 +659,6 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/77229.htm",
         "sourceId": "peop-阿拉善双峰驼",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-艾草等中药材系列初加工产品",
-      "name": "艾草等中药材系列初加工产品",
-      "category": "中药材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "艾草等中药材系列初加工产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/0506/257.html",
-        "sourceId": "peop-艾草等中药材系列初加工产品",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -1236,6 +1060,28 @@
       }
     },
     {
+      "id": "peop-白菜",
+      "name": "白菜",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "白菜为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/1018/409.html",
+        "sourceId": "peop-白菜",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-白参菌及初级加工产品",
       "name": "白参菌及初级加工产品",
       "category": "海产",
@@ -1280,6 +1126,28 @@
       }
     },
     {
+      "id": "peop-百合",
+      "name": "百合",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "百合为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0903/309.html",
+        "sourceId": "peop-百合",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-班迪尔乡-愿臻西域奇珍-牌沙棘",
       "name": "班迪尔乡“愿臻西域奇珍”牌沙棘",
       "category": "滋补食材",
@@ -1297,6 +1165,28 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74621.htm",
         "sourceId": "peop-班迪尔乡-愿臻西域奇珍-牌沙棘",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-班勇",
+      "name": "班勇",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "班勇为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74342.htm",
+        "sourceId": "peop-班勇",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -1478,6 +1368,72 @@
       }
     },
     {
+      "id": "peop-菠菜",
+      "name": "菠菜",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "菠菜为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/1018/409.html",
+        "sourceId": "peop-菠菜",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-亳菊-亳芍-桔梗",
+      "name": "亳菊、亳芍、桔梗",
+      "category": "中药材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "亳菊、亳芍、桔梗为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2021/0425/176.html",
+        "sourceId": "peop-亳菊-亳芍-桔梗",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-亳芍",
+      "name": "亳芍",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "亳芍为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2021/0425/176.html",
+        "sourceId": "peop-亳芍",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-不老莓",
       "name": "不老莓",
       "category": "水果",
@@ -1522,28 +1478,6 @@
       }
     },
     {
-      "id": "peop-茶卡牌系列食用盐",
-      "name": "茶卡牌系列食用盐",
-      "category": "茶饮",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "茶卡牌系列食用盐为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/77806.htm",
-        "sourceId": "peop-茶卡牌系列食用盐",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-昌都阿旺绵羊",
       "name": "昌都阿旺绵羊",
       "category": "肉蛋奶",
@@ -1561,28 +1495,6 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/77269.htm",
         "sourceId": "peop-昌都阿旺绵羊",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-超大尺寸金属构件原位分析仪-ncs",
-      "name": "超大尺寸金属构件原位分析仪 (NCS)",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "超大尺寸金属构件原位分析仪 (NCS)为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/80448.htm",
-        "sourceId": "peop-超大尺寸金属构件原位分析仪-ncs",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -1676,72 +1588,6 @@
       }
     },
     {
-      "id": "peop-重庆市永川区仙龙镇人民政府柑橘",
-      "name": "重庆市永川区仙龙镇人民政府柑橘",
-      "category": "水果",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "重庆市永川区仙龙镇人民政府柑橘为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/0506/256.html",
-        "sourceId": "peop-重庆市永川区仙龙镇人民政府柑橘",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-刺梨系列",
-      "name": "刺梨系列",
-      "category": "水果",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "刺梨系列为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2022/0118/200.html",
-        "sourceId": "peop-刺梨系列",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-刺五加及鸡鱼肉蛋系列产品",
-      "name": "刺五加及鸡鱼肉蛋系列产品",
-      "category": "海产",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "刺五加及鸡鱼肉蛋系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/1227/343.html",
-        "sourceId": "peop-刺五加及鸡鱼肉蛋系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-大别山蜂寿堂蜂蜜",
       "name": "大别山蜂寿堂蜂蜜",
       "category": "滋补食材",
@@ -1830,30 +1676,8 @@
       }
     },
     {
-      "id": "peop-大凉山艾系列产品",
-      "name": "大凉山艾系列产品",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "大凉山艾系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0528/372.html",
-        "sourceId": "peop-大凉山艾系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-大米-莲藕系列产品",
-      "name": "大米、莲藕系列产品",
+      "id": "peop-大米",
+      "name": "大米",
       "category": "谷物",
       "nature": "平",
       "provinces": [
@@ -1864,11 +1688,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "大米、莲藕系列产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "大米为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/0104/233.html",
-        "sourceId": "peop-大米-莲藕系列产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0903/309.html",
+        "sourceId": "peop-大米",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -1940,9 +1764,9 @@
       }
     },
     {
-      "id": "peop-丹参-艾草等中药材系列初加工产品",
-      "name": "丹参、艾草等中药材系列初加工产品",
-      "category": "海产",
+      "id": "peop-大枣",
+      "name": "大枣",
+      "category": "水果",
       "nature": "平",
       "provinces": [
         "CN"
@@ -1952,18 +1776,40 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "丹参、艾草等中药材系列初加工产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "大枣为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/0506/257.html",
-        "sourceId": "peop-丹参-艾草等中药材系列初加工产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0119/296.html",
+        "sourceId": "peop-大枣",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
     },
     {
-      "id": "peop-稻米及蟹鸭共生等系列产品",
-      "name": "稻米及蟹鸭共生等系列产品",
+      "id": "peop-待定",
+      "name": "待定",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "待定为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74342.htm",
+        "sourceId": "peop-待定",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-丹参-黄芩-泽兰及初级加工产品",
+      "name": "丹参、黄芩、泽兰及初级加工产品",
       "category": "海产",
       "nature": "平",
       "provinces": [
@@ -1974,11 +1820,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "稻米及蟹鸭共生等系列产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "丹参、黄芩、泽兰及初级加工产品为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/0104/232.html",
-        "sourceId": "peop-稻米及蟹鸭共生等系列产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2022/0323/206.html",
+        "sourceId": "peop-丹参-黄芩-泽兰及初级加工产品",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -2116,28 +1962,6 @@
       }
     },
     {
-      "id": "peop-番薯等产品",
-      "name": "番薯等产品",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "番薯等产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/1018/409.html",
-        "sourceId": "peop-番薯等产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-繁昌县凤祥生态养殖场五华鸡",
       "name": "繁昌县凤祥生态养殖场五华鸡",
       "category": "肉蛋奶",
@@ -2204,28 +2028,6 @@
       }
     },
     {
-      "id": "peop-翡翠梨系列产品",
-      "name": "翡翠梨系列产品",
-      "category": "水果",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "翡翠梨系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/1226/336.html",
-        "sourceId": "peop-翡翠梨系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-汾阳王酒",
       "name": "汾阳王酒",
       "category": "饮品",
@@ -2265,6 +2067,28 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/76116.htm",
         "sourceId": "peop-丰宁菊苣及其制品-维乐夫牌-vilof",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-丰县-淮牌-淮盐牌-鲜丰牌-大厨手牌-食用盐",
+      "name": "丰县（淮牌、淮盐牌、鲜丰牌、大厨手牌）食用盐",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "丰县（淮牌、淮盐牌、鲜丰牌、大厨手牌）食用盐为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79867.htm",
+        "sourceId": "peop-丰县-淮牌-淮盐牌-鲜丰牌-大厨手牌-食用盐",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -2534,6 +2358,28 @@
       }
     },
     {
+      "id": "peop-腐殖酸钠-腐殖酸钾-黄腐酸钾产品",
+      "name": "腐殖酸钠、腐殖酸钾、黄腐酸钾产品",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "腐殖酸钠、腐殖酸钾、黄腐酸钾产品为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0527/369.html",
+        "sourceId": "peop-腐殖酸钠-腐殖酸钾-黄腐酸钾产品",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-富硒大米",
       "name": "富硒大米",
       "category": "谷物",
@@ -2727,50 +2573,6 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/78552.htm",
         "sourceId": "peop-格达良羊肉",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-枸杞等中药材系列产品",
-      "name": "枸杞等中药材系列产品",
-      "category": "中药材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "枸杞等中药材系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/0506/255.html",
-        "sourceId": "peop-枸杞等中药材系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-古蔺-潭-牌酱香型系列酒",
-      "name": "古蔺 “潭”牌酱香型系列酒",
-      "category": "饮品",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "古蔺 “潭”牌酱香型系列酒为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/78168.htm",
-        "sourceId": "peop-古蔺-潭-牌酱香型系列酒",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -2996,28 +2798,6 @@
       }
     },
     {
-      "id": "peop-桂东县农业农业局的生态高山冷水米系列产品",
-      "name": "桂东县农业农业局的生态高山冷水米系列产品",
-      "category": "谷物",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "桂东县农业农业局的生态高山冷水米系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/1227/344.html",
-        "sourceId": "peop-桂东县农业农业局的生态高山冷水米系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-韩城大红袍花椒",
       "name": "韩城大红袍花椒",
       "category": "滋补食材",
@@ -3194,28 +2974,6 @@
       }
     },
     {
-      "id": "peop-河北翎禾农业科技中心-有限合伙-旱碱麦石磨面粉系列产品",
-      "name": "河北翎禾农业科技中心（有限合伙） 旱碱麦石磨面粉系列产品",
-      "category": "谷物",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "河北翎禾农业科技中心（有限合伙） 旱碱麦石磨面粉系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0528/373.html",
-        "sourceId": "peop-河北翎禾农业科技中心-有限合伙-旱碱麦石磨面粉系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-黑枸杞",
       "name": "黑枸杞",
       "category": "中药材",
@@ -3282,8 +3040,8 @@
       }
     },
     {
-      "id": "peop-黑小麦及系列产品",
-      "name": "黑小麦及系列产品",
+      "id": "peop-黑米",
+      "name": "黑米",
       "category": "谷物",
       "nature": "平",
       "provinces": [
@@ -3294,19 +3052,19 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "黑小麦及系列产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "黑米为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/1225/282.html",
-        "sourceId": "peop-黑小麦及系列产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0119/296.html",
+        "sourceId": "peop-黑米",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
     },
     {
-      "id": "peop-黑小麦面粉系列产品",
-      "name": "黑小麦面粉系列产品",
-      "category": "谷物",
+      "id": "peop-红薯",
+      "name": "红薯",
+      "category": "滋补食材",
       "nature": "平",
       "provinces": [
         "CN"
@@ -3316,33 +3074,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "黑小麦面粉系列产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "红薯为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0528/376.html",
-        "sourceId": "peop-黑小麦面粉系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-红枣-枸杞等中药材系列产品",
-      "name": "红枣、枸杞等中药材系列产品",
-      "category": "水果",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "红枣、枸杞等中药材系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/0506/255.html",
-        "sourceId": "peop-红枣-枸杞等中药材系列产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/0506/256.html",
+        "sourceId": "peop-红薯",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -3502,8 +3238,8 @@
       }
     },
     {
-      "id": "peop-湖-15559-杨梅",
-      "name": "湖&#15559;杨梅",
+      "id": "peop-湖-杨梅",
+      "name": "湖㳇杨梅",
       "category": "滋补食材",
       "nature": "平",
       "provinces": [
@@ -3514,11 +3250,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "湖&#15559;杨梅为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "湖㳇杨梅为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/75722.htm",
-        "sourceId": "peop-湖-15559-杨梅",
+        "sourceId": "peop-湖-杨梅",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -3568,9 +3304,9 @@
       }
     },
     {
-      "id": "peop-花涧集茶固体饮料等茶系列产品",
-      "name": "花涧集茶固体饮料等茶系列产品",
-      "category": "茶饮",
+      "id": "peop-花椒",
+      "name": "花椒",
+      "category": "滋补食材",
       "nature": "平",
       "provinces": [
         "CN"
@@ -3580,11 +3316,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "花涧集茶固体饮料等茶系列产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "花椒为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0528/375.html",
-        "sourceId": "peop-花涧集茶固体饮料等茶系列产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0119/296.html",
+        "sourceId": "peop-花椒",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -3744,8 +3480,8 @@
       }
     },
     {
-      "id": "peop-黄精系列",
-      "name": "黄精系列",
+      "id": "peop-黄精",
+      "name": "黄精",
       "category": "滋补食材",
       "nature": "平",
       "provinces": [
@@ -3756,11 +3492,33 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "黄精系列为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "黄精为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2022/0118/199.html",
-        "sourceId": "peop-黄精系列",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/1016/294.html",
+        "sourceId": "peop-黄精",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-黄陵县农业农村局苹果",
+      "name": "黄陵县农业农村局苹果",
+      "category": "水果",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "黄陵县农业农村局苹果为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/1226/336.html",
+        "sourceId": "peop-黄陵县农业农村局苹果",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -3788,8 +3546,30 @@
       }
     },
     {
-      "id": "peop-鸡蛋系列产品",
-      "name": "鸡蛋系列产品",
+      "id": "peop-黄芩",
+      "name": "黄芩",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "黄芩为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2022/0323/206.html",
+        "sourceId": "peop-黄芩",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-鸡蛋",
+      "name": "鸡蛋",
       "category": "肉蛋奶",
       "nature": "平",
       "provinces": [
@@ -3800,11 +3580,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "鸡蛋系列产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "鸡蛋为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0928/385.html",
-        "sourceId": "peop-鸡蛋系列产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/1017/413.html",
+        "sourceId": "peop-鸡蛋",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -3876,6 +3656,28 @@
       }
     },
     {
+      "id": "peop-佳县-东方佳宝牌-油枣-冻干枣片-红枣酱",
+      "name": "佳县 “东方佳宝牌” 油枣、冻干枣片、红枣酱",
+      "category": "水果",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "佳县 “东方佳宝牌” 油枣、冻干枣片、红枣酱为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/77329.htm",
+        "sourceId": "peop-佳县-东方佳宝牌-油枣-冻干枣片-红枣酱",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-佳县-佳佳佳杂粮-牌高粱",
       "name": "佳县 “佳佳佳杂粮”牌高粱",
       "category": "谷物",
@@ -3893,6 +3695,28 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/77329.htm",
         "sourceId": "peop-佳县-佳佳佳杂粮-牌高粱",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-佳县-葭州美牌-红枣-紫晶枣-黑晶枣",
+      "name": "佳县 “葭州美牌”红枣、 紫晶枣、黑晶枣",
+      "category": "水果",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "佳县 “葭州美牌”红枣、 紫晶枣、黑晶枣为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/77329.htm",
+        "sourceId": "peop-佳县-葭州美牌-红枣-紫晶枣-黑晶枣",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -4008,6 +3832,28 @@
       }
     },
     {
+      "id": "peop-讲师",
+      "name": "讲师",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "讲师为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74342.htm",
+        "sourceId": "peop-讲师",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-酵母蛋白粉-乳铁蛋白酵母-葡聚糖调制乳粉产品",
       "name": "酵母蛋白粉、乳铁蛋白酵母β-葡聚糖调制乳粉产品",
       "category": "肉蛋奶",
@@ -4030,8 +3876,8 @@
       }
     },
     {
-      "id": "peop-洁丽雅毛巾系列产品-洁丽雅牌",
-      "name": "洁丽雅毛巾系列产品 (洁丽雅牌)",
+      "id": "peop-桔梗",
+      "name": "桔梗",
       "category": "滋补食材",
       "nature": "平",
       "provinces": [
@@ -4042,33 +3888,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "洁丽雅毛巾系列产品 (洁丽雅牌)为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "桔梗为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/75814.htm",
-        "sourceId": "peop-洁丽雅毛巾系列产品-洁丽雅牌",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-洁丽雅牌毛巾系列产品",
-      "name": "洁丽雅牌毛巾系列产品",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "洁丽雅牌毛巾系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/80159.htm",
-        "sourceId": "peop-洁丽雅牌毛巾系列产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2021/0425/176.html",
+        "sourceId": "peop-桔梗",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -4492,6 +4316,28 @@
       }
     },
     {
+      "id": "peop-科左后旗乳制品-安牧态牌-古式额吉牌-利蒙牌",
+      "name": "科左后旗乳制品 （安牧态牌、古式额吉牌、利蒙牌）",
+      "category": "肉蛋奶",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "科左后旗乳制品 （安牧态牌、古式额吉牌、利蒙牌）为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/78644.htm",
+        "sourceId": "peop-科左后旗乳制品-安牧态牌-古式额吉牌-利蒙牌",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-库布齐甘草",
       "name": "库布齐甘草",
       "category": "滋补食材",
@@ -4509,6 +4355,28 @@
         "source": "peop",
         "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0903/310.html",
         "sourceId": "peop-库布齐甘草",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-库布齐黄牛-库布齐山羊-库布齐甘草",
+      "name": "库布齐黄牛、库布齐山羊、库布齐甘草",
+      "category": "肉蛋奶",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "库布齐黄牛、库布齐山羊、库布齐甘草为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0903/310.html",
+        "sourceId": "peop-库布齐黄牛-库布齐山羊-库布齐甘草",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -4558,6 +4426,50 @@
       }
     },
     {
+      "id": "peop-昆明吉庆祥云腿月饼-昆明吉庆牌云腿月饼-昆明合香楼云腿月饼",
+      "name": "昆明吉庆祥云腿月饼、昆明吉庆牌云腿月饼、 昆明合香楼云腿月饼",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "昆明吉庆祥云腿月饼、昆明吉庆牌云腿月饼、 昆明合香楼云腿月饼为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/76708.htm",
+        "sourceId": "peop-昆明吉庆祥云腿月饼-昆明吉庆牌云腿月饼-昆明合香楼云腿月饼",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-辣椒",
+      "name": "辣椒",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "辣椒为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0117/293.html",
+        "sourceId": "peop-辣椒",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-辣椒酱",
       "name": "辣椒酱",
       "category": "滋补食材",
@@ -4580,9 +4492,9 @@
       }
     },
     {
-      "id": "peop-蓝莓-悠蜜-umeet-牌-系列产品",
-      "name": "蓝莓（悠蜜 UMEET 牌）系列产品",
-      "category": "水果",
+      "id": "peop-蓝莓-金银花-紫薯-不老莓-辣椒-土鸡-羊",
+      "name": "蓝莓、金银花，紫薯、不老莓、辣椒、土鸡 、羊",
+      "category": "肉蛋奶",
       "nature": "平",
       "provinces": [
         "CN"
@@ -4592,11 +4504,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "蓝莓（悠蜜 UMEET 牌）系列产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "蓝莓、金银花，紫薯、不老莓、辣椒、土鸡 、羊为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/77987.htm",
-        "sourceId": "peop-蓝莓-悠蜜-umeet-牌-系列产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0117/293.html",
+        "sourceId": "peop-蓝莓-金银花-紫薯-不老莓-辣椒-土鸡-羊",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -4668,6 +4580,28 @@
       }
     },
     {
+      "id": "peop-藜麦",
+      "name": "藜麦",
+      "category": "谷物",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "藜麦为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2021/0425/180.html",
+        "sourceId": "peop-藜麦",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-礼大憨葵花籽产品",
       "name": "礼大憨葵花籽产品",
       "category": "滋补食材",
@@ -4712,8 +4646,8 @@
       }
     },
     {
-      "id": "peop-莲藕系列产品",
-      "name": "莲藕系列产品",
+      "id": "peop-连翘",
+      "name": "连翘",
       "category": "滋补食材",
       "nature": "平",
       "provinces": [
@@ -4724,11 +4658,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "莲藕系列产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "连翘为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/0104/233.html",
-        "sourceId": "peop-莲藕系列产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0815/315.html",
+        "sourceId": "peop-连翘",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -4866,28 +4800,6 @@
       }
     },
     {
-      "id": "peop-零山-高山-古树香榧-及香榧系列产品",
-      "name": "零山(高山)“古树香榧”及香榧系列产品",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "零山(高山)“古树香榧”及香榧系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0928/392.html",
-        "sourceId": "peop-零山-高山-古树香榧-及香榧系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-刘育禾",
       "name": "刘育禾",
       "category": "滋补食材",
@@ -4971,6 +4883,28 @@
         "source": "peop",
         "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0329/300.html",
         "sourceId": "peop-六合活珠子",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-芦花牌海水食用盐-精制盐-粉碎洗涤盐-日晒盐",
+      "name": "芦花牌海水食用盐 (精制盐、粉碎洗涤盐、日晒盐）",
+      "category": "谷物",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "芦花牌海水食用盐 (精制盐、粉碎洗涤盐、日晒盐）为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/80461.htm",
+        "sourceId": "peop-芦花牌海水食用盐-精制盐-粉碎洗涤盐-日晒盐",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -5064,28 +4998,6 @@
       }
     },
     {
-      "id": "peop-吕飞一生水系列天然饮用水",
-      "name": "吕飞一生水系列天然饮用水",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "吕飞一生水系列天然饮用水为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/78552.htm",
-        "sourceId": "peop-吕飞一生水系列天然饮用水",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-吕飞一生水饮用天然苏打水-饮用天然泉水",
       "name": "吕飞一生水饮用天然苏打水、 饮用天然泉水",
       "category": "滋补食材",
@@ -5108,9 +5020,9 @@
       }
     },
     {
-      "id": "peop-绿豆淀粉粉条-粉丝-系列产品",
-      "name": "绿豆淀粉粉条（粉丝）系列产品",
-      "category": "谷物",
+      "id": "peop-绿茶",
+      "name": "绿茶",
+      "category": "茶饮",
       "nature": "平",
       "provinces": [
         "CN"
@@ -5120,11 +5032,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "绿豆淀粉粉条（粉丝）系列产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "绿茶为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/1230/346.html",
-        "sourceId": "peop-绿豆淀粉粉条-粉丝-系列产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0329/302.html",
+        "sourceId": "peop-绿茶",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -5482,28 +5394,6 @@
       }
     },
     {
-      "id": "peop-民权制冷设备",
-      "name": "民权制冷设备",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "民权制冷设备为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/76672.htm",
-        "sourceId": "peop-民权制冷设备",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-岷江折耳根",
       "name": "岷江折耳根",
       "category": "菌菇",
@@ -5587,6 +5477,28 @@
         "source": "peop",
         "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0329/301.html",
         "sourceId": "peop-牡丹籽油",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-木耳",
+      "name": "木耳",
+      "category": "菌菇",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "木耳为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0119/296.html",
+        "sourceId": "peop-木耳",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -6010,28 +5922,6 @@
       }
     },
     {
-      "id": "peop-牛肉系列产品",
-      "name": "牛肉系列产品",
-      "category": "肉蛋奶",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "牛肉系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/1018/411.html",
-        "sourceId": "peop-牛肉系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-浓小丫辣椒酱",
       "name": "浓小丫辣椒酱",
       "category": "滋补食材",
@@ -6120,8 +6010,8 @@
       }
     },
     {
-      "id": "peop-苹果-翡翠梨系列产品",
-      "name": "苹果、翡翠梨系列产品",
+      "id": "peop-蒲江-三湖春-杂柑-春见-不知火-爱媛",
+      "name": "蒲江 “三湖春”杂柑 （春见、不知火、爱媛）",
       "category": "水果",
       "nature": "平",
       "provinces": [
@@ -6132,33 +6022,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "苹果、翡翠梨系列产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "蒲江 “三湖春”杂柑 （春见、不知火、爱媛）为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/1226/336.html",
-        "sourceId": "peop-苹果-翡翠梨系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-蒲公英链-鸡鱼肉蛋-生态系列产品",
-      "name": "蒲公英链(鸡鱼肉蛋)生态系列产品",
-      "category": "海产",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "蒲公英链(鸡鱼肉蛋)生态系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/1226/342.html",
-        "sourceId": "peop-蒲公英链-鸡鱼肉蛋-生态系列产品",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/75643.htm",
+        "sourceId": "peop-蒲江-三湖春-杂柑-春见-不知火-爱媛",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -6274,6 +6142,50 @@
       }
     },
     {
+      "id": "peop-千年珍-乐陶陶-参香活色牌西洋参粉-西洋参片-西洋参枝",
+      "name": "千年珍、乐陶陶、 参香活色牌西洋参粉、西洋参片、西洋参枝",
+      "category": "海产",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "千年珍、乐陶陶、 参香活色牌西洋参粉、西洋参片、西洋参枝为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/76214.htm",
+        "sourceId": "peop-千年珍-乐陶陶-参香活色牌西洋参粉-西洋参片-西洋参枝",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-千年珍-乐陶陶-参香活色西洋参片-西洋参粉-西洋参枝",
+      "name": "千年珍；乐陶陶；参香活色西洋参片、西洋参粉、西洋参枝",
+      "category": "海产",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "千年珍；乐陶陶；参香活色西洋参片、西洋参粉、西洋参枝为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79117.htm",
+        "sourceId": "peop-千年珍-乐陶陶-参香活色西洋参片-西洋参粉-西洋参枝",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-千年珍红参膏",
       "name": "千年珍红参膏",
       "category": "海产",
@@ -6313,6 +6225,28 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74752.htm",
         "sourceId": "peop-千年珍西洋参片-西洋参粉",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-黔醉传承-黔醉原-黔醉老-黔醉酒庄酱香型白酒",
+      "name": "黔醉传承、黔醉原、黔醉老、黔醉酒庄酱香型白酒",
+      "category": "饮品",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "黔醉传承、黔醉原、黔醉老、黔醉酒庄酱香型白酒为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79867.htm",
+        "sourceId": "peop-黔醉传承-黔醉原-黔醉老-黔醉酒庄酱香型白酒",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -6384,28 +6318,6 @@
       }
     },
     {
-      "id": "peop-青黟牌天然矿泉水系列产品",
-      "name": "青黟牌天然矿泉水系列产品",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "青黟牌天然矿泉水系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0928/389.html",
-        "sourceId": "peop-青黟牌天然矿泉水系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-庆安九河原牌大米",
       "name": "庆安九河原牌大米",
       "category": "谷物",
@@ -6423,50 +6335,6 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/80024.htm",
         "sourceId": "peop-庆安九河原牌大米",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-人参鸡蛋系列产品",
-      "name": "人参鸡蛋系列产品",
-      "category": "海产",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "人参鸡蛋系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0928/386.html",
-        "sourceId": "peop-人参鸡蛋系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-肉苁蓉系列产品",
-      "name": "肉苁蓉系列产品",
-      "category": "肉蛋奶",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "肉苁蓉系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0928/388.html",
-        "sourceId": "peop-肉苁蓉系列产品",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -6511,28 +6379,6 @@
         "source": "peop",
         "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0528/374.html",
         "sourceId": "peop-乳铁蛋白酵母-葡聚糖调制乳粉产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-桑产业系列",
-      "name": "桑产业系列",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "桑产业系列为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2021/0425/179.html",
-        "sourceId": "peop-桑产业系列",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -6780,28 +6626,6 @@
       }
     },
     {
-      "id": "peop-山楂系列产品",
-      "name": "山楂系列产品",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "山楂系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/1018/408.html",
-        "sourceId": "peop-山楂系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-商城高山茶",
       "name": "商城高山茶",
       "category": "茶饮",
@@ -7022,28 +6846,6 @@
       }
     },
     {
-      "id": "peop-圣起起重设备",
-      "name": "圣起起重设备",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "圣起起重设备为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/78484.htm",
-        "sourceId": "peop-圣起起重设备",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-石埠子草莓",
       "name": "石埠子草莓",
       "category": "水果",
@@ -7088,8 +6890,8 @@
       }
     },
     {
-      "id": "peop-石榴陈醋系列产品",
-      "name": "石榴陈醋系列产品",
+      "id": "peop-石榴",
+      "name": "石榴",
       "category": "滋补食材",
       "nature": "平",
       "provinces": [
@@ -7100,11 +6902,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "石榴陈醋系列产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "石榴为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/1226/338.html",
-        "sourceId": "peop-石榴陈醋系列产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0119/296.html",
+        "sourceId": "peop-石榴",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -7127,28 +6929,6 @@
         "source": "peop",
         "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0928/394.html",
         "sourceId": "peop-蜀之东篱简阳羊肉汤-简州大耳羊",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-四川-江口醇-系列浓香型白酒",
-      "name": "四川 “江口醇”系列浓香型白酒",
-      "category": "饮品",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "四川 “江口醇”系列浓香型白酒为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/78168.htm",
-        "sourceId": "peop-四川-江口醇-系列浓香型白酒",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -7374,9 +7154,9 @@
       }
     },
     {
-      "id": "peop-太仆寺旗-草原-牌-草原王-牌系列白酒",
-      "name": "太仆寺旗 “草原”牌、“草原王”牌系列白酒",
-      "category": "饮品",
+      "id": "peop-天津长芦汉沽芦花牌海水食用盐-精制盐-粉碎洗涤盐-日晒盐",
+      "name": "天津长芦汉沽芦花牌海水食用盐（精制盐、粉碎洗涤盐、日晒盐）",
+      "category": "谷物",
       "nature": "平",
       "provinces": [
         "CN"
@@ -7386,11 +7166,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "太仆寺旗 “草原”牌、“草原王”牌系列白酒为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "天津长芦汉沽芦花牌海水食用盐（精制盐、粉碎洗涤盐、日晒盐）为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/77177.htm",
-        "sourceId": "peop-太仆寺旗-草原-牌-草原王-牌系列白酒",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/76085.htm",
+        "sourceId": "peop-天津长芦汉沽芦花牌海水食用盐-精制盐-粉碎洗涤盐-日晒盐",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -7638,6 +7418,72 @@
       }
     },
     {
+      "id": "peop-驼奶",
+      "name": "驼奶",
+      "category": "肉蛋奶",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "驼奶为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0903/311.html",
+        "sourceId": "peop-驼奶",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-豌豆",
+      "name": "豌豆",
+      "category": "谷物",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "豌豆为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/1230/346.html",
+        "sourceId": "peop-豌豆",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-王伟",
+      "name": "王伟",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "王伟为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74342.htm",
+        "sourceId": "peop-王伟",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-威信-扎西菇爹-牌竹荪",
       "name": "威信 “扎西菇爹”牌竹荪",
       "category": "菌菇",
@@ -7721,6 +7567,28 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/75223.htm",
         "sourceId": "peop-温县陈家沟太极拳",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-温县铁棍山药及其制品-温县铁棍山药牌-马红峰牌-怀山堂牌",
+      "name": "温县铁棍山药及其制品（温县铁棍山药牌、马红峰牌、怀山堂牌）",
+      "category": "中药材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "温县铁棍山药及其制品（温县铁棍山药牌、马红峰牌、怀山堂牌）为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/75223.htm",
+        "sourceId": "peop-温县铁棍山药及其制品-温县铁棍山药牌-马红峰牌-怀山堂牌",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -7924,6 +7792,28 @@
       }
     },
     {
+      "id": "peop-西藏奇正青稞米-青稞脆片-雪之清牌-天麦力牌-藏晶牌",
+      "name": "西藏奇正青稞米、青稞脆片 （雪之清牌、天麦力牌、藏晶牌）",
+      "category": "谷物",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "西藏奇正青稞米、青稞脆片 （雪之清牌、天麦力牌、藏晶牌）为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/76793.htm",
+        "sourceId": "peop-西藏奇正青稞米-青稞脆片-雪之清牌-天麦力牌-藏晶牌",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-西峡猕猴桃",
       "name": "西峡猕猴桃",
       "category": "水果",
@@ -8100,9 +7990,9 @@
       }
     },
     {
-      "id": "peop-襄玉园牌鸡蛋系列产品",
-      "name": "襄玉园牌鸡蛋系列产品",
-      "category": "肉蛋奶",
+      "id": "peop-湘西土家族苗族自治州农业农村局湘西黄金茶",
+      "name": "湘西土家族苗族自治州农业农村局湘西黄金茶",
+      "category": "茶饮",
       "nature": "平",
       "provinces": [
         "CN"
@@ -8112,11 +8002,11 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "襄玉园牌鸡蛋系列产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "湘西土家族苗族自治州农业农村局湘西黄金茶为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/76284.htm",
-        "sourceId": "peop-襄玉园牌鸡蛋系列产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0913/316.html",
+        "sourceId": "peop-湘西土家族苗族自治州农业农村局湘西黄金茶",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -8139,6 +8029,72 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/75960.htm",
         "sourceId": "peop-逍遥镇胡辣汤料精品",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-小麦",
+      "name": "小麦",
+      "category": "谷物",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "小麦为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2021/0511/181.html",
+        "sourceId": "peop-小麦",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-小米",
+      "name": "小米",
+      "category": "谷物",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "小米为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0119/296.html",
+        "sourceId": "peop-小米",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-新晃侗族自治县农业农村局黄精",
+      "name": "新晃侗族自治县农业农村局黄精",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "新晃侗族自治县农业农村局黄精为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/1016/294.html",
+        "sourceId": "peop-新晃侗族自治县农业农村局黄精",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -8271,6 +8227,28 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/78787.htm",
         "sourceId": "peop-秀清苗香黑猪",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-徐闻县农业农村局的菠萝",
+      "name": "徐闻县农业农村局的菠萝",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "徐闻县农业农村局的菠萝为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/1227/284.html",
+        "sourceId": "peop-徐闻县农业农村局的菠萝",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -8540,6 +8518,50 @@
       }
     },
     {
+      "id": "peop-杨梅",
+      "name": "杨梅",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "杨梅为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0903/309.html",
+        "sourceId": "peop-杨梅",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-洋县-朱鹮牌-黑谷牌-黑米酒-黑谷酒-脱醇黑谷酒饮品",
+      "name": "洋县 “朱鹮牌、黑谷牌”黑米酒、黑谷酒、脱醇黑谷酒饮品",
+      "category": "谷物",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "洋县 “朱鹮牌、黑谷牌”黑米酒、黑谷酒、脱醇黑谷酒饮品为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79131.htm",
+        "sourceId": "peop-洋县-朱鹮牌-黑谷牌-黑米酒-黑谷酒-脱醇黑谷酒饮品",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-漾濞-传润-牌核桃",
       "name": "漾濞 “传润”牌核桃",
       "category": "坚果种子",
@@ -8716,9 +8738,9 @@
       }
     },
     {
-      "id": "peop-宜府春-宫府院宅-系列浓香型白酒",
-      "name": "宜府春 “宫府院宅”系列浓香型白酒",
-      "category": "饮品",
+      "id": "peop-宜城农业农村局宜城米",
+      "name": "宜城农业农村局宜城米",
+      "category": "谷物",
       "nature": "平",
       "provinces": [
         "CN"
@@ -8728,11 +8750,33 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "宜府春 “宫府院宅”系列浓香型白酒为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "宜城农业农村局宜城米为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79656.htm",
-        "sourceId": "peop-宜府春-宫府院宅-系列浓香型白酒",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/0315/252.html",
+        "sourceId": "peop-宜城农业农村局宜城米",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-宜品和爱尼可牌婴幼儿配方奶粉-全脂乳粉-调制乳粉",
+      "name": "宜品和爱尼可牌婴幼儿配方奶粉、全脂乳粉、调制乳粉",
+      "category": "肉蛋奶",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "宜品和爱尼可牌婴幼儿配方奶粉、全脂乳粉、调制乳粉为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/75814.htm",
+        "sourceId": "peop-宜品和爱尼可牌婴幼儿配方奶粉-全脂乳粉-调制乳粉",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -8760,50 +8804,6 @@
       }
     },
     {
-      "id": "peop-鱼稻及竹荪等食用菌系列产品",
-      "name": "鱼稻及竹荪等食用菌系列产品",
-      "category": "海产",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "鱼稻及竹荪等食用菌系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/0506/256.html",
-        "sourceId": "peop-鱼稻及竹荪等食用菌系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-雩山-高山-沙地红薯系列产品",
-      "name": "雩山（高山）沙地红薯系列产品",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "雩山（高山）沙地红薯系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0928/393.html",
-        "sourceId": "peop-雩山-高山-沙地红薯系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-榆林上河湖羊-上河桃花羊-上河农牧-上河湖羊牌",
       "name": "榆林上河湖羊 “上河桃花羊 / 上河农牧 /上河湖羊牌”",
       "category": "肉蛋奶",
@@ -8821,28 +8821,6 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/76472.htm",
         "sourceId": "peop-榆林上河湖羊-上河桃花羊-上河农牧-上河湖羊牌",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-榆面及系列产品",
-      "name": "榆面及系列产品",
-      "category": "谷物",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "榆面及系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/1225/282.html",
-        "sourceId": "peop-榆面及系列产品",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -8887,28 +8865,6 @@
         "source": "peop",
         "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/1227/288.html",
         "sourceId": "peop-玉露水蜜桃",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-玉米系列产品",
-      "name": "玉米系列产品",
-      "category": "谷物",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "玉米系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2025/0528/377.html",
-        "sourceId": "peop-玉米系列产品",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -9024,50 +8980,6 @@
       }
     },
     {
-      "id": "peop-云南白象牌高原深井盐系列产品",
-      "name": "云南白象牌高原深井盐系列产品",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "云南白象牌高原深井盐系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/76793.htm",
-        "sourceId": "peop-云南白象牌高原深井盐系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-云南白象牌普洱高原深井盐-系列产品",
-      "name": "云南白象牌普洱高原深井盐 系列产品",
-      "category": "茶饮",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "云南白象牌普洱高原深井盐 系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/76793.htm",
-        "sourceId": "peop-云南白象牌普洱高原深井盐-系列产品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
       "id": "peop-云南潘祥记鲜花饼",
       "name": "云南潘祥记鲜花饼",
       "category": "滋补食材",
@@ -9156,6 +9068,50 @@
       }
     },
     {
+      "id": "peop-樟树市井冈-食用盐-食品生产加工用盐-瑞江-工业盐",
+      "name": "樟树市井冈 (食用盐、食品生产加工用盐)、瑞江(工业盐)",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "樟树市井冈 (食用盐、食品生产加工用盐)、瑞江(工业盐)为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79656.htm",
+        "sourceId": "peop-樟树市井冈-食用盐-食品生产加工用盐-瑞江-工业盐",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-樟树市食用盐-井冈牌-百仙牌-善盐坊牌-清江古海牌-古海牌",
+      "name": "樟树市食用盐（井冈牌、百仙牌、善盐坊牌、清江古海牌、古海牌）",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "樟树市食用盐（井冈牌、百仙牌、善盐坊牌、清江古海牌、古海牌）为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79076.htm",
+        "sourceId": "peop-樟树市食用盐-井冈牌-百仙牌-善盐坊牌-清江古海牌-古海牌",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-长安花高原小粒菜籽油",
       "name": "长安花高原小粒菜籽油",
       "category": "滋补食材",
@@ -9173,28 +9129,6 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/77646.htm",
         "sourceId": "peop-长安花高原小粒菜籽油",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-长白山松茸系列产品",
-      "name": "长白山松茸系列产品",
-      "category": "菌菇",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "长白山松茸系列产品为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/1230/345.html",
-        "sourceId": "peop-长白山松茸系列产品",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -9261,6 +9195,28 @@
         "source": "peop",
         "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2023/1225/282.html",
         "sourceId": "peop-芝麻油",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-芝麻油-茶油-脱皮低芥酸菜籽油",
+      "name": "芝麻油、茶油、脱皮低芥酸菜籽油",
+      "category": "茶饮",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "芝麻油、茶油、脱皮低芥酸菜籽油为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2021/1015/186.html",
+        "sourceId": "peop-芝麻油-茶油-脱皮低芥酸菜籽油",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -9349,28 +9305,6 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/77324.htm",
         "sourceId": "peop-中宁枸杞及其制品",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-中盐牌系列-天山晶牌系列-冰雪天山岩牌系列-黄羊牌系列-古湖牌系列食用盐",
-      "name": "中盐牌系列，天山晶牌系列，冰雪天山岩牌系列，黄羊牌系列，古湖牌系列食用盐",
-      "category": "肉蛋奶",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "中盐牌系列，天山晶牌系列，冰雪天山岩牌系列，黄羊牌系列，古湖牌系列食用盐为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/74621.htm",
-        "sourceId": "peop-中盐牌系列-天山晶牌系列-冰雪天山岩牌系列-黄羊牌系列-古湖牌系列食用盐",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }
@@ -9552,6 +9486,28 @@
       }
     },
     {
+      "id": "peop-紫薯",
+      "name": "紫薯",
+      "category": "滋补食材",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "紫薯为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0117/293.html",
+        "sourceId": "peop-紫薯",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
       "id": "peop-自贡立华雪山草鸡-雪山食品",
       "name": "自贡立华雪山草鸡（雪山食品）",
       "category": "肉蛋奶",
@@ -9574,8 +9530,30 @@
       }
     },
     {
-      "id": "peop-遵义-贵三红-辣三娘-牌辣椒系列产品",
-      "name": "遵义 “贵三红”、“辣三娘”牌辣椒系列产品",
+      "id": "peop-醉黔古-识金-子路-金钻礼-王泰斗-丞酱师-酱香型白酒",
+      "name": "醉黔古、识金、子路、金钻礼、王泰斗、丞酱师 酱香型白酒",
+      "category": "饮品",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "醉黔古、识金、子路、金钻礼、王泰斗、丞酱师 酱香型白酒为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79385.htm",
+        "sourceId": "peop-醉黔古-识金-子路-金钻礼-王泰斗-丞酱师-酱香型白酒",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-左权县农业农村局连翘",
+      "name": "左权县农业农村局连翘",
       "category": "滋补食材",
       "nature": "平",
       "provinces": [
@@ -9586,11 +9564,55 @@
         "label": "生态原产地保护产品",
         "region": "CN"
       },
-      "summary": "遵义 “贵三红”、“辣三娘”牌辣椒系列产品为生态原产地保护产品（PEOP）整理条目。",
+      "summary": "左权县农业农村局连翘为生态原产地保护产品（PEOP）整理条目。",
       "provenance": {
         "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/77324.htm",
-        "sourceId": "peop-遵义-贵三红-辣三娘-牌辣椒系列产品",
+        "sourceUrl": "http://www.stycd.org.cn/gonggongchaxun/zhengshuminglu/2024/0815/315.html",
+        "sourceId": "peop-左权县农业农村局连翘",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-左云-雁门清高-牌苦荞健茶-苦荞米-苦荞粉",
+      "name": "左云 “雁门清高”牌苦荞健茶、苦荞米、苦荞粉",
+      "category": "茶饮",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "左云 “雁门清高”牌苦荞健茶、苦荞米、苦荞粉为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/75223.htm",
+        "sourceId": "peop-左云-雁门清高-牌苦荞健茶-苦荞米-苦荞粉",
+        "fetchedAt": "2026-06-09",
+        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
+      }
+    },
+    {
+      "id": "peop-左云-雁门清高-牌苦荞健茶-苦荞米-苦荞粉-脱苦苦荞粉-纯苦荞面",
+      "name": "左云 “雁门清高”牌苦荞健茶、苦荞米、苦荞粉、脱苦苦荞粉、纯苦荞面",
+      "category": "茶饮",
+      "nature": "平",
+      "provinces": [
+        "CN"
+      ],
+      "peop": {
+        "status": "protected",
+        "label": "生态原产地保护产品",
+        "region": "CN"
+      },
+      "summary": "左云 “雁门清高”牌苦荞健茶、苦荞米、苦荞粉、脱苦苦荞粉、纯苦荞面为生态原产地保护产品（PEOP）整理条目。",
+      "provenance": {
+        "source": "peop",
+        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79364.htm",
+        "sourceId": "peop-左云-雁门清高-牌苦荞健茶-苦荞米-苦荞粉-脱苦苦荞粉-纯苦荞面",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }

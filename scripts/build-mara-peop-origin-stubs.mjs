@@ -7,6 +7,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { root } from "./lib/food-catalog.mjs";
+import { isValidOriginProductName, normalizeOriginProductName } from "./lib/origin-products.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const cutoff = "2026-06-09";
@@ -51,7 +52,8 @@ function buildMaraStub(row) {
       type: "农产品地理标志",
       label: "农业农村部农产品地理标志"
     }],
-    summary: `${name}为农业农村部农产品地理标志登记产品（登记已于2022年废止，以绿色食品中心公开名录为准）。`,
+    registryStatus: "historical",
+    summary: `${name}为农业农村部农产品地理标志历史登记产品（登记制度已于2022年11月停止新登记；本条整理自绿色食品中心公开历史名录，产品本身仍可作为产地参考）。`,
     provenance: {
       source: "mara",
       sourceUrl: row.sourceUrl || "http://www.greenfood.agri.cn/xxcx/dlbzcx/",
@@ -59,7 +61,7 @@ function buildMaraStub(row) {
       fetchedAt: cutoff,
       registerYear: row.registerYear || "",
       certificateId: row.certificateId || "",
-      note: "整理自中国绿色食品发展中心全国农产品地理标志登记产品查询。"
+      note: "历史登记名录；以绿色食品中心最新公开信息为准。"
     }
   };
 }
@@ -69,19 +71,12 @@ function slugify(name) {
 }
 
 const PEOP_SKIP = /^(板栗|土鸡|茶叶|茶油|肉羊|笋干|艾草)$/;
-function isValidPeopStubName(name) {
-  const n = String(name || "").trim();
-  if (n.length < 3 || n.length > 36) return false;
-  if (PEOP_SKIP.test(n)) return false;
-  if (/有限公司|股份公司|农业农村局|养殖场$|^的/.test(n)) return false;
-  if (/化妆品/.test(n)) return false;
-  if (/、.*、/.test(n)) return false;
-  return true;
-}
 
 function buildPeopStub(row) {
-  const name = String(row.name || "").trim();
-  if (!isValidPeopStubName(name)) return null;
+  const name = normalizeOriginProductName(row.name);
+  if (!isValidOriginProductName(name)) return null;
+  if (PEOP_SKIP.test(name)) return null;
+  if (/养殖场$|^的/.test(name)) return null;
   const region = row.region || "CN";
   return {
     id: slugify(name),

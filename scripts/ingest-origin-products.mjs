@@ -11,8 +11,11 @@ import {
   autoLinkBaseFoodId,
   buildOriginFoodEntries,
   dedupeOriginProductsByName,
+  finalizeOriginProduct,
+  isValidOriginProductName,
   loadRawOriginImports,
-  mergeOriginProducts
+  mergeOriginProducts,
+  sanitizeUserFacingAliases
 } from "./lib/origin-products.mjs";
 import { applyOriginNatureInference } from "./lib/origin-nature.mjs";
 import { applyCrosswalkToProducts } from "./lib/gi-dao-di-crosswalk.mjs";
@@ -35,12 +38,23 @@ const catalogIndex = {
 };
 catalogNames.forEach((id, name) => catalogIndex.index.set(name, id));
 
-const linked = crosswalked.map((product) => ({
-  ...product,
-  baseFoodId: autoLinkBaseFoodId(product, catalogIndex, aliasMap)
-}));
+const linked = crosswalked.map((product) => {
+  let baseFoodId = autoLinkBaseFoodId(product, catalogIndex, aliasMap);
+  if (baseFoodId) {
+    const resolved = resolveFoodId(baseFoodId, aliasMap);
+    if (!catalogIds.has(resolved)) baseFoodId = null;
+  }
+  return { ...product, baseFoodId };
+});
 
-const { products: normalized, stats: natureStats } = applyOriginNatureInference(linked, { seedIds, aliasMap });
+const { products: inferred, stats: natureStats } = applyOriginNatureInference(linked, { seedIds, aliasMap });
+const normalized = inferred
+  .filter((product) => isValidOriginProductName(product.name))
+  .map((product) => finalizeOriginProduct({
+    ...product,
+    aliases: sanitizeUserFacingAliases(product.aliases || [])
+  }));
+const rejected = inferred.length - normalized.length;
 const natureCounts = {};
 normalized.forEach((p) => {
   natureCounts[p.nature] = (natureCounts[p.nature] || 0) + 1;
@@ -55,7 +69,7 @@ if (missingBase.length) {
   console.warn(`[ingest-origin] baseFoodId not in catalog: ${missingBase.map((f) => `${f.name}->${f.baseFoodId}`).join(", ")}`);
 }
 
-console.log(`Origin products: ${normalized.length} (seed ${seed.length}, raw imports ${imported.length})`);
+console.log(`Origin products: ${normalized.length} (seed ${seed.length}, raw imports ${imported.length}, rejected ${rejected})`);
 console.log(`[ingest-origin] nature distribution: ${JSON.stringify(natureCounts)}`);
 console.log(`[ingest-origin] nature sources: ${JSON.stringify(natureStats)}`);
 console.log(`[ingest-origin] pending review (待考证): 0`);

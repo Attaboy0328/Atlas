@@ -20,6 +20,34 @@ function slugify(name) {
   return String(name || "").trim().toLowerCase().replace(/\s+/g, "-").slice(0, 40) || "herb";
 }
 
+function parseProvinceTokens(place) {
+  return String(place || "")
+    .split(/[、,，/]/)
+    .map((part) => part.replace(/等$/g, "").trim())
+    .filter((part) => part && part.length <= 8 && /[\u4e00-\u9fff]/.test(part));
+}
+
+const DAO_DI_PROVINCE_PRIORITY = {
+  "sichuan-pepper": ["四川", "陕西", "河北", "山东"]
+};
+
+function buildProvinces(profile, canonicalId) {
+  const parsed = [];
+  (profile.daoDiRegions || []).forEach((row) => {
+    parsed.push(...parseProvinceTokens(row.place));
+    if (row.province) parsed.push(row.province);
+  });
+  let provinces = [...new Set(parsed)];
+  const priority = DAO_DI_PROVINCE_PRIORITY[canonicalId] || [];
+  if (priority.length) {
+    provinces = [
+      ...priority.filter((p) => provinces.includes(p)),
+      ...provinces.filter((p) => !priority.includes(p))
+    ];
+  }
+  return provinces.slice(0, 6);
+}
+
 const profiles = readJson(path.join(tcmDir, "dao-di-herb-profiles.json"));
 const existing = readJson(path.join(root, "data/cn/origin-products.json"));
 const aliasMap = loadFoodIdAliasMap();
@@ -39,14 +67,12 @@ profiles.forEach((profile) => {
   const id = `daodi-${slugify(canonicalId || name)}-origin`;
   if (existingIds.has(id)) return;
 
-  const regions = (profile.daoDiRegions || []).map((r) => r.province || r.place).filter(Boolean);
-  const provinces = [...new Set(regions)].slice(0, 4);
+  const provinces = buildProvinces(profile, canonicalId);
 
   items.push({
     id,
     name: `${name}（道地）`,
     category: "中药材",
-    nature: "平",
     provinces,
     aliases: [name, ...(profile.productVariants || [])].filter(Boolean),
     searchTerms: [name, "道地", "道地产区", ...(profile.daoDiSystems || [])],

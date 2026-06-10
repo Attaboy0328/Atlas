@@ -4866,10 +4866,15 @@ function renderProfile() {
   `;
 }
 
+function shouldHideLinkedDaoDiOriginInLibrary(food) {
+  if (food.hiddenFromLibrary) return true;
+  return isLinkedDaoDiOriginDuplicate(food, foods.filter((item) => !item.hiddenFromLibrary && !item.isOriginProduct));
+}
+
 function filterFoods() {
   const term = cleanString(state.libraryQuery).toLowerCase();
   return searchFoods(state.libraryQuery).filter((food) => {
-    if (food.hiddenFromLibrary) return false;
+    if (shouldHideLinkedDaoDiOriginInLibrary(food)) return false;
     const byKind = matchLibraryKind(food, state.libraryKind);
     const byCert = !state.libraryCertFilter || matchCertFilter(food, state.libraryCertFilter);
     const byDaoDiSystem = matchDaoDiSystem(food, state.libraryDaoDiSystem);
@@ -5019,7 +5024,9 @@ function searchFoods(query, options = {}) {
     deduped.push(food);
   });
 
-  return deduped.slice(0, options.limit || deduped.length);
+  const filtered = deduped.filter((food) => !isLinkedDaoDiOriginDuplicate(food, deduped));
+
+  return filtered.slice(0, options.limit || deduped.length);
 }
 
 function scoreFood(food, term) {
@@ -5027,7 +5034,9 @@ function scoreFood(food, term) {
   let score = 0;
   if (resolveSearchSynonymIds(term).includes(resolveFoodId(food.id))) score += 120;
   if (food.name.toLowerCase() === term) score += 100;
-  if (food.aliases.some((alias) => alias.toLowerCase() === term)) score += 80;
+  if (!food.isOriginProduct && food.name.toLowerCase() === term) score += 25;
+  if (food.isOriginProduct && /（道地）$/.test(food.name)) score -= 30;
+  if (userFacingAliases(food).some((alias) => alias.toLowerCase() === term)) score += 80;
   if (food.name.toLowerCase().includes(term)) score += 60;
   if (food.searchTerms.some((item) => item.toLowerCase() === term)) score += 40;
   if ((food.searchBlob || "").includes(term)) score += 10;
@@ -5177,13 +5186,42 @@ function foodOriginBadges(food) {
   return badges.length ? `<div class="food-row-badges">${badges.join("")}</div>` : "";
 }
 
+const INTERNAL_FOOD_ALIAS_RE = /^(cnipa-|mara-|peop-|daodi-)/i;
+
+function userFacingAliases(food) {
+  return (food.aliases || []).filter((alias) => {
+    const value = cleanString(alias);
+    if (!value) return false;
+    if (INTERNAL_FOOD_ALIAS_RE.test(value)) return false;
+    if (/^\d{10,}$/.test(value)) return false;
+    if (/^&nbsp;?$/i.test(value)) return false;
+    return true;
+  });
+}
+
+function primaryFoodAlias(food) {
+  const aliases = userFacingAliases(food);
+  if (aliases.length) return aliases[0];
+  return food.pinyinAbbr || "";
+}
+
+function isLinkedDaoDiOriginDuplicate(food, items) {
+  if (!food.isOriginProduct || !food.baseFoodId) return false;
+  const baseId = resolveFoodId(food.baseFoodId);
+  if (!items.some((item) => !item.isOriginProduct && resolveFoodId(item.id) === baseId)) return false;
+  const base = foodMap.get(baseId);
+  if (!base) return false;
+  const stripped = cleanString(food.name).replace(/（道地）$/, "");
+  return stripped === base.name;
+}
+
 function foodDataRowMeta(food) {
   const tags = [];
   if (food.nature) tags.push(food.nature);
   if (food.category) tags.push(food.category);
   const province = (food.provinces && food.provinces[0]) || "";
   if (province) tags.push(province);
-  const alias = (food.aliases && food.aliases[0]) || food.pinyinAbbr || "";
+  const alias = primaryFoodAlias(food);
   const tagLine = tags.filter(Boolean).join(" · ");
   return alias && tagLine ? `${alias} · ${tagLine}` : (alias || tagLine || foodListMeta(food));
 }
@@ -5792,6 +5830,8 @@ function renderOriginCertificationSection(food) {
   if (!hasGi && !hasPeop && !hasDaoDi && !relatedOrigin.length) return "";
 
   const giBadges = uniq(relatedOrigin.flatMap((item) => (item.giSystems || []).map((row) => `${giSystemLabel(row.system)} · ${row.type || row.label || ""}`)));
+  const hasHistoricalMara = relatedOrigin.some((item) => item.registryStatus === "historical"
+    || (item.giSystems || []).some((row) => row.system === "mara"));
   const peopLines = relatedOrigin.filter((item) => item.peop).map((item) => item.peop.label || "生态原产地（历史认证）");
   const daoDiPlaces = uniq([
     ...(daoDi?.daoDiRegions || []).map((row) => row.place),
@@ -5834,7 +5874,7 @@ function renderOriginCertificationSection(food) {
   return `
     <section class="detail-section origin-cert-section">
       <h3>产地与公开认证</h3>
-      ${giBadges.length ? `<div class="filter-group filter-group-wrap">${giBadges.map((label) => `<span class="pill-badge origin-gi-badge">${label}</span>`).join("")}</div>` : ""}
+      ${giBadges.length ? `<div class="filter-group filter-group-wrap">${giBadges.map((label) => `<span class="pill-badge origin-gi-badge">${label}</span>`).join("")}${hasHistoricalMara ? '<span class="pill-badge">历史登记</span>' : ""}</div>` : (hasHistoricalMara ? '<div class="filter-group filter-group-wrap"><span class="pill-badge">历史登记</span></div>' : "")}
       ${peopLines.length ? `<p><strong>PEOP：</strong>${uniq(peopLines).join("；")}</p>` : ""}
       ${daoDiSystemLabels.length ? `<p><strong>道地体系：</strong>${daoDiSystemLabels.join("、")}</p>` : ""}
       ${daoDiPlaces.length ? `<p><strong>道地产区：</strong>${daoDiPlaces.join("、")}</p>` : ""}
@@ -5907,7 +5947,7 @@ function renderFoodDetail(food) {
         ${isReferenceOnly ? '<span class="pill-badge">参考查阅</span>' : ""}
         ${food.effects.slice(0, 3).map((effect) => `<span class="pill-badge">${effect}</span>`).join("")}
       </div>
-      ${food.aliases.length ? `<p class="sheet-subtitle">别名：${food.aliases.slice(0, 8).join("、")}</p>` : ""}
+      ${userFacingAliases(food).length ? `<p class="sheet-subtitle">别名：${userFacingAliases(food).slice(0, 8).join("、")}</p>` : ""}
       <p class="sheet-summary">${food.summary || "暂无摘要。"}</p>
     </section>
 

@@ -6,6 +6,7 @@ import fs from "fs";
 import path from "path";
 import { PDFParse } from "pdf-parse";
 import { fileURLToPath } from "url";
+import { isValidOriginProductName } from "./lib/origin-products.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, "..");
@@ -53,7 +54,10 @@ function parseProductsFromPdfText(text) {
   const products = new Set();
   const rowRe = /^\s*(\d{1,4})\s+([\u4e00-\u9fff（）()A-Za-z0-9·\-]{2,24})\s+([\u4e00-\u9fff]{2,8}(?:省|市|自治区)|上海市|北京市|天津市|重庆市)/gm;
   let m;
-  while ((m = rowRe.exec(text))) products.add(m[2].trim());
+  while ((m = rowRe.exec(text))) {
+    const name = m[2].trim();
+    if (isValidOriginProductName(name)) products.add(name);
+  }
   return [...products].filter((name) => !/序号|产品名称|附件|国家知识产权局|地理标志/.test(name));
 }
 

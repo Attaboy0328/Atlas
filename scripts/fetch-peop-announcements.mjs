@@ -6,6 +6,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { PDFParse } from "pdf-parse";
+import { isValidOriginProductName, normalizeOriginProductName } from "./lib/origin-products.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, "..");
@@ -42,13 +43,14 @@ function parseDate(html) {
 }
 
 function cleanProductName(raw) {
-  return String(raw || "")
-    .replace(/\n/g, "")
-    .replace(/（[^）]*工厂[^）]*）/g, "")
-    .replace(/\([^)]*工厂[^)]*\)/g, "")
-    .replace(/["""].*?["""]/g, "")
-    .replace(/（[^）]{0,8}牌）/g, "")
-    .trim();
+  return normalizeOriginProductName(
+    String(raw || "")
+      .replace(/\n/g, "")
+      .replace(/（[^）]*工厂[^）]*）/g, "")
+      .replace(/\([^)]*工厂[^)]*\)/g, "")
+      .replace(/["""].*?["""]/g, "")
+      .replace(/（[^）]{0,8}牌）/g, "")
+  );
 }
 
 function extractProductsFromTable(html) {
@@ -69,12 +71,11 @@ function extractProductsFromTable(html) {
 const PEOP_GENERIC_SKIP = new Set(["板栗", "土鸡", "茶叶", "茶油", "肉羊", "笋干", "艾草", "猪肉", "鸡肉", "羊肉", "蓝莓", "紫薯", "辣椒", "羊"]);
 
 function isValidPeopName(name) {
-  const n = String(name || "").trim();
-  if (n.length < 3 || n.length > 36) return false;
+  const n = normalizeOriginProductName(name);
+  if (!isValidOriginProductName(n)) return false;
   if (/^的/.test(n)) return false;
   if (/有限公司|股份公司|农业农村局|人民政府|养殖场$|生态产业股份公司$/.test(n)) return false;
   if (PEOP_GENERIC_SKIP.has(n)) return false;
-  if (/生态原产地|PEOP|证书|序号|申请人|化妆品/.test(n)) return false;
   return true;
 }
 
