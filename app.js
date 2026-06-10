@@ -178,7 +178,7 @@ const ETHNIC_FILTER_EXPAND_LIMIT = 10;
 const RECIPE_SOLAR_TERM_EXPAND_LIMIT = 10;
 const LIBRARY_CATEGORY_EXPAND_LIMIT = 8;
 const LIBRARY_DAODI_EXPAND_LIMIT = 6;
-const LIBRARY_LIST_PAGE_SIZE = 80;
+const BROWSE_LIST_PAGE_SIZE = 80;
 const STAGGER_ANIMATION_LIMIT = 32;
 const LIBRARY_CATEGORY_QUICK = ["食药物质", "中药材", "茶饮", "蔬菜", "水果", "海产", "谷物", "菌菇"];
 const PAIRING_CATEGORY_ORDER = ["现代安全", "传统食养", "民间迷思"];
@@ -702,7 +702,8 @@ const state = {
   libraryEthnicsExpanded: false,
   libraryCategoriesExpanded: false,
   libraryDaodiExpanded: false,
-  libraryListLimit: LIBRARY_LIST_PAGE_SIZE,
+  libraryListLimit: BROWSE_LIST_PAGE_SIZE,
+  recipesListLimit: BROWSE_LIST_PAGE_SIZE,
   recipesSolarTermsExpanded: false,
   checkerQuery: "",
   checkerSelected: [],
@@ -1702,6 +1703,7 @@ function collectTagCounts(items, tagKey) {
 
 let libraryCatalog = [];
 let libraryItemsCache = { key: "", items: [] };
+let recipesItemsCache = { key: "", items: [] };
 let PROVINCE_COUNTS = {};
 let ETHNIC_COUNTS = {};
 let PROVINCES_IN_CATALOG = [];
@@ -1817,13 +1819,17 @@ function rebuildAppIndexes() {
     foods: item.foodIds.map((id) => foodByRecipeId(id)).filter(Boolean)
   })).map((item) => {
     const inferred = inferRecipeStructure(item);
-    return {
+    const enriched = {
       ...item,
       ...inferred,
       season: (item.season && item.season.length) ? item.season : inferred.season,
       solarTerm: cleanString(item.solarTerm || ""),
       useForTags: stringsToFilterTagIds(item.useFor, "useFor", RECIPE_FILTER_TAG_LOOKUP),
       avoidForTags: stringsToFilterTagIds(item.avoidFor, "avoidFor", RECIPE_FILTER_TAG_LOOKUP)
+    };
+    return {
+      ...enriched,
+      searchBlob: buildRecipeSearchBlob(enriched)
     };
   });
   RECIPE_USE_FOR_TAG_OPTIONS = recipeFilterTagsInUse("useFor");
@@ -1883,10 +1889,15 @@ function rebuildAppIndexes() {
     ])
   );
   invalidateLibraryFilterCache();
+  invalidateRecipesFilterCache();
 }
 
 function invalidateLibraryFilterCache() {
   libraryItemsCache = { key: "", items: [] };
+}
+
+function invalidateRecipesFilterCache() {
+  recipesItemsCache = { key: "", items: [] };
 }
 
 function libraryFilterCacheKey() {
@@ -1907,7 +1918,39 @@ function libraryFilterCacheKey() {
 }
 
 function resetLibraryListLimit() {
-  state.libraryListLimit = LIBRARY_LIST_PAGE_SIZE;
+  state.libraryListLimit = BROWSE_LIST_PAGE_SIZE;
+}
+
+function recipesFilterCacheKey() {
+  return [
+    state.recipesQuery,
+    state.recipesNature,
+    state.recipesSyndrome,
+    state.recipesUseFor,
+    state.recipesAvoidFor,
+    state.recipesTiming,
+    state.recipesCooking,
+    state.recipesCoreFood,
+    state.recipesSeason,
+    state.recipesSolarTerm,
+    state.recipesBodyFeel,
+    state.recipesTonify,
+    state.recipesClear,
+    state.recipesDietaryScene
+  ].join("\u0001");
+}
+
+function resetRecipesListLimit() {
+  state.recipesListLimit = BROWSE_LIST_PAGE_SIZE;
+}
+
+function getFilteredRecipeItems() {
+  const key = recipesFilterCacheKey();
+  if (recipesItemsCache.key !== key) {
+    recipesItemsCache = { key, items: filterRecipes() };
+    resetRecipesListLimit();
+  }
+  return recipesItemsCache.items;
 }
 
 function getFilteredLibraryItems() {
@@ -3149,7 +3192,7 @@ function bindLibraryEvents() {
   app.querySelectorAll("[data-library-load-more]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
-      state.libraryListLimit += LIBRARY_LIST_PAGE_SIZE;
+      state.libraryListLimit += BROWSE_LIST_PAGE_SIZE;
       rerenderCurrent();
     });
   });
@@ -3393,6 +3436,14 @@ function bindRecipeEvents() {
 
   bindRecipeFilterControls(app);
   bindActiveFilterChipEvents(app);
+
+  app.querySelectorAll("[data-recipes-load-more]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.recipesListLimit += BROWSE_LIST_PAGE_SIZE;
+      rerenderCurrent();
+    });
+  });
 }
 
 function bindRecipeFilterControls(root, options = {}) {
@@ -4075,7 +4126,7 @@ function refreshOpenFilterSheet() {
   if (state.sheet?.type !== "filters") return;
   const html = state.sheet.scope === "library"
     ? renderLibraryFilterDrawerContent(getFilteredLibraryItems().length)
-    : renderRecipesFilterDrawerContent(filterRecipes().length);
+    : renderRecipesFilterDrawerContent(getFilteredRecipeItems().length);
   sheetContent.innerHTML = html;
   bindFilterSheetEvents();
 }
@@ -4300,7 +4351,7 @@ function openFilterSheet(scope) {
   state.sheet = { type: "filters", scope, subPage: null };
   const html = scope === "library"
     ? renderLibraryFilterDrawerContent(getFilteredLibraryItems().length)
-    : renderRecipesFilterDrawerContent(filterRecipes().length);
+    : renderRecipesFilterDrawerContent(getFilteredRecipeItems().length);
   showFilterSheet(html);
   syncUrl({ push: true });
 }
@@ -4710,7 +4761,7 @@ function renderLibrary() {
     <section class="food-list food-list-data">
       ${items.length
         ? `${items.map((food) => foodRow(food, { dataRow: true })).join("")}${hasMore ? `
-          <button type="button" class="plain-button library-load-more" data-library-load-more>
+          <button type="button" class="plain-button browse-load-more" data-library-load-more>
             加载更多 · 已显示 ${items.length} / ${allItems.length}
           </button>` : ""}`
         : `${cleanString(state.libraryQuery)
@@ -4871,7 +4922,9 @@ function renderChecker() {
 }
 
 function renderRecipes() {
-  const items = filterRecipes();
+  const allItems = getFilteredRecipeItems();
+  const items = allItems.slice(0, state.recipesListLimit);
+  const hasMore = allItems.length > items.length;
   const drawerCount = countRecipesDrawerFilters();
   const hideNatureInList = state.recipesNature !== "全部";
 
@@ -4892,13 +4945,18 @@ function renderRecipes() {
       activeFilterCount: drawerCount,
       activeFiltersHtml: renderActiveFilterChips(buildRecipesActiveFilterChips(), "recipes"),
       emptySummaryLabel: !buildRecipesActiveFilterChips().length && drawerCount === 0 ? "全部食疗方" : "",
-      resultCount: items.length,
+      resultCount: allItems.length,
       resultUnit: "食疗方",
       inlineResult: true
     })}
 
     <section class="recipe-list recipe-list-compact">
-      ${items.length ? items.map((item) => recipeRow(item, { hideNatureStamp: hideNatureInList })).join("") : emptyState("没搜到对应食疗方", "可换证候词、场景标签或放宽筛选条件。", true)}
+      ${items.length
+        ? `${items.map((item) => recipeRow(item, { hideNatureStamp: hideNatureInList })).join("")}${hasMore ? `
+          <button type="button" class="plain-button browse-load-more" data-recipes-load-more>
+            加载更多 · 已显示 ${items.length} / ${allItems.length}
+          </button>` : ""}`
+        : emptyState("没搜到对应食疗方", "可换证候词、场景标签或放宽筛选条件。", true)}
     </section>
 
     <section class="notice notice-compact">
@@ -5209,6 +5267,27 @@ function matchRecipeDietaryScene(item, scene) {
   return (item.dietaryScenes || []).includes(scene);
 }
 
+function buildRecipeSearchBlob(item) {
+  return [
+    item.name,
+    item.subtitle,
+    item.note,
+    ...(item.ingredients || []),
+    ...(item.syndromes || []),
+    ...(item.useFor || []),
+    ...(item.avoidFor || []),
+    ...(item.timing || []),
+    ...(item.cooking || []),
+    ...(item.coreFoods || []),
+    ...(item.season || []),
+    item.solarTerm || "",
+    ...(item.bodyFeel || []),
+    item.tonify || "",
+    item.clear || "",
+    ...(item.foods || []).map((food) => food.name)
+  ].join(" ").toLowerCase();
+}
+
 function filterRecipes() {
   const query = cleanString(state.recipesQuery).toLowerCase();
   return recipes.filter((item) => {
@@ -5227,25 +5306,7 @@ function filterRecipes() {
     const byBodyFeel = state.recipesBodyFeel === "全部" || (item.bodyFeel || []).includes(state.recipesBodyFeel);
     const byTonify = state.recipesTonify === "全部" || item.tonify === state.recipesTonify;
     const byClear = state.recipesClear === "全部" || item.clear === state.recipesClear;
-    const blob = [
-      item.name,
-      item.subtitle,
-      item.note,
-      ...item.ingredients,
-      ...item.syndromes,
-      ...(item.useFor || []),
-      ...(item.avoidFor || []),
-      ...(item.timing || []),
-      ...(item.cooking || []),
-      ...(item.coreFoods || []),
-      ...(item.season || []),
-      item.solarTerm || "",
-      ...(item.bodyFeel || []),
-      item.tonify || "",
-      item.clear || "",
-      ...item.foods.map((food) => food.name)
-    ].join(" ").toLowerCase();
-    const byQuery = !query || blob.includes(query);
+    const byQuery = !query || (item.searchBlob || buildRecipeSearchBlob(item)).includes(query);
     return byNature && bySyndrome && byDietaryScene && byUseFor && byAvoidFor && byTiming && byCooking && byCoreFood && bySeason && bySolarTerm && byBodyFeel && byTonify && byClear && byQuery;
   });
 }
@@ -5827,7 +5888,7 @@ function openSheetFromState() {
   if (state.sheet.type === "filters") {
     const html = state.sheet.scope === "library"
       ? renderLibraryFilterDrawerContent(getFilteredLibraryItems().length)
-      : renderRecipesFilterDrawerContent(filterRecipes().length);
+      : renderRecipesFilterDrawerContent(getFilteredRecipeItems().length);
     showFilterSheet(html);
     return;
   }
