@@ -796,6 +796,19 @@ button {
   white-space: nowrap;
 }
 
+.library-load-more {
+  width: 100%;
+  margin: 10px 0 4px;
+  padding: 14px 16px;
+  border: 1px solid color-mix(in srgb, var(--line) 72%, transparent);
+  border-radius: var(--radius-card);
+  background: var(--surface-alt);
+  color: var(--ink);
+  font-size: 13px;
+  white-space: normal;
+  text-align: center;
+}
+
 .nature-grid {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));

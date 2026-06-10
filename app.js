@@ -178,6 +178,8 @@ const ETHNIC_FILTER_EXPAND_LIMIT = 10;
 const RECIPE_SOLAR_TERM_EXPAND_LIMIT = 10;
 const LIBRARY_CATEGORY_EXPAND_LIMIT = 8;
 const LIBRARY_DAODI_EXPAND_LIMIT = 6;
+const LIBRARY_LIST_PAGE_SIZE = 80;
+const STAGGER_ANIMATION_LIMIT = 32;
 const LIBRARY_CATEGORY_QUICK = ["食药物质", "中药材", "茶饮", "蔬菜", "水果", "海产", "谷物", "菌菇"];
 const PAIRING_CATEGORY_ORDER = ["现代安全", "传统食养", "民间迷思"];
 
@@ -700,6 +702,7 @@ const state = {
   libraryEthnicsExpanded: false,
   libraryCategoriesExpanded: false,
   libraryDaodiExpanded: false,
+  libraryListLimit: LIBRARY_LIST_PAGE_SIZE,
   recipesSolarTermsExpanded: false,
   checkerQuery: "",
   checkerSelected: [],
@@ -1698,6 +1701,7 @@ function collectTagCounts(items, tagKey) {
 }
 
 let libraryCatalog = [];
+let libraryItemsCache = { key: "", items: [] };
 let PROVINCE_COUNTS = {};
 let ETHNIC_COUNTS = {};
 let PROVINCES_IN_CATALOG = [];
@@ -1878,13 +1882,54 @@ function rebuildAppIndexes() {
       recipes.filter((item) => matchRecipeDietaryScene(item, scene)).length
     ])
   );
+  invalidateLibraryFilterCache();
+}
+
+function invalidateLibraryFilterCache() {
+  libraryItemsCache = { key: "", items: [] };
+}
+
+function libraryFilterCacheKey() {
+  return [
+    state.libraryQuery,
+    state.libraryKind,
+    state.libraryNature,
+    state.libraryCategory,
+    state.libraryRegion,
+    state.libraryProvince,
+    state.libraryEthnic,
+    state.libraryTopic,
+    state.libraryCertFilter,
+    state.libraryDaoDiSystem,
+    state.libraryDietaryScene,
+    state.libraryOfficialBatch
+  ].join("\u0001");
+}
+
+function resetLibraryListLimit() {
+  state.libraryListLimit = LIBRARY_LIST_PAGE_SIZE;
+}
+
+function getFilteredLibraryItems() {
+  const key = libraryFilterCacheKey();
+  if (libraryItemsCache.key !== key) {
+    libraryItemsCache = { key, items: filterFoods() };
+    resetLibraryListLimit();
+  }
+  return libraryItemsCache.items;
 }
 
 rebuildAppIndexes();
 
 window.atlasMergeDeferredBundles = function atlasMergeDeferredBundles() {
+  const prevCatalogCount = CATALOG_OFFICIAL_COUNT;
   rebuildAppIndexes();
-  if (typeof render === "function" && document.getElementById("app")) {
+  if (typeof render !== "function" || !document.getElementById("app")) return;
+  if (state.view === "recipes") {
+    render();
+    return;
+  }
+  if (state.view === "library" && CATALOG_OFFICIAL_COUNT !== prevCatalogCount) {
     render();
   }
 };
@@ -2153,7 +2198,7 @@ function boot() {
   syncUrl();
   window.addEventListener("popstate", handlePopState);
   state.isNavigating = !document.startViewTransition;
-  if ((state.view === "library" || state.view === "recipes") && typeof window.atlasEnsureDeferredBundles === "function") {
+  if (state.view === "recipes" && typeof window.atlasEnsureDeferredBundles === "function") {
     window.atlasEnsureDeferredBundles();
   }
   render();
@@ -2777,7 +2822,7 @@ function saveJson(key, value) {
 function navigate(view) {
   if (state.view === view) return;
 
-  if ((view === "library" || view === "recipes") && typeof window.atlasEnsureDeferredBundles === "function") {
+  if (view === "recipes" && typeof window.atlasEnsureDeferredBundles === "function") {
     window.atlasEnsureDeferredBundles();
   }
 
@@ -2853,15 +2898,16 @@ function triggerStaggeredAnimation() {
     item.classList.add("ios-stagger-item");
   });
 
+  const staggerItems = items.length > STAGGER_ANIMATION_LIMIT ? items.slice(0, STAGGER_ANIMATION_LIMIT) : items;
   let index = 0;
   function revealNext() {
     const batchSize = 3;
-    const limit = Math.min(index + batchSize, items.length);
+    const limit = Math.min(index + batchSize, staggerItems.length);
     for (let i = index; i < limit; i++) {
-      items[i].classList.add("ios-stagger-visible");
+      staggerItems[i].classList.add("ios-stagger-visible");
     }
     index = limit;
-    if (index < items.length) {
+    if (index < staggerItems.length) {
       requestAnimationFrame(revealNext);
     }
   }
@@ -2909,20 +2955,6 @@ function render() {
 }
 
 function bindViewEvents() {
-  app.querySelectorAll("[data-open-food]").forEach((row) => {
-    row.addEventListener("click", () => {
-      triggerHapticFeedback();
-      openFoodDetail(row.dataset.openFood);
-    });
-  });
-
-  app.querySelectorAll("[data-open-recipe]").forEach((row) => {
-    row.addEventListener("click", () => {
-      triggerHapticFeedback();
-      openRecipeDetail(row.dataset.openRecipe);
-    });
-  });
-
   app.querySelectorAll("[data-quick-term]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
@@ -3111,6 +3143,14 @@ function bindLibraryEvents() {
       triggerHapticFeedback("medium");
       resetLibraryFilters();
       afterLibraryFilterChange({ scrollToResults: true });
+    });
+  });
+
+  app.querySelectorAll("[data-library-load-more]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.libraryListLimit += LIBRARY_LIST_PAGE_SIZE;
+      rerenderCurrent();
     });
   });
 }
@@ -4034,7 +4074,7 @@ function getVisibleProvinces() {
 function refreshOpenFilterSheet() {
   if (state.sheet?.type !== "filters") return;
   const html = state.sheet.scope === "library"
-    ? renderLibraryFilterDrawerContent(filterFoods().length)
+    ? renderLibraryFilterDrawerContent(getFilteredLibraryItems().length)
     : renderRecipesFilterDrawerContent(filterRecipes().length);
   sheetContent.innerHTML = html;
   bindFilterSheetEvents();
@@ -4259,7 +4299,7 @@ function openFilterSheet(scope) {
   triggerHapticFeedback();
   state.sheet = { type: "filters", scope, subPage: null };
   const html = scope === "library"
-    ? renderLibraryFilterDrawerContent(filterFoods().length)
+    ? renderLibraryFilterDrawerContent(getFilteredLibraryItems().length)
     : renderRecipesFilterDrawerContent(filterRecipes().length);
   showFilterSheet(html);
   syncUrl({ push: true });
@@ -4643,7 +4683,9 @@ function renderHomeV2() {
 }
 
 function renderLibrary() {
-  const items = filterFoods();
+  const allItems = getFilteredLibraryItems();
+  const items = allItems.slice(0, state.libraryListLimit);
+  const hasMore = allItems.length > items.length;
   const activeCount = countLibraryActiveFilters();
 
   return `
@@ -4659,7 +4701,7 @@ function renderLibrary() {
       toolbarExtrasHtml: renderLibraryNatureSegmented(),
       activeFilterCount: activeCount,
       activeFiltersHtml: renderActiveFilterChips(buildLibraryActiveFilterChips(), "library"),
-      resultCount: items.length,
+      resultCount: allItems.length,
       resultUnit: "食材",
       inlineResult: true,
       searchBypassesFilters: Boolean(cleanString(state.libraryQuery))
@@ -4667,7 +4709,10 @@ function renderLibrary() {
 
     <section class="food-list food-list-data">
       ${items.length
-        ? items.map((food) => foodRow(food, { dataRow: true })).join("")
+        ? `${items.map((food) => foodRow(food, { dataRow: true })).join("")}${hasMore ? `
+          <button type="button" class="plain-button library-load-more" data-library-load-more>
+            加载更多 · 已显示 ${items.length} / ${allItems.length}
+          </button>` : ""}`
         : `${cleanString(state.libraryQuery)
           ? renderNearMatchBlock(state.libraryQuery, suggestNearFoodMatches(state.libraryQuery))
           : ""}${emptyState("暂时没有匹配项", cleanString(state.libraryQuery) && suggestNearFoodMatches(state.libraryQuery).length ? "也可点击上方相近条目继续查看。" : "换个别名、功效词或地区试试。", true)}`}
@@ -4979,7 +5024,8 @@ function matchDietaryScene(food, scene) {
 
 function filterFoods() {
   const term = cleanString(state.libraryQuery).toLowerCase();
-  return searchFoods(state.libraryQuery).filter((food) => {
+  const base = term ? searchFoods(state.libraryQuery) : libraryCatalog;
+  return base.filter((food) => {
     if (shouldHideLinkedDaoDiOriginInLibrary(food)) return false;
     const byKind = matchLibraryKind(food, state.libraryKind);
     const byCert = !state.libraryCertFilter || matchCertFilter(food, state.libraryCertFilter);
@@ -5780,7 +5826,7 @@ function openSheetFromState() {
   if (!state.sheet) return;
   if (state.sheet.type === "filters") {
     const html = state.sheet.scope === "library"
-      ? renderLibraryFilterDrawerContent(filterFoods().length)
+      ? renderLibraryFilterDrawerContent(getFilteredLibraryItems().length)
       : renderRecipesFilterDrawerContent(filterRecipes().length);
     showFilterSheet(html);
     return;

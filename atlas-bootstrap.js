@@ -1,10 +1,9 @@
 (function atlasBootstrap() {
   "use strict";
 
-  const DEFERRED_BUNDLES = [
+  const RECIPE_DEFERRED_BUNDLES = [
     "generated/recipes-bulk.js",
-    "generated/classic-diet-recipes.js",
-    "generated/food-medicine-catalog.js"
+    "generated/classic-diet-recipes.js"
   ];
 
   const loaded = new Set();
@@ -25,15 +24,14 @@
     });
   }
 
-  function needsDeferredFirst() {
+  function needsRecipeBundlesFirst() {
     const params = new URLSearchParams(window.location.search);
-    const view = params.get("view");
-    return view === "library" || view === "recipes" || params.has("food") || params.has("recipe");
+    return params.get("view") === "recipes" || params.has("recipe");
   }
 
   function loadDeferredBundles() {
     if (!deferredPromise) {
-      deferredPromise = DEFERRED_BUNDLES.reduce(
+      deferredPromise = RECIPE_DEFERRED_BUNDLES.reduce(
         (chain, src) => chain.then(() => loadScript(src)),
         Promise.resolve()
       ).then(() => {
@@ -72,6 +70,7 @@
     "generated/food-id-aliases.js",
     "generated/food-search-synonyms.js",
     "generated/tcm-herbs-bundle.js",
+    "generated/food-medicine-catalog.js",
     "generated/pairing-rules-extra.js",
     "generated/handcrafted-recipes.js",
     "generated/origin-products.js",
@@ -82,7 +81,7 @@
 
   preloadCore.reduce((chain, src) => chain.then(() => loadScript(src)), Promise.resolve())
     .then(() => {
-      if (needsDeferredFirst()) {
+      if (needsRecipeBundlesFirst()) {
         return loadDeferredBundles().then(startApp);
       }
       return startApp().then(() => {
