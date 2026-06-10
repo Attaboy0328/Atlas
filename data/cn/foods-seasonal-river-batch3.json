@@ -1,0 +1,384 @@
+[
+  {
+    "id": "river-shrimp-spring",
+    "name": "河虾",
+    "en": "river shrimp",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "补肾",
+      "通乳"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "湖北"
+    ],
+    "aliases": [
+      "青虾",
+      "草虾"
+    ],
+    "pinyin": "hexia",
+    "initials": "hx",
+    "searchTerms": [
+      "hexia",
+      "hx",
+      "河虾",
+      "青虾"
+    ],
+    "summary": "淡水小型虾，春季肥美，油爆或白灼。",
+    "caution": "海鲜过敏者禁用；痛风者适量。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "swimming-crab-spring",
+    "name": "梭子蟹",
+    "en": "swimming crab",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "活血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "江苏",
+      "福建"
+    ],
+    "aliases": [
+      "海蟹"
+    ],
+    "pinyin": "suozixie",
+    "initials": "szx",
+    "searchTerms": [
+      "suozixie",
+      "szx",
+      "梭子蟹"
+    ],
+    "summary": "海捕蟹类，秋季尤肥，清蒸或炒年糕。",
+    "caution": "寒性食物，脾胃虚寒、孕妇慎多食；须蒸熟。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "razor-clam",
+    "name": "蛏子",
+    "en": "razor clam",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "滋阴"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "浙江",
+      "江苏"
+    ],
+    "pinyin": "chengzi",
+    "initials": "cz",
+    "searchTerms": [
+      "chengzi",
+      "cz",
+      "蛏子"
+    ],
+    "summary": "滩涂贝类，肉质鲜嫩，清蒸或辣炒。",
+    "caution": "海鲜过敏者禁用；须吐沙充分并煮熟。"
+  },
+  {
+    "id": "yellow-croaker",
+    "name": "黄花鱼",
+    "en": "yellow croaker",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建",
+      "山东"
+    ],
+    "aliases": [
+      "大黄鱼",
+      "小黄鱼"
+    ],
+    "pinyin": "huanghuayu",
+    "initials": "hhy",
+    "searchTerms": [
+      "huanghuayu",
+      "hhy",
+      "黄花鱼",
+      "小黄鱼"
+    ],
+    "summary": "近海鱼类，清蒸或干煎，蛋白质丰富。",
+    "caution": "海鲜过敏者禁用。"
+  },
+  {
+    "id": "mandarin-fish",
+    "name": "桂鱼",
+    "en": "mandarin fish",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "补虚",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北",
+      "江苏",
+      "安徽"
+    ],
+    "aliases": [
+      "鳜鱼",
+      "季花鱼"
+    ],
+    "pinyin": "guiyu",
+    "initials": "gy",
+    "searchTerms": [
+      "guiyu",
+      "gy",
+      "桂鱼",
+      "鳜鱼"
+    ],
+    "summary": "淡水名贵鱼，肉质蒜瓣状，清蒸红烧皆宜。",
+    "caution": "海鲜过敏者注意；鱼刺细，儿童慎食。"
+  },
+  {
+    "id": "silver-carp-head",
+    "name": "鲢鱼头",
+    "en": "silver carp head",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北",
+      "湖南",
+      "江西"
+    ],
+    "aliases": [
+      "胖头鱼",
+      "鳙鱼头"
+    ],
+    "pinyin": "lianyutou",
+    "initials": "lyt",
+    "searchTerms": [
+      "lianyutou",
+      "lyt",
+      "鲢鱼头",
+      "胖头鱼"
+    ],
+    "summary": "鳙鱼头部，剁椒或炖汤，胶质丰富。",
+    "caution": "高嘌呤，痛风者适量。"
+  },
+  {
+    "id": "snakehead-fish",
+    "name": "黑鱼",
+    "en": "snakehead",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "补脾",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "安徽",
+      "广东"
+    ],
+    "aliases": [
+      "乌鳢",
+      "生鱼"
+    ],
+    "pinyin": "heiyu",
+    "initials": "hy",
+    "searchTerms": [
+      "heiyu",
+      "hy",
+      "黑鱼",
+      "乌鳢"
+    ],
+    "summary": "淡水肉食鱼，术后调养常选，煲汤为主。",
+    "caution": "疮疡发热、皮肤病急性期遵医嘱。"
+  },
+  {
+    "id": "yellow-eel",
+    "name": "黄鳝",
+    "en": "yellow eel",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "补虚",
+      "强筋骨"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "湖北",
+      "上海"
+    ],
+    "aliases": [
+      "鳝鱼"
+    ],
+    "pinyin": "huangshan",
+    "initials": "hs",
+    "searchTerms": [
+      "huangshan",
+      "hs",
+      "黄鳝",
+      "鳝鱼"
+    ],
+    "summary": "夏令河鲜，红烧或煨汤，蛋白质丰富。",
+    "caution": "须彻底煮熟；高嘌呤，痛风适量。"
+  },
+  {
+    "id": "river-snail",
+    "name": "螺蛳",
+    "en": "river snail",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "湖南"
+    ],
+    "pinyin": "luosi",
+    "initials": "ls",
+    "searchTerms": [
+      "luosi",
+      "ls",
+      "螺蛳"
+    ],
+    "summary": "淡水螺类，嗦螺或螺蛳粉汤底，夏季常见。",
+    "caution": "须充分煮熟防寄生虫；脾胃虚寒者适量。"
+  },
+  {
+    "id": "clam-razor-summer",
+    "name": "蛤蜊",
+    "en": "clam",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "滋阴"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "辽宁",
+      "福建"
+    ],
+    "aliases": [
+      "花蛤",
+      "文蛤"
+    ],
+    "pinyin": "geli",
+    "initials": "gl",
+    "searchTerms": [
+      "geli",
+      "gl",
+      "蛤蜊",
+      "花蛤"
+    ],
+    "summary": "滩涂贝类，辣炒或蒸蛋，鲜味突出。",
+    "caution": "寒滑，脾胃虚寒者适量；须吐沙煮熟。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "mitten-crab",
+    "name": "河蟹",
+    "en": "mitten crab",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "活血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "安徽",
+      "湖北"
+    ],
+    "aliases": [
+      "大闸蟹",
+      "中华绒螯蟹"
+    ],
+    "pinyin": "hexie",
+    "initials": "hx",
+    "searchTerms": [
+      "hexie",
+      "大闸蟹",
+      "河蟹"
+    ],
+    "summary": "淡水蟹，秋季膏肥，清蒸最宜。",
+    "caution": "寒蟹，脾胃虚寒、孕妇慎食；须全熟。"
+  },
+  {
+    "id": "whitebait",
+    "name": "银鱼",
+    "en": "whitebait",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "补虚",
+      "润肺"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "太湖"
+    ],
+    "aliases": [
+      "太湖银鱼"
+    ],
+    "pinyin": "yinyu",
+    "initials": "yy",
+    "searchTerms": [
+      "yinyu",
+      "yy",
+      "银鱼"
+    ],
+    "summary": "小型淡水鱼，无刺，炒蛋或羹汤。",
+    "caution": "海鲜过敏者禁用。"
+  }
+]

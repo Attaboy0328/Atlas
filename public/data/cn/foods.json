@@ -140,6 +140,34 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "baijiu-cooking",
+    "name": "白酒",
+    "en": "baijiu",
+    "category": "饮品",
+    "nature": "大热",
+    "effects": [
+      "散寒",
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "烹饪白酒",
+      "高度白酒"
+    ],
+    "pinyin": "baijiu",
+    "initials": "bj",
+    "searchTerms": [
+      "baijiu",
+      "bj",
+      "白酒",
+      "茅台"
+    ],
+    "summary": "粮食蒸馏酒，少量用于腌渍、爆炒去腥；非日常饮品。",
+    "caution": "含酒精且度数高，孕妇、肝病、驾车者禁用；不宜过量。"
+  },
+  {
     "id": "white-radish",
     "name": "白萝卜",
     "en": "white radish",
@@ -216,6 +244,30 @@
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
     "summary": "国家食药同源目录条目，养阴润肺，宜羹汤、甜品。"
+  },
+  {
+    "id": "thyme",
+    "name": "百里香",
+    "en": "thyme",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "芳香"
+    ],
+    "regions": [
+      "FR"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "thyme",
+      "百里香"
+    ],
+    "summary": "法式与中东料理常用香草，炖菜与烤肉增香。",
+    "caution": "孕期高剂量慎用。"
   },
   {
     "id": "passion-fruit",
@@ -881,6 +933,32 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "bonito-flakes",
+    "name": "柴鱼片",
+    "en": "bonito flakes",
+    "jp": "かつお節",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "提鲜"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "aliases": [
+      "木鱼花",
+      "鲣鱼花"
+    ],
+    "searchTerms": [
+      "bonito",
+      "katsuobushi",
+      "柴鱼片",
+      "木鱼花"
+    ],
+    "summary": "干燥鲣鱼刨片，日式料理常用增鲜撒料。",
+    "caution": "海鲜过敏者禁用；痛风急性期适量。"
+  },
+  {
     "id": "pomfret",
     "name": "鲳鱼",
     "en": "pomfret",
@@ -1071,26 +1149,26 @@
     "category": "海产",
     "nature": "寒",
     "effects": [
-      "清热"
+      "清热",
+      "滋阴"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
       "福建",
-      "浙江"
+      "浙江",
+      "江苏"
     ],
-    "aliases": [],
     "pinyin": "chengzi",
     "initials": "cz",
     "searchTerms": [
       "chengzi",
       "cz",
-      "razor clam",
       "蛏子"
     ],
-    "summary": "蛏子，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "滩涂贝类，肉质鲜嫩，清蒸或辣炒。",
+    "caution": "海鲜过敏者禁用；须吐沙充分并煮熟。"
   },
   {
     "id": "orange",
@@ -1321,14 +1399,48 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "bamboo-shoot-spring",
+    "name": "春笋",
+    "en": "spring bamboo shoot",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "化痰"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建",
+      "四川"
+    ],
+    "aliases": [
+      "冬笋",
+      "雷笋"
+    ],
+    "pinyin": "chunsun",
+    "initials": "cs",
+    "searchTerms": [
+      "chunsun",
+      "cs",
+      "春笋",
+      "雷笋"
+    ],
+    "summary": "春季鲜笋，清炒、油焖或腌笃鲜常用。",
+    "caution": "草酸与粗纤维较高，痛风与胃溃疡者适量，宜充分烹熟。",
+    "hiddenFromLibrary": true
+  },
+  {
     "id": "water-shield",
     "name": "莼菜",
     "en": "water shield",
-    "category": "蔬菜",
-    "nature": "寒",
+    "category": "野菜",
+    "nature": "凉",
     "effects": [
       "清热",
-      "利水"
+      "润燥"
     ],
     "regions": [
       "CN"
@@ -1338,21 +1450,45 @@
       "浙江"
     ],
     "aliases": [
-      "太湖莼菜",
-      "西湖莼菜"
+      "太湖莼菜"
     ],
     "pinyin": "chuncai",
     "initials": "cc",
     "searchTerms": [
       "chuncai",
       "cc",
-      "water shield",
-      "莼菜",
-      "太湖莼菜",
-      "西湖莼菜",
-      "春菜"
+      "莼菜"
     ],
-    "summary": "江南春令水产蔬菜，滑嫩宜羹汤；脾胃虚寒、腹泻者少食。"
+    "summary": "水生嫩叶，滑腻清香，西湖莼菜羹为代表。",
+    "caution": "脾胃虚寒者不宜多食生冷。"
+  },
+  {
+    "id": "arrowhead-tuber",
+    "name": "慈姑",
+    "en": "arrowhead",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "润肺"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江"
+    ],
+    "pinyin": "cigu",
+    "initials": "cg",
+    "searchTerms": [
+      "cigu",
+      "cg",
+      "慈姑"
+    ],
+    "summary": "水生球茎，江南秋冬时令，红烧或煲汤。",
+    "caution": "须煮熟；消化不良者适量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "arrowhead-bamboo-shoot",
@@ -1941,6 +2077,33 @@
       "江滩笋"
     ],
     "summary": "春末夏初江滩时蔬，脆嫩清香，宜快炒、焯水。"
+  },
+  {
+    "id": "dijon-mustard",
+    "name": "第戎芥末",
+    "en": "dijon mustard",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "调味",
+      "开胃"
+    ],
+    "regions": [
+      "FR"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "dijon",
+      "mustard",
+      "第戎芥末",
+      "法式芥末"
+    ],
+    "summary": "法国芥末籽酱，沙拉酱与肉类蘸料常用。",
+    "caution": "辛辣刺激，胃炎活动期适量。"
   },
   {
     "id": "clove",
@@ -2777,6 +2940,36 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "olive-oil",
+    "name": "橄榄油",
+    "en": "olive oil",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "润燥"
+    ],
+    "regions": [
+      "IT",
+      "ES",
+      "GR"
+    ],
+    "aliases": [
+      "特级初榨橄榄油"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "olive oil",
+      "橄榄油",
+      "ganlan you"
+    ],
+    "summary": "橄榄果压榨油脂，凉拌、煎炸与地中海饮食基础用油。",
+    "caution": "高脂高热量，胆囊疾病与腹泻期适量。"
+  },
+  {
     "id": "dried-chili",
     "name": "干辣椒",
     "en": "dried chili",
@@ -2904,6 +3097,38 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "goji-leaf",
+    "name": "枸杞叶",
+    "en": "goji leaf",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "明目"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "宁夏",
+      "甘肃",
+      "广东"
+    ],
+    "aliases": [
+      "枸杞菜",
+      "天精草"
+    ],
+    "pinyin": "gouqiye",
+    "initials": "gqy",
+    "searchTerms": [
+      "gouqiye",
+      "gqy",
+      "枸杞叶"
+    ],
+    "summary": "枸杞嫩叶，滚汤或清炒，岭南家常。",
+    "caution": "脾胃虚寒腹泻者适量。"
+  },
+  {
     "id": "cantonese-sausage",
     "name": "广式腊肠",
     "en": "cantonese sausage",
@@ -2977,6 +3202,39 @@
     "summary": "广西代表性米粉。"
   },
   {
+    "id": "mandarin-fish",
+    "name": "桂鱼",
+    "en": "mandarin fish",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "补虚",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北",
+      "江苏",
+      "安徽"
+    ],
+    "aliases": [
+      "鳜鱼",
+      "季花鱼"
+    ],
+    "pinyin": "guiyu",
+    "initials": "gy",
+    "searchTerms": [
+      "guiyu",
+      "gy",
+      "桂鱼",
+      "鳜鱼"
+    ],
+    "summary": "淡水名贵鱼，肉质蒜瓣状，清蒸红烧皆宜。",
+    "caution": "海鲜过敏者注意；鱼刺细，儿童慎食。"
+  },
+  {
     "id": "dried-longan",
     "name": "桂圆肉",
     "en": "dried longan",
@@ -2999,37 +3257,6 @@
     "usageScope": "dietary-therapy",
     "summary": "国家食药同源目录条目，偏温甜，常见于羹汤与甜饮。",
     "caution": "上火、糖尿病者控制用量。"
-  },
-  {
-    "id": "mandarin-fish",
-    "name": "鳜鱼",
-    "en": "mandarin fish",
-    "category": "海产",
-    "nature": "平",
-    "effects": [
-      "补虚"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "安徽",
-      "湖北"
-    ],
-    "aliases": [
-      "桂鱼"
-    ],
-    "pinyin": "guiyu",
-    "initials": "gy",
-    "searchTerms": [
-      "guiyu",
-      "gy",
-      "mandarin fish",
-      "鳜鱼",
-      "桂鱼"
-    ],
-    "summary": "河鲜名品，肉质蒜瓣状，宜清蒸、松鼠桂鱼。",
-    "caution": "海鲜过敏者禁食。"
   },
   {
     "id": "crossing-bridge-noodle",
@@ -3118,6 +3345,40 @@
       "夏初"
     ],
     "summary": "夏初滩涂小鲜，宜辣炒、煮汤；须吐沙干净、彻底做熟，脾胃虚寒者慎食。"
+  },
+  {
+    "id": "clam-razor-summer",
+    "name": "蛤蜊",
+    "en": "clam",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "滋阴"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "辽宁",
+      "福建"
+    ],
+    "aliases": [
+      "花蛤",
+      "文蛤"
+    ],
+    "pinyin": "geli",
+    "initials": "gl",
+    "searchTerms": [
+      "geli",
+      "gl",
+      "蛤蜊",
+      "花蛤"
+    ],
+    "summary": "滩涂贝类，辣炒或蒸蛋，鲜味突出。",
+    "caution": "寒滑，脾胃虚寒者适量；须吐沙煮熟。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-cucumber",
@@ -3338,6 +3599,94 @@
     ],
     "summary": "海蜇，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "doenjang",
+    "name": "韩式大酱",
+    "en": "doenjang",
+    "kr": "된장",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "调味",
+      "发酵"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物"
+    ],
+    "searchTerms": [
+      "doenjang",
+      "韩式大酱",
+      "韩国大酱"
+    ],
+    "summary": "韩国大豆发酵酱，咸香厚重，常用于大酱汤与炒菜调味。",
+    "caution": "含盐量较高，肾病与高血压者控量。"
+  },
+  {
+    "id": "gochujang",
+    "name": "韩式辣椒酱",
+    "en": "gochujang",
+    "kr": "고추장",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "调味",
+      "辛辣"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "aliases": [
+      "韩国辣椒酱"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物"
+    ],
+    "searchTerms": [
+      "gochujang",
+      "韩式辣椒酱",
+      "韩国辣椒酱"
+    ],
+    "summary": "韩国糯米与辣椒发酵酱，甜辣浓稠，用于拌饭、炖菜与蘸料。",
+    "caution": "辛辣，胃溃疡、痔疮发作期适量。"
+  },
+  {
+    "id": "kimchi-kr",
+    "name": "韩式泡菜",
+    "en": "kimchi",
+    "kr": "김치",
+    "category": "腌菜",
+    "nature": "凉",
+    "effects": [
+      "开胃",
+      "发酵"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "aliases": [
+      "辣白菜",
+      "韩国泡菜"
+    ],
+    "dietaryScenes": [
+      "素食"
+    ],
+    "pinyin": "hanshipaocai",
+    "initials": "hspc",
+    "searchTerms": [
+      "kimchi",
+      "hanshipaocai",
+      "韩式泡菜",
+      "韩国泡菜",
+      "辣白菜"
+    ],
+    "summary": "韩国发酵白菜或萝卜，酸辣开胃，富含乳酸菌。",
+    "caution": "辛辣高盐，胃热、高血压者适量；部分配方含鱼露或虾酱，严格素食者需看配料。"
   },
   {
     "id": "leaf-celery",
@@ -3593,6 +3942,72 @@
     "summary": "清明至立夏河鲜小鲜，宜盐水、爆炒；过敏者禁食，痛风急性期慎食。"
   },
   {
+    "id": "river-shrimp-spring",
+    "name": "河虾",
+    "en": "river shrimp",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "补肾",
+      "通乳"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "湖北"
+    ],
+    "aliases": [
+      "青虾",
+      "草虾"
+    ],
+    "pinyin": "hexia",
+    "initials": "hx",
+    "searchTerms": [
+      "hexia",
+      "hx",
+      "河虾",
+      "青虾"
+    ],
+    "summary": "淡水小型虾，春季肥美，油爆或白灼。",
+    "caution": "海鲜过敏者禁用；痛风者适量。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "mitten-crab",
+    "name": "河蟹",
+    "en": "mitten crab",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "活血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "安徽",
+      "湖北"
+    ],
+    "aliases": [
+      "大闸蟹",
+      "中华绒螯蟹"
+    ],
+    "pinyin": "hexie",
+    "initials": "hx",
+    "searchTerms": [
+      "hexie",
+      "大闸蟹",
+      "河蟹"
+    ],
+    "summary": "淡水蟹，秋季膏肥，清蒸最宜。",
+    "caution": "寒蟹，脾胃虚寒、孕妇慎食；须全熟。"
+  },
+  {
     "id": "walnut",
     "name": "核桃仁",
     "en": "walnut",
@@ -3783,6 +4198,39 @@
     "caution": "务必泡发洗净并煮熟。"
   },
   {
+    "id": "wood-ear-mushroom",
+    "name": "黑木耳",
+    "en": "wood ear",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "润燥",
+      "活血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "吉林",
+      "浙江"
+    ],
+    "aliases": [
+      "云耳",
+      "木耳"
+    ],
+    "pinyin": "heimuer",
+    "initials": "hme",
+    "searchTerms": [
+      "heimuer",
+      "hme",
+      "黑木耳",
+      "木耳"
+    ],
+    "summary": "胶质食用菌，凉拌、炒菜与煲汤常用。",
+    "caution": "出血倾向、手术前后慎大量活血类食用菌；须泡发充分并煮熟。"
+  },
+  {
     "id": "snakehead",
     "name": "黑鱼",
     "en": "snakehead",
@@ -3817,6 +4265,39 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "snakehead-fish",
+    "name": "黑鱼",
+    "en": "snakehead",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "补脾",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "安徽",
+      "广东"
+    ],
+    "aliases": [
+      "乌鳢",
+      "生鱼"
+    ],
+    "pinyin": "heiyu",
+    "initials": "hy",
+    "searchTerms": [
+      "heiyu",
+      "hy",
+      "黑鱼",
+      "乌鳢"
+    ],
+    "summary": "淡水肉食鱼，术后调养常选，煲汤为主。",
+    "caution": "疮疡发热、皮肤病急性期遵医嘱。"
+  },
+  {
     "id": "black-sesame",
     "name": "黑芝麻",
     "en": "black sesame",
@@ -3842,6 +4323,36 @@
       "black sesame",
       "黑芝麻"
     ]
+  },
+  {
+    "id": "lentil",
+    "name": "红扁豆",
+    "en": "red lentil",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "高蛋白"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "aliases": [
+      "扁豆",
+      "小扁豆"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "lentil",
+      "扁豆",
+      "红扁豆"
+    ],
+    "summary": "印度与中东常见豆类，煮汤与咖喱常用。",
+    "caution": "胀气者适量，需煮烂。"
   },
   {
     "id": "black-tea",
@@ -3904,6 +4415,32 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "paprika",
+    "name": "红椒粉",
+    "en": "paprika",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "ES",
+      "HU"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "paprika",
+      "红椒粉",
+      "匈牙利红椒粉"
+    ],
+    "summary": "干燥甜椒磨粉，匈牙利与西班牙料理上色增香。",
+    "caution": "胃热、痔疮发作期辛辣适量。"
+  },
+  {
     "id": "rambutan",
     "name": "红毛丹",
     "en": "rambutan",
@@ -3964,6 +4501,38 @@
     ],
     "summary": "红薯，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "sweet-potato-leaf",
+    "name": "红薯叶",
+    "en": "sweet potato leaf",
+    "category": "野菜",
+    "nature": "平",
+    "effects": [
+      "通便",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建",
+      "湖南"
+    ],
+    "aliases": [
+      "地瓜叶"
+    ],
+    "pinyin": "hongshuye",
+    "initials": "hsy",
+    "searchTerms": [
+      "hongshuye",
+      "hsy",
+      "红薯叶",
+      "地瓜叶"
+    ],
+    "summary": "红薯嫩梢，清炒或蒜蓉，纤维丰富。",
+    "caution": "胃酸过多者不宜空腹大量。"
   },
   {
     "id": "red-dates",
@@ -4293,6 +4862,39 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "soybean-sprout",
+    "name": "黄豆芽",
+    "en": "soybean sprout",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "健脾",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河南",
+      "江苏"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "pinyin": "huangdouya",
+    "initials": "hdy",
+    "searchTerms": [
+      "huangdouya",
+      "hdy",
+      "黄豆芽"
+    ],
+    "summary": "黄豆萌发，炖菜与炒食，口感脆嫩。",
+    "caution": "须煮熟，痛风者适量。"
+  },
+  {
     "id": "cucumber",
     "name": "黄瓜",
     "en": "cucumber",
@@ -4356,6 +4958,73 @@
     "baseFoodId": "beef",
     "summary": "牛或猪主动脉管，火锅常见涮品，口感爽脆。",
     "caution": "高脂、高胆固醇者适量；须彻底烫熟。"
+  },
+  {
+    "id": "yellow-croaker",
+    "name": "黄花鱼",
+    "en": "yellow croaker",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建",
+      "山东"
+    ],
+    "aliases": [
+      "大黄鱼",
+      "小黄鱼"
+    ],
+    "pinyin": "huanghuayu",
+    "initials": "hhy",
+    "searchTerms": [
+      "huanghuayu",
+      "hhy",
+      "黄花鱼",
+      "小黄鱼"
+    ],
+    "summary": "近海鱼类，清蒸或干煎，蛋白质丰富。",
+    "caution": "海鲜过敏者禁用。"
+  },
+  {
+    "id": "huangjiu",
+    "name": "黄酒",
+    "en": "huangjiu rice wine",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "活血",
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "江苏",
+      "上海"
+    ],
+    "aliases": [
+      "绍兴黄酒",
+      "料酒"
+    ],
+    "pinyin": "huangjiu",
+    "initials": "hj",
+    "searchTerms": [
+      "huangjiu",
+      "hj",
+      "黄酒",
+      "绍兴黄酒",
+      "料酒"
+    ],
+    "summary": "糯米发酵酒，中式烹调去腥增香，亦可温饮。",
+    "caution": "含酒精，孕妇、驾车及戒酒者不宜；湿热体质适量。"
   },
   {
     "id": "astragalus",
@@ -4485,38 +5154,65 @@
     "summary": "初夏至小暑河鲜代表，宜红烧、炖汤；需彻底做熟，湿热、疮疡期慎食。"
   },
   {
-    "id": "yellow-croaker",
-    "name": "黄鱼",
-    "en": "yellow croaker",
+    "id": "yellow-eel",
+    "name": "黄鳝",
+    "en": "yellow eel",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
-      "健脾",
-      "补肾"
+      "补虚",
+      "强筋骨"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
-      "浙江",
-      "福建"
+      "江苏",
+      "湖北",
+      "上海"
     ],
     "aliases": [
-      "大黄鱼",
-      "小黄鱼"
+      "鳝鱼"
     ],
-    "pinyin": "huangyu",
-    "initials": "hy",
+    "pinyin": "huangshan",
+    "initials": "hs",
     "searchTerms": [
-      "huangyu",
-      "hy",
-      "yellow croaker",
-      "黄鱼",
-      "大黄鱼",
-      "小黄鱼"
+      "huangshan",
+      "hs",
+      "黄鳝",
+      "鳝鱼"
     ],
-    "summary": "黄鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "夏令河鲜，红烧或煨汤，蛋白质丰富。",
+    "caution": "须彻底煮熟；高嘌呤，痛风适量。"
+  },
+  {
+    "id": "butter",
+    "name": "黄油",
+    "en": "butter",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "润燥"
+    ],
+    "regions": [
+      "FR",
+      "US",
+      "UK"
+    ],
+    "aliases": [
+      "奶油块",
+      "牛油"
+    ],
+    "dietaryScenes": [
+      "素食"
+    ],
+    "searchTerms": [
+      "butter",
+      "黄油",
+      "huangyou"
+    ],
+    "summary": "牛奶脂肪提炼，烘焙与西式烹调常用。",
+    "caution": "高饱和脂肪，高血脂、控重人群适量；含乳制品，乳糖不耐者注意。"
   },
   {
     "id": "huizhou-stinky-fish",
@@ -4685,6 +5381,38 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "cured-ham",
+    "name": "火腿",
+    "en": "cured ham",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "开胃",
+      "补虚"
+    ],
+    "regions": [
+      "CN",
+      "ES",
+      "IT"
+    ],
+    "aliases": [
+      "金华火腿",
+      "宣威火腿",
+      "伊比利亚火腿"
+    ],
+    "pinyin": "huotui",
+    "initials": "ht",
+    "searchTerms": [
+      "huotui",
+      "ht",
+      "火腿",
+      "金华火腿",
+      "宣威火腿"
+    ],
+    "summary": "猪腿盐渍风干制品，切片蒸炒或煲汤，咸香浓郁。",
+    "caution": "高盐腌制食品，高血压、肾病者控量；加工肉类不宜长期大量食用。"
+  },
+  {
     "id": "termitomyces",
     "name": "鸡枞",
     "en": "termitomyces",
@@ -4841,6 +5569,40 @@
     ],
     "summary": "早春野蔬，宜馄饨、炒香，清利肝胃。",
     "caution": "体虚畏寒者不宜多食。"
+  },
+  {
+    "id": "shepherd-purse",
+    "name": "荠菜",
+    "en": "shepherd's purse",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "明目"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "安徽"
+    ],
+    "aliases": [
+      "地米菜",
+      "护生草"
+    ],
+    "pinyin": "jicai",
+    "initials": "jc",
+    "searchTerms": [
+      "jicai",
+      "jc",
+      "荠菜",
+      "地米菜"
+    ],
+    "summary": "春季常见野菜，清香脆嫩，包饺子与煮汤皆宜。",
+    "caution": "脾胃虚寒、孕妇慎大量药用。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "crucian-carp",
@@ -5175,30 +5937,25 @@
     "category": "菌菇",
     "nature": "凉",
     "effects": [
-      "清热",
-      "益气"
+      "和胃"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
       "河北",
-      "山东"
-    ],
-    "aliases": [
-      "金菇"
+      "山东",
+      "浙江"
     ],
     "pinyin": "jinzhengu",
     "initials": "jzg",
     "searchTerms": [
       "jinzhengu",
       "jzg",
-      "enoki mushroom",
-      "金针菇",
-      "金菇"
+      "金针菇"
     ],
-    "summary": "金针菇，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "常见食用菌，火锅与凉拌常用，口感爽滑。",
+    "caution": "需煮熟透，消化不良者适量。"
   },
   {
     "id": "enoki",
@@ -5503,6 +6260,37 @@
     "caution": "腹胀明显者适量。"
   },
   {
+    "id": "silken-tofu",
+    "name": "绢豆腐",
+    "en": "silken tofu",
+    "jp": "絹ごし豆腐",
+    "category": "豆制品",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "高蛋白"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "aliases": [
+      "嫩豆腐",
+      "日本豆腐"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "silken tofu",
+      "绢豆腐",
+      "嫩豆腐"
+    ],
+    "summary": "质地细嫩的豆腐，适合味噌汤、凉拌与蒸食。",
+    "caution": "脾胃虚寒、易腹泻者不宜多食生冷。"
+  },
+  {
     "id": "bracken",
     "name": "蕨菜",
     "en": "bracken",
@@ -5530,6 +6318,36 @@
     ],
     "summary": "山野蕨类嫩尖，需充分焯水去涩。",
     "caution": "不宜长期大量生食；注意采摘来源与处理方式。"
+  },
+  {
+    "id": "fern-shoot",
+    "name": "蕨菜",
+    "en": "fern shoot",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "滑肠"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "吉林",
+      "云南"
+    ],
+    "aliases": [
+      "拳头菜"
+    ],
+    "pinyin": "juecai",
+    "initials": "jc",
+    "searchTerms": [
+      "juecai",
+      "蕨菜"
+    ],
+    "summary": "山野蕨类嫩梢，焯水后炒食或凉拌。",
+    "caution": "须充分焯水去原蕨苷；不宜大量长期食用。"
   },
   {
     "id": "kaifeng-soup-dumpling",
@@ -5577,6 +6395,39 @@
     ],
     "summary": "常见坚果炒货，偏温香，宜少量。",
     "caution": "调味、盐焗版本控钠；过敏体质留意。"
+  },
+  {
+    "id": "nori-seaweed",
+    "name": "烤海苔",
+    "en": "nori",
+    "jp": "海苔",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "轻食",
+      "矿物质"
+    ],
+    "regions": [
+      "JP",
+      "KR"
+    ],
+    "aliases": [
+      "寿司海苔",
+      "紫菜片"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "nori",
+      "海苔",
+      "烤海苔",
+      "寿司海苔"
+    ],
+    "summary": "烤制紫菜薄片，寿司与饭团常用，富含碘与膳食纤维。",
+    "caution": "碘含量高，甲状腺异常者适量。"
   },
   {
     "id": "hakka-stuffed-tofu",
@@ -5751,6 +6602,37 @@
       "葵花籽"
     ],
     "summary": "常见炒货零食，偏平，宜少量；盐焗、奶油口味注意钠与添加糖。"
+  },
+  {
+    "id": "dashi-kombu",
+    "name": "昆布高汤料",
+    "en": "kombu dashi",
+    "jp": "昆布だし",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "提鲜"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "aliases": [
+      "海带高汤",
+      "素高汤"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "dashi",
+      "kombu",
+      "昆布高汤",
+      "素高汤"
+    ],
+    "summary": "以干昆布熬制的日式鲜汤底料，植物来源。",
+    "caution": "甲状腺疾病者对海带类碘摄入需遵医嘱。"
   },
   {
     "id": "lahu-bamboo-rice",
@@ -6047,27 +6929,24 @@
     "category": "谷物",
     "nature": "平",
     "effects": [
-      "健脾",
-      "益气"
+      "充饥",
+      "高蛋白"
     ],
     "regions": [
-      "CN"
+      "US"
     ],
-    "provinces": [
-      "山西",
-      "青海"
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真",
+      "无麸质"
     ],
-    "aliases": [],
-    "pinyin": "limai",
-    "initials": "lm",
     "searchTerms": [
-      "limai",
-      "lm",
       "quinoa",
       "藜麦"
     ],
-    "summary": "藜麦，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "南美藜科种子，完整蛋白谷物替代，沙拉与饭食常用。",
+    "caution": "含皂苷，烹前宜搓洗；极少数人过敏。"
   },
   {
     "id": "plum",
@@ -6304,6 +7183,39 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "silver-carp-head",
+    "name": "鲢鱼头",
+    "en": "silver carp head",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "温中",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北",
+      "湖南",
+      "江西"
+    ],
+    "aliases": [
+      "胖头鱼",
+      "鳙鱼头"
+    ],
+    "pinyin": "lianyutou",
+    "initials": "lyt",
+    "searchTerms": [
+      "lianyutou",
+      "lyt",
+      "鲢鱼头",
+      "胖头鱼"
+    ],
+    "summary": "鳙鱼头部，剁椒或炖汤，胶质丰富。",
+    "caution": "高嘌呤，痛风者适量。"
+  },
+  {
     "id": "liangpi",
     "name": "凉皮",
     "category": "主食",
@@ -6375,33 +7287,6 @@
     "officialBatch": "2023",
     "usageScope": "dietary-therapy",
     "summary": "2023 增补条目，益气安神，宜煮水、炖汤。"
-  },
-  {
-    "id": "water-chestnut",
-    "name": "菱角",
-    "en": "water chestnut",
-    "category": "蔬菜",
-    "nature": "凉",
-    "effects": [
-      "健脾"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "江苏",
-      "浙江"
-    ],
-    "pinyin": "lingjiao",
-    "initials": "lj",
-    "searchTerms": [
-      "lingjiao",
-      "lj",
-      "water chestnut",
-      "菱角"
-    ],
-    "summary": "水生坚果蔬菜，宜熟食煮菱、炒菜。",
-    "caution": "须煮熟；脾胃虚寒适量。"
   },
   {
     "id": "water-caltrop",
@@ -6693,6 +7578,39 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "mung-bean-sprout",
+    "name": "绿豆芽",
+    "en": "mung bean sprout",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北",
+      "江苏"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "pinyin": "lvdouya",
+    "initials": "ldy",
+    "searchTerms": [
+      "lvdouya",
+      "ldy",
+      "绿豆芽"
+    ],
+    "summary": "绿豆萌发嫩芽，清炒凉拌，清脆爽口。",
+    "caution": "脾胃虚寒者不宜生食过多。"
+  },
+  {
     "id": "tilapia",
     "name": "罗非鱼",
     "en": "tilapia",
@@ -6780,6 +7698,38 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "basil-fresh",
+    "name": "罗勒",
+    "en": "basil",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "芳香",
+      "理气"
+    ],
+    "regions": [
+      "IT",
+      "TH"
+    ],
+    "aliases": [
+      "九层塔",
+      "甜罗勒"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "basil",
+      "罗勒",
+      "九层塔"
+    ],
+    "summary": "意式与东南亚常用香草，青酱与泰式料理增香。",
+    "caution": "阴虚火旺者不宜过量生食。",
+    "hiddenFromLibrary": true
+  },
+  {
     "id": "romaine",
     "name": "罗马生菜",
     "en": "romaine lettuce",
@@ -6840,6 +7790,34 @@
     ],
     "summary": "萝卜缨，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "river-snail",
+    "name": "螺蛳",
+    "en": "river snail",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "湖南"
+    ],
+    "pinyin": "luosi",
+    "initials": "ls",
+    "searchTerms": [
+      "luosi",
+      "ls",
+      "螺蛳"
+    ],
+    "summary": "淡水螺类，嗦螺或螺蛳粉汤底，夏季常见。",
+    "caution": "须充分煮熟防寄生虫；脾胃虚寒者适量。"
   },
   {
     "id": "liuzhou-luosifen",
@@ -6968,7 +7946,7 @@
     "category": "野菜",
     "nature": "凉",
     "effects": [
-      "清利",
+      "清热",
       "凉血"
     ],
     "regions": [
@@ -6977,24 +7955,82 @@
     "provinces": [
       "江苏",
       "浙江",
-      "上海"
+      "安徽"
     ],
     "aliases": [
       "马兰",
-      "鸡儿肠"
+      "红梗菜"
     ],
     "pinyin": "malantou",
     "initials": "mlt",
     "searchTerms": [
       "malantou",
       "mlt",
-      "kalimeris",
-      "马兰头",
-      "马兰",
-      "鸡儿肠"
+      "马兰头"
     ],
-    "summary": "马兰头，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "江南春野菜，凉拌或香干炒制常见。",
+    "caution": "脾胃虚寒者不宜多食生冷。"
+  },
+  {
+    "id": "mozzarella",
+    "name": "马苏里拉芝士",
+    "en": "mozzarella",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "补钙"
+    ],
+    "regions": [
+      "IT",
+      "US"
+    ],
+    "aliases": [
+      "马祖里拉",
+      "新鲜芝士"
+    ],
+    "dietaryScenes": [
+      "素食"
+    ],
+    "searchTerms": [
+      "mozzarella",
+      "马苏里拉",
+      "马祖里拉"
+    ],
+    "summary": "意式新鲜拉伸奶酪，披萨与沙拉常用。",
+    "caution": "乳制品，乳糖不耐者可能不适。"
+  },
+  {
+    "id": "water-chestnut",
+    "name": "马蹄",
+    "en": "water chestnut",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西",
+      "广东",
+      "福建"
+    ],
+    "aliases": [
+      "荸荠",
+      "地梨"
+    ],
+    "pinyin": "mati",
+    "initials": "mt",
+    "searchTerms": [
+      "mati",
+      "mt",
+      "马蹄",
+      "荸荠"
+    ],
+    "summary": "水生根茎，清脆多汁，生食、煲汤或做馅。",
+    "caution": "生食需洗净，脾胃虚寒者不宜多食生冷。"
   },
   {
     "id": "malt",
@@ -7109,29 +8145,31 @@
     "category": "豆类",
     "nature": "平",
     "effects": [
-      "健脾"
+      "健脾",
+      "高蛋白"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
       "江苏",
-      "安徽"
+      "安徽",
+      "浙江"
     ],
-    "aliases": [
-      "青大豆"
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
     ],
     "pinyin": "maodou",
     "initials": "md",
     "searchTerms": [
       "maodou",
       "md",
-      "edamame",
-      "毛豆",
-      "青大豆"
+      "毛豆"
     ],
-    "summary": "毛豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "鲜食大豆荚，水煮或炒制，夏令常见。",
+    "caution": "胀气体质适量；须煮熟。"
   },
   {
     "id": "beef-tripe-omasum",
@@ -7261,27 +8299,6 @@
     "summary": "高原常见红肉，蛋白质较高。"
   },
   {
-    "id": "preserved-vegetable",
-    "name": "梅干菜",
-    "en": "preserved mustard green",
-    "category": "腌菜",
-    "nature": "温",
-    "effects": [
-      "调味"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "浙江"
-    ],
-    "searchTerms": [
-      "meigancai",
-      "mgc"
-    ],
-    "summary": "江南常用干菜。"
-  },
-  {
     "id": "milk-tea-mongol",
     "name": "蒙古奶茶",
     "en": "mongolian milk tea",
@@ -7334,6 +8351,32 @@
     ],
     "summary": "草原地区发酵乳饮，偏温，节庆与待客常见。",
     "caution": "含酒精，孕妇、驾车及酒精敏感者不宜。"
+  },
+  {
+    "id": "rosemary",
+    "name": "迷迭香",
+    "en": "rosemary",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "芳香",
+      "行气"
+    ],
+    "regions": [
+      "FR",
+      "IT"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "rosemary",
+      "迷迭香"
+    ],
+    "summary": "西式芳香草本，烤肉、土豆与橄榄油浸渍常用。",
+    "caution": "孕期大量内服需谨慎。"
   },
   {
     "id": "kiwi",
@@ -7697,6 +8740,38 @@
     ],
     "summary": "西南少数民族常用香辛料，可腌制、熬油或蘸水。",
     "caution": "辛香刺激，胃溃疡、咽喉敏感者适量。"
+  },
+  {
+    "id": "natto",
+    "name": "纳豆",
+    "en": "natto",
+    "jp": "納豆",
+    "category": "豆制品",
+    "nature": "平",
+    "effects": [
+      "发酵",
+      "高蛋白"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "aliases": [
+      "拉丝纳豆"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物"
+    ],
+    "pinyin": "nadou",
+    "initials": "nd",
+    "searchTerms": [
+      "natto",
+      "nadou",
+      "nd",
+      "纳豆"
+    ],
+    "summary": "日本发酵大豆，质地黏丝，蛋白质与纳豆激酶含量较高。",
+    "caution": "气味浓烈，肠胃敏感者少量尝试；服用华法林等抗凝药者请咨询医生。"
   },
   {
     "id": "naxi-grilled-fish",
@@ -8190,6 +9265,65 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "oregano-dried",
+    "name": "牛至",
+    "en": "oregano",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "芳香"
+    ],
+    "regions": [
+      "IT",
+      "GR"
+    ],
+    "aliases": [
+      "披萨草"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "oregano",
+      "牛至",
+      "披萨草"
+    ],
+    "summary": "地中海干燥香草，披萨、意面与烤肉调味常用。",
+    "caution": "孕妇不宜大量药用剂量。"
+  },
+  {
+    "id": "parsley",
+    "name": "欧芹",
+    "en": "parsley",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "芳香"
+    ],
+    "regions": [
+      "FR",
+      "US"
+    ],
+    "aliases": [
+      "香芹",
+      "荷兰芹"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "parsley",
+      "欧芹",
+      "荷兰芹"
+    ],
+    "summary": "西式新鲜香草，沙拉、汤品与摆盘常用。",
+    "caution": "肾脏疾病者大量食用高钾香草需留意。"
+  },
+  {
     "id": "lotus-shoot",
     "name": "藕带",
     "en": "lotus shoot",
@@ -8222,6 +9356,34 @@
     ],
     "summary": "藕带，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "parmesan-cheese",
+    "name": "帕尔玛芝士",
+    "en": "parmesan",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补钙"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "aliases": [
+      "帕玛森芝士",
+      "parmigiano"
+    ],
+    "dietaryScenes": [
+      "素食"
+    ],
+    "searchTerms": [
+      "parmesan",
+      "parmigiano",
+      "帕尔玛",
+      "帕玛森"
+    ],
+    "summary": "意大利硬质熟成奶酪，刨丝用于意面与沙拉。",
+    "caution": "高盐高脂，乳糖不耐与控钠者适量。"
   },
   {
     "id": "pork-ribs-cut",
@@ -8681,6 +9843,31 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "soba-noodles",
+    "name": "荞麦面",
+    "en": "soba",
+    "jp": "そば",
+    "category": "谷物",
+    "nature": "凉",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "清真"
+    ],
+    "searchTerms": [
+      "soba",
+      "荞麦面",
+      "日式荞麦"
+    ],
+    "summary": "荞麦粉面条，日式冷食或热汤面常见。",
+    "caution": "部分市售面含小麦粉，麸质敏感者看配料；荞麦属蓼科，极少数人过敏。"
+  },
+  {
     "id": "topmouth-culter",
     "name": "翘嘴鲌",
     "en": "topmouth culter",
@@ -8714,6 +9901,32 @@
       "白鱼"
     ],
     "summary": "淡水掠食性鱼类，肉质洁白，适合清蒸、香煎。"
+  },
+  {
+    "id": "cheddar-cheese",
+    "name": "切达芝士",
+    "en": "cheddar",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补钙"
+    ],
+    "regions": [
+      "UK",
+      "US"
+    ],
+    "aliases": [
+      "切达干酪"
+    ],
+    "dietaryScenes": [
+      "素食"
+    ],
+    "searchTerms": [
+      "cheddar",
+      "切达芝士"
+    ],
+    "summary": "英式硬质奶酪，风味浓郁，三明治与烘焙常用。",
+    "caution": "高盐高脂，控脂控钠人群适量。"
   },
   {
     "id": "bok-choy",
@@ -8898,6 +10111,54 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "halal-chicken",
+    "name": "清真鸡肉",
+    "en": "halal chicken",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "补虚"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "dietaryScenes": [
+      "清真"
+    ],
+    "searchTerms": [
+      "halal chicken",
+      "清真鸡肉",
+      "清真鸡"
+    ],
+    "summary": "按清真屠宰规范处理的鸡肉，为清真饮食常见蛋白来源。",
+    "caution": "禽肉需全熟；痛风与高尿酸者适量。"
+  },
+  {
+    "id": "halal-lamb",
+    "name": "清真羊肉",
+    "en": "halal lamb",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "温补"
+    ],
+    "regions": [
+      "UK",
+      "US"
+    ],
+    "dietaryScenes": [
+      "清真"
+    ],
+    "searchTerms": [
+      "halal lamb",
+      "清真羊肉",
+      "清真羊"
+    ],
+    "summary": "按清真规范处理的羊肉，中东与南亚料理常用。",
+    "caution": "体质偏热、痤疮旺盛者适量；高尿酸者控量。"
+  },
+  {
     "id": "mackerel",
     "name": "鲭鱼",
     "en": "mackerel",
@@ -8993,58 +10254,59 @@
     "name": "秋葵",
     "en": "okra",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
-      "润肠"
+      "润肠",
+      "和胃"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
       "海南",
-      "广东"
+      "广东",
+      "福建"
+    ],
+    "aliases": [
+      "羊角豆"
     ],
     "pinyin": "qiukui",
     "initials": "qk",
     "searchTerms": [
       "qiukui",
       "qk",
-      "okra",
-      "秋葵"
+      "秋葵",
+      "羊角豆"
     ],
-    "summary": "黏液质丰富，宜焯水凉拌或清炒。",
-    "caution": "肠胃极弱者适量。"
+    "summary": "黏液质蔬菜，焯水凉拌或清炒。",
+    "caution": "脾胃虚寒、腹泻者不宜生食过多。"
   },
   {
     "id": "wakame",
     "name": "裙带菜",
     "en": "wakame",
+    "jp": "わかめ",
     "category": "海产",
-    "nature": "寒",
+    "nature": "凉",
     "effects": [
-      "清热"
+      "清热",
+      "膳食纤维"
     ],
     "regions": [
-      "CN"
+      "JP",
+      "KR"
     ],
-    "provinces": [
-      "山东",
-      "辽宁"
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
     ],
-    "aliases": [
-      "裙带"
-    ],
-    "pinyin": "qundaicai",
-    "initials": "qdc",
     "searchTerms": [
-      "qundaicai",
-      "qdc",
       "wakame",
-      "裙带菜",
-      "裙带"
+      "裙带菜"
     ],
-    "summary": "裙带菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "东亚常见海藻，味噌汤与凉拌常用，口感滑嫩。",
+    "caution": "碘含量较高，甲状腺疾病者遵医嘱。"
   },
   {
     "id": "hot-dry-noodle",
@@ -9737,6 +10999,32 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "dill",
+    "name": "莳萝",
+    "en": "dill",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "芳香",
+      "理气"
+    ],
+    "regions": [
+      "US",
+      "RU"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "dill",
+      "莳萝"
+    ],
+    "summary": "北欧与腌渍料理常用香草，配三文鱼与酸黄瓜。",
+    "caution": "光敏体质者大量食用后避免暴晒。"
+  },
+  {
     "id": "persimmon",
     "name": "柿子",
     "en": "persimmon",
@@ -10089,6 +11377,38 @@
     "summary": "立秋至中秋海产高峰，宜清蒸、姜炒；痛风、孕妇及过敏体质慎食。"
   },
   {
+    "id": "swimming-crab-spring",
+    "name": "梭子蟹",
+    "en": "swimming crab",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "活血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "江苏",
+      "福建"
+    ],
+    "aliases": [
+      "海蟹"
+    ],
+    "pinyin": "suozixie",
+    "initials": "szx",
+    "searchTerms": [
+      "suozixie",
+      "szx",
+      "梭子蟹"
+    ],
+    "summary": "海捕蟹类，秋季尤肥，清蒸或炒年糕。",
+    "caution": "寒性食物，脾胃虚寒、孕妇慎多食；须蒸熟。",
+    "hiddenFromLibrary": true
+  },
+  {
     "id": "tangyuan",
     "name": "汤圆",
     "category": "主食",
@@ -10182,6 +11502,31 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "tempeh",
+    "name": "天贝",
+    "en": "tempeh",
+    "category": "豆制品",
+    "nature": "平",
+    "effects": [
+      "发酵",
+      "高蛋白"
+    ],
+    "regions": [
+      "US"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "tempeh",
+      "天贝"
+    ],
+    "summary": "大豆发酵饼，质地紧实，煎烤或炒制。",
+    "caution": "大豆过敏者禁用。"
+  },
+  {
     "id": "tianjin-mahua",
     "name": "天津麻花",
     "en": "tianjin fried dough twist",
@@ -10236,34 +11581,6 @@
     ],
     "summary": "华南常见食用蛙类，宜姜蒜爆炒、打边炉或煲汤；餐饮多用养殖蛙。",
     "caution": "野生蛙类勿食；务必彻底做熟，孕妇及消化不良者适量。"
-  },
-  {
-    "id": "river-snail",
-    "name": "田螺",
-    "en": "river snail",
-    "category": "海产",
-    "nature": "寒",
-    "effects": [
-      "清热"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "湖南",
-      "江苏"
-    ],
-    "aliases": [],
-    "pinyin": "tianluo",
-    "initials": "tl",
-    "searchTerms": [
-      "tianluo",
-      "tl",
-      "river snail",
-      "田螺"
-    ],
-    "summary": "需充分煮熟。",
-    "caution": "寄生虫风险，忌生食。"
   },
   {
     "id": "field-mouse",
@@ -10622,6 +11939,83 @@
       "新疆抓饭"
     ],
     "summary": "新疆常见，羊肉、胡萝卜与 rice 同焖，偏温热。"
+  },
+  {
+    "id": "miso",
+    "name": "味噌",
+    "en": "miso",
+    "jp": "味噌",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "调味",
+      "发酵"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "aliases": [
+      "白味噌",
+      "赤味噌"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物"
+    ],
+    "pinyin": "weiceng",
+    "initials": "wc",
+    "searchTerms": [
+      "miso",
+      "weiceng",
+      "wc",
+      "味噌",
+      "日本味噌"
+    ],
+    "summary": "日本大豆发酵酱，咸鲜醇厚，常用于汤、腌料与蘸酱。",
+    "caution": "含盐量较高，高血压者控量；部分味噌以鱼介高汤调和，严格全植物者需看配料表。"
+  },
+  {
+    "id": "mirin",
+    "name": "味醂",
+    "en": "mirin",
+    "jp": "味醂",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "调味",
+      "去腥"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "searchTerms": [
+      "mirin",
+      "味醂",
+      "日本料酒"
+    ],
+    "summary": "日本甜米酒调味料，增香去腥，常用于照烧与煮物。",
+    "caution": "含酒精，孕妇、驾车及戒酒者不宜。"
+  },
+  {
+    "id": "udon-noodles",
+    "name": "乌冬面",
+    "en": "udon",
+    "jp": "うどん",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "searchTerms": [
+      "udon",
+      "乌冬",
+      "乌冬面"
+    ],
+    "summary": "日本粗小麦面条，口感软糯，汤煮或炒食均可。",
+    "caution": "小麦制品，麸质过敏者不宜。"
   },
   {
     "id": "oolong-tea",
@@ -11410,6 +12804,40 @@
     "caution": "须焯水；亚硝酸盐敏感者、孕妇不宜大量生食。"
   },
   {
+    "id": "toon-sprout",
+    "name": "香椿芽",
+    "en": "toon sprout",
+    "category": "野菜",
+    "nature": "温",
+    "effects": [
+      "行气",
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河南",
+      "安徽"
+    ],
+    "aliases": [
+      "香椿",
+      "春芽"
+    ],
+    "pinyin": "xiangchunya",
+    "initials": "xcy",
+    "searchTerms": [
+      "xiangchunya",
+      "xcy",
+      "香椿",
+      "香椿芽"
+    ],
+    "summary": "春季香椿嫩梢，炒蛋或凉拌，香气独特。",
+    "caution": "含硝酸盐，沸水焯烫后再食；阴虚火旺者适量。",
+    "hiddenFromLibrary": true
+  },
+  {
     "id": "shiitake",
     "name": "香菇",
     "en": "shiitake",
@@ -11822,27 +13250,25 @@
     "category": "菌菇",
     "nature": "平",
     "effects": [
-      "健脾",
-      "益气"
+      "健脾"
     ],
     "regions": [
       "CN"
     ],
     "provinces": [
+      "山东",
       "河北",
       "福建"
     ],
-    "aliases": [],
     "pinyin": "xingbaogu",
     "initials": "xbg",
     "searchTerms": [
       "xingbaogu",
       "xbg",
-      "king oyster mushroom",
       "杏鲍菇"
     ],
-    "summary": "杏鲍菇，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "肉质厚实食用菌，煎烤或干锅皆宜。",
+    "caution": "真菌过敏者禁用。"
   },
   {
     "id": "yunnan-ham",
@@ -11921,6 +13347,39 @@
     ],
     "summary": "雪里蕻，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "pickled-mustard-greens",
+    "name": "雪里蕻",
+    "en": "pickled potherb mustard",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "江苏",
+      "上海"
+    ],
+    "aliases": [
+      "雪菜",
+      "雪里红"
+    ],
+    "pinyin": "xuelihong",
+    "initials": "xlh",
+    "searchTerms": [
+      "xuelihong",
+      "xlh",
+      "雪里蕻",
+      "雪菜"
+    ],
+    "summary": "腌制叶芥菜，烧鱼炒笋，咸鲜开胃。",
+    "caution": "高盐，控钠人群适量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cod-fish",
@@ -12377,6 +13836,32 @@
     "caution": "盐焗、油炸版本注意钠与热量；过敏体质留意。"
   },
   {
+    "id": "coconut-milk",
+    "name": "椰浆",
+    "en": "coconut milk",
+    "category": "饮品",
+    "nature": "平",
+    "effects": [
+      "润燥"
+    ],
+    "regions": [
+      "TH",
+      "MY"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "coconut milk",
+      "椰浆",
+      "椰奶"
+    ],
+    "summary": "椰肉压榨浓浆，泰式与南洋咖喱、甜品常用。",
+    "caution": "高脂，控脂与腹泻期适量。"
+  },
+  {
     "id": "coconut",
     "name": "椰子",
     "en": "coconut",
@@ -12487,6 +13972,59 @@
     "summary": "凉山与滇东北彝族地区常见，苦荞烘焙冲饮，偏凉。"
   },
   {
+    "id": "balsamic-vinegar",
+    "name": "意大利黑醋",
+    "en": "balsamic vinegar",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "调味",
+      "开胃"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "aliases": [
+      "巴萨米克醋"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "balsamic",
+      "黑醋",
+      "意大利黑醋"
+    ],
+    "summary": "意大利葡萄醋，酸甜浓稠，沙拉与意面点睛。",
+    "caution": "胃酸过多、反流者适量。"
+  },
+  {
+    "id": "pasta-dry",
+    "name": "意大利面",
+    "en": "pasta",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "aliases": [
+      "意面",
+      "通心粉"
+    ],
+    "searchTerms": [
+      "pasta",
+      "意大利面",
+      "意面"
+    ],
+    "summary": "硬质小麦制成的干面条，西式主食。",
+    "caution": "小麦制品，麸质过敏者不宜。"
+  },
+  {
     "id": "coix-seed",
     "name": "薏米",
     "en": "coix seed",
@@ -12578,7 +14116,7 @@
     "nature": "平",
     "effects": [
       "补虚",
-      "养胃"
+      "润肺"
     ],
     "regions": [
       "CN"
@@ -12588,19 +14126,17 @@
       "太湖"
     ],
     "aliases": [
-      "面条鱼"
+      "太湖银鱼"
     ],
     "pinyin": "yinyu",
     "initials": "yy",
     "searchTerms": [
       "yinyu",
       "yy",
-      "whitebait",
-      "银鱼",
-      "面条鱼"
+      "银鱼"
     ],
-    "summary": "银鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "小型淡水鱼，无刺，炒蛋或羹汤。",
+    "caution": "海鲜过敏者禁用。"
   },
   {
     "id": "silver-fish-fresh",
@@ -12675,29 +14211,51 @@
     "category": "豆类",
     "nature": "平",
     "effects": [
-      "健脾"
+      "健脾",
+      "高蛋白"
     ],
     "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "新疆",
-      "甘肃"
+      "IN",
+      "US"
     ],
     "aliases": [
       "鸡心豆"
     ],
-    "pinyin": "yingzuidou",
-    "initials": "yzd",
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
     "searchTerms": [
-      "yingzuidou",
-      "yzd",
       "chickpea",
       "鹰嘴豆",
-      "鸡心豆"
+      "hummus豆"
     ],
-    "summary": "鹰嘴豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "summary": "中东与印度常见豆类，可煮食、打泥或烤制。",
+    "caution": "胀气体质适量，充分浸泡煮透。"
+  },
+  {
+    "id": "nutritional-yeast",
+    "name": "营养酵母",
+    "en": "nutritional yeast",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "US"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物"
+    ],
+    "searchTerms": [
+      "nutritional yeast",
+      "营养酵母"
+    ],
+    "summary": "失活酵母片，芝士风味，素食料理增鲜撒料。",
+    "caution": "部分产品含维生素 B12 强化，阅读标签；酵母过敏者禁用。"
   },
   {
     "id": "bighead-carp",
@@ -12853,6 +14411,38 @@
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "yuzu-fruit",
+    "name": "柚子",
+    "en": "yuzu",
+    "jp": "柚子",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "理气",
+      "芳香"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "aliases": [
+      "日本柚子",
+      "香柚"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "yuzu",
+      "日本柚子",
+      "香柚"
+    ],
+    "summary": "东亚香 Citrus，皮香浓郁，常用于调味、泡酒与蜜渍。",
+    "caution": "胃酸过多者空腹不宜多食。",
+    "hiddenFromLibrary": true
+  },
+  {
     "id": "shark-fin",
     "name": "鱼翅",
     "en": "shark fin",
@@ -12998,6 +14588,40 @@
     ],
     "summary": "芋头，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "taro-corm",
+    "name": "芋头",
+    "en": "taro",
+    "category": "薯类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建",
+      "广西"
+    ],
+    "aliases": [
+      "芋艿",
+      "荔浦芋头"
+    ],
+    "pinyin": "yutou",
+    "initials": "yt",
+    "searchTerms": [
+      "yutou",
+      "yt",
+      "芋头",
+      "芋艿"
+    ],
+    "summary": "淀粉质根茎，蒸焖粉糯，扣肉与甜品常用。",
+    "caution": "须煮熟去草酸；胀气者适量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mooncake",
@@ -13166,7 +14790,37 @@
       "zhacai",
       "zc"
     ],
-    "summary": "涪陵榨菜，常见佐餐腌菜。"
+    "summary": "涪陵榨菜，常见佐餐腌菜。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "preserved-vegetable",
+    "name": "榨菜",
+    "en": "preserved mustard tuber",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆",
+      "浙江"
+    ],
+    "aliases": [
+      "涪陵榨菜"
+    ],
+    "pinyin": "zhacai",
+    "initials": "zc",
+    "searchTerms": [
+      "zhacai",
+      "zc",
+      "榨菜"
+    ],
+    "summary": "芥菜头腌渍制品，咸脆开胃，配粥面条。",
+    "caution": "高盐，高血压与肾病者控量。"
   },
   {
     "id": "octopus",
@@ -13262,6 +14916,35 @@
     ],
     "summary": "芝麻菜，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "tahini",
+    "name": "芝麻酱",
+    "en": "tahini",
+    "category": "坚果种子",
+    "nature": "平",
+    "effects": [
+      "润燥",
+      "高蛋白"
+    ],
+    "regions": [
+      "US"
+    ],
+    "aliases": [
+      "中东芝麻酱"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "tahini",
+      "芝麻酱",
+      "中东芝麻酱"
+    ],
+    "summary": "烘烤芝麻研磨酱，中东鹰嘴豆泥与凉拌常用。",
+    "caution": "高脂高热量，腹泻与胆囊不适者适量。"
   },
   {
     "id": "sesame-oil",
@@ -13637,6 +15320,33 @@
     "officialBatch": "2019",
     "usageScope": "dietary-therapy",
     "summary": "2019 增补食药同源目录条目，常用于去腥、解表与醒脾。"
+  },
+  {
+    "id": "shiso-leaf",
+    "name": "紫苏叶",
+    "en": "shiso",
+    "jp": "紫蘇",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "行气",
+      "解表"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "shiso",
+      "紫苏叶",
+      "赤紫苏"
+    ],
+    "summary": "日式料理常见香草，配鱼生、天妇罗与腌渍。",
+    "caution": "气虚表虚多汗者不宜过量。"
   },
   {
     "id": "perilla-seed",

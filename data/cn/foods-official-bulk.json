@@ -514,7 +514,8 @@
     "effects": [
       "清补",
       "和中"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-mulberry",

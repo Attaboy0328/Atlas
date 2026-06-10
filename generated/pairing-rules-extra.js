@@ -1039,5 +1039,125 @@ const PAIRING_RULES_ALL = [
     "level": "notice",
     "category": "现代安全",
     "text": "乌龙茶鞣酸较高，空腹浓饮或餐后立即浓茶可能影响消化舒适感。"
+  },
+  {
+    "ids": [
+      "crab",
+      "mitten-crab"
+    ],
+    "title": "蟹与柿子",
+    "level": "caution",
+    "category": "传统食养",
+    "text": "寒凉叠加，脾胃虚寒者易腹痛腹泻，宜间隔食用。"
+  },
+  {
+    "ids": [
+      "miso",
+      "yellow-croaker"
+    ],
+    "title": "味噌与鲜鱼",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "日式常见组合，味噌汤配烤鱼或煮鱼，咸鲜互补。"
+  },
+  {
+    "ids": [
+      "natto",
+      "rice"
+    ],
+    "title": "纳豆与米饭",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "经典早餐搭配，蛋白质与碳水互补，宜温热食用。"
+  },
+  {
+    "ids": [
+      "kimchi-kr",
+      "pork"
+    ],
+    "title": "泡菜与猪肉",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "韩式炖菜常见，酸辣开胃，帮助解腻。"
+  },
+  {
+    "ids": [
+      "olive-oil",
+      "basil-fresh"
+    ],
+    "title": "橄榄油与罗勒",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "地中海风味基础，凉拌沙拉与意面常用。"
+  },
+  {
+    "ids": [
+      "chickpea",
+      "tahini"
+    ],
+    "title": "鹰嘴豆与芝麻酱",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "中东鹰嘴豆泥经典组合，植物蛋白与脂肪互补。"
+  },
+  {
+    "ids": [
+      "quinoa",
+      "chickpea"
+    ],
+    "title": "藜麦与鹰嘴豆",
+    "level": "good",
+    "category": "素食搭配",
+    "text": "全植物优质蛋白组合，沙拉与碗餐常见。"
+  },
+  {
+    "ids": [
+      "butter",
+      "garlic"
+    ],
+    "title": "黄油与大蒜",
+    "level": "notice",
+    "category": "日常搭配",
+    "text": "西式烹调增香，高脂高热量，控脂人群适量。"
+  },
+  {
+    "ids": [
+      "gochujang",
+      "tofu"
+    ],
+    "title": "韩式辣酱与豆腐",
+    "level": "good",
+    "category": "素食搭配",
+    "text": "全植物辣炖豆腐常见，辛辣开胃。"
+  },
+  {
+    "ids": [
+      "halal-lamb",
+      "cumin"
+    ],
+    "title": "清真羊肉与孜然",
+    "level": "good",
+    "category": "清真搭配",
+    "text": "中东与新疆风味常见，温香去腥。"
+  },
+  {
+    "ids": [
+      "shepherd-purse",
+      "pork"
+    ],
+    "title": "荠菜与猪肉",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "荠菜饺子经典馅心，清香解腻。"
+  },
+  {
+    "ids": [
+      "yellow-eel",
+      "ginger"
+    ],
+    "title": "黄鳝与生姜",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "江南常见，姜去腥温中，配黄鳝红烧。"
   }
 ];

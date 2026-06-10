@@ -822,7 +822,8 @@
       "zhacai",
       "zc"
     ],
-    "summary": "涪陵榨菜，常见佐餐腌菜。"
+    "summary": "涪陵榨菜，常见佐餐腌菜。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "preserved-vegetable",

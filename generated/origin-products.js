@@ -360,6 +360,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "label": "国家知识产权局地理标志"
       },
       {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
@@ -428,6 +433,11 @@ const ORIGIN_PRODUCT_FOODS = [
     "isOriginProduct": true,
     "baseFoodId": "tieguanyin",
     "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
       {
         "system": "cnipa",
         "type": "地理标志保护产品",
@@ -534,6 +544,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -597,6 +612,11 @@ const ORIGIN_PRODUCT_FOODS = [
     "isOriginProduct": true,
     "baseFoodId": "pu-er-tea",
     "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
       {
         "system": "cnipa",
         "type": "地理标志保护产品",
@@ -701,6 +721,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -767,6 +792,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       },
       {
         "system": "mara",
@@ -1172,7 +1202,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI"
     ],
@@ -1182,7 +1212,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [
       {
         "system": "cnipa",
@@ -1234,7 +1264,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -1244,7 +1274,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -4682,7 +4712,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -4692,7 +4722,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -7611,7 +7641,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -7621,7 +7651,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -7796,7 +7826,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -7806,7 +7836,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -7858,7 +7888,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江苏",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -7868,7 +7898,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -9275,7 +9305,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖南",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -9285,7 +9315,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -9953,7 +9983,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -9963,7 +9993,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -12228,7 +12258,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "青岛",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -12238,7 +12268,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -12949,7 +12979,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大连裙带菜",
     "en": "",
     "category": "海产",
-    "nature": "寒",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -13398,7 +13428,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -13408,7 +13438,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -13890,7 +13920,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "四川",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -13900,7 +13930,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
       {
         "system": "cnipa",
@@ -14075,7 +14105,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖南",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -14085,7 +14115,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -14814,7 +14844,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -14824,7 +14854,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -14937,7 +14967,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -14947,7 +14977,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -15612,7 +15642,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -15622,7 +15652,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -16841,7 +16871,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "辽宁",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -16851,7 +16881,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -18242,7 +18272,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -18252,7 +18282,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -19103,7 +19133,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -19113,7 +19143,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -19226,7 +19256,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -19236,7 +19266,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -19597,7 +19627,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江苏",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -19607,7 +19637,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -20272,7 +20302,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "安徽",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -20282,7 +20312,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -20519,7 +20549,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江西",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -20529,7 +20559,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -20889,7 +20919,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "贵州",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -20899,7 +20929,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -21564,7 +21594,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "广东",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -21574,7 +21604,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -22301,7 +22331,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -22311,7 +22341,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -22855,7 +22885,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -22865,7 +22895,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -23347,7 +23377,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -23357,7 +23387,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -24014,7 +24044,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "生态原产地保护产品",
       "CN",
       "重庆",
-      "peop-奉节县脐橙产业协会奉节脐橙",
+      "orange",
       "地理标志",
       "GI",
       "PEOP",
@@ -24026,7 +24056,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "peop-奉节县脐橙产业协会奉节脐橙",
+    "baseFoodId": "orange",
     "giSystems": [
       {
         "system": "cnipa",
@@ -24144,7 +24174,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江西",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -24154,7 +24184,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -24515,7 +24545,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江西",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -24525,7 +24555,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -27466,7 +27496,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江西",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -27476,7 +27506,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -28079,7 +28109,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江苏",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -28089,7 +28119,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -28438,7 +28468,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -28448,7 +28478,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -28624,7 +28654,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -28634,7 +28664,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -31081,7 +31111,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -31091,7 +31121,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -31569,7 +31599,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "安徽",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -31579,7 +31609,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -31877,7 +31907,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "陕西",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -31887,7 +31917,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -32247,7 +32277,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "陕西",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -32257,7 +32287,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -32716,7 +32746,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -32726,7 +32756,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -32839,7 +32869,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖南",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -32849,7 +32879,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -33271,7 +33301,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "辽宁",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI"
     ],
@@ -33281,7 +33311,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [
       {
         "system": "cnipa",
@@ -34421,7 +34451,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪兰菠菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],
@@ -34440,7 +34470,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "青岛",
-      "spinach",
+      "peop-菠菜",
       "地理标志",
       "GI"
     ],
@@ -34450,7 +34480,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "spinach",
+    "baseFoodId": "peop-菠菜",
     "giSystems": [
       {
         "system": "cnipa",
@@ -34502,7 +34532,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江西",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI"
     ],
@@ -34512,7 +34542,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [
       {
         "system": "cnipa",
@@ -34749,7 +34779,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "四川",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -34759,7 +34789,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -34873,7 +34903,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI"
     ],
@@ -34883,7 +34913,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [
       {
         "system": "cnipa",
@@ -35119,7 +35149,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -35129,7 +35159,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -35853,7 +35883,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -35863,7 +35893,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -36470,7 +36500,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖南",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI"
     ],
@@ -36480,7 +36510,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [
       {
         "system": "cnipa",
@@ -36654,7 +36684,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖南",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI"
     ],
@@ -36664,7 +36694,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [
       {
         "system": "cnipa",
@@ -37025,7 +37055,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "辽宁",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -37035,7 +37065,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -37087,7 +37117,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -37097,7 +37127,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -37568,7 +37598,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "安徽",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -37578,7 +37608,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
       {
         "system": "cnipa",
@@ -37754,7 +37784,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "辽宁",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -37764,7 +37794,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -38123,7 +38153,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -38133,7 +38163,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -38431,7 +38461,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "四川",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -38441,7 +38471,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -41289,7 +41319,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -41299,7 +41329,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -41536,6 +41566,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "安徽",
+      "cured-ham",
       "地理标志",
       "GI"
     ],
@@ -41545,7 +41576,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "cured-ham",
     "giSystems": [
       {
         "system": "cnipa",
@@ -41953,7 +41984,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -41963,7 +41994,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -42015,7 +42046,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -42025,7 +42056,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -42446,7 +42477,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -42456,7 +42487,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -43001,7 +43032,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -43011,7 +43042,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -43849,7 +43880,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "云南",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -43859,7 +43890,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
       {
         "system": "cnipa",
@@ -44615,7 +44646,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "江永香柚",
     "en": "",
     "category": "水果",
-    "nature": "凉",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -44880,7 +44911,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江苏",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -44890,7 +44921,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -45682,7 +45713,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -45692,7 +45723,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -45806,7 +45837,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "青岛",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -45816,7 +45847,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -45929,7 +45960,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "青岛",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI"
     ],
@@ -45939,7 +45970,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [
       {
         "system": "cnipa",
@@ -46358,7 +46389,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -46368,7 +46399,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -48178,7 +48209,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -48188,7 +48219,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -51130,7 +51161,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -51140,7 +51171,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -51315,7 +51346,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -51325,7 +51356,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -51563,7 +51594,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -51573,7 +51604,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -51921,7 +51952,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI"
     ],
@@ -51931,7 +51962,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [
       {
         "system": "cnipa",
@@ -57789,7 +57820,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "river-crab",
+      "mitten-crab",
       "地理标志",
       "GI"
     ],
@@ -57799,7 +57830,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "river-crab",
+    "baseFoodId": "mitten-crab",
     "giSystems": [
       {
         "system": "cnipa",
@@ -57913,7 +57944,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "青岛",
-      "cat-grain-132",
+      "peop-小麦",
       "地理标志",
       "GI"
     ],
@@ -57923,7 +57954,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "peop-小麦",
     "giSystems": [
       {
         "system": "cnipa",
@@ -57975,7 +58006,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -57985,7 +58016,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -59021,7 +59052,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "陕西",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -59031,7 +59062,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
       {
         "system": "cnipa",
@@ -59331,7 +59362,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -59341,7 +59372,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -60786,7 +60817,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "陕西",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -60796,7 +60827,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -60910,7 +60941,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -60920,7 +60951,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -61096,7 +61127,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "安徽",
-      "river-crab",
+      "mitten-crab",
       "地理标志",
       "GI"
     ],
@@ -61106,7 +61137,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "river-crab",
+    "baseFoodId": "mitten-crab",
     "giSystems": [
       {
         "system": "cnipa",
@@ -61332,7 +61363,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -61342,7 +61373,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -61455,7 +61486,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "广东",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -61465,7 +61496,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -61887,7 +61918,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -61897,7 +61928,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -62316,7 +62347,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -62326,7 +62357,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -62440,7 +62471,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "四川",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -62450,7 +62481,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -62564,7 +62595,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "甘肃",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -62574,7 +62605,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -63599,7 +63630,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "辽宁",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI"
     ],
@@ -63609,7 +63640,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [
       {
         "system": "cnipa",
@@ -64635,7 +64666,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -64645,7 +64676,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -64759,7 +64790,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -64769,7 +64800,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -66654,7 +66685,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -66664,7 +66695,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -67577,7 +67608,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "广东",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -67587,7 +67618,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -69737,7 +69768,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -69747,7 +69778,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -70899,7 +70930,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "安徽",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -70909,7 +70940,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -72791,6 +72822,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "云南",
+      "cured-ham",
       "地理标志",
       "GI"
     ],
@@ -72800,7 +72832,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "cured-ham",
     "giSystems": [
       {
         "system": "cnipa",
@@ -74001,7 +74033,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -74011,7 +74043,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -74802,7 +74834,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -74812,7 +74844,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -76218,7 +76250,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江西",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -76228,7 +76260,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -77140,7 +77172,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -77150,7 +77182,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -79396,7 +79428,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -79406,7 +79438,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -79519,7 +79551,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -79529,7 +79561,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -80197,7 +80229,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -80207,7 +80239,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -80442,7 +80474,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -80452,7 +80484,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -80935,7 +80967,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -80945,7 +80977,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -81181,7 +81213,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "甘肃",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -81191,7 +81223,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -81551,7 +81583,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "海南",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -81561,7 +81593,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
       {
         "system": "cnipa",
@@ -82229,7 +82261,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -82239,7 +82271,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -82536,7 +82568,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -82546,7 +82578,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -83149,7 +83181,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -83159,7 +83191,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -83579,7 +83611,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -83589,7 +83621,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -84011,7 +84043,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -84021,7 +84053,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -86272,7 +86304,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "river-crab",
+      "mitten-crab",
       "地理标志",
       "GI"
     ],
@@ -86282,7 +86314,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "river-crab",
+    "baseFoodId": "mitten-crab",
     "giSystems": [
       {
         "system": "cnipa",
@@ -87136,7 +87168,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -87146,7 +87178,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
       {
         "system": "cnipa",
@@ -88172,7 +88204,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -88182,7 +88214,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -89279,7 +89311,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "陕西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -89289,7 +89321,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -89527,7 +89559,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -89537,7 +89569,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -90131,7 +90163,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -90141,7 +90173,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -91480,7 +91512,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -91490,7 +91522,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -91725,7 +91757,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "吉林",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -91735,7 +91767,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -92034,7 +92066,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -92044,7 +92076,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -92467,7 +92499,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -92477,7 +92509,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -92750,7 +92782,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -92760,7 +92792,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -93427,7 +93459,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -93437,7 +93469,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -93795,7 +93827,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖南",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -93805,7 +93837,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -95273,7 +95305,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -95283,7 +95315,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -95396,7 +95428,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "广东",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -95406,7 +95438,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -96247,7 +96279,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -96257,7 +96289,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -96985,7 +97017,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -96995,7 +97027,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -97232,7 +97264,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI"
     ],
@@ -97242,7 +97274,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [
       {
         "system": "cnipa",
@@ -97416,7 +97448,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -97426,7 +97458,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -97478,7 +97510,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -97488,7 +97520,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -98032,7 +98064,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI"
     ],
@@ -98042,7 +98074,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [
       {
         "system": "cnipa",
@@ -100923,7 +100955,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江苏",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -100933,7 +100965,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -101218,7 +101250,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -101228,7 +101260,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -101526,7 +101558,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -101536,7 +101568,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -102448,7 +102480,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "重庆",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -102458,7 +102490,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -102510,7 +102542,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "吉林",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -102520,7 +102552,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -103556,7 +103588,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "yam",
+      "peop-温县铁棍山药及其制品-温县铁棍山药牌-马红峰牌-怀山堂牌",
       "地理标志",
       "GI"
     ],
@@ -103566,7 +103598,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "yam",
+    "baseFoodId": "peop-温县铁棍山药及其制品-温县铁棍山药牌-马红峰牌-怀山堂牌",
     "giSystems": [
       {
         "system": "cnipa",
@@ -105325,7 +105357,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "安徽",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -105335,7 +105367,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -105387,7 +105419,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -105397,7 +105429,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -105572,7 +105604,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -105582,7 +105614,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -105943,7 +105975,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "广东",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -105953,7 +105985,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -106372,7 +106404,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -106382,7 +106414,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -107466,7 +107498,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "重庆",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI"
     ],
@@ -107476,7 +107508,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [
       {
         "system": "cnipa",
@@ -108079,7 +108111,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -108089,7 +108121,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -108940,7 +108972,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -108950,7 +108982,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -109063,7 +109095,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -109073,7 +109105,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -109125,7 +109157,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "cat-grain-132",
+      "peop-小麦",
       "地理标志",
       "GI"
     ],
@@ -109135,7 +109167,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "peop-小麦",
     "giSystems": [
       {
         "system": "cnipa",
@@ -109433,7 +109465,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -109443,7 +109475,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -109495,7 +109527,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -109505,7 +109537,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -109538,7 +109570,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "溪口雷笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "寒",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -110108,7 +110140,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "福建",
-      "zhacai",
+      "preserved-vegetable",
       "地理标志",
       "GI"
     ],
@@ -110118,7 +110150,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "zhacai",
+    "baseFoodId": "preserved-vegetable",
     "giSystems": [
       {
         "system": "cnipa",
@@ -110416,7 +110448,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI"
     ],
@@ -110426,7 +110458,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [
       {
         "system": "cnipa",
@@ -110602,7 +110634,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -110612,7 +110644,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -111217,7 +111249,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -111227,7 +111259,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -111894,7 +111926,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "安徽",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -111904,7 +111936,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -112634,7 +112666,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -112644,7 +112676,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -112882,7 +112914,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "辽宁",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -112892,7 +112924,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -113682,7 +113714,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "cat-grain-132",
+      "peop-小麦",
       "地理标志",
       "GI"
     ],
@@ -113692,7 +113724,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "peop-小麦",
     "giSystems": [
       {
         "system": "cnipa",
@@ -113744,7 +113776,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI"
     ],
@@ -113754,7 +113786,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [
       {
         "system": "cnipa",
@@ -114417,7 +114449,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -114427,7 +114459,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -115031,7 +115063,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -115041,7 +115073,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -116742,7 +116774,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -116752,7 +116784,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -117234,7 +117266,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "云南",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -117244,7 +117276,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
       {
         "system": "cnipa",
@@ -117420,7 +117452,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "cat-grain-132",
+      "peop-小麦",
       "地理标志",
       "GI"
     ],
@@ -117430,7 +117462,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "peop-小麦",
     "giSystems": [
       {
         "system": "cnipa",
@@ -118099,7 +118131,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -118109,7 +118141,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -118825,7 +118857,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -118835,7 +118867,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -118887,7 +118919,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "陕西",
-      "cat-grain-125",
+      "peop-黑米",
       "地理标志",
       "GI"
     ],
@@ -118897,7 +118929,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-125",
+    "baseFoodId": "peop-黑米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -119564,7 +119596,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -119574,7 +119606,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -119626,7 +119658,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -119636,7 +119668,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -120243,7 +120275,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -120253,7 +120285,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -121046,7 +121078,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江西",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -121056,7 +121088,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -121601,7 +121633,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -121611,7 +121643,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -121909,7 +121941,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -121919,7 +121951,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
       {
         "system": "cnipa",
@@ -122515,7 +122547,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "辽宁",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI"
     ],
@@ -122525,7 +122557,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [
       {
         "system": "cnipa",
@@ -122639,7 +122671,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "安徽",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -122649,7 +122681,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -124040,7 +124072,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "福建",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -124050,7 +124082,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -124408,7 +124440,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -124418,7 +124450,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -125027,7 +125059,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -125037,7 +125069,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -125213,7 +125245,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -125223,7 +125255,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -125766,7 +125798,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "甘肃",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI"
     ],
@@ -125776,7 +125808,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [
       {
         "system": "cnipa",
@@ -127000,7 +127032,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖南",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -127010,7 +127042,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -129151,7 +129183,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -129161,7 +129193,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -129394,7 +129426,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "柞水木耳",
       "国家知识产权局地理标志",
       "CN",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -129404,7 +129436,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -129631,7 +129663,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江西",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -129641,7 +129673,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -130125,7 +130157,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -130135,7 +130167,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "cnipa",
@@ -131479,7 +131511,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖南",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -131489,7 +131521,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -131541,7 +131573,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "贵州",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI"
     ],
@@ -131551,7 +131583,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [
       {
         "system": "cnipa",
@@ -131715,7 +131747,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "浙江",
-      "river-crab",
+      "mitten-crab",
       "地理标志",
       "GI"
     ],
@@ -131725,7 +131757,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "river-crab",
+    "baseFoodId": "mitten-crab",
     "giSystems": [
       {
         "system": "cnipa",
@@ -132331,7 +132363,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "大连",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -132341,7 +132373,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -133007,7 +133039,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "陕西",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -133017,7 +133049,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "cnipa",
@@ -133920,7 +133952,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -133930,7 +133962,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -135093,7 +135125,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -135103,7 +135135,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "cnipa",
@@ -135526,7 +135558,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "大连",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -135536,7 +135568,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "cnipa",
@@ -136849,7 +136881,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茅台酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -136866,6 +136898,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "国家知识产权局地理标志",
       "贵州",
       "茅台镇",
+      "baijiu-cooking",
       "地理标志",
       "GI"
     ],
@@ -136875,7 +136908,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [
       {
         "system": "cnipa",
@@ -161248,6 +161281,16 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -161256,7 +161299,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-pixian-douban",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "cnipa-pixian-douban-manifest"
@@ -161306,6 +161349,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -161314,7 +161362,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-zhenjiang-vinegar",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -161361,6 +161409,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -161369,7 +161422,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-shanxi-vinegar",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -161416,6 +161469,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -161424,7 +161482,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-dezhou-chicken",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -161477,6 +161535,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "label": "国家知识产权局地理标志"
       },
       {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
@@ -161488,7 +161551,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-peking-duck",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-北京鸭"
@@ -161544,6 +161607,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -161552,7 +161620,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-qianjiang-crayfish",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-潜江龙虾"
@@ -161608,6 +161676,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -161616,7 +161689,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-xuyi-crayfish",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-盱眙龙虾"
@@ -161666,6 +161739,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -161674,7 +161752,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-hengxian-jasmine",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -161701,7 +161779,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "mara-蒙自石榴",
       "农业农村部农产品地理标志",
       "云南",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -161711,8 +161789,13 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
       {
         "system": "mara",
         "type": "农产品地理标志",
@@ -161735,7 +161818,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-mengzi-pomegranate",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-蒙自石榴"
@@ -161785,6 +161868,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -161793,7 +161881,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-yanchi-lamb",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -161846,6 +161934,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -161854,7 +161947,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-xingan-millet",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-兴安盟小米"
@@ -161904,6 +161997,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -161912,7 +162010,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-zhaozhou-millet",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -161959,6 +162057,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -161967,7 +162070,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-beibu-gulf-seabass",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -162021,6 +162124,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -162029,7 +162137,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-bailian-goose",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-白莲鹅"
@@ -162085,6 +162193,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -162093,7 +162206,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-taicang-garlic",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-太仓白蒜"
@@ -162149,6 +162262,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -162157,7 +162275,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-cangshan-garlic",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-苍山大蒜"
@@ -162213,6 +162331,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -162221,7 +162344,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-qixian-garlic",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-杞县大蒜"
@@ -162277,6 +162400,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -162285,7 +162413,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-laiwu-ginger",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-莱芜生姜"
@@ -162334,6 +162462,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "provincial",
         "type": "农产品地理标志",
         "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
       }
     ],
     "peop": null,
@@ -162342,7 +162475,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "provincial",
       "sourceUrl": "",
       "sourceId": "prov-fj-shaxian",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -162389,6 +162522,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -162397,7 +162535,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-yuhua-tea",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -162448,6 +162586,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "label": "国家知识产权局地理标志"
       },
       {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
@@ -162459,7 +162602,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-taiping-houkui",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-太平猴魁"
@@ -162508,6 +162651,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -162516,7 +162664,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-liuan-guapian",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -162566,6 +162714,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "label": "国家知识产权局地理标志"
       },
       {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
@@ -162577,7 +162730,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-xinyang-maojian",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-信阳毛尖"
@@ -162627,6 +162780,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -162635,7 +162793,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-wuyi-rougui",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -162682,6 +162840,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -162690,7 +162853,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-dahongpao",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -162737,6 +162900,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -162745,7 +162913,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-puer-ripe-tea",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -162791,6 +162959,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -162799,7 +162972,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-yaan-tibetan-tea",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -162852,6 +163025,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -162860,7 +163038,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-mizhi-millet",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-米脂小米"
@@ -162910,6 +163088,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -162918,7 +163101,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-fenyang-walnut",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -162971,6 +163154,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -162979,7 +163167,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-linan-pecan",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-临安山核桃"
@@ -163035,6 +163223,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163043,7 +163236,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-panzhihua-mango",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-攀枝花芒果"
@@ -163099,6 +163292,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163107,7 +163305,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-baise-mango",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-百色芒果"
@@ -163157,6 +163355,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "provincial",
         "type": "农产品地理标志",
         "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
       }
     ],
     "peop": null,
@@ -163165,7 +163368,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "provincial",
       "sourceUrl": "",
       "sourceId": "prov-sd-qixia-apple",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -163216,6 +163419,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "label": "省级地理标志"
       },
       {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
+      },
+      {
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
@@ -163227,7 +163435,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "provincial",
       "sourceUrl": "",
       "sourceId": "prov-yn-zhaotong-apple",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-昭通苹果"
@@ -163276,6 +163484,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163284,7 +163497,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-qianxi-chestnut",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -163330,6 +163543,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163338,7 +163556,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-luotian-chestnut",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -163384,6 +163602,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163392,7 +163615,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-fenghua-taro",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -163444,6 +163667,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163452,7 +163680,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-lipu-taro",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-荔浦芋"
@@ -163502,6 +163730,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163510,7 +163743,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-zhoushan-hairtail",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -163557,6 +163790,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163565,7 +163803,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-zhanjiang-oyster",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -163612,6 +163850,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163620,7 +163863,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-rongcheng-kelp",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -163667,6 +163910,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -163675,7 +163923,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-dalian-sea-cucumber",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -163722,6 +163970,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163730,7 +163983,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-ningde-yellow-croaker",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -163783,6 +164036,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163791,7 +164049,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-xinghua-crab",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-兴化大闸蟹"
@@ -163841,6 +164099,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163849,7 +164112,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-pinggu-peach",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -163904,6 +164167,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163912,7 +164180,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-cixi-bayberry",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-慈溪杨梅"
@@ -163968,6 +164236,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -163976,7 +164249,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-lingshan-lychee",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-灵山荔枝"
@@ -164032,6 +164305,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -164040,7 +164318,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-dangshan-pear",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-砀山酥梨"
@@ -164096,6 +164374,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -164104,7 +164387,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-xuwen-pineapple",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-徐闻菠萝"
@@ -164154,6 +164437,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "provincial",
         "type": "农产品地理标志",
         "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
       }
     ],
     "peop": null,
@@ -164162,7 +164450,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "provincial",
       "sourceUrl": "",
       "sourceId": "prov-gd-leizhou-pineapple",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -164209,6 +164497,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -164217,7 +164510,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-hainan-coconut",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -164264,6 +164557,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -164272,7 +164570,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-ningxia-sandmelon",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -164319,6 +164617,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -164327,7 +164630,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-hotan-jujube",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -164374,6 +164677,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -164382,7 +164690,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-ruoqiang-jujube",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -164429,6 +164737,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "provincial",
         "type": "农产品地理标志",
         "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
       }
     ],
     "peop": null,
@@ -164437,7 +164750,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "provincial",
       "sourceUrl": "",
       "sourceId": "prov-hn-danzhou-sweet-potato",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -164484,6 +164797,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "provincial",
         "type": "农产品地理标志",
         "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
       }
     ],
     "peop": null,
@@ -164492,7 +164810,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "provincial",
       "sourceUrl": "",
       "sourceId": "prov-gx-longji-rice",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -164546,6 +164864,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -164559,7 +164882,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-gutian-white-fungus",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-古田银耳"
@@ -164610,6 +164933,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -164623,7 +164951,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-tongjiang-white-fungus",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -164676,6 +165004,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -164684,7 +165017,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-wendeng-ginseng-american",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-文登西洋参"
@@ -164734,6 +165067,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -164742,7 +165080,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-changbai-ginseng",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -164789,6 +165127,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -164797,7 +165140,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-fenghuang-dancong",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -164844,6 +165187,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "provincial",
         "type": "农产品地理标志",
         "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
       }
     ],
     "peop": null,
@@ -164852,7 +165200,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "provincial",
       "sourceUrl": "",
       "sourceId": "prov-gd-chaozhou-dancong",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -164903,6 +165251,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "label": "国家知识产权局地理标志"
       },
       {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
@@ -164914,7 +165267,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-huoshan-huangya",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-霍山黄芽"
@@ -164968,6 +165321,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "label": "国家知识产权局地理标志"
       },
       {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
@@ -164979,7 +165337,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-mogan-huangya",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-莫干黄芽"
@@ -165034,6 +165392,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -165042,7 +165405,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-jingyang-fuzhuan-tea",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-泾阳茯茶"
@@ -165091,6 +165454,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -165099,7 +165467,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-yunnan-arabica-coffee",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -165146,6 +165514,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -165154,7 +165527,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-wuwei-pressed-duck",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -165201,6 +165574,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "provincial",
         "type": "农产品地理标志",
         "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
       }
     ],
     "peop": null,
@@ -165209,7 +165587,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "provincial",
       "sourceUrl": "",
       "sourceId": "prov-hn-changde-duck",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -165256,6 +165634,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -165264,7 +165647,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-xiangxi-cured-pork",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -165293,7 +165676,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "浙江",
       "宁波",
-      "zhacai",
+      "preserved-vegetable",
       "地理标志",
       "GI"
     ],
@@ -165303,8 +165686,13 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "zhacai",
+    "baseFoodId": "preserved-vegetable",
     "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
       {
         "system": "mara",
         "type": "农产品地理标志",
@@ -165327,7 +165715,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-yuyao-pickled-mustard",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-余姚榨菜"
@@ -165383,6 +165771,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -165391,7 +165784,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-tongxiang-chrysanthemum",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-杭白菊"
@@ -165441,6 +165834,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -165449,7 +165847,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-tongxiang-chrysanthemum",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -165496,6 +165894,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -165504,7 +165907,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-yangcheng-bream",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -165557,6 +165960,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -165565,7 +165973,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-honghu-lotus-root",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-洪湖莲藕"
@@ -165614,6 +166022,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "provincial",
         "type": "农产品地理标志",
         "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
       }
     ],
     "peop": null,
@@ -165622,7 +166035,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "provincial",
       "sourceUrl": "",
       "sourceId": "prov-sd-zhangqiu-chicken",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -165669,6 +166082,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -165677,7 +166095,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-neijiang-sugarcane",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -165724,6 +166142,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -165732,7 +166155,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-fuping-persimmon",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -165778,6 +166201,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -165786,7 +166214,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-linan-green-plum",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -165833,6 +166261,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -165841,7 +166274,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-jianou-bamboo-shoot",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -165894,6 +166327,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -165902,7 +166340,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-enshi-potato",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-恩施土豆"
@@ -165952,6 +166390,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -165960,7 +166403,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-zhaotong-gastrodia",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166011,6 +166454,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166024,7 +166472,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-wenshan-dendrobium",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166075,6 +166523,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166088,7 +166541,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-bozhou-peony-root",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166139,6 +166592,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166152,7 +166610,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-minxian-codonopsis",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166203,6 +166661,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166216,7 +166679,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-yuexi-poria",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166263,6 +166726,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -166271,7 +166739,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-dongting-biluochun-manifest",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166297,7 +166765,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "绍兴黄酒",
       "国家知识产权局地理标志",
       "浙江",
-      "cat-condiment-022",
+      "huangjiu",
       "地理标志",
       "GI"
     ],
@@ -166307,8 +166775,13 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-condiment-022",
+    "baseFoodId": "huangjiu",
     "giSystems": [
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
       {
         "system": "cnipa",
         "type": "地理标志保护产品",
@@ -166326,7 +166799,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-shaoxing-wine-manifest",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166373,6 +166846,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166381,7 +166859,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-ningxia-lamb-manifest",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166429,6 +166907,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166437,7 +166920,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-sheyang-rice",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-射阳大米"
@@ -166482,6 +166965,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166490,7 +166978,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-zengcheng-rice",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166532,6 +167020,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166540,7 +167033,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-jiansanjiang-rice",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166582,6 +167075,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166590,7 +167088,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-yanyuan-apple",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166638,6 +167136,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166646,7 +167149,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-zhanhua-jujube",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-沾化冬枣"
@@ -166697,6 +167200,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166705,7 +167213,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-mengyin-peach",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-蒙阴蜜桃"
@@ -166758,6 +167266,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166766,7 +167279,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-fenghua-peach",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-奉化水蜜桃"
@@ -166811,6 +167324,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166819,7 +167337,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-huangyan-orange",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166861,6 +167379,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166869,7 +167392,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-hetao-wheat",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166911,6 +167434,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166919,7 +167447,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-pengzhou-garlic",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -166960,6 +167488,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -166968,7 +167501,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-beihai-golden-pomfret",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -167010,6 +167543,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -167018,7 +167556,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-bohai-shrimp",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -167060,6 +167598,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -167068,7 +167611,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-yongchun-orange",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -167110,6 +167653,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -167118,7 +167666,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-liangping-rice",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -167160,6 +167708,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -167168,7 +167721,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-yantai-wine",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -167210,6 +167763,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -167218,7 +167776,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-laoshan-green-tea",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -167260,6 +167818,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -167268,7 +167831,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-yihong-tea",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -167310,6 +167873,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -167318,7 +167886,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-dongding-oolong",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -167366,6 +167934,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -167374,7 +167947,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-suizhou-shiitake",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "mara-随州香菇"
@@ -167403,7 +167976,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "南部黑木耳",
       "农业农村部农产品地理标志",
       "四川",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -167413,8 +167986,13 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
       {
         "system": "mara",
         "type": "农产品地理标志",
@@ -167427,7 +168005,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "mara-nanbu-black-fungus",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
@@ -171428,6 +172006,3296 @@ const ORIGIN_PRODUCT_FOODS = [
         "label": "国家知识产权局地理标志"
       },
       {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
@@ -171439,7 +175307,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-走马葛仙米",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "cnipa-走马葛仙米",
@@ -178967,6 +182835,6236 @@ const ORIGIN_PRODUCT_FOODS = [
         "label": "国家知识产权局地理标志"
       },
       {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
@@ -178978,7 +189076,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-梓江鳜鱼",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "cnipa-梓江鳜鱼",
@@ -179575,6 +189673,461 @@ const ORIGIN_PRODUCT_FOODS = [
         "label": "国家知识产权局地理标志"
       },
       {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
@@ -179586,7 +190139,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-中江柚",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "cnipa-中江柚",
@@ -180912,6 +191465,1066 @@ const ORIGIN_PRODUCT_FOODS = [
         "label": "国家知识产权局地理标志"
       },
       {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
@@ -180923,7 +192536,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-涿鹿紫皮大蒜",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "cnipa-涿鹿紫皮大蒜",
@@ -181005,6 +192618,36 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       }
     ],
     "peop": null,
@@ -181013,7 +192656,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "cnipa",
       "sourceUrl": "",
       "sourceId": "cnipa-湘莲",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "cnipa-湘莲"
@@ -181073,6 +192716,21 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "provincial",
         "type": "农产品地理标志",
         "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
       }
     ],
     "peop": {
@@ -181085,7 +192743,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "provincial",
       "sourceUrl": "",
       "sourceId": "peop-江口青鳙",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "peop-江口青鳙"
@@ -181145,6 +192803,21 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "provincial",
         "type": "农产品地理标志",
         "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
       }
     ],
     "peop": {
@@ -181157,7 +192830,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "provincial",
       "sourceUrl": "",
       "sourceId": "peop-伊利液态奶",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "peop-伊利液态奶"
@@ -181205,6 +192878,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "provincial",
         "type": "农产品地理标志",
         "label": "省级地理标志"
+      },
+      {
+        "system": "provincial",
+        "type": "农产品地理标志",
+        "label": "省级地理标志"
       }
     ],
     "peop": {
@@ -181217,7 +192895,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "provincial",
       "sourceUrl": "",
       "sourceId": "peop-镇龙山瓦灰鸡",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "peop-镇龙山瓦灰鸡"
@@ -182286,6 +193964,856 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -182294,7 +194822,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "daodi-紫菀-道地",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "daodi-aster-tataricus-origin",
@@ -183370,6 +195898,861 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -183378,7 +196761,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "daodi-紫苏子-道地",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "daodi-perilla-seed-origin",
@@ -183543,6 +196926,101 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -183551,7 +197029,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "daodi-制天南星-道地",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "daodi-arisaema-prep-origin",
@@ -183618,6 +197096,21 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -183626,7 +197119,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "mara",
       "sourceUrl": "",
       "sourceId": "daodi-金钱白花蛇-道地",
-      "fetchedAt": "2026-06-09",
+      "fetchedAt": "2026-06-10",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
       "mergedFrom": [
         "daodi-dao-di-orphan-275-origin",
@@ -183758,7 +197251,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "阿尔山黑木耳",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -183768,7 +197261,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "mara",
@@ -185610,7 +199103,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "巴林大米",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -185620,7 +199113,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -186593,7 +200086,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "柏各庄大米",
       "农业农村部农产品地理标志",
       "河北",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -186603,7 +200096,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -188757,7 +202250,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "策勒石榴",
       "农业农村部农产品地理标志",
       "新疆",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -188767,7 +202260,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
       {
         "system": "mara",
@@ -189016,7 +202509,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "察布查尔大米",
       "农业农村部农产品地理标志",
       "新疆",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -189026,7 +202519,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -189223,7 +202716,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "察隅大米",
       "农业农村部农产品地理标志",
       "西藏",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -189233,7 +202726,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -189998,7 +203491,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "朝阳小米",
       "农业农村部农产品地理标志",
       "辽宁",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -190008,7 +203501,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -190461,7 +203954,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "赤峰小米",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -190471,7 +203964,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -192473,7 +205966,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "黛青山软籽石榴",
       "农业农村部农产品地理标志",
       "山东",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -192483,7 +205976,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
       {
         "system": "mara",
@@ -193704,7 +207197,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "东兴红姑娘红薯",
       "农业农村部农产品地理标志",
       "广西",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -193714,7 +207207,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "mara",
@@ -194479,7 +207972,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "鄂伦春黑木耳",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -194489,7 +207982,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "mara",
@@ -194789,6 +208282,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "芳林马蹄",
       "农业农村部农产品地理标志",
       "广西",
+      "water-chestnut",
       "地理标志",
       "GI"
     ],
@@ -194798,7 +208292,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "water-chestnut",
     "giSystems": [
       {
         "system": "mara",
@@ -195660,7 +209154,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "抚顺单片黑木耳",
       "农业农村部农产品地理标志",
       "辽宁",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -195670,7 +209164,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "mara",
@@ -195763,7 +209257,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "滏河贡白菜",
       "农业农村部农产品地理标志",
       "河北",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI"
     ],
@@ -195773,7 +209267,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [
       {
         "system": "mara",
@@ -196328,7 +209822,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "甘南小米",
       "农业农村部农产品地理标志",
       "黑龙江",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -196338,7 +209832,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -196585,7 +210079,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "皋兰禾尚头小麦",
       "农业农村部农产品地理标志",
       "甘肃",
-      "cat-grain-132",
+      "peop-小麦",
       "地理标志",
       "GI"
     ],
@@ -196595,7 +210089,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "peop-小麦",
     "giSystems": [
       {
         "system": "mara",
@@ -196688,7 +210182,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "高密毛家屋子小米",
       "农业农村部农产品地理标志",
       "山东",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -196698,7 +210192,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -196947,7 +210441,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "根河黑木耳",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -196957,7 +210451,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "mara",
@@ -197498,7 +210992,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "贡井龙都早香柚",
     "en": "",
     "category": "水果",
-    "nature": "凉",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -197615,7 +211109,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "古浪红光头小麦",
       "农业农村部农产品地理标志",
       "甘肃",
-      "cat-grain-132",
+      "peop-小麦",
       "地理标志",
       "GI"
     ],
@@ -197625,7 +211119,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "peop-小麦",
     "giSystems": [
       {
         "system": "mara",
@@ -198541,7 +212035,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "贵州绿茶",
       "农业农村部农产品地理标志",
       "贵州",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -198551,7 +212045,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "mara",
@@ -201580,7 +215074,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "洪井三皇小米",
       "农业农村部农产品地理标志",
       "山西",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -201590,7 +215084,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -202558,7 +216052,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "花园口红薯",
       "农业农村部农产品地理标志",
       "河南",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -202568,7 +216062,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "mara",
@@ -202750,7 +216244,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "华容大湖胖头鱼",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -202868,7 +216362,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "化德大白菜",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI"
     ],
@@ -202878,7 +216372,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [
       {
         "system": "mara",
@@ -203060,7 +216554,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "环江红心香柚",
     "en": "",
     "category": "水果",
-    "nature": "凉",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -203433,7 +216927,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "黄粱梦小米",
       "农业农村部农产品地理标志",
       "河北",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -203443,7 +216937,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -203843,7 +217337,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "黄杨小米辣",
       "农业农村部农产品地理标志",
       "贵州",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -203853,7 +217347,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -203998,7 +217492,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "辉渠望海山小米",
       "农业农村部农产品地理标志",
       "山东",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -204008,7 +217502,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -204306,7 +217800,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "获嘉大白菜",
       "农业农村部农产品地理标志",
       "河南",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI"
     ],
@@ -204316,7 +217810,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [
       {
         "system": "mara",
@@ -204616,7 +218110,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "吉林长白山黑木耳",
       "农业农村部农产品地理标志",
       "吉林",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -204626,7 +218120,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "mara",
@@ -205648,7 +219142,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "贾汪大洞山石榴",
       "农业农村部农产品地理标志",
       "江苏",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -205658,7 +219152,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
       {
         "system": "mara",
@@ -207533,7 +221027,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镜泊湖胖头鱼",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -209812,7 +223306,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "兰考红薯",
       "农业农村部农产品地理标志",
       "河南",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -209822,7 +223316,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "mara",
@@ -210535,7 +224029,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "乐道子鸡蛋",
       "农业农村部农产品地理标志",
       "四川",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI"
     ],
@@ -210545,7 +224039,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [
       {
         "system": "mara",
@@ -210999,6 +224493,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "荔浦马蹄",
       "农业农村部农产品地理标志",
       "广西",
+      "water-chestnut",
       "地理标志",
       "GI"
     ],
@@ -211008,7 +224503,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "water-chestnut",
     "giSystems": [
       {
         "system": "mara",
@@ -211716,7 +225211,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "林东毛毛谷小米",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -211726,7 +225221,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -211871,7 +225366,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "临晋江石榴",
       "农业农村部农产品地理标志",
       "山西",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -211881,7 +225376,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
       {
         "system": "mara",
@@ -212388,7 +225883,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "灵山绿茶",
       "农业农村部农产品地理标志",
       "广西",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -212398,7 +225893,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "mara",
@@ -212849,7 +226344,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "柳沟小米",
       "农业农村部农产品地理标志",
       "青岛",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -212859,7 +226354,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -213005,6 +226500,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "柳州螺蛳",
       "农业农村部农产品地理标志",
       "广西",
+      "river-snail",
       "地理标志",
       "GI"
     ],
@@ -213014,7 +226510,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "river-snail",
     "giSystems": [
       {
         "system": "mara",
@@ -213263,7 +226759,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "六十八团大米",
       "农业农村部农产品地理标志",
       "新疆兵团",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -213273,7 +226769,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -213677,7 +227173,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "龙里豌豆尖",
       "农业农村部农产品地理标志",
       "贵州",
-      "green-pea",
+      "peop-豌豆",
       "地理标志",
       "GI"
     ],
@@ -213687,7 +227183,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-pea",
+    "baseFoodId": "peop-豌豆",
     "giSystems": [
       {
         "system": "mara",
@@ -215633,7 +229129,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "马边绿茶",
       "农业农村部农产品地理标志",
       "四川",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -215643,7 +229139,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "mara",
@@ -216405,7 +229901,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "梅里斯哈拉海大米",
       "农业农村部农产品地理标志",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -216415,7 +229911,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -216970,7 +230466,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "米泉大米",
       "农业农村部农产品地理标志",
       "新疆",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -216980,7 +230476,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -217952,7 +231448,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "木垒白豌豆",
       "农业农村部农产品地理标志",
       "新疆",
-      "green-pea",
+      "peop-豌豆",
       "地理标志",
       "GI"
     ],
@@ -217962,7 +231458,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-pea",
+    "baseFoodId": "peop-豌豆",
     "giSystems": [
       {
         "system": "mara",
@@ -218312,7 +231808,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "穆棱黑木耳",
       "农业农村部农产品地理标志",
       "黑龙江",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -218322,7 +231818,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "mara",
@@ -220316,7 +233812,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "宁夏大米",
       "农业农村部农产品地理标志",
       "宁夏",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -220326,7 +233822,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -220679,7 +234175,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "盘州小米",
       "农业农村部农产品地理标志",
       "贵州",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -220689,7 +234185,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -221144,7 +234640,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "皮亚勒玛甜石榴",
       "农业农村部农产品地理标志",
       "新疆",
-      "pomegranate",
+      "peop-石榴",
       "地理标志",
       "GI"
     ],
@@ -221154,7 +234650,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "peop-石榴",
     "giSystems": [
       {
         "system": "mara",
@@ -221196,7 +234692,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "平坝大米",
       "农业农村部农产品地理标志",
       "贵州",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -221206,7 +234702,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -224075,7 +237571,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "秦都红薯",
       "农业农村部农产品地理标志",
       "陕西",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -224085,7 +237581,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "mara",
@@ -224951,7 +238447,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "曲周小米",
       "农业农村部农产品地理标志",
       "河北",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -224961,7 +238457,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -225726,7 +239222,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "荣成绿茶",
       "农业农村部农产品地理标志",
       "山东",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -225736,7 +239232,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "mara",
@@ -225918,7 +239414,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荣成裙带菜",
     "en": "",
     "category": "水产动物",
-    "nature": "寒",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -228744,7 +242240,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石阡香柚",
     "en": "",
     "category": "水果",
-    "nature": "凉",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -229894,7 +243390,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "泗洪大米",
       "农业农村部农产品地理标志",
       "江苏",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -229904,7 +243400,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -230463,7 +243959,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "孙祖小米",
       "农业农村部农产品地理标志",
       "山东",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -230473,7 +243969,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -232317,7 +245813,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "通许小麦",
       "农业农村部农产品地理标志",
       "河南",
-      "cat-grain-132",
+      "peop-小麦",
       "地理标志",
       "GI"
     ],
@@ -232327,7 +245823,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "peop-小麦",
     "giSystems": [
       {
         "system": "mara",
@@ -232730,7 +246226,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "同仁豌豆",
       "农业农村部农产品地理标志",
       "青海",
-      "green-pea",
+      "peop-豌豆",
       "地理标志",
       "GI"
     ],
@@ -232740,7 +246236,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-pea",
+    "baseFoodId": "peop-豌豆",
     "giSystems": [
       {
         "system": "mara",
@@ -232937,7 +246433,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "桐庐雪水云绿茶",
       "农业农村部农产品地理标志",
       "浙江",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -232947,7 +246443,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "mara",
@@ -233351,7 +246847,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "吐列毛杜小麦粉",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "cat-grain-132",
+      "peop-小麦",
       "地理标志",
       "GI"
     ],
@@ -233361,7 +246857,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "peop-小麦",
     "giSystems": [
       {
         "system": "mara",
@@ -233403,7 +246899,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "托古小米",
       "农业农村部农产品地理标志",
       "黑龙江",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -233413,7 +246909,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -233869,7 +247365,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "万宝镇大米",
       "农业农村部农产品地理标志",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -233879,7 +247375,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -233921,7 +247417,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "万昌大米",
       "农业农村部农产品地理标志",
       "吉林",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -233931,7 +247427,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -234900,7 +248396,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "尉氏小麦",
       "农业农村部农产品地理标志",
       "河南",
-      "cat-grain-132",
+      "peop-小麦",
       "地理标志",
       "GI"
     ],
@@ -234910,7 +248406,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "peop-小麦",
     "giSystems": [
       {
         "system": "mara",
@@ -235003,7 +248499,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "温宿大米",
       "农业农村部农产品地理标志",
       "新疆",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -235013,7 +248509,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -236705,7 +250201,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "五工台红薯",
       "农业农村部农产品地理标志",
       "新疆",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -236715,7 +250211,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "mara",
@@ -236757,7 +250253,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "五家户小米",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -236767,7 +250263,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -236913,7 +250409,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "五原小麦",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "cat-grain-132",
+      "peop-小麦",
       "地理标志",
       "GI"
     ],
@@ -236923,7 +250419,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "peop-小麦",
     "giSystems": [
       {
         "system": "mara",
@@ -238505,7 +252001,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "夏家店小米",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI"
     ],
@@ -238515,7 +252011,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [
       {
         "system": "mara",
@@ -239743,7 +253239,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "新疆兵团七十三团大米",
       "农业农村部农产品地理标志",
       "新疆兵团",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -239753,7 +253249,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -242170,7 +255666,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "亚东黑木耳",
       "农业农村部农产品地理标志",
       "西藏",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -242180,7 +255676,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "mara",
@@ -242842,7 +256338,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "盐池滩鸡蛋",
       "农业农村部农产品地理标志",
       "宁夏",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI"
     ],
@@ -242852,7 +256348,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [
       {
         "system": "mara",
@@ -243463,7 +256959,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "洋县槐树关红薯",
       "农业农村部农产品地理标志",
       "陕西",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -243473,7 +256969,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "mara",
@@ -244131,7 +257627,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "沂蒙绿茶",
       "农业农村部农产品地理标志",
       "山东",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI"
     ],
@@ -244141,7 +257637,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [
       {
         "system": "mara",
@@ -244749,7 +258245,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "印江绿壳鸡蛋",
       "农业农村部农产品地理标志",
       "贵州",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI"
     ],
@@ -244759,7 +258255,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [
       {
         "system": "mara",
@@ -245776,7 +259272,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "云阳泥溪黒木耳",
       "农业农村部农产品地理标志",
       "重庆",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -245786,7 +259282,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "mara",
@@ -246240,7 +259736,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "扎赉特大米",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -246250,7 +259746,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -246343,7 +259839,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "扎兰屯大米",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -246353,7 +259849,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -246395,7 +259891,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "扎兰屯黑木耳",
       "农业农村部农产品地理标志",
       "内蒙古",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -246405,7 +259901,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "mara",
@@ -246703,7 +260199,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "柞水黑木耳",
       "农业农村部农产品地理标志",
       "陕西",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI"
     ],
@@ -246713,7 +260209,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [
       {
         "system": "mara",
@@ -247581,7 +261077,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "肇源大米",
       "农业农村部农产品地理标志",
       "黑龙江",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -247591,7 +261087,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -248561,7 +262057,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "钟祥长寿村大米",
       "农业农村部农产品地理标志",
       "湖北",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI"
     ],
@@ -248571,7 +262067,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [
       {
         "system": "mara",
@@ -248613,7 +262109,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "钟祥长寿村鸡蛋",
       "农业农村部农产品地理标志",
       "湖北",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI"
     ],
@@ -248623,7 +262119,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [
       {
         "system": "mara",
@@ -249079,7 +262575,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "紫云红芯红薯",
       "农业农村部农产品地理标志",
       "贵州",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI"
     ],
@@ -249089,7 +262585,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [
       {
         "system": "mara",
@@ -249475,6 +262971,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -249515,6 +263016,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "江西",
       "赣州",
+      "orange",
       "地理标志",
       "GI"
     ],
@@ -249524,8 +263026,13 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "orange",
     "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
       {
         "system": "mara",
         "type": "农产品地理标志",
@@ -249670,6 +263177,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -249742,6 +263254,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "mara",
         "type": "农产品地理标志",
         "label": "农业农村部农产品地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       }
     ],
     "peop": null,
@@ -249783,6 +263300,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "新疆",
       "巴州",
+      "pear",
       "地理标志",
       "GI"
     ],
@@ -249792,8 +263310,13 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "pear",
     "giSystems": [
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
+      },
       {
         "system": "mara",
         "type": "农产品地理标志",
@@ -249903,7 +263426,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "新疆",
       "哈密",
-      "mara-南湖哈密瓜",
+      "hami-melon",
       "地理标志",
       "GI"
     ],
@@ -249913,7 +263436,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "mara-南湖哈密瓜",
+    "baseFoodId": "hami-melon",
     "giSystems": [
       {
         "system": "mara",
@@ -249957,7 +263480,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "国家知识产权局地理标志",
       "浙江",
       "金华",
-      "jinhua-ham",
+      "cured-ham",
       "地理标志",
       "GI"
     ],
@@ -249967,7 +263490,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "jinhua-ham",
+    "baseFoodId": "cured-ham",
     "giSystems": [
       {
         "system": "mara",
@@ -249983,6 +263506,16 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "cnipa",
         "type": "地理标志保护产品",
         "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
+      },
+      {
+        "system": "mara",
+        "type": "农产品地理标志",
+        "label": "农业农村部农产品地理标志"
       },
       {
         "system": "mara",
@@ -250032,7 +263565,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "云南",
       "宣威",
-      "yunnan-ham",
+      "cured-ham",
       "地理标志",
       "GI"
     ],
@@ -250042,7 +263575,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "yunnan-ham",
+    "baseFoodId": "cured-ham",
     "giSystems": [
       {
         "system": "mara",
@@ -250204,7 +263737,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "重庆",
       "涪陵",
-      "zhacai",
+      "preserved-vegetable",
       "地理标志",
       "GI"
     ],
@@ -250214,7 +263747,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "zhacai",
+    "baseFoodId": "preserved-vegetable",
     "giSystems": [
       {
         "system": "mara",
@@ -250858,7 +264391,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "贵州",
       "都匀",
-      "cnipa-都匀毛尖茶",
+      "green-tea",
       "地理标志",
       "GI"
     ],
@@ -250868,7 +264401,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "绿茶",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cnipa-都匀毛尖茶",
+    "baseFoodId": "green-tea",
     "giSystems": [
       {
         "system": "mara",
@@ -251590,6 +265123,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "火腿",
       "农业农村部农产品地理标志",
       "江苏",
+      "cured-ham",
       "地理标志",
       "GI"
     ],
@@ -251599,7 +265133,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "cured-ham",
     "giSystems": [
       {
         "system": "mara",
@@ -251890,7 +265424,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“百年至尊”浓香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -251905,6 +265439,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "“百年至尊”浓香型白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -251916,7 +265451,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -251939,7 +265474,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“财富旺”“七和坊”“龙人宴” 酱香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -251954,6 +265489,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "“财富旺”“七和坊”“龙人宴” 酱香型白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -251965,7 +265501,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -251988,7 +265524,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“汾溪”清香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -252003,6 +265539,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "“汾溪”清香型白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -252014,7 +265551,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -252052,7 +265589,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "“格桑丹珠”红枸杞、黑枸杞、藜麦",
       "生态原产地保护产品",
       "CN",
-      "quinoa",
+      "peop-藜麦",
       "地理标志",
       "GI",
       "PEOP",
@@ -252064,7 +265601,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "quinoa",
+    "baseFoodId": "peop-藜麦",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -252137,7 +265674,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“京东京造·时光臻酿”、“京东京造·时光佳酿”浓香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -252152,6 +265689,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "“京东京造·时光臻酿”、“京东京造·时光佳酿”浓香型白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -252163,7 +265701,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -252285,7 +265823,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“泥坑”牌浓香型、 净雅香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -252300,6 +265838,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "“泥坑”牌浓香型、 净雅香型白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -252311,7 +265850,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -252349,7 +265888,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "“沁州”、“沁州黄”牌 沁州黄小米",
       "生态原产地保护产品",
       "CN",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI",
       "PEOP",
@@ -252361,7 +265900,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -252548,7 +266087,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "“天琪坊”牌冕宁火腿",
       "生态原产地保护产品",
       "CN",
-      "mara-冕宁火腿",
+      "cured-ham",
       "地理标志",
       "GI",
       "PEOP",
@@ -252560,7 +266099,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "mara-冕宁火腿",
+    "baseFoodId": "cured-ham",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -252598,7 +266137,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "“新河湾”黄淮白山羊、脱毒甘薯、甘薯粉丝、优质小麦及其制品",
       "生态原产地保护产品",
       "CN",
-      "cat-grain-132",
+      "peop-小麦",
       "地理标志",
       "GI",
       "PEOP",
@@ -252610,7 +266149,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "peop-小麦",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -253331,7 +266870,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "安丘白菜",
       "生态原产地保护产品",
       "CN",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI",
       "PEOP",
@@ -253343,7 +266882,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -253827,7 +267366,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "安丘小米",
       "生态原产地保护产品",
       "CN",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI",
       "PEOP",
@@ -253839,7 +267378,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -254076,7 +267615,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "巴塘甲着小麦",
       "生态原产地保护产品",
       "CN",
-      "cat-grain-132",
+      "peop-小麦",
       "地理标志",
       "GI",
       "PEOP",
@@ -254088,7 +267627,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "peop-小麦",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -254126,7 +267665,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "白菜",
       "生态原产地保护产品",
       "CN",
-      "cat-veg-187",
+      "cnipa-阿城大白菜",
       "地理标志",
       "GI",
       "PEOP",
@@ -254138,7 +267677,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "cnipa-阿城大白菜",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -254573,7 +268112,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "宝墩大米",
       "生态原产地保护产品",
       "CN",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI",
       "PEOP",
@@ -254585,7 +268124,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -254805,7 +268344,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "菠菜",
     "en": "",
     "category": "滋补食材",
-    "nature": "凉",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],
@@ -254820,7 +268359,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "菠菜",
       "生态原产地保护产品",
       "CN",
-      "spinach",
+      "cnipa-洪兰菠菜",
       "地理标志",
       "GI",
       "PEOP",
@@ -254832,7 +268371,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "spinach",
+    "baseFoodId": "cnipa-洪兰菠菜",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -255516,7 +269055,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "大米",
       "生态原产地保护产品",
       "CN",
-      "rice",
+      "cnipa-阿城大米",
       "地理标志",
       "GI",
       "PEOP",
@@ -255528,7 +269067,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "cnipa-阿城大米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -255566,7 +269105,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "大米小米",
       "生态原产地保护产品",
       "CN",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI",
       "PEOP",
@@ -255578,7 +269117,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -255815,7 +269354,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "丹参、黄芩、泽兰及初级加工产品",
       "生态原产地保护产品",
       "CN",
-      "peop-泽兰及初级加工产品",
+      "scutellaria-baicalensis",
       "地理标志",
       "GI",
       "PEOP",
@@ -255827,7 +269366,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "peop-泽兰及初级加工产品",
+    "baseFoodId": "scutellaria-baicalensis",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -255978,7 +269517,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "杜良大米",
       "生态原产地保护产品",
       "CN",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI",
       "PEOP",
@@ -255990,7 +269529,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -256225,7 +269764,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "繁昌县凤祥生态养殖场五华鸡、鸡蛋",
       "生态原产地保护产品",
       "CN",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI",
       "PEOP",
@@ -256237,7 +269776,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -257119,7 +270658,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "甘薯粉丝",
       "生态原产地保护产品",
       "CN",
-      "vermicelli",
+      "peop-新河湾-黄淮白山羊-脱毒甘薯-甘薯粉丝-优质小麦及其制品",
       "地理标志",
       "GI",
       "PEOP",
@@ -257131,7 +270670,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "vermicelli",
+    "baseFoodId": "peop-新河湾-黄淮白山羊-脱毒甘薯-甘薯粉丝-优质小麦及其制品",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -257909,7 +271448,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "贵州杜康酱香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -257924,6 +271463,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "贵州杜康酱香型白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -257935,7 +271475,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -258369,7 +271909,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "黑枸杞",
       "生态原产地保护产品",
       "CN",
-      "goji-berry",
+      "peop-格桑丹珠-红枸杞-黑枸杞-藜麦",
       "地理标志",
       "GI",
       "PEOP",
@@ -258381,7 +271921,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "goji-berry",
+    "baseFoodId": "peop-格桑丹珠-红枸杞-黑枸杞-藜麦",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -258517,7 +272057,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "黑米",
       "生态原产地保护产品",
       "CN",
-      "cat-grain-125",
+      "cnipa-师寨黑米醋",
       "地理标志",
       "GI",
       "PEOP",
@@ -258529,7 +272069,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-125",
+    "baseFoodId": "cnipa-师寨黑米醋",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -258567,7 +272107,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "红薯",
       "生态原产地保护产品",
       "CN",
-      "sweet-potato",
+      "cnipa-茶亭沟红薯",
       "地理标志",
       "GI",
       "PEOP",
@@ -258579,7 +272119,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "cnipa-茶亭沟红薯",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -258767,7 +272307,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "呼兰区鸡蛋",
       "生态原产地保护产品",
       "CN",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI",
       "PEOP",
@@ -258779,7 +272319,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -259450,7 +272990,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄河牌、午城牌清香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -259465,6 +273005,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "黄河牌、午城牌清香型白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -259476,7 +273017,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -259664,7 +273205,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "鸡蛋",
       "生态原产地保护产品",
       "CN",
-      "egg",
+      "cnipa-黑山褐壳鸡蛋",
       "地理标志",
       "GI",
       "PEOP",
@@ -259676,7 +273217,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "cnipa-黑山褐壳鸡蛋",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -259764,7 +273305,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "吉内得”非转基因常规大米",
       "生态原产地保护产品",
       "CN",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI",
       "PEOP",
@@ -259776,7 +273317,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -259814,7 +273355,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "吉内得大米",
       "生态原产地保护产品",
       "CN",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI",
       "PEOP",
@@ -259826,7 +273367,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -260857,7 +274398,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "津沽宁河大米",
       "生态原产地保护产品",
       "CN",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI",
       "PEOP",
@@ -260869,7 +274410,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -260892,7 +274433,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "景阳冈白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -260907,6 +274448,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "景阳冈白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -260918,7 +274460,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -260941,7 +274483,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "景阳冈牌白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -260956,6 +274498,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "景阳冈牌白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -260967,7 +274510,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -261105,7 +274648,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "科左后旗大米",
       "生态原产地保护产品",
       "CN",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI",
       "PEOP",
@@ -261117,7 +274660,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -261352,7 +274895,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "库布齐甘草",
       "生态原产地保护产品",
       "CN",
-      "glycyrrhiza-uralensis",
+      "peop-库布齐黄牛-库布齐山羊-库布齐甘草",
       "地理标志",
       "GI",
       "PEOP",
@@ -261364,7 +274907,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "glycyrrhiza-uralensis",
+    "baseFoodId": "peop-库布齐黄牛-库布齐山羊-库布齐甘草",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -261900,7 +275443,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "藜麦",
       "生态原产地保护产品",
       "CN",
-      "quinoa",
+      "peop-格桑丹珠-红枸杞-黑枸杞-藜麦",
       "地理标志",
       "GI",
       "PEOP",
@@ -261912,7 +275455,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "quinoa",
+    "baseFoodId": "peop-格桑丹珠-红枸杞-黑枸杞-藜麦",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -262000,7 +275543,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "理县大白菜",
       "生态原产地保护产品",
       "CN",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI",
       "PEOP",
@@ -262012,7 +275555,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -262149,7 +275692,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "联合社鸡蛋",
       "生态原产地保护产品",
       "CN",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI",
       "PEOP",
@@ -262161,7 +275704,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -262894,7 +276437,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "绿茶",
       "生态原产地保护产品",
       "CN",
-      "green-tea",
+      "cnipa-柏泉绿茶",
       "地理标志",
       "GI",
       "PEOP",
@@ -262906,7 +276449,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "cnipa-柏泉绿茶",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -263078,7 +276621,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茅台镇五星牌酱香白酒 ·镇牌 酱香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -263093,6 +276636,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "茅台镇五星牌酱香白酒 ·镇牌 酱香型白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -263104,7 +276648,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -263789,7 +277333,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "茉莉绿茶固体饮料",
       "生态原产地保护产品",
       "CN",
-      "green-tea",
+      "peop-绿茶",
       "地理标志",
       "GI",
       "PEOP",
@@ -263801,7 +277345,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-tea",
+    "baseFoodId": "peop-绿茶",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -263888,7 +277432,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "木耳",
       "生态原产地保护产品",
       "CN",
-      "wood-ear",
+      "cnipa-大村黑木耳",
       "地理标志",
       "GI",
       "PEOP",
@@ -263900,7 +277444,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "cnipa-大村黑木耳",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -263938,7 +277482,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "那年愿有机小米",
       "生态原产地保护产品",
       "CN",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI",
       "PEOP",
@@ -263950,7 +277494,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -263988,7 +277532,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "南京远望富硒农产品有限责任公司 富硒大米",
       "生态原产地保护产品",
       "CN",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI",
       "PEOP",
@@ -264000,7 +277544,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -264236,7 +277780,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "内蒙古多伦大北沟蔬菜（大白菜）",
       "生态原产地保护产品",
       "CN",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI",
       "PEOP",
@@ -264248,7 +277792,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -265078,7 +278622,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "七里海河蟹",
       "生态原产地保护产品",
       "CN",
-      "river-crab",
+      "mitten-crab",
       "地理标志",
       "GI",
       "PEOP",
@@ -265090,7 +278634,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "river-crab",
+    "baseFoodId": "mitten-crab",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -265362,7 +278906,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黔醉传承、黔醉原、黔醉老、黔醉酒庄酱香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -265377,6 +278921,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "黔醉传承、黔醉原、黔醉老、黔醉酒庄酱香型白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -265388,7 +278933,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -265509,7 +279054,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青花瓷清香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -265524,6 +279069,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "青花瓷清香型白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -265535,7 +279081,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -265573,7 +279119,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "庆安九河原牌大米",
       "生态原产地保护产品",
       "CN",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI",
       "PEOP",
@@ -265585,7 +279131,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -266154,7 +279700,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山西 “庞泉牌”清香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -266169,6 +279715,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "山西 “庞泉牌”清香型白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -266180,7 +279727,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -266649,7 +280196,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "佘太酒业清香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -266664,6 +280211,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "佘太酒业清香型白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -266675,7 +280223,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -266862,7 +280410,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "石榴",
       "生态原产地保护产品",
       "CN",
-      "pomegranate",
+      "cnipa-大田石榴",
       "地理标志",
       "GI",
       "PEOP",
@@ -266874,7 +280422,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "pomegranate",
+    "baseFoodId": "cnipa-大田石榴",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -267210,7 +280758,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "太白高山白菜",
       "生态原产地保护产品",
       "CN",
-      "cat-veg-187",
+      "peop-白菜",
       "地理标志",
       "GI",
       "PEOP",
@@ -267222,7 +280770,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-187",
+    "baseFoodId": "peop-白菜",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -267707,7 +281255,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "突泉小米",
       "生态原产地保护产品",
       "CN",
-      "millet",
+      "peop-小米",
       "地理标志",
       "GI",
       "PEOP",
@@ -267719,7 +281267,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "peop-小米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -267840,7 +281388,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "土鸡、土鸡蛋",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -267855,7 +281403,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "土鸡、土鸡蛋",
       "生态原产地保护产品",
       "CN",
-      "egg",
+      "peop-鸡蛋",
       "地理标志",
       "GI",
       "PEOP",
@@ -267867,7 +281415,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "egg",
+    "baseFoodId": "peop-鸡蛋",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -268005,7 +281553,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "脱皮低芥酸菜籽油",
       "生态原产地保护产品",
       "CN",
-      "peop-菜籽油",
+      "peop-芝麻油-茶油-脱皮低芥酸菜籽油",
       "地理标志",
       "GI",
       "PEOP",
@@ -268017,7 +281565,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "peop-菜籽油",
+    "baseFoodId": "peop-芝麻油-茶油-脱皮低芥酸菜籽油",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -268105,7 +281653,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "豌豆",
       "生态原产地保护产品",
       "CN",
-      "green-pea",
+      "mara-龙里豌豆尖",
       "地理标志",
       "GI",
       "PEOP",
@@ -268117,7 +281665,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "green-pea",
+    "baseFoodId": "mara-龙里豌豆尖",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -268763,7 +282311,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "五常福神稻小罐米、明泽大米",
       "生态原产地保护产品",
       "CN",
-      "rice",
+      "peop-大米",
       "地理标志",
       "GI",
       "PEOP",
@@ -268775,7 +282323,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "rice",
+    "baseFoodId": "peop-大米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -269435,7 +282983,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "小麦",
       "生态原产地保护产品",
       "CN",
-      "cat-grain-132",
+      "cnipa-蓼兰小麦",
       "地理标志",
       "GI",
       "PEOP",
@@ -269447,7 +282995,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "cnipa-蓼兰小麦",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -269485,7 +283033,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "小米",
       "生态原产地保护产品",
       "CN",
-      "millet",
+      "cnipa-大宁红皮小米",
       "地理标志",
       "GI",
       "PEOP",
@@ -269497,7 +283045,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "millet",
+    "baseFoodId": "cnipa-大宁红皮小米",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -270380,7 +283928,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "亚东野生木耳 （珍珠黑耳）",
       "生态原产地保护产品",
       "CN",
-      "wood-ear",
+      "peop-木耳",
       "地理标志",
       "GI",
       "PEOP",
@@ -270392,7 +283940,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ear",
+    "baseFoodId": "peop-木耳",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -271091,7 +284639,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "优质小麦及其制品",
       "生态原产地保护产品",
       "CN",
-      "cat-grain-132",
+      "peop-新河湾-黄淮白山羊-脱毒甘薯-甘薯粉丝-优质小麦及其制品",
       "地理标志",
       "GI",
       "PEOP",
@@ -271103,7 +284651,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-grain-132",
+    "baseFoodId": "peop-新河湾-黄淮白山羊-脱毒甘薯-甘薯粉丝-优质小麦及其制品",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -271584,7 +285132,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "枣庄市瑞达粉业公司的红薯",
       "生态原产地保护产品",
       "CN",
-      "sweet-potato",
+      "peop-红薯",
       "地理标志",
       "GI",
       "PEOP",
@@ -271596,7 +285144,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sweet-potato",
+    "baseFoodId": "peop-红薯",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -271684,7 +285232,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "泽兰及初级加工产品",
       "生态原产地保护产品",
       "CN",
-      "lycopus-lucidus",
+      "peop-丹参-黄芩-泽兰及初级加工产品",
       "地理标志",
       "GI",
       "PEOP",
@@ -271696,7 +285244,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "lycopus-lucidus",
+    "baseFoodId": "peop-丹参-黄芩-泽兰及初级加工产品",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -271931,7 +285479,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "芝麻油",
       "生态原产地保护产品",
       "CN",
-      "sesame",
+      "peop-芝麻油-茶油-脱皮低芥酸菜籽油",
       "地理标志",
       "GI",
       "PEOP",
@@ -271943,7 +285491,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "sesame",
+    "baseFoodId": "peop-芝麻油-茶油-脱皮低芥酸菜籽油",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -272578,7 +286126,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "紫薯",
       "生态原产地保护产品",
       "CN",
-      "cat-veg-226",
+      "peop-蓝莓-金银花-紫薯-不老莓-辣椒-土鸡-羊",
       "地理标志",
       "GI",
       "PEOP",
@@ -272590,7 +286138,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-veg-226",
+    "baseFoodId": "peop-蓝莓-金银花-紫薯-不老莓-辣椒-土鸡-羊",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -272662,7 +286210,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "醉黔古、识金、子路、金钻礼、王泰斗、丞酱师 酱香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -272677,6 +286225,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "醉黔古、识金、子路、金钻礼、王泰斗、丞酱师 酱香型白酒",
       "生态原产地保护产品",
       "CN",
+      "baijiu-cooking",
       "地理标志",
       "GI",
       "PEOP",
@@ -272688,7 +286237,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "baijiu-cooking",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -272776,7 +286325,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "左云 “雁门清高”牌苦荞健茶、苦荞米、苦荞粉",
       "生态原产地保护产品",
       "CN",
-      "tartary-buckwheat",
+      "peop-左云-雁门清高-牌苦荞健茶-苦荞米-苦荞粉-脱苦苦荞粉-纯苦荞面",
       "地理标志",
       "GI",
       "PEOP",
@@ -272788,7 +286337,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "tartary-buckwheat",
+    "baseFoodId": "peop-左云-雁门清高-牌苦荞健茶-苦荞米-苦荞粉-脱苦苦荞粉-纯苦荞面",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -273252,6 +286801,11 @@ const ORIGIN_PRODUCT_FOODS = [
         "system": "provincial",
         "type": "省级地理标志",
         "label": "福建省级地理标志"
+      },
+      {
+        "system": "cnipa",
+        "type": "地理标志保护产品",
+        "label": "国家知识产权局地理标志"
       },
       {
         "system": "cnipa",

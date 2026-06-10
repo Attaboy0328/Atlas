@@ -20,9 +20,24 @@
     "note": "auto: duplicate name「阿根廷红虾」→ prawn-red-argentine"
   },
   {
+    "alias": "arrowhead-tuber",
+    "canonical": "arrowhead",
+    "note": "auto: duplicate name「慈姑」→ arrowhead"
+  },
+  {
     "alias": "astragalus-membranaceus",
     "canonical": "astragalus",
     "note": "黄芪药典 id 归并到 catalog 短 id"
+  },
+  {
+    "alias": "bamboo-shoot-spring",
+    "canonical": "spring-bamboo-shoot",
+    "note": "auto: duplicate name「春笋」→ spring-bamboo-shoot"
+  },
+  {
+    "alias": "basil-fresh",
+    "canonical": "basil",
+    "note": "auto: duplicate name「罗勒」→ basil"
   },
   {
     "alias": "biangbiang-noodles",
@@ -85,6 +100,11 @@
     "note": "auto: duplicate name「毛豆」→ edamame"
   },
   {
+    "alias": "cat-bean-product-175",
+    "canonical": "natto",
+    "note": "纳豆 bulk 归并"
+  },
+  {
     "alias": "cat-bean-product-176",
     "canonical": "douchi",
     "note": "auto: duplicate name「豆豉」→ douchi"
@@ -130,6 +150,11 @@
     "note": "auto: duplicate name「豆瓣酱」→ doubanjiang"
   },
   {
+    "alias": "cat-condiment-012",
+    "canonical": "tahini",
+    "note": "auto: bulk duplicate「芝麻酱」→ tahini"
+  },
+  {
     "alias": "cat-condiment-017",
     "canonical": "fermented-tofu",
     "note": "auto: duplicate name「腐乳」→ fermented-tofu"
@@ -145,6 +170,11 @@
     "note": "auto: duplicate name「料酒」→ cooking-wine"
   },
   {
+    "alias": "cat-condiment-022",
+    "canonical": "huangjiu",
+    "note": "auto: bulk duplicate「黄酒」→ huangjiu"
+  },
+  {
     "alias": "cat-condiment-028",
     "canonical": "soy-sauce",
     "note": "auto: duplicate name「酱油」→ soy-sauce"
@@ -153,6 +183,11 @@
     "alias": "cat-condiment-031",
     "canonical": "oyster-sauce",
     "note": "auto: duplicate name「蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cat-condiment-033",
+    "canonical": "miso",
+    "note": "味噌 bulk 归并"
   },
   {
     "alias": "cat-condiment-034",
@@ -180,9 +215,34 @@
     "note": "auto: duplicate name「芝麻油」→ sesame-oil"
   },
   {
+    "alias": "cat-condiment-057",
+    "canonical": "butter",
+    "note": "auto: bulk duplicate「黄油」→ butter"
+  },
+  {
+    "alias": "cat-condiment-069",
+    "canonical": "rosemary",
+    "note": "auto: bulk duplicate「迷迭香」→ rosemary"
+  },
+  {
+    "alias": "cat-condiment-070",
+    "canonical": "thyme",
+    "note": "auto: bulk duplicate「百里香」→ thyme"
+  },
+  {
+    "alias": "cat-condiment-072",
+    "canonical": "oregano-dried",
+    "note": "auto: bulk duplicate「牛至」→ oregano-dried"
+  },
+  {
     "alias": "cat-condiment-073",
     "canonical": "basil",
     "note": "auto: duplicate name「罗勒」→ basil"
+  },
+  {
+    "alias": "cat-condiment-074",
+    "canonical": "parsley",
+    "note": "auto: bulk duplicate「欧芹」→ parsley"
   },
   {
     "alias": "cat-fruit-336",
@@ -268,6 +328,11 @@
     "alias": "cat-fungi-325",
     "canonical": "yuanmo",
     "note": "auto: duplicate name「元蘑」→ yuanmo"
+  },
+  {
+    "alias": "cat-fungi-328",
+    "canonical": "wood-ear-mushroom",
+    "note": "auto: bulk duplicate「黑木耳」→ wood-ear-mushroom"
   },
   {
     "alias": "cat-grain-127",
@@ -515,6 +580,11 @@
     "note": "陈皮"
   },
   {
+    "alias": "clam-razor-summer",
+    "canonical": "clam",
+    "note": "auto: duplicate name「蛤蜊」→ clam"
+  },
+  {
     "alias": "codonopsis-pilosula",
     "canonical": "codonopsis",
     "note": "党参"
@@ -658,6 +728,11 @@
     "alias": "mume-fructus",
     "canonical": "smoked-plum",
     "note": "乌梅"
+  },
+  {
+    "alias": "mungbean-sprouts",
+    "canonical": "mung-bean-sprout",
+    "note": "auto: duplicate name「绿豆芽」→ mung-bean-sprout"
   },
   {
     "alias": "needle-mushroom",
@@ -885,6 +960,11 @@
     "note": "枸杞 official 条目"
   },
   {
+    "alias": "official-medlar-leaf",
+    "canonical": "goji-leaf",
+    "note": "auto: bulk duplicate「枸杞叶」→ goji-leaf"
+  },
+  {
     "alias": "official-morinda",
     "canonical": "morinda-officinalis",
     "note": "auto: bulk duplicate「巴戟天」→ morinda-officinalis"
@@ -1020,6 +1100,11 @@
     "note": "auto: duplicate name「生蚝」→ oyster"
   },
   {
+    "alias": "pickled-mustard-greens",
+    "canonical": "pickled-mustard",
+    "note": "auto: duplicate name「雪里蕻」→ pickled-mustard"
+  },
+  {
     "alias": "pine-nut-kernel",
     "canonical": "official-pine-nut",
     "note": "auto: duplicate name「松子仁」→ official-pine-nut"
@@ -1070,6 +1155,16 @@
     "note": "auto: duplicate name「河蚌」→ river-mussel"
   },
   {
+    "alias": "river-crab",
+    "canonical": "mitten-crab",
+    "note": "auto: duplicate name「河蟹」→ mitten-crab"
+  },
+  {
+    "alias": "river-shrimp-spring",
+    "canonical": "river-shrimp",
+    "note": "auto: duplicate name「河虾」→ river-shrimp"
+  },
+  {
     "alias": "seaweed",
     "canonical": "nori",
     "note": "auto: duplicate name「紫菜」→ nori"
@@ -1100,6 +1195,11 @@
     "note": "auto: duplicate name「肠粉」→ rice-roll"
   },
   {
+    "alias": "shepherd-purse",
+    "canonical": "shepherds-purse",
+    "note": "auto: duplicate name「荠菜」→ shepherds-purse"
+  },
+  {
     "alias": "silver-fish-fresh",
     "canonical": "whitebait",
     "note": "auto: duplicate name「银鱼」→ whitebait"
@@ -1120,9 +1220,29 @@
     "note": "auto: duplicate name「酸笋」→ dai-sour-bamboo"
   },
   {
+    "alias": "soybean-sprouts",
+    "canonical": "soybean-sprout",
+    "note": "auto: duplicate name「黄豆芽」→ soybean-sprout"
+  },
+  {
     "alias": "steak",
     "canonical": "beef-steak",
     "note": "西式牛排检索别名"
+  },
+  {
+    "alias": "swimming-crab-spring",
+    "canonical": "swimming-crab",
+    "note": "auto: duplicate name「梭子蟹」→ swimming-crab"
+  },
+  {
+    "alias": "taro-corm",
+    "canonical": "taro",
+    "note": "auto: duplicate name「芋头」→ taro"
+  },
+  {
+    "alias": "toon-sprout",
+    "canonical": "toona-sprout",
+    "note": "auto: duplicate name「香椿芽」→ toona-sprout"
   },
   {
     "alias": "tremella",
@@ -1165,9 +1285,19 @@
     "note": "auto: duplicate name「虫草花」→ cordyceps-flower"
   },
   {
+    "alias": "yuzu-fruit",
+    "canonical": "pomelo",
+    "note": "auto: duplicate name「柚子」→ pomelo"
+  },
+  {
     "alias": "zanthoxylum-bungeanum-peel",
     "canonical": "sichuan-pepper",
     "note": "花椒"
+  },
+  {
+    "alias": "zhacai",
+    "canonical": "preserved-vegetable",
+    "note": "auto: duplicate name「榨菜」→ preserved-vegetable"
   },
   {
     "alias": "zingiber-officinale-fresh",

@@ -113,7 +113,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-013",
@@ -206,7 +207,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-023",
@@ -528,7 +530,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-058",
@@ -636,7 +639,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-070",
@@ -645,7 +649,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-071",
@@ -663,7 +668,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-073",
@@ -682,7 +688,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-075",
@@ -3048,7 +3055,8 @@
     "nature": "平",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-fungi-329",

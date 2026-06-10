@@ -2164,7 +2164,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "yibin-yacai",
@@ -8895,7 +8896,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-mulberry",

@@ -227,7 +227,11 @@ const enhancedBulk = rawBulk
 
 function buildFoodSearchSynonymMap() {
   const map = {};
-  ["food-search-synonyms.json", "origin-search-synonyms.json"].forEach((file) => {
+  [
+    "food-search-synonyms.json",
+    "food-search-synonyms-batch5.json",
+    "origin-search-synonyms.json"
+  ].forEach((file) => {
     readJson(file, []).forEach((row) => {
       const term = String(row.term || "").trim().toLowerCase();
       const foodId = String(row.foodId || "").trim();
@@ -248,7 +252,8 @@ function loadPairingRulesAll() {
     ...readJson("pairing-rules-extra.json"),
     ...readJson("pairing-rules-extra-batch2.json", []),
     ...readJson("pairing-rules-extra-batch3.json", []),
-    ...readJson("pairing-rules-extra-batch4.json", [])
+    ...readJson("pairing-rules-extra-batch4.json", []),
+    ...readJson("pairing-rules-extra-batch5.json", [])
   ];
 }
 

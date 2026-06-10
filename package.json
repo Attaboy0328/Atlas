@@ -11,7 +11,7 @@
     "materialize:origin": "node scripts/materialize-origin-manifest.mjs",
     "consolidate:aliases": "node scripts/consolidate-duplicate-aliases.mjs --write",
     "ingest:origin": "node scripts/ingest-origin-products.mjs && node scripts/build-origin-data.mjs",
-    "test": "npm run validate-data && node scripts/audit-data.mjs && node scripts/audit-search-visibility.mjs && node scripts/audit-origin-search.mjs && node scripts/audit-origin-data-quality.mjs",
+    "test": "npm run validate-data && node scripts/audit-data.mjs && node scripts/audit-search-visibility.mjs && node scripts/audit-origin-search.mjs && node scripts/audit-origin-data-quality.mjs && node scripts/audit-ingredient-catalog.mjs",
     "sync:origin-monthly": "node scripts/monthly-origin-daodi-sync.mjs",
     "sync:gi-full": "node scripts/fetch-dao-di-chinadaodiyaocai.mjs && node scripts/ingest-dao-di-profiles.mjs && node scripts/fetch-cnipa-gi-from-pdfs.mjs && node scripts/fetch-mara-agi-greenfood.mjs && node scripts/fetch-peop-announcements.mjs && node scripts/build-dao-di-origin-stubs.mjs && node scripts/build-mara-peop-origin-stubs.mjs && node scripts/import-gi-full-catalog.mjs",
     "fetch:mara-agi": "node scripts/fetch-mara-agi-greenfood.mjs",

@@ -1,0 +1,635 @@
+[
+  {
+    "id": "shepherd-purse",
+    "name": "荠菜",
+    "en": "shepherd's purse",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "明目"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "安徽"
+    ],
+    "aliases": [
+      "地米菜",
+      "护生草"
+    ],
+    "pinyin": "jicai",
+    "initials": "jc",
+    "searchTerms": [
+      "jicai",
+      "jc",
+      "荠菜",
+      "地米菜"
+    ],
+    "summary": "春季常见野菜，清香脆嫩，包饺子与煮汤皆宜。",
+    "caution": "脾胃虚寒、孕妇慎大量药用。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "malantou",
+    "name": "马兰头",
+    "en": "kalimeris",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "凉血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "安徽"
+    ],
+    "aliases": [
+      "马兰",
+      "红梗菜"
+    ],
+    "pinyin": "malantou",
+    "initials": "mlt",
+    "searchTerms": [
+      "malantou",
+      "mlt",
+      "马兰头"
+    ],
+    "summary": "江南春野菜，凉拌或香干炒制常见。",
+    "caution": "脾胃虚寒者不宜多食生冷。"
+  },
+  {
+    "id": "toon-sprout",
+    "name": "香椿芽",
+    "en": "toon sprout",
+    "category": "野菜",
+    "nature": "温",
+    "effects": [
+      "行气",
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河南",
+      "安徽"
+    ],
+    "aliases": [
+      "香椿",
+      "春芽"
+    ],
+    "pinyin": "xiangchunya",
+    "initials": "xcy",
+    "searchTerms": [
+      "xiangchunya",
+      "xcy",
+      "香椿",
+      "香椿芽"
+    ],
+    "summary": "春季香椿嫩梢，炒蛋或凉拌，香气独特。",
+    "caution": "含硝酸盐，沸水焯烫后再食；阴虚火旺者适量。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "bamboo-shoot-spring",
+    "name": "春笋",
+    "en": "spring bamboo shoot",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "化痰"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建",
+      "四川"
+    ],
+    "aliases": [
+      "冬笋",
+      "雷笋"
+    ],
+    "pinyin": "chunsun",
+    "initials": "cs",
+    "searchTerms": [
+      "chunsun",
+      "cs",
+      "春笋",
+      "雷笋"
+    ],
+    "summary": "春季鲜笋，清炒、油焖或腌笃鲜常用。",
+    "caution": "草酸与粗纤维较高，痛风与胃溃疡者适量，宜充分烹熟。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "water-chestnut",
+    "name": "马蹄",
+    "en": "water chestnut",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西",
+      "广东",
+      "福建"
+    ],
+    "aliases": [
+      "荸荠",
+      "地梨"
+    ],
+    "pinyin": "mati",
+    "initials": "mt",
+    "searchTerms": [
+      "mati",
+      "mt",
+      "马蹄",
+      "荸荠"
+    ],
+    "summary": "水生根茎，清脆多汁，生食、煲汤或做馅。",
+    "caution": "生食需洗净，脾胃虚寒者不宜多食生冷。"
+  },
+  {
+    "id": "water-shield",
+    "name": "莼菜",
+    "en": "water shield",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "润燥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江"
+    ],
+    "aliases": [
+      "太湖莼菜"
+    ],
+    "pinyin": "chuncai",
+    "initials": "cc",
+    "searchTerms": [
+      "chuncai",
+      "cc",
+      "莼菜"
+    ],
+    "summary": "水生嫩叶，滑腻清香，西湖莼菜羹为代表。",
+    "caution": "脾胃虚寒者不宜多食生冷。"
+  },
+  {
+    "id": "enoki-mushroom",
+    "name": "金针菇",
+    "en": "enoki mushroom",
+    "category": "菌菇",
+    "nature": "凉",
+    "effects": [
+      "和胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河北",
+      "山东",
+      "浙江"
+    ],
+    "pinyin": "jinzhengu",
+    "initials": "jzg",
+    "searchTerms": [
+      "jinzhengu",
+      "jzg",
+      "金针菇"
+    ],
+    "summary": "常见食用菌，火锅与凉拌常用，口感爽滑。",
+    "caution": "需煮熟透，消化不良者适量。"
+  },
+  {
+    "id": "king-oyster-mushroom",
+    "name": "杏鲍菇",
+    "en": "king oyster mushroom",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北",
+      "福建"
+    ],
+    "pinyin": "xingbaogu",
+    "initials": "xbg",
+    "searchTerms": [
+      "xingbaogu",
+      "xbg",
+      "杏鲍菇"
+    ],
+    "summary": "肉质厚实食用菌，煎烤或干锅皆宜。",
+    "caution": "真菌过敏者禁用。"
+  },
+  {
+    "id": "wood-ear-mushroom",
+    "name": "黑木耳",
+    "en": "wood ear",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "润燥",
+      "活血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "吉林",
+      "浙江"
+    ],
+    "aliases": [
+      "云耳",
+      "木耳"
+    ],
+    "pinyin": "heimuer",
+    "initials": "hme",
+    "searchTerms": [
+      "heimuer",
+      "hme",
+      "黑木耳",
+      "木耳"
+    ],
+    "summary": "胶质食用菌，凉拌、炒菜与煲汤常用。",
+    "caution": "出血倾向、手术前后慎大量活血类食用菌；须泡发充分并煮熟。"
+  },
+  {
+    "id": "fern-shoot",
+    "name": "蕨菜",
+    "en": "fern shoot",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "滑肠"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "吉林",
+      "云南"
+    ],
+    "aliases": [
+      "拳头菜"
+    ],
+    "pinyin": "juecai",
+    "initials": "jc",
+    "searchTerms": [
+      "juecai",
+      "蕨菜"
+    ],
+    "summary": "山野蕨类嫩梢，焯水后炒食或凉拌。",
+    "caution": "须充分焯水去原蕨苷；不宜大量长期食用。"
+  },
+  {
+    "id": "goji-leaf",
+    "name": "枸杞叶",
+    "en": "goji leaf",
+    "category": "野菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "明目"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "宁夏",
+      "甘肃",
+      "广东"
+    ],
+    "aliases": [
+      "枸杞菜",
+      "天精草"
+    ],
+    "pinyin": "gouqiye",
+    "initials": "gqy",
+    "searchTerms": [
+      "gouqiye",
+      "gqy",
+      "枸杞叶"
+    ],
+    "summary": "枸杞嫩叶，滚汤或清炒，岭南家常。",
+    "caution": "脾胃虚寒腹泻者适量。"
+  },
+  {
+    "id": "sweet-potato-leaf",
+    "name": "红薯叶",
+    "en": "sweet potato leaf",
+    "category": "野菜",
+    "nature": "平",
+    "effects": [
+      "通便",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建",
+      "湖南"
+    ],
+    "aliases": [
+      "地瓜叶"
+    ],
+    "pinyin": "hongshuye",
+    "initials": "hsy",
+    "searchTerms": [
+      "hongshuye",
+      "hsy",
+      "红薯叶",
+      "地瓜叶"
+    ],
+    "summary": "红薯嫩梢，清炒或蒜蓉，纤维丰富。",
+    "caution": "胃酸过多者不宜空腹大量。"
+  },
+  {
+    "id": "taro-corm",
+    "name": "芋头",
+    "en": "taro",
+    "category": "薯类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东",
+      "福建",
+      "广西"
+    ],
+    "aliases": [
+      "芋艿",
+      "荔浦芋头"
+    ],
+    "pinyin": "yutou",
+    "initials": "yt",
+    "searchTerms": [
+      "yutou",
+      "yt",
+      "芋头",
+      "芋艿"
+    ],
+    "summary": "淀粉质根茎，蒸焖粉糯，扣肉与甜品常用。",
+    "caution": "须煮熟去草酸；胀气者适量。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "arrowhead-tuber",
+    "name": "慈姑",
+    "en": "arrowhead",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "润肺"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江"
+    ],
+    "pinyin": "cigu",
+    "initials": "cg",
+    "searchTerms": [
+      "cigu",
+      "cg",
+      "慈姑"
+    ],
+    "summary": "水生球茎，江南秋冬时令，红烧或煲汤。",
+    "caution": "须煮熟；消化不良者适量。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "okra",
+    "name": "秋葵",
+    "en": "okra",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "润肠",
+      "和胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南",
+      "广东",
+      "福建"
+    ],
+    "aliases": [
+      "羊角豆"
+    ],
+    "pinyin": "qiukui",
+    "initials": "qk",
+    "searchTerms": [
+      "qiukui",
+      "qk",
+      "秋葵",
+      "羊角豆"
+    ],
+    "summary": "黏液质蔬菜，焯水凉拌或清炒。",
+    "caution": "脾胃虚寒、腹泻者不宜生食过多。"
+  },
+  {
+    "id": "edamame",
+    "name": "毛豆",
+    "en": "edamame",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "高蛋白"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "安徽",
+      "浙江"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "pinyin": "maodou",
+    "initials": "md",
+    "searchTerms": [
+      "maodou",
+      "md",
+      "毛豆"
+    ],
+    "summary": "鲜食大豆荚，水煮或炒制，夏令常见。",
+    "caution": "胀气体质适量；须煮熟。"
+  },
+  {
+    "id": "mung-bean-sprout",
+    "name": "绿豆芽",
+    "en": "mung bean sprout",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北",
+      "江苏"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "pinyin": "lvdouya",
+    "initials": "ldy",
+    "searchTerms": [
+      "lvdouya",
+      "ldy",
+      "绿豆芽"
+    ],
+    "summary": "绿豆萌发嫩芽，清炒凉拌，清脆爽口。",
+    "caution": "脾胃虚寒者不宜生食过多。"
+  },
+  {
+    "id": "soybean-sprout",
+    "name": "黄豆芽",
+    "en": "soybean sprout",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "健脾",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河南",
+      "江苏"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "pinyin": "huangdouya",
+    "initials": "hdy",
+    "searchTerms": [
+      "huangdouya",
+      "hdy",
+      "黄豆芽"
+    ],
+    "summary": "黄豆萌发，炖菜与炒食，口感脆嫩。",
+    "caution": "须煮熟，痛风者适量。"
+  },
+  {
+    "id": "preserved-vegetable",
+    "name": "榨菜",
+    "en": "preserved mustard tuber",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆",
+      "浙江"
+    ],
+    "aliases": [
+      "涪陵榨菜"
+    ],
+    "pinyin": "zhacai",
+    "initials": "zc",
+    "searchTerms": [
+      "zhacai",
+      "zc",
+      "榨菜"
+    ],
+    "summary": "芥菜头腌渍制品，咸脆开胃，配粥面条。",
+    "caution": "高盐，高血压与肾病者控量。"
+  },
+  {
+    "id": "pickled-mustard-greens",
+    "name": "雪里蕻",
+    "en": "pickled potherb mustard",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "江苏",
+      "上海"
+    ],
+    "aliases": [
+      "雪菜",
+      "雪里红"
+    ],
+    "pinyin": "xuelihong",
+    "initials": "xlh",
+    "searchTerms": [
+      "xuelihong",
+      "xlh",
+      "雪里蕻",
+      "雪菜"
+    ],
+    "summary": "腌制叶芥菜，烧鱼炒笋，咸鲜开胃。",
+    "caution": "高盐，控钠人群适量。",
+    "hiddenFromLibrary": true
+  }
+]

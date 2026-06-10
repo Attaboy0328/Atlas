@@ -343,6 +343,7 @@ const HANDCRAFTED_RECIPES = [
       "脾不统血"
     ],
     "foodIds": [
+      "shepherd-purse",
       "pork"
     ],
     "subtitle": "健脾和中",

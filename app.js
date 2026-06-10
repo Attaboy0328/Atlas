@@ -366,6 +366,7 @@ const RECIPE_SOLAR_TERM_SHORTCUTS = [
 
 const LIBRARY_QI_TOPICS = ["行气", "理气", "破气", "降气"];
 const LIBRARY_CERT_FILTERS = ["地理标志", "道地", "PEOP"];
+const LIBRARY_DIETARY_SCENES = ["素食", "全植物", "清真", "无麸质"];
 const LIBRARY_TEA_CLASSES = ["绿茶", "白茶", "黄茶", "乌龙茶", "黑茶", "红茶"];
 
 const RECENT_LIMIT = 12;
@@ -691,6 +692,7 @@ const state = {
   libraryTopic: "",
   libraryCertFilter: "",
   libraryDaoDiSystem: "",
+  libraryDietaryScene: "",
   libraryKind: "全部",
   libraryOfficialBatch: "全部",
   libraryProvincesExpanded: false,
@@ -1679,6 +1681,7 @@ let TEA_COUNT = 0;
 let CATEGORY_COUNTS = {};
 let NATURE_COUNTS = {};
 let REGION_COUNTS = {};
+let DIETARY_SCENE_COUNTS = {};
 
 function collectTagCounts(items, tagKey) {
   const counts = {};
@@ -1857,6 +1860,12 @@ function rebuildAppIndexes() {
     QI_TERMS_HOME.map((term) => [
       term,
       libraryCatalog.filter((food) => food.itemKind !== "tcm-herb" && foodMatchesQiTerm(food, term)).length
+    ])
+  );
+  DIETARY_SCENE_COUNTS = Object.fromEntries(
+    LIBRARY_DIETARY_SCENES.map((scene) => [
+      scene,
+      libraryCatalog.filter((food) => matchDietaryScene(food, scene)).length
     ])
   );
 }
@@ -2443,6 +2452,7 @@ function applyUrlState() {
   if (params.has("lt")) state.libraryTopic = params.get("lt") || "";
   if (params.has("lcf")) state.libraryCertFilter = params.get("lcf") || "";
   if (params.has("lds")) state.libraryDaoDiSystem = params.get("lds") || "";
+  if (params.has("ldiet")) state.libraryDietaryScene = params.get("ldiet") || "";
   if (params.get("lk")) state.libraryKind = params.get("lk");
   if (state.libraryTopic === "药食同源") {
     state.libraryKind = "food-medicine";
@@ -2584,6 +2594,7 @@ function normalizeFoods(items) {
       avoidFor: uniq([...(food.avoidFor || []), ...(enrichment.avoidFor || [])].map(cleanString).filter(Boolean)),
     contraindications: uniq([...(food.contraindications || []), ...(enrichment.contraindications || [])].map(cleanString).filter(Boolean)),
     cautionTags: uniq([...(food.cautionTags || []), ...(enrichment.cautionTags || [])].map(cleanString).filter(Boolean)),
+    dietaryScenes: uniq((food.dietaryScenes || []).map(cleanString).filter(Boolean)),
     searchTerms,
     searchBlob: uniq(searchTerms).join(" ").toLowerCase(),
     alone: cleanString(food.alone || enrichment.alone || ""),
@@ -2645,6 +2656,7 @@ function mergeFoodEntries(current, incoming) {
     avoidFor: uniq([...(current.avoidFor || []), ...(incoming.avoidFor || [])].map(cleanString)),
     contraindications: uniq([...(current.contraindications || []), ...(incoming.contraindications || [])].map(cleanString)),
     cautionTags: uniq([...(current.cautionTags || []), ...(incoming.cautionTags || [])].map(cleanString)),
+    dietaryScenes: uniq([...(current.dietaryScenes || []), ...(incoming.dietaryScenes || [])].map(cleanString)),
     searchTerms: uniq([...(current.searchTerms || []), ...(incoming.searchTerms || [])].map(cleanString))
   };
 
@@ -3156,6 +3168,15 @@ function bindLibraryFilterControls(root) {
     });
   });
 
+  root.querySelectorAll("[data-library-dietary-scene]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      const next = button.dataset.libraryDietaryScene || "";
+      state.libraryDietaryScene = state.libraryDietaryScene === next ? "" : next;
+      afterLibraryFilterChange({ scrollToResults: true });
+    });
+  });
+
   root.querySelectorAll("[data-library-cert]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
@@ -3487,6 +3508,7 @@ function scrollToResultAnchor() {
 function countPinnedLibraryFiltersWhenSearch() {
   let count = 0;
   if (state.libraryKind !== "全部") count += 1;
+  if (state.libraryDietaryScene) count += 1;
   if (state.libraryCertFilter) count += 1;
   if (state.libraryDaoDiSystem) count += 1;
   if (state.libraryOfficialBatch !== "全部") count += 1;
@@ -3500,6 +3522,7 @@ function countLibraryActiveFilters() {
   if (state.libraryTopic) count += 1;
   if (state.libraryCertFilter) count += 1;
   if (state.libraryDaoDiSystem) count += 1;
+  if (state.libraryDietaryScene) count += 1;
   if (state.libraryCategory !== "全部") count += 1;
   if (state.libraryRegion !== "ALL") count += 1;
   if (state.libraryProvince !== "全部") count += 1;
@@ -3554,6 +3577,7 @@ function getLibraryFilterSummary() {
     const sys = DAO_DI_SYSTEMS_LIST.find((row) => row.id === state.libraryDaoDiSystem);
     parts.push(sys?.name || state.libraryDaoDiSystem);
   }
+  if (state.libraryDietaryScene) parts.push(state.libraryDietaryScene);
   if (state.libraryCategory !== "全部") parts.push(state.libraryCategory);
   if (state.libraryRegion !== "ALL") parts.push(REGION_LABELS[state.libraryRegion] || state.libraryRegion);
   if (state.libraryProvince !== "全部") parts.push(state.libraryProvince);
@@ -3594,6 +3618,7 @@ function buildLibraryActiveFilterChips() {
     const sys = DAO_DI_SYSTEMS_LIST.find((row) => row.id === state.libraryDaoDiSystem);
     chips.push({ key: "daodi", label: sys?.name || state.libraryDaoDiSystem });
   }
+  if (state.libraryDietaryScene) chips.push({ key: "dietary", label: state.libraryDietaryScene });
   if (state.libraryCategory !== "全部") chips.push({ key: "category", label: state.libraryCategory });
   if (state.libraryRegion !== "ALL") chips.push({ key: "region", label: REGION_LABELS[state.libraryRegion] || state.libraryRegion });
   if (state.libraryProvince !== "全部") chips.push({ key: "province", label: state.libraryProvince });
@@ -3628,6 +3653,7 @@ function clearLibraryFilterByKey(key) {
     state.libraryDaoDiSystem = "";
   }
   if (key === "daodi") state.libraryDaoDiSystem = "";
+  if (key === "dietary") state.libraryDietaryScene = "";
   if (key === "category") state.libraryCategory = "全部";
   if (key === "region") state.libraryRegion = "ALL";
   if (key === "province") state.libraryProvince = "全部";
@@ -3939,6 +3965,7 @@ function resetLibraryFilters() {
   state.libraryTopic = "";
   state.libraryCertFilter = "";
   state.libraryDaoDiSystem = "";
+  state.libraryDietaryScene = "";
   state.libraryOfficialBatch = "全部";
   state.libraryProvincesExpanded = false;
   state.libraryEthnicsExpanded = false;
@@ -4226,6 +4253,7 @@ function bindFilterSheetEvents() {
 function isLibraryFilterGroupOpen(groupId) {
   const activeChecks = {
     "library-kind": () => state.libraryKind !== "全部" || state.libraryCategory !== "全部"
+      || Boolean(state.libraryDietaryScene)
       || (state.libraryTopic && !LIBRARY_QI_TOPICS.includes(state.libraryTopic)),
     "library-cert": () => Boolean(state.libraryCertFilter) || Boolean(state.libraryDaoDiSystem)
       || state.libraryOfficialBatch !== "全部" || LIBRARY_QI_TOPICS.includes(state.libraryTopic),
@@ -4242,6 +4270,7 @@ function countLibraryFilterGroupSelections(groupId) {
       let count = 0;
       if (state.libraryKind !== "全部") count += 1;
       if (state.libraryCategory !== "全部") count += 1;
+      if (state.libraryDietaryScene) count += 1;
       if (state.libraryTopic && !LIBRARY_QI_TOPICS.includes(state.libraryTopic)) count += 1;
       return count;
     },
@@ -4294,6 +4323,22 @@ function renderLibraryCategorySection() {
         ${chip("全部", "全部", "data-library-category", state.libraryCategory === "全部", compact)}
         ${visibleCategories.map((item) => chip(item, item, "data-library-category", state.libraryCategory === item, compact)).join("")}
       </div>
+    </div>
+  `;
+}
+
+function renderLibraryDietarySceneSection() {
+  const compact = "filter-chip-compact";
+  const scenes = LIBRARY_DIETARY_SCENES.filter((scene) => DIETARY_SCENE_COUNTS[scene]);
+  if (!scenes.length) return "";
+  return `
+    <div class="filter-subsection">
+      <div class="filter-label">饮食场景</div>
+      <div class="filter-group filter-province-grid recipe-filter-grid">
+        ${chip("全部", "", "data-library-dietary-scene", !state.libraryDietaryScene, compact)}
+        ${scenes.map((scene) => chip(`${scene} · ${DIETARY_SCENE_COUNTS[scene]}`, scene, "data-library-dietary-scene", state.libraryDietaryScene === scene, compact)).join("")}
+      </div>
+      <p class="filter-hint">素食、全植物、清真、无麸质等场景标签；具体以配料与烹调方式为准。</p>
     </div>
   `;
 }
@@ -4379,6 +4424,7 @@ function renderLibraryFilterSections() {
       </div>
     </div>
     ${renderLibraryCategorySection()}
+    ${renderLibraryDietarySceneSection()}
     ${state.libraryCategory === "茶饮" ? `
     <div class="filter-subsection filter-subsection-tea-inline">
       <div class="filter-label">茶类</div>
@@ -4871,6 +4917,11 @@ function shouldHideLinkedDaoDiOriginInLibrary(food) {
   return isLinkedDaoDiOriginDuplicate(food, foods.filter((item) => !item.hiddenFromLibrary && !item.isOriginProduct));
 }
 
+function matchDietaryScene(food, scene) {
+  if (!scene) return true;
+  return (food.dietaryScenes || []).includes(scene);
+}
+
 function filterFoods() {
   const term = cleanString(state.libraryQuery).toLowerCase();
   return searchFoods(state.libraryQuery).filter((food) => {
@@ -4879,7 +4930,8 @@ function filterFoods() {
     const byCert = !state.libraryCertFilter || matchCertFilter(food, state.libraryCertFilter);
     const byDaoDiSystem = matchDaoDiSystem(food, state.libraryDaoDiSystem);
     const byOfficialBatch = matchOfficialBatch(food);
-    if (term) return byKind && byCert && byDaoDiSystem && byOfficialBatch;
+    const byDietaryScene = matchDietaryScene(food, state.libraryDietaryScene);
+    if (term) return byKind && byCert && byDaoDiSystem && byOfficialBatch && byDietaryScene;
     const byNature = state.libraryNature === "全部" || food.nature === state.libraryNature;
     const byCategory = foodMatchesCategory(food, state.libraryCategory);
     const byRegion = state.libraryRegion === "ALL" || food.regions.includes(state.libraryRegion);
@@ -4889,7 +4941,7 @@ function filterFoods() {
     const byEthnic = state.libraryEthnic === "全部"
       || (food.ethnicGroups || []).includes(state.libraryEthnic);
     const byTopic = !state.libraryTopic || matchTopic(food, state.libraryTopic);
-    return byNature && byCategory && byCert && byDaoDiSystem && byRegion && byProvince && byEthnic && byTopic && byKind && byOfficialBatch;
+    return byNature && byCategory && byCert && byDaoDiSystem && byRegion && byProvince && byEthnic && byTopic && byKind && byOfficialBatch && byDietaryScene;
   });
 }
 
@@ -5945,6 +5997,7 @@ function renderFoodDetail(food) {
         ${(food.daoDi?.isAuthentic || DAO_DI_BY_CANONICAL.has(resolveFoodId(food.id)) || DAO_DI_PROFILE_BY_CANONICAL.has(resolveFoodId(food.id))) ? '<span class="pill-badge">道地产区</span>' : ""}
         ${food.pharmacopoeiaEdition === "2025" ? '<span class="pill-badge">药典2025</span>' : ""}
         ${isReferenceOnly ? '<span class="pill-badge">参考查阅</span>' : ""}
+        ${(food.dietaryScenes || []).map((scene) => `<span class="pill-badge dietary-scene-badge">${scene}</span>`).join("")}
         ${food.effects.slice(0, 3).map((effect) => `<span class="pill-badge">${effect}</span>`).join("")}
       </div>
       ${userFacingAliases(food).length ? `<p class="sheet-subtitle">别名：${userFacingAliases(food).slice(0, 8).join("、")}</p>` : ""}
@@ -6322,6 +6375,7 @@ function syncUrl(options = {}) {
     if (state.libraryTopic) params.set("lt", state.libraryTopic);
     if (state.libraryCertFilter) params.set("lcf", state.libraryCertFilter);
     if (state.libraryDaoDiSystem) params.set("lds", state.libraryDaoDiSystem);
+    if (state.libraryDietaryScene) params.set("ldiet", state.libraryDietaryScene);
     if (state.libraryKind !== "全部") params.set("lk", state.libraryKind);
     if (state.libraryOfficialBatch !== "全部") params.set("lob", state.libraryOfficialBatch);
   }
