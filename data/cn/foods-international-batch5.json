@@ -955,7 +955,8 @@
       "中东芝麻酱"
     ],
     "summary": "烘烤芝麻研磨酱，中东鹰嘴豆泥与凉拌常用。",
-    "caution": "高脂高热量，腹泻与胆囊不适者适量。"
+    "caution": "高脂高热量，腹泻与胆囊不适者适量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "coconut-milk",

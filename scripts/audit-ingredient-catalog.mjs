@@ -11,7 +11,13 @@ const INGREDIENT_BATCH_FILES = new Set([
   "foods-ingredients-batch4.json",
   "foods-seasonal-river-batch3.json",
   "foods-seasonal-river-batch4.json",
-  "foods-modern-regional-batch2.json"
+  "foods-modern-regional-batch2.json",
+  "foods-lingnan-ingredients-batch.json",
+  "foods-china-regional-batch7.json",
+  "foods-china-condiments-batch8.json",
+  "foods-china-seafood-batch9.json",
+  "foods-china-produce-batch10.json",
+  "foods-china-snacks-batch11.json"
 ]);
 
 const ALLOWED_CATEGORIES = new Set([
@@ -87,7 +93,7 @@ INGREDIENT_BATCH_FILES.forEach((file) => {
 });
 
 // Synonym batch: foodId must resolve
-["food-search-synonyms-batch5.json", "food-search-synonyms-batch6.json"].forEach((synonymFile) => {
+["food-search-synonyms-batch5.json", "food-search-synonyms-batch6.json", "food-search-synonyms-batch7.json"].forEach((synonymFile) => {
 readCnJson(synonymFile, []).forEach((row) => {
   const foodId = String(row.foodId || "").trim();
   const term = String(row.term || "").trim();

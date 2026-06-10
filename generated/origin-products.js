@@ -5360,7 +5360,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宝应慈姑",
     "en": "",
     "category": "滋补食材",
-    "nature": "寒",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],
@@ -5379,7 +5379,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "江苏",
-      "arrowhead",
+      "arrowhead-tuber",
       "地理标志",
       "GI"
     ],
@@ -5389,7 +5389,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "arrowhead",
+    "baseFoodId": "arrowhead-tuber",
     "giSystems": [
       {
         "system": "cnipa",
@@ -21330,7 +21330,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "多文空心菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -25275,7 +25275,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "福田菜心",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -34699,7 +34699,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪山菜薹",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -34718,6 +34718,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
+      "chinese-flowering-cabbage",
       "地理标志",
       "GI"
     ],
@@ -34727,7 +34728,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "chinese-flowering-cabbage",
     "giSystems": [
       {
         "system": "cnipa",
@@ -39559,7 +39560,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "青海",
-      "tibetan-yak-butter",
+      "yak-meat",
       "地理标志",
       "GI"
     ],
@@ -39569,7 +39570,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "tibetan-yak-butter",
+    "baseFoodId": "yak-meat",
     "giSystems": [
       {
         "system": "cnipa",
@@ -43642,6 +43643,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "建莲",
       "国家知识产权局地理标志",
       "CN",
+      "prod-lotus-seedpod--758",
       "地理标志",
       "GI"
     ],
@@ -43651,7 +43653,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "prod-lotus-seedpod--758",
     "giSystems": [
       {
         "system": "cnipa",
@@ -44175,6 +44177,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "广东",
+      "niudali-root",
       "地理标志",
       "GI"
     ],
@@ -44184,7 +44187,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "niudali-root",
     "giSystems": [
       {
         "system": "cnipa",
@@ -50588,7 +50591,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "九华红菜薹",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -50607,6 +50610,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖南",
+      "chinese-flowering-cabbage",
       "地理标志",
       "GI"
     ],
@@ -50616,7 +50620,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "chinese-flowering-cabbage",
     "giSystems": [
       {
         "system": "cnipa",
@@ -55018,7 +55022,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "青海",
-      "tibetan-yak-butter",
+      "yak-meat",
       "地理标志",
       "GI"
     ],
@@ -55028,7 +55032,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "tibetan-yak-butter",
+    "baseFoodId": "yak-meat",
     "giSystems": [
       {
         "system": "cnipa",
@@ -57312,7 +57316,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "连州菜心",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -81317,7 +81321,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庆云大叶香菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -81336,7 +81340,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "coriander",
+      "cilantro-fresh",
       "地理标志",
       "GI"
     ],
@@ -81346,7 +81350,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "coriander",
+    "baseFoodId": "cilantro-fresh",
     "giSystems": [
       {
         "system": "cnipa",
@@ -92641,7 +92645,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "水东蜜枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -92660,6 +92664,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "安徽",
+      "candied-date",
       "地理标志",
       "GI"
     ],
@@ -92669,7 +92674,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "candied-date",
     "giSystems": [
       {
         "system": "cnipa",
@@ -107080,6 +107085,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "甘肃",
+      "dao-di-orphan-316",
       "地理标志",
       "GI"
     ],
@@ -107089,7 +107095,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-316",
     "giSystems": [
       {
         "system": "cnipa",
@@ -117638,7 +117644,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "cat-condiment-015",
+      "shrimp-paste",
       "地理标志",
       "GI"
     ],
@@ -117648,7 +117654,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "cat-condiment-015",
+    "baseFoodId": "shrimp-paste",
     "giSystems": [
       {
         "system": "cnipa",
@@ -124115,7 +124121,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永兴黄皮",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -124134,6 +124140,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "海南",
+      "yellow-skin-fruit",
       "地理标志",
       "GI"
     ],
@@ -124143,7 +124150,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "yellow-skin-fruit",
     "giSystems": [
       {
         "system": "cnipa",
@@ -128241,7 +128248,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "云霄蕹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -138274,7 +138281,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "甘肃",
       "陕西等地",
       "陕西",
-      "prunus-armeniaca-seed",
+      "dao-di-orphan-333",
       "地理标志",
       "GI"
     ],
@@ -138284,7 +138291,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "prunus-armeniaca-seed",
+    "baseFoodId": "dao-di-orphan-333",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -138595,6 +138602,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "广东、广西",
       "广东",
       "广西",
+      "dao-di-orphan-289",
       "地理标志",
       "GI"
     ],
@@ -138604,7 +138612,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-289",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -138624,7 +138632,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-oldenlandia-diffusa-origin",
@@ -140061,6 +140069,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "云南、西藏",
       "云南",
       "西藏",
+      "dao-di-orphan-70",
       "地理标志",
       "GI"
     ],
@@ -140070,7 +140079,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-70",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -140090,7 +140099,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-psoralea-corylifolia-origin",
@@ -140316,6 +140325,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "怀药",
       "daodi-藏茴香-道地",
       "西藏",
+      "dao-di-orphan-63",
       "地理标志",
       "GI"
     ],
@@ -140325,7 +140335,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-63",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -140345,7 +140355,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-dao-di-orphan-384-origin",
@@ -140376,6 +140386,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "黑龙江、吉林和内蒙古",
       "黑龙江",
       "吉林和内蒙古",
+      "dao-di-orphan-384",
       "地理标志",
       "GI"
     ],
@@ -140385,7 +140396,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-384",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -140405,7 +140416,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-alpinia-katsumadai-origin",
@@ -141812,6 +141823,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "海南、广西",
       "海南",
       "广西",
+      "dao-di-orphan-257",
       "地理标志",
       "GI"
     ],
@@ -141821,7 +141833,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-257",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -141841,7 +141853,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-rhubarb-origin",
@@ -144006,7 +144018,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "岗梅根（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -144027,6 +144039,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "广药",
       "daodi-岗梅根-道地",
       "广东",
+      "dao-di-orphan-302",
       "地理标志",
       "GI"
     ],
@@ -144036,7 +144049,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-302",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -144056,7 +144069,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-galangal-officinarum-origin",
@@ -145190,6 +145203,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "辽宁",
       "四川",
       "内蒙古等地",
+      "dao-di-orphan-383",
       "地理标志",
       "GI"
     ],
@@ -145199,7 +145213,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-383",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -145219,7 +145233,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-gecko-origin",
@@ -145374,6 +145388,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "我国南海、东海",
       "我国南海",
       "东海",
+      "dao-di-orphan-391",
       "地理标志",
       "GI"
     ],
@@ -145383,7 +145398,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-391",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -145403,7 +145418,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-hippocampus-origin",
@@ -145980,7 +145995,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "红豆蔻（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -146006,7 +146021,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "广西",
       "广东",
       "海南等地",
-      "red-bean",
+      "dao-di-orphan-271",
       "地理标志",
       "GI"
     ],
@@ -146016,7 +146031,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "red-bean",
+    "baseFoodId": "dao-di-orphan-271",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -146131,7 +146146,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "秦药",
       "daodi-红芪-道地",
       "甘肃",
-      "daodi-hedysarum-prep-origin",
+      "dao-di-orphan-316",
       "地理标志",
       "GI"
     ],
@@ -146141,7 +146156,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "daodi-hedysarum-prep-origin",
+    "baseFoodId": "dao-di-orphan-316",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -146454,6 +146469,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "淮药",
       "daodi-胡桐泪-道地",
       "新疆",
+      "dao-di-orphan-351",
       "地理标志",
       "GI"
     ],
@@ -146463,7 +146479,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-351",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -146483,7 +146499,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-fritillaria-hupehensis-origin",
@@ -147356,7 +147372,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "云药",
       "daodi-黄山药-道地",
       "云南",
-      "yam",
+      "dao-di-orphan-235",
       "地理标志",
       "GI"
     ],
@@ -147366,7 +147382,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "yam",
+    "baseFoodId": "dao-di-orphan-235",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -147421,6 +147437,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "广东",
       "广西",
       "云南等地",
+      "dao-di-orphan-239",
       "地理标志",
       "GI"
     ],
@@ -147430,7 +147447,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-239",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -147450,7 +147467,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-cannabis-seed-origin",
@@ -147664,6 +147681,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "daodi-鸡桑根-道地",
       "河北鸡桑根",
       "河北",
+      "dao-di-orphan-330",
       "地理标志",
       "GI"
     ],
@@ -147673,7 +147691,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-330",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -147693,7 +147711,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-millettia-stem-origin",
@@ -147850,6 +147868,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "广东、广西",
       "广东",
       "广西",
+      "dao-di-orphan-288",
       "地理标志",
       "GI"
     ],
@@ -147859,7 +147878,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-288",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -147879,7 +147898,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-pinellia-prep-origin",
@@ -148428,6 +148447,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "河北",
       "辽宁",
       "吉林",
+      "dao-di-orphan-87",
       "地理标志",
       "GI"
     ],
@@ -148437,7 +148457,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-87",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -148457,7 +148477,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-lysimachia-christinae-origin",
@@ -148870,6 +148890,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "陕西、山西",
       "陕西",
       "山西",
+      "dao-di-orphan-8",
       "地理标志",
       "GI"
     ],
@@ -148879,7 +148900,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-8",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -148899,7 +148920,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-murraya-paniculata-origin",
@@ -149263,7 +149284,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "广东",
       "广西",
       "贵州和云南南部",
-      "daodi-scrophularia-nodosa-origin",
+      "dao-di-orphan-243",
       "地理标志",
       "GI"
     ],
@@ -149273,7 +149294,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "daodi-scrophularia-nodosa-origin",
+    "baseFoodId": "dao-di-orphan-243",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -149449,7 +149470,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "关药",
       "daodi-狼毒-道地",
       "黑龙江",
-      "daodi-dao-di-orphan-398-origin",
+      "dao-di-orphan-34",
       "地理标志",
       "GI"
     ],
@@ -149459,7 +149480,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "daodi-dao-di-orphan-398-origin",
+    "baseFoodId": "dao-di-orphan-34",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -150346,6 +150367,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "daodi-萝芙木-道地",
       "主产于云南西双版纳",
       "云南",
+      "dao-di-orphan-245",
       "地理标志",
       "GI"
     ],
@@ -150355,7 +150377,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-245",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -150375,7 +150397,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-ephedra-sinica-origin",
@@ -150838,6 +150860,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "内蒙古",
       "辽宁",
       "吉林",
+      "dao-di-orphan-88",
       "地理标志",
       "GI"
     ],
@@ -150847,7 +150870,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-88",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -150867,7 +150890,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-dao-di-orphan-379-origin",
@@ -150900,6 +150923,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "黑龙江",
       "内蒙古",
       "吉林",
+      "dao-di-orphan-379",
       "地理标志",
       "GI"
     ],
@@ -150909,7 +150933,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-379",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -150929,7 +150953,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-vitex-rotundifolia-origin",
@@ -151150,6 +151174,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "海南",
       "广西",
       "云南。",
+      "dao-di-orphan-21",
       "地理标志",
       "GI"
     ],
@@ -151159,7 +151184,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-21",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -151179,7 +151204,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-changium-smyrnioides-origin",
@@ -151658,6 +151683,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "广东、广西等地",
       "广东",
       "广西等地",
+      "dao-di-orphan-264",
       "地理标志",
       "GI"
     ],
@@ -151667,7 +151693,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-264",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -151687,7 +151713,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-aucklandia-lappa-origin",
@@ -152484,6 +152510,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "daodi-蕲蛇-道地",
       "安徽蕲蛇",
       "安徽",
+      "dao-di-orphan-337",
       "地理标志",
       "GI"
     ],
@@ -152493,7 +152520,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-337",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -152513,7 +152540,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-euphorbia-lathyris-origin",
@@ -153913,7 +153940,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "山东",
       "安徽",
       "湖北等地",
-      "daodi-dao-di-orphan-34-origin",
+      "dao-di-orphan-398",
       "地理标志",
       "GI"
     ],
@@ -153923,7 +153950,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "daodi-dao-di-orphan-34-origin",
+    "baseFoodId": "dao-di-orphan-398",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -154806,6 +154833,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "四川、贵州",
       "四川",
       "贵州",
+      "dao-di-orphan-213",
       "地理标志",
       "GI"
     ],
@@ -154815,7 +154843,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-213",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -154835,7 +154863,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-belamcanda-chinensis-origin",
@@ -154996,6 +155024,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "江西",
       "湖南",
       "陕西",
+      "dao-di-orphan-198",
       "地理标志",
       "GI"
     ],
@@ -155005,7 +155034,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-198",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -155025,7 +155054,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-acorus-tatarinowii-origin",
@@ -156635,6 +156664,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "产于云南，为彝族地区习用药材。",
       "产于云南",
       "云南",
+      "dao-di-orphan-44",
       "地理标志",
       "GI"
     ],
@@ -156644,7 +156674,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-44",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -156664,7 +156694,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-clematis-chinensis-origin",
@@ -156836,6 +156866,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "淮药",
       "daodi-乌梢蛇-道地",
       "安徽",
+      "dao-di-orphan-372",
       "地理标志",
       "GI"
     ],
@@ -156845,7 +156876,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-372",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -156865,7 +156896,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-lindera-aggregata-origin",
@@ -157366,7 +157397,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "贵州",
       "广西",
       "广东等地",
-      "wuzhi-maotao",
+      "radix-fici",
       "地理标志",
       "GI"
     ],
@@ -157376,7 +157407,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "wuzhi-maotao",
+    "baseFoodId": "radix-fici",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -157879,6 +157910,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "内蒙古",
       "新疆",
       "吉林等地",
+      "dao-di-orphan-64",
       "地理标志",
       "GI"
     ],
@@ -157888,7 +157920,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-64",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -157908,7 +157940,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-mosla-chinensis-origin",
@@ -158718,6 +158750,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "广东、广西",
       "广东",
       "广西",
+      "dao-di-orphan-281",
       "地理标志",
       "GI"
     ],
@@ -158727,7 +158760,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-281",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -158747,7 +158780,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-corydalis-yanhusuo-origin",
@@ -159104,6 +159137,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "四川",
       "云南",
       "西藏等地",
+      "dao-di-orphan-80",
       "地理标志",
       "GI"
     ],
@@ -159113,7 +159147,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-80",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -159133,7 +159167,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-dao-di-orphan-260-origin",
@@ -159170,6 +159204,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "云南",
       "福建等地",
       "福建",
+      "dao-di-orphan-260",
       "地理标志",
       "GI"
     ],
@@ -159179,7 +159214,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-260",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -159199,7 +159234,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-artemisia-capillaris-origin",
@@ -159496,6 +159531,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "云南、贵州",
       "云南",
       "贵州",
+      "dao-di-orphan-248",
       "地理标志",
       "GI"
     ],
@@ -159505,7 +159541,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-248",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -159525,7 +159561,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 道地药材产区摘要；药典正文以 Atlas 药典2025 为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "daodi-cordyceps-flower-origin",
@@ -197071,6 +197107,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "广东",
+      "dao-di-orphan-275",
       "地理标志",
       "GI"
     ],
@@ -197080,7 +197117,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-275",
     "giSystems": [
       {
         "system": "mara",
@@ -197127,7 +197164,7 @@ const ORIGIN_PRODUCT_FOODS = [
       ]
     },
     "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。",
-    "hiddenFromLibrary": false
+    "hiddenFromLibrary": true
   },
   {
     "id": "mara-阿尔巴斯白绒山羊",
@@ -214287,7 +214324,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "河田鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -216244,7 +216281,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "华容大湖胖头鱼",
     "en": "",
     "category": "水产动物",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],
@@ -216259,6 +216296,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "华容大湖胖头鱼",
       "农业农村部农产品地理标志",
       "湖南",
+      "bighead-carp",
       "地理标志",
       "GI"
     ],
@@ -216268,7 +216306,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "bighead-carp",
     "giSystems": [
       {
         "system": "mara",
@@ -221027,7 +221065,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镜泊湖胖头鱼",
     "en": "",
     "category": "水产动物",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],
@@ -221042,6 +221080,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "镜泊湖胖头鱼",
       "农业农村部农产品地理标志",
       "黑龙江",
+      "bighead-carp",
       "地理标志",
       "GI"
     ],
@@ -221051,7 +221090,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "bighead-carp",
     "giSystems": [
       {
         "system": "mara",
@@ -233745,7 +233784,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁夏菜心",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -234883,7 +234922,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平乐慈姑",
     "en": "",
     "category": "蔬菜",
-    "nature": "寒",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],
@@ -234898,7 +234937,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "平乐慈姑",
       "农业农村部农产品地理标志",
       "广西",
-      "arrowhead",
+      "arrowhead-tuber",
       "地理标志",
       "GI"
     ],
@@ -234908,7 +234947,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "arrowhead",
+    "baseFoodId": "arrowhead-tuber",
     "giSystems": [
       {
         "system": "mara",
@@ -235703,7 +235742,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "浦北黄皮",
     "en": "",
     "category": "水果",
-    "nature": "凉",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -235718,6 +235757,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "浦北黄皮",
       "农业农村部农产品地理标志",
       "广西",
+      "yellow-skin-fruit",
       "地理标志",
       "GI"
     ],
@@ -235727,7 +235767,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "yellow-skin-fruit",
     "giSystems": [
       {
         "system": "mara",
@@ -236782,7 +236822,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乾县香菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -236797,7 +236837,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "乾县香菜",
       "农业农村部农产品地理标志",
       "陕西",
-      "coriander",
+      "cilantro-fresh",
       "地理标志",
       "GI"
     ],
@@ -236807,7 +236847,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "coriander",
+    "baseFoodId": "cilantro-fresh",
     "giSystems": [
       {
         "system": "mara",
@@ -252207,7 +252247,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "香格里拉牦牛肉",
       "农业农村部农产品地理标志",
       "云南",
-      "tibetan-yak-butter",
+      "yak-meat",
       "地理标志",
       "GI"
     ],
@@ -252217,7 +252257,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "tibetan-yak-butter",
+    "baseFoodId": "yak-meat",
     "giSystems": [
       {
         "system": "mara",
@@ -254378,7 +254418,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "兴海牦牛肉",
       "农业农村部农产品地理标志",
       "青海",
-      "tibetan-yak-butter",
+      "yak-meat",
       "地理标志",
       "GI"
     ],
@@ -254388,7 +254428,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "tibetan-yak-butter",
+    "baseFoodId": "yak-meat",
     "giSystems": [
       {
         "system": "mara",
@@ -273902,6 +273942,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "金莲花及其代用茶",
       "生态原产地保护产品",
       "CN",
+      "dao-di-orphan-87",
       "地理标志",
       "GI",
       "PEOP",
@@ -273913,7 +273954,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-87",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -287032,7 +287073,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "豆豉",
       "重庆省级地理标志",
       "重庆",
-      "douchi",
+      "fermented-black-beans",
       "地理标志",
       "GI"
     ],
@@ -287042,7 +287083,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "douchi",
+    "baseFoodId": "fermented-black-beans",
     "giSystems": [
       {
         "system": "provincial",
@@ -287119,7 +287160,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长沙臭豆腐",
     "en": "",
     "category": "主食",
-    "nature": "温",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],

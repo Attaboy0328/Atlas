@@ -1,0 +1,178 @@
+[
+  {
+    "term": "猪展",
+    "foodId": "pork-shoulder-blade"
+  },
+  {
+    "term": "梅头肉",
+    "foodId": "pork-collar"
+  },
+  {
+    "term": "猪横脷",
+    "foodId": "pork-liver-gd"
+  },
+  {
+    "term": "陈肾",
+    "foodId": "preserved-duck-gizzard"
+  },
+  {
+    "term": "绍菜",
+    "foodId": "chinese-lettuce"
+  },
+  {
+    "term": "通菜",
+    "foodId": "water-spinach"
+  },
+  {
+    "term": "西洋菜",
+    "foodId": "watercress"
+  },
+  {
+    "term": "霸王花",
+    "foodId": "dayehua-flower"
+  },
+  {
+    "term": "剑花",
+    "foodId": "sword-lily-dried"
+  },
+  {
+    "term": "鸡骨草",
+    "foodId": "abrus-herb"
+  },
+  {
+    "term": "土茯苓",
+    "foodId": "smilax-glabra-root"
+  },
+  {
+    "term": "五指毛桃",
+    "foodId": "radix-fici"
+  },
+  {
+    "term": "牛大力",
+    "foodId": "niudali-root"
+  },
+  {
+    "term": "海底椰",
+    "foodId": "seabed-coconut"
+  },
+  {
+    "term": "瑶柱",
+    "foodId": "dried-scallop"
+  },
+  {
+    "term": "蚝豉",
+    "foodId": "dried-oyster"
+  },
+  {
+    "term": "蜜枣",
+    "foodId": "candied-date"
+  },
+  {
+    "term": "南北杏",
+    "foodId": "apricot-kernel-mix"
+  },
+  {
+    "term": "芡实",
+    "foodId": "foxnut"
+  },
+  {
+    "term": "灯心草",
+    "foodId": "rush-root"
+  },
+  {
+    "term": "崩大碗",
+    "foodId": "rough-smilax"
+  },
+  {
+    "term": "岗梅",
+    "foodId": "sandalwood-berry"
+  },
+  {
+    "term": "毛冬青",
+    "foodId": "radix-ilex"
+  },
+  {
+    "term": "菜心",
+    "foodId": "choy-sum"
+  },
+  {
+    "term": "迟菜心",
+    "foodId": "late-choy-sum"
+  },
+  {
+    "term": "芥兰",
+    "foodId": "chinese-broccoli"
+  },
+  {
+    "term": "黄皮",
+    "foodId": "yellow-skin-fruit"
+  },
+  {
+    "term": "茅根",
+    "foodId": "cogon-root"
+  },
+  {
+    "term": "竹蔗",
+    "foodId": "sugar-cane-gd"
+  },
+  {
+    "term": "花胶",
+    "foodId": "fish-maw-gd"
+  },
+  {
+    "term": "脆肉鲩",
+    "foodId": "crisp-grass-carp"
+  },
+  {
+    "term": "濑尿虾",
+    "foodId": "mantis-shrimp"
+  },
+  {
+    "term": "柱侯酱",
+    "foodId": "chu-hou-paste"
+  },
+  {
+    "term": "XO酱",
+    "foodId": "xo-sauce"
+  },
+  {
+    "term": "广陈皮",
+    "foodId": "chenpi-dried"
+  },
+  {
+    "term": "新会陈皮",
+    "foodId": "chenpi-dried"
+  },
+  {
+    "term": "姜撞奶",
+    "foodId": "ginger-milk-curd"
+  },
+  {
+    "term": "双皮奶",
+    "foodId": "double-skin-milk"
+  },
+  {
+    "term": "龟苓膏",
+    "foodId": "turtle-jelly"
+  },
+  {
+    "term": "五花茶",
+    "foodId": "five-flower-tea-mix"
+  },
+  {
+    "term": "二十四味",
+    "foodId": "herbal-tea-24-mix"
+  },
+  {
+    "term": "咸酸梅",
+    "foodId": "smoked-plum"
+  },
+  {
+    "term": "润肠",
+    "foodId": "liver-sausage"
+  },
+  {
+    "term": "虾籽",
+    "foodId": "shrimp-roe"
+  }
+]

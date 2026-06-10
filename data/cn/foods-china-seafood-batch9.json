@@ -1,0 +1,9002 @@
+[
+  {
+    "id": "sea-hairtail--640",
+    "name": "天津带鱼",
+    "en": "天津带鱼",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seahairtail640",
+    "initials": "sea",
+    "searchTerms": [
+      "天津带鱼",
+      "sea-hairtail--640"
+    ],
+    "summary": "天津带鱼为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--641",
+    "name": "天津马鲛鱼",
+    "en": "天津马鲛鱼",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seaspanishmackerel641",
+    "initials": "sea",
+    "searchTerms": [
+      "天津马鲛鱼",
+      "sea-spanish-mackerel--641"
+    ],
+    "summary": "天津马鲛鱼为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--642",
+    "name": "天津鲳鱼",
+    "en": "天津鲳鱼",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seapomfret642",
+    "initials": "sea",
+    "searchTerms": [
+      "天津鲳鱼",
+      "sea-pomfret--642"
+    ],
+    "summary": "天津鲳鱼为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--643",
+    "name": "天津黄鳍金枪鱼",
+    "en": "天津黄鳍金枪鱼",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seayellowfintuna643",
+    "initials": "sea",
+    "searchTerms": [
+      "天津黄鳍金枪鱼",
+      "sea-yellow-fin-tuna--643"
+    ],
+    "summary": "天津黄鳍金枪鱼为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--644",
+    "name": "天津鱿鱼筒",
+    "en": "天津鱿鱼筒",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seasquidtube644",
+    "initials": "sea",
+    "searchTerms": [
+      "天津鱿鱼筒",
+      "sea-squid-tube--644"
+    ],
+    "summary": "天津鱿鱼筒为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--645",
+    "name": "天津墨鱼",
+    "en": "天津墨鱼",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seacuttlefish645",
+    "initials": "sea",
+    "searchTerms": [
+      "天津墨鱼",
+      "sea-cuttlefish--645"
+    ],
+    "summary": "天津墨鱼为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--646",
+    "name": "天津鱿鱼干",
+    "en": "天津鱿鱼干",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seadriedsquid646",
+    "initials": "sea",
+    "searchTerms": [
+      "天津鱿鱼干",
+      "sea-dried-squid--646"
+    ],
+    "summary": "天津鱿鱼干为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--647",
+    "name": "天津墨鱼干",
+    "en": "天津墨鱼干",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seadriedcuttlefish647",
+    "initials": "sea",
+    "searchTerms": [
+      "天津墨鱼干",
+      "sea-dried-cuttlefish--647"
+    ],
+    "summary": "天津墨鱼干为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--648",
+    "name": "天津花甲",
+    "en": "天津花甲",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seaclams648",
+    "initials": "sea",
+    "searchTerms": [
+      "天津花甲",
+      "sea-clams--648"
+    ],
+    "summary": "天津花甲为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--649",
+    "name": "天津蛏子",
+    "en": "天津蛏子",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "searazorclam649",
+    "initials": "sea",
+    "searchTerms": [
+      "天津蛏子",
+      "sea-razor-clam--649"
+    ],
+    "summary": "天津蛏子为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--650",
+    "name": "天津生蚝肉",
+    "en": "天津生蚝肉",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seaoystermeat650",
+    "initials": "sea",
+    "searchTerms": [
+      "天津生蚝肉",
+      "sea-oyster-meat--650"
+    ],
+    "summary": "天津生蚝肉为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--651",
+    "name": "天津鲍鱼仔",
+    "en": "天津鲍鱼仔",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seaabalonesmall651",
+    "initials": "sea",
+    "searchTerms": [
+      "天津鲍鱼仔",
+      "sea-abalone-small--651"
+    ],
+    "summary": "天津鲍鱼仔为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--652",
+    "name": "天津海参干",
+    "en": "天津海参干",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seaseacucumberdried652",
+    "initials": "sea",
+    "searchTerms": [
+      "天津海参干",
+      "sea-sea-cucumber-dried--652"
+    ],
+    "summary": "天津海参干为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--653",
+    "name": "天津紫菜",
+    "en": "天津紫菜",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seaseaweedsheet653",
+    "initials": "sea",
+    "searchTerms": [
+      "天津紫菜",
+      "sea-seaweed-sheet--653"
+    ],
+    "summary": "天津紫菜为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--654",
+    "name": "天津海带结",
+    "en": "天津海带结",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seakelpknot654",
+    "initials": "sea",
+    "searchTerms": [
+      "天津海带结",
+      "sea-kelp-knot--654"
+    ],
+    "summary": "天津海带结为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--655",
+    "name": "天津银鱼",
+    "en": "天津银鱼",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seawhitebait655",
+    "initials": "sea",
+    "searchTerms": [
+      "天津银鱼",
+      "sea-whitebait--655"
+    ],
+    "summary": "天津银鱼为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--656",
+    "name": "天津凤尾鱼",
+    "en": "天津凤尾鱼",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seaanchovy656",
+    "initials": "sea",
+    "searchTerms": [
+      "天津凤尾鱼",
+      "sea-anchovy--656"
+    ],
+    "summary": "天津凤尾鱼为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--657",
+    "name": "天津黄花鱼干",
+    "en": "天津黄花鱼干",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seayellowcroakerdried657",
+    "initials": "sea",
+    "searchTerms": [
+      "天津黄花鱼干",
+      "sea-yellow-croaker-dried--657"
+    ],
+    "summary": "天津黄花鱼干为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--658",
+    "name": "天津鱼丸",
+    "en": "天津鱼丸",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seafishball658",
+    "initials": "sea",
+    "searchTerms": [
+      "天津鱼丸",
+      "sea-fish-ball--658"
+    ],
+    "summary": "天津鱼丸为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--659",
+    "name": "天津虾滑",
+    "en": "天津虾滑",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "seashrimppasteball659",
+    "initials": "sea",
+    "searchTerms": [
+      "天津虾滑",
+      "sea-shrimp-paste-ball--659"
+    ],
+    "summary": "天津虾滑为天津民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--660",
+    "name": "广东带鱼1",
+    "en": "广东带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seahairtail660",
+    "initials": "sea",
+    "searchTerms": [
+      "广东带鱼1",
+      "sea-hairtail--660"
+    ],
+    "summary": "广东带鱼1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--661",
+    "name": "广东马鲛鱼1",
+    "en": "广东马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seaspanishmackerel661",
+    "initials": "sea",
+    "searchTerms": [
+      "广东马鲛鱼1",
+      "sea-spanish-mackerel--661"
+    ],
+    "summary": "广东马鲛鱼1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--662",
+    "name": "广东鲳鱼1",
+    "en": "广东鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seapomfret662",
+    "initials": "sea",
+    "searchTerms": [
+      "广东鲳鱼1",
+      "sea-pomfret--662"
+    ],
+    "summary": "广东鲳鱼1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--663",
+    "name": "广东黄鳍金枪鱼1",
+    "en": "广东黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seayellowfintuna663",
+    "initials": "sea",
+    "searchTerms": [
+      "广东黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--663"
+    ],
+    "summary": "广东黄鳍金枪鱼1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--664",
+    "name": "广东鱿鱼筒1",
+    "en": "广东鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seasquidtube664",
+    "initials": "sea",
+    "searchTerms": [
+      "广东鱿鱼筒1",
+      "sea-squid-tube--664"
+    ],
+    "summary": "广东鱿鱼筒1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--665",
+    "name": "广东墨鱼1",
+    "en": "广东墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seacuttlefish665",
+    "initials": "sea",
+    "searchTerms": [
+      "广东墨鱼1",
+      "sea-cuttlefish--665"
+    ],
+    "summary": "广东墨鱼1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--666",
+    "name": "广东鱿鱼干1",
+    "en": "广东鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seadriedsquid666",
+    "initials": "sea",
+    "searchTerms": [
+      "广东鱿鱼干1",
+      "sea-dried-squid--666"
+    ],
+    "summary": "广东鱿鱼干1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--667",
+    "name": "广东墨鱼干1",
+    "en": "广东墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seadriedcuttlefish667",
+    "initials": "sea",
+    "searchTerms": [
+      "广东墨鱼干1",
+      "sea-dried-cuttlefish--667"
+    ],
+    "summary": "广东墨鱼干1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--668",
+    "name": "广东花甲1",
+    "en": "广东花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seaclams668",
+    "initials": "sea",
+    "searchTerms": [
+      "广东花甲1",
+      "sea-clams--668"
+    ],
+    "summary": "广东花甲1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--669",
+    "name": "广东蛏子1",
+    "en": "广东蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "searazorclam669",
+    "initials": "sea",
+    "searchTerms": [
+      "广东蛏子1",
+      "sea-razor-clam--669"
+    ],
+    "summary": "广东蛏子1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--670",
+    "name": "广东生蚝肉1",
+    "en": "广东生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seaoystermeat670",
+    "initials": "sea",
+    "searchTerms": [
+      "广东生蚝肉1",
+      "sea-oyster-meat--670"
+    ],
+    "summary": "广东生蚝肉1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--671",
+    "name": "广东鲍鱼仔1",
+    "en": "广东鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seaabalonesmall671",
+    "initials": "sea",
+    "searchTerms": [
+      "广东鲍鱼仔1",
+      "sea-abalone-small--671"
+    ],
+    "summary": "广东鲍鱼仔1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--672",
+    "name": "广东海参干1",
+    "en": "广东海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seaseacucumberdried672",
+    "initials": "sea",
+    "searchTerms": [
+      "广东海参干1",
+      "sea-sea-cucumber-dried--672"
+    ],
+    "summary": "广东海参干1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--673",
+    "name": "广东紫菜1",
+    "en": "广东紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seaseaweedsheet673",
+    "initials": "sea",
+    "searchTerms": [
+      "广东紫菜1",
+      "sea-seaweed-sheet--673"
+    ],
+    "summary": "广东紫菜1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--674",
+    "name": "广东海带结1",
+    "en": "广东海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seakelpknot674",
+    "initials": "sea",
+    "searchTerms": [
+      "广东海带结1",
+      "sea-kelp-knot--674"
+    ],
+    "summary": "广东海带结1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--675",
+    "name": "广东银鱼1",
+    "en": "广东银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seawhitebait675",
+    "initials": "sea",
+    "searchTerms": [
+      "广东银鱼1",
+      "sea-whitebait--675"
+    ],
+    "summary": "广东银鱼1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--676",
+    "name": "广东凤尾鱼1",
+    "en": "广东凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seaanchovy676",
+    "initials": "sea",
+    "searchTerms": [
+      "广东凤尾鱼1",
+      "sea-anchovy--676"
+    ],
+    "summary": "广东凤尾鱼1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--677",
+    "name": "广东黄花鱼干1",
+    "en": "广东黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seayellowcroakerdried677",
+    "initials": "sea",
+    "searchTerms": [
+      "广东黄花鱼干1",
+      "sea-yellow-croaker-dried--677"
+    ],
+    "summary": "广东黄花鱼干1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--678",
+    "name": "广东鱼丸1",
+    "en": "广东鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seafishball678",
+    "initials": "sea",
+    "searchTerms": [
+      "广东鱼丸1",
+      "sea-fish-ball--678"
+    ],
+    "summary": "广东鱼丸1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--679",
+    "name": "广东虾滑1",
+    "en": "广东虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "seashrimppasteball679",
+    "initials": "sea",
+    "searchTerms": [
+      "广东虾滑1",
+      "sea-shrimp-paste-ball--679"
+    ],
+    "summary": "广东虾滑1为广东民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--680",
+    "name": "香港带鱼1",
+    "en": "香港带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seahairtail680",
+    "initials": "sea",
+    "searchTerms": [
+      "香港带鱼1",
+      "sea-hairtail--680"
+    ],
+    "summary": "香港带鱼1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--681",
+    "name": "香港马鲛鱼1",
+    "en": "香港马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seaspanishmackerel681",
+    "initials": "sea",
+    "searchTerms": [
+      "香港马鲛鱼1",
+      "sea-spanish-mackerel--681"
+    ],
+    "summary": "香港马鲛鱼1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--682",
+    "name": "香港鲳鱼1",
+    "en": "香港鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seapomfret682",
+    "initials": "sea",
+    "searchTerms": [
+      "香港鲳鱼1",
+      "sea-pomfret--682"
+    ],
+    "summary": "香港鲳鱼1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--683",
+    "name": "香港黄鳍金枪鱼1",
+    "en": "香港黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seayellowfintuna683",
+    "initials": "sea",
+    "searchTerms": [
+      "香港黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--683"
+    ],
+    "summary": "香港黄鳍金枪鱼1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--684",
+    "name": "香港鱿鱼筒1",
+    "en": "香港鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seasquidtube684",
+    "initials": "sea",
+    "searchTerms": [
+      "香港鱿鱼筒1",
+      "sea-squid-tube--684"
+    ],
+    "summary": "香港鱿鱼筒1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--685",
+    "name": "香港墨鱼1",
+    "en": "香港墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seacuttlefish685",
+    "initials": "sea",
+    "searchTerms": [
+      "香港墨鱼1",
+      "sea-cuttlefish--685"
+    ],
+    "summary": "香港墨鱼1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--686",
+    "name": "香港鱿鱼干1",
+    "en": "香港鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seadriedsquid686",
+    "initials": "sea",
+    "searchTerms": [
+      "香港鱿鱼干1",
+      "sea-dried-squid--686"
+    ],
+    "summary": "香港鱿鱼干1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--687",
+    "name": "香港墨鱼干1",
+    "en": "香港墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seadriedcuttlefish687",
+    "initials": "sea",
+    "searchTerms": [
+      "香港墨鱼干1",
+      "sea-dried-cuttlefish--687"
+    ],
+    "summary": "香港墨鱼干1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--688",
+    "name": "香港花甲1",
+    "en": "香港花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seaclams688",
+    "initials": "sea",
+    "searchTerms": [
+      "香港花甲1",
+      "sea-clams--688"
+    ],
+    "summary": "香港花甲1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--689",
+    "name": "香港蛏子1",
+    "en": "香港蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "searazorclam689",
+    "initials": "sea",
+    "searchTerms": [
+      "香港蛏子1",
+      "sea-razor-clam--689"
+    ],
+    "summary": "香港蛏子1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--690",
+    "name": "香港生蚝肉1",
+    "en": "香港生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seaoystermeat690",
+    "initials": "sea",
+    "searchTerms": [
+      "香港生蚝肉1",
+      "sea-oyster-meat--690"
+    ],
+    "summary": "香港生蚝肉1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--691",
+    "name": "香港鲍鱼仔1",
+    "en": "香港鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seaabalonesmall691",
+    "initials": "sea",
+    "searchTerms": [
+      "香港鲍鱼仔1",
+      "sea-abalone-small--691"
+    ],
+    "summary": "香港鲍鱼仔1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--692",
+    "name": "香港海参干1",
+    "en": "香港海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seaseacucumberdried692",
+    "initials": "sea",
+    "searchTerms": [
+      "香港海参干1",
+      "sea-sea-cucumber-dried--692"
+    ],
+    "summary": "香港海参干1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--693",
+    "name": "香港紫菜1",
+    "en": "香港紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seaseaweedsheet693",
+    "initials": "sea",
+    "searchTerms": [
+      "香港紫菜1",
+      "sea-seaweed-sheet--693"
+    ],
+    "summary": "香港紫菜1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--694",
+    "name": "香港海带结1",
+    "en": "香港海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seakelpknot694",
+    "initials": "sea",
+    "searchTerms": [
+      "香港海带结1",
+      "sea-kelp-knot--694"
+    ],
+    "summary": "香港海带结1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--695",
+    "name": "香港银鱼1",
+    "en": "香港银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seawhitebait695",
+    "initials": "sea",
+    "searchTerms": [
+      "香港银鱼1",
+      "sea-whitebait--695"
+    ],
+    "summary": "香港银鱼1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--696",
+    "name": "香港凤尾鱼1",
+    "en": "香港凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seaanchovy696",
+    "initials": "sea",
+    "searchTerms": [
+      "香港凤尾鱼1",
+      "sea-anchovy--696"
+    ],
+    "summary": "香港凤尾鱼1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--697",
+    "name": "香港黄花鱼干1",
+    "en": "香港黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seayellowcroakerdried697",
+    "initials": "sea",
+    "searchTerms": [
+      "香港黄花鱼干1",
+      "sea-yellow-croaker-dried--697"
+    ],
+    "summary": "香港黄花鱼干1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--698",
+    "name": "香港鱼丸1",
+    "en": "香港鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seafishball698",
+    "initials": "sea",
+    "searchTerms": [
+      "香港鱼丸1",
+      "sea-fish-ball--698"
+    ],
+    "summary": "香港鱼丸1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--699",
+    "name": "香港虾滑1",
+    "en": "香港虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "seashrimppasteball699",
+    "initials": "sea",
+    "searchTerms": [
+      "香港虾滑1",
+      "sea-shrimp-paste-ball--699"
+    ],
+    "summary": "香港虾滑1为香港民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--700",
+    "name": "澳门带鱼1",
+    "en": "澳门带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seahairtail700",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门带鱼1",
+      "sea-hairtail--700"
+    ],
+    "summary": "澳门带鱼1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--701",
+    "name": "澳门马鲛鱼1",
+    "en": "澳门马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seaspanishmackerel701",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门马鲛鱼1",
+      "sea-spanish-mackerel--701"
+    ],
+    "summary": "澳门马鲛鱼1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--702",
+    "name": "澳门鲳鱼1",
+    "en": "澳门鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seapomfret702",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门鲳鱼1",
+      "sea-pomfret--702"
+    ],
+    "summary": "澳门鲳鱼1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--703",
+    "name": "澳门黄鳍金枪鱼1",
+    "en": "澳门黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seayellowfintuna703",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--703"
+    ],
+    "summary": "澳门黄鳍金枪鱼1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--704",
+    "name": "澳门鱿鱼筒1",
+    "en": "澳门鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seasquidtube704",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门鱿鱼筒1",
+      "sea-squid-tube--704"
+    ],
+    "summary": "澳门鱿鱼筒1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--705",
+    "name": "澳门墨鱼1",
+    "en": "澳门墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seacuttlefish705",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门墨鱼1",
+      "sea-cuttlefish--705"
+    ],
+    "summary": "澳门墨鱼1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--706",
+    "name": "澳门鱿鱼干1",
+    "en": "澳门鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seadriedsquid706",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门鱿鱼干1",
+      "sea-dried-squid--706"
+    ],
+    "summary": "澳门鱿鱼干1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--707",
+    "name": "澳门墨鱼干1",
+    "en": "澳门墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seadriedcuttlefish707",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门墨鱼干1",
+      "sea-dried-cuttlefish--707"
+    ],
+    "summary": "澳门墨鱼干1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--708",
+    "name": "澳门花甲1",
+    "en": "澳门花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seaclams708",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门花甲1",
+      "sea-clams--708"
+    ],
+    "summary": "澳门花甲1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--709",
+    "name": "澳门蛏子1",
+    "en": "澳门蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "searazorclam709",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门蛏子1",
+      "sea-razor-clam--709"
+    ],
+    "summary": "澳门蛏子1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--710",
+    "name": "澳门生蚝肉1",
+    "en": "澳门生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seaoystermeat710",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门生蚝肉1",
+      "sea-oyster-meat--710"
+    ],
+    "summary": "澳门生蚝肉1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--711",
+    "name": "澳门鲍鱼仔1",
+    "en": "澳门鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seaabalonesmall711",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门鲍鱼仔1",
+      "sea-abalone-small--711"
+    ],
+    "summary": "澳门鲍鱼仔1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--712",
+    "name": "澳门海参干1",
+    "en": "澳门海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seaseacucumberdried712",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门海参干1",
+      "sea-sea-cucumber-dried--712"
+    ],
+    "summary": "澳门海参干1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--713",
+    "name": "澳门紫菜1",
+    "en": "澳门紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seaseaweedsheet713",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门紫菜1",
+      "sea-seaweed-sheet--713"
+    ],
+    "summary": "澳门紫菜1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--714",
+    "name": "澳门海带结1",
+    "en": "澳门海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seakelpknot714",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门海带结1",
+      "sea-kelp-knot--714"
+    ],
+    "summary": "澳门海带结1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--715",
+    "name": "澳门银鱼1",
+    "en": "澳门银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seawhitebait715",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门银鱼1",
+      "sea-whitebait--715"
+    ],
+    "summary": "澳门银鱼1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--716",
+    "name": "澳门凤尾鱼1",
+    "en": "澳门凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seaanchovy716",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门凤尾鱼1",
+      "sea-anchovy--716"
+    ],
+    "summary": "澳门凤尾鱼1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--717",
+    "name": "澳门黄花鱼干1",
+    "en": "澳门黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seayellowcroakerdried717",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门黄花鱼干1",
+      "sea-yellow-croaker-dried--717"
+    ],
+    "summary": "澳门黄花鱼干1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--718",
+    "name": "澳门鱼丸1",
+    "en": "澳门鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seafishball718",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门鱼丸1",
+      "sea-fish-ball--718"
+    ],
+    "summary": "澳门鱼丸1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--719",
+    "name": "澳门虾滑1",
+    "en": "澳门虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "seashrimppasteball719",
+    "initials": "sea",
+    "searchTerms": [
+      "澳门虾滑1",
+      "sea-shrimp-paste-ball--719"
+    ],
+    "summary": "澳门虾滑1为澳门民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--720",
+    "name": "广西带鱼1",
+    "en": "广西带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seahairtail720",
+    "initials": "sea",
+    "searchTerms": [
+      "广西带鱼1",
+      "sea-hairtail--720"
+    ],
+    "summary": "广西带鱼1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--721",
+    "name": "广西马鲛鱼1",
+    "en": "广西马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seaspanishmackerel721",
+    "initials": "sea",
+    "searchTerms": [
+      "广西马鲛鱼1",
+      "sea-spanish-mackerel--721"
+    ],
+    "summary": "广西马鲛鱼1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--722",
+    "name": "广西鲳鱼1",
+    "en": "广西鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seapomfret722",
+    "initials": "sea",
+    "searchTerms": [
+      "广西鲳鱼1",
+      "sea-pomfret--722"
+    ],
+    "summary": "广西鲳鱼1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--723",
+    "name": "广西黄鳍金枪鱼1",
+    "en": "广西黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seayellowfintuna723",
+    "initials": "sea",
+    "searchTerms": [
+      "广西黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--723"
+    ],
+    "summary": "广西黄鳍金枪鱼1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--724",
+    "name": "广西鱿鱼筒1",
+    "en": "广西鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seasquidtube724",
+    "initials": "sea",
+    "searchTerms": [
+      "广西鱿鱼筒1",
+      "sea-squid-tube--724"
+    ],
+    "summary": "广西鱿鱼筒1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--725",
+    "name": "广西墨鱼1",
+    "en": "广西墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seacuttlefish725",
+    "initials": "sea",
+    "searchTerms": [
+      "广西墨鱼1",
+      "sea-cuttlefish--725"
+    ],
+    "summary": "广西墨鱼1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--726",
+    "name": "广西鱿鱼干1",
+    "en": "广西鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seadriedsquid726",
+    "initials": "sea",
+    "searchTerms": [
+      "广西鱿鱼干1",
+      "sea-dried-squid--726"
+    ],
+    "summary": "广西鱿鱼干1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--727",
+    "name": "广西墨鱼干1",
+    "en": "广西墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seadriedcuttlefish727",
+    "initials": "sea",
+    "searchTerms": [
+      "广西墨鱼干1",
+      "sea-dried-cuttlefish--727"
+    ],
+    "summary": "广西墨鱼干1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--728",
+    "name": "广西花甲1",
+    "en": "广西花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seaclams728",
+    "initials": "sea",
+    "searchTerms": [
+      "广西花甲1",
+      "sea-clams--728"
+    ],
+    "summary": "广西花甲1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--729",
+    "name": "广西蛏子1",
+    "en": "广西蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "searazorclam729",
+    "initials": "sea",
+    "searchTerms": [
+      "广西蛏子1",
+      "sea-razor-clam--729"
+    ],
+    "summary": "广西蛏子1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--730",
+    "name": "广西生蚝肉1",
+    "en": "广西生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seaoystermeat730",
+    "initials": "sea",
+    "searchTerms": [
+      "广西生蚝肉1",
+      "sea-oyster-meat--730"
+    ],
+    "summary": "广西生蚝肉1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--731",
+    "name": "广西鲍鱼仔1",
+    "en": "广西鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seaabalonesmall731",
+    "initials": "sea",
+    "searchTerms": [
+      "广西鲍鱼仔1",
+      "sea-abalone-small--731"
+    ],
+    "summary": "广西鲍鱼仔1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--732",
+    "name": "广西海参干1",
+    "en": "广西海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seaseacucumberdried732",
+    "initials": "sea",
+    "searchTerms": [
+      "广西海参干1",
+      "sea-sea-cucumber-dried--732"
+    ],
+    "summary": "广西海参干1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--733",
+    "name": "广西紫菜1",
+    "en": "广西紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seaseaweedsheet733",
+    "initials": "sea",
+    "searchTerms": [
+      "广西紫菜1",
+      "sea-seaweed-sheet--733"
+    ],
+    "summary": "广西紫菜1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--734",
+    "name": "广西海带结1",
+    "en": "广西海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seakelpknot734",
+    "initials": "sea",
+    "searchTerms": [
+      "广西海带结1",
+      "sea-kelp-knot--734"
+    ],
+    "summary": "广西海带结1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--735",
+    "name": "广西银鱼1",
+    "en": "广西银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seawhitebait735",
+    "initials": "sea",
+    "searchTerms": [
+      "广西银鱼1",
+      "sea-whitebait--735"
+    ],
+    "summary": "广西银鱼1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--736",
+    "name": "广西凤尾鱼1",
+    "en": "广西凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seaanchovy736",
+    "initials": "sea",
+    "searchTerms": [
+      "广西凤尾鱼1",
+      "sea-anchovy--736"
+    ],
+    "summary": "广西凤尾鱼1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--737",
+    "name": "广西黄花鱼干1",
+    "en": "广西黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seayellowcroakerdried737",
+    "initials": "sea",
+    "searchTerms": [
+      "广西黄花鱼干1",
+      "sea-yellow-croaker-dried--737"
+    ],
+    "summary": "广西黄花鱼干1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--738",
+    "name": "广西鱼丸1",
+    "en": "广西鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seafishball738",
+    "initials": "sea",
+    "searchTerms": [
+      "广西鱼丸1",
+      "sea-fish-ball--738"
+    ],
+    "summary": "广西鱼丸1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--739",
+    "name": "广西虾滑1",
+    "en": "广西虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "seashrimppasteball739",
+    "initials": "sea",
+    "searchTerms": [
+      "广西虾滑1",
+      "sea-shrimp-paste-ball--739"
+    ],
+    "summary": "广西虾滑1为广西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--740",
+    "name": "福建带鱼1",
+    "en": "福建带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seahairtail740",
+    "initials": "sea",
+    "searchTerms": [
+      "福建带鱼1",
+      "sea-hairtail--740"
+    ],
+    "summary": "福建带鱼1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--741",
+    "name": "福建马鲛鱼1",
+    "en": "福建马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seaspanishmackerel741",
+    "initials": "sea",
+    "searchTerms": [
+      "福建马鲛鱼1",
+      "sea-spanish-mackerel--741"
+    ],
+    "summary": "福建马鲛鱼1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--742",
+    "name": "福建鲳鱼1",
+    "en": "福建鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seapomfret742",
+    "initials": "sea",
+    "searchTerms": [
+      "福建鲳鱼1",
+      "sea-pomfret--742"
+    ],
+    "summary": "福建鲳鱼1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--743",
+    "name": "福建黄鳍金枪鱼1",
+    "en": "福建黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seayellowfintuna743",
+    "initials": "sea",
+    "searchTerms": [
+      "福建黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--743"
+    ],
+    "summary": "福建黄鳍金枪鱼1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--744",
+    "name": "福建鱿鱼筒1",
+    "en": "福建鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seasquidtube744",
+    "initials": "sea",
+    "searchTerms": [
+      "福建鱿鱼筒1",
+      "sea-squid-tube--744"
+    ],
+    "summary": "福建鱿鱼筒1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--745",
+    "name": "福建墨鱼1",
+    "en": "福建墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seacuttlefish745",
+    "initials": "sea",
+    "searchTerms": [
+      "福建墨鱼1",
+      "sea-cuttlefish--745"
+    ],
+    "summary": "福建墨鱼1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--746",
+    "name": "福建鱿鱼干1",
+    "en": "福建鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seadriedsquid746",
+    "initials": "sea",
+    "searchTerms": [
+      "福建鱿鱼干1",
+      "sea-dried-squid--746"
+    ],
+    "summary": "福建鱿鱼干1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--747",
+    "name": "福建墨鱼干1",
+    "en": "福建墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seadriedcuttlefish747",
+    "initials": "sea",
+    "searchTerms": [
+      "福建墨鱼干1",
+      "sea-dried-cuttlefish--747"
+    ],
+    "summary": "福建墨鱼干1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--748",
+    "name": "福建花甲1",
+    "en": "福建花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seaclams748",
+    "initials": "sea",
+    "searchTerms": [
+      "福建花甲1",
+      "sea-clams--748"
+    ],
+    "summary": "福建花甲1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--749",
+    "name": "福建蛏子1",
+    "en": "福建蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "searazorclam749",
+    "initials": "sea",
+    "searchTerms": [
+      "福建蛏子1",
+      "sea-razor-clam--749"
+    ],
+    "summary": "福建蛏子1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--750",
+    "name": "福建生蚝肉1",
+    "en": "福建生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seaoystermeat750",
+    "initials": "sea",
+    "searchTerms": [
+      "福建生蚝肉1",
+      "sea-oyster-meat--750"
+    ],
+    "summary": "福建生蚝肉1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--751",
+    "name": "福建鲍鱼仔1",
+    "en": "福建鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seaabalonesmall751",
+    "initials": "sea",
+    "searchTerms": [
+      "福建鲍鱼仔1",
+      "sea-abalone-small--751"
+    ],
+    "summary": "福建鲍鱼仔1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--752",
+    "name": "福建海参干1",
+    "en": "福建海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seaseacucumberdried752",
+    "initials": "sea",
+    "searchTerms": [
+      "福建海参干1",
+      "sea-sea-cucumber-dried--752"
+    ],
+    "summary": "福建海参干1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--753",
+    "name": "福建紫菜1",
+    "en": "福建紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seaseaweedsheet753",
+    "initials": "sea",
+    "searchTerms": [
+      "福建紫菜1",
+      "sea-seaweed-sheet--753"
+    ],
+    "summary": "福建紫菜1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--754",
+    "name": "福建海带结1",
+    "en": "福建海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seakelpknot754",
+    "initials": "sea",
+    "searchTerms": [
+      "福建海带结1",
+      "sea-kelp-knot--754"
+    ],
+    "summary": "福建海带结1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--755",
+    "name": "福建银鱼1",
+    "en": "福建银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seawhitebait755",
+    "initials": "sea",
+    "searchTerms": [
+      "福建银鱼1",
+      "sea-whitebait--755"
+    ],
+    "summary": "福建银鱼1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--756",
+    "name": "福建凤尾鱼1",
+    "en": "福建凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seaanchovy756",
+    "initials": "sea",
+    "searchTerms": [
+      "福建凤尾鱼1",
+      "sea-anchovy--756"
+    ],
+    "summary": "福建凤尾鱼1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--757",
+    "name": "福建黄花鱼干1",
+    "en": "福建黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seayellowcroakerdried757",
+    "initials": "sea",
+    "searchTerms": [
+      "福建黄花鱼干1",
+      "sea-yellow-croaker-dried--757"
+    ],
+    "summary": "福建黄花鱼干1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--758",
+    "name": "福建鱼丸1",
+    "en": "福建鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seafishball758",
+    "initials": "sea",
+    "searchTerms": [
+      "福建鱼丸1",
+      "sea-fish-ball--758"
+    ],
+    "summary": "福建鱼丸1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--759",
+    "name": "福建虾滑1",
+    "en": "福建虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "seashrimppasteball759",
+    "initials": "sea",
+    "searchTerms": [
+      "福建虾滑1",
+      "sea-shrimp-paste-ball--759"
+    ],
+    "summary": "福建虾滑1为福建民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--760",
+    "name": "海南带鱼1",
+    "en": "海南带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seahairtail760",
+    "initials": "sea",
+    "searchTerms": [
+      "海南带鱼1",
+      "sea-hairtail--760"
+    ],
+    "summary": "海南带鱼1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--761",
+    "name": "海南马鲛鱼1",
+    "en": "海南马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seaspanishmackerel761",
+    "initials": "sea",
+    "searchTerms": [
+      "海南马鲛鱼1",
+      "sea-spanish-mackerel--761"
+    ],
+    "summary": "海南马鲛鱼1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--762",
+    "name": "海南鲳鱼1",
+    "en": "海南鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seapomfret762",
+    "initials": "sea",
+    "searchTerms": [
+      "海南鲳鱼1",
+      "sea-pomfret--762"
+    ],
+    "summary": "海南鲳鱼1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--763",
+    "name": "海南黄鳍金枪鱼1",
+    "en": "海南黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seayellowfintuna763",
+    "initials": "sea",
+    "searchTerms": [
+      "海南黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--763"
+    ],
+    "summary": "海南黄鳍金枪鱼1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--764",
+    "name": "海南鱿鱼筒1",
+    "en": "海南鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seasquidtube764",
+    "initials": "sea",
+    "searchTerms": [
+      "海南鱿鱼筒1",
+      "sea-squid-tube--764"
+    ],
+    "summary": "海南鱿鱼筒1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--765",
+    "name": "海南墨鱼1",
+    "en": "海南墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seacuttlefish765",
+    "initials": "sea",
+    "searchTerms": [
+      "海南墨鱼1",
+      "sea-cuttlefish--765"
+    ],
+    "summary": "海南墨鱼1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--766",
+    "name": "海南鱿鱼干1",
+    "en": "海南鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seadriedsquid766",
+    "initials": "sea",
+    "searchTerms": [
+      "海南鱿鱼干1",
+      "sea-dried-squid--766"
+    ],
+    "summary": "海南鱿鱼干1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--767",
+    "name": "海南墨鱼干1",
+    "en": "海南墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seadriedcuttlefish767",
+    "initials": "sea",
+    "searchTerms": [
+      "海南墨鱼干1",
+      "sea-dried-cuttlefish--767"
+    ],
+    "summary": "海南墨鱼干1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--768",
+    "name": "海南花甲1",
+    "en": "海南花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seaclams768",
+    "initials": "sea",
+    "searchTerms": [
+      "海南花甲1",
+      "sea-clams--768"
+    ],
+    "summary": "海南花甲1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--769",
+    "name": "海南蛏子1",
+    "en": "海南蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "searazorclam769",
+    "initials": "sea",
+    "searchTerms": [
+      "海南蛏子1",
+      "sea-razor-clam--769"
+    ],
+    "summary": "海南蛏子1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--770",
+    "name": "海南生蚝肉1",
+    "en": "海南生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seaoystermeat770",
+    "initials": "sea",
+    "searchTerms": [
+      "海南生蚝肉1",
+      "sea-oyster-meat--770"
+    ],
+    "summary": "海南生蚝肉1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--771",
+    "name": "海南鲍鱼仔1",
+    "en": "海南鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seaabalonesmall771",
+    "initials": "sea",
+    "searchTerms": [
+      "海南鲍鱼仔1",
+      "sea-abalone-small--771"
+    ],
+    "summary": "海南鲍鱼仔1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--772",
+    "name": "海南海参干1",
+    "en": "海南海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seaseacucumberdried772",
+    "initials": "sea",
+    "searchTerms": [
+      "海南海参干1",
+      "sea-sea-cucumber-dried--772"
+    ],
+    "summary": "海南海参干1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--773",
+    "name": "海南紫菜1",
+    "en": "海南紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seaseaweedsheet773",
+    "initials": "sea",
+    "searchTerms": [
+      "海南紫菜1",
+      "sea-seaweed-sheet--773"
+    ],
+    "summary": "海南紫菜1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--774",
+    "name": "海南海带结1",
+    "en": "海南海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seakelpknot774",
+    "initials": "sea",
+    "searchTerms": [
+      "海南海带结1",
+      "sea-kelp-knot--774"
+    ],
+    "summary": "海南海带结1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--775",
+    "name": "海南银鱼1",
+    "en": "海南银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seawhitebait775",
+    "initials": "sea",
+    "searchTerms": [
+      "海南银鱼1",
+      "sea-whitebait--775"
+    ],
+    "summary": "海南银鱼1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--776",
+    "name": "海南凤尾鱼1",
+    "en": "海南凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seaanchovy776",
+    "initials": "sea",
+    "searchTerms": [
+      "海南凤尾鱼1",
+      "sea-anchovy--776"
+    ],
+    "summary": "海南凤尾鱼1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--777",
+    "name": "海南黄花鱼干1",
+    "en": "海南黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seayellowcroakerdried777",
+    "initials": "sea",
+    "searchTerms": [
+      "海南黄花鱼干1",
+      "sea-yellow-croaker-dried--777"
+    ],
+    "summary": "海南黄花鱼干1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--778",
+    "name": "海南鱼丸1",
+    "en": "海南鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seafishball778",
+    "initials": "sea",
+    "searchTerms": [
+      "海南鱼丸1",
+      "sea-fish-ball--778"
+    ],
+    "summary": "海南鱼丸1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--779",
+    "name": "海南虾滑1",
+    "en": "海南虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "seashrimppasteball779",
+    "initials": "sea",
+    "searchTerms": [
+      "海南虾滑1",
+      "sea-shrimp-paste-ball--779"
+    ],
+    "summary": "海南虾滑1为海南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--780",
+    "name": "湖南带鱼1",
+    "en": "湖南带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seahairtail780",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南带鱼1",
+      "sea-hairtail--780"
+    ],
+    "summary": "湖南带鱼1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--781",
+    "name": "湖南马鲛鱼1",
+    "en": "湖南马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seaspanishmackerel781",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南马鲛鱼1",
+      "sea-spanish-mackerel--781"
+    ],
+    "summary": "湖南马鲛鱼1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--782",
+    "name": "湖南鲳鱼1",
+    "en": "湖南鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seapomfret782",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南鲳鱼1",
+      "sea-pomfret--782"
+    ],
+    "summary": "湖南鲳鱼1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--783",
+    "name": "湖南黄鳍金枪鱼1",
+    "en": "湖南黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seayellowfintuna783",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--783"
+    ],
+    "summary": "湖南黄鳍金枪鱼1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--784",
+    "name": "湖南鱿鱼筒1",
+    "en": "湖南鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seasquidtube784",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南鱿鱼筒1",
+      "sea-squid-tube--784"
+    ],
+    "summary": "湖南鱿鱼筒1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--785",
+    "name": "湖南墨鱼1",
+    "en": "湖南墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seacuttlefish785",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南墨鱼1",
+      "sea-cuttlefish--785"
+    ],
+    "summary": "湖南墨鱼1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--786",
+    "name": "湖南鱿鱼干1",
+    "en": "湖南鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seadriedsquid786",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南鱿鱼干1",
+      "sea-dried-squid--786"
+    ],
+    "summary": "湖南鱿鱼干1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--787",
+    "name": "湖南墨鱼干1",
+    "en": "湖南墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seadriedcuttlefish787",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南墨鱼干1",
+      "sea-dried-cuttlefish--787"
+    ],
+    "summary": "湖南墨鱼干1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--788",
+    "name": "湖南花甲1",
+    "en": "湖南花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seaclams788",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南花甲1",
+      "sea-clams--788"
+    ],
+    "summary": "湖南花甲1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--789",
+    "name": "湖南蛏子1",
+    "en": "湖南蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "searazorclam789",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南蛏子1",
+      "sea-razor-clam--789"
+    ],
+    "summary": "湖南蛏子1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--790",
+    "name": "湖南生蚝肉1",
+    "en": "湖南生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seaoystermeat790",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南生蚝肉1",
+      "sea-oyster-meat--790"
+    ],
+    "summary": "湖南生蚝肉1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--791",
+    "name": "湖南鲍鱼仔1",
+    "en": "湖南鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seaabalonesmall791",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南鲍鱼仔1",
+      "sea-abalone-small--791"
+    ],
+    "summary": "湖南鲍鱼仔1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--792",
+    "name": "湖南海参干1",
+    "en": "湖南海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seaseacucumberdried792",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南海参干1",
+      "sea-sea-cucumber-dried--792"
+    ],
+    "summary": "湖南海参干1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--793",
+    "name": "湖南紫菜1",
+    "en": "湖南紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seaseaweedsheet793",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南紫菜1",
+      "sea-seaweed-sheet--793"
+    ],
+    "summary": "湖南紫菜1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--794",
+    "name": "湖南海带结1",
+    "en": "湖南海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seakelpknot794",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南海带结1",
+      "sea-kelp-knot--794"
+    ],
+    "summary": "湖南海带结1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--795",
+    "name": "湖南银鱼1",
+    "en": "湖南银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seawhitebait795",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南银鱼1",
+      "sea-whitebait--795"
+    ],
+    "summary": "湖南银鱼1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--796",
+    "name": "湖南凤尾鱼1",
+    "en": "湖南凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seaanchovy796",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南凤尾鱼1",
+      "sea-anchovy--796"
+    ],
+    "summary": "湖南凤尾鱼1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--797",
+    "name": "湖南黄花鱼干1",
+    "en": "湖南黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seayellowcroakerdried797",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南黄花鱼干1",
+      "sea-yellow-croaker-dried--797"
+    ],
+    "summary": "湖南黄花鱼干1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--798",
+    "name": "湖南鱼丸1",
+    "en": "湖南鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seafishball798",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南鱼丸1",
+      "sea-fish-ball--798"
+    ],
+    "summary": "湖南鱼丸1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--799",
+    "name": "湖南虾滑1",
+    "en": "湖南虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "seashrimppasteball799",
+    "initials": "sea",
+    "searchTerms": [
+      "湖南虾滑1",
+      "sea-shrimp-paste-ball--799"
+    ],
+    "summary": "湖南虾滑1为湖南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--800",
+    "name": "湖北带鱼1",
+    "en": "湖北带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seahairtail800",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北带鱼1",
+      "sea-hairtail--800"
+    ],
+    "summary": "湖北带鱼1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--801",
+    "name": "湖北马鲛鱼1",
+    "en": "湖北马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seaspanishmackerel801",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北马鲛鱼1",
+      "sea-spanish-mackerel--801"
+    ],
+    "summary": "湖北马鲛鱼1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--802",
+    "name": "湖北鲳鱼1",
+    "en": "湖北鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seapomfret802",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北鲳鱼1",
+      "sea-pomfret--802"
+    ],
+    "summary": "湖北鲳鱼1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--803",
+    "name": "湖北黄鳍金枪鱼1",
+    "en": "湖北黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seayellowfintuna803",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--803"
+    ],
+    "summary": "湖北黄鳍金枪鱼1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--804",
+    "name": "湖北鱿鱼筒1",
+    "en": "湖北鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seasquidtube804",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北鱿鱼筒1",
+      "sea-squid-tube--804"
+    ],
+    "summary": "湖北鱿鱼筒1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--805",
+    "name": "湖北墨鱼1",
+    "en": "湖北墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seacuttlefish805",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北墨鱼1",
+      "sea-cuttlefish--805"
+    ],
+    "summary": "湖北墨鱼1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--806",
+    "name": "湖北鱿鱼干1",
+    "en": "湖北鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seadriedsquid806",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北鱿鱼干1",
+      "sea-dried-squid--806"
+    ],
+    "summary": "湖北鱿鱼干1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--807",
+    "name": "湖北墨鱼干1",
+    "en": "湖北墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seadriedcuttlefish807",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北墨鱼干1",
+      "sea-dried-cuttlefish--807"
+    ],
+    "summary": "湖北墨鱼干1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--808",
+    "name": "湖北花甲1",
+    "en": "湖北花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seaclams808",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北花甲1",
+      "sea-clams--808"
+    ],
+    "summary": "湖北花甲1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--809",
+    "name": "湖北蛏子1",
+    "en": "湖北蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "searazorclam809",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北蛏子1",
+      "sea-razor-clam--809"
+    ],
+    "summary": "湖北蛏子1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--810",
+    "name": "湖北生蚝肉1",
+    "en": "湖北生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seaoystermeat810",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北生蚝肉1",
+      "sea-oyster-meat--810"
+    ],
+    "summary": "湖北生蚝肉1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--811",
+    "name": "湖北鲍鱼仔1",
+    "en": "湖北鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seaabalonesmall811",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北鲍鱼仔1",
+      "sea-abalone-small--811"
+    ],
+    "summary": "湖北鲍鱼仔1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--812",
+    "name": "湖北海参干1",
+    "en": "湖北海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seaseacucumberdried812",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北海参干1",
+      "sea-sea-cucumber-dried--812"
+    ],
+    "summary": "湖北海参干1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--813",
+    "name": "湖北紫菜1",
+    "en": "湖北紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seaseaweedsheet813",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北紫菜1",
+      "sea-seaweed-sheet--813"
+    ],
+    "summary": "湖北紫菜1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--814",
+    "name": "湖北海带结1",
+    "en": "湖北海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seakelpknot814",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北海带结1",
+      "sea-kelp-knot--814"
+    ],
+    "summary": "湖北海带结1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--815",
+    "name": "湖北银鱼1",
+    "en": "湖北银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seawhitebait815",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北银鱼1",
+      "sea-whitebait--815"
+    ],
+    "summary": "湖北银鱼1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--816",
+    "name": "湖北凤尾鱼1",
+    "en": "湖北凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seaanchovy816",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北凤尾鱼1",
+      "sea-anchovy--816"
+    ],
+    "summary": "湖北凤尾鱼1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--817",
+    "name": "湖北黄花鱼干1",
+    "en": "湖北黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seayellowcroakerdried817",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北黄花鱼干1",
+      "sea-yellow-croaker-dried--817"
+    ],
+    "summary": "湖北黄花鱼干1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--818",
+    "name": "湖北鱼丸1",
+    "en": "湖北鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seafishball818",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北鱼丸1",
+      "sea-fish-ball--818"
+    ],
+    "summary": "湖北鱼丸1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--819",
+    "name": "湖北虾滑1",
+    "en": "湖北虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "seashrimppasteball819",
+    "initials": "sea",
+    "searchTerms": [
+      "湖北虾滑1",
+      "sea-shrimp-paste-ball--819"
+    ],
+    "summary": "湖北虾滑1为湖北民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--820",
+    "name": "江西带鱼1",
+    "en": "江西带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seahairtail820",
+    "initials": "sea",
+    "searchTerms": [
+      "江西带鱼1",
+      "sea-hairtail--820"
+    ],
+    "summary": "江西带鱼1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--821",
+    "name": "江西马鲛鱼1",
+    "en": "江西马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seaspanishmackerel821",
+    "initials": "sea",
+    "searchTerms": [
+      "江西马鲛鱼1",
+      "sea-spanish-mackerel--821"
+    ],
+    "summary": "江西马鲛鱼1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--822",
+    "name": "江西鲳鱼1",
+    "en": "江西鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seapomfret822",
+    "initials": "sea",
+    "searchTerms": [
+      "江西鲳鱼1",
+      "sea-pomfret--822"
+    ],
+    "summary": "江西鲳鱼1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--823",
+    "name": "江西黄鳍金枪鱼1",
+    "en": "江西黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seayellowfintuna823",
+    "initials": "sea",
+    "searchTerms": [
+      "江西黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--823"
+    ],
+    "summary": "江西黄鳍金枪鱼1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--824",
+    "name": "江西鱿鱼筒1",
+    "en": "江西鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seasquidtube824",
+    "initials": "sea",
+    "searchTerms": [
+      "江西鱿鱼筒1",
+      "sea-squid-tube--824"
+    ],
+    "summary": "江西鱿鱼筒1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--825",
+    "name": "江西墨鱼1",
+    "en": "江西墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seacuttlefish825",
+    "initials": "sea",
+    "searchTerms": [
+      "江西墨鱼1",
+      "sea-cuttlefish--825"
+    ],
+    "summary": "江西墨鱼1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--826",
+    "name": "江西鱿鱼干1",
+    "en": "江西鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seadriedsquid826",
+    "initials": "sea",
+    "searchTerms": [
+      "江西鱿鱼干1",
+      "sea-dried-squid--826"
+    ],
+    "summary": "江西鱿鱼干1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--827",
+    "name": "江西墨鱼干1",
+    "en": "江西墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seadriedcuttlefish827",
+    "initials": "sea",
+    "searchTerms": [
+      "江西墨鱼干1",
+      "sea-dried-cuttlefish--827"
+    ],
+    "summary": "江西墨鱼干1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--828",
+    "name": "江西花甲1",
+    "en": "江西花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seaclams828",
+    "initials": "sea",
+    "searchTerms": [
+      "江西花甲1",
+      "sea-clams--828"
+    ],
+    "summary": "江西花甲1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--829",
+    "name": "江西蛏子1",
+    "en": "江西蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "searazorclam829",
+    "initials": "sea",
+    "searchTerms": [
+      "江西蛏子1",
+      "sea-razor-clam--829"
+    ],
+    "summary": "江西蛏子1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--830",
+    "name": "江西生蚝肉1",
+    "en": "江西生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seaoystermeat830",
+    "initials": "sea",
+    "searchTerms": [
+      "江西生蚝肉1",
+      "sea-oyster-meat--830"
+    ],
+    "summary": "江西生蚝肉1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--831",
+    "name": "江西鲍鱼仔1",
+    "en": "江西鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seaabalonesmall831",
+    "initials": "sea",
+    "searchTerms": [
+      "江西鲍鱼仔1",
+      "sea-abalone-small--831"
+    ],
+    "summary": "江西鲍鱼仔1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--832",
+    "name": "江西海参干1",
+    "en": "江西海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seaseacucumberdried832",
+    "initials": "sea",
+    "searchTerms": [
+      "江西海参干1",
+      "sea-sea-cucumber-dried--832"
+    ],
+    "summary": "江西海参干1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--833",
+    "name": "江西紫菜1",
+    "en": "江西紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seaseaweedsheet833",
+    "initials": "sea",
+    "searchTerms": [
+      "江西紫菜1",
+      "sea-seaweed-sheet--833"
+    ],
+    "summary": "江西紫菜1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--834",
+    "name": "江西海带结1",
+    "en": "江西海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seakelpknot834",
+    "initials": "sea",
+    "searchTerms": [
+      "江西海带结1",
+      "sea-kelp-knot--834"
+    ],
+    "summary": "江西海带结1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--835",
+    "name": "江西银鱼1",
+    "en": "江西银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seawhitebait835",
+    "initials": "sea",
+    "searchTerms": [
+      "江西银鱼1",
+      "sea-whitebait--835"
+    ],
+    "summary": "江西银鱼1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--836",
+    "name": "江西凤尾鱼1",
+    "en": "江西凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seaanchovy836",
+    "initials": "sea",
+    "searchTerms": [
+      "江西凤尾鱼1",
+      "sea-anchovy--836"
+    ],
+    "summary": "江西凤尾鱼1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--837",
+    "name": "江西黄花鱼干1",
+    "en": "江西黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seayellowcroakerdried837",
+    "initials": "sea",
+    "searchTerms": [
+      "江西黄花鱼干1",
+      "sea-yellow-croaker-dried--837"
+    ],
+    "summary": "江西黄花鱼干1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--838",
+    "name": "江西鱼丸1",
+    "en": "江西鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seafishball838",
+    "initials": "sea",
+    "searchTerms": [
+      "江西鱼丸1",
+      "sea-fish-ball--838"
+    ],
+    "summary": "江西鱼丸1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--839",
+    "name": "江西虾滑1",
+    "en": "江西虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "seashrimppasteball839",
+    "initials": "sea",
+    "searchTerms": [
+      "江西虾滑1",
+      "sea-shrimp-paste-ball--839"
+    ],
+    "summary": "江西虾滑1为江西民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--840",
+    "name": "四川带鱼1",
+    "en": "四川带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seahairtail840",
+    "initials": "sea",
+    "searchTerms": [
+      "四川带鱼1",
+      "sea-hairtail--840"
+    ],
+    "summary": "四川带鱼1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--841",
+    "name": "四川马鲛鱼1",
+    "en": "四川马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seaspanishmackerel841",
+    "initials": "sea",
+    "searchTerms": [
+      "四川马鲛鱼1",
+      "sea-spanish-mackerel--841"
+    ],
+    "summary": "四川马鲛鱼1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--842",
+    "name": "四川鲳鱼1",
+    "en": "四川鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seapomfret842",
+    "initials": "sea",
+    "searchTerms": [
+      "四川鲳鱼1",
+      "sea-pomfret--842"
+    ],
+    "summary": "四川鲳鱼1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--843",
+    "name": "四川黄鳍金枪鱼1",
+    "en": "四川黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seayellowfintuna843",
+    "initials": "sea",
+    "searchTerms": [
+      "四川黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--843"
+    ],
+    "summary": "四川黄鳍金枪鱼1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--844",
+    "name": "四川鱿鱼筒1",
+    "en": "四川鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seasquidtube844",
+    "initials": "sea",
+    "searchTerms": [
+      "四川鱿鱼筒1",
+      "sea-squid-tube--844"
+    ],
+    "summary": "四川鱿鱼筒1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--845",
+    "name": "四川墨鱼1",
+    "en": "四川墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seacuttlefish845",
+    "initials": "sea",
+    "searchTerms": [
+      "四川墨鱼1",
+      "sea-cuttlefish--845"
+    ],
+    "summary": "四川墨鱼1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--846",
+    "name": "四川鱿鱼干1",
+    "en": "四川鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seadriedsquid846",
+    "initials": "sea",
+    "searchTerms": [
+      "四川鱿鱼干1",
+      "sea-dried-squid--846"
+    ],
+    "summary": "四川鱿鱼干1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--847",
+    "name": "四川墨鱼干1",
+    "en": "四川墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seadriedcuttlefish847",
+    "initials": "sea",
+    "searchTerms": [
+      "四川墨鱼干1",
+      "sea-dried-cuttlefish--847"
+    ],
+    "summary": "四川墨鱼干1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--848",
+    "name": "四川花甲1",
+    "en": "四川花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seaclams848",
+    "initials": "sea",
+    "searchTerms": [
+      "四川花甲1",
+      "sea-clams--848"
+    ],
+    "summary": "四川花甲1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--849",
+    "name": "四川蛏子1",
+    "en": "四川蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "searazorclam849",
+    "initials": "sea",
+    "searchTerms": [
+      "四川蛏子1",
+      "sea-razor-clam--849"
+    ],
+    "summary": "四川蛏子1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--850",
+    "name": "四川生蚝肉1",
+    "en": "四川生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seaoystermeat850",
+    "initials": "sea",
+    "searchTerms": [
+      "四川生蚝肉1",
+      "sea-oyster-meat--850"
+    ],
+    "summary": "四川生蚝肉1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--851",
+    "name": "四川鲍鱼仔1",
+    "en": "四川鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seaabalonesmall851",
+    "initials": "sea",
+    "searchTerms": [
+      "四川鲍鱼仔1",
+      "sea-abalone-small--851"
+    ],
+    "summary": "四川鲍鱼仔1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--852",
+    "name": "四川海参干1",
+    "en": "四川海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seaseacucumberdried852",
+    "initials": "sea",
+    "searchTerms": [
+      "四川海参干1",
+      "sea-sea-cucumber-dried--852"
+    ],
+    "summary": "四川海参干1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--853",
+    "name": "四川紫菜1",
+    "en": "四川紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seaseaweedsheet853",
+    "initials": "sea",
+    "searchTerms": [
+      "四川紫菜1",
+      "sea-seaweed-sheet--853"
+    ],
+    "summary": "四川紫菜1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--854",
+    "name": "四川海带结1",
+    "en": "四川海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seakelpknot854",
+    "initials": "sea",
+    "searchTerms": [
+      "四川海带结1",
+      "sea-kelp-knot--854"
+    ],
+    "summary": "四川海带结1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--855",
+    "name": "四川银鱼1",
+    "en": "四川银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seawhitebait855",
+    "initials": "sea",
+    "searchTerms": [
+      "四川银鱼1",
+      "sea-whitebait--855"
+    ],
+    "summary": "四川银鱼1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--856",
+    "name": "四川凤尾鱼1",
+    "en": "四川凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seaanchovy856",
+    "initials": "sea",
+    "searchTerms": [
+      "四川凤尾鱼1",
+      "sea-anchovy--856"
+    ],
+    "summary": "四川凤尾鱼1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--857",
+    "name": "四川黄花鱼干1",
+    "en": "四川黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seayellowcroakerdried857",
+    "initials": "sea",
+    "searchTerms": [
+      "四川黄花鱼干1",
+      "sea-yellow-croaker-dried--857"
+    ],
+    "summary": "四川黄花鱼干1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--858",
+    "name": "四川鱼丸1",
+    "en": "四川鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seafishball858",
+    "initials": "sea",
+    "searchTerms": [
+      "四川鱼丸1",
+      "sea-fish-ball--858"
+    ],
+    "summary": "四川鱼丸1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--859",
+    "name": "四川虾滑1",
+    "en": "四川虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "seashrimppasteball859",
+    "initials": "sea",
+    "searchTerms": [
+      "四川虾滑1",
+      "sea-shrimp-paste-ball--859"
+    ],
+    "summary": "四川虾滑1为四川民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--860",
+    "name": "重庆带鱼1",
+    "en": "重庆带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seahairtail860",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆带鱼1",
+      "sea-hairtail--860"
+    ],
+    "summary": "重庆带鱼1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--861",
+    "name": "重庆马鲛鱼1",
+    "en": "重庆马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seaspanishmackerel861",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆马鲛鱼1",
+      "sea-spanish-mackerel--861"
+    ],
+    "summary": "重庆马鲛鱼1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--862",
+    "name": "重庆鲳鱼1",
+    "en": "重庆鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seapomfret862",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆鲳鱼1",
+      "sea-pomfret--862"
+    ],
+    "summary": "重庆鲳鱼1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--863",
+    "name": "重庆黄鳍金枪鱼1",
+    "en": "重庆黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seayellowfintuna863",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--863"
+    ],
+    "summary": "重庆黄鳍金枪鱼1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--864",
+    "name": "重庆鱿鱼筒1",
+    "en": "重庆鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seasquidtube864",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆鱿鱼筒1",
+      "sea-squid-tube--864"
+    ],
+    "summary": "重庆鱿鱼筒1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--865",
+    "name": "重庆墨鱼1",
+    "en": "重庆墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seacuttlefish865",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆墨鱼1",
+      "sea-cuttlefish--865"
+    ],
+    "summary": "重庆墨鱼1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--866",
+    "name": "重庆鱿鱼干1",
+    "en": "重庆鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seadriedsquid866",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆鱿鱼干1",
+      "sea-dried-squid--866"
+    ],
+    "summary": "重庆鱿鱼干1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--867",
+    "name": "重庆墨鱼干1",
+    "en": "重庆墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seadriedcuttlefish867",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆墨鱼干1",
+      "sea-dried-cuttlefish--867"
+    ],
+    "summary": "重庆墨鱼干1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--868",
+    "name": "重庆花甲1",
+    "en": "重庆花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seaclams868",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆花甲1",
+      "sea-clams--868"
+    ],
+    "summary": "重庆花甲1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--869",
+    "name": "重庆蛏子1",
+    "en": "重庆蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "searazorclam869",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆蛏子1",
+      "sea-razor-clam--869"
+    ],
+    "summary": "重庆蛏子1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--870",
+    "name": "重庆生蚝肉1",
+    "en": "重庆生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seaoystermeat870",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆生蚝肉1",
+      "sea-oyster-meat--870"
+    ],
+    "summary": "重庆生蚝肉1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--871",
+    "name": "重庆鲍鱼仔1",
+    "en": "重庆鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seaabalonesmall871",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆鲍鱼仔1",
+      "sea-abalone-small--871"
+    ],
+    "summary": "重庆鲍鱼仔1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--872",
+    "name": "重庆海参干1",
+    "en": "重庆海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seaseacucumberdried872",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆海参干1",
+      "sea-sea-cucumber-dried--872"
+    ],
+    "summary": "重庆海参干1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--873",
+    "name": "重庆紫菜1",
+    "en": "重庆紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seaseaweedsheet873",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆紫菜1",
+      "sea-seaweed-sheet--873"
+    ],
+    "summary": "重庆紫菜1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--874",
+    "name": "重庆海带结1",
+    "en": "重庆海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seakelpknot874",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆海带结1",
+      "sea-kelp-knot--874"
+    ],
+    "summary": "重庆海带结1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--875",
+    "name": "重庆银鱼1",
+    "en": "重庆银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seawhitebait875",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆银鱼1",
+      "sea-whitebait--875"
+    ],
+    "summary": "重庆银鱼1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--876",
+    "name": "重庆凤尾鱼1",
+    "en": "重庆凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seaanchovy876",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆凤尾鱼1",
+      "sea-anchovy--876"
+    ],
+    "summary": "重庆凤尾鱼1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--877",
+    "name": "重庆黄花鱼干1",
+    "en": "重庆黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seayellowcroakerdried877",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆黄花鱼干1",
+      "sea-yellow-croaker-dried--877"
+    ],
+    "summary": "重庆黄花鱼干1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--878",
+    "name": "重庆鱼丸1",
+    "en": "重庆鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seafishball878",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆鱼丸1",
+      "sea-fish-ball--878"
+    ],
+    "summary": "重庆鱼丸1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--879",
+    "name": "重庆虾滑1",
+    "en": "重庆虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "seashrimppasteball879",
+    "initials": "sea",
+    "searchTerms": [
+      "重庆虾滑1",
+      "sea-shrimp-paste-ball--879"
+    ],
+    "summary": "重庆虾滑1为重庆民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--880",
+    "name": "云南带鱼1",
+    "en": "云南带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seahairtail880",
+    "initials": "sea",
+    "searchTerms": [
+      "云南带鱼1",
+      "sea-hairtail--880"
+    ],
+    "summary": "云南带鱼1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--881",
+    "name": "云南马鲛鱼1",
+    "en": "云南马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seaspanishmackerel881",
+    "initials": "sea",
+    "searchTerms": [
+      "云南马鲛鱼1",
+      "sea-spanish-mackerel--881"
+    ],
+    "summary": "云南马鲛鱼1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--882",
+    "name": "云南鲳鱼1",
+    "en": "云南鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seapomfret882",
+    "initials": "sea",
+    "searchTerms": [
+      "云南鲳鱼1",
+      "sea-pomfret--882"
+    ],
+    "summary": "云南鲳鱼1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--883",
+    "name": "云南黄鳍金枪鱼1",
+    "en": "云南黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seayellowfintuna883",
+    "initials": "sea",
+    "searchTerms": [
+      "云南黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--883"
+    ],
+    "summary": "云南黄鳍金枪鱼1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--884",
+    "name": "云南鱿鱼筒1",
+    "en": "云南鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seasquidtube884",
+    "initials": "sea",
+    "searchTerms": [
+      "云南鱿鱼筒1",
+      "sea-squid-tube--884"
+    ],
+    "summary": "云南鱿鱼筒1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--885",
+    "name": "云南墨鱼1",
+    "en": "云南墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seacuttlefish885",
+    "initials": "sea",
+    "searchTerms": [
+      "云南墨鱼1",
+      "sea-cuttlefish--885"
+    ],
+    "summary": "云南墨鱼1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--886",
+    "name": "云南鱿鱼干1",
+    "en": "云南鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seadriedsquid886",
+    "initials": "sea",
+    "searchTerms": [
+      "云南鱿鱼干1",
+      "sea-dried-squid--886"
+    ],
+    "summary": "云南鱿鱼干1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--887",
+    "name": "云南墨鱼干1",
+    "en": "云南墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seadriedcuttlefish887",
+    "initials": "sea",
+    "searchTerms": [
+      "云南墨鱼干1",
+      "sea-dried-cuttlefish--887"
+    ],
+    "summary": "云南墨鱼干1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--888",
+    "name": "云南花甲1",
+    "en": "云南花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seaclams888",
+    "initials": "sea",
+    "searchTerms": [
+      "云南花甲1",
+      "sea-clams--888"
+    ],
+    "summary": "云南花甲1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--889",
+    "name": "云南蛏子1",
+    "en": "云南蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "searazorclam889",
+    "initials": "sea",
+    "searchTerms": [
+      "云南蛏子1",
+      "sea-razor-clam--889"
+    ],
+    "summary": "云南蛏子1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--890",
+    "name": "云南生蚝肉1",
+    "en": "云南生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seaoystermeat890",
+    "initials": "sea",
+    "searchTerms": [
+      "云南生蚝肉1",
+      "sea-oyster-meat--890"
+    ],
+    "summary": "云南生蚝肉1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--891",
+    "name": "云南鲍鱼仔1",
+    "en": "云南鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seaabalonesmall891",
+    "initials": "sea",
+    "searchTerms": [
+      "云南鲍鱼仔1",
+      "sea-abalone-small--891"
+    ],
+    "summary": "云南鲍鱼仔1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--892",
+    "name": "云南海参干1",
+    "en": "云南海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seaseacucumberdried892",
+    "initials": "sea",
+    "searchTerms": [
+      "云南海参干1",
+      "sea-sea-cucumber-dried--892"
+    ],
+    "summary": "云南海参干1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--893",
+    "name": "云南紫菜1",
+    "en": "云南紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seaseaweedsheet893",
+    "initials": "sea",
+    "searchTerms": [
+      "云南紫菜1",
+      "sea-seaweed-sheet--893"
+    ],
+    "summary": "云南紫菜1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--894",
+    "name": "云南海带结1",
+    "en": "云南海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seakelpknot894",
+    "initials": "sea",
+    "searchTerms": [
+      "云南海带结1",
+      "sea-kelp-knot--894"
+    ],
+    "summary": "云南海带结1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--895",
+    "name": "云南银鱼1",
+    "en": "云南银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seawhitebait895",
+    "initials": "sea",
+    "searchTerms": [
+      "云南银鱼1",
+      "sea-whitebait--895"
+    ],
+    "summary": "云南银鱼1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--896",
+    "name": "云南凤尾鱼1",
+    "en": "云南凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seaanchovy896",
+    "initials": "sea",
+    "searchTerms": [
+      "云南凤尾鱼1",
+      "sea-anchovy--896"
+    ],
+    "summary": "云南凤尾鱼1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--897",
+    "name": "云南黄花鱼干1",
+    "en": "云南黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seayellowcroakerdried897",
+    "initials": "sea",
+    "searchTerms": [
+      "云南黄花鱼干1",
+      "sea-yellow-croaker-dried--897"
+    ],
+    "summary": "云南黄花鱼干1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--898",
+    "name": "云南鱼丸1",
+    "en": "云南鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seafishball898",
+    "initials": "sea",
+    "searchTerms": [
+      "云南鱼丸1",
+      "sea-fish-ball--898"
+    ],
+    "summary": "云南鱼丸1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--899",
+    "name": "云南虾滑1",
+    "en": "云南虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "seashrimppasteball899",
+    "initials": "sea",
+    "searchTerms": [
+      "云南虾滑1",
+      "sea-shrimp-paste-ball--899"
+    ],
+    "summary": "云南虾滑1为云南民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--900",
+    "name": "贵州带鱼1",
+    "en": "贵州带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seahairtail900",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州带鱼1",
+      "sea-hairtail--900"
+    ],
+    "summary": "贵州带鱼1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--901",
+    "name": "贵州马鲛鱼1",
+    "en": "贵州马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seaspanishmackerel901",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州马鲛鱼1",
+      "sea-spanish-mackerel--901"
+    ],
+    "summary": "贵州马鲛鱼1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--902",
+    "name": "贵州鲳鱼1",
+    "en": "贵州鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seapomfret902",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州鲳鱼1",
+      "sea-pomfret--902"
+    ],
+    "summary": "贵州鲳鱼1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--903",
+    "name": "贵州黄鳍金枪鱼1",
+    "en": "贵州黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seayellowfintuna903",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--903"
+    ],
+    "summary": "贵州黄鳍金枪鱼1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--904",
+    "name": "贵州鱿鱼筒1",
+    "en": "贵州鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seasquidtube904",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州鱿鱼筒1",
+      "sea-squid-tube--904"
+    ],
+    "summary": "贵州鱿鱼筒1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--905",
+    "name": "贵州墨鱼1",
+    "en": "贵州墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seacuttlefish905",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州墨鱼1",
+      "sea-cuttlefish--905"
+    ],
+    "summary": "贵州墨鱼1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--906",
+    "name": "贵州鱿鱼干1",
+    "en": "贵州鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seadriedsquid906",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州鱿鱼干1",
+      "sea-dried-squid--906"
+    ],
+    "summary": "贵州鱿鱼干1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--907",
+    "name": "贵州墨鱼干1",
+    "en": "贵州墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seadriedcuttlefish907",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州墨鱼干1",
+      "sea-dried-cuttlefish--907"
+    ],
+    "summary": "贵州墨鱼干1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--908",
+    "name": "贵州花甲1",
+    "en": "贵州花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seaclams908",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州花甲1",
+      "sea-clams--908"
+    ],
+    "summary": "贵州花甲1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--909",
+    "name": "贵州蛏子1",
+    "en": "贵州蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "searazorclam909",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州蛏子1",
+      "sea-razor-clam--909"
+    ],
+    "summary": "贵州蛏子1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--910",
+    "name": "贵州生蚝肉1",
+    "en": "贵州生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seaoystermeat910",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州生蚝肉1",
+      "sea-oyster-meat--910"
+    ],
+    "summary": "贵州生蚝肉1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--911",
+    "name": "贵州鲍鱼仔1",
+    "en": "贵州鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seaabalonesmall911",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州鲍鱼仔1",
+      "sea-abalone-small--911"
+    ],
+    "summary": "贵州鲍鱼仔1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--912",
+    "name": "贵州海参干1",
+    "en": "贵州海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seaseacucumberdried912",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州海参干1",
+      "sea-sea-cucumber-dried--912"
+    ],
+    "summary": "贵州海参干1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--913",
+    "name": "贵州紫菜1",
+    "en": "贵州紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seaseaweedsheet913",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州紫菜1",
+      "sea-seaweed-sheet--913"
+    ],
+    "summary": "贵州紫菜1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--914",
+    "name": "贵州海带结1",
+    "en": "贵州海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seakelpknot914",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州海带结1",
+      "sea-kelp-knot--914"
+    ],
+    "summary": "贵州海带结1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--915",
+    "name": "贵州银鱼1",
+    "en": "贵州银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seawhitebait915",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州银鱼1",
+      "sea-whitebait--915"
+    ],
+    "summary": "贵州银鱼1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--916",
+    "name": "贵州凤尾鱼1",
+    "en": "贵州凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seaanchovy916",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州凤尾鱼1",
+      "sea-anchovy--916"
+    ],
+    "summary": "贵州凤尾鱼1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--917",
+    "name": "贵州黄花鱼干1",
+    "en": "贵州黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seayellowcroakerdried917",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州黄花鱼干1",
+      "sea-yellow-croaker-dried--917"
+    ],
+    "summary": "贵州黄花鱼干1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--918",
+    "name": "贵州鱼丸1",
+    "en": "贵州鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seafishball918",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州鱼丸1",
+      "sea-fish-ball--918"
+    ],
+    "summary": "贵州鱼丸1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--919",
+    "name": "贵州虾滑1",
+    "en": "贵州虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "seashrimppasteball919",
+    "initials": "sea",
+    "searchTerms": [
+      "贵州虾滑1",
+      "sea-shrimp-paste-ball--919"
+    ],
+    "summary": "贵州虾滑1为贵州民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--920",
+    "name": "浙江带鱼1",
+    "en": "浙江带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seahairtail920",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江带鱼1",
+      "sea-hairtail--920"
+    ],
+    "summary": "浙江带鱼1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--921",
+    "name": "浙江马鲛鱼1",
+    "en": "浙江马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seaspanishmackerel921",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江马鲛鱼1",
+      "sea-spanish-mackerel--921"
+    ],
+    "summary": "浙江马鲛鱼1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--922",
+    "name": "浙江鲳鱼1",
+    "en": "浙江鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seapomfret922",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江鲳鱼1",
+      "sea-pomfret--922"
+    ],
+    "summary": "浙江鲳鱼1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--923",
+    "name": "浙江黄鳍金枪鱼1",
+    "en": "浙江黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seayellowfintuna923",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--923"
+    ],
+    "summary": "浙江黄鳍金枪鱼1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--924",
+    "name": "浙江鱿鱼筒1",
+    "en": "浙江鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seasquidtube924",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江鱿鱼筒1",
+      "sea-squid-tube--924"
+    ],
+    "summary": "浙江鱿鱼筒1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--925",
+    "name": "浙江墨鱼1",
+    "en": "浙江墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seacuttlefish925",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江墨鱼1",
+      "sea-cuttlefish--925"
+    ],
+    "summary": "浙江墨鱼1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--926",
+    "name": "浙江鱿鱼干1",
+    "en": "浙江鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seadriedsquid926",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江鱿鱼干1",
+      "sea-dried-squid--926"
+    ],
+    "summary": "浙江鱿鱼干1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--927",
+    "name": "浙江墨鱼干1",
+    "en": "浙江墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seadriedcuttlefish927",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江墨鱼干1",
+      "sea-dried-cuttlefish--927"
+    ],
+    "summary": "浙江墨鱼干1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--928",
+    "name": "浙江花甲1",
+    "en": "浙江花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seaclams928",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江花甲1",
+      "sea-clams--928"
+    ],
+    "summary": "浙江花甲1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--929",
+    "name": "浙江蛏子1",
+    "en": "浙江蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "searazorclam929",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江蛏子1",
+      "sea-razor-clam--929"
+    ],
+    "summary": "浙江蛏子1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--930",
+    "name": "浙江生蚝肉1",
+    "en": "浙江生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seaoystermeat930",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江生蚝肉1",
+      "sea-oyster-meat--930"
+    ],
+    "summary": "浙江生蚝肉1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--931",
+    "name": "浙江鲍鱼仔1",
+    "en": "浙江鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seaabalonesmall931",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江鲍鱼仔1",
+      "sea-abalone-small--931"
+    ],
+    "summary": "浙江鲍鱼仔1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--932",
+    "name": "浙江海参干1",
+    "en": "浙江海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seaseacucumberdried932",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江海参干1",
+      "sea-sea-cucumber-dried--932"
+    ],
+    "summary": "浙江海参干1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--933",
+    "name": "浙江紫菜1",
+    "en": "浙江紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seaseaweedsheet933",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江紫菜1",
+      "sea-seaweed-sheet--933"
+    ],
+    "summary": "浙江紫菜1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--934",
+    "name": "浙江海带结1",
+    "en": "浙江海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seakelpknot934",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江海带结1",
+      "sea-kelp-knot--934"
+    ],
+    "summary": "浙江海带结1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--935",
+    "name": "浙江银鱼1",
+    "en": "浙江银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seawhitebait935",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江银鱼1",
+      "sea-whitebait--935"
+    ],
+    "summary": "浙江银鱼1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--936",
+    "name": "浙江凤尾鱼1",
+    "en": "浙江凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seaanchovy936",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江凤尾鱼1",
+      "sea-anchovy--936"
+    ],
+    "summary": "浙江凤尾鱼1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--937",
+    "name": "浙江黄花鱼干1",
+    "en": "浙江黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seayellowcroakerdried937",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江黄花鱼干1",
+      "sea-yellow-croaker-dried--937"
+    ],
+    "summary": "浙江黄花鱼干1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--938",
+    "name": "浙江鱼丸1",
+    "en": "浙江鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seafishball938",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江鱼丸1",
+      "sea-fish-ball--938"
+    ],
+    "summary": "浙江鱼丸1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--939",
+    "name": "浙江虾滑1",
+    "en": "浙江虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "seashrimppasteball939",
+    "initials": "sea",
+    "searchTerms": [
+      "浙江虾滑1",
+      "sea-shrimp-paste-ball--939"
+    ],
+    "summary": "浙江虾滑1为浙江民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--940",
+    "name": "江苏带鱼1",
+    "en": "江苏带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seahairtail940",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏带鱼1",
+      "sea-hairtail--940"
+    ],
+    "summary": "江苏带鱼1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--941",
+    "name": "江苏马鲛鱼1",
+    "en": "江苏马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seaspanishmackerel941",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏马鲛鱼1",
+      "sea-spanish-mackerel--941"
+    ],
+    "summary": "江苏马鲛鱼1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--942",
+    "name": "江苏鲳鱼1",
+    "en": "江苏鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seapomfret942",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏鲳鱼1",
+      "sea-pomfret--942"
+    ],
+    "summary": "江苏鲳鱼1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--943",
+    "name": "江苏黄鳍金枪鱼1",
+    "en": "江苏黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seayellowfintuna943",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--943"
+    ],
+    "summary": "江苏黄鳍金枪鱼1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--944",
+    "name": "江苏鱿鱼筒1",
+    "en": "江苏鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seasquidtube944",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏鱿鱼筒1",
+      "sea-squid-tube--944"
+    ],
+    "summary": "江苏鱿鱼筒1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--945",
+    "name": "江苏墨鱼1",
+    "en": "江苏墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seacuttlefish945",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏墨鱼1",
+      "sea-cuttlefish--945"
+    ],
+    "summary": "江苏墨鱼1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--946",
+    "name": "江苏鱿鱼干1",
+    "en": "江苏鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seadriedsquid946",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏鱿鱼干1",
+      "sea-dried-squid--946"
+    ],
+    "summary": "江苏鱿鱼干1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--947",
+    "name": "江苏墨鱼干1",
+    "en": "江苏墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seadriedcuttlefish947",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏墨鱼干1",
+      "sea-dried-cuttlefish--947"
+    ],
+    "summary": "江苏墨鱼干1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--948",
+    "name": "江苏花甲1",
+    "en": "江苏花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seaclams948",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏花甲1",
+      "sea-clams--948"
+    ],
+    "summary": "江苏花甲1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--949",
+    "name": "江苏蛏子1",
+    "en": "江苏蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "searazorclam949",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏蛏子1",
+      "sea-razor-clam--949"
+    ],
+    "summary": "江苏蛏子1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--950",
+    "name": "江苏生蚝肉1",
+    "en": "江苏生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seaoystermeat950",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏生蚝肉1",
+      "sea-oyster-meat--950"
+    ],
+    "summary": "江苏生蚝肉1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--951",
+    "name": "江苏鲍鱼仔1",
+    "en": "江苏鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seaabalonesmall951",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏鲍鱼仔1",
+      "sea-abalone-small--951"
+    ],
+    "summary": "江苏鲍鱼仔1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--952",
+    "name": "江苏海参干1",
+    "en": "江苏海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seaseacucumberdried952",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏海参干1",
+      "sea-sea-cucumber-dried--952"
+    ],
+    "summary": "江苏海参干1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--953",
+    "name": "江苏紫菜1",
+    "en": "江苏紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seaseaweedsheet953",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏紫菜1",
+      "sea-seaweed-sheet--953"
+    ],
+    "summary": "江苏紫菜1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--954",
+    "name": "江苏海带结1",
+    "en": "江苏海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seakelpknot954",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏海带结1",
+      "sea-kelp-knot--954"
+    ],
+    "summary": "江苏海带结1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--955",
+    "name": "江苏银鱼1",
+    "en": "江苏银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seawhitebait955",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏银鱼1",
+      "sea-whitebait--955"
+    ],
+    "summary": "江苏银鱼1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--956",
+    "name": "江苏凤尾鱼1",
+    "en": "江苏凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seaanchovy956",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏凤尾鱼1",
+      "sea-anchovy--956"
+    ],
+    "summary": "江苏凤尾鱼1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--957",
+    "name": "江苏黄花鱼干1",
+    "en": "江苏黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seayellowcroakerdried957",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏黄花鱼干1",
+      "sea-yellow-croaker-dried--957"
+    ],
+    "summary": "江苏黄花鱼干1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--958",
+    "name": "江苏鱼丸1",
+    "en": "江苏鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seafishball958",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏鱼丸1",
+      "sea-fish-ball--958"
+    ],
+    "summary": "江苏鱼丸1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--959",
+    "name": "江苏虾滑1",
+    "en": "江苏虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "seashrimppasteball959",
+    "initials": "sea",
+    "searchTerms": [
+      "江苏虾滑1",
+      "sea-shrimp-paste-ball--959"
+    ],
+    "summary": "江苏虾滑1为江苏民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--960",
+    "name": "上海带鱼1",
+    "en": "上海带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seahairtail960",
+    "initials": "sea",
+    "searchTerms": [
+      "上海带鱼1",
+      "sea-hairtail--960"
+    ],
+    "summary": "上海带鱼1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--961",
+    "name": "上海马鲛鱼1",
+    "en": "上海马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seaspanishmackerel961",
+    "initials": "sea",
+    "searchTerms": [
+      "上海马鲛鱼1",
+      "sea-spanish-mackerel--961"
+    ],
+    "summary": "上海马鲛鱼1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--962",
+    "name": "上海鲳鱼1",
+    "en": "上海鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seapomfret962",
+    "initials": "sea",
+    "searchTerms": [
+      "上海鲳鱼1",
+      "sea-pomfret--962"
+    ],
+    "summary": "上海鲳鱼1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--963",
+    "name": "上海黄鳍金枪鱼1",
+    "en": "上海黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seayellowfintuna963",
+    "initials": "sea",
+    "searchTerms": [
+      "上海黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--963"
+    ],
+    "summary": "上海黄鳍金枪鱼1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--964",
+    "name": "上海鱿鱼筒1",
+    "en": "上海鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seasquidtube964",
+    "initials": "sea",
+    "searchTerms": [
+      "上海鱿鱼筒1",
+      "sea-squid-tube--964"
+    ],
+    "summary": "上海鱿鱼筒1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--965",
+    "name": "上海墨鱼1",
+    "en": "上海墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seacuttlefish965",
+    "initials": "sea",
+    "searchTerms": [
+      "上海墨鱼1",
+      "sea-cuttlefish--965"
+    ],
+    "summary": "上海墨鱼1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--966",
+    "name": "上海鱿鱼干1",
+    "en": "上海鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seadriedsquid966",
+    "initials": "sea",
+    "searchTerms": [
+      "上海鱿鱼干1",
+      "sea-dried-squid--966"
+    ],
+    "summary": "上海鱿鱼干1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--967",
+    "name": "上海墨鱼干1",
+    "en": "上海墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seadriedcuttlefish967",
+    "initials": "sea",
+    "searchTerms": [
+      "上海墨鱼干1",
+      "sea-dried-cuttlefish--967"
+    ],
+    "summary": "上海墨鱼干1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--968",
+    "name": "上海花甲1",
+    "en": "上海花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seaclams968",
+    "initials": "sea",
+    "searchTerms": [
+      "上海花甲1",
+      "sea-clams--968"
+    ],
+    "summary": "上海花甲1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--969",
+    "name": "上海蛏子1",
+    "en": "上海蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "searazorclam969",
+    "initials": "sea",
+    "searchTerms": [
+      "上海蛏子1",
+      "sea-razor-clam--969"
+    ],
+    "summary": "上海蛏子1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--970",
+    "name": "上海生蚝肉1",
+    "en": "上海生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seaoystermeat970",
+    "initials": "sea",
+    "searchTerms": [
+      "上海生蚝肉1",
+      "sea-oyster-meat--970"
+    ],
+    "summary": "上海生蚝肉1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--971",
+    "name": "上海鲍鱼仔1",
+    "en": "上海鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seaabalonesmall971",
+    "initials": "sea",
+    "searchTerms": [
+      "上海鲍鱼仔1",
+      "sea-abalone-small--971"
+    ],
+    "summary": "上海鲍鱼仔1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--972",
+    "name": "上海海参干1",
+    "en": "上海海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seaseacucumberdried972",
+    "initials": "sea",
+    "searchTerms": [
+      "上海海参干1",
+      "sea-sea-cucumber-dried--972"
+    ],
+    "summary": "上海海参干1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--973",
+    "name": "上海紫菜1",
+    "en": "上海紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seaseaweedsheet973",
+    "initials": "sea",
+    "searchTerms": [
+      "上海紫菜1",
+      "sea-seaweed-sheet--973"
+    ],
+    "summary": "上海紫菜1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--974",
+    "name": "上海海带结1",
+    "en": "上海海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seakelpknot974",
+    "initials": "sea",
+    "searchTerms": [
+      "上海海带结1",
+      "sea-kelp-knot--974"
+    ],
+    "summary": "上海海带结1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--975",
+    "name": "上海银鱼1",
+    "en": "上海银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seawhitebait975",
+    "initials": "sea",
+    "searchTerms": [
+      "上海银鱼1",
+      "sea-whitebait--975"
+    ],
+    "summary": "上海银鱼1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--976",
+    "name": "上海凤尾鱼1",
+    "en": "上海凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seaanchovy976",
+    "initials": "sea",
+    "searchTerms": [
+      "上海凤尾鱼1",
+      "sea-anchovy--976"
+    ],
+    "summary": "上海凤尾鱼1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--977",
+    "name": "上海黄花鱼干1",
+    "en": "上海黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seayellowcroakerdried977",
+    "initials": "sea",
+    "searchTerms": [
+      "上海黄花鱼干1",
+      "sea-yellow-croaker-dried--977"
+    ],
+    "summary": "上海黄花鱼干1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--978",
+    "name": "上海鱼丸1",
+    "en": "上海鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seafishball978",
+    "initials": "sea",
+    "searchTerms": [
+      "上海鱼丸1",
+      "sea-fish-ball--978"
+    ],
+    "summary": "上海鱼丸1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--979",
+    "name": "上海虾滑1",
+    "en": "上海虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "seashrimppasteball979",
+    "initials": "sea",
+    "searchTerms": [
+      "上海虾滑1",
+      "sea-shrimp-paste-ball--979"
+    ],
+    "summary": "上海虾滑1为上海民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-hairtail--980",
+    "name": "安徽带鱼1",
+    "en": "安徽带鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seahairtail980",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽带鱼1",
+      "sea-hairtail--980"
+    ],
+    "summary": "安徽带鱼1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-spanish-mackerel--981",
+    "name": "安徽马鲛鱼1",
+    "en": "安徽马鲛鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seaspanishmackerel981",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽马鲛鱼1",
+      "sea-spanish-mackerel--981"
+    ],
+    "summary": "安徽马鲛鱼1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-pomfret--982",
+    "name": "安徽鲳鱼1",
+    "en": "安徽鲳鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seapomfret982",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽鲳鱼1",
+      "sea-pomfret--982"
+    ],
+    "summary": "安徽鲳鱼1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-fin-tuna--983",
+    "name": "安徽黄鳍金枪鱼1",
+    "en": "安徽黄鳍金枪鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seayellowfintuna983",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽黄鳍金枪鱼1",
+      "sea-yellow-fin-tuna--983"
+    ],
+    "summary": "安徽黄鳍金枪鱼1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-squid-tube--984",
+    "name": "安徽鱿鱼筒1",
+    "en": "安徽鱿鱼筒1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seasquidtube984",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽鱿鱼筒1",
+      "sea-squid-tube--984"
+    ],
+    "summary": "安徽鱿鱼筒1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-cuttlefish--985",
+    "name": "安徽墨鱼1",
+    "en": "安徽墨鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seacuttlefish985",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽墨鱼1",
+      "sea-cuttlefish--985"
+    ],
+    "summary": "安徽墨鱼1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-squid--986",
+    "name": "安徽鱿鱼干1",
+    "en": "安徽鱿鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seadriedsquid986",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽鱿鱼干1",
+      "sea-dried-squid--986"
+    ],
+    "summary": "安徽鱿鱼干1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-dried-cuttlefish--987",
+    "name": "安徽墨鱼干1",
+    "en": "安徽墨鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seadriedcuttlefish987",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽墨鱼干1",
+      "sea-dried-cuttlefish--987"
+    ],
+    "summary": "安徽墨鱼干1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-clams--988",
+    "name": "安徽花甲1",
+    "en": "安徽花甲1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seaclams988",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽花甲1",
+      "sea-clams--988"
+    ],
+    "summary": "安徽花甲1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-razor-clam--989",
+    "name": "安徽蛏子1",
+    "en": "安徽蛏子1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "searazorclam989",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽蛏子1",
+      "sea-razor-clam--989"
+    ],
+    "summary": "安徽蛏子1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-oyster-meat--990",
+    "name": "安徽生蚝肉1",
+    "en": "安徽生蚝肉1",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seaoystermeat990",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽生蚝肉1",
+      "sea-oyster-meat--990"
+    ],
+    "summary": "安徽生蚝肉1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-abalone-small--991",
+    "name": "安徽鲍鱼仔1",
+    "en": "安徽鲍鱼仔1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seaabalonesmall991",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽鲍鱼仔1",
+      "sea-abalone-small--991"
+    ],
+    "summary": "安徽鲍鱼仔1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-sea-cucumber-dried--992",
+    "name": "安徽海参干1",
+    "en": "安徽海参干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seaseacucumberdried992",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽海参干1",
+      "sea-sea-cucumber-dried--992"
+    ],
+    "summary": "安徽海参干1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-seaweed-sheet--993",
+    "name": "安徽紫菜1",
+    "en": "安徽紫菜1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seaseaweedsheet993",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽紫菜1",
+      "sea-seaweed-sheet--993"
+    ],
+    "summary": "安徽紫菜1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-kelp-knot--994",
+    "name": "安徽海带结1",
+    "en": "安徽海带结1",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seakelpknot994",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽海带结1",
+      "sea-kelp-knot--994"
+    ],
+    "summary": "安徽海带结1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-whitebait--995",
+    "name": "安徽银鱼1",
+    "en": "安徽银鱼1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seawhitebait995",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽银鱼1",
+      "sea-whitebait--995"
+    ],
+    "summary": "安徽银鱼1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-anchovy--996",
+    "name": "安徽凤尾鱼1",
+    "en": "安徽凤尾鱼1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seaanchovy996",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽凤尾鱼1",
+      "sea-anchovy--996"
+    ],
+    "summary": "安徽凤尾鱼1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-yellow-croaker-dried--997",
+    "name": "安徽黄花鱼干1",
+    "en": "安徽黄花鱼干1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seayellowcroakerdried997",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽黄花鱼干1",
+      "sea-yellow-croaker-dried--997"
+    ],
+    "summary": "安徽黄花鱼干1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-fish-ball--998",
+    "name": "安徽鱼丸1",
+    "en": "安徽鱼丸1",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seafishball998",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽鱼丸1",
+      "sea-fish-ball--998"
+    ],
+    "summary": "安徽鱼丸1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sea-shrimp-paste-ball--999",
+    "name": "安徽虾滑1",
+    "en": "安徽虾滑1",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "seashrimppasteball999",
+    "initials": "sea",
+    "searchTerms": [
+      "安徽虾滑1",
+      "sea-shrimp-paste-ball--999"
+    ],
+    "summary": "安徽虾滑1为安徽民间常见海产，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

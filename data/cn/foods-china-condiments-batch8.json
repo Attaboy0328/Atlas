@@ -1,0 +1,9002 @@
+[
+  {
+    "id": "cond-sweet-bean-sauce--641",
+    "name": "天津甜面酱",
+    "en": "天津甜面酱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condsweetbeansauce641",
+    "initials": "con",
+    "searchTerms": [
+      "天津甜面酱",
+      "cond-sweet-bean-sauce--641"
+    ],
+    "summary": "天津甜面酱为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--642",
+    "name": "天津辣豆瓣酱",
+    "en": "天津辣豆瓣酱",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condchilibeanpaste642",
+    "initials": "con",
+    "searchTerms": [
+      "天津辣豆瓣酱",
+      "cond-chili-bean-paste--642"
+    ],
+    "summary": "天津辣豆瓣酱为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--643",
+    "name": "天津白腐乳",
+    "en": "天津白腐乳",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condfermentedtofuwhite643",
+    "initials": "con",
+    "searchTerms": [
+      "天津白腐乳",
+      "cond-fermented-tofu-white--643"
+    ],
+    "summary": "天津白腐乳为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--644",
+    "name": "天津玫瑰腐乳",
+    "en": "天津玫瑰腐乳",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condfermentedtofurose644",
+    "initials": "con",
+    "searchTerms": [
+      "天津玫瑰腐乳",
+      "cond-fermented-tofu-rose--644"
+    ],
+    "summary": "天津玫瑰腐乳为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--645",
+    "name": "天津芝麻油",
+    "en": "天津芝麻油",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condsesameoil645",
+    "initials": "con",
+    "searchTerms": [
+      "天津芝麻油",
+      "cond-sesame-oil--645"
+    ],
+    "summary": "天津芝麻油为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--646",
+    "name": "天津辣椒油",
+    "en": "天津辣椒油",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condchilioil646",
+    "initials": "con",
+    "searchTerms": [
+      "天津辣椒油",
+      "cond-chili-oil--646"
+    ],
+    "summary": "天津辣椒油为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--647",
+    "name": "天津花椒油",
+    "en": "天津花椒油",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condsichuanpepperoil647",
+    "initials": "con",
+    "searchTerms": [
+      "天津花椒油",
+      "cond-sichuan-pepper-oil--647"
+    ],
+    "summary": "天津花椒油为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--648",
+    "name": "天津蚝油",
+    "en": "天津蚝油",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condoystersauce648",
+    "initials": "con",
+    "searchTerms": [
+      "天津蚝油",
+      "cond-oyster-sauce--648"
+    ],
+    "summary": "天津蚝油为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--649",
+    "name": "天津虾酱",
+    "en": "天津虾酱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condshrimpsauce649",
+    "initials": "con",
+    "searchTerms": [
+      "天津虾酱",
+      "cond-shrimp-sauce--649"
+    ],
+    "summary": "天津虾酱为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--650",
+    "name": "天津鱼露",
+    "en": "天津鱼露",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condfishsaucegd650",
+    "initials": "con",
+    "searchTerms": [
+      "天津鱼露",
+      "cond-fish-sauce-gd--650"
+    ],
+    "summary": "天津鱼露为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--651",
+    "name": "天津料酒",
+    "en": "天津料酒",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condricewinecooking651",
+    "initials": "con",
+    "searchTerms": [
+      "天津料酒",
+      "cond-rice-wine-cooking--651"
+    ],
+    "summary": "天津料酒为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--652",
+    "name": "天津黄酒",
+    "en": "天津黄酒",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condyellowricewine652",
+    "initials": "con",
+    "searchTerms": [
+      "天津黄酒",
+      "cond-yellow-rice-wine--652"
+    ],
+    "summary": "天津黄酒为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--653",
+    "name": "天津玫瑰露酒",
+    "en": "天津玫瑰露酒",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condrosefermentedwine653",
+    "initials": "con",
+    "searchTerms": [
+      "天津玫瑰露酒",
+      "cond-rose-fermented-wine--653"
+    ],
+    "summary": "天津玫瑰露酒为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--654",
+    "name": "天津咸酸梅",
+    "en": "天津咸酸梅",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condpreservedplum654",
+    "initials": "con",
+    "searchTerms": [
+      "天津咸酸梅",
+      "cond-preserved-plum--654"
+    ],
+    "summary": "天津咸酸梅为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--655",
+    "name": "天津卤水汁",
+    "en": "天津卤水汁",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condmasterstock655",
+    "initials": "con",
+    "searchTerms": [
+      "天津卤水汁",
+      "cond-master-stock--655"
+    ],
+    "summary": "天津卤水汁为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--656",
+    "name": "天津五香粉",
+    "en": "天津五香粉",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condfivespicepowder656",
+    "initials": "con",
+    "searchTerms": [
+      "天津五香粉",
+      "cond-five-spice-powder--656"
+    ],
+    "summary": "天津五香粉为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--657",
+    "name": "天津咖喱粉",
+    "en": "天津咖喱粉",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condcurrypowdercn657",
+    "initials": "con",
+    "searchTerms": [
+      "天津咖喱粉",
+      "cond-curry-powder-cn--657"
+    ],
+    "summary": "天津咖喱粉为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--658",
+    "name": "天津沙茶酱",
+    "en": "天津沙茶酱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condsataysauce658",
+    "initials": "con",
+    "searchTerms": [
+      "天津沙茶酱",
+      "cond-satay-sauce--658"
+    ],
+    "summary": "天津沙茶酱为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--659",
+    "name": "天津叉烧酱",
+    "en": "天津叉烧酱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "condbbqsaucecn659",
+    "initials": "con",
+    "searchTerms": [
+      "天津叉烧酱",
+      "cond-bbq-sauce-cn--659"
+    ],
+    "summary": "天津叉烧酱为天津民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--660",
+    "name": "广东黄豆酱1",
+    "en": "广东黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condbeanpaste660",
+    "initials": "con",
+    "searchTerms": [
+      "广东黄豆酱1",
+      "cond-bean-paste--660"
+    ],
+    "summary": "广东黄豆酱1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--661",
+    "name": "广东甜面酱1",
+    "en": "广东甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condsweetbeansauce661",
+    "initials": "con",
+    "searchTerms": [
+      "广东甜面酱1",
+      "cond-sweet-bean-sauce--661"
+    ],
+    "summary": "广东甜面酱1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--662",
+    "name": "广东辣豆瓣酱1",
+    "en": "广东辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condchilibeanpaste662",
+    "initials": "con",
+    "searchTerms": [
+      "广东辣豆瓣酱1",
+      "cond-chili-bean-paste--662"
+    ],
+    "summary": "广东辣豆瓣酱1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--663",
+    "name": "广东白腐乳1",
+    "en": "广东白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condfermentedtofuwhite663",
+    "initials": "con",
+    "searchTerms": [
+      "广东白腐乳1",
+      "cond-fermented-tofu-white--663"
+    ],
+    "summary": "广东白腐乳1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--664",
+    "name": "广东玫瑰腐乳1",
+    "en": "广东玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condfermentedtofurose664",
+    "initials": "con",
+    "searchTerms": [
+      "广东玫瑰腐乳1",
+      "cond-fermented-tofu-rose--664"
+    ],
+    "summary": "广东玫瑰腐乳1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--665",
+    "name": "广东芝麻油1",
+    "en": "广东芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condsesameoil665",
+    "initials": "con",
+    "searchTerms": [
+      "广东芝麻油1",
+      "cond-sesame-oil--665"
+    ],
+    "summary": "广东芝麻油1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--666",
+    "name": "广东辣椒油1",
+    "en": "广东辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condchilioil666",
+    "initials": "con",
+    "searchTerms": [
+      "广东辣椒油1",
+      "cond-chili-oil--666"
+    ],
+    "summary": "广东辣椒油1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--667",
+    "name": "广东花椒油1",
+    "en": "广东花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condsichuanpepperoil667",
+    "initials": "con",
+    "searchTerms": [
+      "广东花椒油1",
+      "cond-sichuan-pepper-oil--667"
+    ],
+    "summary": "广东花椒油1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--668",
+    "name": "广东蚝油1",
+    "en": "广东蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condoystersauce668",
+    "initials": "con",
+    "searchTerms": [
+      "广东蚝油1",
+      "cond-oyster-sauce--668"
+    ],
+    "summary": "广东蚝油1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--669",
+    "name": "广东虾酱1",
+    "en": "广东虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condshrimpsauce669",
+    "initials": "con",
+    "searchTerms": [
+      "广东虾酱1",
+      "cond-shrimp-sauce--669"
+    ],
+    "summary": "广东虾酱1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--670",
+    "name": "广东鱼露1",
+    "en": "广东鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condfishsaucegd670",
+    "initials": "con",
+    "searchTerms": [
+      "广东鱼露1",
+      "cond-fish-sauce-gd--670"
+    ],
+    "summary": "广东鱼露1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--671",
+    "name": "广东料酒1",
+    "en": "广东料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condricewinecooking671",
+    "initials": "con",
+    "searchTerms": [
+      "广东料酒1",
+      "cond-rice-wine-cooking--671"
+    ],
+    "summary": "广东料酒1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--672",
+    "name": "广东黄酒1",
+    "en": "广东黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condyellowricewine672",
+    "initials": "con",
+    "searchTerms": [
+      "广东黄酒1",
+      "cond-yellow-rice-wine--672"
+    ],
+    "summary": "广东黄酒1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--673",
+    "name": "广东玫瑰露酒1",
+    "en": "广东玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condrosefermentedwine673",
+    "initials": "con",
+    "searchTerms": [
+      "广东玫瑰露酒1",
+      "cond-rose-fermented-wine--673"
+    ],
+    "summary": "广东玫瑰露酒1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--674",
+    "name": "广东咸酸梅1",
+    "en": "广东咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condpreservedplum674",
+    "initials": "con",
+    "searchTerms": [
+      "广东咸酸梅1",
+      "cond-preserved-plum--674"
+    ],
+    "summary": "广东咸酸梅1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--675",
+    "name": "广东卤水汁1",
+    "en": "广东卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condmasterstock675",
+    "initials": "con",
+    "searchTerms": [
+      "广东卤水汁1",
+      "cond-master-stock--675"
+    ],
+    "summary": "广东卤水汁1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--676",
+    "name": "广东五香粉1",
+    "en": "广东五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condfivespicepowder676",
+    "initials": "con",
+    "searchTerms": [
+      "广东五香粉1",
+      "cond-five-spice-powder--676"
+    ],
+    "summary": "广东五香粉1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--677",
+    "name": "广东咖喱粉1",
+    "en": "广东咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condcurrypowdercn677",
+    "initials": "con",
+    "searchTerms": [
+      "广东咖喱粉1",
+      "cond-curry-powder-cn--677"
+    ],
+    "summary": "广东咖喱粉1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--678",
+    "name": "广东沙茶酱1",
+    "en": "广东沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condsataysauce678",
+    "initials": "con",
+    "searchTerms": [
+      "广东沙茶酱1",
+      "cond-satay-sauce--678"
+    ],
+    "summary": "广东沙茶酱1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--679",
+    "name": "广东叉烧酱1",
+    "en": "广东叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "condbbqsaucecn679",
+    "initials": "con",
+    "searchTerms": [
+      "广东叉烧酱1",
+      "cond-bbq-sauce-cn--679"
+    ],
+    "summary": "广东叉烧酱1为广东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--680",
+    "name": "香港黄豆酱1",
+    "en": "香港黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condbeanpaste680",
+    "initials": "con",
+    "searchTerms": [
+      "香港黄豆酱1",
+      "cond-bean-paste--680"
+    ],
+    "summary": "香港黄豆酱1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--681",
+    "name": "香港甜面酱1",
+    "en": "香港甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condsweetbeansauce681",
+    "initials": "con",
+    "searchTerms": [
+      "香港甜面酱1",
+      "cond-sweet-bean-sauce--681"
+    ],
+    "summary": "香港甜面酱1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--682",
+    "name": "香港辣豆瓣酱1",
+    "en": "香港辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condchilibeanpaste682",
+    "initials": "con",
+    "searchTerms": [
+      "香港辣豆瓣酱1",
+      "cond-chili-bean-paste--682"
+    ],
+    "summary": "香港辣豆瓣酱1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--683",
+    "name": "香港白腐乳1",
+    "en": "香港白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condfermentedtofuwhite683",
+    "initials": "con",
+    "searchTerms": [
+      "香港白腐乳1",
+      "cond-fermented-tofu-white--683"
+    ],
+    "summary": "香港白腐乳1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--684",
+    "name": "香港玫瑰腐乳1",
+    "en": "香港玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condfermentedtofurose684",
+    "initials": "con",
+    "searchTerms": [
+      "香港玫瑰腐乳1",
+      "cond-fermented-tofu-rose--684"
+    ],
+    "summary": "香港玫瑰腐乳1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--685",
+    "name": "香港芝麻油1",
+    "en": "香港芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condsesameoil685",
+    "initials": "con",
+    "searchTerms": [
+      "香港芝麻油1",
+      "cond-sesame-oil--685"
+    ],
+    "summary": "香港芝麻油1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--686",
+    "name": "香港辣椒油1",
+    "en": "香港辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condchilioil686",
+    "initials": "con",
+    "searchTerms": [
+      "香港辣椒油1",
+      "cond-chili-oil--686"
+    ],
+    "summary": "香港辣椒油1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--687",
+    "name": "香港花椒油1",
+    "en": "香港花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condsichuanpepperoil687",
+    "initials": "con",
+    "searchTerms": [
+      "香港花椒油1",
+      "cond-sichuan-pepper-oil--687"
+    ],
+    "summary": "香港花椒油1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--688",
+    "name": "香港蚝油1",
+    "en": "香港蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condoystersauce688",
+    "initials": "con",
+    "searchTerms": [
+      "香港蚝油1",
+      "cond-oyster-sauce--688"
+    ],
+    "summary": "香港蚝油1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--689",
+    "name": "香港虾酱1",
+    "en": "香港虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condshrimpsauce689",
+    "initials": "con",
+    "searchTerms": [
+      "香港虾酱1",
+      "cond-shrimp-sauce--689"
+    ],
+    "summary": "香港虾酱1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--690",
+    "name": "香港鱼露1",
+    "en": "香港鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condfishsaucegd690",
+    "initials": "con",
+    "searchTerms": [
+      "香港鱼露1",
+      "cond-fish-sauce-gd--690"
+    ],
+    "summary": "香港鱼露1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--691",
+    "name": "香港料酒1",
+    "en": "香港料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condricewinecooking691",
+    "initials": "con",
+    "searchTerms": [
+      "香港料酒1",
+      "cond-rice-wine-cooking--691"
+    ],
+    "summary": "香港料酒1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--692",
+    "name": "香港黄酒1",
+    "en": "香港黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condyellowricewine692",
+    "initials": "con",
+    "searchTerms": [
+      "香港黄酒1",
+      "cond-yellow-rice-wine--692"
+    ],
+    "summary": "香港黄酒1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--693",
+    "name": "香港玫瑰露酒1",
+    "en": "香港玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condrosefermentedwine693",
+    "initials": "con",
+    "searchTerms": [
+      "香港玫瑰露酒1",
+      "cond-rose-fermented-wine--693"
+    ],
+    "summary": "香港玫瑰露酒1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--694",
+    "name": "香港咸酸梅1",
+    "en": "香港咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condpreservedplum694",
+    "initials": "con",
+    "searchTerms": [
+      "香港咸酸梅1",
+      "cond-preserved-plum--694"
+    ],
+    "summary": "香港咸酸梅1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--695",
+    "name": "香港卤水汁1",
+    "en": "香港卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condmasterstock695",
+    "initials": "con",
+    "searchTerms": [
+      "香港卤水汁1",
+      "cond-master-stock--695"
+    ],
+    "summary": "香港卤水汁1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--696",
+    "name": "香港五香粉1",
+    "en": "香港五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condfivespicepowder696",
+    "initials": "con",
+    "searchTerms": [
+      "香港五香粉1",
+      "cond-five-spice-powder--696"
+    ],
+    "summary": "香港五香粉1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--697",
+    "name": "香港咖喱粉1",
+    "en": "香港咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condcurrypowdercn697",
+    "initials": "con",
+    "searchTerms": [
+      "香港咖喱粉1",
+      "cond-curry-powder-cn--697"
+    ],
+    "summary": "香港咖喱粉1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--698",
+    "name": "香港沙茶酱1",
+    "en": "香港沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condsataysauce698",
+    "initials": "con",
+    "searchTerms": [
+      "香港沙茶酱1",
+      "cond-satay-sauce--698"
+    ],
+    "summary": "香港沙茶酱1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--699",
+    "name": "香港叉烧酱1",
+    "en": "香港叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "pinyin": "condbbqsaucecn699",
+    "initials": "con",
+    "searchTerms": [
+      "香港叉烧酱1",
+      "cond-bbq-sauce-cn--699"
+    ],
+    "summary": "香港叉烧酱1为香港民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--700",
+    "name": "澳门黄豆酱1",
+    "en": "澳门黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condbeanpaste700",
+    "initials": "con",
+    "searchTerms": [
+      "澳门黄豆酱1",
+      "cond-bean-paste--700"
+    ],
+    "summary": "澳门黄豆酱1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--701",
+    "name": "澳门甜面酱1",
+    "en": "澳门甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condsweetbeansauce701",
+    "initials": "con",
+    "searchTerms": [
+      "澳门甜面酱1",
+      "cond-sweet-bean-sauce--701"
+    ],
+    "summary": "澳门甜面酱1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--702",
+    "name": "澳门辣豆瓣酱1",
+    "en": "澳门辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condchilibeanpaste702",
+    "initials": "con",
+    "searchTerms": [
+      "澳门辣豆瓣酱1",
+      "cond-chili-bean-paste--702"
+    ],
+    "summary": "澳门辣豆瓣酱1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--703",
+    "name": "澳门白腐乳1",
+    "en": "澳门白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condfermentedtofuwhite703",
+    "initials": "con",
+    "searchTerms": [
+      "澳门白腐乳1",
+      "cond-fermented-tofu-white--703"
+    ],
+    "summary": "澳门白腐乳1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--704",
+    "name": "澳门玫瑰腐乳1",
+    "en": "澳门玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condfermentedtofurose704",
+    "initials": "con",
+    "searchTerms": [
+      "澳门玫瑰腐乳1",
+      "cond-fermented-tofu-rose--704"
+    ],
+    "summary": "澳门玫瑰腐乳1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--705",
+    "name": "澳门芝麻油1",
+    "en": "澳门芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condsesameoil705",
+    "initials": "con",
+    "searchTerms": [
+      "澳门芝麻油1",
+      "cond-sesame-oil--705"
+    ],
+    "summary": "澳门芝麻油1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--706",
+    "name": "澳门辣椒油1",
+    "en": "澳门辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condchilioil706",
+    "initials": "con",
+    "searchTerms": [
+      "澳门辣椒油1",
+      "cond-chili-oil--706"
+    ],
+    "summary": "澳门辣椒油1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--707",
+    "name": "澳门花椒油1",
+    "en": "澳门花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condsichuanpepperoil707",
+    "initials": "con",
+    "searchTerms": [
+      "澳门花椒油1",
+      "cond-sichuan-pepper-oil--707"
+    ],
+    "summary": "澳门花椒油1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--708",
+    "name": "澳门蚝油1",
+    "en": "澳门蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condoystersauce708",
+    "initials": "con",
+    "searchTerms": [
+      "澳门蚝油1",
+      "cond-oyster-sauce--708"
+    ],
+    "summary": "澳门蚝油1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--709",
+    "name": "澳门虾酱1",
+    "en": "澳门虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condshrimpsauce709",
+    "initials": "con",
+    "searchTerms": [
+      "澳门虾酱1",
+      "cond-shrimp-sauce--709"
+    ],
+    "summary": "澳门虾酱1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--710",
+    "name": "澳门鱼露1",
+    "en": "澳门鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condfishsaucegd710",
+    "initials": "con",
+    "searchTerms": [
+      "澳门鱼露1",
+      "cond-fish-sauce-gd--710"
+    ],
+    "summary": "澳门鱼露1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--711",
+    "name": "澳门料酒1",
+    "en": "澳门料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condricewinecooking711",
+    "initials": "con",
+    "searchTerms": [
+      "澳门料酒1",
+      "cond-rice-wine-cooking--711"
+    ],
+    "summary": "澳门料酒1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--712",
+    "name": "澳门黄酒1",
+    "en": "澳门黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condyellowricewine712",
+    "initials": "con",
+    "searchTerms": [
+      "澳门黄酒1",
+      "cond-yellow-rice-wine--712"
+    ],
+    "summary": "澳门黄酒1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--713",
+    "name": "澳门玫瑰露酒1",
+    "en": "澳门玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condrosefermentedwine713",
+    "initials": "con",
+    "searchTerms": [
+      "澳门玫瑰露酒1",
+      "cond-rose-fermented-wine--713"
+    ],
+    "summary": "澳门玫瑰露酒1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--714",
+    "name": "澳门咸酸梅1",
+    "en": "澳门咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condpreservedplum714",
+    "initials": "con",
+    "searchTerms": [
+      "澳门咸酸梅1",
+      "cond-preserved-plum--714"
+    ],
+    "summary": "澳门咸酸梅1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--715",
+    "name": "澳门卤水汁1",
+    "en": "澳门卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condmasterstock715",
+    "initials": "con",
+    "searchTerms": [
+      "澳门卤水汁1",
+      "cond-master-stock--715"
+    ],
+    "summary": "澳门卤水汁1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--716",
+    "name": "澳门五香粉1",
+    "en": "澳门五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condfivespicepowder716",
+    "initials": "con",
+    "searchTerms": [
+      "澳门五香粉1",
+      "cond-five-spice-powder--716"
+    ],
+    "summary": "澳门五香粉1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--717",
+    "name": "澳门咖喱粉1",
+    "en": "澳门咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condcurrypowdercn717",
+    "initials": "con",
+    "searchTerms": [
+      "澳门咖喱粉1",
+      "cond-curry-powder-cn--717"
+    ],
+    "summary": "澳门咖喱粉1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--718",
+    "name": "澳门沙茶酱1",
+    "en": "澳门沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condsataysauce718",
+    "initials": "con",
+    "searchTerms": [
+      "澳门沙茶酱1",
+      "cond-satay-sauce--718"
+    ],
+    "summary": "澳门沙茶酱1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--719",
+    "name": "澳门叉烧酱1",
+    "en": "澳门叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "condbbqsaucecn719",
+    "initials": "con",
+    "searchTerms": [
+      "澳门叉烧酱1",
+      "cond-bbq-sauce-cn--719"
+    ],
+    "summary": "澳门叉烧酱1为澳门民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--720",
+    "name": "广西黄豆酱1",
+    "en": "广西黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condbeanpaste720",
+    "initials": "con",
+    "searchTerms": [
+      "广西黄豆酱1",
+      "cond-bean-paste--720"
+    ],
+    "summary": "广西黄豆酱1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--721",
+    "name": "广西甜面酱1",
+    "en": "广西甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condsweetbeansauce721",
+    "initials": "con",
+    "searchTerms": [
+      "广西甜面酱1",
+      "cond-sweet-bean-sauce--721"
+    ],
+    "summary": "广西甜面酱1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--722",
+    "name": "广西辣豆瓣酱1",
+    "en": "广西辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condchilibeanpaste722",
+    "initials": "con",
+    "searchTerms": [
+      "广西辣豆瓣酱1",
+      "cond-chili-bean-paste--722"
+    ],
+    "summary": "广西辣豆瓣酱1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--723",
+    "name": "广西白腐乳1",
+    "en": "广西白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condfermentedtofuwhite723",
+    "initials": "con",
+    "searchTerms": [
+      "广西白腐乳1",
+      "cond-fermented-tofu-white--723"
+    ],
+    "summary": "广西白腐乳1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--724",
+    "name": "广西玫瑰腐乳1",
+    "en": "广西玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condfermentedtofurose724",
+    "initials": "con",
+    "searchTerms": [
+      "广西玫瑰腐乳1",
+      "cond-fermented-tofu-rose--724"
+    ],
+    "summary": "广西玫瑰腐乳1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--725",
+    "name": "广西芝麻油1",
+    "en": "广西芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condsesameoil725",
+    "initials": "con",
+    "searchTerms": [
+      "广西芝麻油1",
+      "cond-sesame-oil--725"
+    ],
+    "summary": "广西芝麻油1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--726",
+    "name": "广西辣椒油1",
+    "en": "广西辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condchilioil726",
+    "initials": "con",
+    "searchTerms": [
+      "广西辣椒油1",
+      "cond-chili-oil--726"
+    ],
+    "summary": "广西辣椒油1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--727",
+    "name": "广西花椒油1",
+    "en": "广西花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condsichuanpepperoil727",
+    "initials": "con",
+    "searchTerms": [
+      "广西花椒油1",
+      "cond-sichuan-pepper-oil--727"
+    ],
+    "summary": "广西花椒油1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--728",
+    "name": "广西蚝油1",
+    "en": "广西蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condoystersauce728",
+    "initials": "con",
+    "searchTerms": [
+      "广西蚝油1",
+      "cond-oyster-sauce--728"
+    ],
+    "summary": "广西蚝油1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--729",
+    "name": "广西虾酱1",
+    "en": "广西虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condshrimpsauce729",
+    "initials": "con",
+    "searchTerms": [
+      "广西虾酱1",
+      "cond-shrimp-sauce--729"
+    ],
+    "summary": "广西虾酱1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--730",
+    "name": "广西鱼露1",
+    "en": "广西鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condfishsaucegd730",
+    "initials": "con",
+    "searchTerms": [
+      "广西鱼露1",
+      "cond-fish-sauce-gd--730"
+    ],
+    "summary": "广西鱼露1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--731",
+    "name": "广西料酒1",
+    "en": "广西料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condricewinecooking731",
+    "initials": "con",
+    "searchTerms": [
+      "广西料酒1",
+      "cond-rice-wine-cooking--731"
+    ],
+    "summary": "广西料酒1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--732",
+    "name": "广西黄酒1",
+    "en": "广西黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condyellowricewine732",
+    "initials": "con",
+    "searchTerms": [
+      "广西黄酒1",
+      "cond-yellow-rice-wine--732"
+    ],
+    "summary": "广西黄酒1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--733",
+    "name": "广西玫瑰露酒1",
+    "en": "广西玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condrosefermentedwine733",
+    "initials": "con",
+    "searchTerms": [
+      "广西玫瑰露酒1",
+      "cond-rose-fermented-wine--733"
+    ],
+    "summary": "广西玫瑰露酒1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--734",
+    "name": "广西咸酸梅1",
+    "en": "广西咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condpreservedplum734",
+    "initials": "con",
+    "searchTerms": [
+      "广西咸酸梅1",
+      "cond-preserved-plum--734"
+    ],
+    "summary": "广西咸酸梅1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--735",
+    "name": "广西卤水汁1",
+    "en": "广西卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condmasterstock735",
+    "initials": "con",
+    "searchTerms": [
+      "广西卤水汁1",
+      "cond-master-stock--735"
+    ],
+    "summary": "广西卤水汁1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--736",
+    "name": "广西五香粉1",
+    "en": "广西五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condfivespicepowder736",
+    "initials": "con",
+    "searchTerms": [
+      "广西五香粉1",
+      "cond-five-spice-powder--736"
+    ],
+    "summary": "广西五香粉1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--737",
+    "name": "广西咖喱粉1",
+    "en": "广西咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condcurrypowdercn737",
+    "initials": "con",
+    "searchTerms": [
+      "广西咖喱粉1",
+      "cond-curry-powder-cn--737"
+    ],
+    "summary": "广西咖喱粉1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--738",
+    "name": "广西沙茶酱1",
+    "en": "广西沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condsataysauce738",
+    "initials": "con",
+    "searchTerms": [
+      "广西沙茶酱1",
+      "cond-satay-sauce--738"
+    ],
+    "summary": "广西沙茶酱1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--739",
+    "name": "广西叉烧酱1",
+    "en": "广西叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "condbbqsaucecn739",
+    "initials": "con",
+    "searchTerms": [
+      "广西叉烧酱1",
+      "cond-bbq-sauce-cn--739"
+    ],
+    "summary": "广西叉烧酱1为广西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--740",
+    "name": "福建黄豆酱1",
+    "en": "福建黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condbeanpaste740",
+    "initials": "con",
+    "searchTerms": [
+      "福建黄豆酱1",
+      "cond-bean-paste--740"
+    ],
+    "summary": "福建黄豆酱1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--741",
+    "name": "福建甜面酱1",
+    "en": "福建甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condsweetbeansauce741",
+    "initials": "con",
+    "searchTerms": [
+      "福建甜面酱1",
+      "cond-sweet-bean-sauce--741"
+    ],
+    "summary": "福建甜面酱1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--742",
+    "name": "福建辣豆瓣酱1",
+    "en": "福建辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condchilibeanpaste742",
+    "initials": "con",
+    "searchTerms": [
+      "福建辣豆瓣酱1",
+      "cond-chili-bean-paste--742"
+    ],
+    "summary": "福建辣豆瓣酱1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--743",
+    "name": "福建白腐乳1",
+    "en": "福建白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condfermentedtofuwhite743",
+    "initials": "con",
+    "searchTerms": [
+      "福建白腐乳1",
+      "cond-fermented-tofu-white--743"
+    ],
+    "summary": "福建白腐乳1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--744",
+    "name": "福建玫瑰腐乳1",
+    "en": "福建玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condfermentedtofurose744",
+    "initials": "con",
+    "searchTerms": [
+      "福建玫瑰腐乳1",
+      "cond-fermented-tofu-rose--744"
+    ],
+    "summary": "福建玫瑰腐乳1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--745",
+    "name": "福建芝麻油1",
+    "en": "福建芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condsesameoil745",
+    "initials": "con",
+    "searchTerms": [
+      "福建芝麻油1",
+      "cond-sesame-oil--745"
+    ],
+    "summary": "福建芝麻油1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--746",
+    "name": "福建辣椒油1",
+    "en": "福建辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condchilioil746",
+    "initials": "con",
+    "searchTerms": [
+      "福建辣椒油1",
+      "cond-chili-oil--746"
+    ],
+    "summary": "福建辣椒油1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--747",
+    "name": "福建花椒油1",
+    "en": "福建花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condsichuanpepperoil747",
+    "initials": "con",
+    "searchTerms": [
+      "福建花椒油1",
+      "cond-sichuan-pepper-oil--747"
+    ],
+    "summary": "福建花椒油1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--748",
+    "name": "福建蚝油1",
+    "en": "福建蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condoystersauce748",
+    "initials": "con",
+    "searchTerms": [
+      "福建蚝油1",
+      "cond-oyster-sauce--748"
+    ],
+    "summary": "福建蚝油1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--749",
+    "name": "福建虾酱1",
+    "en": "福建虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condshrimpsauce749",
+    "initials": "con",
+    "searchTerms": [
+      "福建虾酱1",
+      "cond-shrimp-sauce--749"
+    ],
+    "summary": "福建虾酱1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--750",
+    "name": "福建鱼露1",
+    "en": "福建鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condfishsaucegd750",
+    "initials": "con",
+    "searchTerms": [
+      "福建鱼露1",
+      "cond-fish-sauce-gd--750"
+    ],
+    "summary": "福建鱼露1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--751",
+    "name": "福建料酒1",
+    "en": "福建料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condricewinecooking751",
+    "initials": "con",
+    "searchTerms": [
+      "福建料酒1",
+      "cond-rice-wine-cooking--751"
+    ],
+    "summary": "福建料酒1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--752",
+    "name": "福建黄酒1",
+    "en": "福建黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condyellowricewine752",
+    "initials": "con",
+    "searchTerms": [
+      "福建黄酒1",
+      "cond-yellow-rice-wine--752"
+    ],
+    "summary": "福建黄酒1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--753",
+    "name": "福建玫瑰露酒1",
+    "en": "福建玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condrosefermentedwine753",
+    "initials": "con",
+    "searchTerms": [
+      "福建玫瑰露酒1",
+      "cond-rose-fermented-wine--753"
+    ],
+    "summary": "福建玫瑰露酒1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--754",
+    "name": "福建咸酸梅1",
+    "en": "福建咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condpreservedplum754",
+    "initials": "con",
+    "searchTerms": [
+      "福建咸酸梅1",
+      "cond-preserved-plum--754"
+    ],
+    "summary": "福建咸酸梅1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--755",
+    "name": "福建卤水汁1",
+    "en": "福建卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condmasterstock755",
+    "initials": "con",
+    "searchTerms": [
+      "福建卤水汁1",
+      "cond-master-stock--755"
+    ],
+    "summary": "福建卤水汁1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--756",
+    "name": "福建五香粉1",
+    "en": "福建五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condfivespicepowder756",
+    "initials": "con",
+    "searchTerms": [
+      "福建五香粉1",
+      "cond-five-spice-powder--756"
+    ],
+    "summary": "福建五香粉1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--757",
+    "name": "福建咖喱粉1",
+    "en": "福建咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condcurrypowdercn757",
+    "initials": "con",
+    "searchTerms": [
+      "福建咖喱粉1",
+      "cond-curry-powder-cn--757"
+    ],
+    "summary": "福建咖喱粉1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--758",
+    "name": "福建沙茶酱1",
+    "en": "福建沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condsataysauce758",
+    "initials": "con",
+    "searchTerms": [
+      "福建沙茶酱1",
+      "cond-satay-sauce--758"
+    ],
+    "summary": "福建沙茶酱1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--759",
+    "name": "福建叉烧酱1",
+    "en": "福建叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "condbbqsaucecn759",
+    "initials": "con",
+    "searchTerms": [
+      "福建叉烧酱1",
+      "cond-bbq-sauce-cn--759"
+    ],
+    "summary": "福建叉烧酱1为福建民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--760",
+    "name": "海南黄豆酱1",
+    "en": "海南黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condbeanpaste760",
+    "initials": "con",
+    "searchTerms": [
+      "海南黄豆酱1",
+      "cond-bean-paste--760"
+    ],
+    "summary": "海南黄豆酱1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--761",
+    "name": "海南甜面酱1",
+    "en": "海南甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condsweetbeansauce761",
+    "initials": "con",
+    "searchTerms": [
+      "海南甜面酱1",
+      "cond-sweet-bean-sauce--761"
+    ],
+    "summary": "海南甜面酱1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--762",
+    "name": "海南辣豆瓣酱1",
+    "en": "海南辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condchilibeanpaste762",
+    "initials": "con",
+    "searchTerms": [
+      "海南辣豆瓣酱1",
+      "cond-chili-bean-paste--762"
+    ],
+    "summary": "海南辣豆瓣酱1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--763",
+    "name": "海南白腐乳1",
+    "en": "海南白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condfermentedtofuwhite763",
+    "initials": "con",
+    "searchTerms": [
+      "海南白腐乳1",
+      "cond-fermented-tofu-white--763"
+    ],
+    "summary": "海南白腐乳1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--764",
+    "name": "海南玫瑰腐乳1",
+    "en": "海南玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condfermentedtofurose764",
+    "initials": "con",
+    "searchTerms": [
+      "海南玫瑰腐乳1",
+      "cond-fermented-tofu-rose--764"
+    ],
+    "summary": "海南玫瑰腐乳1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--765",
+    "name": "海南芝麻油1",
+    "en": "海南芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condsesameoil765",
+    "initials": "con",
+    "searchTerms": [
+      "海南芝麻油1",
+      "cond-sesame-oil--765"
+    ],
+    "summary": "海南芝麻油1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--766",
+    "name": "海南辣椒油1",
+    "en": "海南辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condchilioil766",
+    "initials": "con",
+    "searchTerms": [
+      "海南辣椒油1",
+      "cond-chili-oil--766"
+    ],
+    "summary": "海南辣椒油1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--767",
+    "name": "海南花椒油1",
+    "en": "海南花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condsichuanpepperoil767",
+    "initials": "con",
+    "searchTerms": [
+      "海南花椒油1",
+      "cond-sichuan-pepper-oil--767"
+    ],
+    "summary": "海南花椒油1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--768",
+    "name": "海南蚝油1",
+    "en": "海南蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condoystersauce768",
+    "initials": "con",
+    "searchTerms": [
+      "海南蚝油1",
+      "cond-oyster-sauce--768"
+    ],
+    "summary": "海南蚝油1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--769",
+    "name": "海南虾酱1",
+    "en": "海南虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condshrimpsauce769",
+    "initials": "con",
+    "searchTerms": [
+      "海南虾酱1",
+      "cond-shrimp-sauce--769"
+    ],
+    "summary": "海南虾酱1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--770",
+    "name": "海南鱼露1",
+    "en": "海南鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condfishsaucegd770",
+    "initials": "con",
+    "searchTerms": [
+      "海南鱼露1",
+      "cond-fish-sauce-gd--770"
+    ],
+    "summary": "海南鱼露1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--771",
+    "name": "海南料酒1",
+    "en": "海南料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condricewinecooking771",
+    "initials": "con",
+    "searchTerms": [
+      "海南料酒1",
+      "cond-rice-wine-cooking--771"
+    ],
+    "summary": "海南料酒1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--772",
+    "name": "海南黄酒1",
+    "en": "海南黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condyellowricewine772",
+    "initials": "con",
+    "searchTerms": [
+      "海南黄酒1",
+      "cond-yellow-rice-wine--772"
+    ],
+    "summary": "海南黄酒1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--773",
+    "name": "海南玫瑰露酒1",
+    "en": "海南玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condrosefermentedwine773",
+    "initials": "con",
+    "searchTerms": [
+      "海南玫瑰露酒1",
+      "cond-rose-fermented-wine--773"
+    ],
+    "summary": "海南玫瑰露酒1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--774",
+    "name": "海南咸酸梅1",
+    "en": "海南咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condpreservedplum774",
+    "initials": "con",
+    "searchTerms": [
+      "海南咸酸梅1",
+      "cond-preserved-plum--774"
+    ],
+    "summary": "海南咸酸梅1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--775",
+    "name": "海南卤水汁1",
+    "en": "海南卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condmasterstock775",
+    "initials": "con",
+    "searchTerms": [
+      "海南卤水汁1",
+      "cond-master-stock--775"
+    ],
+    "summary": "海南卤水汁1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--776",
+    "name": "海南五香粉1",
+    "en": "海南五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condfivespicepowder776",
+    "initials": "con",
+    "searchTerms": [
+      "海南五香粉1",
+      "cond-five-spice-powder--776"
+    ],
+    "summary": "海南五香粉1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--777",
+    "name": "海南咖喱粉1",
+    "en": "海南咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condcurrypowdercn777",
+    "initials": "con",
+    "searchTerms": [
+      "海南咖喱粉1",
+      "cond-curry-powder-cn--777"
+    ],
+    "summary": "海南咖喱粉1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--778",
+    "name": "海南沙茶酱1",
+    "en": "海南沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condsataysauce778",
+    "initials": "con",
+    "searchTerms": [
+      "海南沙茶酱1",
+      "cond-satay-sauce--778"
+    ],
+    "summary": "海南沙茶酱1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--779",
+    "name": "海南叉烧酱1",
+    "en": "海南叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "condbbqsaucecn779",
+    "initials": "con",
+    "searchTerms": [
+      "海南叉烧酱1",
+      "cond-bbq-sauce-cn--779"
+    ],
+    "summary": "海南叉烧酱1为海南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--780",
+    "name": "湖南黄豆酱1",
+    "en": "湖南黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condbeanpaste780",
+    "initials": "con",
+    "searchTerms": [
+      "湖南黄豆酱1",
+      "cond-bean-paste--780"
+    ],
+    "summary": "湖南黄豆酱1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--781",
+    "name": "湖南甜面酱1",
+    "en": "湖南甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condsweetbeansauce781",
+    "initials": "con",
+    "searchTerms": [
+      "湖南甜面酱1",
+      "cond-sweet-bean-sauce--781"
+    ],
+    "summary": "湖南甜面酱1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--782",
+    "name": "湖南辣豆瓣酱1",
+    "en": "湖南辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condchilibeanpaste782",
+    "initials": "con",
+    "searchTerms": [
+      "湖南辣豆瓣酱1",
+      "cond-chili-bean-paste--782"
+    ],
+    "summary": "湖南辣豆瓣酱1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--783",
+    "name": "湖南白腐乳1",
+    "en": "湖南白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condfermentedtofuwhite783",
+    "initials": "con",
+    "searchTerms": [
+      "湖南白腐乳1",
+      "cond-fermented-tofu-white--783"
+    ],
+    "summary": "湖南白腐乳1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--784",
+    "name": "湖南玫瑰腐乳1",
+    "en": "湖南玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condfermentedtofurose784",
+    "initials": "con",
+    "searchTerms": [
+      "湖南玫瑰腐乳1",
+      "cond-fermented-tofu-rose--784"
+    ],
+    "summary": "湖南玫瑰腐乳1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--785",
+    "name": "湖南芝麻油1",
+    "en": "湖南芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condsesameoil785",
+    "initials": "con",
+    "searchTerms": [
+      "湖南芝麻油1",
+      "cond-sesame-oil--785"
+    ],
+    "summary": "湖南芝麻油1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--786",
+    "name": "湖南辣椒油1",
+    "en": "湖南辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condchilioil786",
+    "initials": "con",
+    "searchTerms": [
+      "湖南辣椒油1",
+      "cond-chili-oil--786"
+    ],
+    "summary": "湖南辣椒油1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--787",
+    "name": "湖南花椒油1",
+    "en": "湖南花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condsichuanpepperoil787",
+    "initials": "con",
+    "searchTerms": [
+      "湖南花椒油1",
+      "cond-sichuan-pepper-oil--787"
+    ],
+    "summary": "湖南花椒油1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--788",
+    "name": "湖南蚝油1",
+    "en": "湖南蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condoystersauce788",
+    "initials": "con",
+    "searchTerms": [
+      "湖南蚝油1",
+      "cond-oyster-sauce--788"
+    ],
+    "summary": "湖南蚝油1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--789",
+    "name": "湖南虾酱1",
+    "en": "湖南虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condshrimpsauce789",
+    "initials": "con",
+    "searchTerms": [
+      "湖南虾酱1",
+      "cond-shrimp-sauce--789"
+    ],
+    "summary": "湖南虾酱1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--790",
+    "name": "湖南鱼露1",
+    "en": "湖南鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condfishsaucegd790",
+    "initials": "con",
+    "searchTerms": [
+      "湖南鱼露1",
+      "cond-fish-sauce-gd--790"
+    ],
+    "summary": "湖南鱼露1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--791",
+    "name": "湖南料酒1",
+    "en": "湖南料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condricewinecooking791",
+    "initials": "con",
+    "searchTerms": [
+      "湖南料酒1",
+      "cond-rice-wine-cooking--791"
+    ],
+    "summary": "湖南料酒1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--792",
+    "name": "湖南黄酒1",
+    "en": "湖南黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condyellowricewine792",
+    "initials": "con",
+    "searchTerms": [
+      "湖南黄酒1",
+      "cond-yellow-rice-wine--792"
+    ],
+    "summary": "湖南黄酒1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--793",
+    "name": "湖南玫瑰露酒1",
+    "en": "湖南玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condrosefermentedwine793",
+    "initials": "con",
+    "searchTerms": [
+      "湖南玫瑰露酒1",
+      "cond-rose-fermented-wine--793"
+    ],
+    "summary": "湖南玫瑰露酒1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--794",
+    "name": "湖南咸酸梅1",
+    "en": "湖南咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condpreservedplum794",
+    "initials": "con",
+    "searchTerms": [
+      "湖南咸酸梅1",
+      "cond-preserved-plum--794"
+    ],
+    "summary": "湖南咸酸梅1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--795",
+    "name": "湖南卤水汁1",
+    "en": "湖南卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condmasterstock795",
+    "initials": "con",
+    "searchTerms": [
+      "湖南卤水汁1",
+      "cond-master-stock--795"
+    ],
+    "summary": "湖南卤水汁1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--796",
+    "name": "湖南五香粉1",
+    "en": "湖南五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condfivespicepowder796",
+    "initials": "con",
+    "searchTerms": [
+      "湖南五香粉1",
+      "cond-five-spice-powder--796"
+    ],
+    "summary": "湖南五香粉1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--797",
+    "name": "湖南咖喱粉1",
+    "en": "湖南咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condcurrypowdercn797",
+    "initials": "con",
+    "searchTerms": [
+      "湖南咖喱粉1",
+      "cond-curry-powder-cn--797"
+    ],
+    "summary": "湖南咖喱粉1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--798",
+    "name": "湖南沙茶酱1",
+    "en": "湖南沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condsataysauce798",
+    "initials": "con",
+    "searchTerms": [
+      "湖南沙茶酱1",
+      "cond-satay-sauce--798"
+    ],
+    "summary": "湖南沙茶酱1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--799",
+    "name": "湖南叉烧酱1",
+    "en": "湖南叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "condbbqsaucecn799",
+    "initials": "con",
+    "searchTerms": [
+      "湖南叉烧酱1",
+      "cond-bbq-sauce-cn--799"
+    ],
+    "summary": "湖南叉烧酱1为湖南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--800",
+    "name": "湖北黄豆酱1",
+    "en": "湖北黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condbeanpaste800",
+    "initials": "con",
+    "searchTerms": [
+      "湖北黄豆酱1",
+      "cond-bean-paste--800"
+    ],
+    "summary": "湖北黄豆酱1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--801",
+    "name": "湖北甜面酱1",
+    "en": "湖北甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condsweetbeansauce801",
+    "initials": "con",
+    "searchTerms": [
+      "湖北甜面酱1",
+      "cond-sweet-bean-sauce--801"
+    ],
+    "summary": "湖北甜面酱1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--802",
+    "name": "湖北辣豆瓣酱1",
+    "en": "湖北辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condchilibeanpaste802",
+    "initials": "con",
+    "searchTerms": [
+      "湖北辣豆瓣酱1",
+      "cond-chili-bean-paste--802"
+    ],
+    "summary": "湖北辣豆瓣酱1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--803",
+    "name": "湖北白腐乳1",
+    "en": "湖北白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condfermentedtofuwhite803",
+    "initials": "con",
+    "searchTerms": [
+      "湖北白腐乳1",
+      "cond-fermented-tofu-white--803"
+    ],
+    "summary": "湖北白腐乳1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--804",
+    "name": "湖北玫瑰腐乳1",
+    "en": "湖北玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condfermentedtofurose804",
+    "initials": "con",
+    "searchTerms": [
+      "湖北玫瑰腐乳1",
+      "cond-fermented-tofu-rose--804"
+    ],
+    "summary": "湖北玫瑰腐乳1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--805",
+    "name": "湖北芝麻油1",
+    "en": "湖北芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condsesameoil805",
+    "initials": "con",
+    "searchTerms": [
+      "湖北芝麻油1",
+      "cond-sesame-oil--805"
+    ],
+    "summary": "湖北芝麻油1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--806",
+    "name": "湖北辣椒油1",
+    "en": "湖北辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condchilioil806",
+    "initials": "con",
+    "searchTerms": [
+      "湖北辣椒油1",
+      "cond-chili-oil--806"
+    ],
+    "summary": "湖北辣椒油1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--807",
+    "name": "湖北花椒油1",
+    "en": "湖北花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condsichuanpepperoil807",
+    "initials": "con",
+    "searchTerms": [
+      "湖北花椒油1",
+      "cond-sichuan-pepper-oil--807"
+    ],
+    "summary": "湖北花椒油1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--808",
+    "name": "湖北蚝油1",
+    "en": "湖北蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condoystersauce808",
+    "initials": "con",
+    "searchTerms": [
+      "湖北蚝油1",
+      "cond-oyster-sauce--808"
+    ],
+    "summary": "湖北蚝油1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--809",
+    "name": "湖北虾酱1",
+    "en": "湖北虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condshrimpsauce809",
+    "initials": "con",
+    "searchTerms": [
+      "湖北虾酱1",
+      "cond-shrimp-sauce--809"
+    ],
+    "summary": "湖北虾酱1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--810",
+    "name": "湖北鱼露1",
+    "en": "湖北鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condfishsaucegd810",
+    "initials": "con",
+    "searchTerms": [
+      "湖北鱼露1",
+      "cond-fish-sauce-gd--810"
+    ],
+    "summary": "湖北鱼露1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--811",
+    "name": "湖北料酒1",
+    "en": "湖北料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condricewinecooking811",
+    "initials": "con",
+    "searchTerms": [
+      "湖北料酒1",
+      "cond-rice-wine-cooking--811"
+    ],
+    "summary": "湖北料酒1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--812",
+    "name": "湖北黄酒1",
+    "en": "湖北黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condyellowricewine812",
+    "initials": "con",
+    "searchTerms": [
+      "湖北黄酒1",
+      "cond-yellow-rice-wine--812"
+    ],
+    "summary": "湖北黄酒1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--813",
+    "name": "湖北玫瑰露酒1",
+    "en": "湖北玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condrosefermentedwine813",
+    "initials": "con",
+    "searchTerms": [
+      "湖北玫瑰露酒1",
+      "cond-rose-fermented-wine--813"
+    ],
+    "summary": "湖北玫瑰露酒1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--814",
+    "name": "湖北咸酸梅1",
+    "en": "湖北咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condpreservedplum814",
+    "initials": "con",
+    "searchTerms": [
+      "湖北咸酸梅1",
+      "cond-preserved-plum--814"
+    ],
+    "summary": "湖北咸酸梅1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--815",
+    "name": "湖北卤水汁1",
+    "en": "湖北卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condmasterstock815",
+    "initials": "con",
+    "searchTerms": [
+      "湖北卤水汁1",
+      "cond-master-stock--815"
+    ],
+    "summary": "湖北卤水汁1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--816",
+    "name": "湖北五香粉1",
+    "en": "湖北五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condfivespicepowder816",
+    "initials": "con",
+    "searchTerms": [
+      "湖北五香粉1",
+      "cond-five-spice-powder--816"
+    ],
+    "summary": "湖北五香粉1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--817",
+    "name": "湖北咖喱粉1",
+    "en": "湖北咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condcurrypowdercn817",
+    "initials": "con",
+    "searchTerms": [
+      "湖北咖喱粉1",
+      "cond-curry-powder-cn--817"
+    ],
+    "summary": "湖北咖喱粉1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--818",
+    "name": "湖北沙茶酱1",
+    "en": "湖北沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condsataysauce818",
+    "initials": "con",
+    "searchTerms": [
+      "湖北沙茶酱1",
+      "cond-satay-sauce--818"
+    ],
+    "summary": "湖北沙茶酱1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--819",
+    "name": "湖北叉烧酱1",
+    "en": "湖北叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "condbbqsaucecn819",
+    "initials": "con",
+    "searchTerms": [
+      "湖北叉烧酱1",
+      "cond-bbq-sauce-cn--819"
+    ],
+    "summary": "湖北叉烧酱1为湖北民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--820",
+    "name": "江西黄豆酱1",
+    "en": "江西黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condbeanpaste820",
+    "initials": "con",
+    "searchTerms": [
+      "江西黄豆酱1",
+      "cond-bean-paste--820"
+    ],
+    "summary": "江西黄豆酱1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--821",
+    "name": "江西甜面酱1",
+    "en": "江西甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condsweetbeansauce821",
+    "initials": "con",
+    "searchTerms": [
+      "江西甜面酱1",
+      "cond-sweet-bean-sauce--821"
+    ],
+    "summary": "江西甜面酱1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--822",
+    "name": "江西辣豆瓣酱1",
+    "en": "江西辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condchilibeanpaste822",
+    "initials": "con",
+    "searchTerms": [
+      "江西辣豆瓣酱1",
+      "cond-chili-bean-paste--822"
+    ],
+    "summary": "江西辣豆瓣酱1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--823",
+    "name": "江西白腐乳1",
+    "en": "江西白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condfermentedtofuwhite823",
+    "initials": "con",
+    "searchTerms": [
+      "江西白腐乳1",
+      "cond-fermented-tofu-white--823"
+    ],
+    "summary": "江西白腐乳1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--824",
+    "name": "江西玫瑰腐乳1",
+    "en": "江西玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condfermentedtofurose824",
+    "initials": "con",
+    "searchTerms": [
+      "江西玫瑰腐乳1",
+      "cond-fermented-tofu-rose--824"
+    ],
+    "summary": "江西玫瑰腐乳1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--825",
+    "name": "江西芝麻油1",
+    "en": "江西芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condsesameoil825",
+    "initials": "con",
+    "searchTerms": [
+      "江西芝麻油1",
+      "cond-sesame-oil--825"
+    ],
+    "summary": "江西芝麻油1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--826",
+    "name": "江西辣椒油1",
+    "en": "江西辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condchilioil826",
+    "initials": "con",
+    "searchTerms": [
+      "江西辣椒油1",
+      "cond-chili-oil--826"
+    ],
+    "summary": "江西辣椒油1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--827",
+    "name": "江西花椒油1",
+    "en": "江西花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condsichuanpepperoil827",
+    "initials": "con",
+    "searchTerms": [
+      "江西花椒油1",
+      "cond-sichuan-pepper-oil--827"
+    ],
+    "summary": "江西花椒油1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--828",
+    "name": "江西蚝油1",
+    "en": "江西蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condoystersauce828",
+    "initials": "con",
+    "searchTerms": [
+      "江西蚝油1",
+      "cond-oyster-sauce--828"
+    ],
+    "summary": "江西蚝油1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--829",
+    "name": "江西虾酱1",
+    "en": "江西虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condshrimpsauce829",
+    "initials": "con",
+    "searchTerms": [
+      "江西虾酱1",
+      "cond-shrimp-sauce--829"
+    ],
+    "summary": "江西虾酱1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--830",
+    "name": "江西鱼露1",
+    "en": "江西鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condfishsaucegd830",
+    "initials": "con",
+    "searchTerms": [
+      "江西鱼露1",
+      "cond-fish-sauce-gd--830"
+    ],
+    "summary": "江西鱼露1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--831",
+    "name": "江西料酒1",
+    "en": "江西料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condricewinecooking831",
+    "initials": "con",
+    "searchTerms": [
+      "江西料酒1",
+      "cond-rice-wine-cooking--831"
+    ],
+    "summary": "江西料酒1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--832",
+    "name": "江西黄酒1",
+    "en": "江西黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condyellowricewine832",
+    "initials": "con",
+    "searchTerms": [
+      "江西黄酒1",
+      "cond-yellow-rice-wine--832"
+    ],
+    "summary": "江西黄酒1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--833",
+    "name": "江西玫瑰露酒1",
+    "en": "江西玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condrosefermentedwine833",
+    "initials": "con",
+    "searchTerms": [
+      "江西玫瑰露酒1",
+      "cond-rose-fermented-wine--833"
+    ],
+    "summary": "江西玫瑰露酒1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--834",
+    "name": "江西咸酸梅1",
+    "en": "江西咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condpreservedplum834",
+    "initials": "con",
+    "searchTerms": [
+      "江西咸酸梅1",
+      "cond-preserved-plum--834"
+    ],
+    "summary": "江西咸酸梅1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--835",
+    "name": "江西卤水汁1",
+    "en": "江西卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condmasterstock835",
+    "initials": "con",
+    "searchTerms": [
+      "江西卤水汁1",
+      "cond-master-stock--835"
+    ],
+    "summary": "江西卤水汁1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--836",
+    "name": "江西五香粉1",
+    "en": "江西五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condfivespicepowder836",
+    "initials": "con",
+    "searchTerms": [
+      "江西五香粉1",
+      "cond-five-spice-powder--836"
+    ],
+    "summary": "江西五香粉1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--837",
+    "name": "江西咖喱粉1",
+    "en": "江西咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condcurrypowdercn837",
+    "initials": "con",
+    "searchTerms": [
+      "江西咖喱粉1",
+      "cond-curry-powder-cn--837"
+    ],
+    "summary": "江西咖喱粉1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--838",
+    "name": "江西沙茶酱1",
+    "en": "江西沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condsataysauce838",
+    "initials": "con",
+    "searchTerms": [
+      "江西沙茶酱1",
+      "cond-satay-sauce--838"
+    ],
+    "summary": "江西沙茶酱1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--839",
+    "name": "江西叉烧酱1",
+    "en": "江西叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "condbbqsaucecn839",
+    "initials": "con",
+    "searchTerms": [
+      "江西叉烧酱1",
+      "cond-bbq-sauce-cn--839"
+    ],
+    "summary": "江西叉烧酱1为江西民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--840",
+    "name": "四川黄豆酱1",
+    "en": "四川黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condbeanpaste840",
+    "initials": "con",
+    "searchTerms": [
+      "四川黄豆酱1",
+      "cond-bean-paste--840"
+    ],
+    "summary": "四川黄豆酱1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--841",
+    "name": "四川甜面酱1",
+    "en": "四川甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condsweetbeansauce841",
+    "initials": "con",
+    "searchTerms": [
+      "四川甜面酱1",
+      "cond-sweet-bean-sauce--841"
+    ],
+    "summary": "四川甜面酱1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--842",
+    "name": "四川辣豆瓣酱1",
+    "en": "四川辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condchilibeanpaste842",
+    "initials": "con",
+    "searchTerms": [
+      "四川辣豆瓣酱1",
+      "cond-chili-bean-paste--842"
+    ],
+    "summary": "四川辣豆瓣酱1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--843",
+    "name": "四川白腐乳1",
+    "en": "四川白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condfermentedtofuwhite843",
+    "initials": "con",
+    "searchTerms": [
+      "四川白腐乳1",
+      "cond-fermented-tofu-white--843"
+    ],
+    "summary": "四川白腐乳1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--844",
+    "name": "四川玫瑰腐乳1",
+    "en": "四川玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condfermentedtofurose844",
+    "initials": "con",
+    "searchTerms": [
+      "四川玫瑰腐乳1",
+      "cond-fermented-tofu-rose--844"
+    ],
+    "summary": "四川玫瑰腐乳1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--845",
+    "name": "四川芝麻油1",
+    "en": "四川芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condsesameoil845",
+    "initials": "con",
+    "searchTerms": [
+      "四川芝麻油1",
+      "cond-sesame-oil--845"
+    ],
+    "summary": "四川芝麻油1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--846",
+    "name": "四川辣椒油1",
+    "en": "四川辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condchilioil846",
+    "initials": "con",
+    "searchTerms": [
+      "四川辣椒油1",
+      "cond-chili-oil--846"
+    ],
+    "summary": "四川辣椒油1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--847",
+    "name": "四川花椒油1",
+    "en": "四川花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condsichuanpepperoil847",
+    "initials": "con",
+    "searchTerms": [
+      "四川花椒油1",
+      "cond-sichuan-pepper-oil--847"
+    ],
+    "summary": "四川花椒油1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--848",
+    "name": "四川蚝油1",
+    "en": "四川蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condoystersauce848",
+    "initials": "con",
+    "searchTerms": [
+      "四川蚝油1",
+      "cond-oyster-sauce--848"
+    ],
+    "summary": "四川蚝油1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--849",
+    "name": "四川虾酱1",
+    "en": "四川虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condshrimpsauce849",
+    "initials": "con",
+    "searchTerms": [
+      "四川虾酱1",
+      "cond-shrimp-sauce--849"
+    ],
+    "summary": "四川虾酱1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--850",
+    "name": "四川鱼露1",
+    "en": "四川鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condfishsaucegd850",
+    "initials": "con",
+    "searchTerms": [
+      "四川鱼露1",
+      "cond-fish-sauce-gd--850"
+    ],
+    "summary": "四川鱼露1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--851",
+    "name": "四川料酒1",
+    "en": "四川料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condricewinecooking851",
+    "initials": "con",
+    "searchTerms": [
+      "四川料酒1",
+      "cond-rice-wine-cooking--851"
+    ],
+    "summary": "四川料酒1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--852",
+    "name": "四川黄酒1",
+    "en": "四川黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condyellowricewine852",
+    "initials": "con",
+    "searchTerms": [
+      "四川黄酒1",
+      "cond-yellow-rice-wine--852"
+    ],
+    "summary": "四川黄酒1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--853",
+    "name": "四川玫瑰露酒1",
+    "en": "四川玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condrosefermentedwine853",
+    "initials": "con",
+    "searchTerms": [
+      "四川玫瑰露酒1",
+      "cond-rose-fermented-wine--853"
+    ],
+    "summary": "四川玫瑰露酒1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--854",
+    "name": "四川咸酸梅1",
+    "en": "四川咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condpreservedplum854",
+    "initials": "con",
+    "searchTerms": [
+      "四川咸酸梅1",
+      "cond-preserved-plum--854"
+    ],
+    "summary": "四川咸酸梅1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--855",
+    "name": "四川卤水汁1",
+    "en": "四川卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condmasterstock855",
+    "initials": "con",
+    "searchTerms": [
+      "四川卤水汁1",
+      "cond-master-stock--855"
+    ],
+    "summary": "四川卤水汁1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--856",
+    "name": "四川五香粉1",
+    "en": "四川五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condfivespicepowder856",
+    "initials": "con",
+    "searchTerms": [
+      "四川五香粉1",
+      "cond-five-spice-powder--856"
+    ],
+    "summary": "四川五香粉1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--857",
+    "name": "四川咖喱粉1",
+    "en": "四川咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condcurrypowdercn857",
+    "initials": "con",
+    "searchTerms": [
+      "四川咖喱粉1",
+      "cond-curry-powder-cn--857"
+    ],
+    "summary": "四川咖喱粉1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--858",
+    "name": "四川沙茶酱1",
+    "en": "四川沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condsataysauce858",
+    "initials": "con",
+    "searchTerms": [
+      "四川沙茶酱1",
+      "cond-satay-sauce--858"
+    ],
+    "summary": "四川沙茶酱1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--859",
+    "name": "四川叉烧酱1",
+    "en": "四川叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "condbbqsaucecn859",
+    "initials": "con",
+    "searchTerms": [
+      "四川叉烧酱1",
+      "cond-bbq-sauce-cn--859"
+    ],
+    "summary": "四川叉烧酱1为四川民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--860",
+    "name": "重庆黄豆酱1",
+    "en": "重庆黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condbeanpaste860",
+    "initials": "con",
+    "searchTerms": [
+      "重庆黄豆酱1",
+      "cond-bean-paste--860"
+    ],
+    "summary": "重庆黄豆酱1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--861",
+    "name": "重庆甜面酱1",
+    "en": "重庆甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condsweetbeansauce861",
+    "initials": "con",
+    "searchTerms": [
+      "重庆甜面酱1",
+      "cond-sweet-bean-sauce--861"
+    ],
+    "summary": "重庆甜面酱1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--862",
+    "name": "重庆辣豆瓣酱1",
+    "en": "重庆辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condchilibeanpaste862",
+    "initials": "con",
+    "searchTerms": [
+      "重庆辣豆瓣酱1",
+      "cond-chili-bean-paste--862"
+    ],
+    "summary": "重庆辣豆瓣酱1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--863",
+    "name": "重庆白腐乳1",
+    "en": "重庆白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condfermentedtofuwhite863",
+    "initials": "con",
+    "searchTerms": [
+      "重庆白腐乳1",
+      "cond-fermented-tofu-white--863"
+    ],
+    "summary": "重庆白腐乳1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--864",
+    "name": "重庆玫瑰腐乳1",
+    "en": "重庆玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condfermentedtofurose864",
+    "initials": "con",
+    "searchTerms": [
+      "重庆玫瑰腐乳1",
+      "cond-fermented-tofu-rose--864"
+    ],
+    "summary": "重庆玫瑰腐乳1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--865",
+    "name": "重庆芝麻油1",
+    "en": "重庆芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condsesameoil865",
+    "initials": "con",
+    "searchTerms": [
+      "重庆芝麻油1",
+      "cond-sesame-oil--865"
+    ],
+    "summary": "重庆芝麻油1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--866",
+    "name": "重庆辣椒油1",
+    "en": "重庆辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condchilioil866",
+    "initials": "con",
+    "searchTerms": [
+      "重庆辣椒油1",
+      "cond-chili-oil--866"
+    ],
+    "summary": "重庆辣椒油1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--867",
+    "name": "重庆花椒油1",
+    "en": "重庆花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condsichuanpepperoil867",
+    "initials": "con",
+    "searchTerms": [
+      "重庆花椒油1",
+      "cond-sichuan-pepper-oil--867"
+    ],
+    "summary": "重庆花椒油1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--868",
+    "name": "重庆蚝油1",
+    "en": "重庆蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condoystersauce868",
+    "initials": "con",
+    "searchTerms": [
+      "重庆蚝油1",
+      "cond-oyster-sauce--868"
+    ],
+    "summary": "重庆蚝油1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--869",
+    "name": "重庆虾酱1",
+    "en": "重庆虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condshrimpsauce869",
+    "initials": "con",
+    "searchTerms": [
+      "重庆虾酱1",
+      "cond-shrimp-sauce--869"
+    ],
+    "summary": "重庆虾酱1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--870",
+    "name": "重庆鱼露1",
+    "en": "重庆鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condfishsaucegd870",
+    "initials": "con",
+    "searchTerms": [
+      "重庆鱼露1",
+      "cond-fish-sauce-gd--870"
+    ],
+    "summary": "重庆鱼露1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--871",
+    "name": "重庆料酒1",
+    "en": "重庆料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condricewinecooking871",
+    "initials": "con",
+    "searchTerms": [
+      "重庆料酒1",
+      "cond-rice-wine-cooking--871"
+    ],
+    "summary": "重庆料酒1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--872",
+    "name": "重庆黄酒1",
+    "en": "重庆黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condyellowricewine872",
+    "initials": "con",
+    "searchTerms": [
+      "重庆黄酒1",
+      "cond-yellow-rice-wine--872"
+    ],
+    "summary": "重庆黄酒1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--873",
+    "name": "重庆玫瑰露酒1",
+    "en": "重庆玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condrosefermentedwine873",
+    "initials": "con",
+    "searchTerms": [
+      "重庆玫瑰露酒1",
+      "cond-rose-fermented-wine--873"
+    ],
+    "summary": "重庆玫瑰露酒1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--874",
+    "name": "重庆咸酸梅1",
+    "en": "重庆咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condpreservedplum874",
+    "initials": "con",
+    "searchTerms": [
+      "重庆咸酸梅1",
+      "cond-preserved-plum--874"
+    ],
+    "summary": "重庆咸酸梅1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--875",
+    "name": "重庆卤水汁1",
+    "en": "重庆卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condmasterstock875",
+    "initials": "con",
+    "searchTerms": [
+      "重庆卤水汁1",
+      "cond-master-stock--875"
+    ],
+    "summary": "重庆卤水汁1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--876",
+    "name": "重庆五香粉1",
+    "en": "重庆五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condfivespicepowder876",
+    "initials": "con",
+    "searchTerms": [
+      "重庆五香粉1",
+      "cond-five-spice-powder--876"
+    ],
+    "summary": "重庆五香粉1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--877",
+    "name": "重庆咖喱粉1",
+    "en": "重庆咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condcurrypowdercn877",
+    "initials": "con",
+    "searchTerms": [
+      "重庆咖喱粉1",
+      "cond-curry-powder-cn--877"
+    ],
+    "summary": "重庆咖喱粉1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--878",
+    "name": "重庆沙茶酱1",
+    "en": "重庆沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condsataysauce878",
+    "initials": "con",
+    "searchTerms": [
+      "重庆沙茶酱1",
+      "cond-satay-sauce--878"
+    ],
+    "summary": "重庆沙茶酱1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--879",
+    "name": "重庆叉烧酱1",
+    "en": "重庆叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "condbbqsaucecn879",
+    "initials": "con",
+    "searchTerms": [
+      "重庆叉烧酱1",
+      "cond-bbq-sauce-cn--879"
+    ],
+    "summary": "重庆叉烧酱1为重庆民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--880",
+    "name": "云南黄豆酱1",
+    "en": "云南黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condbeanpaste880",
+    "initials": "con",
+    "searchTerms": [
+      "云南黄豆酱1",
+      "cond-bean-paste--880"
+    ],
+    "summary": "云南黄豆酱1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--881",
+    "name": "云南甜面酱1",
+    "en": "云南甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condsweetbeansauce881",
+    "initials": "con",
+    "searchTerms": [
+      "云南甜面酱1",
+      "cond-sweet-bean-sauce--881"
+    ],
+    "summary": "云南甜面酱1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--882",
+    "name": "云南辣豆瓣酱1",
+    "en": "云南辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condchilibeanpaste882",
+    "initials": "con",
+    "searchTerms": [
+      "云南辣豆瓣酱1",
+      "cond-chili-bean-paste--882"
+    ],
+    "summary": "云南辣豆瓣酱1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--883",
+    "name": "云南白腐乳1",
+    "en": "云南白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condfermentedtofuwhite883",
+    "initials": "con",
+    "searchTerms": [
+      "云南白腐乳1",
+      "cond-fermented-tofu-white--883"
+    ],
+    "summary": "云南白腐乳1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--884",
+    "name": "云南玫瑰腐乳1",
+    "en": "云南玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condfermentedtofurose884",
+    "initials": "con",
+    "searchTerms": [
+      "云南玫瑰腐乳1",
+      "cond-fermented-tofu-rose--884"
+    ],
+    "summary": "云南玫瑰腐乳1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--885",
+    "name": "云南芝麻油1",
+    "en": "云南芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condsesameoil885",
+    "initials": "con",
+    "searchTerms": [
+      "云南芝麻油1",
+      "cond-sesame-oil--885"
+    ],
+    "summary": "云南芝麻油1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--886",
+    "name": "云南辣椒油1",
+    "en": "云南辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condchilioil886",
+    "initials": "con",
+    "searchTerms": [
+      "云南辣椒油1",
+      "cond-chili-oil--886"
+    ],
+    "summary": "云南辣椒油1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--887",
+    "name": "云南花椒油1",
+    "en": "云南花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condsichuanpepperoil887",
+    "initials": "con",
+    "searchTerms": [
+      "云南花椒油1",
+      "cond-sichuan-pepper-oil--887"
+    ],
+    "summary": "云南花椒油1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--888",
+    "name": "云南蚝油1",
+    "en": "云南蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condoystersauce888",
+    "initials": "con",
+    "searchTerms": [
+      "云南蚝油1",
+      "cond-oyster-sauce--888"
+    ],
+    "summary": "云南蚝油1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--889",
+    "name": "云南虾酱1",
+    "en": "云南虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condshrimpsauce889",
+    "initials": "con",
+    "searchTerms": [
+      "云南虾酱1",
+      "cond-shrimp-sauce--889"
+    ],
+    "summary": "云南虾酱1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--890",
+    "name": "云南鱼露1",
+    "en": "云南鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condfishsaucegd890",
+    "initials": "con",
+    "searchTerms": [
+      "云南鱼露1",
+      "cond-fish-sauce-gd--890"
+    ],
+    "summary": "云南鱼露1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--891",
+    "name": "云南料酒1",
+    "en": "云南料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condricewinecooking891",
+    "initials": "con",
+    "searchTerms": [
+      "云南料酒1",
+      "cond-rice-wine-cooking--891"
+    ],
+    "summary": "云南料酒1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--892",
+    "name": "云南黄酒1",
+    "en": "云南黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condyellowricewine892",
+    "initials": "con",
+    "searchTerms": [
+      "云南黄酒1",
+      "cond-yellow-rice-wine--892"
+    ],
+    "summary": "云南黄酒1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--893",
+    "name": "云南玫瑰露酒1",
+    "en": "云南玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condrosefermentedwine893",
+    "initials": "con",
+    "searchTerms": [
+      "云南玫瑰露酒1",
+      "cond-rose-fermented-wine--893"
+    ],
+    "summary": "云南玫瑰露酒1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--894",
+    "name": "云南咸酸梅1",
+    "en": "云南咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condpreservedplum894",
+    "initials": "con",
+    "searchTerms": [
+      "云南咸酸梅1",
+      "cond-preserved-plum--894"
+    ],
+    "summary": "云南咸酸梅1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--895",
+    "name": "云南卤水汁1",
+    "en": "云南卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condmasterstock895",
+    "initials": "con",
+    "searchTerms": [
+      "云南卤水汁1",
+      "cond-master-stock--895"
+    ],
+    "summary": "云南卤水汁1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--896",
+    "name": "云南五香粉1",
+    "en": "云南五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condfivespicepowder896",
+    "initials": "con",
+    "searchTerms": [
+      "云南五香粉1",
+      "cond-five-spice-powder--896"
+    ],
+    "summary": "云南五香粉1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--897",
+    "name": "云南咖喱粉1",
+    "en": "云南咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condcurrypowdercn897",
+    "initials": "con",
+    "searchTerms": [
+      "云南咖喱粉1",
+      "cond-curry-powder-cn--897"
+    ],
+    "summary": "云南咖喱粉1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--898",
+    "name": "云南沙茶酱1",
+    "en": "云南沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condsataysauce898",
+    "initials": "con",
+    "searchTerms": [
+      "云南沙茶酱1",
+      "cond-satay-sauce--898"
+    ],
+    "summary": "云南沙茶酱1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--899",
+    "name": "云南叉烧酱1",
+    "en": "云南叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "condbbqsaucecn899",
+    "initials": "con",
+    "searchTerms": [
+      "云南叉烧酱1",
+      "cond-bbq-sauce-cn--899"
+    ],
+    "summary": "云南叉烧酱1为云南民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--900",
+    "name": "贵州黄豆酱1",
+    "en": "贵州黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condbeanpaste900",
+    "initials": "con",
+    "searchTerms": [
+      "贵州黄豆酱1",
+      "cond-bean-paste--900"
+    ],
+    "summary": "贵州黄豆酱1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--901",
+    "name": "贵州甜面酱1",
+    "en": "贵州甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condsweetbeansauce901",
+    "initials": "con",
+    "searchTerms": [
+      "贵州甜面酱1",
+      "cond-sweet-bean-sauce--901"
+    ],
+    "summary": "贵州甜面酱1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--902",
+    "name": "贵州辣豆瓣酱1",
+    "en": "贵州辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condchilibeanpaste902",
+    "initials": "con",
+    "searchTerms": [
+      "贵州辣豆瓣酱1",
+      "cond-chili-bean-paste--902"
+    ],
+    "summary": "贵州辣豆瓣酱1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--903",
+    "name": "贵州白腐乳1",
+    "en": "贵州白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condfermentedtofuwhite903",
+    "initials": "con",
+    "searchTerms": [
+      "贵州白腐乳1",
+      "cond-fermented-tofu-white--903"
+    ],
+    "summary": "贵州白腐乳1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--904",
+    "name": "贵州玫瑰腐乳1",
+    "en": "贵州玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condfermentedtofurose904",
+    "initials": "con",
+    "searchTerms": [
+      "贵州玫瑰腐乳1",
+      "cond-fermented-tofu-rose--904"
+    ],
+    "summary": "贵州玫瑰腐乳1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--905",
+    "name": "贵州芝麻油1",
+    "en": "贵州芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condsesameoil905",
+    "initials": "con",
+    "searchTerms": [
+      "贵州芝麻油1",
+      "cond-sesame-oil--905"
+    ],
+    "summary": "贵州芝麻油1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--906",
+    "name": "贵州辣椒油1",
+    "en": "贵州辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condchilioil906",
+    "initials": "con",
+    "searchTerms": [
+      "贵州辣椒油1",
+      "cond-chili-oil--906"
+    ],
+    "summary": "贵州辣椒油1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--907",
+    "name": "贵州花椒油1",
+    "en": "贵州花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condsichuanpepperoil907",
+    "initials": "con",
+    "searchTerms": [
+      "贵州花椒油1",
+      "cond-sichuan-pepper-oil--907"
+    ],
+    "summary": "贵州花椒油1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--908",
+    "name": "贵州蚝油1",
+    "en": "贵州蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condoystersauce908",
+    "initials": "con",
+    "searchTerms": [
+      "贵州蚝油1",
+      "cond-oyster-sauce--908"
+    ],
+    "summary": "贵州蚝油1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--909",
+    "name": "贵州虾酱1",
+    "en": "贵州虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condshrimpsauce909",
+    "initials": "con",
+    "searchTerms": [
+      "贵州虾酱1",
+      "cond-shrimp-sauce--909"
+    ],
+    "summary": "贵州虾酱1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--910",
+    "name": "贵州鱼露1",
+    "en": "贵州鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condfishsaucegd910",
+    "initials": "con",
+    "searchTerms": [
+      "贵州鱼露1",
+      "cond-fish-sauce-gd--910"
+    ],
+    "summary": "贵州鱼露1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--911",
+    "name": "贵州料酒1",
+    "en": "贵州料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condricewinecooking911",
+    "initials": "con",
+    "searchTerms": [
+      "贵州料酒1",
+      "cond-rice-wine-cooking--911"
+    ],
+    "summary": "贵州料酒1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--912",
+    "name": "贵州黄酒1",
+    "en": "贵州黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condyellowricewine912",
+    "initials": "con",
+    "searchTerms": [
+      "贵州黄酒1",
+      "cond-yellow-rice-wine--912"
+    ],
+    "summary": "贵州黄酒1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--913",
+    "name": "贵州玫瑰露酒1",
+    "en": "贵州玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condrosefermentedwine913",
+    "initials": "con",
+    "searchTerms": [
+      "贵州玫瑰露酒1",
+      "cond-rose-fermented-wine--913"
+    ],
+    "summary": "贵州玫瑰露酒1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--914",
+    "name": "贵州咸酸梅1",
+    "en": "贵州咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condpreservedplum914",
+    "initials": "con",
+    "searchTerms": [
+      "贵州咸酸梅1",
+      "cond-preserved-plum--914"
+    ],
+    "summary": "贵州咸酸梅1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--915",
+    "name": "贵州卤水汁1",
+    "en": "贵州卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condmasterstock915",
+    "initials": "con",
+    "searchTerms": [
+      "贵州卤水汁1",
+      "cond-master-stock--915"
+    ],
+    "summary": "贵州卤水汁1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--916",
+    "name": "贵州五香粉1",
+    "en": "贵州五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condfivespicepowder916",
+    "initials": "con",
+    "searchTerms": [
+      "贵州五香粉1",
+      "cond-five-spice-powder--916"
+    ],
+    "summary": "贵州五香粉1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--917",
+    "name": "贵州咖喱粉1",
+    "en": "贵州咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condcurrypowdercn917",
+    "initials": "con",
+    "searchTerms": [
+      "贵州咖喱粉1",
+      "cond-curry-powder-cn--917"
+    ],
+    "summary": "贵州咖喱粉1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--918",
+    "name": "贵州沙茶酱1",
+    "en": "贵州沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condsataysauce918",
+    "initials": "con",
+    "searchTerms": [
+      "贵州沙茶酱1",
+      "cond-satay-sauce--918"
+    ],
+    "summary": "贵州沙茶酱1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--919",
+    "name": "贵州叉烧酱1",
+    "en": "贵州叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "condbbqsaucecn919",
+    "initials": "con",
+    "searchTerms": [
+      "贵州叉烧酱1",
+      "cond-bbq-sauce-cn--919"
+    ],
+    "summary": "贵州叉烧酱1为贵州民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--920",
+    "name": "浙江黄豆酱1",
+    "en": "浙江黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condbeanpaste920",
+    "initials": "con",
+    "searchTerms": [
+      "浙江黄豆酱1",
+      "cond-bean-paste--920"
+    ],
+    "summary": "浙江黄豆酱1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--921",
+    "name": "浙江甜面酱1",
+    "en": "浙江甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condsweetbeansauce921",
+    "initials": "con",
+    "searchTerms": [
+      "浙江甜面酱1",
+      "cond-sweet-bean-sauce--921"
+    ],
+    "summary": "浙江甜面酱1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--922",
+    "name": "浙江辣豆瓣酱1",
+    "en": "浙江辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condchilibeanpaste922",
+    "initials": "con",
+    "searchTerms": [
+      "浙江辣豆瓣酱1",
+      "cond-chili-bean-paste--922"
+    ],
+    "summary": "浙江辣豆瓣酱1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--923",
+    "name": "浙江白腐乳1",
+    "en": "浙江白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condfermentedtofuwhite923",
+    "initials": "con",
+    "searchTerms": [
+      "浙江白腐乳1",
+      "cond-fermented-tofu-white--923"
+    ],
+    "summary": "浙江白腐乳1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--924",
+    "name": "浙江玫瑰腐乳1",
+    "en": "浙江玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condfermentedtofurose924",
+    "initials": "con",
+    "searchTerms": [
+      "浙江玫瑰腐乳1",
+      "cond-fermented-tofu-rose--924"
+    ],
+    "summary": "浙江玫瑰腐乳1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--925",
+    "name": "浙江芝麻油1",
+    "en": "浙江芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condsesameoil925",
+    "initials": "con",
+    "searchTerms": [
+      "浙江芝麻油1",
+      "cond-sesame-oil--925"
+    ],
+    "summary": "浙江芝麻油1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--926",
+    "name": "浙江辣椒油1",
+    "en": "浙江辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condchilioil926",
+    "initials": "con",
+    "searchTerms": [
+      "浙江辣椒油1",
+      "cond-chili-oil--926"
+    ],
+    "summary": "浙江辣椒油1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--927",
+    "name": "浙江花椒油1",
+    "en": "浙江花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condsichuanpepperoil927",
+    "initials": "con",
+    "searchTerms": [
+      "浙江花椒油1",
+      "cond-sichuan-pepper-oil--927"
+    ],
+    "summary": "浙江花椒油1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--928",
+    "name": "浙江蚝油1",
+    "en": "浙江蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condoystersauce928",
+    "initials": "con",
+    "searchTerms": [
+      "浙江蚝油1",
+      "cond-oyster-sauce--928"
+    ],
+    "summary": "浙江蚝油1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--929",
+    "name": "浙江虾酱1",
+    "en": "浙江虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condshrimpsauce929",
+    "initials": "con",
+    "searchTerms": [
+      "浙江虾酱1",
+      "cond-shrimp-sauce--929"
+    ],
+    "summary": "浙江虾酱1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--930",
+    "name": "浙江鱼露1",
+    "en": "浙江鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condfishsaucegd930",
+    "initials": "con",
+    "searchTerms": [
+      "浙江鱼露1",
+      "cond-fish-sauce-gd--930"
+    ],
+    "summary": "浙江鱼露1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--931",
+    "name": "浙江料酒1",
+    "en": "浙江料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condricewinecooking931",
+    "initials": "con",
+    "searchTerms": [
+      "浙江料酒1",
+      "cond-rice-wine-cooking--931"
+    ],
+    "summary": "浙江料酒1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--932",
+    "name": "浙江黄酒1",
+    "en": "浙江黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condyellowricewine932",
+    "initials": "con",
+    "searchTerms": [
+      "浙江黄酒1",
+      "cond-yellow-rice-wine--932"
+    ],
+    "summary": "浙江黄酒1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--933",
+    "name": "浙江玫瑰露酒1",
+    "en": "浙江玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condrosefermentedwine933",
+    "initials": "con",
+    "searchTerms": [
+      "浙江玫瑰露酒1",
+      "cond-rose-fermented-wine--933"
+    ],
+    "summary": "浙江玫瑰露酒1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--934",
+    "name": "浙江咸酸梅1",
+    "en": "浙江咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condpreservedplum934",
+    "initials": "con",
+    "searchTerms": [
+      "浙江咸酸梅1",
+      "cond-preserved-plum--934"
+    ],
+    "summary": "浙江咸酸梅1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--935",
+    "name": "浙江卤水汁1",
+    "en": "浙江卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condmasterstock935",
+    "initials": "con",
+    "searchTerms": [
+      "浙江卤水汁1",
+      "cond-master-stock--935"
+    ],
+    "summary": "浙江卤水汁1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--936",
+    "name": "浙江五香粉1",
+    "en": "浙江五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condfivespicepowder936",
+    "initials": "con",
+    "searchTerms": [
+      "浙江五香粉1",
+      "cond-five-spice-powder--936"
+    ],
+    "summary": "浙江五香粉1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--937",
+    "name": "浙江咖喱粉1",
+    "en": "浙江咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condcurrypowdercn937",
+    "initials": "con",
+    "searchTerms": [
+      "浙江咖喱粉1",
+      "cond-curry-powder-cn--937"
+    ],
+    "summary": "浙江咖喱粉1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--938",
+    "name": "浙江沙茶酱1",
+    "en": "浙江沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condsataysauce938",
+    "initials": "con",
+    "searchTerms": [
+      "浙江沙茶酱1",
+      "cond-satay-sauce--938"
+    ],
+    "summary": "浙江沙茶酱1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--939",
+    "name": "浙江叉烧酱1",
+    "en": "浙江叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "condbbqsaucecn939",
+    "initials": "con",
+    "searchTerms": [
+      "浙江叉烧酱1",
+      "cond-bbq-sauce-cn--939"
+    ],
+    "summary": "浙江叉烧酱1为浙江民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--940",
+    "name": "江苏黄豆酱1",
+    "en": "江苏黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condbeanpaste940",
+    "initials": "con",
+    "searchTerms": [
+      "江苏黄豆酱1",
+      "cond-bean-paste--940"
+    ],
+    "summary": "江苏黄豆酱1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--941",
+    "name": "江苏甜面酱1",
+    "en": "江苏甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condsweetbeansauce941",
+    "initials": "con",
+    "searchTerms": [
+      "江苏甜面酱1",
+      "cond-sweet-bean-sauce--941"
+    ],
+    "summary": "江苏甜面酱1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--942",
+    "name": "江苏辣豆瓣酱1",
+    "en": "江苏辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condchilibeanpaste942",
+    "initials": "con",
+    "searchTerms": [
+      "江苏辣豆瓣酱1",
+      "cond-chili-bean-paste--942"
+    ],
+    "summary": "江苏辣豆瓣酱1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--943",
+    "name": "江苏白腐乳1",
+    "en": "江苏白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condfermentedtofuwhite943",
+    "initials": "con",
+    "searchTerms": [
+      "江苏白腐乳1",
+      "cond-fermented-tofu-white--943"
+    ],
+    "summary": "江苏白腐乳1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--944",
+    "name": "江苏玫瑰腐乳1",
+    "en": "江苏玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condfermentedtofurose944",
+    "initials": "con",
+    "searchTerms": [
+      "江苏玫瑰腐乳1",
+      "cond-fermented-tofu-rose--944"
+    ],
+    "summary": "江苏玫瑰腐乳1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--945",
+    "name": "江苏芝麻油1",
+    "en": "江苏芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condsesameoil945",
+    "initials": "con",
+    "searchTerms": [
+      "江苏芝麻油1",
+      "cond-sesame-oil--945"
+    ],
+    "summary": "江苏芝麻油1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--946",
+    "name": "江苏辣椒油1",
+    "en": "江苏辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condchilioil946",
+    "initials": "con",
+    "searchTerms": [
+      "江苏辣椒油1",
+      "cond-chili-oil--946"
+    ],
+    "summary": "江苏辣椒油1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--947",
+    "name": "江苏花椒油1",
+    "en": "江苏花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condsichuanpepperoil947",
+    "initials": "con",
+    "searchTerms": [
+      "江苏花椒油1",
+      "cond-sichuan-pepper-oil--947"
+    ],
+    "summary": "江苏花椒油1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--948",
+    "name": "江苏蚝油1",
+    "en": "江苏蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condoystersauce948",
+    "initials": "con",
+    "searchTerms": [
+      "江苏蚝油1",
+      "cond-oyster-sauce--948"
+    ],
+    "summary": "江苏蚝油1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--949",
+    "name": "江苏虾酱1",
+    "en": "江苏虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condshrimpsauce949",
+    "initials": "con",
+    "searchTerms": [
+      "江苏虾酱1",
+      "cond-shrimp-sauce--949"
+    ],
+    "summary": "江苏虾酱1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--950",
+    "name": "江苏鱼露1",
+    "en": "江苏鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condfishsaucegd950",
+    "initials": "con",
+    "searchTerms": [
+      "江苏鱼露1",
+      "cond-fish-sauce-gd--950"
+    ],
+    "summary": "江苏鱼露1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--951",
+    "name": "江苏料酒1",
+    "en": "江苏料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condricewinecooking951",
+    "initials": "con",
+    "searchTerms": [
+      "江苏料酒1",
+      "cond-rice-wine-cooking--951"
+    ],
+    "summary": "江苏料酒1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--952",
+    "name": "江苏黄酒1",
+    "en": "江苏黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condyellowricewine952",
+    "initials": "con",
+    "searchTerms": [
+      "江苏黄酒1",
+      "cond-yellow-rice-wine--952"
+    ],
+    "summary": "江苏黄酒1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--953",
+    "name": "江苏玫瑰露酒1",
+    "en": "江苏玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condrosefermentedwine953",
+    "initials": "con",
+    "searchTerms": [
+      "江苏玫瑰露酒1",
+      "cond-rose-fermented-wine--953"
+    ],
+    "summary": "江苏玫瑰露酒1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--954",
+    "name": "江苏咸酸梅1",
+    "en": "江苏咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condpreservedplum954",
+    "initials": "con",
+    "searchTerms": [
+      "江苏咸酸梅1",
+      "cond-preserved-plum--954"
+    ],
+    "summary": "江苏咸酸梅1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--955",
+    "name": "江苏卤水汁1",
+    "en": "江苏卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condmasterstock955",
+    "initials": "con",
+    "searchTerms": [
+      "江苏卤水汁1",
+      "cond-master-stock--955"
+    ],
+    "summary": "江苏卤水汁1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--956",
+    "name": "江苏五香粉1",
+    "en": "江苏五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condfivespicepowder956",
+    "initials": "con",
+    "searchTerms": [
+      "江苏五香粉1",
+      "cond-five-spice-powder--956"
+    ],
+    "summary": "江苏五香粉1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--957",
+    "name": "江苏咖喱粉1",
+    "en": "江苏咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condcurrypowdercn957",
+    "initials": "con",
+    "searchTerms": [
+      "江苏咖喱粉1",
+      "cond-curry-powder-cn--957"
+    ],
+    "summary": "江苏咖喱粉1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--958",
+    "name": "江苏沙茶酱1",
+    "en": "江苏沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condsataysauce958",
+    "initials": "con",
+    "searchTerms": [
+      "江苏沙茶酱1",
+      "cond-satay-sauce--958"
+    ],
+    "summary": "江苏沙茶酱1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--959",
+    "name": "江苏叉烧酱1",
+    "en": "江苏叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "condbbqsaucecn959",
+    "initials": "con",
+    "searchTerms": [
+      "江苏叉烧酱1",
+      "cond-bbq-sauce-cn--959"
+    ],
+    "summary": "江苏叉烧酱1为江苏民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--960",
+    "name": "上海黄豆酱1",
+    "en": "上海黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condbeanpaste960",
+    "initials": "con",
+    "searchTerms": [
+      "上海黄豆酱1",
+      "cond-bean-paste--960"
+    ],
+    "summary": "上海黄豆酱1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--961",
+    "name": "上海甜面酱1",
+    "en": "上海甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condsweetbeansauce961",
+    "initials": "con",
+    "searchTerms": [
+      "上海甜面酱1",
+      "cond-sweet-bean-sauce--961"
+    ],
+    "summary": "上海甜面酱1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--962",
+    "name": "上海辣豆瓣酱1",
+    "en": "上海辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condchilibeanpaste962",
+    "initials": "con",
+    "searchTerms": [
+      "上海辣豆瓣酱1",
+      "cond-chili-bean-paste--962"
+    ],
+    "summary": "上海辣豆瓣酱1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--963",
+    "name": "上海白腐乳1",
+    "en": "上海白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condfermentedtofuwhite963",
+    "initials": "con",
+    "searchTerms": [
+      "上海白腐乳1",
+      "cond-fermented-tofu-white--963"
+    ],
+    "summary": "上海白腐乳1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--964",
+    "name": "上海玫瑰腐乳1",
+    "en": "上海玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condfermentedtofurose964",
+    "initials": "con",
+    "searchTerms": [
+      "上海玫瑰腐乳1",
+      "cond-fermented-tofu-rose--964"
+    ],
+    "summary": "上海玫瑰腐乳1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--965",
+    "name": "上海芝麻油1",
+    "en": "上海芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condsesameoil965",
+    "initials": "con",
+    "searchTerms": [
+      "上海芝麻油1",
+      "cond-sesame-oil--965"
+    ],
+    "summary": "上海芝麻油1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--966",
+    "name": "上海辣椒油1",
+    "en": "上海辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condchilioil966",
+    "initials": "con",
+    "searchTerms": [
+      "上海辣椒油1",
+      "cond-chili-oil--966"
+    ],
+    "summary": "上海辣椒油1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--967",
+    "name": "上海花椒油1",
+    "en": "上海花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condsichuanpepperoil967",
+    "initials": "con",
+    "searchTerms": [
+      "上海花椒油1",
+      "cond-sichuan-pepper-oil--967"
+    ],
+    "summary": "上海花椒油1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--968",
+    "name": "上海蚝油1",
+    "en": "上海蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condoystersauce968",
+    "initials": "con",
+    "searchTerms": [
+      "上海蚝油1",
+      "cond-oyster-sauce--968"
+    ],
+    "summary": "上海蚝油1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--969",
+    "name": "上海虾酱1",
+    "en": "上海虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condshrimpsauce969",
+    "initials": "con",
+    "searchTerms": [
+      "上海虾酱1",
+      "cond-shrimp-sauce--969"
+    ],
+    "summary": "上海虾酱1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--970",
+    "name": "上海鱼露1",
+    "en": "上海鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condfishsaucegd970",
+    "initials": "con",
+    "searchTerms": [
+      "上海鱼露1",
+      "cond-fish-sauce-gd--970"
+    ],
+    "summary": "上海鱼露1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--971",
+    "name": "上海料酒1",
+    "en": "上海料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condricewinecooking971",
+    "initials": "con",
+    "searchTerms": [
+      "上海料酒1",
+      "cond-rice-wine-cooking--971"
+    ],
+    "summary": "上海料酒1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--972",
+    "name": "上海黄酒1",
+    "en": "上海黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condyellowricewine972",
+    "initials": "con",
+    "searchTerms": [
+      "上海黄酒1",
+      "cond-yellow-rice-wine--972"
+    ],
+    "summary": "上海黄酒1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--973",
+    "name": "上海玫瑰露酒1",
+    "en": "上海玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condrosefermentedwine973",
+    "initials": "con",
+    "searchTerms": [
+      "上海玫瑰露酒1",
+      "cond-rose-fermented-wine--973"
+    ],
+    "summary": "上海玫瑰露酒1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--974",
+    "name": "上海咸酸梅1",
+    "en": "上海咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condpreservedplum974",
+    "initials": "con",
+    "searchTerms": [
+      "上海咸酸梅1",
+      "cond-preserved-plum--974"
+    ],
+    "summary": "上海咸酸梅1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--975",
+    "name": "上海卤水汁1",
+    "en": "上海卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condmasterstock975",
+    "initials": "con",
+    "searchTerms": [
+      "上海卤水汁1",
+      "cond-master-stock--975"
+    ],
+    "summary": "上海卤水汁1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--976",
+    "name": "上海五香粉1",
+    "en": "上海五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condfivespicepowder976",
+    "initials": "con",
+    "searchTerms": [
+      "上海五香粉1",
+      "cond-five-spice-powder--976"
+    ],
+    "summary": "上海五香粉1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--977",
+    "name": "上海咖喱粉1",
+    "en": "上海咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condcurrypowdercn977",
+    "initials": "con",
+    "searchTerms": [
+      "上海咖喱粉1",
+      "cond-curry-powder-cn--977"
+    ],
+    "summary": "上海咖喱粉1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--978",
+    "name": "上海沙茶酱1",
+    "en": "上海沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condsataysauce978",
+    "initials": "con",
+    "searchTerms": [
+      "上海沙茶酱1",
+      "cond-satay-sauce--978"
+    ],
+    "summary": "上海沙茶酱1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--979",
+    "name": "上海叉烧酱1",
+    "en": "上海叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "condbbqsaucecn979",
+    "initials": "con",
+    "searchTerms": [
+      "上海叉烧酱1",
+      "cond-bbq-sauce-cn--979"
+    ],
+    "summary": "上海叉烧酱1为上海民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--980",
+    "name": "安徽黄豆酱1",
+    "en": "安徽黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condbeanpaste980",
+    "initials": "con",
+    "searchTerms": [
+      "安徽黄豆酱1",
+      "cond-bean-paste--980"
+    ],
+    "summary": "安徽黄豆酱1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sweet-bean-sauce--981",
+    "name": "安徽甜面酱1",
+    "en": "安徽甜面酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condsweetbeansauce981",
+    "initials": "con",
+    "searchTerms": [
+      "安徽甜面酱1",
+      "cond-sweet-bean-sauce--981"
+    ],
+    "summary": "安徽甜面酱1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-bean-paste--982",
+    "name": "安徽辣豆瓣酱1",
+    "en": "安徽辣豆瓣酱1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condchilibeanpaste982",
+    "initials": "con",
+    "searchTerms": [
+      "安徽辣豆瓣酱1",
+      "cond-chili-bean-paste--982"
+    ],
+    "summary": "安徽辣豆瓣酱1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-white--983",
+    "name": "安徽白腐乳1",
+    "en": "安徽白腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condfermentedtofuwhite983",
+    "initials": "con",
+    "searchTerms": [
+      "安徽白腐乳1",
+      "cond-fermented-tofu-white--983"
+    ],
+    "summary": "安徽白腐乳1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fermented-tofu-rose--984",
+    "name": "安徽玫瑰腐乳1",
+    "en": "安徽玫瑰腐乳1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condfermentedtofurose984",
+    "initials": "con",
+    "searchTerms": [
+      "安徽玫瑰腐乳1",
+      "cond-fermented-tofu-rose--984"
+    ],
+    "summary": "安徽玫瑰腐乳1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sesame-oil--985",
+    "name": "安徽芝麻油1",
+    "en": "安徽芝麻油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condsesameoil985",
+    "initials": "con",
+    "searchTerms": [
+      "安徽芝麻油1",
+      "cond-sesame-oil--985"
+    ],
+    "summary": "安徽芝麻油1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-chili-oil--986",
+    "name": "安徽辣椒油1",
+    "en": "安徽辣椒油1",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condchilioil986",
+    "initials": "con",
+    "searchTerms": [
+      "安徽辣椒油1",
+      "cond-chili-oil--986"
+    ],
+    "summary": "安徽辣椒油1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-sichuan-pepper-oil--987",
+    "name": "安徽花椒油1",
+    "en": "安徽花椒油1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condsichuanpepperoil987",
+    "initials": "con",
+    "searchTerms": [
+      "安徽花椒油1",
+      "cond-sichuan-pepper-oil--987"
+    ],
+    "summary": "安徽花椒油1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-oyster-sauce--988",
+    "name": "安徽蚝油1",
+    "en": "安徽蚝油1",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condoystersauce988",
+    "initials": "con",
+    "searchTerms": [
+      "安徽蚝油1",
+      "cond-oyster-sauce--988"
+    ],
+    "summary": "安徽蚝油1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-shrimp-sauce--989",
+    "name": "安徽虾酱1",
+    "en": "安徽虾酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condshrimpsauce989",
+    "initials": "con",
+    "searchTerms": [
+      "安徽虾酱1",
+      "cond-shrimp-sauce--989"
+    ],
+    "summary": "安徽虾酱1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-fish-sauce-gd--990",
+    "name": "安徽鱼露1",
+    "en": "安徽鱼露1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condfishsaucegd990",
+    "initials": "con",
+    "searchTerms": [
+      "安徽鱼露1",
+      "cond-fish-sauce-gd--990"
+    ],
+    "summary": "安徽鱼露1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rice-wine-cooking--991",
+    "name": "安徽料酒1",
+    "en": "安徽料酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condricewinecooking991",
+    "initials": "con",
+    "searchTerms": [
+      "安徽料酒1",
+      "cond-rice-wine-cooking--991"
+    ],
+    "summary": "安徽料酒1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-yellow-rice-wine--992",
+    "name": "安徽黄酒1",
+    "en": "安徽黄酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condyellowricewine992",
+    "initials": "con",
+    "searchTerms": [
+      "安徽黄酒1",
+      "cond-yellow-rice-wine--992"
+    ],
+    "summary": "安徽黄酒1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-rose-fermented-wine--993",
+    "name": "安徽玫瑰露酒1",
+    "en": "安徽玫瑰露酒1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condrosefermentedwine993",
+    "initials": "con",
+    "searchTerms": [
+      "安徽玫瑰露酒1",
+      "cond-rose-fermented-wine--993"
+    ],
+    "summary": "安徽玫瑰露酒1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-preserved-plum--994",
+    "name": "安徽咸酸梅1",
+    "en": "安徽咸酸梅1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condpreservedplum994",
+    "initials": "con",
+    "searchTerms": [
+      "安徽咸酸梅1",
+      "cond-preserved-plum--994"
+    ],
+    "summary": "安徽咸酸梅1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-master-stock--995",
+    "name": "安徽卤水汁1",
+    "en": "安徽卤水汁1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condmasterstock995",
+    "initials": "con",
+    "searchTerms": [
+      "安徽卤水汁1",
+      "cond-master-stock--995"
+    ],
+    "summary": "安徽卤水汁1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-five-spice-powder--996",
+    "name": "安徽五香粉1",
+    "en": "安徽五香粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condfivespicepowder996",
+    "initials": "con",
+    "searchTerms": [
+      "安徽五香粉1",
+      "cond-five-spice-powder--996"
+    ],
+    "summary": "安徽五香粉1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-curry-powder-cn--997",
+    "name": "安徽咖喱粉1",
+    "en": "安徽咖喱粉1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condcurrypowdercn997",
+    "initials": "con",
+    "searchTerms": [
+      "安徽咖喱粉1",
+      "cond-curry-powder-cn--997"
+    ],
+    "summary": "安徽咖喱粉1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-satay-sauce--998",
+    "name": "安徽沙茶酱1",
+    "en": "安徽沙茶酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condsataysauce998",
+    "initials": "con",
+    "searchTerms": [
+      "安徽沙茶酱1",
+      "cond-satay-sauce--998"
+    ],
+    "summary": "安徽沙茶酱1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bbq-sauce-cn--999",
+    "name": "安徽叉烧酱1",
+    "en": "安徽叉烧酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "condbbqsaucecn999",
+    "initials": "con",
+    "searchTerms": [
+      "安徽叉烧酱1",
+      "cond-bbq-sauce-cn--999"
+    ],
+    "summary": "安徽叉烧酱1为安徽民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "cond-bean-paste--1000",
+    "name": "山东黄豆酱1",
+    "en": "山东黄豆酱1",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东"
+    ],
+    "pinyin": "condbeanpaste1000",
+    "initials": "con",
+    "searchTerms": [
+      "山东黄豆酱1",
+      "cond-bean-paste--1000"
+    ],
+    "summary": "山东黄豆酱1为山东民间常见调料，食养整理条目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

@@ -1648,15 +1648,11 @@
       {
         "place": "四川、浙江、福建、江西",
         "province": "浙江"
-      },
-      {
-        "place": "广东、广西、福建",
-        "province": "福建"
       }
     ],
     "efficacyClass": "理气药",
-    "efficacy": "下气，调中，化痰，醒酒。（《中药大辞典》）",
-    "indications": "主治饮食失调，上气烦满，伤酒口渴。（《中药大辞典》） 用法用量 内服：煎汤， 3-9g；或入丸、散。（《中药大辞典》） 用药禁忌 脾胃虚寒者慎服。（《中药大辞典》）",
+    "efficacy": "理气健脾，燥湿化痰。（《中国药典2015》）",
+    "indications": "用于脘腹胀满，食少吐泻，咳嗽痰多。（《中国药典2015》） 用法用量 3-10g。（《中国药典2015》） 用药禁忌 气虚、阴虚者慎服。（《中药大辞典》） 贮藏保存 置阴凉干燥处，防霉，防蛀。（《中国药典2015》）",
     "partUsed": "",
     "productVariants": [],
     "overview": "陈皮为芸香科植物橘Citrus reticulata Blanco及其栽培变种的干燥成熟果皮。药材分为&ldquo;陈皮&rdquo;和&ldquo;广陈皮&rdquo; 。采摘成熟果实，剥取果皮，晒干或低温干燥。陈皮产于四川、浙江、福建、江西、湖南等地。广陈皮产于广东新会、四会等地，品质佳。 来源 本品为芸香科植物橘Citrus reticulata Blanco及其栽培变种的干燥成熟果皮。药材分为&ldquo;陈皮&rdquo;和&ldquo;广陈皮&rdquo; 。（《中国药典2015》） 分布产地 陈皮产于四川、浙江、福建、江西、湖南等地。广陈皮",
@@ -3368,6 +3364,40 @@
       "source": "chinadaodiyaocai.com",
       "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-74.html",
       "detailId": "74",
+      "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
+    }
+  },
+  {
+    "canonicalId": "chenpi-dried",
+    "name": "柑皮",
+    "linkStatus": "linked",
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "taxonomy": {
+      "latinName": "产区分布：广东、广西、福建",
+      "family": "芸香科"
+    },
+    "originDistribution": "广东、广西、福建",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、福建",
+        "province": "福建"
+      }
+    ],
+    "efficacyClass": "理气药",
+    "efficacy": "下气，调中，化痰，醒酒。（《中药大辞典》）",
+    "indications": "主治饮食失调，上气烦满，伤酒口渴。（《中药大辞典》） 用法用量 内服：煎汤， 3-9g；或入丸、散。（《中药大辞典》） 用药禁忌 脾胃虚寒者慎服。（《中药大辞典》）",
+    "partUsed": "",
+    "productVariants": [],
+    "overview": "柑皮为芸香科植物茶枝柑Citrus reticulata Blanco &amp;#39;Chachiensis&amp;#39;等多种柑类植物的果皮。将成熟果实的果皮剥下，晒干。主产广东、广西。此外，福建等地亦产。 来源 本品为芸香科植物茶枝柑Citrus reticulata Blanco &#39;Chachiensis&#39;等多种柑类植物的果皮。（《中药大辞典》） 分布产地 主产广东、广西。此外，福建等地亦产。 入药部位 果实及种子 采收加工 将成熟果实的果皮剥下，晒干。（《中药大辞典》） 性味归经 辛、甘，寒。（《中药大辞典》）",
+    "provenance": {
+      "source": "chinadaodiyaocai.com",
+      "sourceUrl": "http://www.chinadaodiyaocai.com/article/detail-285.html",
+      "detailId": "285",
       "note": "道地体系与产区摘要整理自道地药材网公开条目；药典正文以 Atlas 药典2025 为准。"
     }
   },
@@ -5408,7 +5438,7 @@
     }
   },
   {
-    "canonicalId": "egg",
+    "canonicalId": "egg-flower",
     "name": "鸡蛋花",
     "linkStatus": "linked",
     "daoDiSystemIds": [
@@ -10956,7 +10986,7 @@
     }
   },
   {
-    "canonicalId": "wuzhi-maotao",
+    "canonicalId": "radix-fici",
     "name": "五指毛桃",
     "linkStatus": "linked",
     "daoDiSystemIds": [

@@ -550,7 +550,8 @@
         "chinesebroccoli"
       ],
       "confidence": "岭南地方蔬菜扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "red-stem-gai-lan",
@@ -1248,7 +1249,8 @@
         "hakka"
       ],
       "confidence": "两广汤料扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "tufuling",

@@ -2,60 +2,540 @@
   "note": "Monthly GI expansion queue. Processed by scripts/monthly-origin-daodi-sync.mjs (default 30 items/run).",
   "batchSize": 30,
   "pending": [
-    { "name": "原阳大米", "system": "mara", "region": "河南", "category": "谷物", "baseFoodId": "rice", "sourceId": "mara-yuanyang-rice-queue" },
-    { "name": "响水大米", "system": "mara", "region": "黑龙江", "category": "谷物", "baseFoodId": "rice", "sourceId": "mara-xiangshui-rice-queue" },
-    { "name": "万年贡米", "system": "mara", "region": "江西", "category": "谷物", "baseFoodId": "rice", "sourceId": "mara-wannian-rice-queue" },
-    { "name": "阿克苏苹果", "system": "mara", "region": "新疆", "category": "水果", "baseFoodId": "apple", "sourceId": "mara-akesu-apple-queue" },
-    { "name": "大荔冬枣", "system": "mara", "region": "陕西", "category": "水果", "baseFoodId": "jujube", "sourceId": "mara-dali-jujube-queue" },
-    { "name": "仙居杨梅", "system": "mara", "region": "浙江", "category": "水果", "baseFoodId": "bayberry", "sourceId": "mara-xianju-bayberry-queue" },
-    { "name": "容县沙田柚", "system": "provincial", "region": "广西", "category": "水果", "sourceId": "prov-gx-rongxian-pomelo-queue" },
-    { "name": "舟山小黄鱼", "system": "mara", "region": "浙江", "category": "海产", "baseFoodId": "yellow-croaker", "sourceId": "mara-zhoushan-yellow-croaker-queue" },
-    { "name": "湛江对虾", "system": "mara", "region": "广东", "category": "海产", "baseFoodId": "shrimp", "sourceId": "mara-zhanjiang-shrimp-queue" },
-    { "name": "太湖银鱼", "system": "mara", "region": "江苏", "category": "海产", "sourceId": "mara-taihu-whitebait-queue" },
-    { "name": "如皋火腿", "system": "mara", "region": "江苏", "category": "肉蛋奶", "sourceId": "mara-rugao-ham-queue" },
-    { "name": "罗平小黄姜", "system": "mara", "region": "云南", "category": "蔬菜", "baseFoodId": "ginger", "sourceId": "mara-luoping-ginger-queue" },
-    { "name": "西峡香菇", "system": "cnipa", "region": "河南", "category": "菌菇", "baseFoodId": "shiitake", "sourceId": "cnipa-xixia-shiitake-queue" },
-    { "name": "白毫银针", "system": "cnipa", "region": "福建", "category": "茶饮", "teaClass": "白茶", "baseFoodId": "white-tea", "sourceId": "cnipa-baihao-yinzhen-queue" },
-    { "name": "滇红", "system": "cnipa", "region": "云南", "category": "茶饮", "teaClass": "红茶", "baseFoodId": "black-tea", "sourceId": "cnipa-dianhong-queue" },
-    { "name": "英德红茶", "system": "cnipa", "region": "广东", "category": "茶饮", "teaClass": "红茶", "baseFoodId": "black-tea", "sourceId": "cnipa-yingde-black-tea-queue" },
-    { "name": "安化黑茶", "system": "cnipa", "region": "湖南", "category": "茶饮", "teaClass": "黑茶", "sourceId": "cnipa-anhua-dark-tea-queue" },
-    { "name": "青岛啤酒", "system": "cnipa", "region": "山东", "category": "饮品", "sourceId": "cnipa-qingdao-beer-queue" },
-    { "name": "竹叶青", "system": "cnipa", "region": "四川", "category": "茶饮", "teaClass": "绿茶", "baseFoodId": "green-tea", "sourceId": "cnipa-zhuye-qing-queue" },
-    { "name": "政和白茶", "system": "cnipa", "region": "福建", "category": "茶饮", "teaClass": "白茶", "baseFoodId": "white-tea", "sourceId": "cnipa-zhenghe-white-tea-queue" },
-    { "name": "永川豆豉", "system": "provincial", "region": "重庆", "category": "调料", "sourceId": "prov-cq-yongchuan-douchi-queue" },
-    { "name": "阳山水蜜桃", "system": "provincial", "region": "江苏", "category": "水果", "baseFoodId": "peach", "sourceId": "prov-js-yangshan-peach-queue" },
-    { "name": "陇西当归", "system": "mara", "region": "甘肃", "category": "中药材", "baseFoodId": "angelica-sinensis", "sourceId": "mara-longxi-angelica-queue" },
-    { "name": "宁夏甘草", "system": "mara", "region": "宁夏", "category": "中药材", "baseFoodId": "glycyrrhiza-uralensis", "sourceId": "mara-ningxia-licorice-queue" },
-    { "name": "亳州菊花", "system": "mara", "region": "安徽", "category": "饮品", "baseFoodId": "chrysanthemum-morifolium", "sourceId": "mara-bozhou-chrysanthemum-queue" },
-    { "name": "温县怀山药", "system": "mara", "region": "河南", "category": "食药物质", "baseFoodId": "yam", "sourceId": "mara-wenxian-yam-queue" },
-    { "name": "随州香菇", "system": "mara", "region": "湖北", "category": "菌菇", "baseFoodId": "shiitake", "sourceId": "mara-suizhou-shiitake" },
-    { "name": "南部黑木耳", "system": "mara", "region": "四川", "category": "菌菇", "sourceId": "mara-nanbu-black-fungus" },
-    { "name": "宜宾碎米芽菜", "system": "provincial", "region": "四川", "category": "腌菜", "sourceId": "prov-sc-yibin-broken-rice-pickle" },
-    { "name": "王致和腐乳", "system": "cnipa", "region": "北京", "category": "调料", "sourceId": "cnipa-wangzhihe-fermented-tofu" },
-    { "name": "东方美人茶", "system": "cnipa", "region": "台湾", "category": "茶饮", "teaClass": "乌龙茶", "baseFoodId": "oolong-tea", "sourceId": "cnipa-oriental-beauty-tea" },
-    { "name": "六安瓜片", "system": "cnipa", "region": "安徽", "category": "茶饮", "teaClass": "绿茶", "baseFoodId": "green-tea", "sourceId": "cnipa-liuan-guapian-queue" },
-    { "name": "霍山黄芽", "system": "cnipa", "region": "安徽", "category": "茶饮", "teaClass": "黄茶", "baseFoodId": "green-tea", "sourceId": "cnipa-huoshan-huangya-queue" },
-    { "name": "莫干黄芽", "system": "cnipa", "region": "浙江", "category": "茶饮", "teaClass": "黄茶", "baseFoodId": "green-tea", "sourceId": "cnipa-mogan-huangya-queue" },
-    { "name": "恩施玉露", "system": "mara", "region": "湖北", "category": "茶饮", "teaClass": "绿茶", "sourceId": "mara-enshi-yulu-queue" },
-    { "name": "都匀毛尖", "system": "mara", "region": "贵州", "category": "茶饮", "teaClass": "绿茶", "sourceId": "mara-duyun-maojian-queue" },
-    { "name": "六堡茶", "system": "mara", "region": "广西", "category": "茶饮", "teaClass": "黑茶", "sourceId": "mara-liubao-tea-queue" },
-    { "name": "茯砖茶", "system": "mara", "region": "湖南", "category": "茶饮", "teaClass": "黑茶", "sourceId": "mara-fuzhuan-tea-queue" },
-    { "name": "泰和乌鸡", "system": "cnipa", "region": "江西", "category": "肉蛋奶", "sourceId": "cnipa-taihe-wuji-queue" },
-    { "name": "遂昌蜂蜜", "system": "cnipa", "region": "浙江", "category": "滋补食材", "sourceId": "cnipa-suichang-honey-queue" },
-    { "name": "天水花牛苹果", "system": "cnipa", "region": "甘肃", "category": "水果", "sourceId": "cnipa-tianshui-apple-queue" },
-    { "name": "庆元香菇", "system": "cnipa", "region": "浙江", "category": "菌菇", "baseFoodId": "shiitake", "sourceId": "cnipa-qingyuan-mushroom-queue" },
-    { "name": "金寨香菇", "system": "cnipa", "region": "安徽", "category": "菌菇", "baseFoodId": "shiitake", "sourceId": "cnipa-jinzhai-shiitake-queue" },
-    { "name": "正山小种", "system": "cnipa", "region": "福建", "category": "茶饮", "teaClass": "红茶", "sourceId": "cnipa-zhengshan-souchong-queue" },
-    { "name": "君山银针", "system": "cnipa", "region": "湖南", "category": "茶饮", "teaClass": "黄茶", "sourceId": "cnipa-junshan-yinzhen-queue" },
-    { "name": "蒙顶甘露", "system": "cnipa", "region": "四川", "category": "茶饮", "teaClass": "绿茶", "sourceId": "cnipa-mengding-ganlu-queue" },
-    { "name": "洞庭碧螺春", "system": "cnipa", "region": "江苏", "category": "茶饮", "teaClass": "绿茶", "baseFoodId": "green-tea", "sourceId": "cnipa-biluochun-queue" },
-    { "name": "庐山云雾茶", "system": "cnipa", "region": "江西", "category": "茶饮", "teaClass": "绿茶", "sourceId": "cnipa-lushan-tea-queue" },
-    { "name": "汾酒", "system": "cnipa", "region": "山西", "category": "饮品", "sourceId": "cnipa-fenjiu-queue" },
-    { "name": "泸州老窖", "system": "cnipa", "region": "四川", "category": "饮品", "sourceId": "cnipa-luzhou-laojiao-queue" },
-    { "name": "宜宾碎米芽菜", "system": "provincial", "region": "四川", "category": "腌菜", "sourceId": "prov-sc-yibin-pickled-mustard-queue" },
-    { "name": "郫县豆瓣", "system": "cnipa", "region": "四川", "category": "调料", "baseFoodId": "doubanjiang", "sourceId": "cnipa-pixian-douban-queue" },
-    { "name": "镇江香醋", "system": "cnipa", "region": "江苏", "category": "调料", "sourceId": "cnipa-zhenjiang-vinegar-queue" },
-    { "name": "山西老陈醋", "system": "cnipa", "region": "山西", "category": "调料", "sourceId": "cnipa-shanxi-vinegar-queue" }
+    {
+      "name": "原阳大米",
+      "system": "mara",
+      "region": "河南",
+      "category": "谷物",
+      "baseFoodId": "rice",
+      "sourceId": "mara-yuanyang-rice-queue"
+    },
+    {
+      "name": "响水大米",
+      "system": "mara",
+      "region": "黑龙江",
+      "category": "谷物",
+      "baseFoodId": "rice",
+      "sourceId": "mara-xiangshui-rice-queue"
+    },
+    {
+      "name": "万年贡米",
+      "system": "mara",
+      "region": "江西",
+      "category": "谷物",
+      "baseFoodId": "rice",
+      "sourceId": "mara-wannian-rice-queue"
+    },
+    {
+      "name": "阿克苏苹果",
+      "system": "mara",
+      "region": "新疆",
+      "category": "水果",
+      "baseFoodId": "apple",
+      "sourceId": "mara-akesu-apple-queue"
+    },
+    {
+      "name": "大荔冬枣",
+      "system": "mara",
+      "region": "陕西",
+      "category": "水果",
+      "baseFoodId": "jujube",
+      "sourceId": "mara-dali-jujube-queue"
+    },
+    {
+      "name": "仙居杨梅",
+      "system": "mara",
+      "region": "浙江",
+      "category": "水果",
+      "baseFoodId": "bayberry",
+      "sourceId": "mara-xianju-bayberry-queue"
+    },
+    {
+      "name": "容县沙田柚",
+      "system": "provincial",
+      "region": "广西",
+      "category": "水果",
+      "sourceId": "prov-gx-rongxian-pomelo-queue"
+    },
+    {
+      "name": "舟山小黄鱼",
+      "system": "mara",
+      "region": "浙江",
+      "category": "海产",
+      "baseFoodId": "yellow-croaker",
+      "sourceId": "mara-zhoushan-yellow-croaker-queue"
+    },
+    {
+      "name": "湛江对虾",
+      "system": "mara",
+      "region": "广东",
+      "category": "海产",
+      "baseFoodId": "shrimp",
+      "sourceId": "mara-zhanjiang-shrimp-queue"
+    },
+    {
+      "name": "太湖银鱼",
+      "system": "mara",
+      "region": "江苏",
+      "category": "海产",
+      "sourceId": "mara-taihu-whitebait-queue"
+    },
+    {
+      "name": "如皋火腿",
+      "system": "mara",
+      "region": "江苏",
+      "category": "肉蛋奶",
+      "sourceId": "mara-rugao-ham-queue"
+    },
+    {
+      "name": "罗平小黄姜",
+      "system": "mara",
+      "region": "云南",
+      "category": "蔬菜",
+      "baseFoodId": "ginger",
+      "sourceId": "mara-luoping-ginger-queue"
+    },
+    {
+      "name": "西峡香菇",
+      "system": "cnipa",
+      "region": "河南",
+      "category": "菌菇",
+      "baseFoodId": "shiitake",
+      "sourceId": "cnipa-xixia-shiitake-queue"
+    },
+    {
+      "name": "白毫银针",
+      "system": "cnipa",
+      "region": "福建",
+      "category": "茶饮",
+      "teaClass": "白茶",
+      "baseFoodId": "white-tea",
+      "sourceId": "cnipa-baihao-yinzhen-queue"
+    },
+    {
+      "name": "滇红",
+      "system": "cnipa",
+      "region": "云南",
+      "category": "茶饮",
+      "teaClass": "红茶",
+      "baseFoodId": "black-tea",
+      "sourceId": "cnipa-dianhong-queue"
+    },
+    {
+      "name": "英德红茶",
+      "system": "cnipa",
+      "region": "广东",
+      "category": "茶饮",
+      "teaClass": "红茶",
+      "baseFoodId": "black-tea",
+      "sourceId": "cnipa-yingde-black-tea-queue"
+    },
+    {
+      "name": "安化黑茶",
+      "system": "cnipa",
+      "region": "湖南",
+      "category": "茶饮",
+      "teaClass": "黑茶",
+      "sourceId": "cnipa-anhua-dark-tea-queue"
+    },
+    {
+      "name": "青岛啤酒",
+      "system": "cnipa",
+      "region": "山东",
+      "category": "饮品",
+      "sourceId": "cnipa-qingdao-beer-queue"
+    },
+    {
+      "name": "竹叶青",
+      "system": "cnipa",
+      "region": "四川",
+      "category": "茶饮",
+      "teaClass": "绿茶",
+      "baseFoodId": "green-tea",
+      "sourceId": "cnipa-zhuye-qing-queue"
+    },
+    {
+      "name": "政和白茶",
+      "system": "cnipa",
+      "region": "福建",
+      "category": "茶饮",
+      "teaClass": "白茶",
+      "baseFoodId": "white-tea",
+      "sourceId": "cnipa-zhenghe-white-tea-queue"
+    },
+    {
+      "name": "永川豆豉",
+      "system": "provincial",
+      "region": "重庆",
+      "category": "调料",
+      "sourceId": "prov-cq-yongchuan-douchi-queue"
+    },
+    {
+      "name": "阳山水蜜桃",
+      "system": "provincial",
+      "region": "江苏",
+      "category": "水果",
+      "baseFoodId": "peach",
+      "sourceId": "prov-js-yangshan-peach-queue"
+    },
+    {
+      "name": "陇西当归",
+      "system": "mara",
+      "region": "甘肃",
+      "category": "中药材",
+      "baseFoodId": "angelica-sinensis",
+      "sourceId": "mara-longxi-angelica-queue"
+    },
+    {
+      "name": "宁夏甘草",
+      "system": "mara",
+      "region": "宁夏",
+      "category": "中药材",
+      "baseFoodId": "glycyrrhiza-uralensis",
+      "sourceId": "mara-ningxia-licorice-queue"
+    },
+    {
+      "name": "亳州菊花",
+      "system": "mara",
+      "region": "安徽",
+      "category": "饮品",
+      "baseFoodId": "chrysanthemum-morifolium",
+      "sourceId": "mara-bozhou-chrysanthemum-queue"
+    },
+    {
+      "name": "温县怀山药",
+      "system": "mara",
+      "region": "河南",
+      "category": "食药物质",
+      "baseFoodId": "yam",
+      "sourceId": "mara-wenxian-yam-queue"
+    },
+    {
+      "name": "随州香菇",
+      "system": "mara",
+      "region": "湖北",
+      "category": "菌菇",
+      "baseFoodId": "shiitake",
+      "sourceId": "mara-suizhou-shiitake"
+    },
+    {
+      "name": "南部黑木耳",
+      "system": "mara",
+      "region": "四川",
+      "category": "菌菇",
+      "sourceId": "mara-nanbu-black-fungus"
+    },
+    {
+      "name": "宜宾碎米芽菜",
+      "system": "provincial",
+      "region": "四川",
+      "category": "腌菜",
+      "sourceId": "prov-sc-yibin-broken-rice-pickle"
+    },
+    {
+      "name": "王致和腐乳",
+      "system": "cnipa",
+      "region": "北京",
+      "category": "调料",
+      "sourceId": "cnipa-wangzhihe-fermented-tofu"
+    },
+    {
+      "name": "东方美人茶",
+      "system": "cnipa",
+      "region": "台湾",
+      "category": "茶饮",
+      "teaClass": "乌龙茶",
+      "baseFoodId": "oolong-tea",
+      "sourceId": "cnipa-oriental-beauty-tea"
+    },
+    {
+      "name": "六安瓜片",
+      "system": "cnipa",
+      "region": "安徽",
+      "category": "茶饮",
+      "teaClass": "绿茶",
+      "baseFoodId": "green-tea",
+      "sourceId": "cnipa-liuan-guapian-queue"
+    },
+    {
+      "name": "霍山黄芽",
+      "system": "cnipa",
+      "region": "安徽",
+      "category": "茶饮",
+      "teaClass": "黄茶",
+      "baseFoodId": "green-tea",
+      "sourceId": "cnipa-huoshan-huangya-queue"
+    },
+    {
+      "name": "莫干黄芽",
+      "system": "cnipa",
+      "region": "浙江",
+      "category": "茶饮",
+      "teaClass": "黄茶",
+      "baseFoodId": "green-tea",
+      "sourceId": "cnipa-mogan-huangya-queue"
+    },
+    {
+      "name": "恩施玉露",
+      "system": "mara",
+      "region": "湖北",
+      "category": "茶饮",
+      "teaClass": "绿茶",
+      "sourceId": "mara-enshi-yulu-queue"
+    },
+    {
+      "name": "都匀毛尖",
+      "system": "mara",
+      "region": "贵州",
+      "category": "茶饮",
+      "teaClass": "绿茶",
+      "sourceId": "mara-duyun-maojian-queue"
+    },
+    {
+      "name": "六堡茶",
+      "system": "mara",
+      "region": "广西",
+      "category": "茶饮",
+      "teaClass": "黑茶",
+      "sourceId": "mara-liubao-tea-queue"
+    },
+    {
+      "name": "茯砖茶",
+      "system": "mara",
+      "region": "湖南",
+      "category": "茶饮",
+      "teaClass": "黑茶",
+      "sourceId": "mara-fuzhuan-tea-queue"
+    },
+    {
+      "name": "泰和乌鸡",
+      "system": "cnipa",
+      "region": "江西",
+      "category": "肉蛋奶",
+      "sourceId": "cnipa-taihe-wuji-queue"
+    },
+    {
+      "name": "遂昌蜂蜜",
+      "system": "cnipa",
+      "region": "浙江",
+      "category": "滋补食材",
+      "sourceId": "cnipa-suichang-honey-queue"
+    },
+    {
+      "name": "天水花牛苹果",
+      "system": "cnipa",
+      "region": "甘肃",
+      "category": "水果",
+      "sourceId": "cnipa-tianshui-apple-queue"
+    },
+    {
+      "name": "庆元香菇",
+      "system": "cnipa",
+      "region": "浙江",
+      "category": "菌菇",
+      "baseFoodId": "shiitake",
+      "sourceId": "cnipa-qingyuan-mushroom-queue"
+    },
+    {
+      "name": "金寨香菇",
+      "system": "cnipa",
+      "region": "安徽",
+      "category": "菌菇",
+      "baseFoodId": "shiitake",
+      "sourceId": "cnipa-jinzhai-shiitake-queue"
+    },
+    {
+      "name": "正山小种",
+      "system": "cnipa",
+      "region": "福建",
+      "category": "茶饮",
+      "teaClass": "红茶",
+      "sourceId": "cnipa-zhengshan-souchong-queue"
+    },
+    {
+      "name": "君山银针",
+      "system": "cnipa",
+      "region": "湖南",
+      "category": "茶饮",
+      "teaClass": "黄茶",
+      "sourceId": "cnipa-junshan-yinzhen-queue"
+    },
+    {
+      "name": "蒙顶甘露",
+      "system": "cnipa",
+      "region": "四川",
+      "category": "茶饮",
+      "teaClass": "绿茶",
+      "sourceId": "cnipa-mengding-ganlu-queue"
+    },
+    {
+      "name": "洞庭碧螺春",
+      "system": "cnipa",
+      "region": "江苏",
+      "category": "茶饮",
+      "teaClass": "绿茶",
+      "baseFoodId": "green-tea",
+      "sourceId": "cnipa-biluochun-queue"
+    },
+    {
+      "name": "庐山云雾茶",
+      "system": "cnipa",
+      "region": "江西",
+      "category": "茶饮",
+      "teaClass": "绿茶",
+      "sourceId": "cnipa-lushan-tea-queue"
+    },
+    {
+      "name": "汾酒",
+      "system": "cnipa",
+      "region": "山西",
+      "category": "饮品",
+      "sourceId": "cnipa-fenjiu-queue"
+    },
+    {
+      "name": "泸州老窖",
+      "system": "cnipa",
+      "region": "四川",
+      "category": "饮品",
+      "sourceId": "cnipa-luzhou-laojiao-queue"
+    },
+    {
+      "name": "宜宾碎米芽菜",
+      "system": "provincial",
+      "region": "四川",
+      "category": "腌菜",
+      "sourceId": "prov-sc-yibin-pickled-mustard-queue"
+    },
+    {
+      "name": "郫县豆瓣",
+      "system": "cnipa",
+      "region": "四川",
+      "category": "调料",
+      "baseFoodId": "doubanjiang",
+      "sourceId": "cnipa-pixian-douban-queue"
+    },
+    {
+      "name": "镇江香醋",
+      "system": "cnipa",
+      "region": "江苏",
+      "category": "调料",
+      "sourceId": "cnipa-zhenjiang-vinegar-queue"
+    },
+    {
+      "name": "山西老陈醋",
+      "system": "cnipa",
+      "region": "山西",
+      "category": "调料",
+      "sourceId": "cnipa-shanxi-vinegar-queue"
+    }
   ],
-  "applied": []
+  "applied": [],
+  "lingnanPriority": [
+    {
+      "name": "新会陈皮",
+      "system": "cnipa",
+      "region": "广东",
+      "category": "食药物质",
+      "baseFoodId": "chenpi-dried",
+      "sourceId": "cnipa-xinhui-chenpi-lingnan"
+    },
+    {
+      "name": "化州橘红",
+      "system": "cnipa",
+      "region": "广东",
+      "category": "食药物质",
+      "sourceId": "cnipa-huazhou-juhong-lingnan"
+    },
+    {
+      "name": "英德红茶",
+      "system": "cnipa",
+      "region": "广东",
+      "category": "茶饮",
+      "baseFoodId": "black-tea",
+      "sourceId": "cnipa-yingde-black-tea-lingnan"
+    },
+    {
+      "name": "湛江对虾",
+      "system": "mara",
+      "region": "广东",
+      "category": "海产",
+      "baseFoodId": "shrimp",
+      "sourceId": "mara-zhanjiang-shrimp-lingnan"
+    },
+    {
+      "name": "增城迟菜心",
+      "system": "provincial",
+      "region": "广东",
+      "category": "蔬菜",
+      "baseFoodId": "late-choy-sum",
+      "sourceId": "prov-gd-zengcheng-choy-sum"
+    },
+    {
+      "name": "阳山西洋菜",
+      "system": "cnipa",
+      "region": "广东",
+      "category": "水生蔬菜",
+      "baseFoodId": "watercress",
+      "sourceId": "cnipa-yangshan-watercress"
+    },
+    {
+      "name": "中山脆肉鲩",
+      "system": "provincial",
+      "region": "广东",
+      "category": "海产",
+      "baseFoodId": "crisp-grass-carp",
+      "sourceId": "prov-gd-zhongshan-crisp-carp"
+    },
+    {
+      "name": "潮州凤凰单丛",
+      "system": "cnipa",
+      "region": "广东",
+      "category": "茶饮",
+      "baseFoodId": "oolong-tea",
+      "sourceId": "cnipa-chaozhou-dancong"
+    },
+    {
+      "name": "荔枝蜜",
+      "system": "provincial",
+      "region": "广东",
+      "category": "滋补食材",
+      "sourceId": "prov-gd-lychee-honey"
+    },
+    {
+      "name": "梅州金柚",
+      "system": "provincial",
+      "region": "广东",
+      "category": "水果",
+      "sourceId": "prov-gd-meizhou-pomelo"
+    },
+    {
+      "name": "德庆贡柑",
+      "system": "provincial",
+      "region": "广东",
+      "category": "水果",
+      "sourceId": "prov-gd-deqing-mandarin"
+    },
+    {
+      "name": "罗定肉桂",
+      "system": "provincial",
+      "region": "广东",
+      "category": "调料",
+      "sourceId": "prov-gd-luoding-cinnamon"
+    },
+    {
+      "name": "香港元朗丝苗米",
+      "system": "provincial",
+      "region": "香港",
+      "category": "谷物",
+      "baseFoodId": "rice",
+      "sourceId": "prov-hk-yuen-long-rice"
+    },
+    {
+      "name": "澳门杏仁饼",
+      "system": "provincial",
+      "region": "澳门",
+      "category": "主食",
+      "sourceId": "prov-mo-almond-cookie"
+    }
+  ]
 }

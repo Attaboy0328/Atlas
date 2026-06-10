@@ -44,7 +44,8 @@
       "douchi",
       "dc"
     ],
-    "summary": "发酵豆制品，增鲜调味。"
+    "summary": "发酵豆制品，增鲜调味。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "fermented-tofu",
@@ -408,7 +409,8 @@
     "aliases": [
       "腊肠"
     ],
-    "summary": "岭南腊味代表，偏温咸。"
+    "summary": "岭南腊味代表，偏温咸。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "dim-sum-shrimp",
@@ -429,7 +431,8 @@
       "xiajiao",
       "xj"
     ],
-    "summary": "粤式点心代表。"
+    "summary": "粤式点心代表。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "yunnan-mushroom-hotpot",
@@ -1140,7 +1143,8 @@
       "maoniurou",
       "mnr"
     ],
-    "summary": "高原常见红肉，蛋白质较高。"
+    "summary": "高原常见红肉，蛋白质较高。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hui-dried-beef",

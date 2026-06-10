@@ -2455,6 +2455,27 @@
     ]
   },
   {
+    "canonicalId": "chenpi-dried",
+    "name": "柑皮",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、福建",
+        "province": "福建"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
     "canonicalId": "dried-ginger",
     "name": "干姜",
     "daoDiRegions": [
@@ -4000,6 +4021,27 @@
   },
   {
     "canonicalId": "egg",
+    "name": "鸡蛋花",
+    "daoDiRegions": [
+      {
+        "place": "广东、广西、福建、云南等地",
+        "province": "福建"
+      }
+    ],
+    "daoDiSystemIds": [
+      "guangyao"
+    ],
+    "daoDiSystems": [
+      "广药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "egg-flower",
     "name": "鸡蛋花",
     "daoDiRegions": [
       {
@@ -8052,7 +8094,7 @@
     ]
   },
   {
-    "canonicalId": "wuzhi-maotao",
+    "canonicalId": "radix-fici",
     "name": "五指毛桃",
     "daoDiRegions": [
       {

@@ -495,7 +495,8 @@
     "effects": [
       "行气",
       "醒脾"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-citron",
@@ -794,7 +795,8 @@
     "effects": [
       "清润",
       "和中"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-red-bean",
@@ -822,7 +824,8 @@
     "effects": [
       "生津",
       "润燥"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-loquat-leaf",
@@ -850,7 +853,8 @@
     "effects": [
       "和中",
       "调味"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-chinese-barley",

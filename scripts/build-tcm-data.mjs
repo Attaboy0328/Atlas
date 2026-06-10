@@ -85,7 +85,8 @@ const aliasMap = loadFoodIdAliasMap();
 const rawHandcrafted = [
   ...readJson("handcrafted-recipes.json", []),
   ...readJson("handcrafted-recipes-batch2.json", []),
-  ...readJson("handcrafted-recipes-batch3.json", [])
+  ...readJson("handcrafted-recipes-batch3.json", []),
+  ...readJson("cantonese-recipes-batch.json", [])
 ];
 const handcraftedRecipes = rawHandcrafted
   .map((item) => {

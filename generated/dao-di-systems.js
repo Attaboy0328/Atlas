@@ -658,6 +658,7 @@ const DAO_DI_SYSTEMS = [
       "caryophylli-flos",
       "cassia-angustifolia",
       "chenpi",
+      "chenpi-dried",
       "cinnamon-bark",
       "citri-exocarpium-rubrum",
       "codonopsis",
@@ -677,7 +678,7 @@ const DAO_DI_SYSTEMS = [
       "dendrobium-nobile",
       "desmodium-styracifolium",
       "earthworm",
-      "egg",
+      "egg-flower",
       "epimedium-brevicornu",
       "erythrina-bark",
       "finger-citron",
@@ -705,6 +706,7 @@ const DAO_DI_SYSTEMS = [
       "polygonum-multiflorum-processed",
       "polygonum-multiflorum-raw",
       "pomelo",
+      "radix-fici",
       "rosa-laevigata",
       "sappan-wood",
       "siraitia-fruit",
@@ -717,10 +719,9 @@ const DAO_DI_SYSTEMS = [
       "syngnathus",
       "taxillus-chinensis",
       "uncaria-rhynchophylla",
-      "wuzhi-maotao",
       "zanthoxylum-nitidum"
     ],
-    "herbCount": 73,
+    "herbCount": 74,
     "sources": [
       {
         "title": "道地药材网",

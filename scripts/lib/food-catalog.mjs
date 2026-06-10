@@ -26,7 +26,13 @@ export const CN_JSON_SOURCES = [
   "foods-seasonal-river-batch4.json",
   "foods-ingredients-batch4.json",
   "foods-modern-regional-batch2.json",
-  "foods-international-batch6.json"
+  "foods-international-batch6.json",
+  "foods-lingnan-ingredients-batch.json",
+  "foods-china-regional-batch7.json",
+  "foods-china-condiments-batch8.json",
+  "foods-china-seafood-batch9.json",
+  "foods-china-produce-batch10.json",
+  "foods-china-snacks-batch11.json"
 ];
 
 export const EXPANDED_BULK_JSON_SOURCES = [

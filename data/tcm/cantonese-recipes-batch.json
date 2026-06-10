@@ -1,0 +1,4009 @@
+[
+  {
+    "id": "gd-chenpi-duck",
+    "name": "陈皮老鸭汤",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "duck",
+      "chenpi-dried"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "健脾祛湿",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "理气化痰",
+    "ingredients": [
+      "老鸭半只",
+      "新会陈皮 8 克",
+      "生姜 3 片"
+    ],
+    "steps": [
+      "鸭肉焯水",
+      "与陈皮、姜同炖 90 分钟"
+    ],
+    "note": "适合纳差、痰多、饭后易胀的人。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "陈皮老鸭汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-wintermelon-coix",
+    "name": "冬瓜薏米汤",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "winter-melon"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清热祛湿",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "清利暑湿",
+    "ingredients": [
+      "冬瓜 300 克",
+      "薏米 30 克",
+      "瘦肉 100 克"
+    ],
+    "steps": [
+      "薏米先煮软",
+      "下冬瓜与肉同煮"
+    ],
+    "note": "暑湿天气口苦、身重时更常用。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "冬瓜薏米汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-lotus-pork",
+    "name": "莲子猪肚汤",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "lotus-seed",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "养胃益气",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "健脾养胃",
+    "ingredients": [
+      "莲子 20 克",
+      "猪肚 1 个",
+      "生姜 3 片"
+    ],
+    "steps": [
+      "猪肚处理干净",
+      "与莲子同炖 80 分钟"
+    ],
+    "note": "适合胃弱、食欲差、病后调养。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "莲子猪肚汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-whitefungus-pear",
+    "name": "银耳雪梨羹",
+    "nature": "凉",
+    "syndromes": [
+      "阴虚内热",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "white-fungus",
+      "pear"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "润肺养阴",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "润燥生津",
+    "ingredients": [
+      "银耳 15 克",
+      "雪梨 1 个",
+      "冰糖少许"
+    ],
+    "steps": [
+      "银耳泡发",
+      "与雪梨同煮至软糯"
+    ],
+    "note": "口干咽燥、干咳少痰时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "银耳雪梨羹为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-chicken-astragalus",
+    "name": "黄芪炖鸡",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "chicken",
+      "astragalus"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "补气养血",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "益气补虚",
+    "ingredients": [
+      "土鸡半只",
+      "黄芪 15 克",
+      "红枣 5 枚"
+    ],
+    "steps": [
+      "鸡块焯水",
+      "与黄芪、枣同炖"
+    ],
+    "note": "乏力、气短、病后恢复可参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "黄芪炖鸡为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-fish-tofu",
+    "name": "豆腐鱼头汤",
+    "nature": "平",
+    "syndromes": [
+      "肝郁气滞",
+      "气血不足"
+    ],
+    "foodIds": [
+      "tofu",
+      "ginger"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "疏肝养血",
+    "seasonTags": [
+      "春",
+      "秋"
+    ],
+    "subtitle": "调和气血",
+    "ingredients": [
+      "鱼头 1 个",
+      "豆腐 200 克",
+      "生姜 3 片"
+    ],
+    "steps": [
+      "鱼头煎香",
+      "加热水煮白",
+      "下豆腐"
+    ],
+    "note": "情绪郁滞夹胃口差时适量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "豆腐鱼头汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-redbean-chenpi",
+    "name": "赤小豆陈皮糖水",
+    "nature": "平",
+    "syndromes": [
+      "湿热内蕴",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "red-bean",
+      "chenpi-dried"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "祛湿利水",
+    "seasonTags": [
+      "夏",
+      "长夏"
+    ],
+    "subtitle": "健脾利湿",
+    "ingredients": [
+      "赤小豆 40 克",
+      "陈皮 5 克",
+      "冰糖少许"
+    ],
+    "steps": [
+      "赤小豆煮至开花",
+      "加陈皮再煮 10 分钟"
+    ],
+    "note": "身重、便黏、暑湿困脾时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "赤小豆陈皮糖水为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-mungbean-kelp",
+    "name": "绿豆海带汤",
+    "nature": "寒",
+    "syndromes": [
+      "湿热内蕴",
+      "肝火上炎"
+    ],
+    "foodIds": [
+      "mung-bean",
+      "kelp"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清热降火",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "清暑解毒",
+    "ingredients": [
+      "绿豆 50 克",
+      "海带 30 克"
+    ],
+    "steps": [
+      "绿豆煮至开花",
+      "下海带再煮"
+    ],
+    "note": "暑热烦渴、口苦时少量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "绿豆海带汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-egg-milk",
+    "name": "姜汁撞奶",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "egg",
+      "ginger"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "温胃散寒",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "暖胃助阳",
+    "ingredients": [
+      "水牛奶 200 ml",
+      "姜汁 15 ml"
+    ],
+    "steps": [
+      "牛奶加热至 80℃",
+      "冲入姜汁静置凝固"
+    ],
+    "note": "胃寒怕冷、晨起不适时少量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "姜汁撞奶为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-lily-lotus",
+    "name": "百合莲子羹",
+    "nature": "平",
+    "syndromes": [
+      "心脾两虚",
+      "阴虚内热"
+    ],
+    "foodIds": [
+      "lily-bulb",
+      "lotus-seed"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "养心安神",
+    "seasonTags": [
+      "夏",
+      "秋"
+    ],
+    "subtitle": "清心安神",
+    "ingredients": [
+      "百合 20 克",
+      "莲子 20 克",
+      "冰糖少许"
+    ],
+    "steps": [
+      "莲子先煮",
+      "后下百合至软"
+    ],
+    "note": "心烦失眠、口干时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "百合莲子羹为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-pork-kidney",
+    "name": "杜仲猪腰汤",
+    "nature": "温",
+    "syndromes": [
+      "肾阳虚"
+    ],
+    "foodIds": [
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "温肾助阳",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "补肾强腰",
+    "ingredients": [
+      "猪腰 1 对",
+      "杜仲 10 克",
+      "生姜 3 片"
+    ],
+    "steps": [
+      "猪腰处理干净",
+      "与杜仲同炖"
+    ],
+    "note": "腰酸怕冷、夜尿偏多时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "杜仲猪腰汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-seafood-congee",
+    "name": "及第粥",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "pork",
+      "egg",
+      "rice"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "益气养胃",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "健脾开胃",
+    "ingredients": [
+      "猪杂适量",
+      "鸡蛋 1 个",
+      "大米 80 克"
+    ],
+    "steps": [
+      "大米煮粥底",
+      "下猪杂煮熟",
+      "淋蛋花"
+    ],
+    "note": "病后胃口弱、需要易消化主食时。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "及第粥为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-chrysanthemum-tea",
+    "name": "菊花枸杞茶",
+    "nature": "凉",
+    "syndromes": [
+      "肝火上炎",
+      "阴虚内热"
+    ],
+    "foodIds": [
+      "chrysanthemum"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清肝明目",
+    "seasonTags": [
+      "春",
+      "夏"
+    ],
+    "subtitle": "疏风清热",
+    "ingredients": [
+      "菊花 6 克",
+      "枸杞 10 克"
+    ],
+    "steps": [
+      "沸水冲泡",
+      "焖 5 分钟饮用"
+    ],
+    "note": "目赤口干、熬夜后参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "菊花枸杞茶为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-rose-chenpi",
+    "name": "玫瑰陈皮饮",
+    "nature": "温",
+    "syndromes": [
+      "肝郁气滞",
+      "脾胃气滞"
+    ],
+    "foodIds": [
+      "chenpi-dried"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "疏肝理气",
+    "seasonTags": [
+      "春"
+    ],
+    "subtitle": "理气解郁",
+    "ingredients": [
+      "玫瑰花 6 克",
+      "陈皮 5 克"
+    ],
+    "steps": [
+      "沸水冲泡",
+      "温饮"
+    ],
+    "note": "情绪郁结、脘腹胀满时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "玫瑰陈皮饮为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-yam-congee",
+    "name": "山药芡实粥",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "肾气虚"
+    ],
+    "foodIds": [
+      "yam",
+      "rice"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "健脾固肾",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "补脾止泻",
+    "ingredients": [
+      "山药 80 克",
+      "芡实 15 克",
+      "大米 60 克"
+    ],
+    "steps": [
+      "芡实先煮",
+      "下山药与米成粥"
+    ],
+    "note": "便溏、乏力、食少时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "山药芡实粥为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-clam-wintermelon",
+    "name": "冬瓜蛤蜊汤",
+    "nature": "平",
+    "syndromes": [
+      "湿热内蕴",
+      "痰热壅肺"
+    ],
+    "foodIds": [
+      "clam",
+      "winter-melon"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清热化痰",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "利湿化痰",
+    "ingredients": [
+      "蛤蜊 300 克",
+      "冬瓜 250 克"
+    ],
+    "steps": [
+      "蛤蜊吐沙洗净",
+      "与冬瓜同煮"
+    ],
+    "note": "暑湿痰咳、身重时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "冬瓜蛤蜊汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-tremella-longan",
+    "name": "银耳桂圆汤",
+    "nature": "温",
+    "syndromes": [
+      "心脾两虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "white-fungus",
+      "longan-dried"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "补血安神",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "养心补血",
+    "ingredients": [
+      "银耳 15 克",
+      "桂圆肉 15 克"
+    ],
+    "steps": [
+      "银耳煮至胶质出",
+      "加桂圆再煮"
+    ],
+    "note": "心悸失眠、面色少华时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "银耳桂圆汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-cordyceps-duck",
+    "name": "虫草花炖鸭",
+    "nature": "平",
+    "syndromes": [
+      "肺气虚",
+      "肾气虚"
+    ],
+    "foodIds": [
+      "duck",
+      "cordyceps-flower"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "补肺益肾",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "益气养阴",
+    "ingredients": [
+      "鸭肉 300 克",
+      "虫草花 15 克"
+    ],
+    "steps": [
+      "鸭肉焯水",
+      "与虫草花同炖"
+    ],
+    "note": "久咳乏力、病后调养参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "虫草花炖鸭为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "hk-snowfungus-rock",
+    "name": "冰糖银耳莲子",
+    "nature": "平",
+    "syndromes": [
+      "阴虚内热",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "white-fungus",
+      "lotus-seed"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "润肺养颜",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "滋阴润燥",
+    "ingredients": [
+      "银耳 15 克",
+      "莲子 20 克",
+      "冰糖适量"
+    ],
+    "steps": [
+      "银耳泡发",
+      "与莲子炖至软糯"
+    ],
+    "note": "港式糖水，干燥季节润燥参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "冰糖银耳莲子为港式常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "hk-redbean-sago",
+    "name": "红豆沙西米",
+    "nature": "平",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "red-bean"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "健脾祛湿",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "清热利湿",
+    "ingredients": [
+      "红豆 80 克",
+      "西米 30 克",
+      "冰糖少许"
+    ],
+    "steps": [
+      "红豆煮烂",
+      "加西米煮至透明"
+    ],
+    "note": "暑湿天气少量甜品参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "红豆沙西米为港式常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "hk-mungbean-soup",
+    "name": "绿豆沙",
+    "nature": "寒",
+    "syndromes": [
+      "湿热内蕴",
+      "肝火上炎"
+    ],
+    "foodIds": [
+      "mung-bean"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "清热解毒",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "消暑降火",
+    "ingredients": [
+      "绿豆 100 克",
+      "陈皮 1 片"
+    ],
+    "steps": [
+      "绿豆煮至起沙",
+      "可加陈皮"
+    ],
+    "note": "暑热烦渴时少量，脾胃虚寒减量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "绿豆沙为港式常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "hk-papaya-snow",
+    "name": "木瓜银耳炖品",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "white-fungus"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "养胃生津",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "滋阴润燥",
+    "ingredients": [
+      "木瓜 200 克",
+      "银耳 10 克"
+    ],
+    "steps": [
+      "银耳先炖软",
+      "加木瓜再煮"
+    ],
+    "note": "港式炖品，口干胃弱时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "木瓜银耳炖品为港式常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "hk-walnut-milk",
+    "name": "核桃露",
+    "nature": "温",
+    "syndromes": [
+      "肾气虚",
+      "脑力过劳"
+    ],
+    "foodIds": [
+      "walnut"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "补肾健脑",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "温肾益智",
+    "ingredients": [
+      "核桃仁 50 克",
+      "牛奶 200 ml"
+    ],
+    "steps": [
+      "核桃磨浆",
+      "与奶同煮至香"
+    ],
+    "note": "用脑过度、腰酸时少量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "核桃露为港式常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "hk-herbal-tea",
+    "name": "廿四味凉茶",
+    "nature": "寒",
+    "syndromes": [
+      "湿热内蕴",
+      "肝火上炎"
+    ],
+    "foodIds": [
+      "chrysanthemum",
+      "honeysuckle"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "清热祛湿",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "凉茶清热",
+    "ingredients": [
+      "菊花 8 克",
+      "金银花 6 克"
+    ],
+    "steps": [
+      "煎煮或冲泡",
+      "温凉饮用"
+    ],
+    "note": "湿热口苦、暗疮偏重时少量，体虚慎用。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "廿四味凉茶为港式常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "hk-fishball-rice",
+    "name": "鱼片生菜粥",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "lettuce"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "养胃益气",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "清淡养胃",
+    "ingredients": [
+      "鱼片 100 克",
+      "生菜 50 克",
+      "大米 70 克"
+    ],
+    "steps": [
+      "大米煮粥",
+      "下鱼片与生菜"
+    ],
+    "note": "茶餐厅式清淡粥品，胃口弱时。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "鱼片生菜粥为港式常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "hk-egg-tea",
+    "name": "港式奶茶炖蛋",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚"
+    ],
+    "foodIds": [
+      "egg",
+      "black-tea"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "温中提神",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "暖胃提神",
+    "ingredients": [
+      "鸡蛋 2 个",
+      "淡奶茶 200 ml"
+    ],
+    "steps": [
+      "蛋奶混合",
+      "隔水蒸 12 分钟"
+    ],
+    "note": "偶尔小点，失眠者晚间避免。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "港式奶茶炖蛋为港式常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "hk-seafood-congee",
+    "name": "生滚海鲜粥",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "shrimp",
+      "rice",
+      "ginger"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "益气养血",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "温补气血",
+    "ingredients": [
+      "鲜虾 80 克",
+      "大米 80 克",
+      "姜丝少许"
+    ],
+    "steps": [
+      "粥底滚沸",
+      "下虾煮熟"
+    ],
+    "note": "病后或体虚需要易消化蛋白时。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "生滚海鲜粥为港式常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "hk-lotus-root",
+    "name": "莲藕排骨汤",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "lotus-root",
+      "pork"
+    ],
+    "provinces": [
+      "广东",
+      "香港"
+    ],
+    "cuisine": "粤港",
+    "recipeTopic": "滋阴润燥",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "健脾开胃",
+    "ingredients": [
+      "莲藕 300 克",
+      "排骨 250 克"
+    ],
+    "steps": [
+      "排骨焯水",
+      "与莲藕同炖"
+    ],
+    "note": "秋燥口干、食欲差时常见家常方。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "莲藕排骨汤为粤港常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "stewed-papaya-crab",
+    "name": "木瓜炖花胶",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "肾阴虚"
+    ],
+    "foodIds": [
+      "fish-maw"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "滋阴养颜",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "滋补养颜",
+    "ingredients": [
+      "木瓜 150 克",
+      "花胶 20 克"
+    ],
+    "steps": [
+      "花胶泡发",
+      "与木瓜隔水炖"
+    ],
+    "note": "产后或阴虚体燥者少量，海鲜过敏慎用。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "木瓜炖花胶为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-chicken",
+    "name": "药膳鸡",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "chicken",
+      "astragalus"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "益气补血",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "温补气血",
+    "ingredients": [
+      "土鸡半只",
+      "黄芪 10 克",
+      "枸杞 10 克"
+    ],
+    "steps": [
+      "鸡块焯水",
+      "药材同炖 60 分钟"
+    ],
+    "note": "气虚乏力、面色少华时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "药膳鸡为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-sourplum-duck",
+    "name": "酸梅鸭",
+    "nature": "平",
+    "syndromes": [
+      "肝胃不和",
+      "食积"
+    ],
+    "foodIds": [
+      "duck"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "开胃消食",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "生津开胃",
+    "ingredients": [
+      "鸭肉 400 克",
+      "酸梅 5 枚"
+    ],
+    "steps": [
+      "鸭肉煎至微黄",
+      "加酸梅焖煮"
+    ],
+    "note": "暑天胃口差、油腻后参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "酸梅鸭为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-steamed-fish",
+    "name": "清蒸鲈鱼",
+    "nature": "平",
+    "syndromes": [
+      "肝郁气滞",
+      "气血不足"
+    ],
+    "foodIds": [
+      "ginger",
+      "scallion"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "调和肝脾",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "益气健脾",
+    "ingredients": [
+      "鲈鱼 1 条",
+      "姜丝",
+      "葱丝"
+    ],
+    "steps": [
+      "鱼身划刀",
+      "大火蒸 8 分钟"
+    ],
+    "note": "清淡高蛋白，体虚消化弱时适量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "清蒸鲈鱼为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-bittermelon-egg",
+    "name": "凉瓜炒蛋",
+    "nature": "寒",
+    "syndromes": [
+      "湿热内蕴",
+      "肝火上炎"
+    ],
+    "foodIds": [
+      "bitter-melon",
+      "egg"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清热降火",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "清暑泻火",
+    "ingredients": [
+      "凉瓜 200 克",
+      "鸡蛋 2 个"
+    ],
+    "steps": [
+      "凉瓜焯水",
+      "与蛋快炒"
+    ],
+    "note": "暑热口苦、痤疮偏重时适量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "凉瓜炒蛋为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-watercress-pork",
+    "name": "西洋菜猪骨汤",
+    "nature": "凉",
+    "syndromes": [
+      "肺热咳嗽",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "watercress",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清肺润燥",
+    "seasonTags": [
+      "春",
+      "秋"
+    ],
+    "subtitle": "清热润肺",
+    "ingredients": [
+      "西洋菜 200 克",
+      "猪骨 300 克"
+    ],
+    "steps": [
+      "猪骨焯水",
+      "与西洋菜同煮"
+    ],
+    "note": "燥咳、咽喉干痛时岭南常用。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "西洋菜猪骨汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-snowpear-lily",
+    "name": "雪梨百合瘦肉汤",
+    "nature": "凉",
+    "syndromes": [
+      "肺阴虚",
+      "阴虚内热"
+    ],
+    "foodIds": [
+      "pear",
+      "lily-bulb",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "润肺止咳",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "养阴润肺",
+    "ingredients": [
+      "雪梨 1 个",
+      "百合 20 克",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "与雪梨、百合同炖"
+    ],
+    "note": "干咳少痰、咽干时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "雪梨百合瘦肉汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-loquat-pork",
+    "name": "枇杷川贝瘦肉汤",
+    "nature": "凉",
+    "syndromes": [
+      "痰热壅肺",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "loquat",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "化痰止咳",
+    "seasonTags": [
+      "春"
+    ],
+    "subtitle": "润肺化痰",
+    "ingredients": [
+      "枇杷 6 个",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "枇杷去皮",
+      "与瘦肉同炖"
+    ],
+    "note": "春燥咳嗽、痰黏时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "枇杷川贝瘦肉汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-fig-pork",
+    "name": "无花果瘦肉汤",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "fig",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "润肠养胃",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "滋阴润肠",
+    "ingredients": [
+      "无花果 5 枚",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "与无花果同炖"
+    ],
+    "note": "大便干结、口干咽燥时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "无花果瘦肉汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-coconut-chicken",
+    "name": "椰子鸡汤",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "coconut",
+      "chicken"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "益气补虚",
+    "seasonTags": [
+      "夏",
+      "冬"
+    ],
+    "subtitle": "补虚生津",
+    "ingredients": [
+      "椰子 1 个",
+      "土鸡半只"
+    ],
+    "steps": [
+      "椰汁椰肉入盅",
+      "与鸡同炖"
+    ],
+    "note": "体虚乏力、汗多口渴时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "椰子鸡汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-claypot-rice",
+    "name": "腊味煲仔饭",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "pork",
+      "sausage"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "温中健脾",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "暖胃益气",
+    "ingredients": [
+      "大米 150 克",
+      "腊肠 50 克",
+      "腊肉 30 克"
+    ],
+    "steps": [
+      "砂锅煮饭",
+      "下腊味焖香"
+    ],
+    "note": "偶尔暖胃主食，高血压控盐。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "腊味煲仔饭为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-turnip-pork",
+    "name": "萝卜牛腩煲",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "beef"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "温中补虚",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "散寒暖胃",
+    "ingredients": [
+      "白萝卜 300 克",
+      "牛腩 300 克"
+    ],
+    "steps": [
+      "牛腩炖软",
+      "下萝卜续煮"
+    ],
+    "note": "怕冷、四肢不温时适量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "萝卜牛腩煲为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-oyster-sauce",
+    "name": "蚝油生菜",
+    "nature": "平",
+    "syndromes": [
+      "肝火上炎"
+    ],
+    "foodIds": [
+      "lettuce",
+      "oyster-sauce"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清热利湿",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "清淡降火",
+    "ingredients": [
+      "生菜 200 克",
+      "蚝油 1 汤匙"
+    ],
+    "steps": [
+      "生菜焯水",
+      "淋蚝油"
+    ],
+    "note": "油腻后清淡配菜，控钠。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "蚝油生菜为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-steamed-ribs",
+    "name": "豆豉蒸排骨",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "健脾开胃",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "开胃消食",
+    "ingredients": [
+      "排骨 300 克",
+      "豆豉 1 汤匙"
+    ],
+    "steps": [
+      "排骨腌入味",
+      "大火蒸 15 分钟"
+    ],
+    "note": "胃口差、纳呆时家常参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "豆豉蒸排骨为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-duck",
+    "name": "霸王花排骨汤",
+    "nature": "平",
+    "syndromes": [
+      "肺热咳嗽",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "pork",
+      "rice"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "润肺养胃",
+    "seasonTags": [
+      "夏",
+      "秋"
+    ],
+    "subtitle": "清热润肺",
+    "ingredients": [
+      "霸王花 30 克",
+      "排骨 250 克"
+    ],
+    "steps": [
+      "排骨焯水",
+      "与霸王花同炖"
+    ],
+    "note": "燥热咳嗽、咽干时岭南汤品。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "霸王花排骨汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-mungbean-chenpi",
+    "name": "绿豆陈皮糖水",
+    "nature": "寒",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "mung-bean",
+      "chenpi-dried"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清热祛湿",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "消暑利湿",
+    "ingredients": [
+      "绿豆 60 克",
+      "陈皮 3 克"
+    ],
+    "steps": [
+      "绿豆煮至开花",
+      "加陈皮再煮"
+    ],
+    "note": "暑湿困重、口苦时糖水参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "绿豆陈皮糖水为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-turtle-jujube",
+    "name": "龟板红枣汤",
+    "nature": "凉",
+    "syndromes": [
+      "阴虚内热",
+      "肾阴虚"
+    ],
+    "foodIds": [
+      "softshell-turtle",
+      "jujube"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "滋阴潜阳",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "养阴清热",
+    "ingredients": [
+      "龟板 15 克",
+      "红枣 6 枚"
+    ],
+    "steps": [
+      "龟板先煎",
+      "加枣同煮"
+    ],
+    "note": "阴虚潮热、盗汗者少量，孕妇慎用。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "龟板红枣汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-fishmaw-chicken",
+    "name": "花胶炖鸡汤",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "肾阴虚"
+    ],
+    "foodIds": [
+      "fish-maw",
+      "chicken"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "滋阴补血",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "养颜补虚",
+    "ingredients": [
+      "花胶 20 克",
+      "鸡肉 250 克"
+    ],
+    "steps": [
+      "花胶泡发",
+      "与鸡肉隔水炖"
+    ],
+    "note": "产后调养或阴虚体弱者少量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "花胶炖鸡汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-almond-pork",
+    "name": "南北杏瘦肉汤",
+    "nature": "平",
+    "syndromes": [
+      "肺阴虚",
+      "痰热壅肺"
+    ],
+    "foodIds": [
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "润肺化痰",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "止咳润肺",
+    "ingredients": [
+      "南杏 15 克",
+      "北杏 5 克",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "与杏仁同炖"
+    ],
+    "note": "燥咳、痰少咽干时参考，北杏不宜过量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "南北杏瘦肉汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-pork",
+    "name": "土茯苓瘦肉汤",
+    "nature": "平",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "pork",
+      "rice"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "祛湿解毒",
+    "seasonTags": [
+      "春",
+      "夏"
+    ],
+    "subtitle": "利湿解毒",
+    "ingredients": [
+      "鲜土茯苓 50 克",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "与土茯苓同炖"
+    ],
+    "note": "湿重、皮肤痒疹时岭南常用，需确认识别。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "土茯苓瘦肉汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-chicken-feet",
+    "name": "花生鸡脚汤",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "chicken-feet",
+      "peanut"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "补血通络",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "健脾养血",
+    "ingredients": [
+      "鸡脚 6 只",
+      "花生 50 克"
+    ],
+    "steps": [
+      "鸡脚焯水",
+      "与花生同炖"
+    ],
+    "note": "胶原丰富，关节劳损、面色少华时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "花生鸡脚汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-seafood-tofu",
+    "name": "海鲜豆腐煲",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "shrimp",
+      "tofu",
+      "scallion"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "益气养血",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "温补脾胃",
+    "ingredients": [
+      "鲜虾 100 克",
+      "豆腐 200 克"
+    ],
+    "steps": [
+      "虾煎至香",
+      "下豆腐焖煮"
+    ],
+    "note": "蛋白丰富，体虚消化弱时适量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "海鲜豆腐煲为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-tea2",
+    "name": "五花茶",
+    "nature": "寒",
+    "syndromes": [
+      "湿热内蕴",
+      "肝火上炎"
+    ],
+    "foodIds": [
+      "chrysanthemum",
+      "honeysuckle"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清热祛湿",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "凉茶清热",
+    "ingredients": [
+      "菊花 6 克",
+      "金银花 5 克",
+      "甘草 3 克"
+    ],
+    "steps": [
+      "煎煮代茶"
+    ],
+    "note": "湿热天气少量饮用，脾胃虚寒减量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "五花茶为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-papaya-chenpi",
+    "name": "陈皮木瓜汤",
+    "nature": "平",
+    "syndromes": [
+      "肝胃不和",
+      "脾胃气滞"
+    ],
+    "foodIds": [
+      "chenpi-dried"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "理气和中",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "疏肝和胃",
+    "ingredients": [
+      "木瓜 200 克",
+      "陈皮 5 克"
+    ],
+    "steps": [
+      "木瓜切块",
+      "与陈皮同煮"
+    ],
+    "note": "脘腹胀满、食欲差时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "陈皮木瓜汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-lotus-duck",
+    "name": "莲子老鸭汤",
+    "nature": "平",
+    "syndromes": [
+      "阴虚内热",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "lotus-seed",
+      "duck"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "滋阴健脾",
+    "seasonTags": [
+      "夏",
+      "秋"
+    ],
+    "subtitle": "益气养阴",
+    "ingredients": [
+      "莲子 30 克",
+      "老鸭半只"
+    ],
+    "steps": [
+      "鸭肉焯水",
+      "与莲子同炖"
+    ],
+    "note": "暑热伤阴、乏力纳差时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "莲子老鸭汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-rice-water",
+    "name": "米汤",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "rice"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "养胃益气",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "健脾和胃",
+    "ingredients": [
+      "大米 50 克",
+      "清水 800 ml"
+    ],
+    "steps": [
+      "大米煮至浓汤",
+      "取上层米汤"
+    ],
+    "note": "病后或腹泻后养胃常用。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "米汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-egg",
+    "name": "茶叶蛋",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚"
+    ],
+    "foodIds": [
+      "egg",
+      "black-tea"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "温中提神",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "健脾开胃",
+    "ingredients": [
+      "鸡蛋 6 个",
+      "红茶 5 克"
+    ],
+    "steps": [
+      "鸡蛋煮熟敲裂",
+      "红茶卤入味"
+    ],
+    "note": "偶尔小吃，睡前不宜多食。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "茶叶蛋为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-sweet-potato",
+    "name": "番薯糖水",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "sweet-potato"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "补中益气",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "健脾暖胃",
+    "ingredients": [
+      "番薯 300 克",
+      "姜片 2 片",
+      "冰糖少许"
+    ],
+    "steps": [
+      "番薯切块",
+      "与姜同煮至软"
+    ],
+    "note": "秋冬暖胃小食，糖尿病控糖。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "番薯糖水为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-taro-pork",
+    "name": "芋头扣肉",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚"
+    ],
+    "foodIds": [
+      "taro",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "健脾补虚",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "温中益气",
+    "ingredients": [
+      "芋头 200 克",
+      "五花肉 200 克"
+    ],
+    "steps": [
+      "肉蒸至软",
+      "与芋头同焖"
+    ],
+    "note": "体虚畏寒时适量，高脂控量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "芋头扣肉为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-clam-ginger",
+    "name": "姜葱炒花甲",
+    "nature": "温",
+    "syndromes": [
+      "寒湿困脾",
+      "食积"
+    ],
+    "foodIds": [
+      "clam",
+      "ginger",
+      "scallion"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "散寒开胃",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "温中消食",
+    "ingredients": [
+      "花甲 400 克",
+      "姜丝",
+      "葱段"
+    ],
+    "steps": [
+      "花甲吐沙",
+      "姜葱爆炒"
+    ],
+    "note": "海鲜过敏禁用，寒咳慎用。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "姜葱炒花甲为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-steamed-chicken",
+    "name": "白切鸡",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "chicken",
+      "ginger"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "益气补虚",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "温补脾胃",
+    "ingredients": [
+      "三黄鸡 1 只",
+      "生姜 5 片"
+    ],
+    "steps": [
+      "整鸡浸煮至熟",
+      "冰镇斩件"
+    ],
+    "note": "体虚乏力、病后调养常见。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "白切鸡为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-rice",
+    "name": "腊味糯米饭",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚"
+    ],
+    "foodIds": [
+      "glutinous-rice",
+      "sausage"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "温中健脾",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "暖胃散寒",
+    "ingredients": [
+      "糯米 200 克",
+      "腊肠 50 克"
+    ],
+    "steps": [
+      "糯米蒸饭",
+      "拌入腊味"
+    ],
+    "note": "冬至前后暖胃，消化不良少量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "腊味糯米饭为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-fish-congee",
+    "name": "鱼片粥",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "ginger"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "养胃益气",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "健脾开胃",
+    "ingredients": [
+      "鱼片 100 克",
+      "大米 80 克",
+      "姜丝"
+    ],
+    "steps": [
+      "煮粥底",
+      "下鱼片煮熟"
+    ],
+    "note": "病后或老人易消化参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "鱼片粥为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-pork2",
+    "name": "党参红枣炖瘦肉",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "codonopsis",
+      "jujube",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "补气养血",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "益气补血",
+    "ingredients": [
+      "党参 15 克",
+      "红枣 6 枚",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "药材同炖"
+    ],
+    "note": "气短乏力、面色萎黄时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "党参红枣炖瘦肉为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-wintermelon-rib",
+    "name": "冬瓜排骨汤",
+    "nature": "平",
+    "syndromes": [
+      "湿热内蕴",
+      "痰热壅肺"
+    ],
+    "foodIds": [
+      "winter-melon",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清热利湿",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "消暑化痰",
+    "ingredients": [
+      "冬瓜 300 克",
+      "排骨 250 克"
+    ],
+    "steps": [
+      "排骨焯水",
+      "与冬瓜同煮"
+    ],
+    "note": "暑湿身重、小便不利时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "冬瓜排骨汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-tea3",
+    "name": "鸡骨草猪肝汤",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "肝郁气滞"
+    ],
+    "foodIds": [
+      "pork",
+      "ginger"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清利湿热",
+    "seasonTags": [
+      "春",
+      "夏"
+    ],
+    "subtitle": "疏肝利湿",
+    "ingredients": [
+      "鸡骨草 20 克",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "与鸡骨草同炖"
+    ],
+    "note": "湿热黄疸、口苦时岭南参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "鸡骨草猪肝汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-mumian-soup",
+    "name": "木棉花土茯苓汤",
+    "nature": "平",
+    "syndromes": [
+      "湿热内蕴",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "poria",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "健脾祛湿",
+    "seasonTags": [
+      "春",
+      "夏"
+    ],
+    "subtitle": "清热利湿",
+    "ingredients": [
+      "木棉花 10 克",
+      "土茯苓 20 克",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "药材同炖"
+    ],
+    "note": "回南天困重、纳差时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "木棉花土茯苓汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-xiakucao-tea",
+    "name": "夏枯草罗汉果茶",
+    "nature": "凉",
+    "syndromes": [
+      "肝火上炎",
+      "肺热咳嗽"
+    ],
+    "foodIds": [
+      "chrysanthemum"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清肝泻火",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "清热利咽",
+    "ingredients": [
+      "夏枯草 10 克",
+      "罗汉果 半个"
+    ],
+    "steps": [
+      "煎煮代茶"
+    ],
+    "note": "咽喉肿痛、目赤时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "夏枯草罗汉果茶为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-soup",
+    "name": "五指毛桃排骨汤",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "湿气困脾"
+    ],
+    "foodIds": [
+      "pork",
+      "rice"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "健脾祛湿",
+    "seasonTags": [
+      "长夏"
+    ],
+    "subtitle": "益气化湿",
+    "ingredients": [
+      "五指毛桃 30 克",
+      "排骨 250 克"
+    ],
+    "steps": [
+      "排骨焯水",
+      "与毛桃同炖"
+    ],
+    "note": "气虚湿困、四肢乏力时岭南常用。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "五指毛桃排骨汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-chicken2",
+    "name": "虫草花蒸鸡",
+    "nature": "平",
+    "syndromes": [
+      "肺气虚",
+      "肾气虚"
+    ],
+    "foodIds": [
+      "chicken",
+      "cordyceps-flower"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "补肺益肾",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "益气养阴",
+    "ingredients": [
+      "鸡肉 300 克",
+      "虫草花 10 克"
+    ],
+    "steps": [
+      "鸡肉腌味",
+      "与虫草花同蒸"
+    ],
+    "note": "久咳、病后调养参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "虫草花蒸鸡为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-fish",
+    "name": "陈皮蒸鲮鱼",
+    "nature": "平",
+    "syndromes": [
+      "脾胃气滞",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "chenpi-dried"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "理气化痰",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "健脾开胃",
+    "ingredients": [
+      "鲮鱼 1 条",
+      "陈皮丝 5 克"
+    ],
+    "steps": [
+      "鱼身铺陈皮",
+      "大火蒸 8 分钟"
+    ],
+    "note": "脘腹胀满、痰多时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "陈皮蒸鲮鱼为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-duck2",
+    "name": "冬瓜老鸭汤",
+    "nature": "凉",
+    "syndromes": [
+      "阴虚内热",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "duck",
+      "winter-melon"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "滋阴清热",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "消暑养阴",
+    "ingredients": [
+      "老鸭半只",
+      "冬瓜 400 克"
+    ],
+    "steps": [
+      "鸭肉焯水",
+      "与冬瓜同炖"
+    ],
+    "note": "暑热烦渴、虚火偏旺时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "冬瓜老鸭汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-pork3",
+    "name": "苹果雪梨瘦肉汤",
+    "nature": "凉",
+    "syndromes": [
+      "肺阴虚",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "apple",
+      "pear",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "润肺生津",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "养阴润燥",
+    "ingredients": [
+      "苹果 1 个",
+      "雪梨 1 个",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "水果切块",
+      "与瘦肉同炖"
+    ],
+    "note": "秋燥咽干、干咳时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "苹果雪梨瘦肉汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-tea4",
+    "name": "茅根竹蔗水",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "肺热咳嗽"
+    ],
+    "foodIds": [
+      "sugarcane",
+      "rice"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清热生津",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "消暑止渴",
+    "ingredients": [
+      "茅根 30 克",
+      "竹蔗 200 克"
+    ],
+    "steps": [
+      "煎煮代水"
+    ],
+    "note": "暑热口渴、小便黄时糖水参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "茅根竹蔗水为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-soup2",
+    "name": "菜干猪肺汤",
+    "nature": "平",
+    "syndromes": [
+      "肺阴虚",
+      "燥咳"
+    ],
+    "foodIds": [
+      "pork",
+      "rice"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "润肺止咳",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "养阴润肺",
+    "ingredients": [
+      "菜干 30 克",
+      "猪肺 1 个"
+    ],
+    "steps": [
+      "猪肺处理干净",
+      "与菜干同炖"
+    ],
+    "note": "燥咳、咽干时老火汤参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "菜干猪肺汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-chicken3",
+    "name": "沙姜鸡",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "chicken",
+      "ginger"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "温中散寒",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "暖胃散寒",
+    "ingredients": [
+      "鸡肉 400 克",
+      "沙姜 20 克"
+    ],
+    "steps": [
+      "鸡肉煮熟",
+      "拌沙姜油"
+    ],
+    "note": "胃寒怕冷、食欲差时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "沙姜鸡为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-rice2",
+    "name": "及第粥（简化）",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚"
+    ],
+    "foodIds": [
+      "pork",
+      "rice",
+      "egg"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "益气健脾",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "健脾开胃",
+    "ingredients": [
+      "猪肉丸 80 克",
+      "鸡蛋 1 个",
+      "大米 70 克"
+    ],
+    "steps": [
+      "煮粥底",
+      "下肉丸与蛋花"
+    ],
+    "note": "清淡养胃早餐参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "及第粥（简化）为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-tea5",
+    "name": "普洱陈皮茶",
+    "nature": "温",
+    "syndromes": [
+      "脾胃气滞",
+      "食积"
+    ],
+    "foodIds": [
+      "chenpi-dried"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "消食化痰",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "理气消食",
+    "ingredients": [
+      "普洱 5 克",
+      "陈皮 3 克"
+    ],
+    "steps": [
+      "沸水冲泡"
+    ],
+    "note": "饭后油腻、脘胀时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "普洱陈皮茶为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-soup3",
+    "name": "粉葛排骨汤",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "颈项强痛"
+    ],
+    "foodIds": [
+      "pork",
+      "rice"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "解肌清热",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "清热生津",
+    "ingredients": [
+      "粉葛 300 克",
+      "排骨 250 克"
+    ],
+    "steps": [
+      "排骨焯水",
+      "与粉葛同炖"
+    ],
+    "note": "暑湿颈僵、身热口渴时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "粉葛排骨汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-fish2",
+    "name": "清蒸鲳鱼",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "ginger"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "益气养血",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "补脾益气",
+    "ingredients": [
+      "鲳鱼 1 条",
+      "姜丝"
+    ],
+    "steps": [
+      "大火蒸 7 分钟"
+    ],
+    "note": "体虚需优质蛋白时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "清蒸鲳鱼为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-pork4",
+    "name": "黄豆猪蹄汤",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "皮肤干燥"
+    ],
+    "foodIds": [
+      "soybean",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "补血润肤",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "滋阴养血",
+    "ingredients": [
+      "黄豆 50 克",
+      "猪蹄 1 只"
+    ],
+    "steps": [
+      "猪蹄焯水",
+      "与黄豆同炖"
+    ],
+    "note": "产后或血虚皮肤干燥时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "黄豆猪蹄汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-tea6",
+    "name": "桂花乌龙茶",
+    "nature": "温",
+    "syndromes": [
+      "脾胃气滞"
+    ],
+    "foodIds": [
+      "oolong-tea"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "理气和中",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "疏肝理气",
+    "ingredients": [
+      "乌龙茶 5 克",
+      "桂花 2 克"
+    ],
+    "steps": [
+      "沸水冲泡"
+    ],
+    "note": "情绪郁结、脘闷时少量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "桂花乌龙茶为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-soup4",
+    "name": "海带绿豆排骨汤",
+    "nature": "寒",
+    "syndromes": [
+      "湿热内蕴",
+      "甲状腺肿大"
+    ],
+    "foodIds": [
+      "kelp",
+      "mung-bean",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清热散结",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "消暑利湿",
+    "ingredients": [
+      "海带 30 克",
+      "绿豆 40 克",
+      "排骨 200 克"
+    ],
+    "steps": [
+      "排骨焯水",
+      "与海带绿豆同煮"
+    ],
+    "note": "暑热、咽喉不适时参考，甲亢遵医嘱。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "海带绿豆排骨汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-chicken4",
+    "name": "桂圆红枣蒸鸡",
+    "nature": "温",
+    "syndromes": [
+      "心脾两虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "longan-dried",
+      "jujube",
+      "chicken"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "补血安神",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "养血安神",
+    "ingredients": [
+      "桂圆 15 克",
+      "红枣 6 枚",
+      "鸡肉 300 克"
+    ],
+    "steps": [
+      "鸡肉腌味",
+      "与桂圆枣同蒸"
+    ],
+    "note": "心悸失眠、面色少华时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "桂圆红枣蒸鸡为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-pork5",
+    "name": "淮山杞子瘦肉汤",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "肾气虚"
+    ],
+    "foodIds": [
+      "yam",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "脾肾双补",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "益气养阴",
+    "ingredients": [
+      "淮山 80 克",
+      "枸杞 10 克",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "与淮山枸杞同炖"
+    ],
+    "note": "脾肾两虚、乏力腰酸时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "淮山杞子瘦肉汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-tea7",
+    "name": "单丛茶",
+    "nature": "平",
+    "syndromes": [
+      "食积",
+      "肝胃不和"
+    ],
+    "foodIds": [
+      "oolong-tea"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "潮汕菜",
+    "recipeTopic": "消食和胃",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "理气消食",
+    "ingredients": [
+      "凤凰单丛 5 克"
+    ],
+    "steps": [
+      "沸水高冲冲泡"
+    ],
+    "note": "饭后消食，失眠者晚间少饮。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "单丛茶为潮汕菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-soup5",
+    "name": "咸菜猪肚汤",
+    "nature": "温",
+    "syndromes": [
+      "胃寒",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "潮汕菜",
+    "recipeTopic": "温胃散寒",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "暖胃健脾",
+    "ingredients": [
+      "咸菜 30 克",
+      "猪肚 1 个"
+    ],
+    "steps": [
+      "猪肚处理干净",
+      "与咸菜同炖"
+    ],
+    "note": "胃寒隐痛、纳差时潮汕家常。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "咸菜猪肚汤为潮汕菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-rice3",
+    "name": "潮汕砂锅粥",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "shrimp",
+      "ginger"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "潮汕菜",
+    "recipeTopic": "养胃益气",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "健脾开胃",
+    "ingredients": [
+      "大米 80 克",
+      "鲜虾 80 克",
+      "姜丝"
+    ],
+    "steps": [
+      "砂锅煮粥",
+      "下虾煮熟"
+    ],
+    "note": "夜宵养胃不宜过饱。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "潮汕砂锅粥为潮汕菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-tea8",
+    "name": "老药桔冲水",
+    "nature": "温",
+    "syndromes": [
+      "风寒感冒",
+      "咽喉不适"
+    ],
+    "foodIds": [
+      "tangerine-peel"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "潮汕菜",
+    "recipeTopic": "理气化痰",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "宣肺止咳",
+    "ingredients": [
+      "老药桔 1 颗"
+    ],
+    "steps": [
+      "捣碎冲温水"
+    ],
+    "note": "咽喉不适、初期风寒时潮汕习惯。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "老药桔冲水为潮汕菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-soup6",
+    "name": "橄榄瘦肉汤",
+    "nature": "平",
+    "syndromes": [
+      "肺热咳嗽",
+      "咽喉肿痛"
+    ],
+    "foodIds": [
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "潮汕菜",
+    "recipeTopic": "清热利咽",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "润肺止咳",
+    "ingredients": [
+      "青橄榄 8 枚",
+      "瘦肉 150 克"
+    ],
+    "steps": [
+      "瘦肉焯水",
+      "与橄榄同炖"
+    ],
+    "note": "燥咳、咽痛时潮汕常用。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "橄榄瘦肉汤为潮汕菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-pork6",
+    "name": "咸菜炒猪肉",
+    "nature": "温",
+    "syndromes": [
+      "脾胃气滞",
+      "食积"
+    ],
+    "foodIds": [
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "潮汕菜",
+    "recipeTopic": "开胃消食",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "理气开胃",
+    "ingredients": [
+      "咸菜 50 克",
+      "猪肉 150 克"
+    ],
+    "steps": [
+      "咸菜洗净",
+      "与猪肉快炒"
+    ],
+    "note": "胃口差时下饭，控盐。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "咸菜炒猪肉为潮汕菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-chicken5",
+    "name": "盐焗鸡",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "chicken"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "客家菜",
+    "recipeTopic": "温中益气",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "补虚暖胃",
+    "ingredients": [
+      "三黄鸡 1 只",
+      "粗盐适量"
+    ],
+    "steps": [
+      "盐焗法焗至熟"
+    ],
+    "note": "体虚乏力、病后调养客家名菜。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "盐焗鸡为客家菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-pork7",
+    "name": "梅菜扣肉",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚"
+    ],
+    "foodIds": [
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "客家菜",
+    "recipeTopic": "健脾开胃",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "温中补虚",
+    "ingredients": [
+      "五花肉 300 克",
+      "梅菜 50 克"
+    ],
+    "steps": [
+      "肉蒸至软烂",
+      "与梅菜同蒸"
+    ],
+    "note": "高脂高盐，慢病适量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "梅菜扣肉为客家菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-tea9",
+    "name": "客家擂茶",
+    "nature": "平",
+    "syndromes": [
+      "湿热内蕴",
+      "食积"
+    ],
+    "foodIds": [
+      "green-tea",
+      "peanut"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "客家菜",
+    "recipeTopic": "消食清热",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "健脾消食",
+    "ingredients": [
+      "绿茶 5 克",
+      "花生 20 克",
+      "芝麻 10 克"
+    ],
+    "steps": [
+      "擂成糊状",
+      "冲热水调匀"
+    ],
+    "note": "客家特色，初次少量尝试。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "客家擂茶为客家菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-soup7",
+    "name": "酿豆腐汤",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "tofu",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "客家菜",
+    "recipeTopic": "益气养血",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "补脾益气",
+    "ingredients": [
+      "酿豆腐 6 块",
+      "瘦肉末 100 克"
+    ],
+    "steps": [
+      "豆腐酿肉",
+      "煮汤至熟"
+    ],
+    "note": "客家家常菜，蛋白丰富。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "酿豆腐汤为客家菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-fish4",
+    "name": "清蒸河鱼",
+    "nature": "平",
+    "syndromes": [
+      "肝郁气滞",
+      "气血不足"
+    ],
+    "foodIds": [
+      "ginger"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "客家菜",
+    "recipeTopic": "调和气血",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "益气健脾",
+    "ingredients": [
+      "河鱼 1 条",
+      "姜丝"
+    ],
+    "steps": [
+      "大火清蒸"
+    ],
+    "note": "清淡易消化，体虚时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "清蒸河鱼为客家菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-rice4",
+    "name": "艾粄",
+    "nature": "温",
+    "syndromes": [
+      "寒湿困脾"
+    ],
+    "foodIds": [
+      "glutinous-rice"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "客家菜",
+    "recipeTopic": "散寒祛湿",
+    "seasonTags": [
+      "清明"
+    ],
+    "subtitle": "温中祛湿",
+    "ingredients": [
+      "糯米粉 200 克",
+      "艾叶 30 克"
+    ],
+    "steps": [
+      "艾叶煮汁和面",
+      "蒸制"
+    ],
+    "note": "清明时节客家时令，消化不良少量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "艾粄为客家菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-tea10",
+    "name": "枸杞叶猪肝汤",
+    "nature": "平",
+    "syndromes": [
+      "肝血虚",
+      "目赤"
+    ],
+    "foodIds": [
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "客家菜",
+    "recipeTopic": "养血明目",
+    "seasonTags": [
+      "春"
+    ],
+    "subtitle": "清肝明目",
+    "ingredients": [
+      "枸杞叶 100 克",
+      "猪肝 100 克"
+    ],
+    "steps": [
+      "猪肝切片",
+      "与枸杞叶同煮"
+    ],
+    "note": "肝血不足、视物昏花时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "枸杞叶猪肝汤为客家菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-soup8",
+    "name": "萝卜牛腩煲（客家）",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "beef"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "客家菜",
+    "recipeTopic": "温中补虚",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "散寒暖胃",
+    "ingredients": [
+      "白萝卜 300 克",
+      "牛腩 300 克"
+    ],
+    "steps": [
+      "牛腩炖软",
+      "下萝卜续煮"
+    ],
+    "note": "怕冷肢凉时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "萝卜牛腩煲（客家）为客家菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-chicken6",
+    "name": "客家黄酒鸡",
+    "nature": "温",
+    "syndromes": [
+      "气血不足",
+      "产后体虚"
+    ],
+    "foodIds": [
+      "chicken"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "客家菜",
+    "recipeTopic": "补血温经",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "养血通络",
+    "ingredients": [
+      "鸡肉 400 克",
+      "客家黄酒 100 ml"
+    ],
+    "steps": [
+      "鸡肉与酒同炖"
+    ],
+    "note": "产后或血虚畏寒时，驾车勿饮。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "客家黄酒鸡为客家菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-pork8",
+    "name": "腐竹木耳炒肉",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "tofu-skin",
+      "wood-ear",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "滋阴润燥",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "养血润肠",
+    "ingredients": [
+      "腐竹 50 克",
+      "木耳 20 克",
+      "瘦肉 100 克"
+    ],
+    "steps": [
+      "腐竹泡发",
+      "快炒出锅"
+    ],
+    "note": "秋燥便秘、面色少华时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "腐竹木耳炒肉为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-soup9",
+    "name": "花生莲藕汤",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "peanut",
+      "lotus-root",
+      "pork"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "健脾养血",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "益气补虚",
+    "ingredients": [
+      "花生 40 克",
+      "莲藕 250 克",
+      "排骨 200 克"
+    ],
+    "steps": [
+      "排骨焯水",
+      "与花生莲藕同炖"
+    ],
+    "note": "秋冬滋补老火汤常见。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "花生莲藕汤为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-fish5",
+    "name": "咸鱼茄子煲",
+    "nature": "温",
+    "syndromes": [
+      "脾胃气滞"
+    ],
+    "foodIds": [
+      "eggplant"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "开胃下饭",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "理气消食",
+    "ingredients": [
+      "茄子 200 克",
+      "咸鱼 20 克"
+    ],
+    "steps": [
+      "茄子与咸鱼同煲"
+    ],
+    "note": "开胃下饭，高血压控盐。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "咸鱼茄子煲为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-chicken7",
+    "name": "椰子花胶鸡",
+    "nature": "平",
+    "syndromes": [
+      "肾阴虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "coconut",
+      "fish-maw",
+      "chicken"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "滋阴补血",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "养颜补虚",
+    "ingredients": [
+      "椰子 1 个",
+      "花胶 15 克",
+      "鸡肉 200 克"
+    ],
+    "steps": [
+      "隔水炖 90 分钟"
+    ],
+    "note": "阴虚体燥、产后调养少量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "椰子花胶鸡为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-pork9",
+    "name": "陈皮红豆沙",
+    "nature": "平",
+    "syndromes": [
+      "湿热内蕴",
+      "心脾两虚"
+    ],
+    "foodIds": [
+      "red-bean",
+      "chenpi-dried"
+    ],
+    "provinces": [
+      "广东",
+      "香港"
+    ],
+    "cuisine": "粤港",
+    "recipeTopic": "健脾祛湿",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "清热安神",
+    "ingredients": [
+      "红豆 80 克",
+      "陈皮 5 克"
+    ],
+    "steps": [
+      "红豆煮至起沙",
+      "加陈皮"
+    ],
+    "note": "暑湿心烦、睡眠浅时糖水参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "陈皮红豆沙为粤港常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-tea12",
+    "name": "蜂蜜柚子茶",
+    "nature": "凉",
+    "syndromes": [
+      "肺热咳嗽",
+      "阴虚内热"
+    ],
+    "foodIds": [
+      "honey"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "润肺生津",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "养阴润燥",
+    "ingredients": [
+      "柚子肉 100 克",
+      "蜂蜜 30 克"
+    ],
+    "steps": [
+      "拌匀腌制",
+      "冲温水饮用"
+    ],
+    "note": "咽干咳嗽时港式饮品，糖尿病慎用。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "蜂蜜柚子茶为港式常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-soup10",
+    "name": "番茄牛尾汤",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "tomato",
+      "beef"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "益气养血",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "温补气血",
+    "ingredients": [
+      "番茄 2 个",
+      "牛尾 400 克"
+    ],
+    "steps": [
+      "牛尾焯水",
+      "与番茄同炖"
+    ],
+    "note": "罗宋汤式港家汤，体虚时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "番茄牛尾汤为港式常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-rice5",
+    "name": "煲仔饭（香菇鸡）",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "chicken",
+      "shiitake"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "健脾益气",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "温中补虚",
+    "ingredients": [
+      "大米 150 克",
+      "鸡肉 100 克",
+      "香菇 5 朵"
+    ],
+    "steps": [
+      "砂锅煮饭",
+      "铺鸡肉香菇焖熟"
+    ],
+    "note": "冬日暖胃主食参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "煲仔饭（香菇鸡）为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-chicken8",
+    "name": "花雕鸡",
+    "nature": "温",
+    "syndromes": [
+      "气血不足",
+      "脾阳虚"
+    ],
+    "foodIds": [
+      "chicken"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "温中补血",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "养血散寒",
+    "ingredients": [
+      "鸡肉 400 克",
+      "花雕酒 50 ml"
+    ],
+    "steps": [
+      "鸡肉与酒同焖"
+    ],
+    "note": "血虚畏寒时，含酒精适量。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "花雕鸡为粤菜常见食养方。"
+      }
+    ]
+  },
+  {
+    "id": "gd-herbal-pork10",
+    "name": "冬瓜薏米老鸭汤",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "阴虚内热"
+    ],
+    "foodIds": [
+      "duck",
+      "winter-melon"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "cuisine": "粤菜",
+    "recipeTopic": "清热祛湿",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "滋阴利湿",
+    "ingredients": [
+      "老鸭半只",
+      "冬瓜 300 克",
+      "薏米 30 克"
+    ],
+    "steps": [
+      "鸭肉焯水",
+      "与冬瓜薏米同炖"
+    ],
+    "note": "暑湿困重、虚火口干时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "冬瓜薏米老鸭汤为粤菜常见食养方。"
+      }
+    ]
+  }
+]

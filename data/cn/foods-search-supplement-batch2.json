@@ -1,10 +1,191 @@
 [
-  {"id":"tea-leaves","name":"茶","category":"茶饮","nature":"凉","effects":["清利"],"regions":["CN"],"aliases":["茶叶","浓茶"],"searchTerms":["cha","c","tea","柴米油盐酱醋茶"],"summary":"泛指日常茶叶，搭配检查与泛搜用。","hiddenFromLibrary":true},
-  {"id":"starch-dianfen","name":"淀粉","category":"调料","nature":"平","effects":["勾芡"],"regions":["CN"],"aliases":["生粉","玉米淀粉","土豆淀粉"],"searchTerms":["dianfen","df","starch","淀粉"],"summary":"烹调勾芡、上浆常用。","caution":"糖尿病者注意总碳水摄入。"},
-  {"id":"sugar-tang","name":"糖","category":"调料","nature":"平","effects":["调味"],"regions":["CN"],"aliases":["白糖","冰糖","红糖"],"searchTerms":["tang","t","sugar","糖"],"summary":"甜味调味，炖汤、烘焙、红烧常用。","caution":"糖尿病者慎用。"},
-  {"id":"noodles-mian","name":"面","category":"主食","nature":"平","effects":["充饥"],"regions":["CN"],"aliases":["面条","挂面","拉面"],"searchTerms":["mian","m","noodles","面"],"summary":"面食泛称，日常主食之一。"},
-  {"id":"dumpling-wrapper","name":"饺子皮","category":"主食","nature":"平","effects":["充饥"],"regions":["CN"],"searchTerms":["jiaozipi","jzp","dumpling wrapper","饺子皮"],"summary":"包饺子的面皮，宜煮、蒸、煎。"},
-  {"id":"wonton-wrapper","name":"馄饨皮","category":"主食","nature":"平","effects":["充饥"],"regions":["CN"],"searchTerms":["huntunpi","htp","wonton","馄饨皮"],"summary":"薄面皮，宜包馄饨煮汤。"},
-  {"id":"hotpot-base","name":"火锅底料","category":"调料","nature":"热","effects":["开胃"],"regions":["CN"],"provinces":["四川","重庆"],"searchTerms":["huoguodiliao","hgdl","hotpot","火锅底料"],"summary":"麻辣或清汤火锅调味基料。","caution":"辛辣、高盐、高脂，胃病患者适量。"},
-  {"id":"chili-oil","name":"辣椒油","category":"调料","nature":"热","effects":["开胃"],"regions":["CN"],"provinces":["四川","陕西"],"aliases":["油泼辣子","红油"],"searchTerms":["lajiaoyou","ljy","chili oil","辣椒油"],"summary":"辛香调味品，宜凉拌、蘸料。","caution":"胃溃疡、痔疮急性期适量。"}
+  {
+    "id": "tea-leaves",
+    "name": "茶",
+    "category": "茶饮",
+    "nature": "凉",
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "茶叶",
+      "浓茶"
+    ],
+    "searchTerms": [
+      "cha",
+      "c",
+      "tea",
+      "柴米油盐酱醋茶"
+    ],
+    "summary": "泛指日常茶叶，搭配检查与泛搜用。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "starch-dianfen",
+    "name": "淀粉",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "勾芡"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "生粉",
+      "玉米淀粉",
+      "土豆淀粉"
+    ],
+    "searchTerms": [
+      "dianfen",
+      "df",
+      "starch",
+      "淀粉"
+    ],
+    "summary": "烹调勾芡、上浆常用。",
+    "caution": "糖尿病者注意总碳水摄入。"
+  },
+  {
+    "id": "sugar-tang",
+    "name": "糖",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "白糖",
+      "冰糖",
+      "红糖"
+    ],
+    "searchTerms": [
+      "tang",
+      "t",
+      "sugar",
+      "糖"
+    ],
+    "summary": "甜味调味，炖汤、烘焙、红烧常用。",
+    "caution": "糖尿病者慎用。"
+  },
+  {
+    "id": "noodles-mian",
+    "name": "面",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "面条",
+      "挂面",
+      "拉面"
+    ],
+    "searchTerms": [
+      "mian",
+      "m",
+      "noodles",
+      "面"
+    ],
+    "summary": "面食泛称，日常主食之一。"
+  },
+  {
+    "id": "dumpling-wrapper",
+    "name": "饺子皮",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "jiaozipi",
+      "jzp",
+      "dumpling wrapper",
+      "饺子皮"
+    ],
+    "summary": "包饺子的面皮，宜煮、蒸、煎。"
+  },
+  {
+    "id": "wonton-wrapper",
+    "name": "馄饨皮",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "searchTerms": [
+      "huntunpi",
+      "htp",
+      "wonton",
+      "馄饨皮"
+    ],
+    "summary": "薄面皮，宜包馄饨煮汤。"
+  },
+  {
+    "id": "hotpot-base",
+    "name": "火锅底料",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川",
+      "重庆"
+    ],
+    "searchTerms": [
+      "huoguodiliao",
+      "hgdl",
+      "hotpot",
+      "火锅底料"
+    ],
+    "summary": "麻辣或清汤火锅调味基料。",
+    "caution": "辛辣、高盐、高脂，胃病患者适量。"
+  },
+  {
+    "id": "chili-oil",
+    "name": "辣椒油",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川",
+      "陕西"
+    ],
+    "aliases": [
+      "油泼辣子",
+      "红油"
+    ],
+    "searchTerms": [
+      "lajiaoyou",
+      "ljy",
+      "chili oil",
+      "辣椒油"
+    ],
+    "summary": "辛香调味品，宜凉拌、蘸料。",
+    "caution": "胃溃疡、痔疮急性期适量。",
+    "hiddenFromLibrary": true
+  }
 ]

@@ -231,6 +231,7 @@ function buildFoodSearchSynonymMap() {
     "food-search-synonyms.json",
     "food-search-synonyms-batch5.json",
     "food-search-synonyms-batch6.json",
+    "food-search-synonyms-batch7.json",
     "origin-search-synonyms.json"
   ].forEach((file) => {
     readJson(file, []).forEach((row) => {

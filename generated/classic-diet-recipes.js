@@ -164,39 +164,6 @@ const CLASSIC_DIET_RECIPES = [
     "classicTier": 1
   },
   {
-    "id": "classic-astragalus-chicken",
-    "name": "黄芪炖鸡",
-    "nature": "温",
-    "syndromes": [
-      "脾气虚",
-      "气血两虚"
-    ],
-    "foodIds": [
-      "astragalus-membranaceus",
-      "chicken"
-    ],
-    "subtitle": "益气补虚",
-    "ingredients": [
-      "黄芪 15 克",
-      "鸡肉 250 克",
-      "生姜 3 片"
-    ],
-    "steps": [
-      "鸡肉焯水",
-      "与黄芪、生姜同炖 1 小时",
-      "去药渣后温热食用"
-    ],
-    "note": "外感发热、明显实热时不宜。",
-    "sources": [
-      {
-        "title": "《饮膳正要》",
-        "summary": "以黄芪与禽肉同炖，为常见益气食养方。"
-      }
-    ],
-    "draft": false,
-    "classicTier": 1
-  },
-  {
     "id": "classic-codonopsis-pork",
     "name": "党参瘦肉汤",
     "nature": "平",
@@ -293,38 +260,6 @@ const CLASSIC_DIET_RECIPES = [
       {
         "title": "《中华人民共和国药典》2025年版",
         "summary": "生地黄与熟地黄为不同炮制规格，功效有别。"
-      }
-    ],
-    "draft": false,
-    "classicTier": 1
-  },
-  {
-    "id": "classic-chrysanthemum-tea",
-    "name": "菊花枸杞茶",
-    "nature": "凉",
-    "syndromes": [
-      "肝阳上亢",
-      "阴虚内热"
-    ],
-    "foodIds": [
-      "chrysanthemum-morifolium",
-      "lycium-barbarum"
-    ],
-    "subtitle": "清肝明目",
-    "ingredients": [
-      "菊花 3 克",
-      "枸杞子 6 克",
-      "热水 300 ml"
-    ],
-    "steps": [
-      "菊花、枸杞置杯中",
-      "热水冲泡 5 分钟后饮用"
-    ],
-    "note": "偏凉，怕冷、腹泻者不宜多饮。",
-    "sources": [
-      {
-        "title": "《随息居饮食谱》",
-        "summary": "菊花配枸杞为常见清润茶饮。"
       }
     ],
     "draft": false,
@@ -1131,39 +1066,6 @@ const CLASSIC_DIET_RECIPES = [
     "classicTier": 1
   },
   {
-    "id": "classic-donggua-yimi-tang",
-    "name": "冬瓜薏米汤",
-    "nature": "凉",
-    "syndromes": [
-      "湿热内蕴",
-      "痰湿困脾"
-    ],
-    "foodIds": [
-      "wax-gourd",
-      "coix-seed",
-      "pork"
-    ],
-    "subtitle": "利湿消肿",
-    "ingredients": [
-      "冬瓜 300 克",
-      "薏米 30 克",
-      "瘦肉 100 克"
-    ],
-    "steps": [
-      "薏米先煮 20 分钟",
-      "加冬瓜、瘦肉同煮"
-    ],
-    "note": "阳虚水肿者不宜。",
-    "sources": [
-      {
-        "title": "《饮膳正要》",
-        "summary": "冬瓜配薏米，清淡利湿，夏秋季常见。"
-      }
-    ],
-    "draft": false,
-    "classicTier": 1
-  },
-  {
     "id": "classic-kugua-jiangzhi",
     "name": "苦瓜姜汁饮",
     "nature": "寒",
@@ -1787,38 +1689,6 @@ const CLASSIC_DIET_RECIPES = [
     "classicTier": 1
   },
   {
-    "id": "classic-baihe-lianzi-geng",
-    "name": "百合莲子羹",
-    "nature": "平",
-    "syndromes": [
-      "心脾两虚",
-      "肺阴虚"
-    ],
-    "foodIds": [
-      "lily-bulb",
-      "lotus-seed",
-      "jujube"
-    ],
-    "subtitle": "养心安神",
-    "ingredients": [
-      "百合 20 克",
-      "莲子 20 克",
-      "红枣 4 枚"
-    ],
-    "steps": [
-      "百合、莲子同煮至软糯"
-    ],
-    "note": "甜腻偏重时控制频率。",
-    "sources": [
-      {
-        "title": "《养老奉亲书》",
-        "summary": "百合莲子羹宁心安神。"
-      }
-    ],
-    "draft": false,
-    "classicTier": 1
-  },
-  {
     "id": "classic-shengdi-maidong-yin",
     "name": "生地麦冬饮",
     "nature": "寒",
@@ -1974,39 +1844,6 @@ const CLASSIC_DIET_RECIPES = [
       {
         "title": "《饮膳正要》",
         "summary": "肉桂羊肉汤温补肾阳。"
-      }
-    ],
-    "draft": false,
-    "classicTier": 1
-  },
-  {
-    "id": "classic-durong-yaoyao-tang",
-    "name": "杜仲猪腰汤",
-    "nature": "温",
-    "syndromes": [
-      "肾阳虚",
-      "腰痛"
-    ],
-    "foodIds": [
-      "pork",
-      "eucommia-ulmoides",
-      "ginger"
-    ],
-    "subtitle": "补肾强腰",
-    "ingredients": [
-      "猪腰 1 对",
-      "杜仲 10 克",
-      "生姜 3 片"
-    ],
-    "steps": [
-      "猪腰洗净切片",
-      "与杜仲、生姜同炖"
-    ],
-    "note": "阴虚火旺者不宜。",
-    "sources": [
-      {
-        "title": "《本草纲目》",
-        "summary": "杜仲配猪腰，补肾强腰。"
       }
     ],
     "draft": false,

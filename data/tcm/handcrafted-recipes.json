@@ -1283,6 +1283,10 @@
     "id": "mumian-fuling-lean",
     "name": "木棉花茯苓瘦肉汤",
     "nature": "平",
+    "provinces": ["广东"],
+    "cuisine": "粤菜",
+    "recipeTopic": "健脾祛湿",
+    "seasonTags": ["春", "夏"],
     "syndromes": [
       "湿热内蕴",
       "痰湿困脾"
@@ -1307,6 +1311,10 @@
     "id": "jigucao-lean-soup",
     "name": "鸡骨草瘦肉汤",
     "nature": "凉",
+    "provinces": ["广东"],
+    "cuisine": "粤菜",
+    "recipeTopic": "清利湿热",
+    "seasonTags": ["春", "夏"],
     "syndromes": [
       "湿热内蕴"
     ],
@@ -1328,6 +1336,10 @@
     "id": "xiakucao-chrysanthemum",
     "name": "夏枯草菊花饮",
     "nature": "凉",
+    "provinces": ["广东", "香港"],
+    "cuisine": "粤港",
+    "recipeTopic": "清肝泻火",
+    "seasonTags": ["夏"],
     "syndromes": [
       "肝郁气滞",
       "阴虚内热"

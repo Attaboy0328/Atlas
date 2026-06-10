@@ -3758,7 +3758,7 @@
     "id": "cnipa-宝应慈姑",
     "name": "宝应慈姑",
     "category": "滋补食材",
-    "nature": "寒",
+    "nature": "平",
     "provinces": [
       "CN",
       "江苏"
@@ -3793,7 +3793,7 @@
       "mara-宝应慈姑",
       "宝应慈姑"
     ],
-    "baseFoodId": "arrowhead",
+    "baseFoodId": "arrowhead-tuber",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -14916,7 +14916,7 @@
     "id": "cnipa-多文空心菜",
     "name": "多文空心菜",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "寒",
     "provinces": [
       "CN",
       "海南"
@@ -17668,7 +17668,7 @@
     "id": "cnipa-福田菜心",
     "name": "福田菜心",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "provinces": [
       "CN",
       "广东"
@@ -24244,7 +24244,7 @@
     "id": "cnipa-洪山菜薹",
     "name": "洪山菜薹",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "provinces": [
       "CN",
       "湖北"
@@ -24279,8 +24279,8 @@
       "mara-洪山菜薹",
       "洪山菜薹"
     ],
-    "baseFoodId": null,
-    "natureSource": "catalog-name",
+    "baseFoodId": "chinese-flowering-cabbage",
+    "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
   {
@@ -27654,7 +27654,7 @@
       "mara-湟源牦牛肉",
       "湟源牦牛肉"
     ],
-    "baseFoodId": "tibetan-yak-butter",
+    "baseFoodId": "yak-meat",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -30489,8 +30489,8 @@
       "note": "整理自公开登记公告或抓取缓存，以登记机关最新公告为准。"
     },
     "aliases": [],
-    "baseFoodId": null,
-    "natureSource": "catalog-name",
+    "baseFoodId": "prod-lotus-seedpod--758",
+    "natureSource": "catalog-id",
     "searchTerms": [
       "建莲"
     ]
@@ -30867,8 +30867,8 @@
       "mara-江门牛大力",
       "江门牛大力"
     ],
-    "baseFoodId": null,
-    "natureSource": "rule-name",
+    "baseFoodId": "niudali-root",
+    "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
   {
@@ -35325,7 +35325,7 @@
     "id": "cnipa-九华红菜薹",
     "name": "九华红菜薹",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "provinces": [
       "CN",
       "湖南"
@@ -35360,8 +35360,8 @@
       "mara-九华红菜薹",
       "九华红菜薹"
     ],
-    "baseFoodId": null,
-    "natureSource": "catalog-name",
+    "baseFoodId": "chinese-flowering-cabbage",
+    "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
   {
@@ -38445,7 +38445,7 @@
       "mara-乐都牦牛肉",
       "乐都牦牛肉"
     ],
-    "baseFoodId": "tibetan-yak-butter",
+    "baseFoodId": "yak-meat",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -40022,7 +40022,7 @@
     "id": "cnipa-连州菜心",
     "name": "连州菜心",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "provinces": [
       "CN",
       "广东"
@@ -56764,7 +56764,7 @@
     "id": "cnipa-庆云大叶香菜",
     "name": "庆云大叶香菜",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "温",
     "provinces": [
       "CN",
       "山东"
@@ -56799,8 +56799,8 @@
       "mara-庆云大叶香菜",
       "庆云大叶香菜"
     ],
-    "baseFoodId": "coriander",
-    "natureSource": "category-default",
+    "baseFoodId": "cilantro-fresh",
+    "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
   {
@@ -61798,7 +61798,7 @@
       "邵店黄姜"
     ],
     "baseFoodId": null,
-    "natureSource": "rule-name",
+    "natureSource": "catalog-name",
     "registryStatus": "historical"
   },
   {
@@ -63980,7 +63980,7 @@
       "舒城黄姜"
     ],
     "baseFoodId": null,
-    "natureSource": "rule-name",
+    "natureSource": "catalog-name",
     "registryStatus": "historical"
   },
   {
@@ -64653,7 +64653,7 @@
     "id": "cnipa-水东蜜枣",
     "name": "水东蜜枣",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "provinces": [
       "CN",
       "安徽"
@@ -64688,8 +64688,8 @@
       "mara-水东蜜枣",
       "水东蜜枣"
     ],
-    "baseFoodId": null,
-    "natureSource": "rule-name",
+    "baseFoodId": "candied-date",
+    "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
   {
@@ -67516,7 +67516,7 @@
       "泰兴元麦"
     ],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "registryStatus": "historical"
   },
   {
@@ -74760,7 +74760,7 @@
       "mara-武都红芪",
       "武都红芪"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-316",
     "natureSource": "category-default",
     "registryStatus": "historical"
   },
@@ -82134,7 +82134,7 @@
       "mara-羊口虾酱",
       "羊口虾酱"
     ],
-    "baseFoodId": "cat-condiment-015",
+    "baseFoodId": "shrimp-paste",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -86624,7 +86624,7 @@
     "id": "cnipa-永兴黄皮",
     "name": "永兴黄皮",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "provinces": [
       "CN",
       "海南"
@@ -86659,8 +86659,8 @@
       "mara-永兴黄皮",
       "永兴黄皮"
     ],
-    "baseFoodId": null,
-    "natureSource": "category-default",
+    "baseFoodId": "yellow-skin-fruit",
+    "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
   {
@@ -89505,7 +89505,7 @@
     "id": "cnipa-云霄蕹菜",
     "name": "云霄蕹菜",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "寒",
     "provinces": [
       "CN",
       "福建"
@@ -89670,7 +89670,7 @@
       "郧西黄姜"
     ],
     "baseFoodId": null,
-    "natureSource": "rule-name",
+    "natureSource": "catalog-name",
     "registryStatus": "historical"
   },
   {
@@ -96392,7 +96392,7 @@
       "daodi-巴旦杏仁-道地",
       "巴旦杏仁（道地）"
     ],
-    "baseFoodId": "prunus-armeniaca-seed",
+    "baseFoodId": "dao-di-orphan-333",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -96411,7 +96411,7 @@
         "daodi-巴旦杏仁-道地"
       ]
     },
-    "natureSource": "catalog-id"
+    "natureSource": "tcm-herb"
   },
   {
     "id": "daodi-croton-seed-origin",
@@ -96607,7 +96607,7 @@
       "daodi-白鹤藤-道地",
       "白鹤藤（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-289",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -97586,7 +97586,7 @@
       "daodi-波棱瓜子-道地",
       "波棱瓜子（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-70",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -97760,7 +97760,7 @@
       "daodi-藏茴香-道地",
       "藏茴香（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-63",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -97801,7 +97801,7 @@
       "daodi-草苁蓉-道地",
       "草苁蓉（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-384",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -98766,7 +98766,7 @@
       "daodi-大风子-道地",
       "大风子（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-257",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -100253,7 +100253,7 @@
     "id": "daodi-dao-di-orphan-302-origin",
     "name": "岗梅根（道地）",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "provinces": [
       "广东"
     ],
@@ -100268,7 +100268,7 @@
       "daodi-岗梅根-道地",
       "岗梅根（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-302",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -100287,7 +100287,7 @@
         "daodi-岗梅根-道地"
       ]
     },
-    "natureSource": "category-default"
+    "natureSource": "tcm-herb"
   },
   {
     "id": "daodi-galangal-officinarum-origin",
@@ -101047,7 +101047,7 @@
       "daodi-哈蟆油-道地",
       "哈蟆油（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-383",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -101172,7 +101172,7 @@
       "daodi-海麻雀-道地",
       "海麻雀（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-391",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -101582,7 +101582,7 @@
     "id": "daodi-dao-di-orphan-271-origin",
     "name": "红豆蔻（道地）",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "provinces": [
       "广西",
       "广东",
@@ -101599,7 +101599,7 @@
       "daodi-红豆蔻-道地",
       "红豆蔻（道地）"
     ],
-    "baseFoodId": "red-bean",
+    "baseFoodId": "dao-di-orphan-271",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -101618,7 +101618,7 @@
         "daodi-红豆蔻-道地"
       ]
     },
-    "natureSource": "catalog-id"
+    "natureSource": "tcm-herb"
   },
   {
     "id": "daodi-carthamus-tinctorius-origin",
@@ -101685,7 +101685,7 @@
       "daodi-红芪-道地",
       "红芪（道地）"
     ],
-    "baseFoodId": "daodi-hedysarum-prep-origin",
+    "baseFoodId": "dao-di-orphan-316",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -101905,7 +101905,7 @@
       "daodi-胡桐泪-道地",
       "胡桐泪（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-351",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -102517,7 +102517,7 @@
       "daodi-黄山药-道地",
       "黄山药（道地）"
     ],
-    "baseFoodId": "yam",
+    "baseFoodId": "dao-di-orphan-235",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -102536,7 +102536,7 @@
         "daodi-黄山药-道地"
       ]
     },
-    "natureSource": "catalog-id"
+    "natureSource": "tcm-herb"
   },
   {
     "id": "daodi-dao-di-orphan-239-origin",
@@ -102561,7 +102561,7 @@
       "daodi-黄藤-道地",
       "黄藤（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-239",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -102726,7 +102726,7 @@
       "daodi-鸡桑根-道地",
       "鸡桑根（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-330",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -102851,7 +102851,7 @@
       "daodi-剑花-道地",
       "剑花（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-288",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -102870,7 +102870,7 @@
         "daodi-剑花-道地"
       ]
     },
-    "natureSource": "category-default"
+    "natureSource": "tcm-herb"
   },
   {
     "id": "daodi-pinellia-prep-origin",
@@ -103243,7 +103243,7 @@
       "daodi-金莲花-道地",
       "金莲花（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-87",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -103542,7 +103542,7 @@
       "daodi-九节菖蒲-道地",
       "九节菖蒲（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-8",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -103806,7 +103806,7 @@
       "daodi-苦玄参-道地",
       "苦玄参（道地）"
     ],
-    "baseFoodId": "daodi-scrophularia-nodosa-origin",
+    "baseFoodId": "dao-di-orphan-243",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -103932,7 +103932,7 @@
       "daodi-狼毒-道地",
       "狼毒（道地）"
     ],
-    "baseFoodId": "daodi-dao-di-orphan-398-origin",
+    "baseFoodId": "dao-di-orphan-34",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -104535,7 +104535,7 @@
       "daodi-萝芙木-道地",
       "萝芙木（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-245",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -104862,7 +104862,7 @@
       "daodi-麦饭石-道地",
       "麦饭石（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-88",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -104904,7 +104904,7 @@
       "daodi-满山红-道地",
       "满山红（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-379",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -105074,7 +105074,7 @@
       "daodi-缅茄-道地",
       "缅茄（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-21",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -105414,7 +105414,7 @@
       "daodi-木棉皮-道地",
       "木棉皮（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-264",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -105970,7 +105970,7 @@
       "daodi-蕲蛇-道地",
       "蕲蛇（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-337",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -106931,7 +106931,7 @@
       "daodi-瑞香狼毒-道地",
       "瑞香狼毒（道地）"
     ],
-    "baseFoodId": "daodi-dao-di-orphan-34-origin",
+    "baseFoodId": "dao-di-orphan-398",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -107532,7 +107532,7 @@
       "daodi-蛇六谷-道地",
       "蛇六谷（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-213",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -107661,7 +107661,7 @@
       "daodi-蓍草-道地",
       "蓍草（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-198",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -108764,7 +108764,7 @@
       "daodi-万寿竹-道地",
       "万寿竹（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-44",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -108900,7 +108900,7 @@
       "daodi-乌梢蛇-道地",
       "乌梢蛇（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-372",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -109254,7 +109254,7 @@
       "daodi-五指毛桃-道地",
       "五指毛桃（道地）"
     ],
-    "baseFoodId": "wuzhi-maotao",
+    "baseFoodId": "radix-fici",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -109600,7 +109600,7 @@
       "daodi-香青兰-道地",
       "香青兰（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-64",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -110163,7 +110163,7 @@
       "daodi-鸦胆子-道地",
       "鸦胆子（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-281",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -110423,7 +110423,7 @@
       "daodi-翼首草-道地",
       "翼首草（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-80",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -110467,7 +110467,7 @@
       "daodi-阴香根-道地",
       "阴香根（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-260",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -110692,7 +110692,7 @@
       "daodi-罂粟壳-道地",
       "罂粟壳（道地）"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-248",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -145494,7 +145494,7 @@
       "daodi-dao-di-orphan-275-origin",
       "daodi-金钱白花蛇-道地"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-275",
     "giSystems": [
       {
         "system": "mara",
@@ -156536,7 +156536,7 @@
     "id": "mara-河田鸡",
     "name": "河田鸡",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "provinces": [
       "福建"
     ],
@@ -157790,7 +157790,7 @@
     "id": "mara-华容大湖胖头鱼",
     "name": "华容大湖胖头鱼",
     "category": "水产动物",
-    "nature": "温",
+    "nature": "平",
     "provinces": [
       "湖南"
     ],
@@ -157813,8 +157813,8 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": null,
-    "natureSource": "catalog-name",
+    "baseFoodId": "bighead-carp",
+    "natureSource": "catalog-id",
     "searchTerms": [
       "华容大湖胖头鱼"
     ]
@@ -160859,7 +160859,7 @@
     "id": "mara-镜泊湖胖头鱼",
     "name": "镜泊湖胖头鱼",
     "category": "水产动物",
-    "nature": "温",
+    "nature": "平",
     "provinces": [
       "黑龙江"
     ],
@@ -160882,8 +160882,8 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": null,
-    "natureSource": "catalog-name",
+    "baseFoodId": "bighead-carp",
+    "natureSource": "catalog-id",
     "searchTerms": [
       "镜泊湖胖头鱼"
     ]
@@ -169010,7 +169010,7 @@
     "id": "mara-宁夏菜心",
     "name": "宁夏菜心",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "provinces": [
       "宁夏"
     ],
@@ -169736,7 +169736,7 @@
     "id": "mara-平乐慈姑",
     "name": "平乐慈姑",
     "category": "蔬菜",
-    "nature": "寒",
+    "nature": "平",
     "provinces": [
       "广西"
     ],
@@ -169759,7 +169759,7 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": "arrowhead",
+    "baseFoodId": "arrowhead-tuber",
     "natureSource": "catalog-id",
     "searchTerms": [
       "平乐慈姑"
@@ -170264,7 +170264,7 @@
     "id": "mara-浦北黄皮",
     "name": "浦北黄皮",
     "category": "水果",
-    "nature": "凉",
+    "nature": "温",
     "provinces": [
       "广西"
     ],
@@ -170287,8 +170287,8 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": null,
-    "natureSource": "category-default",
+    "baseFoodId": "yellow-skin-fruit",
+    "natureSource": "catalog-id",
     "searchTerms": [
       "浦北黄皮"
     ]
@@ -170957,7 +170957,7 @@
     "id": "mara-乾县香菜",
     "name": "乾县香菜",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "温",
     "provinces": [
       "陕西"
     ],
@@ -170980,8 +170980,8 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": "coriander",
-    "natureSource": "category-default",
+    "baseFoodId": "cilantro-fresh",
+    "natureSource": "catalog-id",
     "searchTerms": [
       "乾县香菜"
     ]
@@ -180847,7 +180847,7 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": "tibetan-yak-butter",
+    "baseFoodId": "yak-meat",
     "natureSource": "catalog-id",
     "searchTerms": [
       "香格里拉牦牛肉"
@@ -182233,7 +182233,7 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": "tibetan-yak-butter",
+    "baseFoodId": "yak-meat",
     "natureSource": "catalog-id",
     "searchTerms": [
       "兴海牦牛肉"
@@ -186756,7 +186756,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "rule-name",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "镇宁小黄姜"
     ]
@@ -194168,7 +194168,7 @@
       "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
     },
     "aliases": [],
-    "baseFoodId": null,
+    "baseFoodId": "dao-di-orphan-87",
     "natureSource": "rule-name",
     "searchTerms": [
       "金莲花及其代用茶"
@@ -201632,7 +201632,7 @@
       "fetchedAt": "2026-06-09"
     },
     "aliases": [],
-    "baseFoodId": "douchi",
+    "baseFoodId": "fermented-black-beans",
     "natureSource": "catalog-id"
   },
   {
@@ -201672,7 +201672,7 @@
     "id": "prov-hn-changsha-stinky-tofu-gi",
     "name": "长沙臭豆腐",
     "category": "主食",
-    "nature": "温",
+    "nature": "凉",
     "provinces": [
       "湖南",
       "长沙"

@@ -74,7 +74,8 @@
       "兰州拉面"
     ],
     "summary": "清真风味牛肉面，清汤鲜肉，一清二白三红四绿。",
-    "caution": "高血压者注意汤底盐分。"
+    "caution": "高血压者注意汤底盐分。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "crossing-bridge-noodles",

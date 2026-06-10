@@ -25,6 +25,11 @@
     "note": "黄芪药典 id 归并到 catalog 短 id"
   },
   {
+    "alias": "bamboo-shoot-sour",
+    "canonical": "sour-bamboo-shoot",
+    "note": "auto: duplicate name「酸笋」→ sour-bamboo-shoot"
+  },
+  {
     "alias": "bamboo-shoot-spring",
     "canonical": "spring-bamboo-shoot",
     "note": "auto: duplicate name「春笋」→ spring-bamboo-shoot"
@@ -40,6 +45,11 @@
     "note": "auto: duplicate name「biangbiang面」→ biangbiang-noodle"
   },
   {
+    "alias": "bird-nest-gd",
+    "canonical": "bird-nest",
+    "note": "auto: duplicate name「燕窝」→ bird-nest"
+  },
+  {
     "alias": "black-tiger-shrimp",
     "canonical": "prawn-black-tiger",
     "note": "auto: duplicate name「黑虎虾」→ prawn-black-tiger"
@@ -50,6 +60,11 @@
     "note": "牛蛙→田鸡"
   },
   {
+    "alias": "bullfrog-gd",
+    "canonical": "frog",
+    "note": "auto: duplicate name「田鸡」→ frog"
+  },
+  {
     "alias": "caixin",
     "canonical": "choy-sum",
     "note": "auto: duplicate name「菜心」→ choy-sum"
@@ -58,6 +73,11 @@
     "alias": "cantonese-dimsum",
     "canonical": "dim-sum-shrimp",
     "note": "auto: duplicate name「虾饺」→ dim-sum-shrimp"
+  },
+  {
+    "alias": "cantonese-sausage",
+    "canonical": "chinese-sausage-gd",
+    "note": "auto: duplicate name「广式腊肠」→ chinese-sausage-gd"
   },
   {
     "alias": "cat-bean-148",
@@ -150,6 +170,11 @@
     "note": "auto: bulk duplicate「芝麻酱」→ tahini"
   },
   {
+    "alias": "cat-condiment-015",
+    "canonical": "shrimp-paste",
+    "note": "auto: bulk duplicate「虾酱」→ shrimp-paste"
+  },
+  {
     "alias": "cat-condiment-017",
     "canonical": "fermented-tofu",
     "note": "auto: duplicate name「腐乳」→ fermented-tofu"
@@ -175,9 +200,19 @@
     "note": "auto: duplicate name「酱油」→ soy-sauce"
   },
   {
+    "alias": "cat-condiment-030",
+    "canonical": "soy-sauce-dark",
+    "note": "auto: bulk duplicate「老抽」→ soy-sauce-dark"
+  },
+  {
     "alias": "cat-condiment-031",
     "canonical": "oyster-sauce",
     "note": "auto: duplicate name「蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cat-condiment-032",
+    "canonical": "fish-sauce",
+    "note": "auto: bulk duplicate「鱼露」→ fish-sauce"
   },
   {
     "alias": "cat-condiment-033",
@@ -500,6 +535,11 @@
     "note": "auto: duplicate name「黄花菜」→ daylily"
   },
   {
+    "alias": "cat-veg-245",
+    "canonical": "preserved-mustard-stem",
+    "note": "auto: bulk duplicate「榨菜头」→ preserved-mustard-stem"
+  },
+  {
     "alias": "cat-veg-257",
     "canonical": "malantou",
     "note": "auto: duplicate name「马兰头」→ malantou"
@@ -560,6 +600,11 @@
     "note": "auto: duplicate name「西芹」→ celery-stalk"
   },
   {
+    "alias": "chili-oil",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: duplicate name「辣椒油」→ sichuan-chili-oil"
+  },
+  {
     "alias": "chives",
     "canonical": "garlic-chive",
     "note": "auto: duplicate name「韭菜」→ garlic-chive"
@@ -580,6 +625,11 @@
     "note": "auto: duplicate name「蛤蜊」→ clam"
   },
   {
+    "alias": "cloud-ear-gd",
+    "canonical": "cloud-ear",
+    "note": "auto: duplicate name「云耳」→ cloud-ear"
+  },
+  {
     "alias": "codonopsis-pilosula",
     "canonical": "codonopsis",
     "note": "党参"
@@ -590,9 +640,24 @@
     "note": "薏米"
   },
   {
+    "alias": "cordyceps-flower-gd",
+    "canonical": "cordyceps-flower",
+    "note": "auto: duplicate name「虫草花」→ cordyceps-flower"
+  },
+  {
+    "alias": "coriander",
+    "canonical": "cilantro-fresh",
+    "note": "auto: duplicate name「香菜」→ cilantro-fresh"
+  },
+  {
     "alias": "crossing-bridge-noodles",
     "canonical": "crossing-bridge-noodle",
     "note": "auto: duplicate name「过桥米线」→ crossing-bridge-noodle"
+  },
+  {
+    "alias": "dim-sum-shrimp",
+    "canonical": "shrimp-dumpling-hk",
+    "note": "auto: duplicate name「虾饺」→ shrimp-dumpling-hk"
   },
   {
     "alias": "dioscorea-opposita",
@@ -600,9 +665,19 @@
     "note": "山药"
   },
   {
+    "alias": "douchi",
+    "canonical": "fermented-black-beans",
+    "note": "auto: duplicate name「豆豉」→ fermented-black-beans"
+  },
+  {
     "alias": "dried-longan",
     "canonical": "longan-dried",
     "note": "桂圆干"
+  },
+  {
+    "alias": "dried-longan-pulp",
+    "canonical": "dried-longan",
+    "note": "auto: duplicate name「桂圆肉」→ dried-longan"
   },
   {
     "alias": "enoki",
@@ -615,9 +690,19 @@
     "note": "招潮蟹/蟛蜞英文别名"
   },
   {
+    "alias": "fish-maw-gd",
+    "canonical": "fish-maw",
+    "note": "auto: duplicate name「花胶」→ fish-maw"
+  },
+  {
     "alias": "fructus-piperis",
     "canonical": "pepper-spice",
     "note": "胡椒"
+  },
+  {
+    "alias": "gai-lan",
+    "canonical": "chinese-broccoli",
+    "note": "auto: duplicate name「芥兰」→ chinese-broccoli"
   },
   {
     "alias": "garlic-bulb",
@@ -663,6 +748,11 @@
     "alias": "kuruma-prawn",
     "canonical": "prawn-kuruma",
     "note": "auto: duplicate name「竹节虾」→ prawn-kuruma"
+  },
+  {
+    "alias": "lanzhou-beef-noodle",
+    "canonical": "lanzhou-beef-noodles",
+    "note": "auto: duplicate name「兰州牛肉面」→ lanzhou-beef-noodles"
   },
   {
     "alias": "larou",
@@ -720,6 +810,11 @@
     "note": "auto: duplicate name「明虾」→ shrimp"
   },
   {
+    "alias": "mud-carp-gd",
+    "canonical": "mud-carp",
+    "note": "auto: duplicate name「鲮鱼」→ mud-carp"
+  },
+  {
     "alias": "mume-fructus",
     "canonical": "smoked-plum",
     "note": "乌梅"
@@ -748,6 +843,11 @@
     "alias": "niupai",
     "canonical": "beef-steak",
     "note": "牛排拼音 id 别名"
+  },
+  {
+    "alias": "nori-seaweed",
+    "canonical": "seaweed-nori",
+    "note": "烤海苔与 seaweed-nori 合并"
   },
   {
     "alias": "official-almond",
@@ -798,6 +898,11 @@
     "alias": "official-burdock-seed",
     "canonical": "arctium-lappa",
     "note": "auto: bulk duplicate「牛蒡子」→ arctium-lappa"
+  },
+  {
+    "alias": "official-caper-spurge",
+    "canonical": "dayehua-flower",
+    "note": "auto: bulk duplicate「霸王花」→ dayehua-flower"
   },
   {
     "alias": "official-cardamom",
@@ -885,6 +990,11 @@
     "note": "小茴香"
   },
   {
+    "alias": "official-fermented-rice",
+    "canonical": "fermented-rice-wine",
+    "note": "auto: bulk duplicate「醪糟」→ fermented-rice-wine"
+  },
+  {
     "alias": "official-fig",
     "canonical": "fig",
     "note": "auto: duplicate name「无花果」→ fig"
@@ -923,6 +1033,11 @@
     "alias": "official-kudzu",
     "canonical": "pueraria-lobata",
     "note": "auto: bulk duplicate「葛根」→ pueraria-lobata"
+  },
+  {
+    "alias": "official-lemongrass",
+    "canonical": "lemongrass",
+    "note": "auto: bulk duplicate「香茅」→ lemongrass"
   },
   {
     "alias": "official-licorice",
@@ -988,6 +1103,11 @@
     "alias": "official-peach-kernel",
     "canonical": "prunus-persica-seed",
     "note": "auto: bulk duplicate「桃仁」→ prunus-persica-seed"
+  },
+  {
+    "alias": "official-pear-dry",
+    "canonical": "snow-pear-dried",
+    "note": "auto: bulk duplicate「雪梨干」→ snow-pear-dried"
   },
   {
     "alias": "official-perilla-leaf",
@@ -1125,6 +1245,11 @@
     "note": "auto: duplicate name「明虾」→ shrimp"
   },
   {
+    "alias": "preserved-pork-gd",
+    "canonical": "bacon",
+    "note": "auto: duplicate name「腊肉」→ bacon"
+  },
+  {
     "alias": "qingke",
     "canonical": "highland-barley",
     "note": "auto: duplicate name「青稞」→ highland-barley"
@@ -1195,6 +1320,11 @@
     "note": "auto: duplicate name「荠菜」→ shepherds-purse"
   },
   {
+    "alias": "shrimp-paste-gd",
+    "canonical": "shrimp-paste",
+    "note": "auto: duplicate name「虾酱」→ shrimp-paste"
+  },
+  {
     "alias": "silver-fish-fresh",
     "canonical": "whitebait",
     "note": "auto: duplicate name「银鱼」→ whitebait"
@@ -1225,14 +1355,29 @@
     "note": "西式牛排检索别名"
   },
   {
+    "alias": "steamed-rice-roll",
+    "canonical": "rice-roll",
+    "note": "auto: duplicate name「肠粉」→ rice-roll"
+  },
+  {
     "alias": "swimming-crab-spring",
     "canonical": "swimming-crab",
     "note": "auto: duplicate name「梭子蟹」→ swimming-crab"
   },
   {
+    "alias": "tahini",
+    "canonical": "chinese-sesame-paste",
+    "note": "auto: duplicate name「芝麻酱」→ chinese-sesame-paste"
+  },
+  {
     "alias": "taro-corm",
     "canonical": "taro",
     "note": "auto: duplicate name「芋头」→ taro"
+  },
+  {
+    "alias": "tibetan-yak-butter",
+    "canonical": "yak-meat",
+    "note": "auto: duplicate name「牦牛肉」→ yak-meat"
   },
   {
     "alias": "toon-sprout",
@@ -1270,6 +1415,11 @@
     "note": "auto: duplicate name「南美白对虾」→ prawn-whiteleg"
   },
   {
+    "alias": "winter-melon-skin",
+    "canonical": "wax-gourd-peel",
+    "note": "auto: duplicate name「冬瓜皮」→ wax-gourd-peel"
+  },
+  {
     "alias": "wolfberry-leaf",
     "canonical": "official-medlar-leaf",
     "note": "auto: duplicate name「枸杞叶」→ official-medlar-leaf"
@@ -1278,6 +1428,16 @@
     "alias": "wormgrass-flower",
     "canonical": "cordyceps-flower",
     "note": "auto: duplicate name「虫草花」→ cordyceps-flower"
+  },
+  {
+    "alias": "wuzhi-maotao",
+    "canonical": "radix-fici",
+    "note": "auto: duplicate name「五指毛桃」→ radix-fici"
+  },
+  {
+    "alias": "yellow-eel",
+    "canonical": "eel",
+    "note": "黄鳝与 eel 合并为同一 catalog 条目"
   },
   {
     "alias": "yuzu-fruit",
@@ -1298,15 +1458,5 @@
     "alias": "zingiber-officinale-fresh",
     "canonical": "ginger",
     "note": "生姜"
-  },
-  {
-    "alias": "yellow-eel",
-    "canonical": "eel",
-    "note": "黄鳝与 eel 合并为同一 catalog 条目"
-  },
-  {
-    "alias": "nori-seaweed",
-    "canonical": "seaweed-nori",
-    "note": "烤海苔与 seaweed-nori 合并"
   }
 ]
