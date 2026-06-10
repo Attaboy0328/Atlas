@@ -69,6 +69,7 @@
     "generated/foods-cn-bundle.js",
     "generated/food-id-aliases.js",
     "generated/food-search-synonyms.js",
+    "generated/app-version.js",
     "generated/tcm-herbs-bundle.js",
     "generated/food-medicine-catalog.js",
     "generated/pairing-rules-extra.js",

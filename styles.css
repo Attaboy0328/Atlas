@@ -1771,6 +1771,39 @@ button {
   white-space: nowrap;
 }
 
+.profile-recent-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  gap: 12px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  text-align: left;
+  cursor: pointer;
+}
+
+.profile-recent-toggle .section-title {
+  margin: 0;
+}
+
+.profile-recent-toggle-meta {
+  font-size: 12px;
+  color: var(--ink-soft);
+  white-space: nowrap;
+}
+
+.profile-version {
+  margin: 28px 0 8px;
+  padding-top: 16px;
+  border-top: 1px solid color-mix(in srgb, var(--line) 68%, transparent);
+  color: var(--ink-soft);
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
 .pairing-rules-group {
   margin-top: 16px;
 }

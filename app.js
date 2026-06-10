@@ -686,6 +686,7 @@ const state = {
   view: "home",
   homeQuery: "",
   homeExploreOpen: false,
+  profileRecentOpen: false,
   libraryQuery: "",
   libraryNature: "全部",
   libraryCategory: "全部",
@@ -3593,6 +3594,14 @@ function bindProfileEvents() {
     });
   }
 
+  app.querySelectorAll("[data-toggle-profile-recent]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.profileRecentOpen = !state.profileRecentOpen;
+      rerenderCurrent();
+    });
+  });
+
   const guideBtn = app.querySelector("#pwaInstallGuideBtn");
   if (guideBtn) {
     guideBtn.addEventListener("click", () => {
@@ -5000,6 +5009,10 @@ function renderAppearanceSettings() {
   `;
 }
 
+function getAppVersion() {
+  return typeof APP_VERSION !== "undefined" ? APP_VERSION : "dev";
+}
+
 function renderProfile() {
   const favorites = state.favorites.map((id) => foodMap.get(id)).filter(Boolean);
   const recentFoodItems = state.recentFoods.map((id) => foodMap.get(id)).filter(Boolean);
@@ -5009,6 +5022,7 @@ function renderProfile() {
   const recentRecipeItems = state.recentRecipes
     .map((id) => recipes.find((item) => item.id === id))
     .filter(Boolean);
+  const recentCount = recentFoodItems.length + recentRecipeItems.length;
 
   return `
     <section class="page-title page-title-compact">
@@ -5031,17 +5045,22 @@ function renderProfile() {
       `).join("")}
     </section>
 
-    <section class="detail-section">
-      <h2 class="section-title">最近查看</h2>
-      <p class="section-copy">最近打开的食材与食疗方，方便快速回到常查内容。</p>
-      <h3 class="section-subtitle">食材</h3>
-      <div class="food-list">
-        ${recentFoodItems.length ? recentFoodItems.map(foodRow).join("") : emptyState("还没有浏览记录", "打开食材详情后会出现在这里。")}
-      </div>
-      <h3 class="section-subtitle">食疗方</h3>
-      <div class="recipe-list">
-        ${recentRecipeItems.length ? recentRecipeItems.map(recipeRow).join("") : emptyState("还没有浏览记录", "打开食疗方详情后会出现在这里。")}
-      </div>
+    <section class="detail-section profile-recent-section">
+      <button type="button" class="profile-recent-toggle" data-toggle-profile-recent aria-expanded="${state.profileRecentOpen}">
+        <span class="section-title">最近查看</span>
+        <span class="profile-recent-toggle-meta">${recentCount ? `${recentCount} 条 · ` : ""}${state.profileRecentOpen ? "收起" : "展开查看 ›"}</span>
+      </button>
+      ${state.profileRecentOpen ? `
+        <p class="section-copy">最近打开的食材与食疗方，方便快速回到常查内容。</p>
+        <h3 class="section-subtitle">食材</h3>
+        <div class="food-list">
+          ${recentFoodItems.length ? recentFoodItems.map(foodRow).join("") : emptyState("还没有浏览记录", "打开食材详情后会出现在这里。")}
+        </div>
+        <h3 class="section-subtitle">食疗方</h3>
+        <div class="recipe-list">
+          ${recentRecipeItems.length ? recentRecipeItems.map(recipeRow).join("") : emptyState("还没有浏览记录", "打开食疗方详情后会出现在这里。")}
+        </div>
+      ` : ""}
     </section>
 
     <section class="detail-section">
@@ -5067,6 +5086,8 @@ function renderProfile() {
         <li>经典依据优先整理自《本草拾遗》《黄帝内经》《神农本草经》《食疗本草》《千金要方·食治篇》《饮膳正要》《脾胃论》《本草纲目》《养老奉亲书》《齐民要术》《随园食单》等食养与本草文献。</li>
       </ul>
     </section>
+
+    <p class="profile-version" aria-label="应用版本">版本 ${getAppVersion()}</p>
   `;
 }
 
