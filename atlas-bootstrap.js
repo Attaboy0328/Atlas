@@ -2,7 +2,6 @@
   "use strict";
 
   const DEFERRED_BUNDLES = [
-    "generated/tcm-herbs-bundle.js",
     "generated/recipes-bulk.js",
     "generated/classic-diet-recipes.js",
     "generated/food-medicine-catalog.js"
@@ -72,6 +71,7 @@
     "generated/foods-cn-bundle.js",
     "generated/food-id-aliases.js",
     "generated/food-search-synonyms.js",
+    "generated/tcm-herbs-bundle.js",
     "generated/pairing-rules-extra.js",
     "generated/handcrafted-recipes.js",
     "generated/origin-products.js",
