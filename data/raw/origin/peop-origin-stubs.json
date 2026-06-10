@@ -1,7 +1,7 @@
 {
   "registry": "peop-origin-stubs",
   "cutoff": "2026-06-09",
-  "count": 439,
+  "count": 437,
   "items": [
     {
       "id": "peop-艾力努尔-柯坪阿恰恰玛古-芜菁-及冻干片-冻干粉",
@@ -21,50 +21,6 @@
         "source": "peop",
         "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79834.htm",
         "sourceId": "peop-艾力努尔-柯坪阿恰恰玛古-芜菁-及冻干片-冻干粉",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-瑷露德玛-瑷菲诗-芦荟化妆品系列",
-      "name": "“瑷露德玛”、“瑷菲诗”芦荟化妆品系列",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "“瑷露德玛”、“瑷菲诗”芦荟化妆品系列为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79836.htm",
-        "sourceId": "peop-瑷露德玛-瑷菲诗-芦荟化妆品系列",
-        "fetchedAt": "2026-06-09",
-        "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-      }
-    },
-    {
-      "id": "peop-瑷露德玛-芦荟化妆品系列",
-      "name": "“瑷露德玛”芦荟化妆品系列",
-      "category": "滋补食材",
-      "nature": "平",
-      "provinces": [
-        "CN"
-      ],
-      "peop": {
-        "status": "protected",
-        "label": "生态原产地保护产品",
-        "region": "CN"
-      },
-      "summary": "“瑷露德玛”芦荟化妆品系列为生态原产地保护产品（PEOP）整理条目。",
-      "provenance": {
-        "source": "peop",
-        "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/75643.htm",
-        "sourceId": "peop-瑷露德玛-芦荟化妆品系列",
         "fetchedAt": "2026-06-09",
         "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
       }

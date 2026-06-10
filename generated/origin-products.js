@@ -1218,7 +1218,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿城大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -1277,7 +1277,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿城香瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -1395,7 +1395,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "矮陂梅菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -1453,7 +1453,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安达奶牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -1511,7 +1511,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安定桑椹",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -1570,7 +1570,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安福寺白桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -1628,7 +1628,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安海土笋冻",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -1687,7 +1687,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安化红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -1805,7 +1805,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安化松针",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -1863,7 +1863,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安吉竹林鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -1921,7 +1921,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安吉竹笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -2154,7 +2154,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安陆白花菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -2213,7 +2213,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安宁白凤桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -2271,7 +2271,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安丘大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -2339,7 +2339,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安丘两河大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -2398,7 +2398,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安丘蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -2515,7 +2515,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安义瓦灰鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -2632,7 +2632,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "熬脑大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -2691,7 +2691,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "八宝西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -2750,7 +2750,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "八湖莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -2868,7 +2868,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴公大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -2927,7 +2927,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴南接龙蜜柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -2985,7 +2985,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴南乌皮樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -3220,7 +3220,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴中柞蚕蛹",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -3278,7 +3278,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芭蕉木瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -3337,7 +3337,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "跋山芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -3396,7 +3396,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "霸王岭山鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -3513,7 +3513,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灞桥樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -3572,7 +3572,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白关丝瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -3631,7 +3631,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白合花菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -3690,7 +3690,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白河木瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -3749,7 +3749,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白鹤草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -3866,7 +3866,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白马黑莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -3925,7 +3925,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白庙血橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -4032,7 +4032,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白泥湖螃蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -4150,7 +4150,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白水畈萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -4208,7 +4208,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白云春毫",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -4266,7 +4266,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白竹山茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -4324,7 +4324,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "百里洲砂梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -4382,7 +4382,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "百丈潭茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -4440,7 +4440,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柏泉绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -4558,7 +4558,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "坂里龙柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -4675,7 +4675,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宝坻大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -4734,7 +4734,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宝坻大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -4793,7 +4793,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宝坻天鹰椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -4851,7 +4851,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宝鸡柴胡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -4958,7 +4958,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宝庆朝天椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -5016,7 +5016,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宝山苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -5075,7 +5075,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宝应慈姑",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -5134,7 +5134,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "保靖黄金茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -5192,7 +5192,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "保山甜柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -5250,7 +5250,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "保山烟叶",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -5366,7 +5366,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "保亭红毛丹",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -5425,7 +5425,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "保亭益智",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -5484,7 +5484,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北董大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -5601,7 +5601,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北景柿子",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -5718,7 +5718,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北垣秋柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -5776,7 +5776,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北苑贡茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -5893,7 +5893,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北镇鸭梨",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -6010,7 +6010,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "本溪辽五味",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -6068,7 +6068,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "本溪林下参",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -6126,7 +6126,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "璧山儿菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -6243,7 +6243,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "滨海白首乌",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -6406,7 +6406,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "勃利蓝靛果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -6464,7 +6464,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "亳丹皮",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -6522,7 +6522,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "亳菊",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -6580,7 +6580,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "亳天花粉",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -6639,7 +6639,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "博兴对虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -6698,7 +6698,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "埠子蚕茧",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -6756,7 +6756,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蔡甸藜蒿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -6815,7 +6815,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蔡甸甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -6874,7 +6874,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蔡甸西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -6933,7 +6933,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "苍南四季柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -6991,7 +6991,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "苍山辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -7050,7 +7050,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "苍山牛蒡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -7167,7 +7167,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "曹县芦笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -7343,7 +7343,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "涔山芥菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -7579,7 +7579,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柴达木绒山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -7696,7 +7696,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昌江芒果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -7755,7 +7755,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昌乐西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -7814,7 +7814,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昌平草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -7873,7 +7873,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "常德红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -7991,7 +7991,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "常宁无渣生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -8050,7 +8050,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巢湖白虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -8283,7 +8283,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "陈村年桔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -8458,7 +8458,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "城固猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -8517,7 +8517,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "城固蜜桔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -8634,7 +8634,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "城口核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -8693,7 +8693,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "城口太白贝母",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -8868,7 +8868,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "澄迈福橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -8926,7 +8926,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "澄迈山柚油",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -8984,7 +8984,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "澄迈无核荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -9043,7 +9043,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赤城赤芍",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -9102,7 +9102,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赤金韭菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -9161,7 +9161,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赤水龙眼",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -9220,7 +9220,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赤水楠竹笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -9279,7 +9279,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赤水乌骨鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -9337,7 +9337,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "充国香桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -9513,7 +9513,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "崇明白山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -9571,7 +9571,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "崇明金瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -9746,7 +9746,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "崇庆枇杷茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -9805,7 +9805,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "崇仁麻鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -9863,7 +9863,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "崇阳野桂花蜜",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -9922,7 +9922,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "崇州郁金",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -9981,7 +9981,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "崇州重楼",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -10330,7 +10330,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "闯王砂梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -10388,7 +10388,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "淳安白花前胡",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -10447,7 +10447,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "淳安覆盆子",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -10564,7 +10564,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "淳化荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -10623,7 +10623,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "慈利杜仲",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -10682,7 +10682,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "慈溪麦冬",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -10741,7 +10741,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "慈溪蜜梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -10799,7 +10799,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "慈溪泥螺",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -10917,7 +10917,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "枞阳媒鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -11033,7 +11033,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "崔家集西红柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -11091,7 +11091,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "翠柳山羊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -11150,7 +11150,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "达川安仁柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -11208,7 +11208,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "达州脆李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -11383,7 +11383,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大安香瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -11442,7 +11442,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大埔蜜柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -11559,7 +11559,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大冲辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -11736,7 +11736,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大店草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -11795,7 +11795,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大畈枇杷",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -11854,7 +11854,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大佛龙井",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -11970,7 +11970,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大黄埠西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -12029,7 +12029,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大金板鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -12087,7 +12087,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大口蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -12145,7 +12145,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大理独头大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -12263,7 +12263,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大荔西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -12322,7 +12322,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大连裙带菜",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -12556,7 +12556,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大庙香水梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -12614,7 +12614,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大铭生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -12673,7 +12673,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大年沟血桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -12731,7 +12731,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大宁红皮小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -12790,7 +12790,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大宁西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -12849,7 +12849,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大坡胡椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -12966,7 +12966,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大沙茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -13024,7 +13024,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大田薄皮核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -13083,7 +13083,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大田高山茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -13199,7 +13199,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大田石榴",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -13434,7 +13434,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大通鸡腿葱",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -13492,7 +13492,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大同小明绿豆",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -13551,7 +13551,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大王秦椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -13668,7 +13668,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大围山梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -13726,7 +13726,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大悟茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -13843,7 +13843,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大兴瓜蒌",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -13961,7 +13961,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大竹白茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -14137,7 +14137,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "代县酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -14195,7 +14195,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "代县小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -14312,7 +14312,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丹东草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -14429,7 +14429,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丹凤核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -14547,7 +14547,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丹棱脆红李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -14605,7 +14605,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丹棱桔橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -14663,7 +14663,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丹霞贡柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -14779,7 +14779,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "单县青山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -14954,7 +14954,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宕昌大黄",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -15072,7 +15072,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宕昌黄芪",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -15131,7 +15131,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "砀山黄桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -15189,7 +15189,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "砀山油桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -15247,7 +15247,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "得利寺大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -15306,7 +15306,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "德化黑鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -15422,7 +15422,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "德化黑羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -15597,7 +15597,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "德化梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -15655,7 +15655,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "德庆巴戟",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -15713,7 +15713,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "德庆贡柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -15771,7 +15771,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "德庆何首乌",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -15830,7 +15830,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "德兴覆盆子",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -15947,7 +15947,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "德兴铁皮石斛",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -16124,7 +16124,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "登步黄金瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -16182,7 +16182,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "登封芥菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -16532,7 +16532,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "店子秋桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -16590,7 +16590,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "店子长红枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -16649,7 +16649,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "垫江白柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -16707,7 +16707,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "垫江丹皮",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -16765,7 +16765,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "刁翎甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -16824,7 +16824,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丁宅水蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -17105,7 +17105,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "定襄甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -17398,7 +17398,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东璧龙眼",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -17457,7 +17457,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东大寨苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -17516,7 +17516,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东方黑山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -17632,7 +17632,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东港大黄蚬",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -17691,7 +17691,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东港梭子蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -17750,7 +17750,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东港杂色蛤",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -17866,7 +17866,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东莞荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -17983,7 +17983,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东江湖茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -18041,7 +18041,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东江湖蜜桔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -18099,7 +18099,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东明西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -18334,7 +18334,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东宁苹果梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -18393,7 +18393,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东平湖大青虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -18510,7 +18510,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东山白沙枇杷",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -18569,7 +18569,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东山芦笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -18687,7 +18687,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东台西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -18746,7 +18746,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东湾绿萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -18980,7 +18980,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东乡绿壳蛋鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -19038,7 +19038,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东乡萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -19096,7 +19096,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东阳元胡",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -19154,7 +19154,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东源板栗",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -19212,7 +19212,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东赵小白梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -19329,7 +19329,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "董河碧珍茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -19387,7 +19387,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "董家茭白",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -19446,7 +19446,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "董市甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -19622,7 +19622,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "都江堰茶叶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -19680,7 +19680,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "都江堰方竹笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -19739,7 +19739,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "都匀毛尖茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -19798,7 +19798,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "斗山杏仁",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -19916,7 +19916,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "独山高寨茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -19974,7 +19974,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "杜马百合",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -20033,7 +20033,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "杜阮凉瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -20091,7 +20091,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "度尾文旦柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -20149,7 +20149,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "敦煌李广杏",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -20266,7 +20266,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "多文空心菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -20325,7 +20325,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "垛庄板栗",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -20441,7 +20441,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "峨眉山藤椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -20616,7 +20616,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "恩平簕菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -20732,7 +20732,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "恩阳芦笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -20791,7 +20791,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "二都杨梅",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -20909,7 +20909,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "二圣梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -21083,7 +21083,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "繁峙黄米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -21259,7 +21259,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "房县虎杖",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -21435,7 +21435,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "房县樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -21494,7 +21494,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "放牛坪梨",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -21552,7 +21552,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "肥城桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -21610,7 +21610,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汾西梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -21727,7 +21727,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汾州小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -21786,7 +21786,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丰都锦橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -21960,7 +21960,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "封丘芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -22137,7 +22137,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "冯家湾花螺",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -22302,7 +22302,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凤冈锌硒茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -22360,7 +22360,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凤凰猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -22419,7 +22419,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凤凰水蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -22477,7 +22477,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凤桥水蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -22535,7 +22535,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凤泉薄荷",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -22652,7 +22652,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凤翔苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -22828,7 +22828,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "奉节脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -22896,7 +22896,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "奉贤黄桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -23013,7 +23013,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "奉新猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -23131,7 +23131,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "扶沟辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -23190,7 +23190,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "扶沟西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -23249,7 +23249,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "浮梁茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -23366,7 +23366,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "浮山苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -23425,7 +23425,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "涪城蚕茧",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -23483,7 +23483,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "涪城芦笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -23660,7 +23660,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "福安芙蓉李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -23777,7 +23777,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "福鼎槟榔芋",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -23836,7 +23836,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "福鼎黄栀子",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -23904,7 +23904,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "福鼎栀子花",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -24079,7 +24079,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "福州福桔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -24196,7 +24196,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "福州茉莉花",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -24255,7 +24255,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "福州茉莉花茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -24721,7 +24721,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "抚州西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -24780,7 +24780,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阜城鸭梨",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -24827,7 +24827,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阜宁西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -24945,7 +24945,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "复立茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -25003,7 +25003,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "复兴苹果柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -25062,7 +25062,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "富安蚕茧",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -25120,7 +25120,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "富财圩螃蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -25237,7 +25237,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "富宁八角",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -25296,7 +25296,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "富平尖柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -25470,7 +25470,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盖州尖把梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -25587,7 +25587,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盖州生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -25646,7 +25646,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盖州桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -25704,7 +25704,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盖州西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -25763,7 +25763,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "甘谷大葱",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -25822,7 +25822,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "甘南蕨麻猪",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -25940,7 +25940,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "皋兰旱砂西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -26057,7 +26057,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "皋兰软儿梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -26174,7 +26174,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "高官寨甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -26291,7 +26291,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "高石脆瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -26407,7 +26407,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "高台黑番茄",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -26465,7 +26465,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "高台辣椒干",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -26524,7 +26524,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "高台胭脂鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -26640,7 +26640,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "高堂菜脯",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -26757,7 +26757,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "高庄芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -26816,7 +26816,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "格尔木蒙古羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -26874,7 +26874,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "耿庄大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -26933,7 +26933,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "狗牯脑茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -26981,7 +26981,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "古浪香瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -27040,7 +27040,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "古龙小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -27158,7 +27158,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "古县核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -27217,7 +27217,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "古县小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -27276,7 +27276,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "谷律花椒",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -27335,7 +27335,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "固始皇姑山茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -27452,7 +27452,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "固始萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -27510,7 +27510,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "故陵椪柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -27627,7 +27627,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓜州蜜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -27685,7 +27685,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓜州锁阳",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -27744,7 +27744,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓜州甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -27803,7 +27803,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓜州西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -27921,7 +27921,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "关岭火龙果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -27980,7 +27980,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "关岭牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -28096,7 +28096,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "官庄湖西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -28155,7 +28155,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "冠山连翘茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -28214,7 +28214,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "冠县鸭梨",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -28272,7 +28272,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灌云豆丹",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -28388,7 +28388,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "广昌泽泻",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -28505,7 +28505,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "广德毛腿鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -28563,7 +28563,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "广丰白耳黄鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -28621,7 +28621,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "广丰铁蹄牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -28737,7 +28737,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "广灵大尾羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -29030,7 +29030,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "贵南黑藏羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -29088,7 +29088,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桂河芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -29263,7 +29263,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "哈达铺当归",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -29322,7 +29322,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海昌蜜梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -29438,7 +29438,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海丰莲花山茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -29613,7 +29613,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海门黄鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -29786,7 +29786,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海南雪茄烟叶",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -29959,7 +29959,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海洋岛海参",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -30136,7 +30136,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汉源雪梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -30194,7 +30194,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汉源樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -30370,7 +30370,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汉中冬韭",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -30487,7 +30487,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "杭晚蜜柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -30545,7 +30545,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "合川湖皱丝瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -30604,7 +30604,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "合肥龙虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -30780,7 +30780,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "合阳远志",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -30828,7 +30828,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "和村苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -30876,7 +30876,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "和溪巴戟天",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -30935,7 +30935,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "和县辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -31110,7 +31110,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "河峪小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -31169,7 +31169,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "贺家庄鲜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -31286,7 +31286,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鹤峰茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -31344,7 +31344,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鹤山粉葛",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -31403,7 +31403,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鹤山红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -31462,7 +31462,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黑垦友谊西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -31521,7 +31521,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黑垦友谊香瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -31580,7 +31580,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黑山地瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -31697,7 +31697,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黑山锦丰梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -31755,7 +31755,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黑水大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -31814,7 +31814,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黑水凤尾鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -31872,7 +31872,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黑竹沟藤椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -31930,7 +31930,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "恒北早酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -31988,7 +31988,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "横溪西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -32105,7 +32105,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "衡阳湘黄鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -32222,7 +32222,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "红格脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -32339,7 +32339,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "红山荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -32457,7 +32457,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪洞莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -32516,7 +32516,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪湖荷叶茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -32634,7 +32634,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪湖野鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -32750,7 +32750,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪兰菠菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -33044,7 +33044,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪雅绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -33103,7 +33103,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "呼兰大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -33221,7 +33221,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "呼兰韭菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -33455,7 +33455,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "呼玛老山芹",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -33629,7 +33629,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "胡集白梨瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -33687,7 +33687,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "胡阳西红柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -33745,7 +33745,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湖口螃蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -33804,7 +33804,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湖州湖羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -33920,7 +33920,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湖州太湖鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -34270,7 +34270,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "互助葱花土鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -34328,7 +34328,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "互助当归",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -34505,7 +34505,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "花海甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -34623,7 +34623,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "花园酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -34740,7 +34740,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "华容道皱皮柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -34915,7 +34915,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "华容芥菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -34974,7 +34974,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "华容芦苇笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -35091,7 +35091,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "华亭大黄",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -35150,7 +35150,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "华亭独活",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -35209,7 +35209,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "化石戈小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -35327,7 +35327,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桦甸黄牛肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -35386,7 +35386,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桦南白瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -35445,7 +35445,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桦南白瓜籽",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -35562,7 +35562,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "怀仁绿豆",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -35726,7 +35726,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "怀远石榴",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -35785,7 +35785,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "淮安蒲菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -35844,7 +35844,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "淮南麻黄鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -35962,7 +35962,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄川草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -36079,7 +36079,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄泛区黄金梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -36195,7 +36195,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄瓜山梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -36313,7 +36313,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄河口大闸蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -36372,7 +36372,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄河口蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -36488,7 +36488,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄尖菊花",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -36723,7 +36723,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄南黄芪",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -36841,7 +36841,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄陂荸荠",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -36900,7 +36900,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄陂黄牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -36958,7 +36958,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄山黑鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -37016,7 +37016,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄山毛峰茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -37064,7 +37064,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄石溪毛峰",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -37181,7 +37181,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄田荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -37240,7 +37240,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄香沟鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -37298,7 +37298,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄岩东魁杨梅",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -37357,7 +37357,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄岩红糖",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -37416,7 +37416,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄岩茭白",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -37475,7 +37475,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄岩蜜桔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -37592,7 +37592,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湟源牦牛肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -37828,7 +37828,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "辉县山楂",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -37887,7 +37887,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "徽县紫皮大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -37946,7 +37946,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "逥峰蜜柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -38063,7 +38063,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "会昌酱干",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -38168,7 +38168,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "会同竹笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -38227,7 +38227,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "会泽宝珠梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -38518,7 +38518,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "惠民蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -38576,7 +38576,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "火红黑山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -38740,7 +38740,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "霍山黄大茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -38798,7 +38798,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "霍州核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -38857,7 +38857,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "霍州苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -38916,7 +38916,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鸡西刺五加",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -38975,7 +38975,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鸡西蒲公英",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -39034,7 +39034,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "吉安红毛鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -39092,7 +39092,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "吉县苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -39151,7 +39151,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "即墨地瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -39326,7 +39326,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "集贤友好香瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -39385,7 +39385,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "济宁百日鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -39443,7 +39443,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "济源核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -39502,7 +39502,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绩溪火腿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -39560,7 +39560,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绩溪山核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -39619,7 +39619,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绩溪燕笋干",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -39736,7 +39736,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "冀州天鹰椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -40017,7 +40017,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "佳县红枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -40134,7 +40134,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "嘉祥白菊花",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -40251,7 +40251,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "嘉祥红皮大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -40310,7 +40310,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "嘉祥小尾寒羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -40427,7 +40427,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "嘉峪关洋葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -40486,7 +40486,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "嘉州荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -40545,7 +40545,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "郏县红牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -40720,7 +40720,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尖扎花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -40779,7 +40779,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尖扎荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -40838,7 +40838,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尖扎山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -40955,7 +40955,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "监利荆江鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -41129,7 +41129,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "简阳晚白桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -41187,7 +41187,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "建德苞茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -41245,7 +41245,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "建德草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -41304,7 +41304,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "建德吴茱萸",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -41363,7 +41363,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "建德西红花",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -41422,7 +41422,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "建湖青虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -41527,7 +41527,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "建宁黄花梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -41585,7 +41585,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "建始厚朴",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -41644,7 +41644,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "建始猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -41703,7 +41703,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "建水酸石榴",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -41762,7 +41762,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "剑门关土鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -41867,7 +41867,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "江津广柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -41925,7 +41925,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "江津花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -41984,7 +41984,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "江门牛大力",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -42101,7 +42101,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "江山猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -42218,7 +42218,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "江夏光明茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -42334,7 +42334,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "江永香姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -42450,7 +42450,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "江永香柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -42566,7 +42566,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "姜格庄草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -42625,7 +42625,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "姜家埠大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -42743,7 +42743,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "将乐红糖",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -42861,7 +42861,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绛县柴胡",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -42920,7 +42920,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绛县大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -42979,7 +42979,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绛县黄芩",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -43038,7 +43038,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绛县连翘",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -43097,7 +43097,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绛县山楂",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -43156,7 +43156,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "弶港泥螺",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -43273,7 +43273,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "弶港文蛤",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -43389,7 +43389,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "交城梨枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -43565,7 +43565,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "胶南绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -43915,7 +43915,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金坝芹芽",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -43973,7 +43973,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金川多肋牦牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -44031,7 +44031,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金川红辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -44090,7 +44090,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金鸽山小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -44149,7 +44149,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金湖乌凤鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -44207,7 +44207,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金华佛手",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -44324,7 +44324,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金甲岭萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -44382,7 +44382,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金口芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -44441,7 +44441,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金沙薏米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -44558,7 +44558,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金山蟠桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -44674,7 +44674,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金塔番茄",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -44732,7 +44732,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金塔辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -44791,7 +44791,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金塔肉羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -44849,7 +44849,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金堂黑山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -44907,7 +44907,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金堂黄金果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -45024,7 +45024,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金堂脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -45141,7 +45141,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金塘李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -45257,7 +45257,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金溪蜜梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -45315,7 +45315,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金乡大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -45422,7 +45422,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金寨红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -45481,7 +45481,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金寨猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -45646,7 +45646,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "津市藠果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -45763,7 +45763,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "锦州苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -45940,7 +45940,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "晋江紫菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -46058,7 +46058,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "缙云茭白",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -46117,7 +46117,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "缙云麻鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -46233,7 +46233,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "京山白花菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -46408,7 +46408,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泾县兰香茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -46583,7 +46583,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旌德黄牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -46758,7 +46758,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旌德青蔗",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -46874,7 +46874,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "井冈竹笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -46933,7 +46933,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "井研柑橘",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -47050,7 +47050,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "径山茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -47166,7 +47166,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "靖安白茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -47284,7 +47284,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "靖边辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -47401,7 +47401,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "靖边荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -47518,7 +47518,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "靖宇林下参",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -47576,7 +47576,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "靖宇平贝母",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -47635,7 +47635,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "靖宇西洋参",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -47694,7 +47694,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "靖远旱砂西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -47812,7 +47812,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "靖州杨梅",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -47987,7 +47987,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鸠坑茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -48045,7 +48045,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "九宫山茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -48396,7 +48396,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "九寨沟柿子",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -48455,7 +48455,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "久治牦牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -48513,7 +48513,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旧店苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -48572,7 +48572,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旧口砂梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -48689,7 +48689,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莒南板栗",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -48806,7 +48806,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莒南绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -48865,7 +48865,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莒县丹参",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -48924,7 +48924,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莒县黄芩",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -48983,7 +48983,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莒县绿芦笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -49042,7 +49042,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莒县南涧小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -49160,7 +49160,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巨野大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -49208,7 +49208,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "军山湖大闸蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -49325,7 +49325,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "浚县大碾萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -49500,7 +49500,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "开江白鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -49558,7 +49558,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "开江麻鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -49616,7 +49616,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "开县锦橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -49674,7 +49674,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "开远蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -49732,7 +49732,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "康县太平鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -50081,7 +50081,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "孔坑茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -50197,7 +50197,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宽甸石柱人参",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -50315,7 +50315,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莱芜白花丹参",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -50374,7 +50374,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莱芜黑山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -50490,7 +50490,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莱芜鸡腿葱",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -50548,7 +50548,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莱芜吉山黑鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -50664,7 +50664,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莱西大板栗",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -50956,7 +50956,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兰江蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -51072,7 +51072,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兰西西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -51248,7 +51248,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兰溪毛峰",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -51306,7 +51306,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兰溪枇杷",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -51365,7 +51365,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兰溪小萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -51423,7 +51423,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兰溪杨梅",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -51482,7 +51482,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兰州百合",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -51541,7 +51541,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兰州冬果梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -51715,7 +51715,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蓝田樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -51774,7 +51774,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "崀山脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -51890,7 +51890,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "老河口白蛤",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -52007,7 +52007,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "老姆登茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -52123,7 +52123,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乐安竹笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -52182,7 +52182,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乐都大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -52241,7 +52241,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乐都绿萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -52299,7 +52299,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乐都牦牛肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -52358,7 +52358,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乐都长辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -52417,7 +52417,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乐都紫皮大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -52581,7 +52581,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乐业辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -52640,7 +52640,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乐至黑山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -52757,7 +52757,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "雷官板鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -52921,7 +52921,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黎川白茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -52980,7 +52980,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黎川草菇",
     "en": "",
     "category": "菌菇",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -53214,7 +53214,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "礼泉小河御梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -53272,7 +53272,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "李桂芬梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -53330,7 +53330,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "李集香葱",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -53388,7 +53388,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "李口西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -53564,7 +53564,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "澧县石菖蒲",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -53623,7 +53623,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "醴陵玻璃椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -53681,7 +53681,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "历城核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -53740,7 +53740,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丽水枇杷",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -53799,7 +53799,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "利川大黄",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -53916,7 +53916,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "利民芦蒿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -53974,7 +53974,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "溧阳白芹",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -54032,7 +54032,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "溧阳鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -54090,7 +54090,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "连伯韭菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -54149,7 +54149,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "连城白鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -54207,7 +54207,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "连城地瓜干",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -54442,7 +54442,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "连南大叶茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -54559,7 +54559,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "连州水晶梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -54617,7 +54617,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凉州羊羔肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -54675,7 +54675,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "梁平红羽土鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -54733,7 +54733,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "梁平肉鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -54791,7 +54791,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "梁平柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -54907,7 +54907,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "梁山青山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -54965,7 +54965,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "梁子湖大河蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -55024,7 +55024,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "辽阳大果榛子",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -55142,7 +55142,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蓼坞小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -55201,7 +55201,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "林家咀萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -55259,7 +55259,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "林口白鲜皮",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -55376,7 +55376,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "林口黄芪",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -55435,7 +55435,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "林苗圃早酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -55493,7 +55493,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临沧坚果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -55609,7 +55609,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临川金银花",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -55668,7 +55668,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临海西兰花",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -55727,7 +55727,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临湖大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -55786,7 +55786,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临清椹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -55844,7 +55844,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临朐黑山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -55902,7 +55902,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临朐花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -55961,7 +55961,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临潭大黄",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -56020,7 +56020,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临潭当归",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -56137,7 +56137,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临潼石榴",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -56196,7 +56196,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临县红枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -56255,7 +56255,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临县开阳大枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -56314,7 +56314,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临猗苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -56373,7 +56373,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临颍大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -56432,7 +56432,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临淄边河小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -56550,7 +56550,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灵境莜麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -56609,7 +56609,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灵丘荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -56668,7 +56668,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灵山韭菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -56727,7 +56727,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灵石核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -56904,7 +56904,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灵寿金针菇",
     "en": "",
     "category": "菌菇",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -56963,7 +56963,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灵台苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -57080,7 +57080,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "陵川黑山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -57138,7 +57138,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "陵川连翘",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -57234,7 +57234,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "陵水荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -57293,7 +57293,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "陵水圣女果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -57351,7 +57351,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "酃县白鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -57467,7 +57467,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "刘村酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -57525,7 +57525,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "浏阳黑山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -57583,7 +57583,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "浏阳金桔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -57700,7 +57700,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "留坝板栗",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -57994,7 +57994,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柳林红枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -58053,7 +58053,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柳下邑猪牙皂",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -58112,7 +58112,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "六郎河蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -58230,7 +58230,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙川山茶油",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -58337,7 +58337,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙江小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -58396,7 +58396,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙陵黄山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -58572,7 +58572,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙虬罗氏沼虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -58688,7 +58688,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙山百合",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -58747,7 +58747,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙山厚朴",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -58806,7 +58806,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙山黄柏",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -58865,7 +58865,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙山小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -58924,7 +58924,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙湾苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -58983,7 +58983,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙王贡韭",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -59041,7 +59041,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙岩山麻鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -59099,7 +59099,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙岩斜背茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -59157,7 +59157,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙阳绿萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -59215,7 +59215,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙游麻鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -59273,7 +59273,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "隆化小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -59332,7 +59332,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "隆回龙牙百合",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -59509,7 +59509,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "陇南绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -59627,7 +59627,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "娄店芦笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -59745,7 +59745,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庐江花香藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -59803,7 +59803,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泸西高原梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -59920,7 +59920,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泸州桂圆",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -60037,7 +60037,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鸬鸟蜜梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -60095,7 +60095,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鲁村芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -60213,7 +60213,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鲁西斗鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -60271,7 +60271,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鲁西黄牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -60329,7 +60329,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "禄劝板栗",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -60376,7 +60376,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "路桥枇杷",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -60553,7 +60553,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "吕墅萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -60611,7 +60611,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旅顺大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -60670,7 +60670,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "栾川核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -60729,7 +60729,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "栾川山茱萸",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -60788,7 +60788,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "滦州苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -60847,7 +60847,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "略阳乌鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -60905,7 +60905,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "罗浮山豆腐花",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -61070,7 +61070,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "罗盘山生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -61129,7 +61129,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "罗平黄山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -61246,7 +61246,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "罗田香露茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -61421,7 +61421,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "罗洲冬瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -61715,7 +61715,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "萝北五味子",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -61774,7 +61774,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洛宁金珠果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -61890,7 +61890,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麻城辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -61949,7 +61949,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麻大湖毛蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -62007,7 +62007,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麻店西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -62066,7 +62066,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麻姑茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -62182,7 +62182,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麻兰油桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -62240,7 +62240,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麻湾西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -62299,7 +62299,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麻涌香蕉",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -62358,7 +62358,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麻榨杨桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -62417,7 +62417,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马厂当归",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -62534,7 +62534,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马冈肉鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -62592,7 +62592,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马家沟芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -62651,7 +62651,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马家柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -62699,7 +62699,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马家寨子香椿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -62816,7 +62816,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马连庄甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -62875,7 +62875,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马龙苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -63051,7 +63051,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马楠半细毛羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -63109,7 +63109,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马坡茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -63284,7 +63284,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马山杨梅",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -63343,7 +63343,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马湾白桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -63460,7 +63460,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马营西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -63519,7 +63519,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马寨生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -63578,7 +63578,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玛曲牦牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -63636,7 +63636,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玛曲欧拉羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -63694,7 +63694,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麦地湾梨",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -63752,7 +63752,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "满城草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -63811,7 +63811,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "漫河西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -63928,7 +63928,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茅岩莓茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -63986,7 +63986,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茂汶苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -64045,7 +64045,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茂县李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -64103,7 +64103,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "眉县猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -64221,7 +64221,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "梅县金柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -64279,7 +64279,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "梅县绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -64456,7 +64456,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蒙阴苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -64515,7 +64515,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "勐库大叶种茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -64573,7 +64573,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "孟家原桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -64631,7 +64631,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "孟津梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -64748,7 +64748,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "孟津西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -64866,7 +64866,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "米易苦瓜",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -64984,7 +64984,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "米脂红葱",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -65042,7 +65042,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泌阳夏南牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -65100,7 +65100,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "渑池柴胡",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -65159,7 +65159,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "渑池丹参",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -65218,7 +65218,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "渑池花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -65335,7 +65335,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "妙西黄桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -65393,7 +65393,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "民和旱砂西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -65510,7 +65510,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "民和肉牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -65568,7 +65568,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "民勤茴香",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -65626,7 +65626,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "民勤蜜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -65868,7 +65868,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "明光绿豆",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -66217,7 +66217,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "明月雷竹笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -66276,7 +66276,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "磨坪贡茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -66334,7 +66334,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "木鱼绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -66393,7 +66393,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沐川猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -66510,7 +66510,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "穆棱沙棘",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -66569,7 +66569,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "穆阳水蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -66627,7 +66627,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "纳溪特早茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -66685,7 +66685,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南部脆香甜柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -66868,7 +66868,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南川大树茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -66926,7 +66926,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南川方竹笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -66985,7 +66985,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南川鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -67160,7 +67160,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南丰蜜桔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -67207,7 +67207,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南宫黄韭",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -67265,7 +67265,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南江大叶茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -67381,7 +67381,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南林交莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -67673,7 +67673,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南王店西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -68071,7 +68071,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "内黄尖椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -68129,7 +68129,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "内黄桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -68245,7 +68245,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尼西鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -68361,7 +68361,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁都黄鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -68419,7 +68419,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁国山核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -68478,7 +68478,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁海白枇杷",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -68595,7 +68595,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁化牛角椒",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -68711,7 +68711,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁前胡",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -68947,7 +68947,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁武莜麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -69006,7 +69006,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁乡栀子",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -69123,7 +69123,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁阳大枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -69240,7 +69240,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "诺邓火腿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -69298,7 +69298,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "攀枝花枇杷",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -69404,7 +69404,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "磐安茭白",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -69521,7 +69521,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蟠桃大姜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -69754,7 +69754,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "彭州蒜薹",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -69801,7 +69801,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "彭州莴笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -69860,7 +69860,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蓬安锦橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -69918,7 +69918,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蓬华脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -70092,7 +70092,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蓬莱海参",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -70209,7 +70209,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蓬溪矮晚柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -70267,7 +70267,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蓬溪仙桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -70334,7 +70334,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "邳州白蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -70392,7 +70392,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "偏关小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -70451,7 +70451,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "偏关羊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -70626,7 +70626,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平川苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -70685,7 +70685,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平川山羊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -70744,7 +70744,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平川甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -70979,7 +70979,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平江白术",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -71038,7 +71038,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平江烟茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -71096,7 +71096,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平利女娲茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -71213,7 +71213,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平陆苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -71390,7 +71390,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平水日铸茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -71448,7 +71448,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平顺花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -71507,7 +71507,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平顺连翘",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -71684,7 +71684,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平潭坛紫菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -71802,7 +71802,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平塘乌骨鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -71860,7 +71860,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平塘皱皮线椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -71918,7 +71918,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平武果梅",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -71976,7 +71976,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平遥酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -72152,7 +72152,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平阴鲜食地瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -72210,7 +72210,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "屏南李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -72326,7 +72326,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "坡河萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -72384,7 +72384,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "坡柳娘娘茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -72442,7 +72442,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泊头桑椹",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -72560,7 +72560,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蒲城西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -72619,7 +72619,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蒲江樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -72678,7 +72678,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蒲县核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -72854,7 +72854,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "浦江桃形李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -72970,7 +72970,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "普洱瓢鸡",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -73028,7 +73028,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "普陀佛茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -73086,7 +73086,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "七宝黄金瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -73144,7 +73144,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "七境茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -73202,7 +73202,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "七里湖萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -73260,7 +73260,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "七里茄子",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -73319,7 +73319,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "七里坡山楂",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -73437,7 +73437,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "七星台蒜薹",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -73495,7 +73495,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "祁菊花",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -73613,7 +73613,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "祁紫菀",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -73661,7 +73661,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "淇河缠丝鸭蛋",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -73779,7 +73779,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "骑岸大方柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -74129,7 +74129,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "启东青皮长茄",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -74364,7 +74364,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "千佛竹根姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -74480,7 +74480,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "铅山河红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -74597,7 +74597,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "潜半夏",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -74656,7 +74656,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黔江猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -74715,7 +74715,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黔江桑蚕茧",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -74773,7 +74773,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黔江羊肚菌",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -74832,7 +74832,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黔阳冰糖橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -74891,7 +74891,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黔阳大红甜橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -75008,7 +75008,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黔阳金秋梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -75066,7 +75066,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黔阳脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -75242,7 +75242,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巧家小碗红糖",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -75290,7 +75290,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "秦安苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -75349,7 +75349,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "秦州大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -75408,7 +75408,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "溱湖簖蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -75584,7 +75584,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沁水黑山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -75642,7 +75642,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沁水黄小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -75701,7 +75701,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沁源连翘",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -75760,7 +75760,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沁源绵黄芪",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -75819,7 +75819,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沁州核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -75878,7 +75878,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沁州南瓜籽",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -75937,7 +75937,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青草坝萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -76053,7 +76053,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青山龙眼",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -76170,7 +76170,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青田杨梅",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -76229,7 +76229,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青田御茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -76346,7 +76346,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "清化姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -76404,7 +76404,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "清江椪柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -76520,7 +76520,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "清泉沟小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -76579,7 +76579,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "清水半夏",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -76696,7 +76696,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "清水花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -76755,7 +76755,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "清新桂花鱼",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -76931,7 +76931,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "清远黑山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -77106,7 +77106,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庆阳黑山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -77164,7 +77164,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庆阳香瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -77223,7 +77223,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庆阳小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -77340,7 +77340,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庆云大叶香菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -77399,7 +77399,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "邛崃猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -77458,7 +77458,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "邛崃文君茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -77575,7 +77575,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "琼海番石榴",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -77634,7 +77634,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "琼海胡椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -77693,7 +77693,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "琼海青皮冬瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -77752,7 +77752,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "琼海油茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -77810,7 +77810,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "琼中绿橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -77868,7 +77868,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "琼中山鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -77926,7 +77926,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丘北辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -78043,7 +78043,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "曲堤黄瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -78102,7 +78102,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "曲沃麦茬羊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -78220,7 +78220,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "曲溪绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -78279,7 +78279,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "屈乡丝绵茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -78337,7 +78337,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "衢州玉露茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -78395,7 +78395,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泉州龙眼",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -78571,7 +78571,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "饶平狮头鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -78629,7 +78629,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "人荣小西红柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -78687,7 +78687,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仁风西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -78746,7 +78746,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仁兆蒜薹",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -78804,7 +78804,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仁兆圆葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -78862,7 +78862,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "任市板鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -78920,7 +78920,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "日照大竹蛏",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -78978,7 +78978,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "日照东方对虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -79095,7 +79095,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "日照绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -79329,7 +79329,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "如皋黄鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -79387,7 +79387,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汝城白毛茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -79445,7 +79445,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汝阳杜仲",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -79739,7 +79739,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乳山巴梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -79797,7 +79797,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乳山草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -79915,7 +79915,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乳山绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -79974,7 +79974,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乳山苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -80033,7 +80033,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乳山樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -80092,7 +80092,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芮城花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -80151,7 +80151,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芮城菊花",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -80210,7 +80210,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芮城芦笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -80269,7 +80269,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芮城苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -80386,7 +80386,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芮城香椿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -80621,7 +80621,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三杯香茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -80669,7 +80669,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三河湖韭菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -80728,7 +80728,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三湖红桔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -80786,7 +80786,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三湖黄桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -80834,7 +80834,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三口柑桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -80892,7 +80892,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三林崩瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -80950,7 +80950,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三门坡荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -81009,7 +81009,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三门青蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -81126,7 +81126,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三清山白茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -81185,7 +81185,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三清山山茶油",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -81244,7 +81244,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三十岗西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -81303,7 +81303,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三水黑皮冬瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -81362,7 +81362,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三潭枇杷",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -81421,7 +81421,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三亚莲雾",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -81480,7 +81480,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三亚芒果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -81539,7 +81539,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三亚甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -81598,7 +81598,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三元油桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -81656,7 +81656,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三樟黄贡椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -81714,7 +81714,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "散花藜蒿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -81831,7 +81831,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桑梓西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -81890,7 +81890,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙底辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -81949,7 +81949,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙沟西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -82008,7 +82008,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙河辛西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -82067,7 +82067,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙洋长湖河蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -82359,7 +82359,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山色峪樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -82418,7 +82418,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山亭花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -82477,7 +82477,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山亭火樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -82536,7 +82536,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山旺大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -82595,7 +82595,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山阳核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -82713,7 +82713,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "杉荷园莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -82772,7 +82772,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "陕州红梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -82830,7 +82830,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "陕州苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -82889,7 +82889,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "陕州石榴",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -83007,7 +83007,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "商河大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -83125,7 +83125,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "商南茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -83242,7 +83242,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "上方山香椿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -83301,7 +83301,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "上戈苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -83641,7 +83641,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "上饶青丝豆",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -83699,7 +83699,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "上饶山茶油",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -83758,7 +83758,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "上饶早梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -83993,7 +83993,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芍药山核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -84168,7 +84168,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "邵店黄姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -84285,7 +84285,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "邵东玉竹",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -84344,7 +84344,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "邵武碎铜茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -84518,7 +84518,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "深沟鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -84751,7 +84751,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "神池羊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -84810,7 +84810,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "神池莜麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -84928,7 +84928,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "神木小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -85046,7 +85046,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "神湾菠萝",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -85105,7 +85105,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沈灶青椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -85164,7 +85164,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "圣水绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -85223,7 +85223,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "嵊泗贻贝",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -85281,7 +85281,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "嵊州桃形李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -85397,7 +85397,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "师寨黑米醋",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -85445,7 +85445,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石埠子樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -85504,7 +85504,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石洞彩苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -85563,7 +85563,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石湖西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -85798,7 +85798,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石棉黄果柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -85856,7 +85856,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石棉枇杷",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -85973,7 +85973,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石屏青绵羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -86031,7 +86031,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石屏杨梅",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -86148,7 +86148,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石阡苔茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -86206,7 +86206,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石桥黄桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -86323,7 +86323,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石泉桑蚕茧",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -86381,7 +86381,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石山壅羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -86497,7 +86497,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石柱莼菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -86556,7 +86556,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石柱辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -86615,7 +86615,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "寿光大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -86674,7 +86674,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "寿光鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -86732,7 +86732,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "寿光蚂蚬",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -86848,7 +86848,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "寿光文蛤",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -86964,7 +86964,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "寿宁高山茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -87022,7 +87022,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "寿阳小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -87139,7 +87139,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "舒城黄姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -87314,7 +87314,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "树山杨梅",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -87431,7 +87431,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "双城甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -87490,7 +87490,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "双城西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -87549,7 +87549,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "双城小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -87667,7 +87667,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "双井西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -87726,7 +87726,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "双莲荸荠",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -87902,7 +87902,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "双湾西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -87961,7 +87961,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "双榆小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -88020,7 +88020,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "水城脆桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -88173,7 +88173,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "水云峰黄桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -88349,7 +88349,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "顺昌红肉脐橙",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -88407,7 +88407,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "顺昌芦柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -88582,7 +88582,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "顺德鳗鱼",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -88700,7 +88700,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "四会沙糖桔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -88758,7 +88758,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "四井岗油桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -88816,7 +88816,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "寺郎腰大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -88934,7 +88934,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泗水地瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -89051,7 +89051,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泗县金丝绞瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -89109,7 +89109,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泗阳白酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -89167,7 +89167,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泗阳鲜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -89284,7 +89284,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "松林桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -89342,7 +89342,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "松滋柑桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -89400,7 +89400,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "松滋鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -89458,7 +89458,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "松滋蜜柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -89575,7 +89575,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "嵩县皂角刺",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -89693,7 +89693,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "肃北雪山羊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -89752,7 +89752,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "肃南马鹿鹿茸",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -89811,7 +89811,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "肃南牦牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -90046,7 +90046,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绥滨白鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -90221,7 +90221,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绥宁绞股蓝",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -90338,7 +90338,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "遂昌龙谷茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -90513,7 +90513,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "遂平香椿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -90572,7 +90572,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "孙家湾香椿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -90690,7 +90690,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "台安肉鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -90865,7 +90865,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "台山青蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -91099,7 +91099,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "太和黄桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -91157,7 +91157,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "太和香椿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -91216,7 +91216,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "太平猴魁茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -91382,7 +91382,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泰来绿豆",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -91441,7 +91441,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泰山板栗",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -91499,7 +91499,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泰山红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -91558,7 +91558,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泰山绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -91617,7 +91617,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泰顺猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -91735,7 +91735,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泰兴江沙蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -91793,7 +91793,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泰兴荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -91910,7 +91910,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泰兴雪梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -92026,7 +92026,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "炭步槟榔香芋",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -92085,7 +92085,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汤原五味子",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -92144,7 +92144,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "唐古拉藏羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -92202,7 +92202,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "唐古拉牦牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -92377,7 +92377,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "唐河西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -92554,7 +92554,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "唐崖茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -92612,7 +92612,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "棠张桑果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -92788,7 +92788,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "涛雒芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -92847,7 +92847,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洮南绿豆",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -92906,7 +92906,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桃江竹笋",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -92965,7 +92965,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桃江竹叶",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -93023,7 +93023,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桃源黑猪",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -93081,7 +93081,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桃源红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -93140,7 +93140,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桃源鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -93198,7 +93198,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "陶辛青虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -93373,7 +93373,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天宝山山楂",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -93432,7 +93432,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天宝樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -93491,7 +93491,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天岗湖蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -93549,7 +93549,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天峻藏羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -93607,7 +93607,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天峻牦牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -93665,7 +93665,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天门半夏",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -93783,7 +93783,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天目湖白茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -93959,7 +93959,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天全竹笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -94018,7 +94018,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天水连翘",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -94136,7 +94136,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天岩寨柑桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -94311,7 +94311,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天柱山瓜蒌籽",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -94370,7 +94370,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天祝白牦牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -94428,7 +94428,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "甜水萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -94486,7 +94486,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "条山梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -94544,7 +94544,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "铁山杨梅",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -94603,7 +94603,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汀溪兰香茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -94661,7 +94661,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "亭林雪瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -94777,7 +94777,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "通山红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -94836,7 +94836,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "通渭苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -94895,7 +94895,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桐柏香椿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -94954,7 +94954,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桐柏玉叶茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -95012,7 +95012,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桐柏朱砂红桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -95188,7 +95188,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桐琴蜜梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -95246,7 +95246,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桐乡槜李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -95421,7 +95421,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "铜梁莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -95480,7 +95480,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "铜梁枳壳",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -95539,7 +95539,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "铜陵白姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -95713,7 +95713,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "潼南萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -95830,7 +95830,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "潼阳西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -95947,7 +95947,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "涂坊槟榔芋",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -96065,7 +96065,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湍湾紫蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -96181,7 +96181,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "屯昌香鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -96228,7 +96228,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "托口生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -96346,7 +96346,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓦儿岗七星椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -96404,7 +96404,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓦房店海参",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -96522,7 +96522,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓦房店虾皮",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -96814,7 +96814,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "万宁槟榔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -96873,7 +96873,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "万宁东山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -96990,7 +96990,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "万宁柠檬",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -97048,7 +97048,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "万宁鹧鸪茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -97106,7 +97106,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "万泉大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -97165,7 +97165,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "万荣苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -97224,7 +97224,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "万荣三白瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -97282,7 +97282,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "万源富硒茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -97340,7 +97340,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "万源老腊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -97691,7 +97691,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "王过酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -97749,7 +97749,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "王家庄油桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -97807,7 +97807,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "王晋甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -97866,7 +97866,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "王莽鲜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -97924,7 +97924,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "王桥花果芋",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -98041,7 +98041,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "王庄西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -98100,7 +98100,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "威县三白西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -98159,7 +98159,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巍山红雪梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -98334,7 +98334,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "卫辉卫红花",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -98452,7 +98452,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "魏营西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -98570,7 +98570,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "温栀子",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -98629,7 +98629,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "温州早茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -98746,7 +98746,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文登苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -98864,7 +98864,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文山牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -98922,7 +98922,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "闻集草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -98981,7 +98981,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "闻喜莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -99040,7 +99040,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汶上芦花鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -99203,7 +99203,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乌兰茶卡羊",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -99319,7 +99319,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巫山脆李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -99377,7 +99377,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巫溪独活",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -99552,7 +99552,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "无棣黑牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -99784,7 +99784,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "无为螃蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -99843,7 +99843,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "无锡毫茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -99901,7 +99901,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "吴堡红枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -99960,7 +99960,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "吴堡桑蚕茧",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -100547,7 +100547,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五大连池鸭蛋",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -100606,7 +100606,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五峰宜红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -100665,7 +100665,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五合茶叶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -100723,7 +100723,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五河螃蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -100841,7 +100841,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五井山柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -100899,7 +100899,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五里界界豆",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -100957,7 +100957,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五里岭酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -101015,7 +101015,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五莲板栗",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -101131,7 +101131,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五莲国光苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -101190,7 +101190,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五莲小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -101249,7 +101249,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五莲樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -101425,7 +101425,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五指山红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -101600,7 +101600,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "伍家台贡茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -101658,7 +101658,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武城辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -101717,7 +101717,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武当道茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -101775,7 +101775,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武定鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -101891,7 +101891,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武都花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -102126,7 +102126,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武冈铜鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -102184,7 +102184,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武陵酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -102348,7 +102348,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武隆高山辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -102407,7 +102407,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武隆高山萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -102465,7 +102465,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武隆土鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -102523,7 +102523,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武平芙蓉李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -102581,7 +102581,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武平西郊盘菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -102639,7 +102639,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武平仙草",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -102814,7 +102814,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武乡小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -102990,7 +102990,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武义铁皮石斛",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -103165,7 +103165,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "舞钢莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -103224,7 +103224,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "婺州蜜梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -103340,7 +103340,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西坝生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -103516,7 +103516,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西凤脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -103574,7 +103574,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西和半夏",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -103633,7 +103633,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西回小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -103926,7 +103926,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西山青种枇杷",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -104043,7 +104043,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西长旺白莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -104102,7 +104102,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昔阳小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -104161,7 +104161,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "析城山小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -104220,7 +104220,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "溪口雷笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -104336,7 +104336,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "溪洛渡花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -104395,7 +104395,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "溪源明笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -104453,7 +104453,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "隰县梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -104511,7 +104511,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "喜德阉鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -104569,7 +104569,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "峡江水牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -104685,7 +104685,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "霞浦晚熟荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -104744,7 +104744,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "霞浦榨菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -104861,7 +104861,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "夏津椹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -104919,7 +104919,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "夏县花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -104978,7 +104978,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "夏县西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -105096,7 +105096,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "夏邑何首乌",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -105155,7 +105155,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "夏邑西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -105273,7 +105273,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "咸安砖茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -105331,7 +105331,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乡宁翅果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -105448,7 +105448,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "香花辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -105507,7 +105507,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "香龙大头菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -105683,7 +105683,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湘西黄牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -105741,7 +105741,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湘西椪柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -105916,7 +105916,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "襄陵莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -106091,7 +106091,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "响水浅水藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -106149,7 +106149,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "响水西兰花",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -106326,7 +106326,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "象山白鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -106443,7 +106443,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "霄坑绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -106561,7 +106561,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "小金苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -106620,7 +106620,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "小南海莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -106679,7 +106679,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "小相菊花",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -106796,7 +106796,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "孝感龙剑茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -106970,7 +106970,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "孝义柿子",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -107029,7 +107029,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "卸甲坪葛根",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -107088,7 +107088,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "谢湖大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -107265,7 +107265,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "忻州香瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -107324,7 +107324,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新安樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -107501,7 +107501,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新宾辽细辛",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -107560,7 +107560,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新都大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -107619,7 +107619,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新都柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -107677,7 +107677,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新官紫桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -107735,7 +107735,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新绛远志",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -107968,7 +107968,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新泰芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -108027,7 +108027,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新县将军菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -108085,7 +108085,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新县山茶油",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -108320,7 +108320,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新沂水蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -108378,7 +108378,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新余蜜桔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -108552,7 +108552,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荥阳柿子",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -108669,7 +108669,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴国灰鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -108727,7 +108727,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴化大青虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -109018,7 +109018,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴平辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -109077,7 +109077,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴仁牛干巴",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -109135,7 +109135,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴山白茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -109194,7 +109194,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴山锦橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -109252,7 +109252,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴山脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -109368,7 +109368,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴县大明绿豆",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -109427,7 +109427,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴县小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -109544,7 +109544,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "修水宁红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -109603,7 +109603,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "秀山茶叶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -109661,7 +109661,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "秀山金银花",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -109778,7 +109778,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "胥仓雪藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -109836,7 +109836,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "徐堡大枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -109895,7 +109895,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "许河冬瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -109954,7 +109954,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "许营西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -110013,7 +110013,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宣城铁皮石斛",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -110072,7 +110072,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宣汉桃花米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -110188,7 +110188,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宣木瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -110247,7 +110247,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "雪峰蜜桔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -110353,7 +110353,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旬阳狮头柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -110411,7 +110411,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旬邑苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -110645,7 +110645,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "烟台茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -110879,7 +110879,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "延庆国光苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -111173,7 +111173,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "炎陵黄桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -111231,7 +111231,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐边桑蚕茧",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -111289,7 +111289,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐边桑椹",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -111348,7 +111348,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐边西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -111407,7 +111407,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐东羊角椒",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -111465,7 +111465,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐津乌骨鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -111523,7 +111523,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐水石榴",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -111582,7 +111582,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐亭桑叶",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -111877,7 +111877,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "羊口虾酱",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -111936,7 +111936,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "羊口咸蟹子",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -111994,7 +111994,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阳城花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -112053,7 +112053,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阳城桑葚",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -112112,7 +112112,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阳城山茱萸",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -112171,7 +112171,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阳高长城羊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -112288,7 +112288,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阳湖水蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -112346,7 +112346,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阳曲小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -112405,7 +112405,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阳山鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -112463,7 +112463,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阳山西洋菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -112522,7 +112522,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阳西红心鸭蛋",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -112570,7 +112570,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阳羡雪芽",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -112628,7 +112628,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阳新柑桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -112744,7 +112744,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阳信鸭梨",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -112802,7 +112802,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阳原鹦哥绿豆",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -112920,7 +112920,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "杨柳荸荠",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -112979,7 +112979,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "杨庙雪菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -113037,7 +113037,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "杨树小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -113155,7 +113155,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仰化荷藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -113271,7 +113271,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仰韶牛心柿",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -113329,7 +113329,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "姚庄黄桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -113387,7 +113387,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "耀州花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -113446,7 +113446,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "耀州黄芩",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -113505,7 +113505,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "叶路大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -113564,7 +113564,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "一都枇杷",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -113740,7 +113740,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "伊川小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -113917,7 +113917,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "伊春榛蘑",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -113976,7 +113976,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "依安甜菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -114151,7 +114151,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仪陇半夏",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -114210,7 +114210,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仪陇元帅柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -114268,7 +114268,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仪征紫菜薹",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -114327,7 +114327,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沂水大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -114386,7 +114386,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沂水绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -114445,7 +114445,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沂水苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -114504,7 +114504,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沂水生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -114563,7 +114563,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沂源黑山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -114680,7 +114680,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沂源苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -114798,7 +114798,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜昌白山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -114856,7 +114856,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜昌百合",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -114915,7 +114915,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜昌猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -114974,7 +114974,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜昌蜜桔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -115032,7 +115032,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜昌木姜子",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -115267,7 +115267,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜都蜜柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -115325,7 +115325,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜都宜红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -115443,7 +115443,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜丰盈科泉茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -115501,7 +115501,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜丰竹笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -115737,7 +115737,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "义井甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -115796,7 +115796,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "义乌红糖",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -115971,7 +115971,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "峄城石榴",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -116030,7 +116030,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "翼城翅果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -116088,7 +116088,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "翼城苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -116312,7 +116312,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "应县青椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -116371,7 +116371,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "英山苍术",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -116607,7 +116607,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瀛湖枇杷",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -116725,7 +116725,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永安黄椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -116842,7 +116842,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永昌啤酒大麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -116901,7 +116901,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永昌肉羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -116959,7 +116959,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永川莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -117018,7 +117018,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永春白番鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -117125,7 +117125,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永登七山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -117183,7 +117183,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永定巴戟天",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -117300,7 +117300,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永福高山茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -117358,7 +117358,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永福生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -117475,7 +117475,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永济大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -117534,7 +117534,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永康方山柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -117592,7 +117592,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永康灰鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -117708,7 +117708,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永宁青虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -117766,7 +117766,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永平白鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -117824,7 +117824,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永顺莓茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -117882,7 +117882,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永顺猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -117941,7 +117941,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永顺蜜桔",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -117999,7 +117999,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永泰绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -118116,7 +118116,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永兴荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -118526,7 +118526,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "右玉羊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -118585,7 +118585,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "余干辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -118820,7 +118820,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "余姚杨梅",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -118879,7 +118879,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "余姚樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -119056,7 +119056,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鱼台龙虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -119174,7 +119174,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "渝北梨橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -119232,7 +119232,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "渝北歪嘴李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -119290,7 +119290,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "榆次苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -119407,7 +119407,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "榆林山地苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -119700,7 +119700,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "榆中莲花菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -119759,7 +119759,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "虞城荠菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -119818,7 +119818,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "虞城苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -119877,7 +119877,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "虞城酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -119935,7 +119935,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "禹州半夏",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -119994,7 +119994,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "禹州丹参",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -120053,7 +120053,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "禹州金银花",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -120112,7 +120112,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玉龙滇重楼",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -120230,7 +120230,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玉门孜然",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -120289,7 +120289,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玉泉仙人掌茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -120522,7 +120522,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玉树蕨麻",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -120581,7 +120581,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玉树牦牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -120697,7 +120697,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "峪里花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -120756,7 +120756,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "裕华大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -120874,7 +120874,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沅江芦笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -120933,7 +120933,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "原平紫皮大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -120992,7 +120992,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "远安冲菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -121050,7 +121050,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "远安黄茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -121167,7 +121167,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "岳家蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -121399,7 +121399,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "越西贡椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -121457,7 +121457,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "越西甜樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -121516,7 +121516,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "云和雪梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -121574,7 +121574,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "云龙矮脚鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -121632,7 +121632,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "云龙茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -121748,7 +121748,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "云梦白花菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -121807,7 +121807,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "云桥圆根萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -121865,7 +121865,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "云山大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -121924,7 +121924,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "云霄枇杷",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -121983,7 +121983,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "云霄蕹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -122042,7 +122042,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "云阳红橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -122100,7 +122100,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "郧西杜仲",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -122159,7 +122159,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "郧西黄姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -122334,7 +122334,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "郧西香椿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -122393,7 +122393,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "郧阳桑蚕茧",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -122568,7 +122568,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "运城苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -122627,7 +122627,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "郓半夏",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -122686,7 +122686,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "早胜牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -122802,7 +122802,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泽州红山楂",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -122861,7 +122861,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泽州黄小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -122979,7 +122979,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "扎什加羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -123037,7 +123037,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柞水核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -123144,7 +123144,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沾化白山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -123202,7 +123202,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沾化洼地绵羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -123377,7 +123377,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "张北莜麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -123553,7 +123553,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "张家川红花牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -123612,7 +123612,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "张家川乌龙头",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -123671,7 +123671,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "张浦黄桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -123729,7 +123729,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "张湾汉江樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -123964,7 +123964,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "张庄牛心柿",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -124022,7 +124022,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "张庄油栗",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -124080,7 +124080,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "彰武地瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -124431,7 +124431,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "漳浦穿心莲",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -124490,7 +124490,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "樟树港黄瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -124549,7 +124549,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "樟树港辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -124608,7 +124608,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长安草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -124667,7 +124667,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长丰草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -124726,7 +124726,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长街蛏子",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -124843,7 +124843,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长乐灰鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -124959,7 +124959,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长凝大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -125018,7 +125018,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长清茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -125076,7 +125076,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长沙绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -125194,7 +125194,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长泰砂仁",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -125301,7 +125301,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长兴漾荡河蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -125360,7 +125360,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长兴紫笋茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -125418,7 +125418,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长子大青椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -125654,7 +125654,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沼山胡柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -125712,7 +125712,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "诏安八仙茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -125828,7 +125828,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赵康辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -125887,7 +125887,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赵屯小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -125946,7 +125946,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赵县黄冠梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -126062,7 +126062,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柘山板栗",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -126179,7 +126179,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "贞丰火龙果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -126238,7 +126238,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "贞丰四月李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -126296,7 +126296,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "真龙柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -126354,7 +126354,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "榛子薄皮辣椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -126413,7 +126413,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇安象园茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -126471,7 +126471,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇巴大黄",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -126647,7 +126647,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇巴毛尖",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -126705,7 +126705,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇巴树花菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -126882,7 +126882,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇隆荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -126941,7 +126941,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇坪乌鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -127057,7 +127057,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇西白萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -127116,7 +127116,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇远陈年道菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -127163,7 +127163,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "郑城金银花",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -127516,7 +127516,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "直社红枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -127633,7 +127633,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "中坝草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -127692,7 +127692,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "中垾番茄",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -127750,7 +127750,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "中牟西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -127809,7 +127809,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "中阳柏籽羊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -127927,7 +127927,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "钟祥皮蛋",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -127986,7 +127986,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "钟祥泉水柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -128103,7 +128103,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "舟曲从岭藏鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -128161,7 +128161,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "舟曲核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -128220,7 +128220,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "舟曲花椒",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -128279,7 +128279,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "舟山晚稻杨梅",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -128338,7 +128338,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "周至猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -128456,7 +128456,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "朱阳核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -128515,7 +128515,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "诸城绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -128750,7 +128750,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "祝沟草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -128809,7 +128809,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "祝沟小甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -128868,7 +128868,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庄河草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -129104,7 +129104,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庄河牡蛎",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -129163,7 +129163,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庄河山牛蒡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -129222,7 +129222,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庄河杂色蛤",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -129347,7 +129347,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庄行蜜梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -129405,7 +129405,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "卓尼柴胡",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -129464,7 +129464,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "卓尼当归",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -129523,7 +129523,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "资丘独活",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -129582,7 +129582,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "资溪白茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -129641,7 +129641,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "秭归桃叶橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -129699,7 +129699,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "秭归夏橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -129815,7 +129815,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "紫阳富硒茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -129873,7 +129873,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴山牛肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -129921,7 +129921,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄桥蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -129968,7 +129968,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平昌青花椒",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -130016,7 +130016,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平昌青芽茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -130159,7 +130159,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五粮液",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],
@@ -130255,7 +130255,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泸州老窖",
     "en": "",
     "category": "饮品",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],
@@ -130562,7 +130562,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泰和乌鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -131122,7 +131122,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青岛啤酒",
     "en": "",
     "category": "饮品",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -131277,7 +131277,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿魏（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -131335,7 +131335,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "艾叶（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -131449,7 +131449,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "八角茴香（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -131506,7 +131506,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴旦杏仁（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -131565,7 +131565,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴豆（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -131624,7 +131624,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴戟天（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -131681,7 +131681,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白附子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -131851,7 +131851,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白花蛇舌草（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -131908,7 +131908,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白及（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -131967,7 +131967,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白蔹（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -132024,7 +132024,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白前（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -132083,7 +132083,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白芍（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -132140,7 +132140,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白术（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -132198,7 +132198,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白头翁（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -132255,7 +132255,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白薇（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -132313,7 +132313,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白鲜皮（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -132370,7 +132370,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白芷（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -132432,7 +132432,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "百部（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -132490,7 +132490,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "百合（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -132553,7 +132553,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "败酱草（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -132613,7 +132613,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "斑蝥（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -132670,7 +132670,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "半边莲（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -132727,7 +132727,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "半夏（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -132789,7 +132789,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "半枝莲（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -132845,7 +132845,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "薄荷（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -132903,7 +132903,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北豆根（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -132960,7 +132960,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荜茇（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -133018,7 +133018,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鳖甲（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -133134,7 +133134,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "补骨脂（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -133193,7 +133193,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "苍术（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -133251,7 +133251,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "藏菖蒲（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -133310,7 +133310,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "藏茴香（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -133367,7 +133367,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "草苁蓉（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -133423,7 +133423,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "草豆蔻（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -133480,7 +133480,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "草果（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -133538,7 +133538,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柴胡（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -133598,7 +133598,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蟾酥（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -133655,7 +133655,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "常山（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -133714,7 +133714,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "炒瓜蒌子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -133771,7 +133771,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "车前子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -133828,7 +133828,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沉香（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -133885,7 +133885,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "陈皮（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -133947,7 +133947,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赤芍（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -134004,7 +134004,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "川贝母（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -134065,7 +134065,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "川楝子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -134124,7 +134124,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "川木通（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -134183,7 +134183,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "川木香（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -134304,7 +134304,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "川射干（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -134363,7 +134363,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "川乌（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -134422,7 +134422,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "川芎（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -134480,7 +134480,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "穿山甲（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -134537,7 +134537,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "穿心莲（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -134594,7 +134594,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "刺五加（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -134707,7 +134707,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大黄（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -134769,7 +134769,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大青叶（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -134828,7 +134828,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丹参（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -134889,7 +134889,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "淡竹叶（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -134946,7 +134946,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "当归（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -135065,7 +135065,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "地枫皮（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -135121,7 +135121,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "地骨皮（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -135179,7 +135179,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "地黄（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -135238,7 +135238,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "地龙（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -135295,7 +135295,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "地榆（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -135353,7 +135353,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灯芯草（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -135409,7 +135409,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "滇鸡血藤（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -135466,7 +135466,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丁香（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -135586,7 +135586,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "冬葵果（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -135642,7 +135642,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "独活（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -135758,7 +135758,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "杜仲（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -135821,7 +135821,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "煅石膏（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -135878,7 +135878,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莪术（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -135936,7 +135936,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "儿茶（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -135994,7 +135994,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "法半夏（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -136058,7 +136058,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "番泻叶（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -136115,7 +136115,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "防风（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -136174,7 +136174,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "防己（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -136237,7 +136237,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "佛手（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -136356,7 +136356,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "附子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -136415,7 +136415,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "覆盆子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -136534,7 +136534,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "甘松（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -136593,7 +136593,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "干姜（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -136707,7 +136707,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "高良姜（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -136764,7 +136764,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "藁本（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -136822,7 +136822,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "葛根（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -136879,7 +136879,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "钩藤（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -136937,7 +136937,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "狗脊（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -137051,7 +137051,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "骨碎补（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -137108,7 +137108,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓜蒌（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -137166,7 +137166,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓜蒌皮（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -137223,7 +137223,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓜蒌子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -137280,7 +137280,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "关黄柏（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -137402,7 +137402,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "广藿香（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -137459,7 +137459,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "广金钱草（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -137574,7 +137574,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龟甲（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -137631,7 +137631,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鬼箭羽（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -137801,7 +137801,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海龙（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -137915,7 +137915,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海马（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -137973,7 +137973,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海螵蛸（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -138088,7 +138088,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海藻（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -138202,7 +138202,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "何首乌（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -138261,7 +138261,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "核桃仁（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -138318,7 +138318,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黑种草子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -138376,7 +138376,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "红参（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -138489,7 +138489,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "红花（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -138606,7 +138606,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "厚朴（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -138667,7 +138667,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "胡黄连（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -138725,7 +138725,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "胡椒（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -138782,7 +138782,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "胡芦巴（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -138898,7 +138898,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湖北贝母（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -139009,7 +139009,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "虎杖（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -139066,7 +139066,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "花椒（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -139125,7 +139125,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "滑石粉（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -139182,7 +139182,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "化橘红（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -139238,7 +139238,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "槐角（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -139295,7 +139295,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "槐米（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -139354,7 +139354,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄柏（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -139479,7 +139479,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄连（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -139540,7 +139540,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄芪（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -139600,7 +139600,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄芩（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -139888,7 +139888,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鸡骨草（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -140001,7 +140001,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鸡血藤（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -140171,7 +140171,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "姜半夏（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -140234,7 +140234,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "姜黄（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -140350,7 +140350,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "降香（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -140406,7 +140406,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "焦槟榔（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -140463,7 +140463,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "焦栀子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -140521,7 +140521,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绞股蓝（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -140695,7 +140695,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金钱草（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -140754,7 +140754,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金银花（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -140869,7 +140869,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "京大戟（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -140925,7 +140925,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荆芥（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -140983,7 +140983,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荆芥炭（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -141098,7 +141098,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "九里香（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -141155,7 +141155,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "菊花（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -141215,7 +141215,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "决明子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -141272,7 +141272,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "苦参实（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -141333,7 +141333,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "苦杏仁（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -141390,7 +141390,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "苦玄参（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -141450,7 +141450,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "款冬花（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -141509,7 +141509,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昆布（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -141622,7 +141622,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "雷丸（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -141680,7 +141680,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荔枝核（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -141737,7 +141737,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荔枝壳（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -141794,7 +141794,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "连翘（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -141968,7 +141968,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "羚羊角（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -142027,7 +142027,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙胆（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -142144,7 +142144,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙眼肉（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -142201,7 +142201,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芦荟（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -142257,7 +142257,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鹿茸（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -142316,7 +142316,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "罗汉果（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -142429,7 +142429,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麻黄（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -142609,7 +142609,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马兜铃（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -142666,7 +142666,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马钱子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -142729,7 +142729,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麦冬（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -142907,7 +142907,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蔓荆子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -143022,7 +143022,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "密蒙花（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -143136,7 +143136,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "明党参（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -143193,7 +143193,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "墨旱莲（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -143250,7 +143250,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "牡丹皮（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -143307,7 +143307,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "牡蛎（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -143366,7 +143366,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "木鳖子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -143423,7 +143423,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "木瓜（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -143480,7 +143480,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "木蝴蝶（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -143594,7 +143594,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "木香（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -143652,7 +143652,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南板蓝根（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -143709,7 +143709,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南沙参（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -143768,7 +143768,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南五味子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -143826,7 +143826,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "牛蒡根（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -143883,7 +143883,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "牛蒡子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -144111,7 +144111,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "硼砂（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -144171,7 +144171,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平贝母（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -144342,7 +144342,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "千金子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -144399,7 +144399,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "千金子霜（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -144457,7 +144457,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "千年健（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -144516,7 +144516,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "前胡（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -144631,7 +144631,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茜草（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -144688,7 +144688,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "羌活（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -144808,7 +144808,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "秦皮（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -144867,7 +144867,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青黛（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -144981,7 +144981,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青蒿（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -145041,7 +145041,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青木香（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -145098,7 +145098,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青皮（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -145155,7 +145155,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青叶胆（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -145218,7 +145218,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瞿麦（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -145333,7 +145333,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "人参（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -145390,7 +145390,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "人参叶（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -145447,7 +145447,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "肉苁蓉（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -145509,7 +145509,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "肉桂（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -145681,7 +145681,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三七（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -145739,7 +145739,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桑白皮（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -145853,7 +145853,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙棘（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -145911,7 +145911,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙苑蒺藜（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -145973,7 +145973,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "砂仁（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -146032,7 +146032,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山豆根（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -146088,7 +146088,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山麦冬（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -146201,7 +146201,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山楂（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -146258,7 +146258,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山茱萸（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -146318,7 +146318,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "商陆（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -146433,7 +146433,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "射干（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -146490,7 +146490,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "升麻（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -146606,7 +146606,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石菖蒲（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -146665,7 +146665,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石膏（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -146722,7 +146722,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石斛（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -146781,7 +146781,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石决明（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -146839,7 +146839,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石韦（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -146896,7 +146896,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "使君子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -146955,7 +146955,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "熟地黄（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -147011,7 +147011,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "松花粉（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -147127,7 +147127,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "娑罗子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -147186,7 +147186,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "锁阳（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -147361,7 +147361,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天冬（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -147420,7 +147420,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天花粉（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -147538,7 +147538,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天南星（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -147601,7 +147601,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天山雪莲（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -147721,7 +147721,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "通草（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -147779,7 +147779,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "土鳖虫（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -147894,7 +147894,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "土木香（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -148066,7 +148066,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "威灵仙（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -148241,7 +148241,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乌药（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -148300,7 +148300,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "吴茱萸（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -148360,7 +148360,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蜈蚣（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -148418,7 +148418,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五倍子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -148478,7 +148478,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五加皮（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -148535,7 +148535,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五灵脂（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -148592,7 +148592,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五味子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -148764,7 +148764,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西青果（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -148822,7 +148822,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "细辛（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -148881,7 +148881,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "夏枯草（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -148938,7 +148938,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "夏天无（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -149052,7 +149052,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仙茅（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -149168,7 +149168,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "香薷（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -149225,7 +149225,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "香橼（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -149284,7 +149284,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "小茴香（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -149342,7 +149342,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "小叶莲（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -149402,7 +149402,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "薤白（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -149459,7 +149459,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "辛夷（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -149517,7 +149517,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "雄黄（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -149574,7 +149574,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "徐长卿（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -149633,7 +149633,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "续断（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -149690,7 +149690,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玄参（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -149747,7 +149747,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旋覆花（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -149917,7 +149917,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "延胡索（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -149974,7 +149974,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芫花（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -150031,7 +150031,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "伊贝母（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -150089,7 +150089,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "益母草（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -150147,7 +150147,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "益智（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -150318,7 +150318,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茵陈（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -150378,7 +150378,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "淫羊藿（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -150446,7 +150446,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "银柴胡（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -150680,7 +150680,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柚果（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -150737,7 +150737,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鱼腥草（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -150853,7 +150853,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玉竹（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -150910,7 +150910,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "郁金（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -151028,7 +151028,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "远志（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -151087,7 +151087,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泽泻（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -151147,7 +151147,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "浙贝母（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -151204,7 +151204,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "珍珠（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -151262,7 +151262,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "珍珠母（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -151319,7 +151319,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "知母（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -151378,7 +151378,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "栀子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -151436,7 +151436,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "枳壳（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -151493,7 +151493,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "枳实（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -151553,7 +151553,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "制川乌（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -151612,7 +151612,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "制何首乌（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -151671,7 +151671,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "炙红芪（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -151730,7 +151730,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "炙黄芪（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -151790,7 +151790,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "重楼（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -151849,7 +151849,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "朱砂（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -151908,7 +151908,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "珠子参（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -152024,7 +152024,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "孜然（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -152082,7 +152082,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "紫草（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -152207,7 +152207,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇江香醋",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -152260,7 +152260,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山西老陈醋",
     "en": "",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -152313,7 +152313,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "德州扒鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -152366,7 +152366,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北京鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -152429,7 +152429,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "潜江龙虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -152490,7 +152490,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盱眙龙虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -152551,7 +152551,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "横县茉莉花",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -152604,7 +152604,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蒙自石榴",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -152665,7 +152665,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐池滩羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -152718,7 +152718,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴安盟小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -152779,7 +152779,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "肇州小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -152885,7 +152885,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白莲鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -152947,7 +152947,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "太仓白蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -153008,7 +153008,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "苍山大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -153069,7 +153069,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "杞县大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -153130,7 +153130,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莱芜生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -153243,7 +153243,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "雨花茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -153296,7 +153296,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "太平猴魁",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -153358,7 +153358,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "六安瓜片",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -153410,7 +153410,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "信阳毛尖",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -153577,7 +153577,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "普洱熟茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -153630,7 +153630,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "雅安藏茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -153682,7 +153682,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "米脂小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -153743,7 +153743,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汾阳核桃",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -153796,7 +153796,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临安山核桃",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -153857,7 +153857,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "攀枝花芒果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -153918,7 +153918,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "百色芒果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -153979,7 +153979,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "栖霞苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -154032,7 +154032,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昭通苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -154094,7 +154094,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "迁西板栗",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -154146,7 +154146,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "罗田板栗",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -154250,7 +154250,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荔浦芋",
     "en": "",
     "category": "薯类",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -154310,7 +154310,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "舟山带鱼",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -154416,7 +154416,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荣成海带",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -154469,7 +154469,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大连海参",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -154575,7 +154575,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴化大闸蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -154636,7 +154636,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平谷大桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -154689,7 +154689,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "慈溪杨梅",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -154752,7 +154752,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灵山荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -154813,7 +154813,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "砀山酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -154874,7 +154874,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "徐闻菠萝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -154935,7 +154935,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "雷州菠萝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -155041,7 +155041,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁夏硒砂瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -155094,7 +155094,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "和田大枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -155147,7 +155147,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "若羌红枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -155432,7 +155432,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文登西洋参",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -155493,7 +155493,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长白山人参",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -155652,7 +155652,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "霍山黄芽",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -155714,7 +155714,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莫干黄芽",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -155776,7 +155776,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泾阳茯茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -155888,7 +155888,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "无为板鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -155941,7 +155941,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "常德酱板鸭",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -155994,7 +155994,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湘西腊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -156047,7 +156047,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "余姚榨菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -156110,7 +156110,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "杭白菊",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -156171,7 +156171,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桐乡杭白菊",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -156277,7 +156277,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪湖莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -156338,7 +156338,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "章丘铁锅炖鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -156443,7 +156443,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "富平柿饼",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -156496,7 +156496,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临安青梅",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -156548,7 +156548,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "建瓯笋干",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -156715,7 +156715,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文山铁皮石斛",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -156776,7 +156776,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "亳州白芍",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -156959,7 +156959,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洞庭碧螺春",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -157012,7 +157012,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绍兴黄酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -157065,7 +157065,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁夏滩羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -157270,7 +157270,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐源苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -157318,7 +157318,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沾化冬枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -157374,7 +157374,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蒙阴蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -157430,7 +157430,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "奉化水蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -157488,7 +157488,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄岩蜜橘",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -157584,7 +157584,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "彭州大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -157679,7 +157679,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "渤海对虾",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -157727,7 +157727,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永春芦柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -157871,7 +157871,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "崂山绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -157919,7 +157919,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜红",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -169668,7 +169668,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "中江柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -170273,7 +170273,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "涿鹿紫皮大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -171886,7 +171886,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇龙山瓦灰鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -171943,7 +171943,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "紫菀（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -173017,7 +173017,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "紫苏子（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -174097,7 +174097,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "制天南星（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -174337,7 +174337,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿尔巴斯白绒山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -174386,7 +174386,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿尔山卜留克",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -174485,7 +174485,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿克塞哈萨克马",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -174534,7 +174534,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿拉善蒙古牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -174583,7 +174583,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿拉善蒙古羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -174632,7 +174632,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿拉善肉苁蓉",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -174682,7 +174682,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿拉善沙葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -174732,7 +174732,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿拉善锁阳",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -174782,7 +174782,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿力玛里树上干杏",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -174929,7 +174929,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿荣旗白鹅",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -174978,7 +174978,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿荣旗白瓜籽",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -175027,7 +175027,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿荣旗柞蚕",
     "en": "",
     "category": "其它畜牧产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -175126,7 +175126,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿旺绵羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -175275,7 +175275,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安次甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -175325,7 +175325,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安迪尔甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -175375,7 +175375,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安和香芋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -175474,7 +175474,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安集海辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -175524,7 +175524,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安龙白及",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -175623,7 +175623,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安龙黄牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -175672,7 +175672,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安龙莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -175722,7 +175722,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安顺金刺梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -175772,7 +175772,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安县魔芋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -175870,7 +175870,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鞍山君子兰",
     "en": "",
     "category": "花卉",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -175919,7 +175919,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "敖汉旗荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -175969,7 +175969,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "八步茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -176018,7 +176018,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "八步南乡鸭",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -176067,7 +176067,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "八步三华李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -176116,7 +176116,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "八宿荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -176166,7 +176166,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴尔楚克羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -176265,7 +176265,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴林牛肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -176315,7 +176315,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴林羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -176365,7 +176365,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴塘南区辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -176515,7 +176515,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴彦淖尔二狼山白绒山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -176614,7 +176614,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴彦淖尔河套肉苁蓉",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -176764,7 +176764,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白马湖大闸蟹",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -176814,7 +176814,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白马湖青虾",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -176863,7 +176863,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "白石山铁皮石斛",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -177061,7 +177061,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "百色番茄",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -177110,7 +177110,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "百色红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -177259,7 +177259,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "板贵花椒",
     "en": "",
     "category": "香料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -177309,7 +177309,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "板桥白黄瓜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -177359,7 +177359,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "褒河蜜橘",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -177408,7 +177408,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宝应核桃乌青菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -177458,7 +177458,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宝应荷藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -177557,7 +177557,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "保田生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -177607,7 +177607,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "保田薏仁",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -177656,7 +177656,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鲍家芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -177756,7 +177756,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北海象鼻螺",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -177805,7 +177805,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北京油鸡",
     "en": "",
     "category": "肉类产品、蛋类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -177854,7 +177854,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北梁蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -177953,7 +177953,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北流荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -178003,7 +178003,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北票番茄",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -178052,7 +178052,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北票红干椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -178199,7 +178199,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "北园大卧龙莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -178249,7 +178249,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "本溪软枣猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -178348,7 +178348,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "毕节椪柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -178397,7 +178397,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "毕克齐大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -178447,7 +178447,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "扁担沟苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -178546,7 +178546,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "彬州梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -178595,7 +178595,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "滨海白何首乌",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -178745,7 +178745,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "勃利梅花鹿",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -178844,7 +178844,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "博湖辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -178894,7 +178894,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "博乐红提",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -178992,7 +178992,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "曹范核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -179042,7 +179042,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "曹家梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -179091,7 +179091,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "草庙子国光苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -179190,7 +179190,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "策勒红枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -179240,7 +179240,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "策勒石榴",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -179290,7 +179290,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "策勒小茴香",
     "en": "",
     "category": "香料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -179439,7 +179439,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茶坡芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -179589,7 +179589,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "察雅苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -179837,7 +179837,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "察隅猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -179887,7 +179887,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柴达木双峰骆驼",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -180086,7 +180086,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昌邑大姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -180234,7 +180234,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "常山胡柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -180284,7 +180284,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "常山山茶油",
     "en": "",
     "category": "油料类",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -180334,7 +180334,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "朝那乌鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -180383,7 +180383,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "朝阳大枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -180433,7 +180433,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "朝阳小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -180581,7 +180581,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "成安草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -180631,7 +180631,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "呈贡宝珠梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -180680,7 +180680,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "城口山地鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -180729,7 +180729,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "澂江藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -180778,7 +180778,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赤峰绿豆",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -180828,7 +180828,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赤峰荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -180878,7 +180878,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赤峰小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -180928,7 +180928,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赤水金钗石斛",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -180978,7 +180978,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "崇信苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -181028,7 +181028,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "崇信芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -181078,7 +181078,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "磁州白莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -181226,7 +181226,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "措勤紫绒山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -181424,7 +181424,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "达茂草原牛肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -181474,7 +181474,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "达茂草原羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -181524,7 +181524,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "达因苏牛肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -181574,7 +181574,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大方皱椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -181721,7 +181721,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大黄埠樱桃西红柿",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -181920,7 +181920,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大连大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -182019,7 +182019,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大连苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -182069,7 +182069,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大连油桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -182218,7 +182218,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大苗山红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -182318,7 +182318,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大塔荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -182368,7 +182368,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大洼肉鸭",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -182417,7 +182417,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大武口小公鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -182466,7 +182466,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大新苦丁茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -182515,7 +182515,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大新腊月柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -182564,7 +182564,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大新龙眼",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -182614,7 +182614,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大新酸梅",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -182663,7 +182663,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大邑黄连",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -182713,7 +182713,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大英白柠檬",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -182762,7 +182762,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "代县黄芪",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -182812,7 +182812,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黛青山软籽石榴",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -183010,7 +183010,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "得荣树椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -183059,7 +183059,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "德保矮马",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -183157,7 +183157,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "德昌草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -183207,7 +183207,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "德化十八学士茶花",
     "en": "",
     "category": "花卉",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -183305,7 +183305,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "德兴红花茶油",
     "en": "",
     "category": "油料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -183454,7 +183454,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "底圩茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -183503,7 +183503,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丁北西芹",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -183553,7 +183553,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丁嘴金菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -183700,7 +183700,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东兰板栗",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -183847,7 +183847,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东兰乌鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -183945,7 +183945,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "东乡白花蛇舌草",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -184095,7 +184095,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "董浜筒管玉丝瓜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -184145,7 +184145,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洞口雪峰蜜桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -184195,7 +184195,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "都安旱藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -184244,7 +184244,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "都安山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -184293,7 +184293,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "都峤山铁皮石斛",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -184343,7 +184343,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "都里大红袍花椒",
     "en": "",
     "category": "香料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -184393,7 +184393,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "杜尔伯特小蒿子防风",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -184443,7 +184443,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "额济纳蜜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -184492,7 +184492,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鄂尔多斯红葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -184641,7 +184641,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鄂尔多斯细毛羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -184690,7 +184690,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鄂伦春北五味子",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -184840,7 +184840,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鄂托克阿尔巴斯山羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -184890,7 +184890,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鄂托克螺旋藻",
     "en": "",
     "category": "水产初级加工品",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -184939,7 +184939,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "二二三团苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -184989,7 +184989,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "梵净山茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -185038,7 +185038,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芳林马蹄",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -185186,7 +185186,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "肥乡圆葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -185333,7 +185333,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "风水梁獭兔",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -185432,7 +185432,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凤冈红心柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -185481,7 +185481,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凤山核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -185580,7 +185580,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "奉化曲毫",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -185629,7 +185629,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "伏龙山七叶一枝花",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -185678,7 +185678,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "浮桥萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -185727,7 +185727,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "福泉梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -185776,7 +185776,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "福山大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -186024,7 +186024,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阜城杏梅",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -186073,7 +186073,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阜康打瓜籽",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -186122,7 +186122,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阜康蟠桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -186171,7 +186171,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阜平大枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -186221,7 +186221,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "富川脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -186270,7 +186270,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "富民茭瓜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -186319,7 +186319,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "富民杨梅",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -186418,7 +186418,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "甘德牦牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -186517,7 +186517,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "甘南小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -186567,7 +186567,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "刚察藏羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -186616,7 +186616,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "刚察牦牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -186665,7 +186665,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "岗巴羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -186814,7 +186814,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "高碑店黄桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -186863,7 +186863,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "高密毛家屋子小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -186913,7 +186913,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "高密夏庄\n大金钩韭菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -186963,7 +186963,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "高邮鸭蛋",
     "en": "",
     "category": "蛋类产品",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -187013,7 +187013,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "葛家鸡肠子辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -187063,7 +187063,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "根河卜留克",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -187359,7 +187359,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "恭城月柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -187408,7 +187408,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "恭城竹鼠",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -187458,7 +187458,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巩留核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -187508,7 +187508,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巩留苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -187558,7 +187558,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巩留树上干杏",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -187656,7 +187656,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "贡井龙都早香柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -187705,7 +187705,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芶江脆红李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -187804,7 +187804,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "古林蔺草",
     "en": "",
     "category": "其它植物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -187853,7 +187853,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "古琶茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -187902,7 +187902,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "固阳黄芪",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -188001,7 +188001,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "固阳荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -188051,7 +188051,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "固阳羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -188101,7 +188101,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "固原葵花",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -188200,7 +188200,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "冠豸山铁皮石斛",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -188250,7 +188250,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灌阳雪梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -188299,7 +188299,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "广丰马家柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -188398,7 +188398,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "广水胭脂红鲜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -188447,7 +188447,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "广西六堡茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -188497,7 +188497,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "圭山山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -188546,7 +188546,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "贵定盘江酥李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -188595,7 +188595,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "贵定云雾贡茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -188644,7 +188644,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "贵州绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -188694,7 +188694,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桂林桂花茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -188744,7 +188744,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桂林罗汉果",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -188844,7 +188844,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桂林沙糖桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -188942,7 +188942,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桂平西山茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -189040,7 +189040,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "果洛大黄",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -189090,7 +189090,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "果洛蕨麻",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -189140,7 +189140,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "哈尔腾哈萨克羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -189189,7 +189189,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "哈拉海珠葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -189238,7 +189238,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "哈密羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -189388,7 +189388,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海岱蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -189487,7 +189487,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海龙贡米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -189637,7 +189637,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海门山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -189686,7 +189686,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海晏羔羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -189736,7 +189736,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海晏牦牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -189834,7 +189834,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海原硒砂瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -189883,7 +189883,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "海原小茴香",
     "en": "",
     "category": "香料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -189933,7 +189933,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "杭锦后旗甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -189983,7 +189983,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "杭锦旗塔拉沟山羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -190083,7 +190083,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "合浦鹅",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -190132,7 +190132,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "合浦文蛤",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -190181,7 +190181,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "和睦屯西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -190231,7 +190231,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "和田阿克恰勒甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -190281,7 +190281,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "和田一牧场雪菊",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -190330,7 +190330,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "和田一牧场羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -190478,7 +190478,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "河南县雪多牦牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -190527,7 +190527,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "河套巴美肉羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -190576,7 +190576,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "河套番茄",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -190675,7 +190675,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "河套蜜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -190724,7 +190724,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "河套西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -190774,7 +190774,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "河套向日葵",
     "en": "",
     "category": "花卉",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -190922,7 +190922,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "贺兰螺丝菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -190971,7 +190971,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赫章黑马羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -191020,7 +191020,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赫章樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -191070,7 +191070,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黑河马",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -191168,7 +191168,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黑柳子白梨脆甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -191367,7 +191367,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "横山大明绿豆",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -191467,7 +191467,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "衡山红脆桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -191516,7 +191516,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪江雪峰乌骨鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -191565,7 +191565,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪井三皇小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -191615,7 +191615,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪山鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -191664,7 +191664,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪泽湖大闸蟹",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -191714,7 +191714,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪泽湖河蚬",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -191763,7 +191763,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洪泽湖青虾",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -192060,7 +192060,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "呼伦湖秀丽白虾",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -192109,7 +192109,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "呼图壁奶牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -192158,7 +192158,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "壶天石羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -192207,7 +192207,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "虎平岛海参",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -192257,7 +192257,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "互助大黄",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -192307,7 +192307,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "互助黄芪",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -192357,7 +192357,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "互助青海白牦牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -192406,7 +192406,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "护国柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -192455,7 +192455,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "花溪辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -192555,7 +192555,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "华家甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -192605,7 +192605,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "华宁柑桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -192654,7 +192654,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "华宁柿子",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -192753,7 +192753,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "华容潘家大辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -192902,7 +192902,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "淮安黄瓜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -193002,7 +193002,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "环江红心香柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -193051,7 +193051,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "环江青梅",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -193198,7 +193198,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "环县滩羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -193247,7 +193247,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄果树黄果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -193296,7 +193296,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄骅梭子蟹",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -193346,7 +193346,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄粱梦小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -193396,7 +193396,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄陂脉地湾萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -193445,7 +193445,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄平白及",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -193544,7 +193544,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄平黄牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -193593,7 +193593,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄平金黄鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -193642,7 +193642,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄平线椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -193691,7 +193691,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄渠桥羊羔肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -193740,7 +193740,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄杨小米辣",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -193839,7 +193839,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灰埠大枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -193889,7 +193889,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "辉渠望海山小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -193939,7 +193939,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "回龙茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -193988,7 +193988,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "会东黑山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -194086,7 +194086,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "惠水金钱桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -194235,7 +194235,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "霍城树上干杏",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -194284,7 +194284,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "霍城薰衣草",
     "en": "",
     "category": "香料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -194333,7 +194333,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "霍城樱桃李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -194383,7 +194383,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鸡黍红花斑山药",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -194433,7 +194433,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鸡泽辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -194633,7 +194633,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "吉木萨尔白皮大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -194683,7 +194683,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "吉木萨尔鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -194881,7 +194881,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "集安五味子",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -194980,7 +194980,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "加查核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -195030,7 +195030,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "加什科羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -195080,7 +195080,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "伽师瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -195178,7 +195178,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "嘉祥济宁青山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -195425,7 +195425,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "嘉峪关野麻湾西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -195475,7 +195475,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "贾汪大洞山石榴",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -195525,7 +195525,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尖山金银花",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -195575,7 +195575,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "犍为麻柳姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -195624,7 +195624,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "建昌红香芋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -195674,7 +195674,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "建昌鸭",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -195723,7 +195723,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "建宁通心白莲",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -195870,7 +195870,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "江安大白李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -195919,7 +195919,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "江安夏橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -195968,7 +195968,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "江华苦茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -196017,7 +196017,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "江陵三湖黄桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -196067,7 +196067,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "江山绿牡丹茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -196166,7 +196166,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "姜湖贡米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -196215,7 +196215,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "胶北西红柿",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -196264,7 +196264,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "胶州湾蛤蜊",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -196314,7 +196314,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金沙贡茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -196363,7 +196363,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金沙黑山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -196461,7 +196461,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金秀红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -196757,7 +196757,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "锦州毛虾",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -196906,7 +196906,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泾源黄牛肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -196956,7 +196956,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旌德天山真香茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -197055,7 +197055,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "景宁惠明茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -197104,7 +197104,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "靖西大果山楂",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -197154,7 +197154,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "靖西大麻鸭",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -197350,7 +197350,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "九龙牦牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -197448,7 +197448,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巨淀湖鸭蛋",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -197498,7 +197498,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "喀拉布拉苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -197548,7 +197548,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "喀拉布拉桃子",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -197598,7 +197598,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "喀喇沁番茄",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -197647,7 +197647,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "喀喇沁苹果梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -197697,7 +197697,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "喀喇沁青椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -197797,7 +197797,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "喀纳斯蜜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -197846,7 +197846,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "开封菊花",
     "en": "",
     "category": "花卉",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -197896,7 +197896,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "开封西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -197996,7 +197996,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "开化龙顶茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -198045,7 +198045,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "开来红辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -198095,7 +198095,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "开鲁红干椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -198144,7 +198144,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "开山白毛茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -198242,7 +198242,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凯里生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -198342,7 +198342,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凯里香葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -198391,7 +198391,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "康定红皮萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -198440,7 +198440,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "康定芫根",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -198489,7 +198489,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柯坪恰玛古",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -198538,7 +198538,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "科尔沁牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -198638,7 +198638,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "克里阳雪菊",
     "en": "",
     "category": "花卉",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -198687,7 +198687,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "克旗黄芪",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -198884,7 +198884,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "库车小白杏",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -198933,7 +198933,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "库伦荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -199033,7 +199033,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昆嵛山板栗",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -199082,7 +199082,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "拉萨白鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -199230,7 +199230,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莱阳五龙鹅",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -199279,7 +199279,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莱阳五龙河河蚬",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -199427,7 +199427,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兰岗西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -199577,7 +199577,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兰考蜜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -199626,7 +199626,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兰西香瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -199676,7 +199676,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蓝田大杏",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -199774,7 +199774,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "朗县核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -199824,7 +199824,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "朗县辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -199874,7 +199874,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "老堡子鲜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -199923,7 +199923,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "老龙河西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -200022,7 +200022,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "涝河桥牛肉（清真）",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -200072,7 +200072,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "涝河桥羊肉（清真）",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -200122,7 +200122,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乐道子鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -200222,7 +200222,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乐都柴皮大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -200321,7 +200321,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "类乌齐牦牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -200370,7 +200370,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黎城核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -200420,7 +200420,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "李岗西甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -200470,7 +200470,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "里口山蟠桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -200569,7 +200569,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荔波瑶山鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -200618,7 +200618,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荔浦马蹄",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -200667,7 +200667,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荔浦砂糖桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -200766,7 +200766,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凉城123苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -200816,7 +200816,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凉山半细毛羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -200865,7 +200865,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凉山苦荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -200915,7 +200915,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凉山雷波脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -201013,7 +201013,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凉山清甜香烤烟",
     "en": "",
     "category": "烟草",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -201062,7 +201062,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凉山桑蚕茧",
     "en": "",
     "category": "棉麻蚕桑",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -201111,7 +201111,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "辽宁辽育白牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -201160,7 +201160,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "辽宁绒山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -201209,7 +201209,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "辽西驴",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -201258,7 +201258,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "邻水脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -201307,7 +201307,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "林东毛毛谷小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -201357,7 +201357,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "林芝苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -201407,7 +201407,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临海蜜桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -201456,7 +201456,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临晋江石榴",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -201506,7 +201506,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临朐丹参",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -201556,7 +201556,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临朐三山峪大山楂",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -201606,7 +201606,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "临沭地瓜",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -201804,7 +201804,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灵宝苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -201854,7 +201854,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灵丘大青背山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -201903,7 +201903,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灵山岛海参",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -201953,7 +201953,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灵山绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -202003,7 +202003,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灵山奶水牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -202052,7 +202052,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "灵山香鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -202150,7 +202150,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凌源百合",
     "en": "",
     "category": "花卉",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -202200,7 +202200,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凌云牛心李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -202249,7 +202249,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "凌云乌鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -202347,7 +202347,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柳城蜜桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -202396,7 +202396,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柳沟小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -202446,7 +202446,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柳江莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -202496,7 +202496,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柳树泉大枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -202546,7 +202546,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柳州螺蛳",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -202645,7 +202645,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "六盘山黄芪",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -202745,7 +202745,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "六盘水乌蒙凤鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -202844,7 +202844,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "六枝毛坡大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -202894,7 +202894,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "六枝月亮河鸭蛋",
     "en": "",
     "category": "蛋类产品",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -202944,7 +202944,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙池香尖",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -202993,7 +202993,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙宫桃子",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -203043,7 +203043,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙脊茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -203092,7 +203092,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙脊辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -203142,7 +203142,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙里刺梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -203242,7 +203242,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙陵紫皮石斛",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -203292,7 +203292,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙门三黄胡须鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -203341,7 +203341,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙胜翠鸭",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -203390,7 +203390,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙胜凤鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -203488,7 +203488,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙滩珍珠李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -203538,7 +203538,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "龙岩烤烟",
     "en": "",
     "category": "烟草",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -203636,7 +203636,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "隆林黄牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -203685,7 +203685,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "隆林山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -203783,7 +203783,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "隆尧大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -203833,7 +203833,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "隆尧泽畔藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -203932,7 +203932,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "陇州核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -203982,7 +203982,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "卢氏连翘",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -204032,7 +204032,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泸定红樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -204082,7 +204082,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泸宁鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -204131,7 +204131,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "陆川橘红",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -204230,7 +204230,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鹿邑蒲公英",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -204280,7 +204280,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鹿邑芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -204429,7 +204429,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旅顺赤贝",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -204478,7 +204478,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旅顺海带",
     "en": "",
     "category": "水生植物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -204528,7 +204528,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旅顺海虾米",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -204578,7 +204578,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旅顺脉红螺",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -204627,7 +204627,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "旅顺洋梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -204726,7 +204726,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "罗甸脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -204824,7 +204824,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "螺髻山乌骨鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -204873,7 +204873,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洛南核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -204923,7 +204923,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洛阳丹参",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -204973,7 +204973,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "漯河麻鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -205022,7 +205022,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麻垌荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -205072,7 +205072,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马边绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -205122,7 +205122,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马关草果",
     "en": "",
     "category": "香料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -205172,7 +205172,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马家湖西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -205222,7 +205222,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "马踏湖白莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -205272,7 +205272,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玛多藏羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -205321,7 +205321,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玛纳斯萨福克羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -205419,7 +205419,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麦积核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -205469,7 +205469,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麦积花椒",
     "en": "",
     "category": "香料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -205667,7 +205667,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茅坪香桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -205716,7 +205716,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茅山后佛见喜梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -205765,7 +205765,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "梅江区清凉山茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -205864,7 +205864,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湄潭翠芽",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -205913,7 +205913,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湄潭红肉蜜柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -205962,7 +205962,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "美姑山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -206011,7 +206011,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "美姑岩鹰鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -206060,7 +206060,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "门隅佛芽·玉罗冈吉",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -206209,7 +206209,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蒙城篱笆黄花梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -206258,7 +206258,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蒙山黑山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -206407,7 +206407,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "冕宁火腿",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -206457,7 +206457,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "民丰大枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -206507,7 +206507,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "民和羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -206607,7 +206607,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "岷县黑裘皮羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -206656,7 +206656,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "岷县蕨麻猪",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -206706,7 +206706,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "明安黄芪",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -206756,7 +206756,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "明水白莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -206905,7 +206905,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莫力达瓦菇娘",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -206954,7 +206954,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莫力达瓦黄烟",
     "en": "",
     "category": "烟草",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -207003,7 +207003,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莫力达瓦苏子",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -207052,7 +207052,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "漠西大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -207102,7 +207102,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "牡丹江金红苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -207152,7 +207152,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "牡丹江龙丰苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -207252,7 +207252,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "木格白玉蔗",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -207351,7 +207351,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "木垒羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -207451,7 +207451,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "木垒长眉驼",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -207500,7 +207500,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "木里皱皮柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -207549,7 +207549,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "木梓阿婆茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -207747,7 +207747,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "穆棱肉牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -207796,7 +207796,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "穆棱晒烟",
     "en": "",
     "category": "烟草",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -207994,7 +207994,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南川金佛玉翠茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -208141,7 +208141,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南丹黄腊李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -208190,7 +208190,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南丹黄牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -208239,7 +208239,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南丹六龙茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -208337,7 +208337,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南丹瑶鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -208386,7 +208386,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南丹长角辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -208436,7 +208436,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南丰蜜橘",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -208534,7 +208534,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南湖哈密瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -208584,7 +208584,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南涧无量山乌骨鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -208683,7 +208683,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南京雨花茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -208782,7 +208782,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南宁火龙果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -208832,7 +208832,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南宁香蕉",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -208882,7 +208882,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南长滩大枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -208932,7 +208932,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南长滩软梨子",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -208981,7 +208981,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南召一化性柞蚕",
     "en": "",
     "category": "棉麻蚕桑",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -209030,7 +209030,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "淖毛湖哈密瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -209080,7 +209080,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尼雅黑鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -209129,7 +209129,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尼雅昆仑雪菊",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -209178,7 +209178,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尼雅羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -209228,7 +209228,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "娘亚牦牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -209326,7 +209326,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁安西红柿",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -209425,7 +209425,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁陵金顶谢花酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -209623,7 +209623,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "牛场辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -209673,7 +209673,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "牛家营子北沙参",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -209773,7 +209773,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "帕里牦牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -209822,7 +209822,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盘锦碱地柿子",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -209872,7 +209872,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盘县核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -209922,7 +209922,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盘州小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -209972,7 +209972,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庞各庄金把黄鸭梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -210021,7 +210021,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "炮台甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -210071,7 +210071,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沛县狗肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -210120,7 +210120,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沛县黄皮牛蒡",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -210170,7 +210170,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "彭阳辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -210220,7 +210220,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "彭阳杏子",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -210269,7 +210269,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "彭州川芎",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -210369,7 +210369,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "皮亚勒玛甜石榴",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -210469,7 +210469,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平坝灰鹅",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -210567,7 +210567,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平和琯溪蜜柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -210617,7 +210617,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平乐慈姑",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -210667,7 +210667,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平乐石崖茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -210765,7 +210765,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平南石硖龙眼",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -210815,7 +210815,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平南余甘果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -210864,7 +210864,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平乡桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -210913,7 +210913,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平阳黄汤茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -210962,7 +210962,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "平阴玫瑰红苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -211061,7 +211061,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "屏山炒青",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -211208,7 +211208,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莆田花蛤",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -211257,7 +211257,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蒲江杂柑",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -211306,7 +211306,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "浦北妃子笑荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -211405,7 +211405,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "浦北黄皮",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -211454,7 +211454,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "普安红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -211504,7 +211504,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "普安盘江乌鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -211553,7 +211553,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "普洱咖啡",
     "en": "",
     "category": "热带作物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -211651,7 +211651,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "普兰店黄蚬",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -211700,7 +211700,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "七百弄鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -211749,7 +211749,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "七百弄山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -211798,7 +211798,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "祁家芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -211848,7 +211848,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "祁连藏羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -211946,7 +211946,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "祁连牦牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -211995,7 +211995,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "祁连清泉羊羔肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -212044,7 +212044,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "齐河西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -212193,7 +212193,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "奇台四平头辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -212243,7 +212243,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "祈紫菀",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -212293,7 +212293,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蕲春芹菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -212393,7 +212393,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乾县泔河酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -212442,7 +212442,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乾县香菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -212541,7 +212541,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黔北麻羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -212590,7 +212590,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黔东南小香鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -212689,7 +212689,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "钦北荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -212837,7 +212837,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "钦州海鸭蛋",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -212887,7 +212887,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "钦州黄瓜皮",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -212937,7 +212937,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "钦州辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -213037,7 +213037,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "钦州青蟹",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -213236,7 +213236,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沁州黄小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -213286,7 +213286,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青河阿魏菇",
     "en": "",
     "category": "食用菌",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -213336,7 +213336,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青铜峡番茄",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -213385,7 +213385,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青铜峡辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -213435,7 +213435,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青铜峡西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -213485,7 +213485,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "清河山楂",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -213584,7 +213584,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "清镇酥李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -213633,7 +213633,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "晴隆糯薏仁",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -213682,7 +213682,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "晴隆脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -213731,7 +213731,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "晴隆羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -213830,7 +213830,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庆阳驴",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -213879,7 +213879,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庆阳苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -213929,7 +213929,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庆阳荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -213979,7 +213979,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庆元甜桔柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -214028,7 +214028,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "曲周小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -214127,7 +214127,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "全州文桥鸭",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -214176,7 +214176,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "确山夏枯草",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -214226,7 +214226,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仁怀功夫红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -214326,7 +214326,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "任县高脚白大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -214376,7 +214376,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "日土白绒山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -214475,7 +214475,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荣成草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -214525,7 +214525,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荣成大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -214624,7 +214624,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荣成海参",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -214773,7 +214773,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荣成绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -214823,7 +214823,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荣成蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -214872,7 +214872,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荣成牡蛎",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -214922,7 +214922,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荣成苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -214972,7 +214972,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荣成裙带菜",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -215022,7 +215022,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荣成砂梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -215071,7 +215071,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荣成水貂",
     "en": "",
     "category": "其它畜牧产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -215170,7 +215170,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荣成西洋参",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -215220,7 +215220,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "融安金桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -215417,7 +215417,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "如东狼山鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -215466,7 +215466,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "若尔盖藏绵羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -215564,7 +215564,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "若尔盖牦牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -215613,7 +215613,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三道桥西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -215663,7 +215663,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三河马",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -215712,7 +215712,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三河牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -215761,7 +215761,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三皇西红柿",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -215860,7 +215860,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三江镇萝卜腌菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -215909,7 +215909,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三明翠碧一号烤烟",
     "en": "",
     "category": "烟草",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -215958,7 +215958,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三塘湖哈密瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -216008,7 +216008,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "三乡大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -216058,7 +216058,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桑墟榆叶梅",
     "en": "",
     "category": "花卉",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -216206,7 +216206,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙坡头苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -216256,7 +216256,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙塘韭黄",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -216306,7 +216306,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙雅罗布麻茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -216405,7 +216405,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莎车巴旦姆",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -216454,7 +216454,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莎车甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -216504,7 +216504,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山阳大梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -216553,7 +216553,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山阳九眼莲",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -216602,7 +216602,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "商都西芹",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -216800,7 +216800,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "上高紫皮大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -216850,7 +216850,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "上观水蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -216998,7 +216998,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "上虞觉农翠茗茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -217047,7 +217047,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "邵店板栗",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -217096,7 +217096,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "涉县柴胡",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -217146,7 +217146,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "深州黄韭",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -217195,7 +217195,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "生米藠头",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -217244,7 +217244,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "胜芳蟹",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -217293,7 +217293,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石曹上萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -217342,7 +217342,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石河子肉苁蓉",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -217442,7 +217442,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石河子一四三团蟠桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -217491,7 +217491,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石林人参果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -217541,7 +217541,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石林甜柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -217590,7 +217590,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石棉老鹰茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -217639,7 +217639,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石阡土鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -217688,7 +217688,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石阡香柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -217737,7 +217737,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石墙薄皮核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -217836,7 +217836,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石渠藏系绵羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -217885,7 +217885,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石渠人参果",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -217985,7 +217985,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石梯子洋葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -218035,7 +218035,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "寿光独根红韭菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -218135,7 +218135,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "寿光羊角黄辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -218185,7 +218185,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "疏附开心果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -218235,7 +218235,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "疏附木亚格杏",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -218284,7 +218284,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "双堠西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -218334,7 +218334,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "双堠樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -218384,7 +218384,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "水城核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -218434,7 +218434,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "水城猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -218484,7 +218484,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "思南黄牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -218533,7 +218533,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "斯布牦牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -218582,7 +218582,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "四川泡菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -218631,7 +218631,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "四子王旗杜蒙羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -218681,7 +218681,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "四子王旗戈壁羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -218829,7 +218829,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泗家水红头香椿",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -218879,7 +218879,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泗流山薏苡仁",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -218929,7 +218929,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "苏呼欧拉羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -218978,7 +218978,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "苏尼特羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -219028,7 +219028,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "肃南甘肃高山细毛羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -219127,7 +219127,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绥阳子弹头辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -219177,7 +219177,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "绥中核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -219227,7 +219227,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "随州泡泡青",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -219276,7 +219276,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "遂川狗牯脑茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -219326,7 +219326,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "孙祖小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -219376,7 +219376,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "索多西辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -219426,7 +219426,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "塔里木垦区马鹿花盘",
     "en": "",
     "category": "其它畜牧产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -219475,7 +219475,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "塔里木垦区马鹿胶",
     "en": "",
     "category": "其它畜牧产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -219524,7 +219524,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "塔里木垦区马鹿茸",
     "en": "",
     "category": "其它畜牧产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -219574,7 +219574,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "太青双上绿芽茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -219623,7 +219623,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泰顺三杯香茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -219673,7 +219673,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "覃塘莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -219723,7 +219723,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "覃塘毛尖茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -219871,7 +219871,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "唐山河鲀",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -219920,7 +219920,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "塘栖枇杷",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -219970,7 +219970,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洮南辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -220020,7 +220020,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "特克斯苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -220119,7 +220119,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "腾冲红花油茶油",
     "en": "",
     "category": "油料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -220169,7 +220169,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "藤县江口荔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -220218,7 +220218,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天宝山黄梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -220267,7 +220267,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天峨大果山楂",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -220317,7 +220317,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天峨核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -220367,7 +220367,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天峨六画山鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -220416,7 +220416,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天府龙芽",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -220465,7 +220465,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天目笋干",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -220514,7 +220514,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天山明绿豆",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -220564,7 +220564,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天仙硐枇杷",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -220663,7 +220663,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天柱烤烟",
     "en": "",
     "category": "烟草",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -220712,7 +220712,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天柱骡鸭",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -220811,7 +220811,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "铁力木小茴香",
     "en": "",
     "category": "香料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -220861,7 +220861,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "铁岭榛子",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -220911,7 +220911,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "通道黑老虎",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -221010,7 +221010,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "通山乌骨山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -221059,7 +221059,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "通贤柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -221158,7 +221158,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "通州大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -221208,7 +221208,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "同川酥梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -221257,7 +221257,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "同康竹笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -221356,7 +221356,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "同仁黄果梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -221405,7 +221405,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "同仁蕨麻",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -221604,7 +221604,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "同心滩羊肉（清真）",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -221654,7 +221654,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "同心银柴胡",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -221704,7 +221704,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桐庐雪水云绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -221754,7 +221754,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桐梓黄牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -221803,7 +221803,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桐梓魔芋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -222052,7 +222052,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "土默特羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -222152,7 +222152,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "托古小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -222202,7 +222202,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "托克逊红枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -222252,7 +222252,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "托克逊杏",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -222301,7 +222301,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓦房店红富士苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -222351,7 +222351,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓦房店黄元帅苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -222401,7 +222401,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓦房店闫店地瓜",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -222450,7 +222450,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓦屋香椿芽",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -222500,7 +222500,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瓦西黑皮冬瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -222550,7 +222550,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湾子辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -222700,7 +222700,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "王家辿红油香椿",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -222750,7 +222750,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "望谟芒果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -222850,7 +222850,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "威海蚬蛤",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -222948,7 +222948,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "威宁黄梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -222997,7 +222997,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "威宁苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -223047,7 +223047,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "威县梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -223146,7 +223146,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "涠洲岛香蕉",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -223196,7 +223196,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "涠洲黄牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -223245,7 +223245,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "潍坊烤烟",
     "en": "",
     "category": "烟草",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -223294,7 +223294,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "伟德山板栗",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -223343,7 +223343,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尉犁罗布麻茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -223392,7 +223392,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尉犁罗布羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -223442,7 +223442,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尉犁甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -223492,7 +223492,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尉犁西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -223542,7 +223542,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尉氏桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -223641,7 +223641,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "温岭高橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -223790,7 +223790,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文成杨梅",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -223840,7 +223840,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文登布蛤",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -223939,7 +223939,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文登大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -223989,7 +223989,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文登面蛤",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -224038,7 +224038,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文登奶山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -224087,7 +224087,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文登砂梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -224136,7 +224136,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文登水貂",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -224235,7 +224235,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文宫枇杷",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -224285,7 +224285,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文山他披梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -224334,7 +224334,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "文祖花椒",
     "en": "",
     "category": "香料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -224384,7 +224384,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汶川甜樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -224434,7 +224434,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乌尔禾垦区白兰瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -224533,7 +224533,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乌拉特后旗戈壁红驼",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -224631,7 +224631,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乌兰察布莜麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -224731,7 +224731,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乌审草原红牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -224780,7 +224780,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乌审马",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -224878,7 +224878,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乌珠穆沁羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -225077,7 +225077,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "梧州砂糖桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -225376,7 +225376,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五家户小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -225426,7 +225426,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五原灯笼红香瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -225476,7 +225476,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "五原黄柿子",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -225626,7 +225626,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武川莜麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -225824,7 +225824,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武鸣砂糖桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -225873,7 +225873,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武宣牛心柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -225922,7 +225922,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武宣胭脂李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -226021,7 +226021,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "务川白山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -226120,7 +226120,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西昌钢鹅",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -226268,7 +226268,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西昌洋葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -226318,7 +226318,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西畴阳荷",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -226367,7 +226367,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西和八盘梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -226465,7 +226465,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西吉西芹",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -226515,7 +226515,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西林麻鸭",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -226564,7 +226564,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西林水牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -226711,7 +226711,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西下营板栗",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -226809,7 +226809,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "溪柳紫皮蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -226858,7 +226858,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "锡林郭勒奶酪",
     "en": "",
     "category": "奶制品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -226907,7 +226907,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "习水仙人掌",
     "en": "",
     "category": "其它植物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -227006,7 +227006,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "下野地西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -227056,7 +227056,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "夏家店小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -227106,7 +227106,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "夏庄杠六九西红柿",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -227155,7 +227155,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仙居鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -227204,7 +227204,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "香城长红枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -227254,7 +227254,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "香格里拉牦牛肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -227304,7 +227304,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "香山鸡嘴荔枝",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -227354,7 +227354,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湘潭湘莲",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -227404,7 +227404,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "象山红柑桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -227453,7 +227453,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "象雄半细毛羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -227551,7 +227551,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "象州沙糖桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -227700,7 +227700,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "小梁山西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -227799,7 +227799,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "孝河藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -227848,7 +227848,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "孝义核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -227898,7 +227898,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "孝义湾柿饼",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -227997,7 +227997,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新华韭菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -228047,7 +228047,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新疆兵团八十四团色素菊花",
     "en": "",
     "category": "花卉",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -228097,7 +228097,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新疆兵团二十九团香梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -228146,7 +228146,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新疆兵团二十七团啤酒花",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -228196,7 +228196,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新疆兵团六团苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -228296,7 +228296,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新疆兵团三十一团罗布麻",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -228345,7 +228345,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新疆兵团三团核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -228395,7 +228395,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新疆兵团四十八团红枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -228445,7 +228445,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新疆兵团五团苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -228495,7 +228495,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新疆兵团一八四团苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -228545,7 +228545,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新疆兵团一七O团沙棘",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -228595,7 +228595,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新津韭黄",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -228744,7 +228744,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新郑莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -228794,7 +228794,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新庄黄瓜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -228893,7 +228893,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "信都三黄鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -228992,7 +228992,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荥经竹笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -229042,7 +229042,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴安盟牛肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -229092,7 +229092,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴安盟羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -229142,7 +229142,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴安蜜桔",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -229341,7 +229341,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴海牦牛肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -229391,7 +229391,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴平大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -229490,7 +229490,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴仁猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -229540,7 +229540,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴仁薏仁米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -229589,7 +229589,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴业茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -229638,7 +229638,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴义矮脚鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -229687,7 +229687,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴义芭蕉芋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -229886,7 +229886,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴义黑山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -229935,7 +229935,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴义红皮大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -229985,7 +229985,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴义黄草坝石斛",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -230035,7 +230035,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴义山银花",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -230085,7 +230085,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "兴义生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -230135,7 +230135,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "修文猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -230185,7 +230185,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "秀洲槜李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -230234,7 +230234,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "岫岩软枣猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -230284,7 +230284,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "徐庄板栗",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -230333,7 +230333,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "学孔黄花",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -230729,7 +230729,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沿河白山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -230778,7 +230778,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐池二毛皮",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -231125,7 +231125,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐池荞麦",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -231175,7 +231175,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐池滩鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -231275,7 +231275,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐池滩羊肉",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -231325,7 +231325,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐池甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -231375,7 +231375,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐池西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -231425,7 +231425,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "盐源辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -231475,7 +231475,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阎良甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -231574,7 +231574,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "偃师银条",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -231623,7 +231623,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "雁荡毛峰",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -231672,7 +231672,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "雁荡山铁皮石斛",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -231772,7 +231772,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "洋北西瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -231872,7 +231872,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仰韶大杏",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -231921,7 +231921,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "幺铺莲藕",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -231971,7 +231971,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "瑶山雪梨",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -232020,7 +232020,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "一〇三团甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -232119,7 +232119,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "伊春红松籽",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -232316,7 +232316,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黟县石墨茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -232365,7 +232365,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仪陇胭脂萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -232414,7 +232414,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仪征绿杨春茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -232463,7 +232463,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沂蒙绿茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -232513,7 +232513,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沂蒙长毛兔",
     "en": "",
     "category": "其它畜牧产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -232562,7 +232562,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沂南黄瓜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -232662,7 +232662,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜宾茵红李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -232711,7 +232711,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜宾早茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -232809,7 +232809,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜阳韭菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -232859,7 +232859,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜州桑蚕茧",
     "en": "",
     "category": "棉麻蚕桑",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -232908,7 +232908,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "易贡辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -233008,7 +233008,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鄞州雪菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -233107,7 +233107,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "英家大头菜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -233157,7 +233157,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "颍州大田恋思萝卜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -233206,7 +233206,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永定红柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -233255,7 +233255,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永定六月红早熟芋",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -233353,7 +233353,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永康五指岩生姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -233403,7 +233403,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "永乐艳红桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -233452,7 +233452,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "于田红柳大芸",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -233501,7 +233501,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "于田麻鸭",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -233550,7 +233550,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "于田沙漠玫瑰",
     "en": "",
     "category": "花卉",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -233599,7 +233599,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "余干鄱阳湖藜蒿",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -233649,7 +233649,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玉环文旦",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -233748,7 +233748,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玉溪烟叶",
     "en": "",
     "category": "烟草",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -233797,7 +233797,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "裕民无刺红花",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -233994,7 +233994,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "越西苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -234094,7 +234094,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "郧西马头山羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -234143,7 +234143,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "筠连红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -234242,7 +234242,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泽库藏羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -234391,7 +234391,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泽库蕨麻",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -234441,7 +234441,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泽库牦牛",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -234540,7 +234540,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "扎兰屯白瓜籽",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -234689,7 +234689,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "扎兰屯鸡",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -234787,7 +234787,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "扎兰屯沙果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -234836,7 +234836,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "扎兰屯榛子",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -234886,7 +234886,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "扎鲁特草原羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -235034,7 +235034,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "张家界菊花芯柚",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -235084,7 +235084,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "张良姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -235134,7 +235134,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "张亮香瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -235234,7 +235234,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "漳县紫斑牡丹",
     "en": "",
     "category": "花卉",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -235383,7 +235383,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长林岛金红\n苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -235433,7 +235433,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昭平银杉茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -235482,7 +235482,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昭苏大蒜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -235532,7 +235532,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昭苏马铃薯",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -235581,7 +235581,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昭苏天马",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -235680,7 +235680,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昭乌达肉羊",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -235729,7 +235729,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赵八洞香椿",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -235879,7 +235879,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "肇州香瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -235979,7 +235979,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柘城辣椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -236029,7 +236029,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇江江蟹",
     "en": "",
     "category": "水产动物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -236078,7 +236078,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇宁蜂糖李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -236127,7 +236127,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇宁小黄姜",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -236176,7 +236176,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇宁樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -236226,7 +236226,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "镇坪黄连",
     "en": "",
     "category": "药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -236276,7 +236276,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "正宁大葱",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -236376,7 +236376,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "郑州樱桃沟樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -236426,7 +236426,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "织金白鹅",
     "en": "",
     "category": "肉类产品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -236475,7 +236475,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "织金皂角精",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -236574,7 +236574,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "中宁硒砂瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -236623,7 +236623,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "中卫硒砂瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -236871,7 +236871,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "诸暨短柄樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -236971,7 +236971,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "砖埠草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -237021,7 +237021,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "庄浪苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -237071,7 +237071,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "资源红提",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -237120,7 +237120,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "资中血橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -237170,7 +237170,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "紫云冰脆李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -237418,7 +237418,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "遵义朝天椒",
     "en": "",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -237467,7 +237467,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "遵义烤烟",
     "en": "",
     "category": "烟草",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -237516,7 +237516,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "左贡核桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -238007,7 +238007,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "哈密瓜",
     "en": "",
     "category": "水果",
-    "nature": "寒",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -239393,7 +239393,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大荔冬枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -239453,7 +239453,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "仙居杨梅",
     "en": "",
     "category": "水果",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -239830,7 +239830,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“艾力努尔”柯坪阿恰恰玛古（芜菁）及冻干片、冻干粉",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -239868,102 +239868,6 @@ const ORIGIN_PRODUCT_FOODS = [
       "source": "peop",
       "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79834.htm",
       "sourceId": "peop-艾力努尔-柯坪阿恰恰玛古-芜菁-及冻干片-冻干粉",
-      "fetchedAt": "2026-06-09",
-      "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-    },
-    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自中检协生态原产地公告或 stycd 证书名录。"
-  },
-  {
-    "id": "peop-瑷露德玛-瑷菲诗-芦荟化妆品系列",
-    "name": "“瑷露德玛”、“瑷菲诗”芦荟化妆品系列",
-    "en": "",
-    "category": "滋补食材",
-    "nature": "平",
-    "effects": [
-      "产地认证"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "CN"
-    ],
-    "aliases": [],
-    "searchTerms": [
-      "“瑷露德玛”、“瑷菲诗”芦荟化妆品系列",
-      "生态原产地保护产品",
-      "CN",
-      "aloe-vera",
-      "地理标志",
-      "GI",
-      "PEOP",
-      "生态原产地"
-    ],
-    "summary": "“瑷露德玛”、“瑷菲诗”芦荟化妆品系列为生态原产地保护产品（PEOP）整理条目。",
-    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
-    "teaClass": "",
-    "itemKind": "food",
-    "isOriginProduct": true,
-    "baseFoodId": "aloe-vera",
-    "giSystems": [],
-    "peop": {
-      "status": "protected",
-      "label": "生态原产地保护产品",
-      "region": "CN"
-    },
-    "daoDi": null,
-    "provenance": {
-      "source": "peop",
-      "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/79836.htm",
-      "sourceId": "peop-瑷露德玛-瑷菲诗-芦荟化妆品系列",
-      "fetchedAt": "2026-06-09",
-      "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
-    },
-    "regulatoryNote": "产地与认证信息整理自公开登记名录或种子数据，以登记机关最新公告为准，不替代官方证明文件。 整理自中检协生态原产地公告或 stycd 证书名录。"
-  },
-  {
-    "id": "peop-瑷露德玛-芦荟化妆品系列",
-    "name": "“瑷露德玛”芦荟化妆品系列",
-    "en": "",
-    "category": "滋补食材",
-    "nature": "平",
-    "effects": [
-      "产地认证"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "CN"
-    ],
-    "aliases": [],
-    "searchTerms": [
-      "“瑷露德玛”芦荟化妆品系列",
-      "生态原产地保护产品",
-      "CN",
-      "aloe-vera",
-      "地理标志",
-      "GI",
-      "PEOP",
-      "生态原产地"
-    ],
-    "summary": "“瑷露德玛”芦荟化妆品系列为生态原产地保护产品（PEOP）整理条目。",
-    "caution": "认证信息仅说明产地与登记来源，不表示适合所有人群；请结合个人状态判断。",
-    "teaClass": "",
-    "itemKind": "food",
-    "isOriginProduct": true,
-    "baseFoodId": "aloe-vera",
-    "giSystems": [],
-    "peop": {
-      "status": "protected",
-      "label": "生态原产地保护产品",
-      "region": "CN"
-    },
-    "daoDi": null,
-    "provenance": {
-      "source": "peop",
-      "sourceUrl": "http://ycdoffice.ciq.org.cn/fhdt/75643.htm",
-      "sourceId": "peop-瑷露德玛-芦荟化妆品系列",
       "fetchedAt": "2026-06-09",
       "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
     },
@@ -240022,7 +239926,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“百年至尊”浓香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -240069,7 +239973,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“财富旺”“七和坊”“龙人宴” 酱香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -240116,7 +240020,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“汾溪”清香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -240163,7 +240067,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“荟之纯”芦荟饮品系列",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -240259,7 +240163,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“京东京造·时光臻酿”、“京东京造·时光佳酿”浓香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -240353,7 +240257,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“康美乡”丰镇月饼",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -240401,7 +240305,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“力酱”“天道力酱”“幸运力酱”牌系列酱香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -240448,7 +240352,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“泥坑”牌浓香型、 净雅香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -240495,7 +240399,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“沁州”、“沁州黄”牌 沁州黄小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -240591,7 +240495,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“沙河”系列浓香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -240733,7 +240637,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“天琪坊”牌冕宁火腿",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -240781,7 +240685,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“宇航人牌、千喜寿源牌”沙棘制品（保健食品）",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -240829,7 +240733,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "“宇航人牌”沙棘制品（普通食品）",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -241407,7 +241311,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿尔巴斯山羊肉及其原制品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -241455,7 +241359,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿尔巴斯羊绒及其分梳绒",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -241550,7 +241454,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿拉善白绒山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -241609,7 +241513,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "阿拉善荒漠肉苁蓉及其制品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -241812,7 +241716,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安丘草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -241860,7 +241764,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安丘大姜",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -241907,7 +241811,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安丘韭菜",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -242002,7 +241906,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安丘苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -242098,7 +242002,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安丘桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -242193,7 +242097,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安丘西红柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -242240,7 +242144,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安丘小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -242288,7 +242192,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安丘樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -242336,7 +242240,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "巴楚留香瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -242621,7 +242525,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "班迪尔乡“愿臻西域奇珍”牌沙棘",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -242717,7 +242621,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "棒棰岛海参（辽参）产品",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -242765,7 +242669,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "薄壳山核桃",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -242861,7 +242765,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宝丰酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -243050,7 +242954,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "不老莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -243145,7 +243049,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茶卡牌系列食用盐",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -243192,7 +243096,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "昌都阿旺绵羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -243334,7 +243238,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "赤水丹青物色赤水酱香酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -243476,7 +243380,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "重庆市永川区仙龙镇人民政府柑橘",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -243523,7 +243427,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "刺梨系列",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -243571,7 +243475,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "刺五加及鸡鱼肉蛋系列产品",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -243857,7 +243761,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大米、莲藕系列产品",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -243953,7 +243857,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大漠肉苁蓉、大漠锁阳",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -244001,7 +243905,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大漠锁阳",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -244049,7 +243953,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丹参、艾草等中药材系列初加工产品",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -244097,7 +244001,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "稻米及蟹鸭共生等系列产品",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -244192,7 +244096,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "都江堰猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -244347,7 +244251,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鄂尔多斯市现代农贸有限责任公司库布齐黄牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -244394,7 +244298,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鄂尔多斯羊绒制品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -244488,7 +244392,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "繁昌县凤祥生态养殖场五华鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -244631,7 +244535,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "翡翠梨系列产品",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -244679,7 +244583,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汾阳王酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -244726,7 +244630,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丰宁菊苣及其制品 （维乐夫牌 Vilof ）",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -244774,7 +244678,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "丰镇海鹏月饼",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -244916,7 +244820,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "奉节县脐橙产业协会奉节脐橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -244964,7 +244868,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "福鼎市林业局的福鼎”黄栀子",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -245012,7 +244916,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "福鼎市林业局福鼎黄栀子",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -245299,7 +245203,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "改则野血牦牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -245548,7 +245452,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "胳膊牛肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -245596,7 +245500,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "格达良甜瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -245644,7 +245548,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "格达良羊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -245740,7 +245644,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "古蔺 “潭”牌酱香型系列酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -245787,7 +245691,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "固始鹅块",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -245882,7 +245786,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "广东 “茗皇”牌茶叶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -245929,7 +245833,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "广东 “茗皇牌”茶叶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -246070,7 +245974,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "广西北海 “合天宝龙”海鸭蛋、 广西北海 “合天宝龙”海鸭咸蛋",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -246213,7 +246117,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "贵州杜康酱香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -246307,7 +246211,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "韩城大红袍花椒",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -246355,7 +246259,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汉源花椒油 “五丰黎红”牌",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -246403,7 +246307,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "合力牧场生鲜乳",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -246545,7 +246449,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "和顺荞麦面粉",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -246593,7 +246497,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "和顺肉牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -246640,7 +246544,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "和顺原醋",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -246783,7 +246687,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黑龙江飞鹤乳粉和液态奶",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -246830,7 +246734,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黑龙江飞鹤乳粉及液态奶",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -247069,7 +246973,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "呼兰区大樱",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -247117,7 +247021,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "呼兰区大樱桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -247309,7 +247213,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "呼兰区智勇李氏烤鹅",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -247356,7 +247260,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湖&#15559;杨梅",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -247500,7 +247404,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "花涧集茶固体饮料等茶系列产品",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -247595,7 +247499,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "怀仁 “强老汉”牌 羔羊肉制品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -247643,7 +247547,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "怀仁 “塞外鲜”、 “大材地”牌羔羊肉制品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -247691,7 +247595,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "怀仁 “朔美 – 引羊 ”、 “朔美羊”牌羔羊肉制品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -247833,7 +247737,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "黄河牌、午城牌清香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -248168,7 +248072,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "佳县 “枣佳塬牌”红枣、紫晶枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -248216,7 +248120,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "简州大耳羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -248358,7 +248262,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "酵母蛋白粉、乳铁蛋白酵母β-葡聚糖调制乳粉产品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -248500,7 +248404,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金莲花及其代用茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -248547,7 +248451,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金坛 “长荡湖”大闸蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -248691,7 +248595,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金堂青脆李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -248832,7 +248736,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金阳青花椒",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -248880,7 +248784,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金银花",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -248928,7 +248832,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "金银花及初级加工产品",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -249024,7 +248928,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "景阳冈白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -249071,7 +248975,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "景阳冈牌白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -249118,7 +249022,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "开县木香",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -249166,7 +249070,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "柯尔克孜羊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -249262,7 +249166,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "科左后旗黄牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -249309,7 +249213,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "科左后旗科尔沁牛肉制品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -249500,7 +249404,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "库布齐山羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -249547,7 +249451,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "辣椒酱",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -249691,7 +249595,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "老荫茶（老鹰茶）",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -249881,7 +249785,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "莲藕系列产品",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -250024,7 +249928,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "廉江红江橙",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -250072,7 +249976,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "廉江红江橙 (红江牌)",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -250168,7 +250072,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "林芝雅江雪牛（林芝雅江雪牛肉）",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -250310,7 +250214,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "六安茶油",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -250358,7 +250262,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "六安市木本油料协会六安茶油",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -250453,7 +250357,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芦山甜茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -250596,7 +250500,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "鲁山一化柞蚕茧丝绸 (仙女织牌)",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -250882,7 +250786,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茅台镇 “国沙”牌酱香型",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -250929,7 +250833,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茅台镇五星牌酱香白酒 ·镇牌 酱香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -250976,7 +250880,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "美姑黄牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -251071,7 +250975,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蒙城牛肉产品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -251119,7 +251023,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -251167,7 +251071,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "米易番茄",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -251261,7 +251165,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "民权赤松茸",
     "en": "",
     "category": "菌菇",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -251309,7 +251213,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "民权大闸蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -251357,7 +251261,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "民权莲藕",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -251548,7 +251452,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "岷江折耳根",
     "en": "",
     "category": "菌菇",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -251644,7 +251548,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "茉莉绿茶固体饮料",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -251739,7 +251643,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "那年愿有机小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -251835,7 +251739,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "南溪酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -251929,7 +251833,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "内蒙古磴口县乌兰布和沙漠原奶",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -252358,7 +252262,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "酿造食醋",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -252405,7 +252309,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁强茶叶 （宁强绿茶、宁强红茶）",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -252501,7 +252405,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宁强淫羊藿",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -252597,7 +252501,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "牛肉系列产品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -252645,7 +252549,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "浓小丫辣椒酱",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -252693,7 +252597,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "苹果、翡翠梨系列产品",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -252741,7 +252645,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蒲公英链(鸡鱼肉蛋)生态系列产品",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -252836,7 +252740,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "普格县阿都夷农红羽乌骨鸡",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -252930,7 +252834,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "七里海河蟹",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -253025,7 +252929,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "千年珍红参膏",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -253073,7 +252977,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "千年珍西洋参片、西洋参粉",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -253215,7 +253119,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "青花瓷清香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -253358,7 +253262,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "人参鸡蛋系列产品",
     "en": "",
     "category": "海产",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -253406,7 +253310,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "肉苁蓉系列产品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -253454,7 +253358,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "汝阳杜仲雄花茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -253502,7 +253406,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乳铁蛋白酵母β-葡聚糖调制乳粉产品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -253644,7 +253548,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙河蝉房板栗 （蝉房香牌、蝉房板栗牌）",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -253691,7 +253595,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙河红石沟核桃",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -253739,7 +253643,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙河红石沟黑果腺肋花楸",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -253786,7 +253690,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙河红石沟欧李",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -253833,7 +253737,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "沙河红石沟苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -253881,7 +253785,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山茶油",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -254025,7 +253929,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山西 “庞泉牌”清香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -254119,7 +254023,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "山楂系列产品",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -254167,7 +254071,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "商城高山茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -254262,7 +254166,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "商城青钱柳茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -254309,7 +254213,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "商城野菊花",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -254357,7 +254261,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "商城野生茶油",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -254548,7 +254452,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "佘太酒业清香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -254690,7 +254594,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石埠子草莓",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -254738,7 +254642,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石花原浆酒、霸王醉酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -254785,7 +254689,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "石榴陈醋系列产品",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -254833,7 +254737,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蜀之东篱简阳羊肉汤、简州大耳羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -254881,7 +254785,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "四川 “江口醇”系列浓香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -254975,7 +254879,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "四川仪陇 “胡柒爷”花椒",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -255070,7 +254974,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "蒜通天下大蒜（白蒜）",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -255118,7 +255022,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "遂宁川白芷 （道地遂芷牌，遂芷芳香牌）",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -255261,7 +255165,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "太白高山黄瓜",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -255309,7 +255213,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "太白高山生菜",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -255357,7 +255261,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "太白高山西红柿",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -255404,7 +255308,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "太仆寺旗 “草原”牌、“草原王”牌系列白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -255451,7 +255355,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "天柱山幽兰.绿茶 海香一品红.红茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -255499,7 +255403,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "铁皮石斛及初级加工产品",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -255547,7 +255451,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "突泉干豆腐",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -255595,7 +255499,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "突泉绿豆",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -255643,7 +255547,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "突泉小米",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -255738,7 +255642,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "突泉紫皮蒜",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -255833,7 +255737,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "土鸡蛋",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -256024,7 +255928,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "尉犁罗布羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -256213,7 +256117,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乌兰布和沙漠原奶",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -256261,7 +256165,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乌米,百合,板栗,笋干,茶叶,大米,杨梅",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -256309,7 +256213,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乌冉克羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -256369,7 +256273,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "乌冉克羊肉",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -256512,7 +256416,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "武川黄芪",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -256560,7 +256464,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西藏岗巴羊",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -256608,7 +256512,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西峡猕猴桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -256668,7 +256572,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "西峡山茱萸",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -256917,7 +256821,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湘西黄金茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -257107,7 +257011,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "新津二荆条辣椒",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -257203,7 +257107,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "信阳黄金茶",
     "en": "",
     "category": "茶饮",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -257250,7 +257154,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "修武连翘",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -257345,7 +257249,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宣威市 “云贵林宝”牌核桃乳",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -257488,7 +257392,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "雅江辣椒",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -257536,7 +257440,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "雅江牦牛",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -257631,7 +257535,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "雅江松茸",
     "en": "",
     "category": "菌菇",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -257822,7 +257726,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "羊肉制品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -257917,7 +257821,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "漾濞 “传润”牌核桃",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -257965,7 +257869,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "漾濞 “棋臻”牌菊花",
     "en": "",
     "category": "中药材",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -258013,7 +257917,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "漾濞 “任兴”牌苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -258061,7 +257965,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "漾濞 “御福年”牌核桃油",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -258109,7 +258013,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "漾濞 “云益品”牌核桃油",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -258157,7 +258061,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "叶城核桃",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -258264,7 +258168,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜府春 “宫府院宅”系列浓香型白酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -258455,7 +258359,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "榆林上河湖羊 “上河桃花羊 / 上河农牧 /上河湖羊牌”",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -258596,7 +258500,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玉露水蜜桃",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -258691,7 +258595,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玉泉酒",
     "en": "",
     "category": "饮品",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -259117,7 +259021,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "枣庄薛城区沙沟镇三观果蔬农场的红锦硕苹果",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -259165,7 +259069,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "泽兰及初级加工产品",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -259261,7 +259165,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长白山松茸系列产品",
     "en": "",
     "category": "菌菇",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -259595,7 +259499,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "中盐牌系列，天山晶牌系列，冰雪天山岩牌系列，黄羊牌系列，古湖牌系列食用盐",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -259784,7 +259688,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "涿鹿山南核桃",
     "en": "",
     "category": "坚果种子",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -259880,7 +259784,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "涿鹿山南杏仁、杏核",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -259976,7 +259880,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "自贡立华雪山草鸡（雪山食品）",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -260023,7 +259927,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "遵义 “贵三红”、“辣三娘”牌辣椒系列产品",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -260071,7 +259975,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "CUCU牌原醋",
     "en": "",
     "category": "滋补食材",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -260168,7 +260072,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "潮州工夫茶",
     "en": "",
     "category": "茶饮",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],
@@ -260216,7 +260120,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "湘西糍粑",
     "en": "",
     "category": "主食",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -260265,7 +260169,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "宜宾竹笋",
     "en": "",
     "category": "蔬菜",
-    "nature": "寒",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -260695,7 +260599,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安海土笋",
     "en": "",
     "category": "海产",
-    "nature": "寒",
+    "nature": "凉",
     "effects": [
       "产地认证"
     ],
@@ -260747,7 +260651,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "长沙臭豆腐",
     "en": "",
     "category": "主食",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],

@@ -21,6 +21,13 @@ const GI_SYSTEM_LABELS = {
   peop: "生态原产地（历史）"
 };
 
+const ORIGIN_EXCLUDE_PATTERNS = [/化妆品/];
+
+export function isExcludedOriginProduct(product) {
+  const name = String(product?.name || "").trim();
+  return ORIGIN_EXCLUDE_PATTERNS.some((re) => re.test(name));
+}
+
 export function decodeUnicodeLiterals(value) {
   const text = String(value ?? "").trim();
   if (!text || !/\\u[0-9a-fA-F]{4}/.test(text)) return text;
@@ -247,7 +254,7 @@ export function loadRawOriginImports() {
       .forEach((name) => ingestFile(path.join(incomingDir, name)));
   }
 
-  return out;
+  return out.filter((item) => !isExcludedOriginProduct(item));
 }
 
 export function buildOriginFoodEntries(products) {

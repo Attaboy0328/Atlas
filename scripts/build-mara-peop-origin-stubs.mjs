@@ -74,6 +74,7 @@ function isValidPeopStubName(name) {
   if (n.length < 3 || n.length > 36) return false;
   if (PEOP_SKIP.test(n)) return false;
   if (/有限公司|股份公司|农业农村局|养殖场$|^的/.test(n)) return false;
+  if (/化妆品/.test(n)) return false;
   if (/、.*、/.test(n)) return false;
   return true;
 }

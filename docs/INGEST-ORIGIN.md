@@ -86,6 +86,19 @@ npm run fetch:peop       # stycd 证书 + ycdoffice 公告，约 400+ 条 PEOP
 | `data/raw/origin/peop-origin-stubs.json` | PEOP 产地卡 stub |
 | `data/cn/origin-products.json` | 归一化输出（去重合并后 4400+ 条） |
 
+## 产地产品食性推断
+
+`ingest-origin-products.mjs` 对批量导入的 GI / PEOP / 道地条目自动推断食性，优先级：
+
+1. **seed** — 手工整理种子数据（保留原值）
+2. **catalog-id** — 已关联 `baseFoodId` 时继承主食材库/药典
+3. **tcm-herb** — 道地药材按药典四气匹配
+4. **catalog-name** — 名称/别名与子串匹配主库
+5. **rule-name** — 酒→温、茶→凉、蟹→寒、羊肉→温 等规则
+6. **category-default** — 按归一化类目兜底（无「待考证」留空）
+
+重建后查看分布：`node scripts/ingest-origin-products.mjs` 日志中的 `nature distribution`。
+
 ## 道地交叉表
 
 `data/cn/gi-dao-di-crosswalk.json` 在 ingest 时自动为 GI 条目补 `baseFoodId`、`daoDi`、`peop`。

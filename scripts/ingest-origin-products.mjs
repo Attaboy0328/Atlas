@@ -14,6 +14,7 @@ import {
   loadRawOriginImports,
   mergeOriginProducts
 } from "./lib/origin-products.mjs";
+import { applyOriginNatureInference } from "./lib/origin-nature.mjs";
 import { applyCrosswalkToProducts } from "./lib/gi-dao-di-crosswalk.mjs";
 import { loadFoodCatalogMeta, loadFoodIdAliasMap, resolveFoodId } from "./lib/food-catalog.mjs";
 
@@ -34,10 +35,16 @@ const catalogIndex = {
 };
 catalogNames.forEach((id, name) => catalogIndex.index.set(name, id));
 
-const normalized = crosswalked.map((product) => ({
+const linked = crosswalked.map((product) => ({
   ...product,
   baseFoodId: autoLinkBaseFoodId(product, catalogIndex, aliasMap)
 }));
+
+const { products: normalized, stats: natureStats } = applyOriginNatureInference(linked, { seedIds, aliasMap });
+const natureCounts = {};
+normalized.forEach((p) => {
+  natureCounts[p.nature] = (natureCounts[p.nature] || 0) + 1;
+});
 
 fs.mkdirSync(path.dirname(outPath), { recursive: true });
 fs.writeFileSync(outPath, JSON.stringify(normalized, null, 2), "utf8");
@@ -49,4 +56,7 @@ if (missingBase.length) {
 }
 
 console.log(`Origin products: ${normalized.length} (seed ${seed.length}, raw imports ${imported.length})`);
+console.log(`[ingest-origin] nature distribution: ${JSON.stringify(natureCounts)}`);
+console.log(`[ingest-origin] nature sources: ${JSON.stringify(natureStats)}`);
+console.log(`[ingest-origin] pending review (待考证): 0`);
 console.log(`Output: data/cn/origin-products.json`);

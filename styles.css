@@ -934,12 +934,15 @@ button {
 }
 
 .nature-tile {
+  width: 100%;
   min-width: 0;
   min-height: 82px;
   display: grid;
   place-items: center;
   align-content: center;
+  justify-items: center;
   gap: 5px;
+  text-align: center;
   border: 1px solid color-mix(in srgb, var(--tone) 22%, var(--line));
   border-radius: var(--radius-card);
   background: var(--tone-pale);
@@ -967,14 +970,24 @@ button {
 }
 
 .nature-tile strong {
+  display: block;
+  width: 100%;
+  margin: 0;
   font-family: var(--serif);
   font-size: 22px;
+  line-height: 1;
   color: var(--tone);
+  text-align: center;
 }
 
 .nature-tile small {
+  display: block;
+  width: 100%;
+  margin: 0;
   color: color-mix(in srgb, var(--tone) 82%, #5f675f);
   font-size: 10px;
+  line-height: 1.2;
+  text-align: center;
 }
 
 .food-list,
@@ -1363,6 +1376,9 @@ button {
 .filter-segmented-item {
   flex: 1 1 0;
   min-height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   padding: 0 6px;
   border: 0;
   border-radius: 9px;
@@ -1370,6 +1386,8 @@ button {
   color: var(--ink-soft);
   font-size: 12px;
   font-weight: 600;
+  line-height: 1;
+  text-align: center;
   cursor: pointer;
 }
 
@@ -2501,15 +2519,22 @@ button {
 }
 
 .nature-tile strong {
+  display: block;
+  width: 100%;
+  margin: 0;
   font-family: var(--serif);
   font-size: 32px;
   line-height: 1;
+  text-align: center;
 }
 
 .nature-tile small {
+  display: block;
+  width: 100%;
+  margin: 0;
   color: var(--ink-soft);
   font-size: 13px;
-  line-height: 1;
+  line-height: 1.2;
   text-align: center;
   max-width: none;
   white-space: nowrap;
@@ -3647,6 +3672,17 @@ button {
 
   .nature-tile {
     min-height: 114px;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .nature-tile strong {
+    font-size: 28px;
+  }
+
+  .nature-tile small {
+    font-size: 11px;
+    letter-spacing: -0.02em;
   }
 }
 
@@ -3771,8 +3807,9 @@ button {
 }
 
 .nature-stamp {
-  display: inline-grid;
-  place-items: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   width: 36px;
   height: 36px;
   border: 1.5px solid color-mix(in srgb, var(--stamp-tone, var(--line)) 55%, var(--line));
@@ -3784,6 +3821,9 @@ button {
   font-weight: 700;
   line-height: 1;
   flex-shrink: 0;
+  align-self: center;
+  justify-self: center;
+  padding-top: 1px;
 }
 
 .nature-stamp--small {

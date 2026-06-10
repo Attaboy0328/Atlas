@@ -74,7 +74,7 @@ function isValidPeopName(name) {
   if (/^的/.test(n)) return false;
   if (/有限公司|股份公司|农业农村局|人民政府|养殖场$|生态产业股份公司$/.test(n)) return false;
   if (PEOP_GENERIC_SKIP.has(n)) return false;
-  if (/生态原产地|PEOP|证书|序号|申请人/.test(n)) return false;
+  if (/生态原产地|PEOP|证书|序号|申请人|化妆品/.test(n)) return false;
   return true;
 }
 
