@@ -4,7 +4,6 @@ const FOOD_ID_ALIASES = {
   "蛹虫草": "cordyceps-flower",
   "amaranth": "amaranth-greens",
   "argentine-red-shrimp": "prawn-red-argentine",
-  "arrowhead-tuber": "arrowhead",
   "astragalus-membranaceus": "astragalus",
   "bamboo-shoot-spring": "spring-bamboo-shoot",
   "basil-fresh": "basil",
@@ -260,5 +259,7 @@ const FOOD_ID_ALIASES = {
   "yuzu-fruit": "pomelo",
   "zanthoxylum-bungeanum-peel": "sichuan-pepper",
   "zhacai": "preserved-vegetable",
-  "zingiber-officinale-fresh": "ginger"
+  "zingiber-officinale-fresh": "ginger",
+  "yellow-eel": "eel",
+  "nori-seaweed": "seaweed-nori"
 };

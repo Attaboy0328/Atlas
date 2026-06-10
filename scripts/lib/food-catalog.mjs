@@ -22,7 +22,11 @@ export const CN_JSON_SOURCES = [
   "foods-search-supplement-batch4.json",
   "foods-ingredients-batch3.json",
   "foods-seasonal-river-batch3.json",
-  "foods-international-batch5.json"
+  "foods-international-batch5.json",
+  "foods-seasonal-river-batch4.json",
+  "foods-ingredients-batch4.json",
+  "foods-modern-regional-batch2.json",
+  "foods-international-batch6.json"
 ];
 
 export const EXPANDED_BULK_JSON_SOURCES = [
@@ -112,12 +116,13 @@ export function loadFoodCatalogMeta() {
   readCnJson("origin-products.json", readCnJson("origin-products.seed.json", [])).forEach((food) => {
     if (food?.id && food?.name) foods.push({ id: food.id, name: food.name, source: "origin" });
   });
-  const tcmPath = path.join(root, "data", "tcm", "herbs-chp2025.json");
-  if (fs.existsSync(tcmPath)) {
+  ["herbs-chp2025.json", "herbs-supplement.json", "dao-di-orphan-herbs.json"].forEach((tcmFile) => {
+    const tcmPath = path.join(root, "data", "tcm", tcmFile);
+    if (!fs.existsSync(tcmPath)) return;
     JSON.parse(fs.readFileSync(tcmPath, "utf8")).forEach((herb) => {
-      foods.push({ id: herb.id, name: herb.name, source: "tcm" });
+      if (herb?.id && herb?.name) foods.push({ id: herb.id, name: herb.name, source: "tcm" });
     });
-  }
+  });
   const app = fs.readFileSync(path.join(root, "app.js"), "utf8");
   const runtimeMatch = app.match(/const RUNTIME_FOOD_EXPANSION = \[([\s\S]*?)\n\];/);
   if (runtimeMatch) {

@@ -1159,5 +1159,125 @@ const PAIRING_RULES_ALL = [
     "level": "good",
     "category": "日常搭配",
     "text": "江南常见，姜去腥温中，配黄鳝红烧。"
+  },
+  {
+    "ids": [
+      "pixian-douban",
+      "pork"
+    ],
+    "title": "豆瓣与猪肉",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "川菜经典，豆瓣炒香后炒肉，咸鲜微辣。"
+  },
+  {
+    "ids": [
+      "fermented-black-beans",
+      "grass-carp"
+    ],
+    "title": "豆豉与草鱼",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "豆豉蒸鱼或烤鱼，提鲜去腥。"
+  },
+  {
+    "ids": [
+      "red-fermented-bean-curd",
+      "pork"
+    ],
+    "title": "红腐乳与猪肉",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "南乳焖肉，咸香红润。"
+  },
+  {
+    "ids": [
+      "chinese-sesame-paste",
+      "spinach"
+    ],
+    "title": "芝麻酱与菠菜",
+    "level": "good",
+    "category": "素食搭配",
+    "text": "凉拌菠菜麻酱，京津常见。"
+  },
+  {
+    "ids": [
+      "lemongrass",
+      "coconut-milk"
+    ],
+    "title": "香茅与椰浆",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "泰式汤品经典组合，芳香浓郁。"
+  },
+  {
+    "ids": [
+      "fish-sauce",
+      "cilantro-fresh"
+    ],
+    "title": "鱼露与香菜",
+    "level": "notice",
+    "category": "日常搭配",
+    "text": "东南亚蘸料，咸鲜平衡；高钠适量。"
+  },
+  {
+    "ids": [
+      "shrimp-paste",
+      "pork"
+    ],
+    "title": "虾酱与猪肉",
+    "level": "notice",
+    "category": "日常搭配",
+    "text": "闽粤炒菜，鲜味浓烈；海鲜过敏禁用。"
+  },
+  {
+    "ids": [
+      "black-carp",
+      "fermented-black-beans"
+    ],
+    "title": "青鱼与豆豉",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "江南蒸鱼常见，健脾开胃。"
+  },
+  {
+    "ids": [
+      "river-snail",
+      "shiso-leaf"
+    ],
+    "title": "螺蛳与紫苏",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "祛湿开胃，须煮透。"
+  },
+  {
+    "ids": [
+      "highland-barley",
+      "butter"
+    ],
+    "title": "青稞与酥油",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "藏区糌粑经典，高热量御寒。"
+  },
+  {
+    "ids": [
+      "stinky-tofu",
+      "sichuan-chili-oil"
+    ],
+    "title": "臭豆腐与辣椒油",
+    "level": "notice",
+    "category": "日常搭配",
+    "text": "油炸臭豆腐配辣酱，高脂辛辣适量。"
+  },
+  {
+    "ids": [
+      "balanophora-herb",
+      "pork"
+    ],
+    "title": "百灵草与猪肉",
+    "level": "caution",
+    "category": "传统食养",
+    "text": "民间偶有炖汤记载，非日常食材；药用须遵医嘱，不可自行大量食用。"
   }
 ];

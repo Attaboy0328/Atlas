@@ -51,6 +51,7 @@ function normalizeHerb(herb) {
 
 const rawHerbs = [
   ...readJson("herbs-chp2025.json", []),
+  ...readJson("herbs-supplement.json", []),
   ...readJson("dao-di-orphan-herbs.json", [])
 ];
 const idSet = new Set();
@@ -83,7 +84,8 @@ const catalog = loadFoodCatalogIds();
 const aliasMap = loadFoodIdAliasMap();
 const rawHandcrafted = [
   ...readJson("handcrafted-recipes.json", []),
-  ...readJson("handcrafted-recipes-batch2.json", [])
+  ...readJson("handcrafted-recipes-batch2.json", []),
+  ...readJson("handcrafted-recipes-batch3.json", [])
 ];
 const handcraftedRecipes = rawHandcrafted
   .map((item) => {
@@ -105,7 +107,9 @@ const rawClassic = [
   ...readJson("classic-diet-recipes.json"),
   ...readJson("classic-diet-recipes-batch2.json", []),
   ...readJson("solar-term-recipes.json", []),
-  ...readJson("solar-term-recipes-batch2.json", [])
+  ...readJson("solar-term-recipes-batch2.json", []),
+  ...readJson("classic-diet-recipes-batch3.json", []),
+  ...readJson("solar-term-recipes-batch3.json", [])
 ];
 const classicRecipes = rawClassic
   .map((item) => {

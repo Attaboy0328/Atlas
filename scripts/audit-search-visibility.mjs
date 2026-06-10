@@ -55,10 +55,13 @@ function loadExpandedFoods() {
 
 const expanded = loadExpandedFoods();
 const cn = loadConst("generated/foods-cn-bundle.js", "CN_SUPPLEMENT_FOODS");
+const tcm = fs.existsSync("generated/tcm-herbs-bundle.js")
+  ? loadConst("generated/tcm-herbs-bundle.js", "TCM_HERBS_CORE")
+  : [];
 const synonyms = loadConst("generated/food-search-synonyms.js", "FOOD_SEARCH_SYNONYMS");
 const aliases = loadConst("generated/food-id-aliases.js", "FOOD_ID_ALIASES");
 
-const items = dedupeFoods([...expanded, ...cn]);
+const items = dedupeFoods([...expanded, ...cn, ...tcm]);
 const byId = new Map(items.map((food) => [food.id, food]));
 
 function resolveId(id) {
@@ -69,7 +72,9 @@ const terms = [
   "乳鸽", "鸽子", "刺梨", "刺梨子", "蜜饯", "奇亚籽", "瓜子", "竹鼠", "田鼠",
   "油条", "粽子", "月饼", "汤圆", "烧麦", "凉皮", "春卷", "肠粉", "馄饨", "糍粑", "青团",
   "腰果", "开心果", "碧根果", "夏威夷果", "松子", "辣条",
-  "三文鱼", "金枪鱼", "鳕鱼", "鸡爪", "鸭脖", "牛腩", "排骨", "燕窝", "木姜子", "栗子", "鱼肚"
+  "三文鱼", "金枪鱼", "鳕鱼", "鸡爪", "鸭脖", "牛腩", "排骨", "燕窝", "木姜子", "栗子", "鱼肚",
+  "味噌", "纳豆", "天贝", "马兰头", "莼菜", "慈姑", "青鱼", "豆豉", "醪糟", "百灵草", "百蕊草",
+  "香茅", "青稞", "牦牛肉", "清真牛肉", "臭豆腐", "郫县豆瓣"
 ];
 let failed = 0;
 

@@ -7555,5 +7555,649 @@ const CLASSIC_DIET_RECIPES = [
     ],
     "draft": false,
     "classicTier": 1
+  },
+  {
+    "id": "classic3-wood-ginger-sour-soup",
+    "name": "木姜子酸汤鱼",
+    "nature": "温",
+    "syndromes": [
+      "湿热内蕴",
+      "食积"
+    ],
+    "foodIds": [
+      "wood-ginger",
+      "grass-carp",
+      "sour-bamboo-shoot"
+    ],
+    "subtitle": "祛湿开胃",
+    "ingredients": [
+      "木姜子 5 克",
+      "草鱼 300 克",
+      "酸笋 50 克",
+      "番茄 1 个"
+    ],
+    "steps": [
+      "草鱼处理切块焯水",
+      "酸笋与木姜子出味",
+      "下鱼煮 8 分钟"
+    ],
+    "note": "酸辣开胃，胃寒、溃疡者适量。",
+    "sources": [
+      {
+        "title": "《黔岭药草志》",
+        "summary": "贵州酸汤鱼配木姜子，祛湿醒脾。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic3-tsampa-porridge",
+    "name": "青稞糌粑粥",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "highland-barley",
+      "butter"
+    ],
+    "dietaryScenes": [
+      "素食"
+    ],
+    "subtitle": "高原健脾",
+    "ingredients": [
+      "青稞粉 50 克",
+      "酥油 10 克",
+      "奶茶或温水 300 ml"
+    ],
+    "steps": [
+      "青稞粉用温奶茶调匀",
+      "可加少量酥油搅拌"
+    ],
+    "note": "酥油高热量，控脂者减量；青稞含大麦麸质。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "藏区青稞糌粑，健脾充饥。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic3-halal-beef-radish",
+    "name": "清真萝卜炖牛肉",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "halal-beef",
+      "white-radish",
+      "ginger"
+    ],
+    "dietaryScenes": [
+      "清真"
+    ],
+    "subtitle": "温中补虚",
+    "ingredients": [
+      "清真牛肉 300 克",
+      "白萝卜 250 克",
+      "生姜 5 片"
+    ],
+    "steps": [
+      "牛肉焯水",
+      "与萝卜、生姜同炖 90 分钟"
+    ],
+    "note": "高嘌呤适量；实热证不宜。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "清真炖牛肉配萝卜，温中益气。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic3-cumin-lamb-naan",
+    "name": "孜然羊肉配馕",
+    "nature": "温",
+    "syndromes": [
+      "肾阳虚",
+      "脾阳虚"
+    ],
+    "foodIds": [
+      "halal-lamb",
+      "cumin",
+      "naan-bread"
+    ],
+    "dietaryScenes": [
+      "清真"
+    ],
+    "subtitle": "温阳散寒",
+    "ingredients": [
+      "清真羊肉 250 克",
+      "孜然 1 茶匙",
+      "馕 1 个",
+      "洋葱 半个"
+    ],
+    "steps": [
+      "羊肉孜然炒制或烤制",
+      "配馕同食"
+    ],
+    "note": "体质偏热者适量。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "西北孜然羊肉配馕，温中补虚。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic3-yak-ginger-soup",
+    "name": "牦牛肉生姜汤",
+    "nature": "温",
+    "syndromes": [
+      "肾阳虚",
+      "脾阳虚"
+    ],
+    "foodIds": [
+      "yak-meat",
+      "ginger",
+      "white-radish"
+    ],
+    "subtitle": "暖胃补虚",
+    "ingredients": [
+      "牦牛肉 250 克",
+      "生姜 6 片",
+      "白萝卜 200 克"
+    ],
+    "steps": [
+      "牦牛肉焯水",
+      "与生姜、萝卜慢炖 2 小时"
+    ],
+    "note": "高海拔地区食疗整理，消化不良者宜炖烂。",
+    "sources": [
+      {
+        "title": "藏医食疗整理",
+        "summary": "牦牛肉配生姜温胃。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic3-fermented-rice-egg",
+    "name": "醪糟鸡蛋羹",
+    "nature": "温",
+    "syndromes": [
+      "血虚",
+      "产后体虚"
+    ],
+    "foodIds": [
+      "fermented-rice-wine",
+      "egg"
+    ],
+    "subtitle": "养血温中",
+    "ingredients": [
+      "醪糟 100 克",
+      "鸡蛋 1 个",
+      "清水 200 ml"
+    ],
+    "steps": [
+      "醪糟加水煮开",
+      "淋入蛋液成羹"
+    ],
+    "note": "含酒精，孕妇、驾车者不宜。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "酒酿鸡蛋，民间养血温中。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic3-black-carp-bean",
+    "name": "豆豉蒸青鱼",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "食欲不振"
+    ],
+    "foodIds": [
+      "black-carp",
+      "fermented-black-beans",
+      "ginger"
+    ],
+    "subtitle": "健脾开胃",
+    "ingredients": [
+      "青鱼段 400 克",
+      "豆豉 1 汤匙",
+      "生姜丝 适量"
+    ],
+    "steps": [
+      "鱼段腌制",
+      "铺豆豉姜丝蒸 12 分钟"
+    ],
+    "note": "海鲜过敏者禁食；豆豉含盐控量。",
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "豆豉蒸鱼，江南家常健脾开胃。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "classic3-bighead-tofu-soup",
+    "name": "胖头鱼豆腐汤",
+    "nature": "平",
+    "syndromes": [
+      "肺气虚",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "bighead-carp",
+      "tofu",
+      "ginger"
+    ],
+    "subtitle": "益气润燥",
+    "ingredients": [
+      "胖头鱼头 1 个",
+      "豆腐 200 克",
+      "生姜 4 片"
+    ],
+    "steps": [
+      "鱼头煎香",
+      "加开水炖 30 分钟",
+      "下豆腐再煮 10 分钟"
+    ],
+    "note": "高嘌呤，痛风适量；须煮熟。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "鱼头豆腐汤，益气润燥。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar3-lichun-malantou",
+    "name": "立春马兰头拌香干",
+    "solarTerm": "立春",
+    "season": [
+      "春季"
+    ],
+    "nature": "凉",
+    "syndromes": [
+      "肝阳上亢",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "malantou",
+      "tofu"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "subtitle": "清热疏肝",
+    "ingredients": [
+      "马兰头 200 克",
+      "香干 80 克",
+      "香油少许"
+    ],
+    "steps": [
+      "马兰头焯水切碎",
+      "与香干丁拌匀"
+    ],
+    "note": "脾胃虚寒者不宜多食生冷。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "立春食春野菜，马兰头清热。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar3-jingzhe-bamboo",
+    "name": "惊蛰春笋炒肉",
+    "solarTerm": "惊蛰",
+    "season": [
+      "春季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "肝郁气滞",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "bamboo-shoot-spring",
+      "pork",
+      "ginger"
+    ],
+    "subtitle": "醒脾化痰",
+    "ingredients": [
+      "春笋 200 克",
+      "瘦肉 100 克",
+      "生姜 2 片"
+    ],
+    "steps": [
+      "春笋焯水切片",
+      "与瘦肉、生姜快炒"
+    ],
+    "note": "纤维高，消化不良者少量。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "惊蛰食笋清化痰热。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar3-qingming-toon",
+    "name": "清明香椿炒蛋",
+    "solarTerm": "清明",
+    "season": [
+      "春季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "脾胃虚寒"
+    ],
+    "foodIds": [
+      "toon-sprout",
+      "egg"
+    ],
+    "subtitle": "温中开胃",
+    "ingredients": [
+      "香椿芽 80 克",
+      "鸡蛋 2 个"
+    ],
+    "steps": [
+      "香椿焯水切碎",
+      "与蛋液同炒"
+    ],
+    "note": "香椿须焯烫；阴虚火旺适量。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "清明食香椿，民间春令习俗。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar3-xiaoman-okra",
+    "name": "小满秋葵炒虾",
+    "solarTerm": "小满",
+    "season": [
+      "夏季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "okra",
+      "river-shrimp",
+      "ginger"
+    ],
+    "subtitle": "清热利湿",
+    "ingredients": [
+      "秋葵 200 克",
+      "河虾 100 克",
+      "生姜 2 片"
+    ],
+    "steps": [
+      "秋葵切段",
+      "与河虾、姜片快炒至熟"
+    ],
+    "note": "海鲜过敏禁食。",
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "小满湿热，秋葵配河鲜清利。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar3-xiazhi-enoki",
+    "name": "夏至金针菇清汤",
+    "solarTerm": "夏至",
+    "season": [
+      "夏季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "暑湿"
+    ],
+    "foodIds": [
+      "enoki-mushroom",
+      "tofu",
+      "ginger"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "subtitle": "清淡解暑",
+    "ingredients": [
+      "金针菇 150 克",
+      "豆腐 150 克",
+      "生姜 2 片"
+    ],
+    "steps": [
+      "水开下料煮 6 分钟"
+    ],
+    "note": "金针菇须煮熟。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "夏至清淡菌菇汤解暑。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar3-liqiu-water-shield",
+    "name": "立秋莼菜羹",
+    "solarTerm": "立秋",
+    "season": [
+      "秋季"
+    ],
+    "nature": "凉",
+    "syndromes": [
+      "胃阴虚",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "water-shield",
+      "egg"
+    ],
+    "subtitle": "养阴润燥",
+    "ingredients": [
+      "莼菜 100 克",
+      "鸡蛋 1 个"
+    ],
+    "steps": [
+      "水开下莼菜",
+      "淋蛋花即成"
+    ],
+    "note": "脾胃虚寒适量。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "立秋食莼菜，养阴清胃。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar3-bailu-taro",
+    "name": "白露芋头煲",
+    "solarTerm": "白露",
+    "season": [
+      "秋季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "肺气虚"
+    ],
+    "foodIds": [
+      "taro-corm",
+      "pork",
+      "ginger"
+    ],
+    "subtitle": "健脾益气",
+    "ingredients": [
+      "芋头 300 克",
+      "排骨 200 克",
+      "生姜 3 片"
+    ],
+    "steps": [
+      "芋头切块",
+      "与排骨、生姜同炖 50 分钟"
+    ],
+    "note": "芋头须煮熟，避免口腔刺激。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "白露芋头煲，健脾益气。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar3-shuangjiang-arrowhead",
+    "name": "霜降慈姑烧肉",
+    "solarTerm": "霜降",
+    "season": [
+      "秋季"
+    ],
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "arrowhead-tuber",
+      "pork"
+    ],
+    "subtitle": "健脾化痰",
+    "ingredients": [
+      "慈姑 250 克",
+      "五花肉 150 克"
+    ],
+    "steps": [
+      "慈姑去皮",
+      "与五花肉红烧至软烂"
+    ],
+    "note": "慈姑须煮熟；高脂控量。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "霜降慈姑，江南秋令健脾。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar3-lidong-yak",
+    "name": "立冬牦牛肉萝卜汤",
+    "solarTerm": "立冬",
+    "season": [
+      "冬季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "肾阳虚",
+      "脾阳虚"
+    ],
+    "foodIds": [
+      "yak-meat",
+      "white-radish",
+      "ginger"
+    ],
+    "subtitle": "温补御寒",
+    "ingredients": [
+      "牦牛肉 250 克",
+      "白萝卜 200 克",
+      "生姜 5 片"
+    ],
+    "steps": [
+      "牦牛肉焯水",
+      "与萝卜、生姜炖 2 小时"
+    ],
+    "note": "高嘌呤适量。",
+    "sources": [
+      {
+        "title": "藏医食疗整理",
+        "summary": "立冬温补牦牛肉汤。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
+  },
+  {
+    "id": "solar3-daxue-fermented-rice",
+    "name": "大雪醪糟红枣汤",
+    "solarTerm": "大雪",
+    "season": [
+      "冬季"
+    ],
+    "nature": "温",
+    "syndromes": [
+      "血虚",
+      "脾阳虚"
+    ],
+    "foodIds": [
+      "fermented-rice-wine",
+      "jujube"
+    ],
+    "subtitle": "温经养血",
+    "ingredients": [
+      "醪糟 120 克",
+      "红枣 6 枚",
+      "清水 300 ml"
+    ],
+    "steps": [
+      "红枣去核",
+      "与醪糟同煮 10 分钟"
+    ],
+    "note": "含酒精，孕妇不宜。",
+    "sources": [
+      {
+        "title": "《千金要方·食治篇》",
+        "summary": "大雪温饮酒酿红枣，养血温中。"
+      }
+    ],
+    "draft": false,
+    "classicTier": 1
   }
 ];

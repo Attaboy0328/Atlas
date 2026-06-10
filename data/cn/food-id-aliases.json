@@ -20,11 +20,6 @@
     "note": "auto: duplicate name「阿根廷红虾」→ prawn-red-argentine"
   },
   {
-    "alias": "arrowhead-tuber",
-    "canonical": "arrowhead",
-    "note": "auto: duplicate name「慈姑」→ arrowhead"
-  },
-  {
     "alias": "astragalus-membranaceus",
     "canonical": "astragalus",
     "note": "黄芪药典 id 归并到 catalog 短 id"
@@ -1303,5 +1298,15 @@
     "alias": "zingiber-officinale-fresh",
     "canonical": "ginger",
     "note": "生姜"
+  },
+  {
+    "alias": "yellow-eel",
+    "canonical": "eel",
+    "note": "黄鳝与 eel 合并为同一 catalog 条目"
+  },
+  {
+    "alias": "nori-seaweed",
+    "canonical": "seaweed-nori",
+    "note": "烤海苔与 seaweed-nori 合并"
   }
 ]

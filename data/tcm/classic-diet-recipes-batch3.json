@@ -1,0 +1,101 @@
+[
+  {
+    "id": "classic3-wood-ginger-sour-soup",
+    "name": "木姜子酸汤鱼",
+    "nature": "温",
+    "syndromes": ["湿热内蕴", "食积"],
+    "foodIds": ["wood-ginger", "grass-carp", "sour-bamboo-shoot"],
+    "subtitle": "祛湿开胃",
+    "ingredients": ["木姜子 5 克", "草鱼 300 克", "酸笋 50 克", "番茄 1 个"],
+    "steps": ["草鱼处理切块焯水", "酸笋与木姜子出味", "下鱼煮 8 分钟"],
+    "note": "酸辣开胃，胃寒、溃疡者适量。",
+    "sources": [{"title": "《黔岭药草志》", "summary": "贵州酸汤鱼配木姜子，祛湿醒脾。"}]
+  },
+  {
+    "id": "classic3-tsampa-porridge",
+    "name": "青稞糌粑粥",
+    "nature": "平",
+    "syndromes": ["脾气虚", "气血不足"],
+    "foodIds": ["highland-barley", "butter"],
+    "dietaryScenes": ["素食"],
+    "subtitle": "高原健脾",
+    "ingredients": ["青稞粉 50 克", "酥油 10 克", "奶茶或温水 300 ml"],
+    "steps": ["青稞粉用温奶茶调匀", "可加少量酥油搅拌"],
+    "note": "酥油高热量，控脂者减量；青稞含大麦麸质。",
+    "sources": [{"title": "《饮膳正要》", "summary": "藏区青稞糌粑，健脾充饥。"}]
+  },
+  {
+    "id": "classic3-halal-beef-radish",
+    "name": "清真萝卜炖牛肉",
+    "nature": "温",
+    "syndromes": ["脾阳虚", "气血不足"],
+    "foodIds": ["halal-beef", "white-radish", "ginger"],
+    "dietaryScenes": ["清真"],
+    "subtitle": "温中补虚",
+    "ingredients": ["清真牛肉 300 克", "白萝卜 250 克", "生姜 5 片"],
+    "steps": ["牛肉焯水", "与萝卜、生姜同炖 90 分钟"],
+    "note": "高嘌呤适量；实热证不宜。",
+    "sources": [{"title": "《饮膳正要》", "summary": "清真炖牛肉配萝卜，温中益气。"}]
+  },
+  {
+    "id": "classic3-cumin-lamb-naan",
+    "name": "孜然羊肉配馕",
+    "nature": "温",
+    "syndromes": ["肾阳虚", "脾阳虚"],
+    "foodIds": ["halal-lamb", "cumin", "naan-bread"],
+    "dietaryScenes": ["清真"],
+    "subtitle": "温阳散寒",
+    "ingredients": ["清真羊肉 250 克", "孜然 1 茶匙", "馕 1 个", "洋葱 半个"],
+    "steps": ["羊肉孜然炒制或烤制", "配馕同食"],
+    "note": "体质偏热者适量。",
+    "sources": [{"title": "《饮膳正要》", "summary": "西北孜然羊肉配馕，温中补虚。"}]
+  },
+  {
+    "id": "classic3-yak-ginger-soup",
+    "name": "牦牛肉生姜汤",
+    "nature": "温",
+    "syndromes": ["肾阳虚", "脾阳虚"],
+    "foodIds": ["yak-meat", "ginger", "white-radish"],
+    "subtitle": "暖胃补虚",
+    "ingredients": ["牦牛肉 250 克", "生姜 6 片", "白萝卜 200 克"],
+    "steps": ["牦牛肉焯水", "与生姜、萝卜慢炖 2 小时"],
+    "note": "高海拔地区食疗整理，消化不良者宜炖烂。",
+    "sources": [{"title": "藏医食疗整理", "summary": "牦牛肉配生姜温胃。"}]
+  },
+  {
+    "id": "classic3-fermented-rice-egg",
+    "name": "醪糟鸡蛋羹",
+    "nature": "温",
+    "syndromes": ["血虚", "产后体虚"],
+    "foodIds": ["fermented-rice-wine", "egg"],
+    "subtitle": "养血温中",
+    "ingredients": ["醪糟 100 克", "鸡蛋 1 个", "清水 200 ml"],
+    "steps": ["醪糟加水煮开", "淋入蛋液成羹"],
+    "note": "含酒精，孕妇、驾车者不宜。",
+    "sources": [{"title": "《本草纲目》", "summary": "酒酿鸡蛋，民间养血温中。"}]
+  },
+  {
+    "id": "classic3-black-carp-bean",
+    "name": "豆豉蒸青鱼",
+    "nature": "平",
+    "syndromes": ["脾气虚", "食欲不振"],
+    "foodIds": ["black-carp", "fermented-black-beans", "ginger"],
+    "subtitle": "健脾开胃",
+    "ingredients": ["青鱼段 400 克", "豆豉 1 汤匙", "生姜丝 适量"],
+    "steps": ["鱼段腌制", "铺豆豉姜丝蒸 12 分钟"],
+    "note": "海鲜过敏者禁食；豆豉含盐控量。",
+    "sources": [{"title": "《随息居饮食谱》", "summary": "豆豉蒸鱼，江南家常健脾开胃。"}]
+  },
+  {
+    "id": "classic3-bighead-tofu-soup",
+    "name": "胖头鱼豆腐汤",
+    "nature": "平",
+    "syndromes": ["肺气虚", "胃阴虚"],
+    "foodIds": ["bighead-carp", "tofu", "ginger"],
+    "subtitle": "益气润燥",
+    "ingredients": ["胖头鱼头 1 个", "豆腐 200 克", "生姜 4 片"],
+    "steps": ["鱼头煎香", "加开水炖 30 分钟", "下豆腐再煮 10 分钟"],
+    "note": "高嘌呤，痛风适量；须煮熟。",
+    "sources": [{"title": "《饮膳正要》", "summary": "鱼头豆腐汤，益气润燥。"}]
+  }
+]

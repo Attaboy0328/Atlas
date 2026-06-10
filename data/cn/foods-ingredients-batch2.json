@@ -1073,37 +1073,6 @@
     "caution": "脾胃虚寒、腹泻者不宜生食。"
   },
   {
-    "id": "arrowhead",
-    "name": "荸荠",
-    "en": "arrowhead",
-    "category": "蔬菜",
-    "nature": "寒",
-    "effects": [
-      "清热"
-    ],
-    "regions": [
-      "CN"
-    ],
-    "provinces": [
-      "广西",
-      "广东"
-    ],
-    "aliases": [
-      "马蹄"
-    ],
-    "pinyin": "biqi",
-    "initials": "bq",
-    "searchTerms": [
-      "biqi",
-      "bq",
-      "arrowhead",
-      "荸荠",
-      "马蹄"
-    ],
-    "summary": "水生根茎，清脆甘甜，宜生食、煲汤。",
-    "caution": "脾胃虚寒、生食需洗净去皮。"
-  },
-  {
     "id": "water-chestnut",
     "name": "菱角",
     "en": "water chestnut",

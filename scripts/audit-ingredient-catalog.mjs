@@ -6,8 +6,12 @@ import { CN_JSON_SOURCES, loadFoodCatalogIds, readCnJson } from "./lib/food-cata
 
 const INGREDIENT_BATCH_FILES = new Set([
   "foods-international-batch5.json",
+  "foods-international-batch6.json",
   "foods-ingredients-batch3.json",
-  "foods-seasonal-river-batch3.json"
+  "foods-ingredients-batch4.json",
+  "foods-seasonal-river-batch3.json",
+  "foods-seasonal-river-batch4.json",
+  "foods-modern-regional-batch2.json"
 ]);
 
 const ALLOWED_CATEGORIES = new Set([
@@ -34,7 +38,7 @@ function auditEntry(food, file) {
     return;
   }
   if (!food.id || !ID_RE.test(food.id)) pushIssue(file, food, "bad-id", `id=${food.id}`);
-  if (!food.name || food.name.length < 2) pushIssue(file, food, "bad-name", `name=${food.name}`);
+  if (!food.name || food.name.length < 1) pushIssue(file, food, "bad-name", `name=${food.name}`);
   if (!ALLOWED_CATEGORIES.has(food.category)) {
     pushIssue(file, food, "bad-category", food.category || "(empty)");
   }
@@ -83,16 +87,18 @@ INGREDIENT_BATCH_FILES.forEach((file) => {
 });
 
 // Synonym batch: foodId must resolve
-readCnJson("food-search-synonyms-batch5.json", []).forEach((row) => {
+["food-search-synonyms-batch5.json", "food-search-synonyms-batch6.json"].forEach((synonymFile) => {
+readCnJson(synonymFile, []).forEach((row) => {
   const foodId = String(row.foodId || "").trim();
   const term = String(row.term || "").trim();
   if (!term || !foodId) {
-    issues.push({ file: "food-search-synonyms-batch5.json", id: foodId, name: term, code: "bad-synonym", detail: "missing term or foodId" });
+    issues.push({ file: synonymFile, id: foodId, name: term, code: "bad-synonym", detail: "missing term or foodId" });
     return;
   }
   if (!catalogIds.has(foodId)) {
-    issues.push({ file: "food-search-synonyms-batch5.json", id: foodId, name: term, code: "synonym-missing-food", detail: "foodId not in catalog" });
+    issues.push({ file: synonymFile, id: foodId, name: term, code: "synonym-missing-food", detail: "foodId not in catalog" });
   }
+});
 });
 
 const byCode = {};

@@ -1719,5 +1719,647 @@ const HANDCRAFTED_RECIPES = [
     "note": "晚间少量食用更宜。",
     "draft": false,
     "sources": []
+  },
+  {
+    "id": "miso-tofu-soup",
+    "name": "味噌豆腐汤",
+    "nature": "温",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "miso",
+      "silken-tofu",
+      "dashi-kombu"
+    ],
+    "dietaryScenes": [
+      "素食"
+    ],
+    "subtitle": "温胃益气",
+    "ingredients": [
+      "味噌 20 克",
+      "绢豆腐 150 克",
+      "昆布高汤料 5 克",
+      "清水 500 ml"
+    ],
+    "steps": [
+      "昆布出味后取出",
+      "味噌用少量汤化开回锅",
+      "下豆腐块轻煮 3 分钟",
+      "温热食用"
+    ],
+    "note": "部分味噌含鱼介成分，严格全植物者需看配料表。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "豆酱入汤温中，配豆腐益气养胃。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "natto-rice-bowl",
+    "name": "纳豆拌饭",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "natto",
+      "rice"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物"
+    ],
+    "subtitle": "轻补蛋白",
+    "ingredients": [
+      "纳豆 1 盒",
+      "热米饭 1 碗",
+      "酱油少许"
+    ],
+    "steps": [
+      "纳豆搅拌拉丝",
+      "盖于热饭上",
+      "可按口味点酱油"
+    ],
+    "note": "发酵气味浓烈，初次少量尝试；服用抗凝药者咨询医生。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "大豆发酵品配米饭，日常轻补。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "kimchi-tofu-stew",
+    "name": "韩式泡菜豆腐锅",
+    "nature": "温",
+    "syndromes": [
+      "食积",
+      "肝胃不和"
+    ],
+    "foodIds": [
+      "kimchi-kr",
+      "tofu",
+      "gochujang"
+    ],
+    "dietaryScenes": [
+      "素食"
+    ],
+    "subtitle": "开胃消食",
+    "ingredients": [
+      "韩式泡菜 100 克",
+      "豆腐 200 克",
+      "韩式辣椒酱 1 汤匙",
+      "清水 400 ml"
+    ],
+    "steps": [
+      "泡菜略炒出香",
+      "加水煮开",
+      "下豆腐炖 8 分钟"
+    ],
+    "note": "辛辣高盐，胃热、高血压者适量；部分泡菜含鱼露。",
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "酸辣泡菜开胃，配豆腐缓和刺激。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "tempeh-vegetable-stirfry",
+    "name": "天贝时蔬炒",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "tempeh",
+      "broccoli"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "subtitle": "植物蛋白",
+    "ingredients": [
+      "天贝 200 克",
+      "西兰花 150 克",
+      "生姜 2 片",
+      "橄榄油 1 汤匙"
+    ],
+    "steps": [
+      "天贝切片煎至表面金黄",
+      "下西兰花与姜片快炒",
+      "少盐调味"
+    ],
+    "note": "大豆过敏者禁用。",
+    "sources": [
+      {
+        "title": "现代食疗整理",
+        "summary": "发酵大豆配时蔬，补充优质蛋白。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "quinoa-chickpea-bowl",
+    "name": "藜麦鹰嘴豆碗",
+    "nature": "平",
+    "syndromes": [
+      "气血两虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "quinoa",
+      "chickpea",
+      "olive-oil"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真",
+      "无麸质"
+    ],
+    "subtitle": "全植物补养",
+    "ingredients": [
+      "藜麦 50 克",
+      "鹰嘴豆 80 克",
+      "橄榄油 1 茶匙",
+      "柠檬汁少许"
+    ],
+    "steps": [
+      "藜麦煮熟沥干",
+      "鹰嘴豆煮软或罐头沥干",
+      "拌入橄榄油与柠檬汁"
+    ],
+    "note": "胀气体质鹰嘴豆宜充分煮透、少量开始。",
+    "sources": [
+      {
+        "title": "现代食疗整理",
+        "summary": "全植物蛋白组合，适合恢复期轻食。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "kombu-miso-clear-soup",
+    "name": "昆布味噌清汤",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "dashi-kombu",
+      "miso",
+      "wakame"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "subtitle": "清淡养阴",
+    "ingredients": [
+      "干昆布 10 克",
+      "味噌 15 克",
+      "裙带菜 5 克",
+      "清水 600 ml"
+    ],
+    "steps": [
+      "昆布冷水浸泡后小火煮 10 分钟",
+      "取出昆布，味噌化开",
+      "下裙带菜即关火"
+    ],
+    "note": "甲状腺疾病者对海带类碘摄入遵医嘱。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "海菜清汤养阴，味噌温胃。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "shepherd-purse-pork-wonton",
+    "name": "荠菜猪肉馄饨汤",
+    "nature": "平",
+    "syndromes": [
+      "肝郁气滞",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "shepherd-purse",
+      "pork",
+      "ginger"
+    ],
+    "subtitle": "春令养肝",
+    "ingredients": [
+      "荠菜 150 克",
+      "猪肉末 100 克",
+      "馄饨皮适量",
+      "生姜 2 片"
+    ],
+    "steps": [
+      "荠菜焯水切碎与肉末调味",
+      "包馄饨煮熟",
+      "配生姜清汤食用"
+    ],
+    "note": "荠菜性寒，脾胃虚寒者宜加姜、不宜多食生冷。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "荠菜明目疏肝，春令馄饨为民间常法。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "yellow-eel-ginger-stew",
+    "name": "黄鳝红枣生姜煲",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "yellow-eel",
+      "ginger",
+      "jujube"
+    ],
+    "subtitle": "温中补血",
+    "ingredients": [
+      "黄鳝 2 条",
+      "生姜 5 片",
+      "红枣 3 枚"
+    ],
+    "steps": [
+      "黄鳝洗净切段焯水",
+      "与生姜、红枣同炖至熟烂"
+    ],
+    "note": "须彻底煮熟；湿热疮疡期慎食。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "黄鳝配生姜，温中补虚。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "river-shrimp-coix-porridge",
+    "name": "河虾薏米养胃粥",
+    "nature": "平",
+    "syndromes": [
+      "肾阳虚",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "river-shrimp",
+      "coix-seed",
+      "rice"
+    ],
+    "subtitle": "补肾利湿",
+    "ingredients": [
+      "河虾 80 克",
+      "薏米 30 克",
+      "大米 60 克"
+    ],
+    "steps": [
+      "薏米浸泡 2 小时",
+      "与大米同煮至半熟",
+      "加河虾煮熟"
+    ],
+    "note": "海鲜过敏者禁食；痛风适量。",
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "河鲜配薏米，利湿补虚。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "river-snail-perilla-soup",
+    "name": "紫苏螺蛳汤",
+    "nature": "温",
+    "syndromes": [
+      "湿热内蕴",
+      "食积"
+    ],
+    "foodIds": [
+      "river-snail",
+      "shiso-leaf",
+      "ginger"
+    ],
+    "subtitle": "祛湿开胃",
+    "ingredients": [
+      "螺蛳 500 克",
+      "紫苏叶 10 克",
+      "生姜 4 片",
+      "料酒 1 汤匙"
+    ],
+    "steps": [
+      "螺蛳吐沙洗净",
+      "与生姜、料酒同煮 20 分钟",
+      "下紫苏再煮 3 分钟"
+    ],
+    "note": "须煮透；寄生虫风险高，不宜生食或半生。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "螺蛳配紫苏生姜，祛湿消积。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "malantou-tofu-stirfry",
+    "name": "马兰头拌豆腐",
+    "nature": "凉",
+    "syndromes": [
+      "肝阳上亢",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "malantou",
+      "tofu"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "subtitle": "清热凉血",
+    "ingredients": [
+      "马兰头 200 克",
+      "嫩豆腐 150 克",
+      "香油少许"
+    ],
+    "steps": [
+      "马兰头焯水过凉切碎",
+      "与豆腐拌匀",
+      "少盐香油调味"
+    ],
+    "note": "脾胃虚寒者不宜多食生冷。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "江南春令野菜，清热凉血。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "water-shield-egg-soup",
+    "name": "莼菜蛋花汤",
+    "nature": "凉",
+    "syndromes": [
+      "胃阴虚",
+      "肺阴虚"
+    ],
+    "foodIds": [
+      "water-shield",
+      "egg"
+    ],
+    "subtitle": "养阴清热",
+    "ingredients": [
+      "莼菜 100 克",
+      "鸡蛋 1 个",
+      "生姜 1 片"
+    ],
+    "steps": [
+      "清水烧开",
+      "下莼菜与蛋液成花",
+      "生姜点缀"
+    ],
+    "note": "莼菜滑嫩不宜久煮；脾胃虚寒者适量。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "莼菜羹为江南名肴，养阴清胃。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "enoki-tofu-soup",
+    "name": "金针菇豆腐汤",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "enoki-mushroom",
+      "tofu",
+      "ginger"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "subtitle": "健脾和胃",
+    "ingredients": [
+      "金针菇 150 克",
+      "豆腐 200 克",
+      "生姜 2 片"
+    ],
+    "steps": [
+      "水开下生姜",
+      "放金针菇、豆腐煮 6 分钟",
+      "少盐调味"
+    ],
+    "note": "金针菇须煮熟；消化不良者细嚼慢咽。",
+    "sources": [
+      {
+        "title": "现代食疗整理",
+        "summary": "菌菇豆腐汤清淡健脾。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "gochujang-tofu-stew",
+    "name": "韩式辣酱炖豆腐",
+    "nature": "温",
+    "syndromes": [
+      "食积",
+      "肝胃不和"
+    ],
+    "foodIds": [
+      "gochujang",
+      "tofu",
+      "garlic"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物"
+    ],
+    "subtitle": "辛辣开胃",
+    "ingredients": [
+      "韩式辣椒酱 1.5 汤匙",
+      "豆腐 300 克",
+      "大蒜 2 瓣",
+      "清水 300 ml"
+    ],
+    "steps": [
+      "蒜片略炒",
+      "加辣酱与清水煮开",
+      "下豆腐炖 8 分钟"
+    ],
+    "note": "胃溃疡、痔疮发作期适量。",
+    "sources": [
+      {
+        "title": "现代食疗整理",
+        "summary": "全植物辣炖豆腐，开胃消食。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "halal-lamb-cumin-stew",
+    "name": "孜然清真羊肉煲",
+    "nature": "温",
+    "syndromes": [
+      "肾阳虚",
+      "脾阳虚"
+    ],
+    "foodIds": [
+      "halal-lamb",
+      "cumin",
+      "white-radish"
+    ],
+    "dietaryScenes": [
+      "清真"
+    ],
+    "subtitle": "温阳散寒",
+    "ingredients": [
+      "清真羊肉 300 克",
+      "孜然 1 茶匙",
+      "白萝卜 200 克",
+      "生姜 4 片"
+    ],
+    "steps": [
+      "羊肉焯水",
+      "与萝卜、生姜、孜然同炖 90 分钟"
+    ],
+    "note": "体质偏热、痤疮旺盛者适量；高尿酸者控量。",
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "羊肉配孜然温中，清真烹调常见。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "liver-qi-stagnation-rose-tea",
+    "name": "佛手玫瑰理气茶",
+    "nature": "温",
+    "syndromes": [
+      "肝郁气滞",
+      "肝胃不和"
+    ],
+    "foodIds": [
+      "official-rose",
+      "bergamot"
+    ],
+    "subtitle": "疏肝理气",
+    "ingredients": [
+      "玫瑰花 3 克",
+      "佛手 5 克",
+      "热水 400 ml"
+    ],
+    "steps": [
+      "玫瑰花与佛手片同泡或短煮",
+      "温热饮用"
+    ],
+    "note": "阴虚火旺、孕妇慎用大量佛手。",
+    "sources": [
+      {
+        "title": "《随园食单》",
+        "summary": "玫瑰佛手疏肝解郁。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "yin-deficiency-heat-mung-lily",
+    "name": "绿豆百合饮",
+    "nature": "寒",
+    "syndromes": [
+      "阴虚内热",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "mung-bean",
+      "lily-bulb"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "subtitle": "清热养阴",
+    "ingredients": [
+      "绿豆 40 克",
+      "百合 20 克",
+      "清水 800 ml"
+    ],
+    "steps": [
+      "绿豆浸泡后煮至开花",
+      "加百合再煮 15 分钟"
+    ],
+    "note": "脾胃虚寒、腹泻者忌用。",
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "绿豆百合清热养阴。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "kidney-yang-mutton-walnut",
+    "name": "核桃生姜羊肉粥",
+    "nature": "温",
+    "syndromes": [
+      "肾阳虚"
+    ],
+    "foodIds": [
+      "lamb",
+      "walnut",
+      "ginger",
+      "rice"
+    ],
+    "subtitle": "补肾温阳",
+    "ingredients": [
+      "羊肉 100 克",
+      "核桃仁 15 克",
+      "生姜 3 片",
+      "大米 60 克"
+    ],
+    "steps": [
+      "羊肉焯水切丁",
+      "与核桃、生姜、米同煮成粥"
+    ],
+    "note": "阴虚火旺、感冒发热者不宜。",
+    "sources": [
+      {
+        "title": "《千金要方·食治篇》",
+        "summary": "核桃羊肉温补肾阳。"
+      }
+    ],
+    "draft": false
   }
 ];

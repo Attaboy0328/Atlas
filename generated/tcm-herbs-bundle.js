@@ -1598,6 +1598,59 @@ const TCM_HERBS_CORE = [
     ]
   },
   {
+    "id": "balanophora-herb",
+    "name": "百灵草",
+    "aliases": [
+      "百蕊草"
+    ],
+    "en": "balanophora herb",
+    "pinyin": "bailingcao",
+    "initials": "blc",
+    "itemKind": "tcm-herb",
+    "usageScope": "reference-only",
+    "officialFoodMedicine": false,
+    "category": "中药材",
+    "nature": "平",
+    "flavor": "甘、淡",
+    "meridians": [
+      "肝",
+      "肾"
+    ],
+    "partUsed": "全草",
+    "effects": [
+      "清热利湿",
+      "行气止痛",
+      "补肾"
+    ],
+    "relatedForms": [],
+    "pharmacopoeiaEdition": "2025",
+    "pharmacopoeiaOfficialName": "百蕊草",
+    "summary": "百灵草为民间常用称呼，药典2025正名作百蕊草，传统整理多作清热利湿、行气止痛参考。",
+    "caution": "非药食同源条目，仅供中药信息查阅，不替代诊断、处方或医嘱；孕妇及体虚者慎用。",
+    "sources": [
+      {
+        "title": "《中华人民共和国药典》2025年版",
+        "summary": "药典正名「百蕊草」；百灵草为常见异名整理。"
+      }
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "贵州",
+      "广西",
+      "广东"
+    ],
+    "searchTerms": [
+      "bailingcao",
+      "blc",
+      "百灵草",
+      "百蕊草",
+      "balanophora"
+    ]
+  },
+  {
     "id": "platycladus-seed",
     "name": "柏子仁",
     "aliases": [
