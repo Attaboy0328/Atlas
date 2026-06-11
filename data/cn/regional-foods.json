@@ -142,7 +142,8 @@
     "aliases": [
       "火腿"
     ],
-    "summary": "云南名产，偏温咸鲜。"
+    "summary": "云南名产，偏温咸鲜。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "jinhua-ham",
@@ -184,7 +185,8 @@
       "mahua",
       "mh"
     ],
-    "summary": "北方传统油炸点心，偏温腻。"
+    "summary": "北方传统油炸点心，偏温腻。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "beijing-kaoya",
@@ -252,7 +254,8 @@
       "yangrouchuan",
       "yrc"
     ],
-    "summary": "西北与草原地区常见，偏热。"
+    "summary": "西北与草原地区常见，偏热。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hand-pulled-noodle",
@@ -300,7 +303,8 @@
       "roujiamo",
       "rjm"
     ],
-    "summary": "陕西方代表小吃。"
+    "summary": "陕西方代表小吃。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "biangbiang-noodle",
@@ -321,7 +325,8 @@
       "biangbiangmian",
       "bbm"
     ],
-    "summary": "陕西宽面，常配油泼辣子。"
+    "summary": "陕西宽面，常配油泼辣子。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hot-dry-noodle",
@@ -342,7 +347,8 @@
       "reganmian",
       "rgm"
     ],
-    "summary": "武汉早点代表。"
+    "summary": "武汉早点代表。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "stinky-tofu",
@@ -454,7 +460,8 @@
       "ysj"
     ],
     "summary": "云南菌菇资源，需充分熟食。",
-    "caution": "务必充分加热，不识别品种勿采食。"
+    "caution": "务必充分加热，不识别品种勿采食。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "pu-er-tea",
@@ -476,7 +483,8 @@
       "puercha",
       "pec"
     ],
-    "summary": "云南黑茶代表，偏温。"
+    "summary": "云南黑茶代表，偏温。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "tieguanyin",
@@ -498,7 +506,8 @@
       "tieguanyin",
       "tgy"
     ],
-    "summary": "闽南乌龙茶代表。"
+    "summary": "闽南乌龙茶代表。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "longjing-tea",
@@ -520,7 +529,8 @@
       "longjing",
       "lj"
     ],
-    "summary": "西湖龙井，绿茶代表。"
+    "summary": "西湖龙井，绿茶代表。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "keemun-tea",
@@ -567,7 +577,8 @@
       "suyoucha",
       "syc"
     ],
-    "summary": "藏区传统饮品，高热量。"
+    "summary": "藏区传统饮品，高热量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "milk-tea-mongol",
@@ -591,7 +602,8 @@
       "menggunaicha",
       "mgnc"
     ],
-    "summary": "草原传统咸奶茶。"
+    "summary": "草原传统咸奶茶。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "qingke",
@@ -641,7 +653,8 @@
       "zanba",
       "zb"
     ],
-    "summary": "青稞炒面制主食。"
+    "summary": "青稞炒面制主食。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hand-grasp-mutton",
@@ -690,7 +703,8 @@
       "nang",
       "ng"
     ],
-    "summary": "新疆烤馕，日常主食。"
+    "summary": "新疆烤馕，日常主食。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "big-plate-chicken",
@@ -711,7 +725,8 @@
       "dapanji",
       "dpj"
     ],
-    "summary": "新疆融合菜代表。"
+    "summary": "新疆融合菜代表。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "miao-sour-fish",
@@ -736,7 +751,8 @@
       "suantangyu",
       "sty"
     ],
-    "summary": "黔东南酸汤鱼，开胃暖身。"
+    "summary": "黔东南酸汤鱼，开胃暖身。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "bamboo-rice",
@@ -761,7 +777,8 @@
       "zhutongfan",
       "ztf"
     ],
-    "summary": "少数民族竹筒蒸饭。"
+    "summary": "少数民族竹筒蒸饭。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "crossing-bridge-noodle",
@@ -782,7 +799,8 @@
       "guoqiaomixian",
       "gqmx"
     ],
-    "summary": "云南名小吃，热汤现烫。"
+    "summary": "云南名小吃，热汤现烫。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hotpot-base",
@@ -847,7 +865,8 @@
       "meigancai",
       "mgc"
     ],
-    "summary": "江南常用干菜。"
+    "summary": "江南常用干菜。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snow-cabbage",
@@ -890,7 +909,8 @@
       "dongporou",
       "dpr"
     ],
-    "summary": "江南红烧猪肉代表，偏温热油腻。"
+    "summary": "江南红烧猪肉代表，偏温热油腻。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "wuxi-rib",
@@ -932,7 +952,8 @@
       "dezhoubaji",
       "dzbj"
     ],
-    "summary": "鲁西名产，偏温。"
+    "summary": "鲁西名产，偏温。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "guilin-rice-noodle",
@@ -956,7 +977,8 @@
       "guilinmifen",
       "glmf"
     ],
-    "summary": "广西代表性米粉。"
+    "summary": "广西代表性米粉。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "shahe-fen",
@@ -1002,7 +1024,8 @@
       "shachamian",
       "scm"
     ],
-    "summary": "闽南沙茶酱汤面。"
+    "summary": "闽南沙茶酱汤面。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "boat-congee",
@@ -1044,7 +1067,8 @@
       "fotiaoqiang",
       "ftq"
     ],
-    "summary": "闽菜名汤，多海味同炖，偏温补。"
+    "summary": "闽菜名汤，多海味同炖，偏温补。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sour-cabbage-hotpot",
@@ -1237,7 +1261,8 @@
       "luosifen",
       "lsf"
     ],
-    "summary": "柳州酸辣粉，偏热辣。"
+    "summary": "柳州酸辣粉，偏热辣。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "chongqing-noodles",
@@ -1258,7 +1283,8 @@
       "chongqingxiaomian",
       "cqxm"
     ],
-    "summary": "渝派麻辣小面。"
+    "summary": "渝派麻辣小面。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "shanxi-vinegar-noodle",
@@ -1300,6 +1326,7 @@
       "hailijian",
       "hlj"
     ],
-    "summary": "闽南海蛎煎。"
+    "summary": "闽南海蛎煎。",
+    "hiddenFromLibrary": true
   }
 ]

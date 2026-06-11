@@ -3558,7 +3558,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-buckthorn-fruit",
@@ -3933,7 +3934,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "wood-ginger-oil",
@@ -9681,7 +9683,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-kudzu",

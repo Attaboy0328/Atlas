@@ -19,8 +19,22 @@ const INGREDIENT_BATCH_FILES = new Set([
   "foods-china-produce-batch10.json",
   "foods-china-snacks-batch11.json",
   "foods-hk-ingredients-batch.json",
-  "foods-china-curated-batch12.json"
+  "foods-mo-ingredients-batch.json",
+  "foods-gx-ingredients-batch.json",
+  "foods-hainan-ingredients-batch.json",
+  "foods-china-curated-batch12.json",
+  "foods-china-curated-batch13.json",
+  "foods-china-curated-batch14.json"
 ]);
+
+const POOL_BATCH_FILES = new Set([
+  "foods-china-regional-batch7.json",
+  "foods-china-condiments-batch8.json",
+  "foods-china-seafood-batch9.json",
+  "foods-china-produce-batch10.json",
+  "foods-china-snacks-batch11.json"
+]);
+const TEMPLATE_RE = /民间常见.+食养整理条目/;
 
 const ALLOWED_CATEGORIES = new Set([
   "食药物质", "调料", "茶饮", "饮品", "谷物", "主食", "豆类", "豆制品",
@@ -95,7 +109,15 @@ INGREDIENT_BATCH_FILES.forEach((file) => {
 });
 
 // Synonym batch: foodId must resolve
-["food-search-synonyms-batch5.json", "food-search-synonyms-batch6.json", "food-search-synonyms-batch7.json", "food-search-synonyms-batch8-hk.json"].forEach((synonymFile) => {
+[
+  "food-search-synonyms-batch5.json",
+  "food-search-synonyms-batch6.json",
+  "food-search-synonyms-batch7.json",
+  "food-search-synonyms-batch8-hk.json",
+  "food-search-synonyms-batch9-mo.json",
+  "food-search-synonyms-batch9-gx.json",
+  "food-search-synonyms-batch9-hainan.json"
+].forEach((synonymFile) => {
 readCnJson(synonymFile, []).forEach((row) => {
   const foodId = String(row.foodId || "").trim();
   const term = String(row.term || "").trim();
@@ -114,7 +136,29 @@ issues.forEach((row) => {
   byCode[row.code] = (byCode[row.code] || 0) + 1;
 });
 
+let poolTotal = 0;
+let poolTemplate = 0;
+POOL_BATCH_FILES.forEach((file) => {
+  readCnJson(file, []).forEach((food) => {
+    poolTotal += 1;
+    if (TEMPLATE_RE.test(String(food.summary || ""))) poolTemplate += 1;
+  });
+});
+const poolTemplateRatio = poolTotal ? poolTemplate / poolTotal : 0;
+if (poolTemplateRatio > 0.3) {
+  issues.push({
+    file: "pool-batches",
+    id: "",
+    name: "",
+    code: "pool-template-ratio",
+    detail: `${(poolTemplateRatio * 100).toFixed(1)}% > 30% (${poolTemplate}/${poolTotal})`
+  });
+}
+
 console.log(`[audit-ingredient-catalog] ${issues.length} issue(s) across ${INGREDIENT_BATCH_FILES.size} batch files`);
+if (poolTotal) {
+  console.log(`  pool template ratio: ${(poolTemplateRatio * 100).toFixed(1)}% (${poolTemplate}/${poolTotal})`);
+}
 Object.entries(byCode).forEach(([code, count]) => console.log(`  ${code}: ${count}`));
 issues.slice(0, 12).forEach((row) => {
   console.log(`    - ${row.file} ${row.id} (${row.name}): ${row.code} — ${row.detail}`);

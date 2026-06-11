@@ -1,0 +1,15 @@
+{
+  "note": "Regional schema overlay for classic diet recipes — merged at build time by name match.",
+  "byName": {
+    "黄芪炖鸡": { "provinces": ["广东"], "cuisine": "粤菜", "recipeTopic": "补气养血" },
+    "菊花枸杞茶": { "provinces": ["广东"], "cuisine": "粤菜", "recipeTopic": "清肝明目" },
+    "冬瓜薏米汤": { "provinces": ["广东"], "cuisine": "粤菜", "recipeTopic": "清热祛湿" },
+    "百合莲子羹": { "provinces": ["广东"], "cuisine": "粤菜", "recipeTopic": "养心安神" },
+    "杜仲猪腰汤": { "provinces": ["广东"], "cuisine": "粤菜", "recipeTopic": "温肾助阳" },
+    "当归生姜羊肉汤": { "provinces": ["四川"], "cuisine": "川菜", "recipeTopic": "补血温阳" },
+    "银耳红枣汤": { "provinces": ["福建"], "cuisine": "闽菜", "recipeTopic": "润肺养阴" },
+    "山药薏米粥": { "provinces": ["广东"], "cuisine": "粤菜", "recipeTopic": "健脾祛湿" },
+    "莲子猪肚汤": { "provinces": ["广东"], "cuisine": "粤菜", "recipeTopic": "养胃益气" },
+    "沙参玉竹鸭汤": { "provinces": ["广东"], "cuisine": "粤菜", "recipeTopic": "滋阴润燥" }
+  }
+}

@@ -1,0 +1,772 @@
+[
+  {
+    "id": "hi-wenchang-chicken",
+    "name": "文昌鸡",
+    "en": "文昌鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hiwenchangchicken",
+    "initials": "hi-",
+    "searchTerms": [
+      "文昌鸡",
+      "hi-wenchang-chicken"
+    ],
+    "summary": "海南文昌鸡，温中益气滋补。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-jiaji-duck",
+    "name": "加积鸭",
+    "en": "加积鸭",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hijiajiduck",
+    "initials": "hi-",
+    "searchTerms": [
+      "加积鸭",
+      "hi-jiaji-duck"
+    ],
+    "summary": "海南加积鸭，滋阴补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-dongshan-goat",
+    "name": "东山羊",
+    "en": "东山羊",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hidongshangoat",
+    "initials": "hi-",
+    "searchTerms": [
+      "东山羊",
+      "hi-dongshan-goat"
+    ],
+    "summary": "海南东山羊，温阳补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-hele-crab",
+    "name": "和乐蟹",
+    "en": "和乐蟹",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hihelecrab",
+    "initials": "hi-",
+    "searchTerms": [
+      "和乐蟹",
+      "hi-hele-crab"
+    ],
+    "summary": "海南和乐膏蟹，滋阴鲜味，寒凉适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-coconut-hi",
+    "name": "椰子",
+    "en": "椰子",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hicoconuthi",
+    "initials": "hi-",
+    "searchTerms": [
+      "椰子",
+      "hi-coconut-hi"
+    ],
+    "summary": "海南椰子，生津润燥补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-coconut-rice",
+    "name": "椰子饭",
+    "en": "椰子饭",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hicoconutrice",
+    "initials": "hi-",
+    "searchTerms": [
+      "椰子饭",
+      "hi-coconut-rice"
+    ],
+    "summary": "海南椰香糯米饭，健脾益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-qingbuliang",
+    "name": "清补凉",
+    "en": "清补凉",
+    "category": "饮品",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hiqingbuliang",
+    "initials": "hi-",
+    "searchTerms": [
+      "清补凉",
+      "hi-qingbuliang"
+    ],
+    "summary": "海南清补凉糖水，清热解暑。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-yellow-chili",
+    "name": "黄灯笼椒",
+    "en": "黄灯笼椒",
+    "category": "蔬菜",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "aliases": [
+      "海南灯笼椒"
+    ],
+    "pinyin": "hiyellowchili",
+    "initials": "hi-",
+    "searchTerms": [
+      "黄灯笼椒",
+      "海南灯笼椒",
+      "hi-yellow-chili"
+    ],
+    "summary": "海南黄灯笼辣椒，辛温开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-zaochu-vinegar",
+    "name": "糟粕醋",
+    "en": "糟粕醋",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hizaochuvinegar",
+    "initials": "hi-",
+    "searchTerms": [
+      "糟粕醋",
+      "hi-zaochu-vinegar"
+    ],
+    "summary": "海南糟粕醋，发酵酸辣开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-wild-pineapple",
+    "name": "凤梨",
+    "en": "凤梨",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hiwildpineapple",
+    "initials": "hi-",
+    "searchTerms": [
+      "凤梨",
+      "hi-wild-pineapple"
+    ],
+    "summary": "海南热带凤梨，生津消食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-mango-hi",
+    "name": "芒果",
+    "en": "芒果",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "himangohi",
+    "initials": "hi-",
+    "searchTerms": [
+      "芒果",
+      "hi-mango-hi"
+    ],
+    "summary": "海南芒果，生津润燥适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-lychee-hi",
+    "name": "荔枝",
+    "en": "荔枝",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hilycheehi",
+    "initials": "hi-",
+    "searchTerms": [
+      "荔枝",
+      "hi-lychee-hi"
+    ],
+    "summary": "海南荔枝，温中益气，多食上火。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-longan-hi",
+    "name": "龙眼",
+    "en": "龙眼",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hilonganhi",
+    "initials": "hi-",
+    "searchTerms": [
+      "龙眼",
+      "hi-longan-hi"
+    ],
+    "summary": "海南龙眼，补血安神适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-papaya-hi",
+    "name": "木瓜",
+    "en": "木瓜",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hipapayahi",
+    "initials": "hi-",
+    "searchTerms": [
+      "木瓜",
+      "hi-papaya-hi"
+    ],
+    "summary": "海南木瓜，健脾润肺。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-sea-snail",
+    "name": "花螺",
+    "en": "花螺",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hiseasnail",
+    "initials": "hi-",
+    "searchTerms": [
+      "花螺",
+      "hi-sea-snail"
+    ],
+    "summary": "海南花螺，滋阴鲜味海产。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-grouper",
+    "name": "石斑鱼",
+    "en": "石斑鱼",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "higrouper",
+    "initials": "hi-",
+    "searchTerms": [
+      "石斑鱼",
+      "hi-grouper"
+    ],
+    "summary": "海南石斑鱼，益气养血。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-squid-hi",
+    "name": "鱿鱼",
+    "en": "鱿鱼",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hisquidhi",
+    "initials": "hi-",
+    "searchTerms": [
+      "鱿鱼",
+      "hi-squid-hi"
+    ],
+    "summary": "海南鲜鱿鱼，滋阴补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-sea-eel",
+    "name": "黄鳝",
+    "en": "黄鳝",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hiseaeel",
+    "initials": "hi-",
+    "searchTerms": [
+      "黄鳝",
+      "hi-sea-eel"
+    ],
+    "summary": "海南黄鳝，温中补血。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-seaweed-hi",
+    "name": "紫菜",
+    "en": "紫菜",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hiseaweedhi",
+    "initials": "hi-",
+    "searchTerms": [
+      "紫菜",
+      "hi-seaweed-hi"
+    ],
+    "summary": "海南紫菜，清热化痰。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-taro-hi",
+    "name": "芋头",
+    "en": "芋头",
+    "category": "薯类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hitarohi",
+    "initials": "hi-",
+    "searchTerms": [
+      "芋头",
+      "hi-taro-hi"
+    ],
+    "summary": "海南芋头，健脾益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-sweet-potato-hi",
+    "name": "番薯",
+    "en": "番薯",
+    "category": "薯类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hisweetpotatohi",
+    "initials": "hi-",
+    "searchTerms": [
+      "番薯",
+      "hi-sweet-potato-hi"
+    ],
+    "summary": "海南番薯，补中益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-wild-rice",
+    "name": "山兰酒",
+    "en": "山兰酒",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "aliases": [
+      "山兰糯酒"
+    ],
+    "pinyin": "hiwildrice",
+    "initials": "hi-",
+    "searchTerms": [
+      "山兰酒",
+      "山兰糯酒",
+      "hi-wild-rice"
+    ],
+    "summary": "海南黎族山兰酒，温中活血少量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-bamboo-shoot",
+    "name": "竹笋",
+    "en": "竹笋",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hibambooshoot",
+    "initials": "hi-",
+    "searchTerms": [
+      "竹笋",
+      "hi-bamboo-shoot"
+    ],
+    "summary": "海南鲜笋，清热化痰。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-bitter-melon-hi",
+    "name": "苦瓜",
+    "en": "苦瓜",
+    "category": "蔬菜",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "aliases": [
+      "凉瓜"
+    ],
+    "pinyin": "hibittermelonhi",
+    "initials": "hi-",
+    "searchTerms": [
+      "苦瓜",
+      "凉瓜",
+      "hi-bitter-melon-hi"
+    ],
+    "summary": "海南苦瓜，清热解暑。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-water-spinach-hi",
+    "name": "空心菜",
+    "en": "空心菜",
+    "category": "蔬菜",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "aliases": [
+      "通菜"
+    ],
+    "pinyin": "hiwaterspinachhi",
+    "initials": "hi-",
+    "searchTerms": [
+      "空心菜",
+      "通菜",
+      "hi-water-spinach-hi"
+    ],
+    "summary": "海南空心菜，清热通肠。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-herbal-tea-hi",
+    "name": "凉茶",
+    "en": "凉茶",
+    "category": "茶饮",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hiherbalteahi",
+    "initials": "hi-",
+    "searchTerms": [
+      "凉茶",
+      "hi-herbal-tea-hi"
+    ],
+    "summary": "海南凉茶，清热祛湿。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-coconut-chicken-soup",
+    "name": "椰子鸡汤料",
+    "en": "椰子鸡汤料",
+    "category": "滋补食材",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hicoconutchickensoup",
+    "initials": "hi-",
+    "searchTerms": [
+      "椰子鸡汤料",
+      "hi-coconut-chicken-soup"
+    ],
+    "summary": "海南椰子鸡底料，补虚生津。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-sour-bamboo-hi",
+    "name": "酸笋",
+    "en": "酸笋",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hisourbamboohi",
+    "initials": "hi-",
+    "searchTerms": [
+      "酸笋",
+      "hi-sour-bamboo-hi"
+    ],
+    "summary": "海南酸笋，开胃消食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-preserved-mango",
+    "name": "芒果干",
+    "en": "芒果干",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "pinyin": "hipreservedmango",
+    "initials": "hi-",
+    "searchTerms": [
+      "芒果干",
+      "hi-preserved-mango"
+    ],
+    "summary": "海南芒果干，生津适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "hi-sea-coconut-drink",
+    "name": "椰青",
+    "en": "椰青",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "海南"
+    ],
+    "aliases": [
+      "嫩椰子"
+    ],
+    "pinyin": "hiseacoconutdrink",
+    "initials": "hi-",
+    "searchTerms": [
+      "椰青",
+      "嫩椰子",
+      "hi-sea-coconut-drink"
+    ],
+    "summary": "海南椰青，清热生津。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

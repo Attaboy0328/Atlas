@@ -597,7 +597,8 @@
       "榨菜"
     ],
     "summary": "芥菜头腌渍制品，咸脆开胃，配粥面条。",
-    "caution": "高盐，高血压与肾病者控量。"
+    "caution": "高盐，高血压与肾病者控量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "pickled-mustard-greens",

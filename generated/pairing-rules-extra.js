@@ -1279,5 +1279,125 @@ const PAIRING_RULES_ALL = [
     "level": "caution",
     "category": "传统食养",
     "text": "民间偶有炖汤记载，非日常食材；药用须遵医嘱，不可自行大量食用。"
+  },
+  {
+    "ids": [
+      "chenpi-dried",
+      "pork"
+    ],
+    "title": "陈皮与瘦肉",
+    "level": "good",
+    "category": "粤式汤料",
+    "text": "岭南老火汤经典配伍，陈皮理气健脾，瘦肉滋阴不腻。"
+  },
+  {
+    "ids": [
+      "watercress",
+      "pork"
+    ],
+    "title": "西洋菜与猪骨",
+    "level": "good",
+    "category": "粤式汤料",
+    "text": "港式西洋菜汤常用搭配，清热润肺、健脾开胃。"
+  },
+  {
+    "ids": [
+      "coix-seed",
+      "winter-melon"
+    ],
+    "title": "薏米与冬瓜",
+    "level": "good",
+    "category": "清热祛湿",
+    "text": "粤式夏令汤品常见组合，利湿消暑、清淡不腻。"
+  },
+  {
+    "ids": [
+      "mung-bean",
+      "kelp"
+    ],
+    "title": "绿豆与海带",
+    "level": "good",
+    "category": "清热祛湿",
+    "text": "岭南暑季绿豆汤加海带，清热解毒、利湿消肿。"
+  },
+  {
+    "ids": [
+      "white-fungus",
+      "lotus-seed"
+    ],
+    "title": "银耳与莲子",
+    "level": "good",
+    "category": "港式糖水",
+    "text": "港式炖品糖水经典，润肺养阴、养心安神。"
+  },
+  {
+    "ids": [
+      "red-bean",
+      "chenpi-dried"
+    ],
+    "title": "赤小豆与陈皮",
+    "level": "good",
+    "category": "健脾祛湿",
+    "text": "粤式祛湿糖水配伍，健脾利湿而不伤胃。"
+  },
+  {
+    "ids": [
+      "astragalus",
+      "chicken"
+    ],
+    "title": "黄芪与鸡肉",
+    "level": "good",
+    "category": "补气养血",
+    "text": "粤式药膳炖鸡常见，益气补虚、病后调养参考。"
+  },
+  {
+    "ids": [
+      "duck",
+      "vinegar"
+    ],
+    "title": "鸭肉与酸梅",
+    "level": "good",
+    "category": "开胃消食",
+    "text": "粤式酸梅鸭思路，生津开胃、解腻消食。"
+  },
+  {
+    "ids": [
+      "c14-gd-papaya",
+      "c14-gd-grass-carp"
+    ],
+    "title": "木瓜与鲫鱼",
+    "level": "good",
+    "category": "调和肝胃",
+    "text": "粤港家常炖品，和胃催乳方向整理，过敏者慎用。"
+  },
+  {
+    "ids": [
+      "hi-wenchang-chicken",
+      "hi-coconut-hi"
+    ],
+    "title": "文昌鸡与椰子",
+    "level": "good",
+    "category": "琼式清补",
+    "text": "海南椰子鸡经典组合，补虚生津、清淡不腻。"
+  },
+  {
+    "ids": [
+      "gx-luosifen",
+      "gx-sour-bamboo"
+    ],
+    "title": "螺蛳粉与酸笋",
+    "level": "caution",
+    "category": "桂式风味",
+    "text": "柳州风味酸辣组合，开胃但胃弱者、湿热重者宜减量。"
+  },
+  {
+    "ids": [
+      "mo-almond-cookie",
+      "black-tea"
+    ],
+    "title": "杏仁饼与清茶",
+    "level": "good",
+    "category": "澳式茶点",
+    "text": "澳门手信配淡茶，解腻生津，含糖适量。"
   }
 ];

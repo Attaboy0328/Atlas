@@ -73,7 +73,12 @@ const QI_TERMS_HOME = ["行气", "理气", "破气", "降气"];
 const HOME_LIBRARY_SHORTCUTS = [
   { label: "药食同源", kind: "food-medicine", tone: "#8a7340", pale: "#f3ecda", hint: "国家目录可追溯条目" },
   { label: "地理标志", cert: "地理标志", tone: "#4a6a8a", pale: "#e5edf5", hint: "GI · 公开登记名录" },
-  { label: "道地产区", cert: "道地", tone: "#6b5b8a", pale: "#ece8f2", hint: "药材志道地整理" }
+  { label: "道地产区", cert: "道地", tone: "#6b5b8a", pale: "#ece8f2", hint: "药材志道地整理" },
+  { label: "粤式汤料", province: "广东", tone: "#4a7c59", pale: "#e3f0e8", hint: "岭南煲汤食材" },
+  { label: "港式食材", province: "香港", tone: "#5c6b8a", pale: "#e8ecf4", hint: "茶餐厅·糖水料" },
+  { label: "澳式风味", province: "澳门", tone: "#7a5c6b", pale: "#f0e8ec", hint: "葡式·手信食材" },
+  { label: "桂式特产", province: "广西", tone: "#6b8a5c", pale: "#eaf0e8", hint: "螺蛳粉·酸笋等" },
+  { label: "琼式清补", province: "海南", tone: "#5c8a7a", pale: "#e8f0ec", hint: "椰子鸡·清补凉" }
 ];
 
 const FOOD_SEARCH_NEAR_HINTS = [
@@ -316,6 +321,11 @@ const THEME_ACCENT_PRESETS = {
 const RECIPE_LIFESTYLE_SCENARIOS = [
   { label: "港式食疗", subtitle: "糖水·汤品", tone: "#5c6b8a", pale: "#e8ecf4", recipesProvince: "香港", recipesCuisine: "港式" },
   { label: "粤式靓汤", subtitle: "老火汤", tone: "#4a7c59", pale: "#e3f0e8", recipesProvince: "广东", recipesCuisine: "粤菜" },
+  { label: "澳式食疗", subtitle: "葡式·炖品", tone: "#7a5c6b", pale: "#f0e8ec", recipesProvince: "澳门", recipesCuisine: "澳式" },
+  { label: "桂式祛湿", subtitle: "酸辣·油茶", tone: "#6b8a5c", pale: "#eaf0e8", recipesProvince: "广西", recipesCuisine: "桂菜" },
+  { label: "琼式清补", subtitle: "椰子·海鲜", tone: "#5c8a7a", pale: "#e8f0ec", recipesProvince: "海南", recipesCuisine: "琼式" },
+  { label: "川菜食疗", subtitle: "麻辣·温补", tone: "#8a4a4a", pale: "#f2e3e3", recipesProvince: "四川", recipesCuisine: "川菜" },
+  { label: "闽菜炖品", subtitle: "海鲜·红糟", tone: "#6a5c8a", pale: "#ece8f2", recipesProvince: "福建", recipesCuisine: "闽菜" },
   { label: "熬夜调理", subtitle: "滋阴润燥", tone: "#6f98a4", pale: "#e9f1f2", scenarioIndex: 2 },
   { label: "暖胃消食", subtitle: "饭后胀满", tone: "#8a7340", pale: "#f3ecda", scenarioIndex: 1 },
   { label: "进补益气", subtitle: "气虚乏力", tone: "#b36a45", pale: "#f4e5da", scenarioIndex: 4 },
@@ -2427,7 +2437,9 @@ function pushRecentRecipe(id) {
   saveJson("foodwise-recent-recipes", state.recentRecipes);
 }
 
-function navigateToLibraryFromHome({ nature, topic, kind, cert, daoDiSystem, query } = {}) {
+const LIBRARY_PROVINCE_PIN = ["广东", "香港", "澳门", "广西", "海南"];
+
+function navigateToLibraryFromHome({ nature, topic, kind, cert, daoDiSystem, province, query } = {}) {
   if (nature) {
     state.libraryNature = nature;
     state.libraryTopic = "";
@@ -2462,6 +2474,14 @@ function navigateToLibraryFromHome({ nature, topic, kind, cert, daoDiSystem, que
       state.libraryKind = "tcm-herb";
       state.libraryTopic = "";
     }
+  }
+  if (province) {
+    state.libraryProvince = province;
+    state.libraryTopic = "";
+    state.libraryCertFilter = "";
+    state.libraryDaoDiSystem = "";
+    state.libraryKind = "全部";
+    state.libraryNature = "全部";
   }
   if (query !== undefined) {
     state.libraryQuery = query;
@@ -3074,9 +3094,11 @@ function bindViewEvents() {
       triggerHapticFeedback();
       const kind = button.dataset.shortcutKind || "";
       const cert = button.dataset.shortcutCert || "";
+      const province = button.dataset.shortcutProvince || "";
       navigateToLibraryFromHome({
         kind: kind || undefined,
-        cert: cert || undefined
+        cert: cert || undefined,
+        province: province || undefined
       });
     });
   });
@@ -4129,6 +4151,7 @@ function renderHomeTopicCards() {
           data-home-library-shortcut="${item.label}"
           data-shortcut-kind="${item.kind || ""}"
           data-shortcut-cert="${item.cert || ""}"
+          data-shortcut-province="${item.province || ""}"
           style="--scenario-tone:${item.tone};--scenario-pale:${item.pale}"
         >
           <strong>${item.label}</strong>
@@ -4261,11 +4284,13 @@ function getVisibleProvinces() {
   if (state.libraryProvincesExpanded || PROVINCES_IN_CATALOG.length <= PROVINCE_FILTER_EXPAND_LIMIT) {
     return PROVINCES_IN_CATALOG;
   }
+  const pin = LIBRARY_PROVINCE_PIN.filter((p) => PROVINCES_IN_CATALOG.includes(p));
   const head = PROVINCES_IN_CATALOG.slice(0, PROVINCE_FILTER_EXPAND_LIMIT);
-  if (state.libraryProvince !== "全部" && !head.includes(state.libraryProvince)) {
-    return [...head, state.libraryProvince];
+  const merged = [...new Set([...pin, ...head])];
+  if (state.libraryProvince !== "全部" && !merged.includes(state.libraryProvince)) {
+    return [...merged, state.libraryProvince];
   }
-  return head;
+  return merged;
 }
 
 function refreshOpenFilterSheet() {

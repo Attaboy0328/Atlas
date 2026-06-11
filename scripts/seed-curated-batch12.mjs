@@ -3,7 +3,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "url";
-import { loadCatalogSets, makeFood, pushUniqueFood, writeJsonFile } from "./lib/food-entry.mjs";
+import { makeFood, writeJsonFile } from "./lib/food-entry.mjs";
 
 const root = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const cnDir = path.join(root, "data", "cn");
@@ -114,7 +114,6 @@ const CURATED = [
 ];
 
 function main() {
-  const catalog = loadCatalogSets();
   const seen = new Set();
   const out = [];
   CURATED.forEach((tuple) => {
@@ -128,7 +127,10 @@ function main() {
       aliases: aliases ? aliases.split(/[、,]/).map((s) => s.trim()).filter(Boolean) : [],
       summary
     });
-    pushUniqueFood(out, food, catalog, seen);
+    if (seen.has(food.id) || seen.has(`name:${food.name}`)) return;
+    seen.add(food.id);
+    seen.add(`name:${food.name}`);
+    out.push(food);
   });
   writeJsonFile(path.join(cnDir, "foods-china-curated-batch12.json"), out);
   console.log(`foods-china-curated-batch12.json: ${out.length}`);

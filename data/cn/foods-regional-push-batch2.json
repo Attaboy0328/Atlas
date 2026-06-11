@@ -23,7 +23,8 @@
       "陕西"
     ],
     "summary": "陕西名吃，腊汁肉夹馍，咸香饱腹。",
-    "caution": "控盐控脂期适量。"
+    "caution": "控盐控脂期适量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "biangbiang-noodles",
@@ -178,7 +179,8 @@
       "藏餐"
     ],
     "summary": "藏族日常饮品，酥油与茶盐同打，御寒耐饥。",
-    "caution": "高血脂、乳糖不耐受者适量。"
+    "caution": "高血脂、乳糖不耐受者适量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "dai-sour-bamboo",

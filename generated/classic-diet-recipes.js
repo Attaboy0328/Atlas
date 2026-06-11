@@ -2655,37 +2655,6 @@ const CLASSIC_DIET_RECIPES = [
     "classicTier": 1
   },
   {
-    "id": "classic-luohanguo-cha",
-    "name": "罗汉果茶",
-    "nature": "凉",
-    "syndromes": [
-      "肺阴虚",
-      "津伤口渴"
-    ],
-    "foodIds": [
-      "luo-han-guo",
-      "chrysanthemum"
-    ],
-    "subtitle": "清肺生津",
-    "ingredients": [
-      "罗汉果 1/4 个",
-      "菊花 3 克",
-      "热水 500 ml"
-    ],
-    "steps": [
-      "罗汉果掰碎冲泡或煮饮"
-    ],
-    "note": "脾胃虚寒、腹泻者不宜。",
-    "sources": [
-      {
-        "title": "《本草纲目》",
-        "summary": "罗汉果茶清肺生津。"
-      }
-    ],
-    "draft": false,
-    "classicTier": 1
-  },
-  {
     "id": "classic-bohe-juhua-cha",
     "name": "薄荷菊花茶",
     "nature": "凉",
@@ -3322,37 +3291,6 @@ const CLASSIC_DIET_RECIPES = [
       {
         "title": "《千金要方·食治篇》",
         "summary": "黑豆生姜汤温阳散寒。"
-      }
-    ],
-    "draft": false,
-    "classicTier": 1
-  },
-  {
-    "id": "classic-lvdou-yimi-tang",
-    "name": "绿豆薏米汤",
-    "nature": "寒",
-    "syndromes": [
-      "湿热内蕴",
-      "暑热"
-    ],
-    "foodIds": [
-      "mung-bean",
-      "coix-seed"
-    ],
-    "subtitle": "清热利湿",
-    "ingredients": [
-      "绿豆 50 克",
-      "薏米 30 克",
-      "清水 600 ml"
-    ],
-    "steps": [
-      "浸泡后同煮至豆烂"
-    ],
-    "note": "脾胃虚寒、孕妇忌用。",
-    "sources": [
-      {
-        "title": "《食疗本草》",
-        "summary": "绿豆薏米汤清热利湿。"
       }
     ],
     "draft": false,
@@ -5464,37 +5402,6 @@ const CLASSIC_DIET_RECIPES = [
       {
         "title": "《本草纲目》",
         "summary": "黄鳝配生姜，温中补血。"
-      }
-    ],
-    "draft": false,
-    "classicTier": 1
-  },
-  {
-    "id": "classic2-lvdou-yimi-tang",
-    "name": "绿豆薏米汤",
-    "nature": "寒",
-    "syndromes": [
-      "湿热内蕴",
-      "暑湿"
-    ],
-    "foodIds": [
-      "mung-bean",
-      "coix-seed"
-    ],
-    "subtitle": "清热利湿",
-    "ingredients": [
-      "绿豆 50 克",
-      "薏米 30 克",
-      "清水适量"
-    ],
-    "steps": [
-      "浸泡后同煮至豆烂"
-    ],
-    "note": "脾胃虚寒、孕妇慎用薏米。",
-    "sources": [
-      {
-        "title": "《本草纲目》",
-        "summary": "绿豆配薏米，夏令清热利湿。"
       }
     ],
     "draft": false,

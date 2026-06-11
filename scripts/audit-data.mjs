@@ -42,6 +42,9 @@ foods.forEach((food) => {
 const dupNames = [...byName.entries()].filter(([, ids]) => ids.size > 1);
 if (dupNames.length) {
   info.push(`duplicate food names (different ids): ${dupNames.length} (see alias table to consolidate)`);
+  if (dupNames.length >= 300) {
+    warnings.push(`duplicate food names ${dupNames.length} >= 300 — run consolidate:aliases`);
+  }
 }
 
 // Thin CN ingredients

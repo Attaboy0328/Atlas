@@ -1,0 +1,30 @@
+[
+  {
+    "term": "螺蛳粉",
+    "foodId": "gx-luosifen"
+  },
+  {
+    "term": "桂林米粉",
+    "foodId": "gx-guilin-rice-noodle"
+  },
+  {
+    "term": "老友粉",
+    "foodId": "gx-old-friend-noodle"
+  },
+  {
+    "term": "酸笋",
+    "foodId": "gx-sour-bamboo"
+  },
+  {
+    "term": "柠檬鸭",
+    "foodId": "gx-lemon-duck"
+  },
+  {
+    "term": "五色糯米饭",
+    "foodId": "gx-five-color-rice"
+  },
+  {
+    "term": "巴马香猪",
+    "foodId": "gx-lijiang-pork"
+  }
+]

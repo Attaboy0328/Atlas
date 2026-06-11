@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "gx-luosifen",
+    "name": "柳州螺蛳粉",
+    "en": "柳州螺蛳粉",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "螺蛳粉"
+    ],
+    "pinyin": "gxluosifen",
+    "initials": "gx-",
+    "searchTerms": [
+      "柳州螺蛳粉",
+      "螺蛳粉",
+      "gx-luosifen"
+    ],
+    "summary": "柳州酸辣螺蛳粉，开胃祛湿适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-guilin-rice-noodle",
+    "name": "桂林米粉",
+    "en": "桂林米粉",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "卤菜粉"
+    ],
+    "pinyin": "gxguilinricenoodle",
+    "initials": "gx-",
+    "searchTerms": [
+      "桂林米粉",
+      "卤菜粉",
+      "gx-guilin-rice-noodle"
+    ],
+    "summary": "桂林卤菜粉，日常健脾主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-old-friend-noodle",
+    "name": "老友粉",
+    "en": "老友粉",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxoldfriendnoodle",
+    "initials": "gx-",
+    "searchTerms": [
+      "老友粉",
+      "gx-old-friend-noodle"
+    ],
+    "summary": "南宁老友粉，酸辣开胃祛湿。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-sour-bamboo",
+    "name": "酸笋",
+    "en": "酸笋",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "酸竹笋"
+    ],
+    "pinyin": "gxsourbamboo",
+    "initials": "gx-",
+    "searchTerms": [
+      "酸笋",
+      "酸竹笋",
+      "gx-sour-bamboo"
+    ],
+    "summary": "广西发酵酸笋，开胃消食，胃弱者适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-lemon-duck",
+    "name": "柠檬鸭",
+    "en": "柠檬鸭",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxlemonduck",
+    "initials": "gx-",
+    "searchTerms": [
+      "柠檬鸭",
+      "gx-lemon-duck"
+    ],
+    "summary": "南宁柠檬鸭，酸香开胃理气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-oil-tea",
+    "name": "油茶",
+    "en": "油茶",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "瑶族油茶"
+    ],
+    "pinyin": "gxoiltea",
+    "initials": "gx-",
+    "searchTerms": [
+      "油茶",
+      "瑶族油茶",
+      "gx-oil-tea"
+    ],
+    "summary": "广西瑶族油茶，温胃散寒。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-five-color-rice",
+    "name": "五色糯米饭",
+    "en": "五色糯米饭",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxfivecolorrice",
+    "initials": "gx-",
+    "searchTerms": [
+      "五色糯米饭",
+      "gx-five-color-rice"
+    ],
+    "summary": "壮族三月三糯米饭，健脾益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-snail-soup",
+    "name": "螺蛳汤",
+    "en": "螺蛳汤",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxsnailsoup",
+    "initials": "gx-",
+    "searchTerms": [
+      "螺蛳汤",
+      "gx-snail-soup"
+    ],
+    "summary": "柳州螺蛳汤底，酸辣开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-river-snail",
+    "name": "田螺",
+    "en": "田螺",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxriversnail",
+    "initials": "gx-",
+    "searchTerms": [
+      "田螺",
+      "gx-river-snail"
+    ],
+    "summary": "广西河螺，清热利湿，需彻底煮熟。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-pomelo-gx",
+    "name": "沙田柚",
+    "en": "沙田柚",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "容县沙田柚"
+    ],
+    "pinyin": "gxpomelogx",
+    "initials": "gx-",
+    "searchTerms": [
+      "沙田柚",
+      "容县沙田柚",
+      "gx-pomelo-gx"
+    ],
+    "summary": "广西沙田柚，清热化痰生津。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-sugarcane-gx",
+    "name": "甘蔗",
+    "en": "甘蔗",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "竹蔗"
+    ],
+    "pinyin": "gxsugarcanegx",
+    "initials": "gx-",
+    "searchTerms": [
+      "甘蔗",
+      "竹蔗",
+      "gx-sugarcane-gx"
+    ],
+    "summary": "广西甘蔗，清热生津润燥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-passion-fruit",
+    "name": "百香果",
+    "en": "百香果",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxpassionfruit",
+    "initials": "gx-",
+    "searchTerms": [
+      "百香果",
+      "gx-passion-fruit"
+    ],
+    "summary": "广西热带百香果，开胃生津。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-mango-gx",
+    "name": "百色芒果",
+    "en": "百色芒果",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxmangogx",
+    "initials": "gx-",
+    "searchTerms": [
+      "百色芒果",
+      "gx-mango-gx"
+    ],
+    "summary": "广西百色芒果，生津润燥适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-lijiang-pork",
+    "name": "巴马香猪",
+    "en": "巴马香猪",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxlijiangpork",
+    "initials": "gx-",
+    "searchTerms": [
+      "巴马香猪",
+      "gx-lijiang-pork"
+    ],
+    "summary": "广西巴马香猪，滋阴补虚适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-duck-blood",
+    "name": "鸭血",
+    "en": "鸭血",
+    "category": "肉蛋奶",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxduckblood",
+    "initials": "gx-",
+    "searchTerms": [
+      "鸭血",
+      "gx-duck-blood"
+    ],
+    "summary": "广西粉店鸭血，凉血解毒适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-rice-wine-gx",
+    "name": "糯米酒",
+    "en": "糯米酒",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "甜酒"
+    ],
+    "pinyin": "gxricewinegx",
+    "initials": "gx-",
+    "searchTerms": [
+      "糯米酒",
+      "甜酒",
+      "gx-rice-wine-gx"
+    ],
+    "summary": "广西农家糯米酒，温中活血少量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-fermented-bean-curd",
+    "name": "腐乳",
+    "en": "腐乳",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxfermentedbeancurd",
+    "initials": "gx-",
+    "searchTerms": [
+      "腐乳",
+      "gx-fermented-bean-curd"
+    ],
+    "summary": "广西红腐乳，开胃佐食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-chili-paste-gx",
+    "name": "桂林辣椒酱",
+    "en": "桂林辣椒酱",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxchilipastegx",
+    "initials": "gx-",
+    "searchTerms": [
+      "桂林辣椒酱",
+      "gx-chili-paste-gx"
+    ],
+    "summary": "桂林香辣酱，辛温开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-pickled-pepper",
+    "name": "酸椒",
+    "en": "酸椒",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxpickledpepper",
+    "initials": "gx-",
+    "searchTerms": [
+      "酸椒",
+      "gx-pickled-pepper"
+    ],
+    "summary": "广西酸辣椒，开胃下饭。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-bamboo-rat",
+    "name": "竹鼠",
+    "en": "竹鼠",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxbamboorat",
+    "initials": "gx-",
+    "searchTerms": [
+      "竹鼠",
+      "gx-bamboo-rat"
+    ],
+    "summary": "广西特色野味，温补适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-taro-pork",
+    "name": "芋头扣肉",
+    "en": "芋头扣肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxtaropork",
+    "initials": "gx-",
+    "searchTerms": [
+      "芋头扣肉",
+      "gx-taro-pork"
+    ],
+    "summary": "广西年节芋头扣肉，温中补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-sticky-rice-dumpling",
+    "name": "粽子",
+    "en": "粽子",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "壮乡粽子"
+    ],
+    "pinyin": "gxstickyricedumpling",
+    "initials": "gx-",
+    "searchTerms": [
+      "粽子",
+      "壮乡粽子",
+      "gx-sticky-rice-dumpling"
+    ],
+    "summary": "广西壮乡糯米粽，健脾益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-herbal-tea-gx",
+    "name": "凉茶",
+    "en": "凉茶",
+    "category": "茶饮",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxherbalteagx",
+    "initials": "gx-",
+    "searchTerms": [
+      "凉茶",
+      "gx-herbal-tea-gx"
+    ],
+    "summary": "广西凉茶，清热祛湿体虚慎用。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-cogon-root-gx",
+    "name": "茅根",
+    "en": "茅根",
+    "category": "食药物质",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "白茅根"
+    ],
+    "pinyin": "gxcogonrootgx",
+    "initials": "gx-",
+    "searchTerms": [
+      "茅根",
+      "白茅根",
+      "gx-cogon-root-gx"
+    ],
+    "summary": "广西茅根竹蔗饮，清热生津。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-monk-fruit-gx",
+    "name": "罗汉果",
+    "en": "罗汉果",
+    "category": "食药物质",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxmonkfruitgx",
+    "initials": "gx-",
+    "searchTerms": [
+      "罗汉果",
+      "gx-monk-fruit-gx"
+    ],
+    "summary": "广西永福罗汉果，润肺利咽。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-star-anise-gx",
+    "name": "八角",
+    "en": "八角",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "大料"
+    ],
+    "pinyin": "gxstaranisegx",
+    "initials": "gx-",
+    "searchTerms": [
+      "八角",
+      "大料",
+      "gx-star-anise-gx"
+    ],
+    "summary": "广西八角香料，温中散寒调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-cassia-gx",
+    "name": "肉桂",
+    "en": "肉桂",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxcassiagx",
+    "initials": "gx-",
+    "searchTerms": [
+      "肉桂",
+      "gx-cassia-gx"
+    ],
+    "summary": "广西肉桂，温阳散寒调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-taro-gx",
+    "name": "芋头",
+    "en": "芋头",
+    "category": "薯类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxtarogx",
+    "initials": "gx-",
+    "searchTerms": [
+      "芋头",
+      "gx-taro-gx"
+    ],
+    "summary": "广西荔浦芋头，健脾益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-water-spinach-gx",
+    "name": "空心菜",
+    "en": "空心菜",
+    "category": "蔬菜",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "通菜"
+    ],
+    "pinyin": "gxwaterspinachgx",
+    "initials": "gx-",
+    "searchTerms": [
+      "空心菜",
+      "通菜",
+      "gx-water-spinach-gx"
+    ],
+    "summary": "广西夏季空心菜，清热通肠。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-bitter-melon-gx",
+    "name": "苦瓜",
+    "en": "苦瓜",
+    "category": "蔬菜",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "凉瓜"
+    ],
+    "pinyin": "gxbittermelongx",
+    "initials": "gx-",
+    "searchTerms": [
+      "苦瓜",
+      "凉瓜",
+      "gx-bitter-melon-gx"
+    ],
+    "summary": "广西苦瓜，清热解暑降火。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-preserved-lemon",
+    "name": "咸柠檬",
+    "en": "咸柠檬",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxpreservedlemon",
+    "initials": "gx-",
+    "searchTerms": [
+      "咸柠檬",
+      "gx-preserved-lemon"
+    ],
+    "summary": "广西酸腌柠檬，生津开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-rice-noodle-roll",
+    "name": "卷筒粉",
+    "en": "卷筒粉",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxricenoodleroll",
+    "initials": "gx-",
+    "searchTerms": [
+      "卷筒粉",
+      "gx-rice-noodle-roll"
+    ],
+    "summary": "广西卷筒粉，清淡易消化。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-fried-dough-gx",
+    "name": "油条",
+    "en": "油条",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxfrieddoughgx",
+    "initials": "gx-",
+    "searchTerms": [
+      "油条",
+      "gx-fried-dough-gx"
+    ],
+    "summary": "广西早餐油条，偶尔食用。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-fermented-rice",
+    "name": "甜酒酿",
+    "en": "甜酒酿",
+    "category": "发酵食品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "酒酿"
+    ],
+    "pinyin": "gxfermentedrice",
+    "initials": "gx-",
+    "searchTerms": [
+      "甜酒酿",
+      "酒酿",
+      "gx-fermented-rice"
+    ],
+    "summary": "广西甜酒酿，温中活血少量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-duck-feet",
+    "name": "鸭脚",
+    "en": "鸭脚",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "螺蛳鸭脚"
+    ],
+    "pinyin": "gxduckfeet",
+    "initials": "gx-",
+    "searchTerms": [
+      "鸭脚",
+      "螺蛳鸭脚",
+      "gx-duck-feet"
+    ],
+    "summary": "柳州螺蛳粉鸭脚，胶原蛋白适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-wood-ear-gx",
+    "name": "木耳",
+    "en": "木耳",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxwoodeargx",
+    "initials": "gx-",
+    "searchTerms": [
+      "木耳",
+      "gx-wood-ear-gx"
+    ],
+    "summary": "广西黑木耳，滋阴润燥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-daylily-gx",
+    "name": "黄花菜",
+    "en": "黄花菜",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "aliases": [
+      "金针菜"
+    ],
+    "pinyin": "gxdaylilygx",
+    "initials": "gx-",
+    "searchTerms": [
+      "黄花菜",
+      "金针菜",
+      "gx-daylily-gx"
+    ],
+    "summary": "广西干黄花菜，安神利湿。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-lotus-root-gx",
+    "name": "莲藕",
+    "en": "莲藕",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxlotusrootgx",
+    "initials": "gx-",
+    "searchTerms": [
+      "莲藕",
+      "gx-lotus-root-gx"
+    ],
+    "summary": "广西莲藕，健脾开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-taro-stem",
+    "name": "芋苗",
+    "en": "芋苗",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxtarostem",
+    "initials": "gx-",
+    "searchTerms": [
+      "芋苗",
+      "gx-taro-stem"
+    ],
+    "summary": "广西芋苗酸炒，开胃消食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gx-pickled-long-bean",
+    "name": "酸豆角",
+    "en": "酸豆角",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西"
+    ],
+    "pinyin": "gxpickledlongbean",
+    "initials": "gx-",
+    "searchTerms": [
+      "酸豆角",
+      "gx-pickled-long-bean"
+    ],
+    "summary": "广西酸豆角，开胃下饭。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

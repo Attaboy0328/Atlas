@@ -391,7 +391,8 @@ function buildSynonyms(catalogIds) {
 function patchGiQueue() {
   const file = path.join(cnDir, "gi-expansion-queue.json");
   const data = JSON.parse(fs.readFileSync(file, "utf8"));
-  data.lingnanPriority = [
+  const appliedIds = new Set((data.applied || []).map((row) => row.sourceId));
+  const lingnanPriority = [
     { name: "新会陈皮", system: "cnipa", region: "广东", category: "食药物质", baseFoodId: "chenpi-dried", sourceId: "cnipa-xinhui-chenpi-lingnan" },
     { name: "化州橘红", system: "cnipa", region: "广东", category: "食药物质", sourceId: "cnipa-huazhou-juhong-lingnan" },
     { name: "英德红茶", system: "cnipa", region: "广东", category: "茶饮", baseFoodId: "black-tea", sourceId: "cnipa-yingde-black-tea-lingnan" },
@@ -406,7 +407,8 @@ function patchGiQueue() {
     { name: "罗定肉桂", system: "provincial", region: "广东", category: "调料", sourceId: "prov-gd-luoding-cinnamon" },
     { name: "香港元朗丝苗米", system: "provincial", region: "香港", category: "谷物", baseFoodId: "rice", sourceId: "prov-hk-yuen-long-rice" },
     { name: "澳门杏仁饼", system: "provincial", region: "澳门", category: "主食", sourceId: "prov-mo-almond-cookie" }
-  ];
+  ].filter((row) => !appliedIds.has(row.sourceId));
+  data.lingnanPriority = lingnanPriority;
   fs.writeFileSync(file, `${JSON.stringify(data, null, 2)}\n`, "utf8");
 }
 

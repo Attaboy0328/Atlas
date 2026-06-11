@@ -1,0 +1,34 @@
+[
+  {
+    "term": "文昌鸡",
+    "foodId": "hi-wenchang-chicken"
+  },
+  {
+    "term": "加积鸭",
+    "foodId": "hi-jiaji-duck"
+  },
+  {
+    "term": "东山羊",
+    "foodId": "hi-dongshan-goat"
+  },
+  {
+    "term": "和乐蟹",
+    "foodId": "hi-hele-crab"
+  },
+  {
+    "term": "清补凉",
+    "foodId": "hi-qingbuliang"
+  },
+  {
+    "term": "糟粕醋",
+    "foodId": "hi-zaochu-vinegar"
+  },
+  {
+    "term": "黄灯笼椒",
+    "foodId": "hi-yellow-chili"
+  },
+  {
+    "term": "椰子饭",
+    "foodId": "hi-coconut-rice"
+  }
+]

@@ -1,0 +1,909 @@
+[
+  {
+    "id": "mo-almond-cookie",
+    "name": "澳门杏仁饼",
+    "en": "澳门杏仁饼",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "aliases": [
+      "杏仁饼"
+    ],
+    "pinyin": "moalmondcookie",
+    "initials": "mo-",
+    "searchTerms": [
+      "澳门杏仁饼",
+      "杏仁饼",
+      "mo-almond-cookie"
+    ],
+    "summary": "澳门手信酥饼，健脾开胃，含糖适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-egg-tart",
+    "name": "葡挞",
+    "en": "葡挞",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "aliases": [
+      "葡式蛋挞"
+    ],
+    "pinyin": "moeggtart",
+    "initials": "mo-",
+    "searchTerms": [
+      "葡挞",
+      "葡式蛋挞",
+      "mo-egg-tart"
+    ],
+    "summary": "澳门葡式蛋挞，奶香酥皮，控糖适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-pork-chop-bun",
+    "name": "猪扒包",
+    "en": "猪扒包",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "moporkchopbun",
+    "initials": "mo-",
+    "searchTerms": [
+      "猪扒包",
+      "mo-pork-chop-bun"
+    ],
+    "summary": "澳门街头猪扒包，温胃饱腹早餐。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-african-chicken",
+    "name": "非洲鸡",
+    "en": "非洲鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "moafricanchicken",
+    "initials": "mo-",
+    "searchTerms": [
+      "非洲鸡",
+      "mo-african-chicken"
+    ],
+    "summary": "澳门葡非融合烤鸡，辛香开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-bacalhau",
+    "name": "马介休",
+    "en": "马介休",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "aliases": [
+      "鳕鱼干"
+    ],
+    "pinyin": "mobacalhau",
+    "initials": "mo-",
+    "searchTerms": [
+      "马介休",
+      "鳕鱼干",
+      "mo-bacalhau"
+    ],
+    "summary": "澳门葡式咸鳕鱼，煲汤焗菜常用。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-crab-congee",
+    "name": "水蟹粥",
+    "en": "水蟹粥",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "mocrabcongee",
+    "initials": "mo-",
+    "searchTerms": [
+      "水蟹粥",
+      "mo-crab-congee"
+    ],
+    "summary": "澳门粤式生滚蟹粥，滋阴鲜味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-almond-drink",
+    "name": "杏仁露",
+    "en": "杏仁露",
+    "category": "饮品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "moalmonddrink",
+    "initials": "mo-",
+    "searchTerms": [
+      "杏仁露",
+      "mo-almond-drink"
+    ],
+    "summary": "澳门糖水杏仁露，润肺止咳。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-serradura",
+    "name": "木糠杯",
+    "en": "木糠杯",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "moserradura",
+    "initials": "mo-",
+    "searchTerms": [
+      "木糠杯",
+      "mo-serradura"
+    ],
+    "summary": "澳门葡式木糠布丁杯，甜腻适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-portuguese-chicken",
+    "name": "葡国鸡",
+    "en": "葡国鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "moportuguesechicken",
+    "initials": "mo-",
+    "searchTerms": [
+      "葡国鸡",
+      "mo-portuguese-chicken"
+    ],
+    "summary": "澳门咖喱椰浆鸡，温中开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-minchi",
+    "name": "免治",
+    "en": "免治",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "aliases": [
+      "澳门免治"
+    ],
+    "pinyin": "mominchi",
+    "initials": "mo-",
+    "searchTerms": [
+      "免治",
+      "澳门免治",
+      "mo-minchi"
+    ],
+    "summary": "澳门碎肉炒蛋，家常下饭菜。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-papaya-salad",
+    "name": "青木瓜沙律",
+    "en": "青木瓜沙律",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "mopapayasalad",
+    "initials": "mo-",
+    "searchTerms": [
+      "青木瓜沙律",
+      "mo-papaya-salad"
+    ],
+    "summary": "澳门泰式青木瓜凉拌，开胃消食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-curry-crab",
+    "name": "咖喱蟹",
+    "en": "咖喱蟹",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "mocurrycrab",
+    "initials": "mo-",
+    "searchTerms": [
+      "咖喱蟹",
+      "mo-curry-crab"
+    ],
+    "summary": "澳门海鲜咖喱蟹，温中补虚适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-clam-sauce",
+    "name": "蚬汁",
+    "en": "蚬汁",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "moclamsauce",
+    "initials": "mo-",
+    "searchTerms": [
+      "蚬汁",
+      "mo-clam-sauce"
+    ],
+    "summary": "澳门蒸鱼提鲜蚬汁，咸鲜调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-dried-scallop-mo",
+    "name": "瑶柱",
+    "en": "瑶柱",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "aliases": [
+      "干贝"
+    ],
+    "pinyin": "modriedscallopmo",
+    "initials": "mo-",
+    "searchTerms": [
+      "瑶柱",
+      "干贝",
+      "mo-dried-scallop-mo"
+    ],
+    "summary": "澳门汤粥鲜味干货，滋阴调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-dried-oyster-mo",
+    "name": "蚝豉",
+    "en": "蚝豉",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "aliases": [
+      "蚝干"
+    ],
+    "pinyin": "modriedoystermo",
+    "initials": "mo-",
+    "searchTerms": [
+      "蚝豉",
+      "蚝干",
+      "mo-dried-oyster-mo"
+    ],
+    "summary": "澳门煲汤海产干货，滋阴养血。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-candied-fruit",
+    "name": "蜜饯",
+    "en": "蜜饯",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "mocandiedfruit",
+    "initials": "mo-",
+    "searchTerms": [
+      "蜜饯",
+      "mo-candied-fruit"
+    ],
+    "summary": "澳门传统蜜饯，生津开胃适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-lotus-paste",
+    "name": "莲蓉",
+    "en": "莲蓉",
+    "category": "滋补食材",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "molotuspaste",
+    "initials": "mo-",
+    "searchTerms": [
+      "莲蓉",
+      "mo-lotus-paste"
+    ],
+    "summary": "澳门月饼馅料莲蓉，甘润健脾。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-sesame-paste-mo",
+    "name": "芝麻糊",
+    "en": "芝麻糊",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "mosesamepastemo",
+    "initials": "mo-",
+    "searchTerms": [
+      "芝麻糊",
+      "mo-sesame-paste-mo"
+    ],
+    "summary": "澳门糖水芝麻糊，补血润肠。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-ginger-milk",
+    "name": "姜汁撞奶",
+    "en": "姜汁撞奶",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "mogingermilk",
+    "initials": "mo-",
+    "searchTerms": [
+      "姜汁撞奶",
+      "mo-ginger-milk"
+    ],
+    "summary": "澳门甜品姜汁撞奶，温胃散寒。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-tofu-pudding",
+    "name": "豆腐花",
+    "en": "豆腐花",
+    "category": "饮品",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "aliases": [
+      "姜汁豆花"
+    ],
+    "pinyin": "motofupudding",
+    "initials": "mo-",
+    "searchTerms": [
+      "豆腐花",
+      "姜汁豆花",
+      "mo-tofu-pudding"
+    ],
+    "summary": "澳门甜或咸豆腐花，清热润燥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-rice-pudding",
+    "name": "椰汁糕",
+    "en": "椰汁糕",
+    "category": "主食",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "moricepudding",
+    "initials": "mo-",
+    "searchTerms": [
+      "椰汁糕",
+      "mo-rice-pudding"
+    ],
+    "summary": "澳门椰汁西米糕，清热解暑。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-pork-jerky",
+    "name": "猪肉干",
+    "en": "猪肉干",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "moporkjerky",
+    "initials": "mo-",
+    "searchTerms": [
+      "猪肉干",
+      "mo-pork-jerky"
+    ],
+    "summary": "澳门手信肉干，高蛋白适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-beef-jerky",
+    "name": "牛肉干",
+    "en": "牛肉干",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "mobeefjerky",
+    "initials": "mo-",
+    "searchTerms": [
+      "牛肉干",
+      "mo-beef-jerky"
+    ],
+    "summary": "澳门炭烤牛肉干，温补适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-shrimp-roe-mo",
+    "name": "虾籽",
+    "en": "虾籽",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "moshrimproemo",
+    "initials": "mo-",
+    "searchTerms": [
+      "虾籽",
+      "mo-shrimp-roe-mo"
+    ],
+    "summary": "澳门捞面蒸蛋鲜味调料。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-xo-sauce",
+    "name": "XO酱",
+    "en": "XO酱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "moxosauce",
+    "initials": "mo-",
+    "searchTerms": [
+      "XO酱",
+      "mo-xo-sauce"
+    ],
+    "summary": "澳门港式海鲜辣味酱，拌面佐餐。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-oyster-sauce-mo",
+    "name": "蚝油",
+    "en": "蚝油",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "mooystersaucemo",
+    "initials": "mo-",
+    "searchTerms": [
+      "蚝油",
+      "mo-oyster-sauce-mo"
+    ],
+    "summary": "澳门炒菜蚝油，提鲜控钠。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-chu-hou",
+    "name": "柱侯酱",
+    "en": "柱侯酱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "mochuhou",
+    "initials": "mo-",
+    "searchTerms": [
+      "柱侯酱",
+      "mo-chu-hou"
+    ],
+    "summary": "澳门焖炖柱侯酱，温中调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-dried-tangerine",
+    "name": "老药桔",
+    "en": "老药桔",
+    "category": "食药物质",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "modriedtangerine",
+    "initials": "mo-",
+    "searchTerms": [
+      "老药桔",
+      "mo-dried-tangerine"
+    ],
+    "summary": "澳门冲饮老药桔，理气化痰。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-herbal-tea",
+    "name": "凉茶",
+    "en": "凉茶",
+    "category": "茶饮",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "moherbaltea",
+    "initials": "mo-",
+    "searchTerms": [
+      "凉茶",
+      "mo-herbal-tea"
+    ],
+    "summary": "澳门凉茶铺复方，清热祛湿体虚慎用。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-silkie-chicken",
+    "name": "乌鸡",
+    "en": "乌鸡",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "mosilkiechicken",
+    "initials": "mo-",
+    "searchTerms": [
+      "乌鸡",
+      "mo-silkie-chicken"
+    ],
+    "summary": "澳门炖汤乌鸡，滋阴补血。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-fish-maw",
+    "name": "花胶",
+    "en": "花胶",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "mofishmaw",
+    "initials": "mo-",
+    "searchTerms": [
+      "花胶",
+      "mo-fish-maw"
+    ],
+    "summary": "澳门炖品花胶，滋阴养颜。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-sea-coconut",
+    "name": "海底椰",
+    "en": "海底椰",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "moseacoconut",
+    "initials": "mo-",
+    "searchTerms": [
+      "海底椰",
+      "mo-sea-coconut"
+    ],
+    "summary": "澳门润燥汤料海底椰，润肺止咳。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-chenpi-mo",
+    "name": "广陈皮",
+    "en": "广陈皮",
+    "category": "食药物质",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "aliases": [
+      "新会陈皮"
+    ],
+    "pinyin": "mochenpimo",
+    "initials": "mo-",
+    "searchTerms": [
+      "广陈皮",
+      "新会陈皮",
+      "mo-chenpi-mo"
+    ],
+    "summary": "澳门汤饮陈皮，理气健脾。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-coconut-milk",
+    "name": "椰浆",
+    "en": "椰浆",
+    "category": "饮品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "mococonutmilk",
+    "initials": "mo-",
+    "searchTerms": [
+      "椰浆",
+      "mo-coconut-milk"
+    ],
+    "summary": "澳门甜品椰浆基料，生津润燥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mo-pine-nut-candy",
+    "name": "松子糖",
+    "en": "松子糖",
+    "category": "坚果种子",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "澳门"
+    ],
+    "pinyin": "mopinenutcandy",
+    "initials": "mo-",
+    "searchTerms": [
+      "松子糖",
+      "mo-pine-nut-candy"
+    ],
+    "summary": "澳门传统松子糖，温中适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

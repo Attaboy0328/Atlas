@@ -982,7 +982,8 @@
       "椰奶"
     ],
     "summary": "椰肉压榨浓浆，泰式与南洋咖喱、甜品常用。",
-    "caution": "高脂，控脂与腹泻期适量。"
+    "caution": "高脂，控脂与腹泻期适量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "tempeh",

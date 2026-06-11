@@ -673,7 +673,8 @@
     "effects": [
       "调香",
       "和中"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-kudzu",

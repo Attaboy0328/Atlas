@@ -16,7 +16,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-003",
@@ -151,7 +152,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-017",
@@ -227,7 +229,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-025",
@@ -845,7 +848,8 @@
     "nature": "平",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-drink-092",
@@ -854,7 +858,8 @@
     "nature": "平",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-drink-093",
@@ -1308,7 +1313,8 @@
     "nature": "平",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-grain-143",
@@ -1317,7 +1323,8 @@
     "nature": "平",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-grain-144",
@@ -1560,7 +1567,8 @@
     "nature": "平",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-bean-product-169",
@@ -2088,7 +2096,8 @@
     "nature": "平",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-veg-225",

@@ -86,8 +86,11 @@ const rawHandcrafted = [
   ...readJson("handcrafted-recipes.json", []),
   ...readJson("handcrafted-recipes-batch2.json", []),
   ...readJson("handcrafted-recipes-batch3.json", []),
-  ...readJson("cantonese-recipes-batch.json", [])
+  ...readJson("cantonese-recipes-batch.json", []),
+  ...readJson("regional-recipes-batch.json", [])
 ];
+
+const classicOverlay = readJson("classic-diet-regional-overlay.json", {}).byName || {};
 const handcraftedRecipes = rawHandcrafted
   .map((item) => {
     const foodIds = normalizeRecipeFoodIds(item.foodIds || [], catalog, aliasMap);
@@ -124,8 +127,10 @@ const classicRecipes = rawClassic
       console.warn(`Skip classic recipe "${item.name}": no valid foodIds`);
       return null;
     }
+    const overlay = classicOverlay[item.name] || {};
     return {
       ...item,
+      ...overlay,
       foodIds,
       draft: false,
       classicTier: 1,

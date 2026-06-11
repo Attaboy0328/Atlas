@@ -1,0 +1,34 @@
+[
+  {
+    "term": "葡挞",
+    "foodId": "mo-egg-tart"
+  },
+  {
+    "term": "猪扒包",
+    "foodId": "mo-pork-chop-bun"
+  },
+  {
+    "term": "马介休",
+    "foodId": "mo-bacalhau"
+  },
+  {
+    "term": "水蟹粥",
+    "foodId": "mo-crab-congee"
+  },
+  {
+    "term": "木糠杯",
+    "foodId": "mo-serradura"
+  },
+  {
+    "term": "葡国鸡",
+    "foodId": "mo-portuguese-chicken"
+  },
+  {
+    "term": "澳门杏仁饼",
+    "foodId": "mo-almond-cookie"
+  },
+  {
+    "term": "澳式杏仁饼",
+    "foodId": "mo-almond-cookie"
+  }
+]

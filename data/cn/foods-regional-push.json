@@ -1780,7 +1780,8 @@
         "hypertension"
       ],
       "confidence": "东北西北腌菜扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-buckthorn-fruit",
@@ -1959,7 +1960,8 @@
         "jinzhencai"
       ],
       "confidence": "华北西北常见菜扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "wood-ginger-oil",
