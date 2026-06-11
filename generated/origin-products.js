@@ -43675,7 +43675,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "建莲",
       "国家知识产权局地理标志",
       "CN",
-      "prod-lotus-seedpod--758",
+      "reg-lotus-seedpod--398",
       "地理标志",
       "GI"
     ],
@@ -43685,7 +43685,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "prod-lotus-seedpod--758",
+    "baseFoodId": "reg-lotus-seedpod--398",
     "giSystems": [
       {
         "system": "cnipa",
@@ -161707,7 +161707,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "德州扒鸡",
       "国家知识产权局地理标志",
       "山东",
-      "c13-sd-dezhou-chicken-rx",
+      "c15-sd-dezhou",
       "地理标志",
       "GI"
     ],
@@ -161717,7 +161717,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "c13-sd-dezhou-chicken-rx",
+    "baseFoodId": "c15-sd-dezhou",
     "giSystems": [
       {
         "system": "cnipa",
@@ -242820,7 +242820,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "旅顺海虾米",
       "农业农村部农产品地理标志",
       "大连",
-      "dried-shrimp",
+      "c15-hk-dried-shrimp",
       "地理标志",
       "GI"
     ],
@@ -242830,7 +242830,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "dried-shrimp",
+    "baseFoodId": "c15-hk-dried-shrimp",
     "giSystems": [
       {
         "system": "mara",
@@ -301584,7 +301584,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安海土笋",
     "en": "",
     "category": "海产",
-    "nature": "凉",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],

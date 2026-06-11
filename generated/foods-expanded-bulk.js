@@ -6653,7 +6653,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-cardamom",
@@ -6995,7 +6996,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-dandelion",
@@ -7043,7 +7045,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-houttuynia",
@@ -7091,7 +7094,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-reed-rhizome",
@@ -7188,7 +7192,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-mulberry-leaf",
@@ -7236,7 +7241,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-perilla-leaf",
@@ -7284,7 +7290,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-perilla-seed",
@@ -7381,7 +7388,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-sea-buckthorn",
@@ -8162,7 +8170,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-almond",
@@ -8220,7 +8229,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-pine-nut",
@@ -28354,7 +28364,8 @@ const EXPANDED_FOODS_BULK = [
     "kr": "",
     "aliases": [
       "陕西凉皮",
-      "麻酱凉皮"
+      "麻酱凉皮",
+      "凉皮（关中）"
     ],
     "effects": [
       "充饥"

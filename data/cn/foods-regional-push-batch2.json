@@ -127,7 +127,8 @@
       "哈尔滨"
     ],
     "summary": "东北熏制香肠，蒜香浓郁，宜切片冷食或炒菜。",
-    "caution": "加工肉制品不宜过量。"
+    "caution": "加工肉制品不宜过量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mongolian-lamb",
@@ -311,6 +312,7 @@
       "polo"
     ],
     "summary": "新疆羊肉抓饭，胡萝卜与大米同焖，油润香浓。",
-    "caution": "控脂控糖期适量。"
+    "caution": "控脂控糖期适量。",
+    "hiddenFromLibrary": true
   }
 ]

@@ -477,6 +477,204 @@
       "category": "主食",
       "sourceId": "prov-mo-almond-cookie",
       "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "延边大米",
+      "system": "mara",
+      "region": "吉林",
+      "category": "谷物",
+      "baseFoodId": "rice",
+      "sourceId": "mara-yanbian-rice-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "天津小站稻",
+      "system": "mara",
+      "region": "天津",
+      "category": "谷物",
+      "baseFoodId": "rice",
+      "sourceId": "mara-xiaozhan-rice-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "北京鸭梨",
+      "system": "mara",
+      "region": "北京",
+      "category": "水果",
+      "baseFoodId": "pear",
+      "sourceId": "mara-beijing-pear-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "静宁苹果",
+      "system": "mara",
+      "region": "甘肃",
+      "category": "水果",
+      "baseFoodId": "apple",
+      "sourceId": "mara-jingning-apple-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "哈密瓜",
+      "system": "mara",
+      "region": "新疆",
+      "category": "水果",
+      "baseFoodId": "melon",
+      "sourceId": "mara-hami-melon-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "吐鲁番葡萄",
+      "system": "mara",
+      "region": "新疆",
+      "category": "水果",
+      "baseFoodId": "grape",
+      "sourceId": "mara-turpan-grape-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "宁夏枸杞",
+      "system": "mara",
+      "region": "宁夏",
+      "category": "滋补食材",
+      "baseFoodId": "goji",
+      "sourceId": "mara-ningxia-goji-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "中宁枸杞",
+      "system": "mara",
+      "region": "宁夏",
+      "category": "滋补食材",
+      "baseFoodId": "goji",
+      "sourceId": "mara-zhongning-goji-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "文山三七",
+      "system": "mara",
+      "region": "云南",
+      "category": "滋补食材",
+      "baseFoodId": "ginseng",
+      "sourceId": "mara-wenshan-sanqi-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "宣威火腿",
+      "system": "mara",
+      "region": "云南",
+      "category": "肉蛋奶",
+      "baseFoodId": "pork",
+      "sourceId": "mara-xuanwei-ham-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "黄山毛峰",
+      "system": "mara",
+      "region": "安徽",
+      "category": "茶饮",
+      "baseFoodId": "green-tea",
+      "sourceId": "mara-huangshan-tea-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "祁门红茶",
+      "system": "mara",
+      "region": "安徽",
+      "category": "茶饮",
+      "baseFoodId": "black-tea",
+      "sourceId": "mara-qimen-tea-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "西湖藕粉",
+      "system": "mara",
+      "region": "浙江",
+      "category": "主食",
+      "baseFoodId": "lotus-root",
+      "sourceId": "mara-xihu-lotus-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "武昌鱼",
+      "system": "mara",
+      "region": "湖北",
+      "category": "海产",
+      "baseFoodId": "fish",
+      "sourceId": "mara-wuchang-fish-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "章丘大葱",
+      "system": "mara",
+      "region": "山东",
+      "category": "蔬菜",
+      "baseFoodId": "scallion",
+      "sourceId": "mara-zhangqiu-scallion-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "寿光蔬菜",
+      "system": "mara",
+      "region": "山东",
+      "category": "蔬菜",
+      "baseFoodId": "cabbage",
+      "sourceId": "mara-shouguang-veg-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "涪陵榨菜",
+      "system": "mara",
+      "region": "重庆",
+      "category": "腌菜",
+      "baseFoodId": "mustard",
+      "sourceId": "mara-fuling-zhacai-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "内蒙古牛肉干",
+      "system": "mara",
+      "region": "内蒙古",
+      "category": "肉蛋奶",
+      "baseFoodId": "beef",
+      "sourceId": "mara-nm-beefjerky-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "滩羊肉",
+      "system": "mara",
+      "region": "宁夏",
+      "category": "肉蛋奶",
+      "baseFoodId": "lamb",
+      "sourceId": "mara-tan-lamb-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "青海牦牛肉",
+      "system": "mara",
+      "region": "青海",
+      "category": "肉蛋奶",
+      "baseFoodId": "beef",
+      "sourceId": "mara-qh-yakbeef-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "西藏牦牛肉",
+      "system": "mara",
+      "region": "西藏",
+      "category": "肉蛋奶",
+      "baseFoodId": "beef",
+      "sourceId": "mara-xz-yakbeef-p4",
+      "appliedAt": "2026-06-11"
+    },
+    {
+      "name": "南丰蜜橘",
+      "system": "mara",
+      "region": "江西",
+      "category": "水果",
+      "baseFoodId": "orange",
+      "sourceId": "mara-nanfeng-orange-p4",
+      "appliedAt": "2026-06-11"
     }
   ],
   "lingnanPriority": []

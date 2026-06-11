@@ -25,7 +25,10 @@ const INGREDIENT_BATCH_FILES = new Set([
   "foods-china-curated-batch12.json",
   "foods-china-curated-batch13.json",
   "foods-china-curated-batch14.json",
-  "foods-china-curated-batch15.json"
+  "foods-china-curated-batch15.json",
+  "foods-china-curated-batch16.json",
+  "foods-china-curated-batch17.json",
+  "foods-china-curated-batch18.json"
 ]);
 
 const POOL_BATCH_FILES = new Set([
@@ -117,7 +120,8 @@ INGREDIENT_BATCH_FILES.forEach((file) => {
   "food-search-synonyms-batch8-hk.json",
   "food-search-synonyms-batch9-mo.json",
   "food-search-synonyms-batch9-gx.json",
-  "food-search-synonyms-batch9-hainan.json"
+  "food-search-synonyms-batch9-hainan.json",
+  "food-search-synonyms-batch10-phase4.json"
 ].forEach((synonymFile) => {
 readCnJson(synonymFile, []).forEach((row) => {
   const foodId = String(row.foodId || "").trim();

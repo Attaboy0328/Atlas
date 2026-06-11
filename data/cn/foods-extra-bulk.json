@@ -220,7 +220,8 @@
     "nature": "温",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-condiment-024",

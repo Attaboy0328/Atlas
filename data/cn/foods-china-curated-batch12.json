@@ -693,8 +693,7 @@
       "hn-chou-doufu"
     ],
     "summary": "湖南发酵豆腐，适量食用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "hn-yangroufen",
@@ -1284,7 +1283,8 @@
       "sd-jianbing-shandong"
     ],
     "summary": "山东杂粮煎饼，粗粮主食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sd-dezhou-chicken",
@@ -1310,9 +1310,7 @@
     ],
     "summary": "山东扒鸡，温中益气。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "aliases": [
-      "德州扒鸡（整只）"
-    ]
+    "hiddenFromLibrary": true
   },
   {
     "id": "sd-braised-intestine",
@@ -1337,7 +1335,8 @@
       "sd-braised-intestine"
     ],
     "summary": "鲁菜经典，油腻适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sd-scallion-seafood",
@@ -1412,7 +1411,8 @@
       "sx-roujiamo"
     ],
     "summary": "陕西肉夹馍，温中补虚。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sx-yangrou-paomo",
@@ -1489,9 +1489,7 @@
     ],
     "summary": "武汉热干面，芝麻酱香主食。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "aliases": [
-      "热干面（武汉）"
-    ]
+    "hiddenFromLibrary": true
   },
   {
     "id": "hb-wuchang-fish",
@@ -1645,10 +1643,7 @@
     ],
     "summary": "云南过桥米线，温胃益气。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "aliases": [
-      "过桥米线（滇式）",
-      "过桥米线料"
-    ]
+    "hiddenFromLibrary": true
   },
   {
     "id": "yn-steam-pot",
@@ -1673,7 +1668,8 @@
       "yn-steam-pot"
     ],
     "summary": "云南汽锅鸡，补气养血。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "yn-rose-pastry",
@@ -1724,7 +1720,8 @@
       "yn-erkuai"
     ],
     "summary": "云南大米饵块，家常主食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gz-sour-soup",
@@ -1749,7 +1746,8 @@
       "gz-sour-soup"
     ],
     "summary": "贵州酸汤鱼，开胃消食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gz-siwawa",
@@ -1825,7 +1823,8 @@
       "xj-lagman"
     ],
     "summary": "新疆拉条子拌面，饱腹主食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "xj-polo",
@@ -1880,9 +1879,7 @@
     ],
     "summary": "新疆烤馕，日常主食。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "aliases": [
-      "馕（新疆）"
-    ]
+    "hiddenFromLibrary": true
   },
   {
     "id": "xj-kebab",
@@ -2060,7 +2057,8 @@
       "qh-yak-butter-tea"
     ],
     "summary": "藏区酥油茶，高能量抗寒。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "qh-tsampa",
@@ -2085,7 +2083,8 @@
       "qh-tsampa"
     ],
     "summary": "藏族青稞糌粑，高原主食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gs-lanzhou-beef",
@@ -2136,7 +2135,8 @@
       "gs-niangpi"
     ],
     "summary": "西北酿皮，凉拌面食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gs-sweet-fermented",
@@ -2212,7 +2212,8 @@
       "ln-sauerkraut"
     ],
     "summary": "东北酸菜，开胃配菜。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "ln-bingtanghulu",
@@ -2288,7 +2289,8 @@
       "jl-songhua-egg"
     ],
     "summary": "东北松花蛋，凉拌适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hlj-disanxian",

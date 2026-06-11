@@ -82,5 +82,110 @@
     "level": "good",
     "category": "澳式茶点",
     "text": "澳门手信配淡茶，解腻生津，含糖适量。"
+  },
+  {
+    "ids": ["c16-hlj-sauerkraut", "pork"],
+    "title": "酸菜与五花肉",
+    "level": "good",
+    "category": "东北炖菜",
+    "text": "东北酸菜炖肉经典，开胃暖身，控盐适量。"
+  },
+  {
+    "ids": ["c16-hlj-forest-mushroom", "chicken"],
+    "title": "榛蘑与鸡肉",
+    "level": "good",
+    "category": "东北炖品",
+    "text": "榛蘑炖鸡益气健脾，秋冬体虚乏力时参考。"
+  },
+  {
+    "ids": ["c16-bj-shuanyang", "scallion"],
+    "title": "涮羊肉与葱段",
+    "level": "good",
+    "category": "京式暖食",
+    "text": "铜锅涮肉配葱丝，温阳补虚，冬季畏寒参考。"
+  },
+  {
+    "ids": ["c17-nx-goji", "chicken"],
+    "title": "枸杞与鸡肉",
+    "level": "good",
+    "category": "西北药膳",
+    "text": "宁夏枸杞炖鸡，益气养血、明目润燥。"
+  },
+  {
+    "ids": ["c17-xj-pilaf", "carrot"],
+    "title": "羊肉抓饭与胡萝卜",
+    "level": "good",
+    "category": "新疆主食",
+    "text": "抓饭经典配伍，温阳补虚、主食暖胃。"
+  },
+  {
+    "ids": ["c17-yn-wild-mushroom", "chicken"],
+    "title": "野生菌与鸡肉",
+    "level": "caution",
+    "category": "滇式山珍",
+    "text": "云南菌子炖鸡鲜美，须煮熟透，过敏者慎用。"
+  },
+  {
+    "ids": ["c17-gz-sour-soup", "grass-carp"],
+    "title": "酸汤与鲜鱼",
+    "level": "good",
+    "category": "黔式开胃",
+    "text": "贵州酸汤鱼开胃消食，湿重困脾时参考。"
+  },
+  {
+    "ids": ["c18-hb-lotus-root-soup", "pork"],
+    "title": "莲藕与排骨",
+    "level": "good",
+    "category": "鄂式家汤",
+    "text": "湖北排骨藕汤健脾养胃，秋燥食欲差时。"
+  },
+  {
+    "ids": ["c18-hn-chopped-pepper", "grass-carp"],
+    "title": "剁椒与鱼头",
+    "level": "good",
+    "category": "湘式名菜",
+    "text": "剁椒鱼头开胃祛湿，胃热或湿热重者宜减量。"
+  },
+  {
+    "ids": ["c18-sd-peanut", "spinach"],
+    "title": "花生与菠菜",
+    "level": "good",
+    "category": "鲁式凉菜",
+    "text": "花生拌菠菜润燥养血，春季通便小菜。"
+  },
+  {
+    "ids": ["c14-sx-lamb-soup", "ginger"],
+    "title": "羊肉泡馍与姜",
+    "level": "good",
+    "category": "陕式暖食",
+    "text": "西安泡馍温胃补虚，冬季畏寒肢冷参考。"
+  },
+  {
+    "ids": ["c18-henan-date", "rice"],
+    "title": "大枣与小米",
+    "level": "good",
+    "category": "豫式粥品",
+    "text": "大枣小米粥补中益气，面色萎黄乏力时。"
+  },
+  {
+    "ids": ["c16-nm-hand-meat", "scallion"],
+    "title": "手扒肉与大葱",
+    "level": "good",
+    "category": "蒙古菜",
+    "text": "草原手扒羊肉配葱，温阳补虚适量。"
+  },
+  {
+    "ids": ["c17-xz-butter-tea", "barley"],
+    "title": "酥油茶与糌粑",
+    "level": "good",
+    "category": "藏式主食",
+    "text": "高原酥油茶配糌粑，温胃御寒，高脂控量。"
+  },
+  {
+    "ids": ["c18-jx-steamed-pork", "rice"],
+    "title": "粉蒸肉与糯米",
+    "level": "caution",
+    "category": "赣菜",
+    "text": "粉蒸肉香糯温补，高脂高盐，慢病控量。"
   }
 ]

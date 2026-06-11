@@ -1702,7 +1702,8 @@
         "zm"
       ],
       "confidence": "东北山货菌菇扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "yuanmo",
@@ -3018,7 +3019,8 @@
         "mengguzu"
       ],
       "confidence": "北方民族粮食扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "blood-sausage",
@@ -3071,7 +3073,8 @@
         "manzu"
       ],
       "confidence": "东北地方肉类扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "hazelnut",

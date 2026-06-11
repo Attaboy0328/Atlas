@@ -1050,7 +1050,8 @@
       "c13-yn-wild-mushroom"
     ],
     "summary": "云南野生菌，益气养阴，需煮熟。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gz-sour-soup-base",

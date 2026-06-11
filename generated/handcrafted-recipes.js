@@ -11493,5 +11493,1900 @@ const HANDCRAFTED_RECIPES = [
       }
     ],
     "draft": false
+  },
+  {
+    "id": "bj-shuanyang-soup",
+    "name": "涮羊肉清汤",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "lamb",
+      "ginger",
+      "scallion"
+    ],
+    "provinces": [
+      "北京"
+    ],
+    "cuisine": "京菜",
+    "recipeTopic": "温阳补虚",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "铜锅清汤",
+    "ingredients": [
+      "羊肉片 200 克",
+      "生姜 5 片",
+      "葱段"
+    ],
+    "steps": [
+      "清水煮开",
+      "涮熟蘸料食用"
+    ],
+    "note": "冬季畏寒肢冷时适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "涮羊肉清汤为京菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "bj-pea-cake-tea",
+    "name": "豌豆黄配菊茶",
+    "nature": "凉",
+    "syndromes": [
+      "阴虚内热",
+      "肝火上炎"
+    ],
+    "foodIds": [
+      "mung-bean",
+      "chrysanthemum"
+    ],
+    "provinces": [
+      "北京"
+    ],
+    "cuisine": "京菜",
+    "recipeTopic": "清热润燥",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "宫廷小点",
+    "ingredients": [
+      "豌豆黄 2 块",
+      "菊花 5 克"
+    ],
+    "steps": [
+      "菊花冲泡",
+      "配豌豆黄"
+    ],
+    "note": "暑热烦渴时少量甜品。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "豌豆黄配菊茶为京菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "bj-douzhi-jiaoquan",
+    "name": "豆汁配焦圈",
+    "nature": "温",
+    "syndromes": [
+      "脾胃气滞",
+      "食积"
+    ],
+    "foodIds": [
+      "ginger",
+      "rice"
+    ],
+    "provinces": [
+      "北京"
+    ],
+    "cuisine": "京菜",
+    "recipeTopic": "开胃消食",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "老北京早点",
+    "ingredients": [
+      "豆汁 1 碗",
+      "焦圈 1 个"
+    ],
+    "steps": [
+      "温热食用"
+    ],
+    "note": "气味浓烈，消化不良者慎用。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "豆汁配焦圈为京菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "bj-zhizi-lamb",
+    "name": "炙子烤肉",
+    "nature": "温",
+    "syndromes": [
+      "气血不足",
+      "脾阳虚"
+    ],
+    "foodIds": [
+      "lamb",
+      "onion",
+      "ginger"
+    ],
+    "provinces": [
+      "北京"
+    ],
+    "cuisine": "京菜",
+    "recipeTopic": "温补气血",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "老北京烤肉",
+    "ingredients": [
+      "羊肉 250 克",
+      "洋葱 半个",
+      "姜丝"
+    ],
+    "steps": [
+      "铁板炙烤",
+      "配葱丝"
+    ],
+    "note": "体虚畏寒冬季参考。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "炙子烤肉为京菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "bj-walnut-soup",
+    "name": "核桃酪",
+    "nature": "温",
+    "syndromes": [
+      "肾气虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "walnut",
+      "rice"
+    ],
+    "provinces": [
+      "北京"
+    ],
+    "cuisine": "京菜",
+    "recipeTopic": "补肾润肠",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "滋补甜品",
+    "ingredients": [
+      "核桃仁 30 克",
+      "糯米 20 克"
+    ],
+    "steps": [
+      "磨浆煮至浓稠"
+    ],
+    "note": "腰酸乏力、便秘时适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "核桃酪为京菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "db-sauerkraut-pork",
+    "name": "酸菜炖粉条",
+    "nature": "温",
+    "syndromes": [
+      "寒湿困脾",
+      "脾胃气滞"
+    ],
+    "foodIds": [
+      "pork",
+      "ginger"
+    ],
+    "provinces": [
+      "黑龙江",
+      "吉林",
+      "辽宁"
+    ],
+    "cuisine": "东北菜",
+    "recipeTopic": "开胃暖身",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "东北炖菜",
+    "ingredients": [
+      "五花肉 200 克",
+      "酸菜 200 克",
+      "粉条 80 克"
+    ],
+    "steps": [
+      "肉炒香",
+      "加水炖 40 分钟"
+    ],
+    "note": "冬季暖身，控盐适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "酸菜炖粉条为东北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "db-salmon-soup",
+    "name": "大马哈鱼豆腐汤",
+    "nature": "温",
+    "syndromes": [
+      "气血不足",
+      "肾气虚"
+    ],
+    "foodIds": [
+      "tofu",
+      "ginger"
+    ],
+    "provinces": [
+      "黑龙江"
+    ],
+    "cuisine": "东北菜",
+    "recipeTopic": "益气补虚",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "江鲜汤品",
+    "ingredients": [
+      "大马哈鱼块 200 克",
+      "豆腐 150 克"
+    ],
+    "steps": [
+      "鱼煎香",
+      "加水炖 15 分钟"
+    ],
+    "note": "产后或体虚时高蛋白参考。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "大马哈鱼豆腐汤为东北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "db-corn-porridge",
+    "name": "玉米面粥",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "corn",
+      "rice"
+    ],
+    "provinces": [
+      "黑龙江",
+      "吉林"
+    ],
+    "cuisine": "东北菜",
+    "recipeTopic": "健脾养胃",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "粗粮主食",
+    "ingredients": [
+      "玉米面 50 克",
+      "大米 30 克"
+    ],
+    "steps": [
+      "同煮至粥稠"
+    ],
+    "note": "病后调养易消化主食。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "玉米面粥为东北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "db-deer-ginseng",
+    "name": "人参鹿肉汤",
+    "nature": "温",
+    "syndromes": [
+      "肾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "pork",
+      "ginger"
+    ],
+    "provinces": [
+      "吉林"
+    ],
+    "cuisine": "东北菜",
+    "recipeTopic": "补肾益气",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "滋补炖品",
+    "ingredients": [
+      "鹿肉 150 克",
+      "人参 5 克",
+      "生姜 3 片"
+    ],
+    "steps": [
+      "肉类焯水",
+      "隔水炖 90 分钟"
+    ],
+    "note": "遵医嘱少量，阴虚火旺慎用。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "人参鹿肉汤为东北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "db-cold-noodle-lite",
+    "name": "冷面清汤版",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "胃热"
+    ],
+    "foodIds": [
+      "rice",
+      "cucumber",
+      "egg"
+    ],
+    "provinces": [
+      "吉林"
+    ],
+    "cuisine": "东北菜",
+    "recipeTopic": "清热解暑",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "朝鲜族冷面",
+    "ingredients": [
+      "冷面 150 克",
+      "黄瓜丝",
+      "煮蛋半个"
+    ],
+    "steps": [
+      "清汤煮面",
+      "配蔬菜"
+    ],
+    "note": "暑热食欲差时，胃寒减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "冷面清汤版为东北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "db-sweet-potato",
+    "name": "烤地瓜",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "sweet-potato"
+    ],
+    "provinces": [
+      "辽宁"
+    ],
+    "cuisine": "东北菜",
+    "recipeTopic": "健脾益气",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "街头暖食",
+    "ingredients": [
+      "地瓜 2 个"
+    ],
+    "steps": [
+      "炭火或烤箱烤熟"
+    ],
+    "note": "冬季充饥暖胃小食。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "烤地瓜为东北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "db-mushroom-chicken",
+    "name": "榛蘑炖鸡",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "chicken",
+      "ginger"
+    ],
+    "provinces": [
+      "黑龙江"
+    ],
+    "cuisine": "东北菜",
+    "recipeTopic": "益气健脾",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "山珍炖品",
+    "ingredients": [
+      "鸡肉 300 克",
+      "榛蘑 50 克"
+    ],
+    "steps": [
+      "鸡肉焯水",
+      "与榛蘑同炖"
+    ],
+    "note": "食欲不振、乏力时。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "榛蘑炖鸡为东北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sd-dezhou-chicken-soup",
+    "name": "德州扒鸡汤",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "chicken",
+      "ginger"
+    ],
+    "provinces": [
+      "山东"
+    ],
+    "cuisine": "鲁菜",
+    "recipeTopic": "温中补虚",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "鲁菜名吃",
+    "ingredients": [
+      "扒鸡半只",
+      "红枣 3 枚",
+      "生姜 3 片"
+    ],
+    "steps": [
+      "鸡肉拆骨",
+      "煮汤 20 分钟"
+    ],
+    "note": "病后胃口弱时易消化。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "德州扒鸡汤为鲁菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sd-sea-cucumber-soup",
+    "name": "海参小米粥",
+    "nature": "温",
+    "syndromes": [
+      "肾阴虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "rice",
+      "ginger"
+    ],
+    "provinces": [
+      "山东"
+    ],
+    "cuisine": "鲁菜",
+    "recipeTopic": "滋阴温补",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "胶东海参",
+    "ingredients": [
+      "小米 50 克",
+      "生姜 2 片"
+    ],
+    "steps": [
+      "小米煮粥",
+      "配海参"
+    ],
+    "note": "阴虚体燥者少量滋补。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "海参小米粥为鲁菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sd-peanut-spinach",
+    "name": "花生拌菠菜",
+    "nature": "平",
+    "syndromes": [
+      "肠燥便秘",
+      "气血不足"
+    ],
+    "foodIds": [
+      "peanut",
+      "spinach"
+    ],
+    "provinces": [
+      "山东"
+    ],
+    "cuisine": "鲁菜",
+    "recipeTopic": "润燥养血",
+    "seasonTags": [
+      "春"
+    ],
+    "subtitle": "家常凉菜",
+    "ingredients": [
+      "花生 30 克",
+      "菠菜 150 克"
+    ],
+    "steps": [
+      "花生炒香",
+      "与菠菜拌匀"
+    ],
+    "note": "春季润燥通便小菜。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "花生拌菠菜为鲁菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sd-scallion-pancake-soup",
+    "name": "煎饼卷大葱汤",
+    "nature": "平",
+    "syndromes": [
+      "脾胃气滞",
+      "食积"
+    ],
+    "foodIds": [
+      "scallion",
+      "ginger"
+    ],
+    "provinces": [
+      "山东"
+    ],
+    "cuisine": "鲁菜",
+    "recipeTopic": "理气开胃",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "山东主食",
+    "ingredients": [
+      "山东煎饼 1 张",
+      "大葱 1 根"
+    ],
+    "steps": [
+      "煎饼卷葱",
+      "配清汤"
+    ],
+    "note": "油腻后理气开胃。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "煎饼卷大葱汤为鲁菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sd-braised-intestine-lite",
+    "name": "九转大肠清淡版",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "pork",
+      "ginger"
+    ],
+    "provinces": [
+      "山东"
+    ],
+    "cuisine": "鲁菜",
+    "recipeTopic": "温补控量",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "鲁菜名菜",
+    "ingredients": [
+      "猪大肠 150 克",
+      "生姜 5 片"
+    ],
+    "steps": [
+      "焯水后红烧",
+      "少油少糖"
+    ],
+    "note": "高脂高嘌呤，慢病控量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "九转大肠清淡版为鲁菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hn-chopped-fish-head",
+    "name": "剁椒鱼头",
+    "nature": "热",
+    "syndromes": [
+      "脾胃气滞",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "ginger",
+      "scallion"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "cuisine": "湘菜",
+    "recipeTopic": "开胃祛湿",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "湘菜名菜",
+    "ingredients": [
+      "鱼头 1 个",
+      "剁椒 2 汤匙"
+    ],
+    "steps": [
+      "大火蒸 12 分钟"
+    ],
+    "note": "湿重困脾、胃口差时，胃热减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "剁椒鱼头为湘菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hn-smoked-pork-bamboo",
+    "name": "腊肉炒笋",
+    "nature": "温",
+    "syndromes": [
+      "寒湿困脾",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "pork",
+      "ginger"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "cuisine": "湘菜",
+    "recipeTopic": "开胃健脾",
+    "seasonTags": [
+      "春"
+    ],
+    "subtitle": "湘菜家常",
+    "ingredients": [
+      "腊肉 80 克",
+      "鲜笋 150 克"
+    ],
+    "steps": [
+      "腊肉煸油",
+      "下笋快炒"
+    ],
+    "note": "春季开胃，控盐适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "腊肉炒笋为湘菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hn-lotus-pork-soup",
+    "name": "湘莲排骨汤",
+    "nature": "平",
+    "syndromes": [
+      "心脾两虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "pork",
+      "ginger"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "cuisine": "湘菜",
+    "recipeTopic": "健脾养心",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "湘莲炖汤",
+    "ingredients": [
+      "排骨 250 克",
+      "莲子 30 克"
+    ],
+    "steps": [
+      "排骨焯水",
+      "与莲子同炖"
+    ],
+    "note": "心悸失眠、面色少华时。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "湘莲排骨汤为湘菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hn-stinky-tofu-lite",
+    "name": "臭豆腐少油版",
+    "nature": "温",
+    "syndromes": [
+      "脾胃气滞",
+      "食积"
+    ],
+    "foodIds": [
+      "tofu",
+      "ginger"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "cuisine": "湘菜",
+    "recipeTopic": "开胃消食",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "街头小吃",
+    "ingredients": [
+      "臭豆腐 4 块",
+      "姜丝少许"
+    ],
+    "steps": [
+      "少油煎香"
+    ],
+    "note": "发酵风味，消化弱者适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "臭豆腐少油版为湘菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hn-rice-noodle-soup",
+    "name": "米粉清汤",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "pork",
+      "ginger"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "cuisine": "湘菜",
+    "recipeTopic": "养胃益气",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "湖南米粉",
+    "ingredients": [
+      "米粉 150 克",
+      "瘦肉片 50 克"
+    ],
+    "steps": [
+      "清汤煮粉",
+      "下肉片"
+    ],
+    "note": "病后调养易消化。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "米粉清汤为湘菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hn-tea-egg",
+    "name": "君山银针配茶点",
+    "nature": "凉",
+    "syndromes": [
+      "肝火上炎",
+      "肺热咳嗽"
+    ],
+    "foodIds": [
+      "egg",
+      "black-tea"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "cuisine": "湘菜",
+    "recipeTopic": "清热生津",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "茶饮搭配",
+    "ingredients": [
+      "茶叶蛋 1 个",
+      "君山银针 5 克"
+    ],
+    "steps": [
+      "冲泡茶饮",
+      "配茶点"
+    ],
+    "note": "暑热口苦时少量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "君山银针配茶点为湘菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "nw-lamb-pilaf",
+    "name": "羊肉抓饭",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "lamb",
+      "rice",
+      "carrot"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "cuisine": "西北菜",
+    "recipeTopic": "温阳补虚",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "新疆主食",
+    "ingredients": [
+      "羊肉 200 克",
+      "大米 150 克",
+      "胡萝卜 1 根"
+    ],
+    "steps": [
+      "羊肉炒香",
+      "与米同焖"
+    ],
+    "note": "畏寒体虚冬季参考。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "羊肉抓饭为西北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "nw-lagman-soup",
+    "name": "拉条子汤面",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "tomato",
+      "onion"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "cuisine": "西北菜",
+    "recipeTopic": "健脾主食",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "新疆面食",
+    "ingredients": [
+      "拉面 150 克",
+      "番茄 1 个"
+    ],
+    "steps": [
+      "煮汤下面"
+    ],
+    "note": "日常暖胃主食。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "拉条子汤面为西北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "nw-naan-tea",
+    "name": "馕配奶茶",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "milk",
+      "black-tea"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "cuisine": "西北菜",
+    "recipeTopic": "温胃充饥",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "牧区早餐",
+    "ingredients": [
+      "馕 1 块",
+      "奶茶 1 杯"
+    ],
+    "steps": [
+      "奶茶温热",
+      "配馕食用"
+    ],
+    "note": "高原寒冷地区暖胃参考。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "馕配奶茶为西北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "nw-yogurt-honey",
+    "name": "酸奶拌蜂蜜",
+    "nature": "平",
+    "syndromes": [
+      "肠燥便秘",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "honey"
+    ],
+    "provinces": [
+      "青海",
+      "新疆"
+    ],
+    "cuisine": "西北菜",
+    "recipeTopic": "润肠健脾",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "牧区甜品",
+    "ingredients": [
+      "酸奶 150 克",
+      "蜂蜜 1 汤匙"
+    ],
+    "steps": [
+      "拌匀食用"
+    ],
+    "note": "便秘口干时适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "酸奶拌蜂蜜为西北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "nw-zanba-tea",
+    "name": "糌粑酥油茶",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "barley",
+      "ginger"
+    ],
+    "provinces": [
+      "西藏",
+      "青海"
+    ],
+    "cuisine": "西北菜",
+    "recipeTopic": "温胃御寒",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "藏区主食",
+    "ingredients": [
+      "糌粑 50 克",
+      "酥油茶 1 碗"
+    ],
+    "steps": [
+      "糌粑捏团",
+      "配酥油茶"
+    ],
+    "note": "高海拔御寒，高脂控量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "糌粑酥油茶为西北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "nw-liangpi-summer",
+    "name": "酿皮凉拌",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "肝胃不和"
+    ],
+    "foodIds": [
+      "cucumber",
+      "vinegar"
+    ],
+    "provinces": [
+      "甘肃",
+      "宁夏"
+    ],
+    "cuisine": "西北菜",
+    "recipeTopic": "清热开胃",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "西北凉皮",
+    "ingredients": [
+      "酿皮 200 克",
+      "黄瓜丝",
+      "陈醋少许"
+    ],
+    "steps": [
+      "拌匀凉拌"
+    ],
+    "note": "暑湿身重、胃口差时。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "酿皮凉拌为西北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "nw-tan-lamb-soup",
+    "name": "滩羊肉汤",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "肾气虚"
+    ],
+    "foodIds": [
+      "lamb",
+      "ginger"
+    ],
+    "provinces": [
+      "宁夏"
+    ],
+    "cuisine": "西北菜",
+    "recipeTopic": "温补气血",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "宁夏名吃",
+    "ingredients": [
+      "滩羊肉 250 克",
+      "红枣 5 枚"
+    ],
+    "steps": [
+      "羊肉焯水",
+      "炖 60 分钟"
+    ],
+    "note": "冬季畏寒腰酸时。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "滩羊肉汤为西北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "nw-goji-chicken",
+    "name": "枸杞炖鸡",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "肝血不足"
+    ],
+    "foodIds": [
+      "chicken"
+    ],
+    "provinces": [
+      "宁夏"
+    ],
+    "cuisine": "西北菜",
+    "recipeTopic": "益气养血",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "中宁枸杞",
+    "ingredients": [
+      "鸡肉 300 克",
+      "枸杞 10 克"
+    ],
+    "steps": [
+      "鸡肉焯水",
+      "隔水炖 50 分钟"
+    ],
+    "note": "面色萎黄、眼干时。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "枸杞炖鸡为西北菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hb-hot-dry-lite",
+    "name": "热干面少油版",
+    "nature": "温",
+    "syndromes": [
+      "脾胃气滞",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "sesame",
+      "scallion"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "cuisine": "鄂菜",
+    "recipeTopic": "健脾开胃",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "武汉早点",
+    "ingredients": [
+      "面条 150 克",
+      "芝麻酱少许"
+    ],
+    "steps": [
+      "煮熟拌酱",
+      "撒葱花"
+    ],
+    "note": "日常主食，高脂控量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "热干面少油版为鄂菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hb-lotus-pork-soup",
+    "name": "排骨藕汤",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "lotus-root",
+      "pork",
+      "ginger"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "cuisine": "鄂菜",
+    "recipeTopic": "健脾养胃",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "湖北家汤",
+    "ingredients": [
+      "排骨 250 克",
+      "莲藕 300 克"
+    ],
+    "steps": [
+      "排骨焯水",
+      "炖 60 分钟"
+    ],
+    "note": "秋燥口干、食欲差时。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "排骨藕汤为鄂菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hb-wuchang-fish-steam",
+    "name": "清蒸武昌鱼",
+    "nature": "平",
+    "syndromes": [
+      "肝胃不和",
+      "气血不足"
+    ],
+    "foodIds": [
+      "ginger",
+      "scallion"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "cuisine": "鄂菜",
+    "recipeTopic": "调和肝胃",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "淡水蒸鱼",
+    "ingredients": [
+      "武昌鱼 1 条",
+      "姜丝",
+      "葱丝"
+    ],
+    "steps": [
+      "大火蒸 8 分钟"
+    ],
+    "note": "清淡高蛋白，胃口弱时。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "清蒸武昌鱼为鄂菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "henan-huimian-soup",
+    "name": "羊肉烩面",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "lamb",
+      "ginger"
+    ],
+    "provinces": [
+      "河南"
+    ],
+    "cuisine": "豫菜",
+    "recipeTopic": "温胃暖身",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "河南主食",
+    "ingredients": [
+      "羊肉 150 克",
+      "烩面 150 克"
+    ],
+    "steps": [
+      "羊肉炖汤",
+      "下面煮熟"
+    ],
+    "note": "畏寒肢冷冬季参考。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "羊肉烩面为豫菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "henan-date-porridge",
+    "name": "大枣小米粥",
+    "nature": "温",
+    "syndromes": [
+      "气血不足",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "rice"
+    ],
+    "provinces": [
+      "河南"
+    ],
+    "cuisine": "豫菜",
+    "recipeTopic": "补中益气",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "豫北粥品",
+    "ingredients": [
+      "大枣 8 枚",
+      "小米 50 克"
+    ],
+    "steps": [
+      "同煮至粥稠"
+    ],
+    "note": "面色萎黄、乏力时。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "大枣小米粥为豫菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sn-yangrou-paomo",
+    "name": "羊肉泡馍",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "lamb",
+      "ginger"
+    ],
+    "provinces": [
+      "陕西"
+    ],
+    "cuisine": "陕菜",
+    "recipeTopic": "温胃补虚",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "西安名吃",
+    "ingredients": [
+      "羊肉 200 克",
+      "馍 2 个"
+    ],
+    "steps": [
+      "羊肉炖汤",
+      "掰馍泡食"
+    ],
+    "note": "冬季暖胃主食。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "羊肉泡馍为陕菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sn-roujiamo-lite",
+    "name": "肉夹馍少油版",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "pork"
+    ],
+    "provinces": [
+      "陕西"
+    ],
+    "cuisine": "陕菜",
+    "recipeTopic": "温中充饥",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "陕西快餐",
+    "ingredients": [
+      "卤肉 80 克",
+      "白馍 1 个"
+    ],
+    "steps": [
+      "夹入馍中食用"
+    ],
+    "note": "日常充饥，高脂控量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "肉夹馍少油版为陕菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sn-liangpi-summer",
+    "name": "凉皮少辣版",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "cucumber",
+      "vinegar"
+    ],
+    "provinces": [
+      "陕西"
+    ],
+    "cuisine": "陕菜",
+    "recipeTopic": "清热解暑",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "关中凉皮",
+    "ingredients": [
+      "凉皮 200 克",
+      "黄瓜丝"
+    ],
+    "steps": [
+      "凉拌食用"
+    ],
+    "note": "暑热烦渴时，胃寒减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "凉皮少辣版为陕菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sn-jujube-porridge",
+    "name": "红枣甑糕",
+    "nature": "温",
+    "syndromes": [
+      "气血不足",
+      "脾阳虚"
+    ],
+    "foodIds": [
+      "rice"
+    ],
+    "provinces": [
+      "陕西"
+    ],
+    "cuisine": "陕菜",
+    "recipeTopic": "补气养血",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "西安甜品",
+    "ingredients": [
+      "糯米 100 克",
+      "红枣 50 克"
+    ],
+    "steps": [
+      "层层蒸至软糯"
+    ],
+    "note": "冬季温补甜品，控糖。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "红枣甑糕为陕菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "ah-stinky-fish-lite",
+    "name": "臭鳜鱼清蒸",
+    "nature": "温",
+    "syndromes": [
+      "脾胃气滞",
+      "食积"
+    ],
+    "foodIds": [
+      "ginger"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "cuisine": "徽菜",
+    "recipeTopic": "开胃消食",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "徽州名菜",
+    "ingredients": [
+      "鳜鱼 1 条",
+      "生姜 5 片"
+    ],
+    "steps": [
+      "清蒸至熟"
+    ],
+    "note": "发酵风味，适量食用。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "臭鳜鱼清蒸为徽菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "ah-bamboo-pork",
+    "name": "问政山笋炒肉",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "肝胃不和"
+    ],
+    "foodIds": [
+      "pork",
+      "ginger"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "cuisine": "徽菜",
+    "recipeTopic": "清热化痰",
+    "seasonTags": [
+      "春"
+    ],
+    "subtitle": "徽州春笋",
+    "ingredients": [
+      "鲜笋 200 克",
+      "瘦肉 100 克"
+    ],
+    "steps": [
+      "笋焯水",
+      "与肉快炒"
+    ],
+    "note": "春季油腻后清爽配菜。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "问政山笋炒肉为徽菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "jx-steamed-pork-rice",
+    "name": "粉蒸肉配米饭",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "pork",
+      "rice"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "cuisine": "赣菜",
+    "recipeTopic": "健脾益气",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "江西名菜",
+    "ingredients": [
+      "五花肉 200 克",
+      "米粉 30 克"
+    ],
+    "steps": [
+      "粉蒸至熟",
+      "配米饭"
+    ],
+    "note": "冬季温补，高脂控量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "粉蒸肉配米饭为赣菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "jx-rice-noodle-clear",
+    "name": "南昌拌粉清汤版",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "scallion"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "cuisine": "赣菜",
+    "recipeTopic": "养胃主食",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "江西米粉",
+    "ingredients": [
+      "米粉 150 克",
+      "葱花"
+    ],
+    "steps": [
+      "煮熟拌酱少辣"
+    ],
+    "note": "病后易消化主食。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "南昌拌粉清汤版为赣菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "nm-hand-meat-soup",
+    "name": "手扒羊肉汤",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "肾气虚"
+    ],
+    "foodIds": [
+      "lamb",
+      "ginger",
+      "scallion"
+    ],
+    "provinces": [
+      "内蒙古"
+    ],
+    "cuisine": "蒙古菜",
+    "recipeTopic": "温阳补虚",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "草原名菜",
+    "ingredients": [
+      "羊肉 300 克",
+      "生姜 5 片"
+    ],
+    "steps": [
+      "清水炖煮至软烂"
+    ],
+    "note": "冬季畏寒时温补参考。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "手扒羊肉汤为蒙古菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "nm-milk-tea",
+    "name": "奶茶配炒米",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "milk",
+      "black-tea"
+    ],
+    "provinces": [
+      "内蒙古"
+    ],
+    "cuisine": "蒙古菜",
+    "recipeTopic": "温胃充饥",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "牧区早餐",
+    "ingredients": [
+      "炒米 30 克",
+      "奶茶 1 碗"
+    ],
+    "steps": [
+      "奶茶温热",
+      "撒炒米"
+    ],
+    "note": "草原寒冷地区暖胃。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "奶茶配炒米为蒙古菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "tj-gabacai-breakfast",
+    "name": "嘎巴菜早点",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "mung-bean"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "cuisine": "津菜",
+    "recipeTopic": "健脾充饥",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "天津早点",
+    "ingredients": [
+      "嘎巴菜 1 碗"
+    ],
+    "steps": [
+      "趁热食用"
+    ],
+    "note": "日常早点，控卤汁咸度。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "嘎巴菜早点为津菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "tj-miantea-winter",
+    "name": "面茶暖身",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "millet",
+      "sesame"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "cuisine": "津菜",
+    "recipeTopic": "温胃充饥",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "传统面茶",
+    "ingredients": [
+      "面茶 1 碗"
+    ],
+    "steps": [
+      "趁热冲调食用"
+    ],
+    "note": "冬季清晨暖胃。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "面茶暖身为津菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sx-vinegar-noodle",
+    "name": "陈醋刀削面",
+    "nature": "平",
+    "syndromes": [
+      "脾胃气滞",
+      "食积"
+    ],
+    "foodIds": [
+      "vinegar"
+    ],
+    "provinces": [
+      "山西"
+    ],
+    "cuisine": "晋菜",
+    "recipeTopic": "开胃消食",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "山西面食",
+    "ingredients": [
+      "刀削面 150 克",
+      "老陈醋少许"
+    ],
+    "steps": [
+      "煮熟拌醋"
+    ],
+    "note": "油腻后开胃主食。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "陈醋刀削面为晋菜常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sx-millet-porridge",
+    "name": "小米南瓜粥",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "pumpkin"
+    ],
+    "provinces": [
+      "山西"
+    ],
+    "cuisine": "晋菜",
+    "recipeTopic": "健脾养胃",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "晋北粥品",
+    "ingredients": [
+      "小米 50 克",
+      "南瓜 100 克"
+    ],
+    "steps": [
+      "同煮至粥稠"
+    ],
+    "note": "脾胃虚弱日常粥品。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "小米南瓜粥为晋菜常见食养方。"
+      }
+    ],
+    "draft": false
   }
 ];

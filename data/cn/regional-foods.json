@@ -164,7 +164,8 @@
       "jinhua huotui",
       "jhht"
     ],
-    "summary": "浙闽名产，偏温。"
+    "summary": "浙闽名产，偏温。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "tianjin-mahua",
@@ -229,7 +230,8 @@
       "luzhu",
       "lz"
     ],
-    "summary": "北京传统小吃，偏温热。"
+    "summary": "北京传统小吃，偏温热。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "lamb-skewer",
@@ -393,7 +395,8 @@
       "duojiao",
       "dj"
     ],
-    "summary": "湘菜常用发酵辣椒。"
+    "summary": "湘菜常用发酵辣椒。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cantonese-sausage",
@@ -554,7 +557,8 @@
       "qimenhongcha",
       "qmhc"
     ],
-    "summary": "安徽红茶名品。"
+    "summary": "安徽红茶名品。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "tibetan-butter-tea",
@@ -1198,7 +1202,8 @@
       "fenggan niurou",
       "fgnr"
     ],
-    "summary": "草原风干肉，偏温燥。"
+    "summary": "草原风干肉，偏温燥。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hainan-chicken-rice",

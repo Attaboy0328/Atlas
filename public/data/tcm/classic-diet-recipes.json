@@ -1261,39 +1261,6 @@
     "classicTier": 1
   },
   {
-    "id": "classic-dazao-xiaomi-zhou",
-    "name": "大枣小米粥",
-    "nature": "温",
-    "syndromes": [
-      "脾气虚",
-      "胃气虚"
-    ],
-    "foodIds": [
-      "jujube",
-      "millet",
-      "ginger"
-    ],
-    "subtitle": "温中养胃",
-    "ingredients": [
-      "红枣 6 枚",
-      "小米 80 克",
-      "生姜 2 片"
-    ],
-    "steps": [
-      "红枣去核",
-      "与小米、生姜同煮成粥"
-    ],
-    "note": "偏温甜，痰湿偏重时控制频率。",
-    "sources": [
-      {
-        "title": "《养老奉亲书》",
-        "summary": "枣粥为老年养胃常用之品。"
-      }
-    ],
-    "draft": false,
-    "classicTier": 1
-  },
-  {
     "id": "classic-xianggu-jitang",
     "name": "香菇鸡汤",
     "nature": "温",

@@ -1,0 +1,142 @@
+[
+  {
+    "ids": ["lamb", "ginger"],
+    "title": "羊肉与生姜",
+    "level": "good",
+    "category": "温补驱寒",
+    "text": "北方冬季炖羊肉常配生姜，温中散寒、去腥增香。"
+  },
+  {
+    "ids": ["lamb", "red-dates"],
+    "title": "羊肉与红枣",
+    "level": "good",
+    "category": "温补气血",
+    "text": "西北滩羊汤配红枣，温补气血、暖胃御寒。"
+  },
+  {
+    "ids": ["lotus-root", "pork"],
+    "title": "莲藕与排骨",
+    "level": "good",
+    "category": "健脾养胃",
+    "text": "湖北排骨藕汤经典搭配，健脾开胃、滋阴润燥。"
+  },
+  {
+    "ids": ["c16-hlj-sauerkraut", "pork"],
+    "title": "酸菜与五花肉",
+    "level": "good",
+    "category": "开胃暖身",
+    "text": "东北酸菜炖肉，开胃消食、冬季暖身，注意控盐。"
+  },
+  {
+    "ids": ["walnut", "rice"],
+    "title": "核桃与糯米",
+    "level": "good",
+    "category": "补肾润肠",
+    "text": "京式核桃酪常用配伍，补肾温肺、润肠通便。"
+  },
+  {
+    "ids": ["goji-berry", "chicken"],
+    "title": "枸杞与鸡肉",
+    "level": "good",
+    "category": "益气养血",
+    "text": "宁夏枸杞炖鸡，益气养血、滋阴明目。"
+  },
+  {
+    "ids": ["barley", "ginger"],
+    "title": "青稞与生姜",
+    "level": "good",
+    "category": "温胃御寒",
+    "text": "藏区糌粑配酥油茶，高原温胃充饥，高脂适量。"
+  },
+  {
+    "ids": ["mung-bean", "chrysanthemum"],
+    "title": "绿豆与菊花",
+    "level": "good",
+    "category": "清热解暑",
+    "text": "京津夏日绿豆汤加菊花，清热解暑、清肝明目。"
+  },
+  {
+    "ids": ["grass-carp", "ginger"],
+    "title": "鱼与生姜",
+    "level": "good",
+    "category": "去腥和胃",
+    "text": "鄂菜清蒸武昌鱼配姜葱，去腥和胃、调和脾胃。"
+  },
+  {
+    "ids": ["red-dates", "rice"],
+    "title": "红枣与小米",
+    "level": "good",
+    "category": "补中益气",
+    "text": "豫北大枣小米粥，补中益气、健脾养胃。"
+  },
+  {
+    "ids": ["vinegar", "flour"],
+    "title": "陈醋与面食",
+    "level": "good",
+    "category": "开胃消食",
+    "text": "山西刀削面配老陈醋，酸香开胃、助消化。"
+  },
+  {
+    "ids": ["beef", "onion"],
+    "title": "牛肉与洋葱",
+    "level": "good",
+    "category": "补气健脾",
+    "text": "内蒙古风干牛肉配洋葱，补气健脾、增香去腻。"
+  },
+  {
+    "ids": ["tofu", "ginger"],
+    "title": "豆腐与生姜",
+    "level": "good",
+    "category": "温中开胃",
+    "text": "湘菜臭豆腐配姜丝，温中开胃，发酵食品适量。"
+  },
+  {
+    "ids": ["pork", "rice"],
+    "title": "腊肉与米粉",
+    "level": "caution",
+    "category": "控盐提醒",
+    "text": "湖南腊肉米粉咸香开胃，高血压与肾病者控盐控量。"
+  },
+  {
+    "ids": ["crab", "ginger"],
+    "title": "大闸蟹与生姜",
+    "level": "good",
+    "category": "驱寒暖胃",
+    "text": "江浙食蟹配姜醋，驱寒暖胃、中和寒性。"
+  },
+  {
+    "ids": ["c16-hlj-forest-mushroom", "chicken"],
+    "title": "榛蘑与鸡肉",
+    "level": "good",
+    "category": "益气健脾",
+    "text": "东北小鸡炖蘑菇经典配伍，益气健脾、增强免疫力。"
+  },
+  {
+    "ids": ["pear", "honey"],
+    "title": "鸭梨与蜂蜜",
+    "level": "good",
+    "category": "润肺止咳",
+    "text": "京津蜂蜜炖梨，润肺止咳、清热生津。"
+  },
+  {
+    "ids": ["sweet-potato", "ginger"],
+    "title": "红薯与生姜",
+    "level": "good",
+    "category": "温中健脾",
+    "text": "东北烤地瓜配姜茶，温中健脾、冬季暖身。"
+  },
+  {
+    "ids": ["hami-melon", "mint"],
+    "title": "哈密瓜与薄荷",
+    "level": "good",
+    "category": "清热解暑",
+    "text": "新疆哈密瓜配薄荷饮，清热解暑、生津止渴。"
+  },
+  {
+    "ids": ["black-tea", "walnut"],
+    "title": "茶与核桃",
+    "level": "good",
+    "category": "理气醒脑",
+    "text": "闽浙茶点配核桃，理气醒脑、补益脑髓适量。"
+  }
+]
