@@ -183,8 +183,8 @@ const ETHNIC_FILTER_EXPAND_LIMIT = 10;
 const RECIPE_SOLAR_TERM_EXPAND_LIMIT = 10;
 const LIBRARY_CATEGORY_EXPAND_LIMIT = 8;
 const LIBRARY_DAODI_EXPAND_LIMIT = 6;
-const BROWSE_LIST_PAGE_SIZE = 80;
-const STAGGER_ANIMATION_LIMIT = 32;
+const BROWSE_LIST_PAGE_SIZE = 20;
+const STAGGER_ANIMATION_LIMIT = 20;
 const LIBRARY_CATEGORY_QUICK = ["食药物质", "中药材", "茶饮", "蔬菜", "水果", "海产", "谷物", "菌菇"];
 const PAIRING_CATEGORY_ORDER = ["现代安全", "传统食养", "民间迷思"];
 
@@ -2948,6 +2948,9 @@ function navigate(view) {
     window.atlasEnsureDeferredBundles();
   }
 
+  if (view === "library") resetLibraryListLimit();
+  if (view === "recipes") resetRecipesListLimit();
+
   state.view = view;
   if (state.sheet) {
     state.sheet = null;
@@ -3013,7 +3016,12 @@ function syncNavCheckerBadge() {
 
 function triggerStaggeredAnimation() {
   if (!state.isNavigating) return;
-  const items = app.querySelectorAll(".food-row, .recipe-row, .suggestion-row, .chip, .nature-tile");
+  const listSelector = state.view === "library"
+    ? ".food-list-data .food-row"
+    : state.view === "recipes"
+      ? ".recipe-list-compact .recipe-row"
+      : ".food-row, .recipe-row, .suggestion-row";
+  const items = app.querySelectorAll(listSelector);
   if (!items.length) return;
 
   items.forEach((item) => {
@@ -3023,7 +3031,7 @@ function triggerStaggeredAnimation() {
   const staggerItems = items.length > STAGGER_ANIMATION_LIMIT ? items.slice(0, STAGGER_ANIMATION_LIMIT) : items;
   let index = 0;
   function revealNext() {
-    const batchSize = 3;
+    const batchSize = 5;
     const limit = Math.min(index + batchSize, staggerItems.length);
     for (let i = index; i < limit; i++) {
       staggerItems[i].classList.add("ios-stagger-visible");

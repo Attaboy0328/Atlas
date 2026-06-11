@@ -24,7 +24,8 @@ const INGREDIENT_BATCH_FILES = new Set([
   "foods-hainan-ingredients-batch.json",
   "foods-china-curated-batch12.json",
   "foods-china-curated-batch13.json",
-  "foods-china-curated-batch14.json"
+  "foods-china-curated-batch14.json",
+  "foods-china-curated-batch15.json"
 ]);
 
 const POOL_BATCH_FILES = new Set([
