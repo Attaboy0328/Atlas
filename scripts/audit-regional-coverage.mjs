@@ -13,7 +13,9 @@ const NEW_BATCH_FILES = [
   "foods-china-condiments-batch8.json",
   "foods-china-seafood-batch9.json",
   "foods-china-produce-batch10.json",
-  "foods-china-snacks-batch11.json"
+  "foods-china-snacks-batch11.json",
+  "foods-hk-ingredients-batch.json",
+  "foods-china-curated-batch12.json"
 ];
 
 function readTcmJson(name) {
@@ -28,6 +30,10 @@ const lingnanFoods = cnFoods.filter((food) =>
 );
 const gdFoods = cnFoods.filter((food) => (food.provinces || []).includes("广东"));
 const hkFoods = cnFoods.filter((food) => (food.provinces || []).includes("香港"));
+const hkOnlyFoods = cnFoods.filter((food) => {
+  const ps = food.provinces || [];
+  return ps.includes("香港") && ps.length === 1;
+});
 
 const recipeFiles = [
   "handcrafted-recipes.json",
@@ -37,6 +43,7 @@ const recipeFiles = [
 ];
 const allRecipes = recipeFiles.flatMap(readTcmJson);
 const cantoneseRecipes = readTcmJson("cantonese-recipes-batch.json");
+const hkCuisineRecipes = cantoneseRecipes.filter((r) => r.cuisine === "港式");
 const withRegionalSchema = allRecipes.filter((r) => r.provinces?.length || r.cuisine || r.recipeTopic);
 
 const newBatchCounts = Object.fromEntries(
@@ -51,14 +58,20 @@ const issues = [];
 if (newBatchTotal < 1800) {
   issues.push(`new-batch-total ${newBatchTotal} < 1800`);
 }
-if (cantoneseRecipes.length < 80) {
-  issues.push(`cantonese-recipes ${cantoneseRecipes.length} < 80`);
+if (cantoneseRecipes.length < 118) {
+  issues.push(`cantonese-recipes ${cantoneseRecipes.length} < 118`);
 }
 if (lingnanFoods.length < 200) {
   issues.push(`lingnan-tagged foods ${lingnanFoods.length} < 200`);
 }
 if (gdFoods.length < 150) {
   issues.push(`guangdong-tagged foods ${gdFoods.length} < 150`);
+}
+if (hkOnlyFoods.length < 50) {
+  issues.push(`hk-only foods ${hkOnlyFoods.length} < 50`);
+}
+if (hkCuisineRecipes.length < 18) {
+  issues.push(`港式 recipes ${hkCuisineRecipes.length} < 18`);
 }
 if (!lingnanPriority.length) {
   issues.push("gi-expansion-queue missing lingnanPriority");
@@ -69,7 +82,8 @@ if (withRegionalSchema.length < cantoneseRecipes.length + 3) {
 
 console.log("[audit-regional-coverage]");
 console.log(`  CN curated foods: ${cnFoods.length}`);
-console.log(`  lingnan-tagged: ${lingnanFoods.length} (GD ${gdFoods.length}, HK ${hkFoods.length})`);
+console.log(`  lingnan-tagged: ${lingnanFoods.length} (GD ${gdFoods.length}, HK ${hkFoods.length}, HK-only ${hkOnlyFoods.length})`);
+console.log(`  港式 recipes: ${hkCuisineRecipes.length}`);
 console.log(`  new CN batches: ${newBatchTotal}`);
 Object.entries(newBatchCounts).forEach(([file, count]) => console.log(`    ${file}: ${count}`));
 console.log(`  cantonese recipes: ${cantoneseRecipes.length}`);

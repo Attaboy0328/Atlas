@@ -1,0 +1,62 @@
+[
+  {
+    "term": "丝袜奶茶",
+    "foodId": "hk-silk-milk-tea"
+  },
+  {
+    "term": "港式奶茶",
+    "foodId": "hk-silk-milk-tea"
+  },
+  {
+    "term": "冻柠茶",
+    "foodId": "hk-lemon-tea"
+  },
+  {
+    "term": "菠萝油",
+    "foodId": "hk-butter-pineapple"
+  },
+  {
+    "term": "港式蛋挞",
+    "foodId": "hk-egg-tart"
+  },
+  {
+    "term": "云吞面",
+    "foodId": "hk-wonton-noodle"
+  },
+  {
+    "term": "车仔面",
+    "foodId": "hk-cart-noodle"
+  },
+  {
+    "term": "鱼蛋粉",
+    "foodId": "hk-fish-ball-noodle"
+  },
+  {
+    "term": "干炒牛河",
+    "foodId": "hk-dried-beef-noodle"
+  },
+  {
+    "term": "碗仔翅",
+    "foodId": "hk-shark-fin-soup"
+  },
+  {
+    "term": "杨枝甘露",
+    "foodId": "hk-mango-pomelo"
+  },
+  {
+    "term": "老药桔",
+    "foodId": "hk-dried-tangerine-hk"
+  },
+  {
+    "term": "油炸鬼",
+    "foodId": "hk-deep-fried-dough"
+  },
+  {
+    "term": "元朗丝苗",
+    "foodId": "hk-yuen-long-rice"
+  },
+  {
+    "term": "港式肠粉",
+    "foodId": "hk-rice-roll-hk"
+  }
+]

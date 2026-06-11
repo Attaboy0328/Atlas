@@ -6503,5 +6503,464 @@ const HANDCRAFTED_RECIPES = [
       }
     ],
     "draft": false
+  },
+  {
+    "id": "hk-silk-tea-po",
+    "name": "丝袜奶茶（食疗版）",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚"
+    ],
+    "foodIds": [
+      "black-tea",
+      "milk"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "温胃提神",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "日常饮品",
+    "ingredients": [
+      "红茶 5 克",
+      "淡奶 100 ml"
+    ],
+    "steps": [
+      "红茶冲泡",
+      "加淡奶调匀"
+    ],
+    "note": "港式奶茶作日常饮品，失眠者晚间避免。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "丝袜奶茶（食疗版）为港式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hk-lemon-tea-drink",
+    "name": "冻柠茶",
+    "nature": "凉",
+    "syndromes": [
+      "肝火上炎",
+      "阴虚内热"
+    ],
+    "foodIds": [
+      "black-tea"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "清热生津",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "消暑解渴",
+    "ingredients": [
+      "柠檬 半个",
+      "红茶 5 克",
+      "冰糖少许"
+    ],
+    "steps": [
+      "冲泡冰镇饮用"
+    ],
+    "note": "暑热烦渴、口干时港式饮品。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "冻柠茶为港式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hk-wonton-soup",
+    "name": "鲜虾云吞汤",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "shrimp",
+      "pork",
+      "ginger"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "益气养血",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "养胃汤面",
+    "ingredients": [
+      "鲜虾 80 克",
+      "云吞 8 只",
+      "高汤 400 ml"
+    ],
+    "steps": [
+      "云吞煮熟",
+      "配高汤"
+    ],
+    "note": "病后或体虚需要易消化蛋白时。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "鲜虾云吞汤为港式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hk-beef-brisket-soup",
+    "name": "清汤牛腩",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "beef",
+      "ginger"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "温补气血",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "暖胃益气",
+    "ingredients": [
+      "牛腩 300 克",
+      "白萝卜 200 克"
+    ],
+    "steps": [
+      "牛腩炖软",
+      "下萝卜续煮"
+    ],
+    "note": "怕冷乏力时港式汤品。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "清汤牛腩为港式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hk-dried-beef-rice",
+    "name": "干炒牛河（清淡版）",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "beef",
+      "scallion"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "健脾开胃",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "镬气主食",
+    "ingredients": [
+      "河粉 200 克",
+      "牛肉 80 克",
+      "葱段"
+    ],
+    "steps": [
+      "快炒出锅"
+    ],
+    "note": "日常主食，控油控盐。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "干炒牛河（清淡版）为港式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hk-preserved-egg-congee",
+    "name": "皮蛋瘦肉粥",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "egg",
+      "pork",
+      "rice"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "养胃益气",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "生滚粥",
+    "ingredients": [
+      "皮蛋 1 个",
+      "瘦肉丝 50 克",
+      "大米 70 克"
+    ],
+    "steps": [
+      "煮粥底",
+      "下料滚熟"
+    ],
+    "note": "港式早餐养胃粥。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "皮蛋瘦肉粥为港式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hk-black-sesame-dessert",
+    "name": "芝麻糊",
+    "nature": "温",
+    "syndromes": [
+      "肠燥便秘",
+      "肾气虚"
+    ],
+    "foodIds": [
+      "walnut",
+      "rice"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "补血润肠",
+    "seasonTags": [
+      "秋",
+      "冬"
+    ],
+    "subtitle": "滋阴润燥",
+    "ingredients": [
+      "黑芝麻 40 克",
+      "糯米 20 克"
+    ],
+    "steps": [
+      "磨浆煮至浓稠"
+    ],
+    "note": "秋冬润燥，糖尿病控糖。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "芝麻糊为港式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hk-mango-pomelo-sago",
+    "name": "杨枝甘露",
+    "nature": "凉",
+    "syndromes": [
+      "阴虚内热",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "mango"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "清热生津",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "消暑甜品",
+    "ingredients": [
+      "芒果 100 克",
+      "柚子肉 50 克",
+      "西米 30 克"
+    ],
+    "steps": [
+      "西米煮透明",
+      "拌水果"
+    ],
+    "note": "暑热口渴时港式糖水。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "杨枝甘露为港式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hk-herbal-tea-home",
+    "name": "五花茶（家煮）",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "chrysanthemum",
+      "honeysuckle"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "清热祛湿",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "凉茶清热",
+    "ingredients": [
+      "菊花 6 克",
+      "金银花 5 克",
+      "甘草 3 克"
+    ],
+    "steps": [
+      "煎煮代茶"
+    ],
+    "note": "湿热天气少量饮用。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "五花茶（家煮）为港式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hk-watercress-pork",
+    "name": "西洋菜陈肾汤",
+    "nature": "凉",
+    "syndromes": [
+      "肺热咳嗽",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "watercress",
+      "pork",
+      "ginger"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "清肺润燥",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "清热润肺",
+    "ingredients": [
+      "西洋菜 200 克",
+      "陈肾 2 只",
+      "猪骨 200 克"
+    ],
+    "steps": [
+      "猪骨焯水",
+      "与陈肾、西洋菜同炖"
+    ],
+    "note": "燥咳咽干时港式老火汤。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "西洋菜陈肾汤为港式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hk-borscht-lite",
+    "name": "港式罗宋汤",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "tomato",
+      "beef",
+      "cabbage"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "益气养血",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "蔬菜牛肉汤",
+    "ingredients": [
+      "番茄 2 个",
+      "牛肉 150 克",
+      "卷心菜 100 克"
+    ],
+    "steps": [
+      "牛肉焯水",
+      "蔬菜同煮"
+    ],
+    "note": "港式家常汤，体虚时参考。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "港式罗宋汤为港式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "hk-almond-tea-drink",
+    "name": "杏仁茶",
+    "nature": "平",
+    "syndromes": [
+      "肺阴虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "rice"
+    ],
+    "provinces": [
+      "香港"
+    ],
+    "cuisine": "港式",
+    "recipeTopic": "润肺止咳",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "润燥生津",
+    "ingredients": [
+      "南杏 20 克",
+      "米浆 200 ml"
+    ],
+    "steps": [
+      "煮至香浓"
+    ],
+    "note": "秋燥干咳时港式饮品。",
+    "sources": [
+      {
+        "title": "岭南食疗整理",
+        "summary": "杏仁茶为港式常见食养方。"
+      }
+    ],
+    "draft": false
   }
 ];

@@ -314,6 +314,8 @@ const THEME_ACCENT_PRESETS = {
 };
 
 const RECIPE_LIFESTYLE_SCENARIOS = [
+  { label: "港式食疗", subtitle: "糖水·汤品", tone: "#5c6b8a", pale: "#e8ecf4", recipesProvince: "香港", recipesCuisine: "港式" },
+  { label: "粤式靓汤", subtitle: "老火汤", tone: "#4a7c59", pale: "#e3f0e8", recipesProvince: "广东", recipesCuisine: "粤菜" },
   { label: "熬夜调理", subtitle: "滋阴润燥", tone: "#6f98a4", pale: "#e9f1f2", scenarioIndex: 2 },
   { label: "暖胃消食", subtitle: "饭后胀满", tone: "#8a7340", pale: "#f3ecda", scenarioIndex: 1 },
   { label: "进补益气", subtitle: "气虚乏力", tone: "#b36a45", pale: "#f4e5da", scenarioIndex: 4 },
@@ -2480,6 +2482,33 @@ function navigateToLibraryFromHome({ nature, topic, kind, cert, daoDiSystem, que
   navigate("library");
 }
 
+function applyRecipeRegionalShortcut(shortcut) {
+  resetRecipesAdvancedFilters();
+  state.recipesNature = "全部";
+  state.recipesSyndrome = "全部";
+  state.recipesCoreFood = "全部";
+  state.recipesSeason = "全部";
+  state.recipesSolarTerm = "全部";
+  state.recipesTiming = "全部";
+  state.recipesDietaryScene = "";
+  state.recipesProvince = shortcut.province || "全部";
+  state.recipesCuisine = shortcut.cuisine || "全部";
+  state.recipesTopic = "全部";
+  state.recipesSeasonTag = "全部";
+}
+
+function isRecipeRegionalShortcutActive(shortcut) {
+  return state.recipesProvince === (shortcut.province || "全部")
+    && state.recipesCuisine === (shortcut.cuisine || "全部")
+    && state.recipesTopic === "全部"
+    && state.recipesSeasonTag === "全部"
+    && state.recipesDietaryScene === ""
+    && state.recipesNature === "全部"
+    && state.recipesSyndrome === "全部"
+    && countRecipesAdvancedFilters() === 0
+    && state.recipesCoreFood === "全部";
+}
+
 function applyRecipeScenario(scenario) {
   resetRecipesAdvancedFilters();
   state.recipesNature = scenario.nature || "全部";
@@ -2488,6 +2517,10 @@ function applyRecipeScenario(scenario) {
   state.recipesSeason = "全部";
   state.recipesSolarTerm = "全部";
   state.recipesTiming = "全部";
+  state.recipesProvince = "全部";
+  state.recipesCuisine = "全部";
+  state.recipesTopic = "全部";
+  state.recipesSeasonTag = "全部";
 }
 
 function applyRecipeSeasonShortcut(shortcut) {
@@ -3095,6 +3128,20 @@ function bindViewEvents() {
       triggerHapticFeedback("medium");
       const item = RECIPE_LIFESTYLE_SCENARIOS[Number(button.dataset.recipeLifestyle)];
       if (!item) return;
+      if (item.recipesProvince || item.recipesCuisine) {
+        const shortcut = {
+          province: item.recipesProvince || "全部",
+          cuisine: item.recipesCuisine || "全部"
+        };
+        if (isRecipeRegionalShortcutActive(shortcut)) {
+          state.recipesProvince = "全部";
+          state.recipesCuisine = "全部";
+        } else {
+          applyRecipeRegionalShortcut(shortcut);
+        }
+        afterRecipeFilterChange({ scrollToResults: true });
+        return;
+      }
       if (item.dietaryScene) {
         const next = item.dietaryScene;
         state.recipesDietaryScene = state.recipesDietaryScene === next ? "" : next;
@@ -3748,8 +3795,16 @@ function countRecipesDrawerFilters() {
 function getActiveRecipeLifestyleLabel() {
   const dietaryMatch = RECIPE_LIFESTYLE_SCENARIOS.find((item) => item.dietaryScene && state.recipesDietaryScene === item.dietaryScene);
   if (dietaryMatch) return dietaryMatch.label;
+  const regionalMatch = RECIPE_LIFESTYLE_SCENARIOS.find((item) => {
+    if (!item.recipesProvince && !item.recipesCuisine) return false;
+    return isRecipeRegionalShortcutActive({
+      province: item.recipesProvince || "全部",
+      cuisine: item.recipesCuisine || "全部"
+    });
+  });
+  if (regionalMatch) return regionalMatch.label;
   const match = RECIPE_LIFESTYLE_SCENARIOS.find((item) => {
-    if (item.dietaryScene) return false;
+    if (item.dietaryScene || item.recipesProvince || item.recipesCuisine) return false;
     const scenario = RECIPE_SCENARIO_SHORTCUTS[item.scenarioIndex];
     return scenario && isRecipeScenarioActive(scenario);
   });
@@ -3867,6 +3922,10 @@ function clearRecipeFilterByKey(key) {
     state.recipesNature = "全部";
     state.recipesSyndrome = "全部";
     state.recipesDietaryScene = "";
+    state.recipesProvince = "全部";
+    state.recipesCuisine = "全部";
+    state.recipesTopic = "全部";
+    state.recipesSeasonTag = "全部";
     resetRecipesAdvancedFilters();
     return;
   }
@@ -3967,9 +4026,14 @@ function renderRecipeScenarioCards() {
     <div class="scenario-card-row recipe-scenario-row" aria-label="生活场景">
       ${RECIPE_LIFESTYLE_SCENARIOS.map((item, index) => {
         const scenario = item.scenarioIndex != null ? RECIPE_SCENARIO_SHORTCUTS[item.scenarioIndex] : null;
-        const active = item.dietaryScene
-          ? state.recipesDietaryScene === item.dietaryScene
-          : Boolean(scenario && isRecipeScenarioActive(scenario));
+        const active = item.recipesProvince || item.recipesCuisine
+          ? isRecipeRegionalShortcutActive({
+            province: item.recipesProvince || "全部",
+            cuisine: item.recipesCuisine || "全部"
+          })
+          : item.dietaryScene
+            ? state.recipesDietaryScene === item.dietaryScene
+            : Boolean(scenario && isRecipeScenarioActive(scenario));
         return `
           <button
             type="button"
@@ -4364,8 +4428,29 @@ function renderRecipesDietarySceneSection() {
   `;
 }
 
+function renderRecipesRegionalSection() {
+  if (!RECIPE_PROVINCE_OPTIONS.length && !RECIPE_CUISINE_OPTIONS.length) return "";
+  const compact = "filter-chip-compact";
+  const provinces = ["广东", "香港", "广西", "澳门"].filter((p) => RECIPE_PROVINCE_OPTIONS.includes(p))
+    .concat(RECIPE_PROVINCE_OPTIONS.filter((p) => !["广东", "香港", "广西", "澳门"].includes(p)));
+  return `
+    ${provinces.length ? renderBrowseFilterChipSection("省份/地区", provinces, "data-recipes-province", state.recipesProvince, "grid") : ""}
+    ${RECIPE_CUISINE_OPTIONS.length ? renderBrowseFilterChipSection("菜系", RECIPE_CUISINE_OPTIONS, "data-recipes-cuisine", state.recipesCuisine, "grid") : ""}
+    ${RECIPE_TOPIC_OPTIONS.length ? renderBrowseFilterChipSection("食疗主题", RECIPE_TOPIC_OPTIONS.slice(0, 16), "data-recipes-topic", state.recipesTopic, "scroll") : ""}
+    ${RECIPE_SEASON_TAG_OPTIONS.length ? `
+    <div class="filter-subsection">
+      <div class="filter-label">时令标签</div>
+      <div class="filter-group filter-province-grid recipe-filter-grid">
+        ${chip("全部", "全部", "data-recipes-seasontag", state.recipesSeasonTag === "全部", compact)}
+        ${RECIPE_SEASON_TAG_OPTIONS.map((item) => chip(item, item, "data-recipes-seasontag", state.recipesSeasonTag === item, compact)).join("")}
+      </div>
+    </div>` : ""}
+  `;
+}
+
 function renderRecipesFilterDrawerContent(resultCount) {
   const syndromes = uniq(recipes.map((item) => item.primarySyndrome).filter(Boolean));
+  const regionalBody = renderRecipesRegionalSection();
   const sceneBody = `
     ${renderBrowseFilterChipSection("证候", syndromes, "data-recipes-syndrome", state.recipesSyndrome, "scroll")}
     ${renderRecipesDietarySceneSection()}
@@ -5827,7 +5912,9 @@ function recipeTierBadge(item) {
 function recipeDataRowMeta(item) {
   const secondarySyndromes = Array.isArray(item.secondarySyndromes) ? item.secondarySyndromes : [];
   const syndromeLine = item.primarySyndrome || secondarySyndromes[0] || "";
+  const regionalLine = [item.cuisine, ...(item.provinces || []).slice(0, 1), item.recipeTopic].filter(Boolean).join(" · ");
   const parts = [
+    regionalLine,
     item.subtitle,
     syndromeLine,
     ...(item.cooking || []).slice(0, 1),
@@ -6508,7 +6595,7 @@ function renderRecipeDetail(item) {
         })}
       </div>
       <div class="filter-group filter-group-wrap">
-        ${recipeTierBadge(item)}${item.solarTerm ? `<span class="pill-badge">节气：${item.solarTerm}</span>` : ""}${item.primarySyndrome ? `<span class="pill-badge">主证：${item.primarySyndrome}</span>` : ""}${(item.dietaryScenes || []).map((scene) => `<span class="pill-badge dietary-scene-badge">${scene}</span>`).join("")}${secondarySyndromes.map((syndrome) => `<span class="pill-badge">兼见：${syndrome}</span>`).join("")}
+        ${recipeTierBadge(item)}${item.cuisine ? `<span class="pill-badge">${item.cuisine}</span>` : ""}${(item.provinces || []).map((p) => `<span class="pill-badge">${p}</span>`).join("")}${item.recipeTopic ? `<span class="pill-badge">${item.recipeTopic}</span>` : ""}${(item.seasonTags || []).map((tag) => `<span class="pill-badge">时令：${tag}</span>`).join("")}${item.solarTerm ? `<span class="pill-badge">节气：${item.solarTerm}</span>` : ""}${item.primarySyndrome ? `<span class="pill-badge">主证：${item.primarySyndrome}</span>` : ""}${(item.dietaryScenes || []).map((scene) => `<span class="pill-badge dietary-scene-badge">${scene}</span>`).join("")}${secondarySyndromes.map((syndrome) => `<span class="pill-badge">兼见：${syndrome}</span>`).join("")}
       </div>
       <p class="sheet-summary">${item.note || "这是一条用于日常饮食整理的食疗方条目。"}${item.bulkTier === 2 ? " 本条为参考方，步骤按通用食养思路整理，请结合个体情况调整。" : ""}</p>
     </section>
