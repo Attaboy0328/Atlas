@@ -5301,8 +5301,21 @@ function renderProfile() {
   `;
 }
 
+function isPoolVariantSuffixNoise(food) {
+  const name = cleanString(food?.name || "");
+  const match = name.match(/^(.+?)(\d{1,2})$/);
+  if (!match) return false;
+  const base = match[1];
+  if (!/[\u4e00-\u9fff]{2,}/.test(base)) return false;
+  for (const item of foodMap.values()) {
+    if (item.id !== food.id && item.name === base) return true;
+  }
+  return false;
+}
+
 function shouldHideLinkedDaoDiOriginInLibrary(food) {
   if (food.hiddenFromLibrary) return true;
+  if (isPoolVariantSuffixNoise(food)) return true;
   return isLinkedDaoDiOriginDuplicate(food, foods.filter((item) => !item.hiddenFromLibrary && !item.isOriginProduct));
 }
 

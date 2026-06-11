@@ -51,7 +51,8 @@
       "c15-gd-pork-liver-soup"
     ],
     "summary": "鸡骨草汤经典搭配，健脾利湿。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-gd-dried-lily",
@@ -321,7 +322,8 @@
       "c15-hk-dried-shrimp"
     ],
     "summary": "港式炒菜汤品虾米，鲜味调料。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-mo-pork-jerky",
@@ -587,7 +589,8 @@
       "c15-sc-bean-sprout-soup"
     ],
     "summary": "川菜常用豆芽，清热利湿。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-sc-preserved-veg",
@@ -799,7 +802,8 @@
       "c15-hn-stinky-tofu"
     ],
     "summary": "长沙臭豆腐，发酵风味适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-hn-chili-head",
@@ -849,7 +853,8 @@
       "c15-hb-hot-dry"
     ],
     "summary": "武汉热干面，芝麻酱香主食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-hb-wuchang",
@@ -899,7 +904,8 @@
       "c15-sd-dezhou"
     ],
     "summary": "山东扒鸡，温中益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-sx-liangpi",
@@ -924,7 +930,8 @@
       "c15-sx-liangpi"
     ],
     "summary": "关中凉皮，清热解暑面食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-sx-cumin-lamb",
@@ -949,7 +956,8 @@
       "c15-sx-cumin-lamb"
     ],
     "summary": "西北孜然羊肉，温中补虚。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-yn-cross-bridge",
@@ -974,7 +982,8 @@
       "c15-yn-cross-bridge"
     ],
     "summary": "云南过桥米线汤料方向。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-yn-morel",
@@ -1074,7 +1083,8 @@
       "c15-tw-oyster"
     ],
     "summary": "台湾夜市蚵仔煎。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-tw-three-cup",
@@ -1099,7 +1109,8 @@
       "c15-tw-three-cup"
     ],
     "summary": "台湾三杯鸡，温中益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-bj-roast-duck",
@@ -1174,7 +1185,8 @@
       "c15-tj-goubuli"
     ],
     "summary": "天津包子，健脾益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-cq-hotpot",
@@ -1224,7 +1236,8 @@
       "c15-ah-stinky"
     ],
     "summary": "徽州臭鳜鱼，发酵风味水产。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-jx-waiguan",

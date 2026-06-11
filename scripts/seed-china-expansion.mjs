@@ -175,17 +175,14 @@ function buildFromTuples(tuples, seen, { curated = false } = {}) {
   return out;
 }
 
-function buildPoolBatch(pool, category, fileLabel, catalog, seen, targetSize) {
+function buildPoolBatch(pool, category, fileLabel, catalog, seenInBatch, targetSize) {
   const out = [];
   let i = 0;
   const maxAttempts = Math.max(targetSize * 8, pool.length * CN_PROVINCES.length * 2);
   while (out.length < targetSize && i < maxAttempts) {
     const item = pool[i % pool.length];
     const province = CN_PROVINCES[Math.floor(i / pool.length) % CN_PROVINCES.length];
-    const variant = Math.floor(i / (pool.length * CN_PROVINCES.length));
-    const name = variant === 0
-      ? `${province}${item.name}`
-      : `${province}${item.name}${variant}`;
+    const name = `${province}${item.name}`;
     const id = `${fileLabel}-${item.id}-${province.replace(/[^a-zA-Z]/g, "")}-${i}`;
     const food = makeFood({
       id,
@@ -195,7 +192,7 @@ function buildPoolBatch(pool, category, fileLabel, catalog, seen, targetSize) {
       provinces: [province],
       summary: item.summary || `${name}为${province}民间常见${category}，食养整理条目。`
     });
-    pushUniqueFood(out, food, catalog, seen);
+    pushUniqueFood(out, food, catalog, seenInBatch);
     i += 1;
   }
   return out;
@@ -414,15 +411,14 @@ function patchGiQueue() {
 
 function main() {
   const catalog = loadCatalogSets();
-  const seen = new Set();
 
   const lingnanSeen = new Set();
   const lingnan = buildFromTuples(LINGNAN_TUPLES, lingnanSeen, { curated: true });
-  const regional = buildPoolBatch(REGIONAL_POOL, "主食", "reg", catalog, seen, 520);
-  const condiments = buildPoolBatch(CONDIMENT_POOL, "调料", "cond", catalog, seen, 360);
-  const seafood = buildPoolBatch(SEAFOOD_POOL, "海产", "sea", catalog, seen, 360);
-  const produce = buildPoolBatch(PRODUCE_POOL, "蔬菜", "prod", catalog, seen, 480);
-  const snacks = buildPoolBatch(SNACK_POOL, "主食", "snack", catalog, seen, 480);
+  const regional = buildPoolBatch(REGIONAL_POOL, "主食", "reg", catalog, new Set(), 520);
+  const condiments = buildPoolBatch(CONDIMENT_POOL, "调料", "cond", catalog, new Set(), 360);
+  const seafood = buildPoolBatch(SEAFOOD_POOL, "海产", "sea", catalog, new Set(), 360);
+  const produce = buildPoolBatch(PRODUCE_POOL, "蔬菜", "prod", catalog, new Set(), 480);
+  const snacks = buildPoolBatch(SNACK_POOL, "主食", "snack", catalog, new Set(), 480);
 
   const outputs = [
     ["foods-lingnan-ingredients-batch.json", lingnan],

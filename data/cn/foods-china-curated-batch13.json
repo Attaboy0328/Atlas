@@ -509,7 +509,8 @@
       "c13-hi-wenchang-chicken-rx"
     ],
     "summary": "海南文昌白切鸡，温中益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-hi-coconut-candy",

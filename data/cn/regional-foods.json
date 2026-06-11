@@ -207,7 +207,8 @@
       "kaoya",
       "ky"
     ],
-    "summary": "京菜代表，偏温，油脂较高。"
+    "summary": "京菜代表，偏温，油脂较高。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "luzhu-huoshao",
@@ -931,7 +932,8 @@
       "wuxipaigu",
       "wxpg"
     ],
-    "summary": "苏南甜口酱排骨。"
+    "summary": "苏南甜口酱排骨。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "dezhou-chicken",
