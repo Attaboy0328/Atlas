@@ -371,7 +371,8 @@
       "choudoufu",
       "cdf"
     ],
-    "summary": "发酵豆制品，地方差异大。"
+    "summary": "发酵豆制品，地方差异大。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "changsha-chili",
@@ -823,7 +824,10 @@
       "huoguodiliao",
       "hgdl"
     ],
-    "summary": "川渝复合调味，偏热辣。"
+    "summary": "川渝复合调味，偏热辣。",
+    "aliases": [
+      "火锅底料（重庆）"
+    ]
   },
   {
     "id": "zhacai",

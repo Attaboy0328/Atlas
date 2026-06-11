@@ -17,7 +17,8 @@
     ],
     "aliases": [
       "团头鲂",
-      "缩项鳊"
+      "缩项鳊",
+      "武昌鱼（整尾）"
     ],
     "pinyin": "wuchangyu",
     "initials": "wcy",
@@ -443,13 +444,34 @@
     "en": "eel",
     "category": "海产",
     "nature": "温",
-    "effects": ["补虚", "暖中"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "湖北", "安徽"],
-    "aliases": ["鳝鱼", "长鱼"],
+    "effects": [
+      "补虚",
+      "暖中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "湖北",
+      "安徽"
+    ],
+    "aliases": [
+      "鳝鱼",
+      "长鱼"
+    ],
     "pinyin": "shanyu",
     "initials": "sy",
-    "searchTerms": ["shanyu", "sy", "eel", "黄鳝", "鳝鱼", "长鱼", "初夏", "小暑"],
+    "searchTerms": [
+      "shanyu",
+      "sy",
+      "eel",
+      "黄鳝",
+      "鳝鱼",
+      "长鱼",
+      "初夏",
+      "小暑"
+    ],
     "summary": "初夏至小暑河鲜代表，宜红烧、炖汤；需彻底做熟，湿热、疮疡期慎食。"
   },
   {
@@ -458,13 +480,34 @@
     "en": "river shrimp",
     "category": "海产",
     "nature": "温",
-    "effects": ["补肾", "通乳"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "浙江", "湖北"],
-    "aliases": ["草虾", "青虾"],
+    "effects": [
+      "补肾",
+      "通乳"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "湖北"
+    ],
+    "aliases": [
+      "草虾",
+      "青虾"
+    ],
     "pinyin": "hexia",
     "initials": "hx",
-    "searchTerms": ["hexia", "hx", "river shrimp", "河虾", "草虾", "青虾", "清明", "立夏"],
+    "searchTerms": [
+      "hexia",
+      "hx",
+      "river shrimp",
+      "河虾",
+      "草虾",
+      "青虾",
+      "清明",
+      "立夏"
+    ],
     "summary": "清明至立夏河鲜小鲜，宜盐水、爆炒；过敏者禁食，痛风急性期慎食。"
   },
   {
@@ -473,13 +516,32 @@
     "en": "water shield",
     "category": "蔬菜",
     "nature": "寒",
-    "effects": ["清热", "利水"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "浙江"],
-    "aliases": ["太湖莼菜", "西湖莼菜"],
+    "effects": [
+      "清热",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江"
+    ],
+    "aliases": [
+      "太湖莼菜",
+      "西湖莼菜"
+    ],
     "pinyin": "chuncai",
     "initials": "cc",
-    "searchTerms": ["chuncai", "cc", "water shield", "莼菜", "太湖莼菜", "西湖莼菜", "春菜"],
+    "searchTerms": [
+      "chuncai",
+      "cc",
+      "water shield",
+      "莼菜",
+      "太湖莼菜",
+      "西湖莼菜",
+      "春菜"
+    ],
     "summary": "江南春令水产蔬菜，滑嫩宜羹汤；脾胃虚寒、腹泻者少食。"
   },
   {
@@ -488,13 +550,32 @@
     "en": "shepherd's purse",
     "category": "蔬菜",
     "nature": "凉",
-    "effects": ["明目", "止血"],
-    "regions": ["CN"],
-    "provinces": ["全国"],
-    "aliases": ["地米菜", "春菜"],
+    "effects": [
+      "明目",
+      "止血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "地米菜",
+      "春菜"
+    ],
     "pinyin": "jicai",
     "initials": "jc",
-    "searchTerms": ["jicai", "jc", "shepherd's purse", "荠菜", "地米菜", "春菜", "立春", "清明"],
+    "searchTerms": [
+      "jicai",
+      "jc",
+      "shepherd's purse",
+      "荠菜",
+      "地米菜",
+      "春菜",
+      "立春",
+      "清明"
+    ],
     "summary": "早春野蔬代表，宜馄饨、炒香；需洗净焯水，体虚畏寒者不宜多食。"
   },
   {
@@ -503,13 +584,34 @@
     "en": "spring bamboo shoot",
     "category": "蔬菜",
     "nature": "微寒",
-    "effects": ["化痰", "利膈"],
-    "regions": ["CN"],
-    "provinces": ["浙江", "福建", "四川"],
-    "aliases": ["雷笋", "毛笋"],
+    "effects": [
+      "化痰",
+      "利膈"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建",
+      "四川"
+    ],
+    "aliases": [
+      "雷笋",
+      "毛笋"
+    ],
     "pinyin": "chunsun",
     "initials": "cs",
-    "searchTerms": ["chunsun", "cs", "spring bamboo shoot", "春笋", "雷笋", "毛笋", "惊蛰", "谷雨"],
+    "searchTerms": [
+      "chunsun",
+      "cs",
+      "spring bamboo shoot",
+      "春笋",
+      "雷笋",
+      "毛笋",
+      "惊蛰",
+      "谷雨"
+    ],
     "summary": "惊蛰至谷雨时令笋品，纤维高宜油焖、腌笃鲜；胃溃疡、消化不良者少量。"
   },
   {
@@ -518,13 +620,33 @@
     "en": "clam",
     "category": "海产",
     "nature": "寒",
-    "effects": ["滋阴", "利水"],
-    "regions": ["CN"],
-    "provinces": ["山东", "江苏", "辽宁"],
-    "aliases": ["花蛤", "文蛤"],
+    "effects": [
+      "滋阴",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "江苏",
+      "辽宁"
+    ],
+    "aliases": [
+      "花蛤",
+      "文蛤"
+    ],
     "pinyin": "geli",
     "initials": "gl",
-    "searchTerms": ["geli", "gl", "clam", "蛤蜊", "花蛤", "文蛤", "夏初"],
+    "searchTerms": [
+      "geli",
+      "gl",
+      "clam",
+      "蛤蜊",
+      "花蛤",
+      "文蛤",
+      "夏初"
+    ],
     "summary": "夏初滩涂小鲜，宜辣炒、煮汤；须吐沙干净、彻底做熟，脾胃虚寒者慎食。"
   },
   {
@@ -533,13 +655,34 @@
     "en": "swimming crab",
     "category": "海产",
     "nature": "寒",
-    "effects": ["清热", "散结"],
-    "regions": ["CN"],
-    "provinces": ["浙江", "福建", "山东"],
-    "aliases": ["海蟹", "枪蟹"],
+    "effects": [
+      "清热",
+      "散结"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "福建",
+      "山东"
+    ],
+    "aliases": [
+      "海蟹",
+      "枪蟹"
+    ],
     "pinyin": "suozixie",
     "initials": "szx",
-    "searchTerms": ["suozixie", "szx", "swimming crab", "梭子蟹", "海蟹", "枪蟹", "立秋", "中秋"],
+    "searchTerms": [
+      "suozixie",
+      "szx",
+      "swimming crab",
+      "梭子蟹",
+      "海蟹",
+      "枪蟹",
+      "立秋",
+      "中秋"
+    ],
     "summary": "立秋至中秋海产高峰，宜清蒸、姜炒；痛风、孕妇及过敏体质慎食。"
   },
   {
@@ -548,13 +691,33 @@
     "en": "hairtail",
     "category": "海产",
     "nature": "温",
-    "effects": ["补虚", "暖胃"],
-    "regions": ["CN"],
-    "provinces": ["浙江", "山东", "福建"],
-    "aliases": ["刀鱼", "白带鱼"],
+    "effects": [
+      "补虚",
+      "暖胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江",
+      "山东",
+      "福建"
+    ],
+    "aliases": [
+      "刀鱼",
+      "白带鱼"
+    ],
     "pinyin": "daiyu",
     "initials": "dy",
-    "searchTerms": ["daiyu", "dy", "hairtail", "带鱼", "刀鱼", "白带鱼", "冬汛"],
+    "searchTerms": [
+      "daiyu",
+      "dy",
+      "hairtail",
+      "带鱼",
+      "刀鱼",
+      "白带鱼",
+      "冬汛"
+    ],
     "summary": "秋冬汛常见海鱼，宜红烧、干煎；高脂血症者适量，海鲜过敏者禁食。"
   }
 ]

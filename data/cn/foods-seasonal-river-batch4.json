@@ -5,13 +5,32 @@
     "en": "black carp",
     "category": "海产",
     "nature": "平",
-    "effects": ["补虚", "健脾"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "浙江", "湖北", "江西"],
-    "aliases": ["乌青", "螺蛳青"],
+    "effects": [
+      "补虚",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "湖北",
+      "江西"
+    ],
+    "aliases": [
+      "乌青",
+      "螺蛳青"
+    ],
     "pinyin": "qingyu",
     "initials": "qy",
-    "searchTerms": ["qingyu", "qy", "青鱼", "乌青", "螺蛳青"],
+    "searchTerms": [
+      "qingyu",
+      "qy",
+      "青鱼",
+      "乌青",
+      "螺蛳青"
+    ],
     "summary": "淡水四大鱼之一，肉质紧实，红烧、豆豉蒸或做糟鱼常见。",
     "caution": "痛风与高尿酸者适量；须彻底煮熟。"
   },
@@ -21,13 +40,30 @@
     "en": "early hairy crab",
     "category": "海产",
     "nature": "寒",
-    "effects": ["清热", "滋阴"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "浙江", "上海"],
-    "aliases": ["童子蟹", "夏蟹"],
+    "effects": [
+      "清热",
+      "滋阴"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "浙江",
+      "上海"
+    ],
+    "aliases": [
+      "童子蟹",
+      "夏蟹"
+    ],
     "pinyin": "liuyuehuang",
     "initials": "lyh",
-    "searchTerms": ["liuyuehuang", "lyh", "六月黄", "童子蟹"],
+    "searchTerms": [
+      "liuyuehuang",
+      "lyh",
+      "六月黄",
+      "童子蟹"
+    ],
     "summary": "初夏未完全成熟的河蟹，壳软肉嫩，清蒸或面拖炸常见。",
     "caution": "寒凉，脾胃虚寒、孕妇慎食；须蒸熟，忌生饮蟹酒。"
   },
@@ -37,13 +73,31 @@
     "en": "Chinese tapertail",
     "category": "海产",
     "nature": "平",
-    "effects": ["补虚", "健脾"],
-    "regions": ["CN"],
-    "provinces": ["江苏", "上海", "浙江"],
-    "aliases": ["刀鱼", "毛刀鱼"],
+    "effects": [
+      "补虚",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏",
+      "上海",
+      "浙江"
+    ],
+    "aliases": [
+      "刀鱼",
+      "毛刀鱼"
+    ],
     "pinyin": "changjiangdaoyu",
     "initials": "cjdy",
-    "searchTerms": ["changjiangdaoyu", "cjdy", "长江刀鱼", "刀鱼", "毛刀鱼"],
+    "searchTerms": [
+      "changjiangdaoyu",
+      "cjdy",
+      "长江刀鱼",
+      "刀鱼",
+      "毛刀鱼"
+    ],
     "summary": "长江春季名鲜，肉质细嫩，清蒸或炖汤；与带鱼（白带鱼）不同。",
     "caution": "野生资源保护，选购需合法来源；痛风适量。"
   },
@@ -53,13 +107,31 @@
     "en": "bighead carp",
     "category": "海产",
     "nature": "平",
-    "effects": ["补虚", "利水"],
-    "regions": ["CN"],
-    "provinces": ["湖北", "湖南", "四川"],
-    "aliases": ["鳙鱼", "花鲢"],
+    "effects": [
+      "补虚",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北",
+      "湖南",
+      "四川"
+    ],
+    "aliases": [
+      "鳙鱼",
+      "花鲢"
+    ],
     "pinyin": "pangtouyu",
     "initials": "pty",
-    "searchTerms": ["pangtouyu", "pty", "胖头鱼", "鳙鱼", "花鲢"],
+    "searchTerms": [
+      "pangtouyu",
+      "pty",
+      "胖头鱼",
+      "鳙鱼",
+      "花鲢"
+    ],
     "summary": "鱼头肥大，剁椒鱼头、鱼头豆腐汤为家常名菜。",
     "caution": "高嘌呤，痛风急性期适量；须煮熟。"
   },
@@ -69,14 +141,34 @@
     "en": "fermented stinky tofu",
     "category": "豆制品",
     "nature": "凉",
-    "effects": ["开胃", "发酵"],
-    "regions": ["CN"],
-    "provinces": ["湖南", "浙江", "安徽"],
-    "aliases": ["臭腐乳块", "长沙臭豆腐"],
-    "dietaryScenes": ["素食", "全植物"],
+    "effects": [
+      "开胃",
+      "发酵"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南",
+      "浙江",
+      "安徽"
+    ],
+    "aliases": [
+      "臭腐乳块",
+      "长沙臭豆腐",
+      "臭豆腐（长沙）"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物"
+    ],
     "pinyin": "choudoufu",
     "initials": "cdf",
-    "searchTerms": ["choudoufu", "cdf", "臭豆腐"],
+    "searchTerms": [
+      "choudoufu",
+      "cdf",
+      "臭豆腐"
+    ],
     "summary": "豆腐发酵制品，油炸或煮汤，风味浓烈。",
     "caution": "高盐油炸版本不宜多食；肠胃敏感者少量。"
   },
@@ -86,13 +178,27 @@
     "en": "preserved mustard stem",
     "category": "腌菜",
     "nature": "温",
-    "effects": ["开胃"],
-    "regions": ["CN"],
-    "provinces": ["重庆", "浙江"],
-    "aliases": ["青菜头", "茎用芥菜"],
+    "effects": [
+      "开胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆",
+      "浙江"
+    ],
+    "aliases": [
+      "青菜头",
+      "茎用芥菜"
+    ],
     "pinyin": "zhacaitou",
     "initials": "zct",
-    "searchTerms": ["zhacaitou", "zct", "榨菜头"],
+    "searchTerms": [
+      "zhacaitou",
+      "zct",
+      "榨菜头"
+    ],
     "summary": "制作榨菜的茎用芥菜头，腌渍前鲜品亦可炒制。",
     "caution": "腌渍品高盐，高血压者控量。"
   }

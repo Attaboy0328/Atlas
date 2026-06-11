@@ -121,7 +121,8 @@
       "hk-pineapple-bun"
     ],
     "summary": "香港面包房经典，酥皮香甜，控糖适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-butter-pineapple",
@@ -585,7 +586,8 @@
       "hk-red-bean-soup-hk"
     ],
     "summary": "港式糖水红豆沙，健脾祛湿，夏令常见。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-green-bean-soup-hk",
@@ -613,7 +615,8 @@
       "hk-green-bean-soup-hk"
     ],
     "summary": "港式清热解暑糖水，脾胃虚寒减量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-black-sesame-soup",
@@ -845,7 +848,8 @@
       "hk-five-flower-tea"
     ],
     "summary": "港式家庭凉茶，清热利湿。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-chrysanthemum-tea-hk",
@@ -933,7 +937,8 @@
       "hk-dried-scallop-hk"
     ],
     "summary": "港式汤粥鲜味干货，滋阴调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-dried-oyster-hk",
@@ -965,7 +970,8 @@
       "hk-dried-oyster-hk"
     ],
     "summary": "港式煲汤海产干货，滋阴养血。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-candied-date-hk",
@@ -993,7 +999,8 @@
       "hk-candied-date-hk"
     ],
     "summary": "港式汤料甜枣，调和甘润。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-chenpi-hk",
@@ -1025,7 +1032,8 @@
       "hk-chenpi-hk"
     ],
     "summary": "港式汤饮与糖水常用陈皮。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-watercress-hk",
@@ -1053,7 +1061,8 @@
       "hk-watercress-hk"
     ],
     "summary": "港式西洋菜汤，清热润肺。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-preserved-duck-gizzard-hk",
@@ -1085,7 +1094,8 @@
       "hk-preserved-duck-gizzard-hk"
     ],
     "summary": "港式西洋菜汤经典搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-pork-shoulder-hk",
@@ -1117,7 +1127,8 @@
       "hk-pork-shoulder-hk"
     ],
     "summary": "港式老火汤瘦肉部位。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-fish-maw-hk",
@@ -1145,7 +1156,8 @@
       "hk-fish-maw-hk"
     ],
     "summary": "港式炖品名贵胶类，滋阴养颜。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-hasma-hk",
@@ -1177,7 +1189,8 @@
       "hk-hasma-hk"
     ],
     "summary": "港式滋补糖水，滋阴润燥。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-turtle-jelly-hk",
@@ -1205,7 +1218,8 @@
       "hk-turtle-jelly-hk"
     ],
     "summary": "港式清热祛湿甜品。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-shrimp-roe-hk",
@@ -1233,7 +1247,8 @@
       "hk-shrimp-roe-hk"
     ],
     "summary": "港式捞面蒸蛋鲜味调料。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-xo-sauce-hk",
@@ -1317,7 +1332,8 @@
       "hk-oyster-sauce-hk"
     ],
     "summary": "港式炒菜常用蚝油，控钠。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-fermented-tofu-hk",
@@ -1345,7 +1361,8 @@
       "hk-fermented-tofu-hk"
     ],
     "summary": "港式煲粥配菜，开胃佐食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-chu-hou-hk",
@@ -1373,7 +1390,8 @@
       "hk-chu-hou-hk"
     ],
     "summary": "港式焖炖调味酱。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-curry-paste-hk",
@@ -1489,7 +1507,8 @@
       "hk-cordyceps-flower-hk"
     ],
     "summary": "港式炖汤配色菌菇。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-lotus-seed-hk",
@@ -1665,7 +1684,8 @@
       "hk-turnip-cake-hk"
     ],
     "summary": "港式贺年点心，煎香食用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-taro-cake-hk",
@@ -1693,7 +1713,8 @@
       "hk-taro-cake-hk"
     ],
     "summary": "港式茶楼芋头糕点心，煎香食用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-water-chestnut-cake",
@@ -1721,7 +1742,8 @@
       "hk-water-chestnut-cake"
     ],
     "summary": "港式马蹄糕清甜糕点，夏令常见。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-mango-pomelo",
@@ -1805,7 +1827,8 @@
       "hk-almond-cookie"
     ],
     "summary": "澳门香港手信酥饼，适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-dried-tangerine-hk",

@@ -9,6 +9,7 @@ import fs from "fs";
 import path from "path";
 import {
   findDuplicateNameGroups,
+  loadCatalogRecords,
   loadOriginProductIds,
   pickCanonicalRow,
   writeFoodIdAliasFile
@@ -114,6 +115,15 @@ if (!writeMode) {
 const nextMap = { ...aliasMap };
 [...unique.values()].forEach((row) => {
   nextMap[row.alias] = row.canonical;
+});
+
+const catalogRecords = loadCatalogRecords();
+Object.entries(aliasMap).forEach(([alias, canonical]) => {
+  if (alias === canonical) return;
+  const aliasRow = catalogRecords.get(alias);
+  const canonRow = catalogRecords.get(resolveFoodId(canonical, aliasMap));
+  if (!aliasRow || !canonRow || aliasRow.name !== canonRow.name) return;
+  if (!aliasRow.record?.hiddenFromLibrary) originHideTargets.add(alias);
 });
 
 const hideTargets = new Set([

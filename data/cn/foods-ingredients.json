@@ -2175,7 +2175,8 @@
       "阳澄湖"
     ],
     "aliases": [
-      "中华绒螯蟹"
+      "中华绒螯蟹",
+      "大闸蟹（沪式）"
     ],
     "pinyin": "dazhaxie",
     "initials": "dzx",
@@ -2812,7 +2813,9 @@
       "山东",
       "辽宁"
     ],
-    "aliases": [],
+    "aliases": [
+      "海参（粤式）"
+    ],
     "pinyin": "haishen",
     "initials": "hs",
     "searchTerms": [
@@ -3369,7 +3372,9 @@
       "云南",
       "四川"
     ],
-    "aliases": [],
+    "aliases": [
+      "羊肚菌（云南）"
+    ],
     "pinyin": "yangdujun",
     "initials": "ydj",
     "searchTerms": [
@@ -6927,7 +6932,8 @@
       "红果"
     ],
     "summary": "山楂，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "coconut",

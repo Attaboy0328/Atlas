@@ -6,10 +6,20 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "平",
-    "effects": ["滋补", "明目"],
-    "regions": ["CN"],
-    "provinces": ["宁夏", "甘肃"],
-    "aliases": ["枸杞子"],
+    "effects": [
+      "滋补",
+      "明目"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "宁夏",
+      "甘肃"
+    ],
+    "aliases": [
+      "枸杞子"
+    ],
     "pinyin": "gouqi",
     "initials": "gq",
     "officialFoodMedicine": true,
@@ -25,8 +35,13 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "平",
-    "effects": ["滋养", "和中"],
-    "regions": ["CN"],
+    "effects": [
+      "滋养",
+      "和中"
+    ],
+    "regions": [
+      "CN"
+    ],
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
@@ -40,9 +55,17 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "温",
-    "effects": ["养血", "安神"],
-    "regions": ["CN"],
-    "aliases": ["桂圆干", "龙眼肉"],
+    "effects": [
+      "养血",
+      "安神"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "桂圆干",
+      "龙眼肉"
+    ],
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
@@ -56,10 +79,26 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "温",
-    "effects": ["温补", "润肠"],
-    "regions": ["CN", "US"],
-    "aliases": ["核桃", "胡桃"],
-    "searchTerms": ["hetao", "ht", "walnut", "核桃", "胡桃", "核桃仁"],
+    "effects": [
+      "温补",
+      "润肠"
+    ],
+    "regions": [
+      "CN",
+      "US"
+    ],
+    "aliases": [
+      "核桃",
+      "胡桃"
+    ],
+    "searchTerms": [
+      "hetao",
+      "ht",
+      "walnut",
+      "核桃",
+      "胡桃",
+      "核桃仁"
+    ],
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
@@ -72,16 +111,29 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "凉",
-    "effects": ["和中", "消胀"],
-    "regions": ["CN"],
-    "aliases": ["裸大麦"],
+    "effects": [
+      "和中",
+      "消胀"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "裸大麦"
+    ],
     "pinyin": "damai",
     "initials": "dm",
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
     "summary": "国家食药同源目录条目，可煮粥、做麦茶或入膳消胀。",
-    "searchTerms": ["damai", "dm", "barley", "大麦", "麦茶"]
+    "searchTerms": [
+      "damai",
+      "dm",
+      "barley",
+      "大麦",
+      "麦茶"
+    ]
   },
   {
     "id": "polygonatum",
@@ -90,16 +142,29 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "平",
-    "effects": ["养阴", "润燥"],
-    "regions": ["CN"],
-    "aliases": ["萎蕤"],
+    "effects": [
+      "养阴",
+      "润燥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "萎蕤"
+    ],
     "pinyin": "yuzhu",
     "initials": "yz",
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
     "summary": "国家食药同源目录条目，偏养阴润燥，常见于粥羹与炖汤。",
-    "searchTerms": ["yuzhu", "yz", "polygonatum", "玉竹", "萎蕤"]
+    "searchTerms": [
+      "yuzhu",
+      "yz",
+      "polygonatum",
+      "玉竹",
+      "萎蕤"
+    ]
   },
   {
     "id": "adzuki-bean",
@@ -108,9 +173,16 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "平",
-    "effects": ["利水", "和中"],
-    "regions": ["CN"],
-    "aliases": ["红小豆"],
+    "effects": [
+      "利水",
+      "和中"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "红小豆"
+    ],
     "pinyin": "chixiaodou",
     "initials": "cxd",
     "officialFoodMedicine": true,
@@ -118,7 +190,12 @@
     "usageScope": "dietary-therapy",
     "summary": "国家食药同源目录条目，与红豆（红小豆）不同，食疗里常与薏米同用。",
     "varietyNote": "赤小豆偏细长，与圆粒红豆区分；孕妇及明显体弱者不宜长期大量单独食用。",
-    "searchTerms": ["chixiaodou", "cxd", "adzuki", "赤小豆"]
+    "searchTerms": [
+      "chixiaodou",
+      "cxd",
+      "adzuki",
+      "赤小豆"
+    ]
   },
   {
     "id": "black-sesame",
@@ -127,15 +204,25 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "平",
-    "effects": ["滋补", "润燥"],
-    "regions": ["CN"],
+    "effects": [
+      "滋补",
+      "润燥"
+    ],
+    "regions": [
+      "CN"
+    ],
     "pinyin": "heizhima",
     "initials": "hzm",
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
     "summary": "国家食药同源目录条目，可磨粉、做糊或入点心。",
-    "searchTerms": ["heizhima", "hzm", "black sesame", "黑芝麻"]
+    "searchTerms": [
+      "heizhima",
+      "hzm",
+      "black sesame",
+      "黑芝麻"
+    ]
   },
   {
     "id": "perilla-seed",
@@ -144,15 +231,25 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "温",
-    "effects": ["降气", "润肠"],
-    "regions": ["CN"],
+    "effects": [
+      "降气",
+      "润肠"
+    ],
+    "regions": [
+      "CN"
+    ],
     "pinyin": "zisuzi",
     "initials": "zsz",
     "officialFoodMedicine": true,
     "officialBatch": "2019",
     "usageScope": "dietary-therapy",
     "summary": "2019 增补食药同源目录条目，常见于粥饮与少量入膳。",
-    "searchTerms": ["zisuzi", "zsz", "perilla seed", "紫苏子"]
+    "searchTerms": [
+      "zisuzi",
+      "zsz",
+      "perilla seed",
+      "紫苏子"
+    ]
   },
   {
     "id": "smoked-plum",
@@ -161,8 +258,13 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "平",
-    "effects": ["生津", "敛藏"],
-    "regions": ["CN"],
+    "effects": [
+      "生津",
+      "敛藏"
+    ],
+    "regions": [
+      "CN"
+    ],
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
@@ -175,8 +277,13 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "凉",
-    "effects": ["清利", "和中"],
-    "regions": ["CN"],
+    "effects": [
+      "清利",
+      "和中"
+    ],
+    "regions": [
+      "CN"
+    ],
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
@@ -189,8 +296,13 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "凉",
-    "effects": ["清润", "疏风"],
-    "regions": ["CN"],
+    "effects": [
+      "清润",
+      "疏风"
+    ],
+    "regions": [
+      "CN"
+    ],
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
@@ -203,8 +315,12 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "寒",
-    "effects": ["清利"],
-    "regions": ["CN"],
+    "effects": [
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
@@ -218,8 +334,13 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "寒",
-    "effects": ["清利", "解暑"],
-    "regions": ["CN"],
+    "effects": [
+      "清利",
+      "解暑"
+    ],
+    "regions": [
+      "CN"
+    ],
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
@@ -232,8 +353,13 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "凉",
-    "effects": ["清利", "利水"],
-    "regions": ["CN"],
+    "effects": [
+      "清利",
+      "利水"
+    ],
+    "regions": [
+      "CN"
+    ],
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
@@ -246,8 +372,13 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "温",
-    "effects": ["解表", "行气"],
-    "regions": ["CN"],
+    "effects": [
+      "解表",
+      "行气"
+    ],
+    "regions": [
+      "CN"
+    ],
     "officialFoodMedicine": true,
     "officialBatch": "2019",
     "usageScope": "dietary-therapy",
@@ -260,9 +391,16 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "寒",
-    "effects": ["清利", "生津"],
-    "regions": ["CN"],
-    "aliases": ["折耳根"],
+    "effects": [
+      "清利",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "折耳根"
+    ],
     "officialFoodMedicine": true,
     "officialBatch": "2019",
     "usageScope": "dietary-therapy",
@@ -276,13 +414,23 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "平",
-    "effects": ["润燥", "养阴"],
-    "regions": ["CN"],
-    "aliases": ["白木耳"],
-    "relatedForms": ["white-fungus"],
+    "effects": [
+      "润燥",
+      "养阴"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "aliases": [
+      "白木耳"
+    ],
+    "relatedForms": [
+      "white-fungus"
+    ],
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
-    "summary": "国家食药同源目录条目，典型饮食化润养食材，常用于羹汤与甜品。"
+    "summary": "国家食药同源目录条目，典型饮食化润养食材，常用于羹汤与甜品。",
+    "hiddenFromLibrary": true
   }
 ]

@@ -5313,9 +5313,34 @@ function isPoolVariantSuffixNoise(food) {
   return false;
 }
 
+function hasVisibleFoodNamed(name, excludeId = "") {
+  for (const item of foodMap.values()) {
+    if (item.id === excludeId || item.hiddenFromLibrary) continue;
+    if (item.name === name) return true;
+  }
+  return false;
+}
+
+function isParentheticalFormVariant(food) {
+  const name = cleanString(food?.name || "");
+  const match = name.match(/^(.+)（[^）]+）$/);
+  if (!match) return false;
+  return hasVisibleFoodNamed(match[1], food.id);
+}
+
+function isKitFormVariant(food) {
+  const name = cleanString(food?.name || "");
+  if (!name.endsWith("料") || name.length < 3) return false;
+  const base = name.slice(0, -1);
+  if (/酱|粉|茶|酒|油|醋|浆$/.test(base)) return false;
+  return hasVisibleFoodNamed(base, food.id);
+}
+
 function shouldHideLinkedDaoDiOriginInLibrary(food) {
   if (food.hiddenFromLibrary) return true;
   if (isPoolVariantSuffixNoise(food)) return true;
+  if (isParentheticalFormVariant(food)) return true;
+  if (isKitFormVariant(food)) return true;
   return isLinkedDaoDiOriginDuplicate(food, foods.filter((item) => !item.hiddenFromLibrary && !item.isOriginProduct));
 }
 
@@ -5689,7 +5714,6 @@ function isLinkedDaoDiOriginDuplicate(food, items) {
 
 function foodDataRowMeta(food) {
   const tags = [];
-  if (food.nature) tags.push(food.nature);
   if (food.category) tags.push(food.category);
   const province = (food.provinces && food.provinces[0]) || "";
   if (province) tags.push(province);

@@ -22,7 +22,10 @@
       "hi-wenchang-chicken"
     ],
     "summary": "海南文昌鸡，温中益气滋补。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "文昌鸡（整只）"
+    ]
   },
   {
     "id": "hi-jiaji-duck",
@@ -122,7 +125,8 @@
       "hi-coconut-hi"
     ],
     "summary": "海南椰子，生津润燥补虚。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-coconut-rice",
@@ -172,7 +176,10 @@
       "hi-qingbuliang"
     ],
     "summary": "海南清补凉糖水，清热解暑。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "清补凉料"
+    ]
   },
   {
     "id": "hi-yellow-chili",
@@ -276,7 +283,8 @@
       "hi-mango-hi"
     ],
     "summary": "海南芒果，生津润燥适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-lychee-hi",
@@ -301,7 +309,8 @@
       "hi-lychee-hi"
     ],
     "summary": "海南荔枝，温中益气，多食上火。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-longan-hi",
@@ -326,7 +335,8 @@
       "hi-longan-hi"
     ],
     "summary": "海南龙眼，补血安神适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-papaya-hi",
@@ -401,7 +411,8 @@
       "hi-grouper"
     ],
     "summary": "海南石斑鱼，益气养血。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-squid-hi",
@@ -426,7 +437,8 @@
       "hi-squid-hi"
     ],
     "summary": "海南鲜鱿鱼，滋阴补虚。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-sea-eel",
@@ -476,7 +488,8 @@
       "hi-seaweed-hi"
     ],
     "summary": "海南紫菜，清热化痰。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-taro-hi",
@@ -501,7 +514,8 @@
       "hi-taro-hi"
     ],
     "summary": "海南芋头，健脾益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-sweet-potato-hi",
@@ -609,7 +623,8 @@
       "hi-bitter-melon-hi"
     ],
     "summary": "海南苦瓜，清热解暑。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-water-spinach-hi",
@@ -638,7 +653,8 @@
       "hi-water-spinach-hi"
     ],
     "summary": "海南空心菜，清热通肠。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-herbal-tea-hi",
@@ -663,7 +679,8 @@
       "hi-herbal-tea-hi"
     ],
     "summary": "海南凉茶，清热祛湿。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-coconut-chicken-soup",
@@ -713,7 +730,8 @@
       "hi-sour-bamboo-hi"
     ],
     "summary": "海南酸笋，开胃消食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-preserved-mango",

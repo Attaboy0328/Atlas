@@ -5,13 +5,34 @@
     "en": "rice",
     "category": "谷物",
     "nature": "平",
-    "effects": ["补中", "养胃"],
-    "regions": ["CN"],
-    "provinces": ["黑龙江", "吉林", "江苏", "湖南"],
-    "aliases": ["粳米", "籼米", "米饭"],
+    "effects": [
+      "补中",
+      "养胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江",
+      "吉林",
+      "江苏",
+      "湖南"
+    ],
+    "aliases": [
+      "粳米",
+      "籼米",
+      "米饭"
+    ],
     "pinyin": "dami",
     "initials": "dm",
-    "searchTerms": ["dami", "dm", "rice", "大米", "粳米", "米饭"],
+    "searchTerms": [
+      "dami",
+      "dm",
+      "rice",
+      "大米",
+      "粳米",
+      "米饭"
+    ],
     "summary": "日常主食谷物，偏平和，煮粥、蒸饭、入膳均可。",
     "caution": "糖尿病、控糖期注意总量与搭配。"
   },
@@ -21,13 +42,31 @@
     "en": "millet",
     "category": "谷物",
     "nature": "凉",
-    "effects": ["和胃", "安神"],
-    "regions": ["CN"],
-    "provinces": ["山西", "陕西", "内蒙古"],
-    "aliases": ["粟米", "黄米"],
+    "effects": [
+      "和胃",
+      "安神"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山西",
+      "陕西",
+      "内蒙古"
+    ],
+    "aliases": [
+      "粟米",
+      "黄米"
+    ],
     "pinyin": "xiaomi",
     "initials": "xm",
-    "searchTerms": ["xiaomi", "xm", "millet", "小米", "粟米"],
+    "searchTerms": [
+      "xiaomi",
+      "xm",
+      "millet",
+      "小米",
+      "粟米"
+    ],
     "summary": "北方常见杂粮，偏凉润，宜煮粥。",
     "caution": "气滞、腹胀明显者不宜过量。"
   },
@@ -37,14 +76,32 @@
     "en": "oolong tea",
     "category": "茶饮",
     "nature": "平",
-    "effects": ["解腻", "提神"],
-    "regions": ["CN"],
-    "provinces": ["福建", "广东", "台湾"],
+    "effects": [
+      "解腻",
+      "提神"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "广东",
+      "台湾"
+    ],
     "teaClass": "乌龙茶",
-    "aliases": ["青茶", "岩茶"],
+    "aliases": [
+      "青茶",
+      "岩茶"
+    ],
     "pinyin": "wulongcha",
     "initials": "wlc",
-    "searchTerms": ["wulongcha", "wlc", "oolong", "乌龙茶", "岩茶"],
+    "searchTerms": [
+      "wulongcha",
+      "wlc",
+      "oolong",
+      "乌龙茶",
+      "岩茶"
+    ],
     "summary": "半发酵茶，香气馥郁，宜餐后清饮。",
     "caution": "空腹、失眠、胃寒者不宜浓饮。"
   },
@@ -54,14 +111,29 @@
     "en": "white tea",
     "category": "茶饮",
     "nature": "凉",
-    "effects": ["清润", "生津"],
-    "regions": ["CN"],
-    "provinces": ["福建"],
+    "effects": [
+      "清润",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
     "teaClass": "白茶",
-    "aliases": ["白毫银针", "寿眉"],
+    "aliases": [
+      "白毫银针",
+      "寿眉"
+    ],
     "pinyin": "baicha",
     "initials": "bc",
-    "searchTerms": ["baicha", "bc", "white tea", "白茶"],
+    "searchTerms": [
+      "baicha",
+      "bc",
+      "white tea",
+      "白茶"
+    ],
     "summary": "微发酵茶，偏清润，适合日常轻饮。",
     "caution": "畏寒、空腹者不宜多饮。"
   },
@@ -71,13 +143,30 @@
     "en": "chicken",
     "category": "肉蛋奶",
     "nature": "温",
-    "effects": ["益气", "补虚"],
-    "regions": ["CN"],
-    "provinces": ["全国"],
-    "aliases": ["鸡", "土鸡", "母鸡"],
+    "effects": [
+      "益气",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "鸡",
+      "土鸡",
+      "母鸡"
+    ],
     "pinyin": "jirou",
     "initials": "jr",
-    "searchTerms": ["jirou", "jr", "chicken", "鸡肉", "鸡汤"],
+    "searchTerms": [
+      "jirou",
+      "jr",
+      "chicken",
+      "鸡肉",
+      "鸡汤"
+    ],
     "summary": "常见禽肉，偏温补，宜炖汤、清蒸。",
     "caution": "外感发热、湿热壅盛时不宜大补。"
   },
@@ -87,13 +176,28 @@
     "en": "pork",
     "category": "肉蛋奶",
     "nature": "平",
-    "effects": ["滋阴", "补虚"],
-    "regions": ["CN"],
-    "provinces": ["全国"],
-    "aliases": ["猪瘦肉", "五花肉"],
+    "effects": [
+      "滋阴",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "猪瘦肉",
+      "五花肉"
+    ],
     "pinyin": "zhurou",
     "initials": "zr",
-    "searchTerms": ["zhurou", "zr", "pork", "猪肉"],
+    "searchTerms": [
+      "zhurou",
+      "zr",
+      "pork",
+      "猪肉"
+    ],
     "summary": "日常荤食，偏平，炖、煮、炒均可。",
     "caution": "高脂血症、控脂期注意部位与份量。"
   },
@@ -103,13 +207,32 @@
     "en": "beef",
     "category": "肉蛋奶",
     "nature": "温",
-    "effects": ["补气", "强筋"],
-    "regions": ["CN"],
-    "provinces": ["内蒙古", "新疆", "山东"],
-    "aliases": ["牛腩", "牛腱"],
+    "effects": [
+      "补气",
+      "强筋"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "内蒙古",
+      "新疆",
+      "山东"
+    ],
+    "aliases": [
+      "牛腩",
+      "牛腱"
+    ],
     "pinyin": "niurou",
     "initials": "nr",
-    "searchTerms": ["niurou", "nr", "beef", "牛肉", "牛扒", "steak"],
+    "searchTerms": [
+      "niurou",
+      "nr",
+      "beef",
+      "牛肉",
+      "牛扒",
+      "steak"
+    ],
     "summary": "高蛋白红肉，偏温，宜炖、卤、清汤。",
     "caution": "高尿酸、湿热内盛者适量。"
   },
@@ -119,13 +242,30 @@
     "en": "lamb",
     "category": "肉蛋奶",
     "nature": "热",
-    "effects": ["温阳", "补虚"],
-    "regions": ["CN"],
-    "provinces": ["内蒙古", "宁夏", "新疆"],
-    "aliases": ["羊排", "羊腿"],
+    "effects": [
+      "温阳",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "内蒙古",
+      "宁夏",
+      "新疆"
+    ],
+    "aliases": [
+      "羊排",
+      "羊腿"
+    ],
     "pinyin": "yangrou",
     "initials": "yr",
-    "searchTerms": ["yangrou", "yr", "lamb", "羊肉"],
+    "searchTerms": [
+      "yangrou",
+      "yr",
+      "lamb",
+      "羊肉"
+    ],
     "summary": "温补肉类，冬季炖汤常见。",
     "caution": "阴虚火旺、咽痛、痛风急性期不宜多食。"
   },
@@ -135,13 +275,29 @@
     "en": "tofu",
     "category": "豆品",
     "nature": "凉",
-    "effects": ["益气", "生津"],
-    "regions": ["CN"],
-    "provinces": ["全国"],
-    "aliases": ["北豆腐", "南豆腐", "嫩豆腐"],
+    "effects": [
+      "益气",
+      "生津"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "北豆腐",
+      "南豆腐",
+      "嫩豆腐"
+    ],
     "pinyin": "doufu",
     "initials": "df",
-    "searchTerms": ["doufu", "df", "tofu", "豆腐"],
+    "searchTerms": [
+      "doufu",
+      "df",
+      "tofu",
+      "豆腐"
+    ],
     "summary": "大豆制品，偏凉润，宜炖汤、凉拌、红烧。",
     "caution": "痛风急性期、脾胃虚寒腹泻者适量。"
   },
@@ -151,13 +307,30 @@
     "en": "milk",
     "category": "饮品",
     "nature": "平",
-    "effects": ["补虚", "润燥"],
-    "regions": ["CN"],
-    "provinces": ["全国"],
-    "aliases": ["牛乳", "鲜奶"],
+    "effects": [
+      "补虚",
+      "润燥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "牛乳",
+      "鲜奶"
+    ],
     "pinyin": "niunai",
     "initials": "nn",
-    "searchTerms": ["niunai", "nn", "milk", "牛奶", "牛乳", "鲜奶"],
+    "searchTerms": [
+      "niunai",
+      "nn",
+      "milk",
+      "牛奶",
+      "牛乳",
+      "鲜奶"
+    ],
     "summary": "常见乳制品，偏平，宜温饮。",
     "caution": "乳糖不耐受者慎用；一岁以下婴儿不宜替代母乳。"
   },
@@ -168,16 +341,34 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "温",
-    "effects": ["补中", "养血"],
-    "regions": ["CN"],
-    "provinces": ["山东", "河北", "新疆"],
-    "aliases": ["红枣", "枣"],
+    "effects": [
+      "补中",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东",
+      "河北",
+      "新疆"
+    ],
+    "aliases": [
+      "红枣",
+      "枣"
+    ],
     "pinyin": "dazao",
     "initials": "dz",
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
-    "searchTerms": ["dazao", "dz", "jujube", "大枣", "红枣"],
+    "searchTerms": [
+      "dazao",
+      "dz",
+      "jujube",
+      "大枣",
+      "红枣"
+    ],
     "summary": "食药同源条目，偏温甘，宜煮粥、入汤、泡茶。",
     "caution": "湿重、糖尿病、上火明显者控制用量。"
   },
@@ -188,16 +379,34 @@
     "category": "食药物质",
     "itemKind": "food-medicine",
     "nature": "凉",
-    "effects": ["健脾", "利湿"],
-    "regions": ["CN"],
-    "provinces": ["福建", "贵州", "云南"],
-    "aliases": ["薏苡仁", "薏仁"],
+    "effects": [
+      "健脾",
+      "利湿"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建",
+      "贵州",
+      "云南"
+    ],
+    "aliases": [
+      "薏苡仁",
+      "薏仁"
+    ],
     "pinyin": "yimi",
     "initials": "ym",
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
-    "searchTerms": ["yimi", "ym", "coix", "薏米", "薏苡仁"],
+    "searchTerms": [
+      "yimi",
+      "ym",
+      "coix",
+      "薏米",
+      "薏苡仁"
+    ],
     "summary": "食药同源条目，偏渗湿，常与赤小豆、茯苓同用。",
     "caution": "孕妇、阳虚怕冷、便秘者不宜长期大量单用。"
   },
@@ -207,13 +416,28 @@
     "en": "egg",
     "category": "肉蛋奶",
     "nature": "平",
-    "effects": ["滋阴", "养血"],
-    "regions": ["CN"],
-    "provinces": ["全国"],
-    "aliases": ["蛋", "鸡子"],
+    "effects": [
+      "滋阴",
+      "养血"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "蛋",
+      "鸡子"
+    ],
     "pinyin": "jidan",
     "initials": "jd",
-    "searchTerms": ["jidan", "jd", "egg", "鸡蛋"],
+    "searchTerms": [
+      "jidan",
+      "jd",
+      "egg",
+      "鸡蛋"
+    ],
     "summary": "日常优质蛋白来源，宜煮、蒸、炒。",
     "caution": "高胆固醇人群注意蛋黄摄入量。"
   },
@@ -223,14 +447,31 @@
     "en": "chives",
     "category": "蔬菜",
     "nature": "温",
-    "effects": ["温中", "行气"],
-    "regions": ["CN"],
-    "provinces": ["全国"],
-    "aliases": ["韭黄", "韭菜花"],
+    "effects": [
+      "温中",
+      "行气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "全国"
+    ],
+    "aliases": [
+      "韭黄",
+      "韭菜花"
+    ],
     "pinyin": "jiucai",
     "initials": "jc",
-    "searchTerms": ["jiucai", "jc", "chives", "韭菜", "立春"],
+    "searchTerms": [
+      "jiucai",
+      "jc",
+      "chives",
+      "韭菜",
+      "立春"
+    ],
     "summary": "春令常见蔬菜，偏温辛，宜炒蛋、做馅。",
-    "caution": "阴虚内热、眼疾者不宜多食。"
+    "caution": "阴虚内热、眼疾者不宜多食。",
+    "hiddenFromLibrary": true
   }
 ]

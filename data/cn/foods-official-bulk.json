@@ -56,7 +56,8 @@
     "effects": [
       "温中",
       "理气"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-cardamom",
@@ -125,7 +126,8 @@
     "effects": [
       "清利",
       "解暑"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-dandelion",
@@ -134,7 +136,8 @@
     "effects": [
       "清利",
       "和中"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-houttuynia",
@@ -143,7 +146,8 @@
     "effects": [
       "清利",
       "生津"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-reed-rhizome",
@@ -162,7 +166,8 @@
     "effects": [
       "和中",
       "清暑"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-mulberry-leaf",
@@ -171,7 +176,8 @@
     "effects": [
       "清利",
       "润燥"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-perilla-leaf",
@@ -180,7 +186,8 @@
     "effects": [
       "解表",
       "行气"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-perilla-seed",
@@ -199,7 +206,8 @@
     "effects": [
       "生津",
       "敛藏"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-sea-buckthorn",
@@ -356,7 +364,8 @@
     "effects": [
       "温补",
       "润肠"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-almond",
@@ -380,7 +389,8 @@
       "杏仁",
       "扁桃",
       "甜杏仁"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "official-pine-nut",

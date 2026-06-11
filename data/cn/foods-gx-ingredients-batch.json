@@ -109,7 +109,8 @@
       "gx-sour-bamboo"
     ],
     "summary": "广西发酵酸笋，开胃消食，胃弱者适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-lemon-duck",
@@ -296,7 +297,8 @@
       "gx-sugarcane-gx"
     ],
     "summary": "广西甘蔗，清热生津润燥。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-passion-fruit",
@@ -321,7 +323,8 @@
       "gx-passion-fruit"
     ],
     "summary": "广西热带百香果，开胃生津。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-mango-gx",
@@ -371,7 +374,8 @@
       "gx-lijiang-pork"
     ],
     "summary": "广西巴马香猪，滋阴补虚适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-duck-blood",
@@ -396,7 +400,8 @@
       "gx-duck-blood"
     ],
     "summary": "广西粉店鸭血，凉血解毒适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-rice-wine-gx",
@@ -450,7 +455,8 @@
       "gx-fermented-bean-curd"
     ],
     "summary": "广西红腐乳，开胃佐食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-chili-paste-gx",
@@ -525,7 +531,8 @@
       "gx-bamboo-rat"
     ],
     "summary": "广西特色野味，温补适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-taro-pork",
@@ -579,7 +586,8 @@
       "gx-sticky-rice-dumpling"
     ],
     "summary": "广西壮乡糯米粽，健脾益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-herbal-tea-gx",
@@ -604,7 +612,8 @@
       "gx-herbal-tea-gx"
     ],
     "summary": "广西凉茶，清热祛湿体虚慎用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-cogon-root-gx",
@@ -633,7 +642,8 @@
       "gx-cogon-root-gx"
     ],
     "summary": "广西茅根竹蔗饮，清热生津。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-monk-fruit-gx",
@@ -737,7 +747,8 @@
       "gx-taro-gx"
     ],
     "summary": "广西荔浦芋头，健脾益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-water-spinach-gx",
@@ -870,7 +881,8 @@
       "gx-fried-dough-gx"
     ],
     "summary": "广西早餐油条，偶尔食用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-fermented-rice",
@@ -953,7 +965,8 @@
       "gx-wood-ear-gx"
     ],
     "summary": "广西黑木耳，滋阴润燥。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-daylily-gx",
@@ -1007,7 +1020,8 @@
       "gx-lotus-root-gx"
     ],
     "summary": "广西莲藕，健脾开胃。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-taro-stem",

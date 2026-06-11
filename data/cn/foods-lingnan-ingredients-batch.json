@@ -333,7 +333,8 @@
       "seabed-coconut"
     ],
     "summary": "润燥汤料，润肺止咳整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "dried-scallop",
@@ -674,7 +675,8 @@
       "dried-longan-pulp"
     ],
     "summary": "补血安神，糖水炖品常用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "dried-lotus-seed-core",
@@ -1145,7 +1147,8 @@
       "winter-melon-skin"
     ],
     "summary": "利湿消暑，可煲汤配伍。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "bitter-melon-dried",
@@ -1236,7 +1239,8 @@
       "wampee"
     ],
     "summary": "酸甜开胃，生津整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sugar-cane-gd",
@@ -1302,7 +1306,8 @@
       "cogon-root"
     ],
     "summary": "清热生津，粤式凉茶饮。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "monk-fruit-tea-base",
@@ -1534,7 +1539,8 @@
       "xo-sauce"
     ],
     "summary": "港式海鲜辣味酱，拌面佐餐。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hoisin-sauce-gd",
@@ -1621,7 +1627,8 @@
       "shrimp-paste-gd"
     ],
     "summary": "咸鲜发酵酱，蒸排骨调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "fermented-fish",
@@ -1741,7 +1748,8 @@
       "mud-carp-gd"
     ],
     "summary": "珠江淡水鱼，鲮鱼球煲汤。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "crisp-grass-carp",
@@ -1985,7 +1993,8 @@
       "bullfrog-gd"
     ],
     "summary": "姜蒜爆炒或打边炉。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "rice-field-eel",
@@ -2105,7 +2114,8 @@
       "preserved-pork-gd"
     ],
     "summary": "粤式腊味三宝之一。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "liver-sausage",
@@ -2167,7 +2177,8 @@
       "steamed-rice-roll"
     ],
     "summary": "米浆蒸制卷粉，早茶常见。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "shrimp-dumpling-hk",
@@ -2196,7 +2207,8 @@
       "shrimp-dumpling-hk"
     ],
     "summary": "早茶点心，澄粉皮包虾。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "siu-mai-hk",
@@ -2225,7 +2237,8 @@
       "siu-mai-hk"
     ],
     "summary": "早茶点心，猪肉虾仁馅。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "turnip-cake",
@@ -2254,7 +2267,10 @@
       "turnip-cake"
     ],
     "summary": "年糕类点心，煎香食用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "萝卜糕（粤式）"
+    ]
   },
   {
     "id": "taro-cake",
@@ -2428,7 +2444,8 @@
       "double-skin-milk"
     ],
     "summary": "水牛奶蒸制甜品。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sugar-papaya",
@@ -2515,7 +2532,10 @@
       "turtle-jelly"
     ],
     "summary": "岭南清热祛湿传统甜品，夏令凉茶铺常见。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "龟苓膏（块状）"
+    ]
   },
   {
     "id": "sang-ji-sheng-tea",
@@ -2662,7 +2682,8 @@
       "bamboo-shoot-sour"
     ],
     "summary": "酸汤调味，开胃消食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "tea-tree-mushroom",
@@ -2724,7 +2745,8 @@
       "cloud-ear-gd"
     ],
     "summary": "岭南云耳，凉拌或煲汤常用菌菇整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snow-pear-dried",
@@ -2753,7 +2775,8 @@
       "snow-pear-dried"
     ],
     "summary": "润燥汤料，南北杏配伍。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "fig-dried",
@@ -2782,7 +2805,8 @@
       "fig-dried"
     ],
     "summary": "无花果干为煲汤润肺清肠的常见汤料。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "aloe-dried",
@@ -2869,7 +2893,8 @@
       "chrysanthemum-bud"
     ],
     "summary": "胎菊为清肝明目茶饮，夏令凉茶常用花材。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "selfheal-spike",
@@ -2957,7 +2982,8 @@
       "cordyceps-flower-gd"
     ],
     "summary": "粤式煲汤配色菌菇。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "radix-fici",
@@ -3139,7 +3165,8 @@
       "fish-maw-gd"
     ],
     "summary": "滋阴养颜，炖汤名品。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "bird-nest-gd",
@@ -3168,7 +3195,8 @@
       "bird-nest-gd"
     ],
     "summary": "滋阴润肺，炖品整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hasma",

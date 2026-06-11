@@ -91,14 +91,14 @@
     "name": "白族三道茶",
     "en": "Bai three-course tea",
     "category": "茶饮",
-    "nature": "复合",
+    "nature": "平",
     "effects": ["生津", "理气"],
     "regions": ["CN"],
     "provinces": ["云南"],
     "ethnicGroups": ["白族"],
     "searchTerms": ["sandaocha", "sdc"],
     "aliases": ["大理三道茶"],
-    "summary": "大理白族待客礼茶，一苦二甜三回味，食性复合。"
+    "summary": "大理白族待客礼茶，一苦二甜三回味；三阶段风味各异，整体按平性查阅。"
   },
   {
     "id": "she-minced-tea",

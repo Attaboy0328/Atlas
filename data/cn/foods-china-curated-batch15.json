@@ -535,7 +535,8 @@
       "c15-hi-wenchang"
     ],
     "summary": "海南文昌白切鸡，温中益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-sc-pixian",
@@ -564,7 +565,8 @@
       "c15-sc-pixian"
     ],
     "summary": "川菜郫县豆瓣，辛温调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-sc-bean-sprout-soup",
@@ -879,7 +881,8 @@
       "c15-hb-wuchang"
     ],
     "summary": "武昌鱼，益气健脾。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-sd-dezhou",
@@ -1008,7 +1011,8 @@
       "c15-yn-morel"
     ],
     "summary": "云南羊肚菌，益气养阴。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-gz-sour-fish",
@@ -1160,7 +1164,8 @@
       "c15-sh-hairy-crab"
     ],
     "summary": "阳澄湖大闸蟹，滋阴适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-tj-goubuli",

@@ -5,13 +5,29 @@
     "en": "halal beef",
     "category": "肉蛋奶",
     "nature": "温",
-    "effects": ["补虚", "健脾"],
-    "regions": ["CN", "US"],
-    "aliases": ["清真牛腩", "清真牛腱"],
-    "dietaryScenes": ["清真"],
+    "effects": [
+      "补虚",
+      "健脾"
+    ],
+    "regions": [
+      "CN",
+      "US"
+    ],
+    "aliases": [
+      "清真牛腩",
+      "清真牛腱"
+    ],
+    "dietaryScenes": [
+      "清真"
+    ],
     "pinyin": "qingzhenniurou",
     "initials": "qzn",
-    "searchTerms": ["qingzhenniurou", "qzn", "清真牛肉", "halal beef"],
+    "searchTerms": [
+      "qingzhenniurou",
+      "qzn",
+      "清真牛肉",
+      "halal beef"
+    ],
     "summary": "按清真屠宰规范处理的牛肉，炖煮、涮锅与面食常见。",
     "caution": "高嘌呤，痛风者适量；须全熟。"
   },
@@ -21,15 +37,35 @@
     "en": "naan",
     "category": "主食",
     "nature": "平",
-    "effects": ["充饥"],
-    "regions": ["CN"],
-    "provinces": ["新疆"],
-    "ethnicGroups": ["维吾尔族", "回族"],
-    "aliases": ["新疆馕", "烤馕"],
-    "dietaryScenes": ["素食", "清真"],
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "ethnicGroups": [
+      "维吾尔族",
+      "回族"
+    ],
+    "aliases": [
+      "新疆馕",
+      "烤馕"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "清真"
+    ],
     "pinyin": "nang",
     "initials": "n",
-    "searchTerms": ["nang", "馕", "新疆馕", "naan"],
+    "searchTerms": [
+      "nang",
+      "馕",
+      "新疆馕",
+      "naan"
+    ],
     "summary": "新疆烤制面饼，咸香耐存，配烤肉或奶茶。",
     "caution": "小麦制品，麸质过敏者不宜。"
   },
@@ -39,14 +75,32 @@
     "en": "yak meat",
     "category": "肉蛋奶",
     "nature": "温",
-    "effects": ["补虚", "暖胃"],
-    "regions": ["CN"],
-    "provinces": ["西藏", "青海", "四川"],
-    "ethnicGroups": ["藏族"],
-    "aliases": ["藏牦牛肉"],
+    "effects": [
+      "补虚",
+      "暖胃"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏",
+      "青海",
+      "四川"
+    ],
+    "ethnicGroups": [
+      "藏族"
+    ],
+    "aliases": [
+      "藏牦牛肉"
+    ],
     "pinyin": "maoniurou",
     "initials": "mnr",
-    "searchTerms": ["maoniurou", "mnr", "牦牛肉", "yak meat"],
+    "searchTerms": [
+      "maoniurou",
+      "mnr",
+      "牦牛肉",
+      "yak meat"
+    ],
     "summary": "高原牦牛肉，纤维紧实，炖汤、风干或火锅。",
     "caution": "消化弱者宜炖烂；高嘌呤适量。"
   },
@@ -56,17 +110,41 @@
     "en": "sour bamboo shoot",
     "category": "腌菜",
     "nature": "凉",
-    "effects": ["开胃", "消食"],
-    "regions": ["CN"],
-    "provinces": ["广西", "云南"],
-    "ethnicGroups": ["壮族", "傣族"],
-    "aliases": ["酸竹笋", "螺蛳粉酸笋"],
-    "dietaryScenes": ["素食", "全植物", "清真"],
+    "effects": [
+      "开胃",
+      "消食"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广西",
+      "云南"
+    ],
+    "ethnicGroups": [
+      "壮族",
+      "傣族"
+    ],
+    "aliases": [
+      "酸竹笋",
+      "螺蛳粉酸笋"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
     "pinyin": "suansun",
     "initials": "ss",
-    "searchTerms": ["suansun", "ss", "酸笋", "酸竹笋"],
+    "searchTerms": [
+      "suansun",
+      "ss",
+      "酸笋",
+      "酸竹笋"
+    ],
     "summary": "竹笋发酵腌渍，酸辣开胃，螺蛳粉与酸汤鱼常用。",
-    "caution": "高盐发酵品，高血压者控量；肠胃敏感者少量。"
+    "caution": "高盐发酵品，高血压者控量；肠胃敏感者少量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "highland-barley",
@@ -74,15 +152,39 @@
     "en": "highland barley",
     "category": "谷物",
     "nature": "平",
-    "effects": ["充饥", "健脾"],
-    "regions": ["CN"],
-    "provinces": ["西藏", "青海", "四川"],
-    "ethnicGroups": ["藏族"],
-    "aliases": ["裸大麦", "元麦"],
-    "dietaryScenes": ["素食", "全植物", "清真", "无麸质"],
+    "effects": [
+      "充饥",
+      "健脾"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏",
+      "青海",
+      "四川"
+    ],
+    "ethnicGroups": [
+      "藏族"
+    ],
+    "aliases": [
+      "裸大麦",
+      "元麦"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真",
+      "无麸质"
+    ],
     "pinyin": "qingke",
     "initials": "qk",
-    "searchTerms": ["qingke", "qk", "青稞", "highland barley"],
+    "searchTerms": [
+      "qingke",
+      "qk",
+      "青稞",
+      "highland barley"
+    ],
     "summary": "高原裸大麦，糌粑、青稞酒与粥饭主食。",
     "caution": "含麸质（大麦），麸质敏感者不宜；青稞酒含酒精。"
   },
@@ -92,15 +194,34 @@
     "en": "Lanzhou beef noodles",
     "category": "主食",
     "nature": "温",
-    "effects": ["充饥", "补虚"],
-    "regions": ["CN"],
-    "provinces": ["甘肃"],
-    "ethnicGroups": ["回族"],
-    "aliases": ["兰州拉面", "清汤牛肉面"],
-    "dietaryScenes": ["清真"],
+    "effects": [
+      "充饥",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "甘肃"
+    ],
+    "ethnicGroups": [
+      "回族"
+    ],
+    "aliases": [
+      "兰州拉面",
+      "清汤牛肉面"
+    ],
+    "dietaryScenes": [
+      "清真"
+    ],
     "pinyin": "lanzhouniuroumian",
     "initials": "lznrn",
-    "searchTerms": ["lanzhouniuroumian", "lznrn", "兰州牛肉面", "兰州拉面"],
+    "searchTerms": [
+      "lanzhouniuroumian",
+      "lznrn",
+      "兰州牛肉面",
+      "兰州拉面"
+    ],
     "summary": "西北清真面食代表，清汤牛肉配手工拉面。",
     "caution": "小麦面条，麸质过敏者不宜；汤底含钠较高。"
   }

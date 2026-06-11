@@ -90,6 +90,11 @@
     "note": "auto: duplicate name「田鸡」→ frog"
   },
   {
+    "alias": "c13-cq-hotpot-rx",
+    "canonical": "hotpot-base",
+    "note": "auto: form variant「火锅底料（重庆）」→ hotpot-base"
+  },
+  {
     "alias": "c13-gd-coix",
     "canonical": "coix-seed",
     "note": "auto: duplicate name「薏米」→ coix-seed"
@@ -165,6 +170,21 @@
     "note": "auto: duplicate name「马蹄糕」→ water-chestnut-cake"
   },
   {
+    "alias": "c13-hb-hot-dry-noodle",
+    "canonical": "hb-reganmian",
+    "note": "auto: form variant「热干面（武汉）」→ hb-reganmian"
+  },
+  {
+    "alias": "c13-hi-qingbuliang-base",
+    "canonical": "hi-qingbuliang",
+    "note": "auto: form variant「清补凉料」→ hi-qingbuliang"
+  },
+  {
+    "alias": "c13-hn-stinky-tofu-rx",
+    "canonical": "stinky-tofu",
+    "note": "auto: form variant「臭豆腐（长沙）」→ stinky-tofu"
+  },
+  {
     "alias": "c13-mo-pork-chop",
     "canonical": "pork-chop",
     "note": "auto: duplicate name「猪扒」→ pork-chop"
@@ -180,9 +200,39 @@
     "note": "auto: duplicate name「郫县豆瓣」→ pixian-douban"
   },
   {
+    "alias": "c13-sd-dezhou-chicken-rx",
+    "canonical": "sd-dezhou-chicken",
+    "note": "auto: form variant「德州扒鸡（整只）」→ sd-dezhou-chicken"
+  },
+  {
     "alias": "c13-sh-hairy-crab",
     "canonical": "hairy-crab",
     "note": "auto: duplicate name「大闸蟹」→ hairy-crab"
+  },
+  {
+    "alias": "c13-sh-red-braised",
+    "canonical": "sh-hongshaorou",
+    "note": "auto: form variant「红烧肉（本帮）」→ sh-hongshaorou"
+  },
+  {
+    "alias": "c13-sx-liangpi-rx",
+    "canonical": "liangpi",
+    "note": "auto: form variant「凉皮（关中）」→ liangpi"
+  },
+  {
+    "alias": "c13-tw-oyster-rx",
+    "canonical": "tw-oyster-omelette-tw",
+    "note": "auto: form variant「蚵仔煎（台式）」→ tw-oyster-omelette-tw"
+  },
+  {
+    "alias": "c13-xj-nang-rx",
+    "canonical": "xj-nang",
+    "note": "auto: form variant「馕（新疆）」→ xj-nang"
+  },
+  {
+    "alias": "c13-yn-cross-bridge-rx",
+    "canonical": "yn-cross-bridge",
+    "note": "auto: form variant「过桥米线（滇式）」→ yn-cross-bridge"
   },
   {
     "alias": "c14-ah-ham",
@@ -205,9 +255,19 @@
     "note": "auto: duplicate name「豉油皇凤爪」→ c13-gd-chicken-feet"
   },
   {
+    "alias": "c14-gd-cross-bridge",
+    "canonical": "yn-cross-bridge",
+    "note": "auto: form variant「过桥米线料」→ yn-cross-bridge"
+  },
+  {
     "alias": "c14-gd-dragon-fruit",
     "canonical": "dragon-fruit",
     "note": "auto: duplicate name「火龙果」→ dragon-fruit"
+  },
+  {
+    "alias": "c14-gd-herbal-jelly-gd",
+    "canonical": "turtle-jelly",
+    "note": "auto: form variant「龟苓膏（块状）」→ turtle-jelly"
   },
   {
     "alias": "c14-gd-matsutake",
@@ -225,6 +285,16 @@
     "note": "auto: duplicate name「杨梅」→ bayberry"
   },
   {
+    "alias": "c14-gd-sea-cucumber",
+    "canonical": "sea-cucumber",
+    "note": "auto: form variant「海参（粤式）」→ sea-cucumber"
+  },
+  {
+    "alias": "c14-gd-spicy-chicken",
+    "canonical": "cq-laziji",
+    "note": "auto: form variant「辣子鸡（滇式）」→ cq-laziji"
+  },
+  {
     "alias": "c14-gd-starfruit",
     "canonical": "starfruit",
     "note": "auto: duplicate name「杨桃」→ starfruit"
@@ -233,6 +303,16 @@
     "alias": "c14-gd-sugar-apple",
     "canonical": "custard-apple",
     "note": "auto: duplicate name「番荔枝」→ custard-apple"
+  },
+  {
+    "alias": "c14-gd-turnip-pudding",
+    "canonical": "turnip-cake",
+    "note": "auto: form variant「萝卜糕（粤式）」→ turnip-cake"
+  },
+  {
+    "alias": "c14-gd-yellow-croaker",
+    "canonical": "yellow-croaker",
+    "note": "auto: form variant「黄花鱼（粤式）」→ yellow-croaker"
   },
   {
     "alias": "c14-gx-pomelo",
@@ -313,6 +393,31 @@
     "alias": "c14-zj-stinky-tofu",
     "canonical": "stinky-tofu",
     "note": "auto: duplicate name「臭豆腐」→ stinky-tofu"
+  },
+  {
+    "alias": "c15-hb-wuchang",
+    "canonical": "wuchang-bream",
+    "note": "auto: form variant「武昌鱼（整尾）」→ wuchang-bream"
+  },
+  {
+    "alias": "c15-hi-wenchang",
+    "canonical": "hi-wenchang-chicken",
+    "note": "auto: form variant「文昌鸡（整只）」→ hi-wenchang-chicken"
+  },
+  {
+    "alias": "c15-sc-pixian",
+    "canonical": "doubanjiang",
+    "note": "auto: form variant「郫县豆瓣（川菜）」→ doubanjiang"
+  },
+  {
+    "alias": "c15-sh-hairy-crab",
+    "canonical": "hairy-crab",
+    "note": "auto: form variant「大闸蟹（沪式）」→ hairy-crab"
+  },
+  {
+    "alias": "c15-yn-morel",
+    "canonical": "morel",
+    "note": "auto: form variant「羊肚菌（云南）」→ morel"
   },
   {
     "alias": "caixin",
@@ -1040,6 +1145,11 @@
     "note": "招潮蟹/蟛蜞英文别名"
   },
   {
+    "alias": "fig-dried",
+    "canonical": "c15-gd-fig-dried",
+    "note": "auto: duplicate name「无花果干」→ c15-gd-fig-dried"
+  },
+  {
     "alias": "fish-maw-gd",
     "canonical": "fish-maw",
     "note": "auto: duplicate name「花胶」→ fish-maw"
@@ -1358,6 +1468,11 @@
     "alias": "hk-watercress-hk",
     "canonical": "watercress",
     "note": "auto: duplicate name「西洋菜」→ watercress"
+  },
+  {
+    "alias": "hn-chou-doufu",
+    "canonical": "stinky-tofu",
+    "note": "auto: form variant「长沙臭豆腐」→ stinky-tofu"
   },
   {
     "alias": "hn-guilin-rice-noodle",
@@ -2175,6 +2290,11 @@
     "note": "auto: duplicate name「雪里蕻」→ pickled-mustard"
   },
   {
+    "alias": "snow-pear-dried",
+    "canonical": "c15-gd-snow-pear-dried",
+    "note": "auto: duplicate name「雪梨干」→ c15-gd-snow-pear-dried"
+  },
+  {
     "alias": "sour-bamboo-shoot",
     "canonical": "dai-sour-bamboo",
     "note": "auto: duplicate name「酸笋」→ dai-sour-bamboo"
@@ -2368,5 +2488,10 @@
     "alias": "zingiber-officinale-fresh",
     "canonical": "ginger",
     "note": "生姜"
+  },
+  {
+    "alias": "zj-dongpo-pork-zj",
+    "canonical": "c14-zj-dongpo-pork",
+    "note": "auto: form variant「东坡肉（杭帮）」→ c14-zj-dongpo-pork"
   }
 ]

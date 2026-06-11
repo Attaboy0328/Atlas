@@ -113,7 +113,8 @@
     ],
     "aliases": [
       "大黄鱼",
-      "小黄鱼"
+      "小黄鱼",
+      "黄花鱼（粤式）"
     ],
     "pinyin": "huanghuayu",
     "initials": "hhy",
@@ -223,7 +224,8 @@
       "乌鳢"
     ],
     "summary": "淡水肉食鱼，术后调养常选，煲汤为主。",
-    "caution": "疮疡发热、皮肤病急性期遵医嘱。"
+    "caution": "疮疡发热、皮肤病急性期遵医嘱。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "yellow-eel",

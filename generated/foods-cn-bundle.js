@@ -4303,7 +4303,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-lijiang-pork"
     ],
     "summary": "广西巴马香猪，滋阴补虚适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gx-bama-pork",
@@ -4635,7 +4636,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "白族三道茶",
     "en": "Bai three-course tea",
     "category": "茶饮",
-    "nature": "复合",
+    "nature": "平",
     "effects": [
       "生津",
       "理气"
@@ -4656,7 +4657,7 @@ const CN_SUPPLEMENT_FOODS = [
     "aliases": [
       "大理三道茶"
     ],
-    "summary": "大理白族待客礼茶，一苦二甜三回味，食性复合。"
+    "summary": "大理白族待客礼茶，一苦二甜三回味；三阶段风味各异，整体按平性查阅。"
   },
   {
     "id": "lily-bulb",
@@ -4862,7 +4863,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-passion-fruit"
     ],
     "summary": "广西热带百香果，开胃生津。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gd-claypot",
@@ -5148,7 +5150,10 @@ const CN_SUPPLEMENT_FOODS = [
       "sh-hongshaorou"
     ],
     "summary": "上海本帮红烧肉，温补但高脂控量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "红烧肉（本帮）"
+    ]
   },
   {
     "id": "rough-smilax",
@@ -5261,7 +5266,8 @@ const CN_SUPPLEMENT_FOODS = [
       "ln-bingtanghulu"
     ],
     "summary": "北方冰糖葫芦，酸甜小食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-hlj-hawthorn",
@@ -5432,7 +5438,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-pineapple-bun"
     ],
     "summary": "香港面包房经典，酥皮香甜，控糖适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-hk-pineapple-bun",
@@ -5661,7 +5668,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-sc-broad-bean"
     ],
     "summary": "四川嫩蚕豆，健脾利湿。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "broad-bean-pod",
@@ -6104,7 +6112,8 @@ const CN_SUPPLEMENT_FOODS = [
       "steamed-rice-roll"
     ],
     "summary": "米浆蒸制卷粉，早茶常见。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-hn-chili",
@@ -6555,7 +6564,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-preserved-duck-gizzard-hk"
     ],
     "summary": "港式西洋菜汤经典搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-preserved-kidney",
@@ -6584,7 +6594,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-preserved-kidney"
     ],
     "summary": "西洋菜汤经典搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "razor-clam",
@@ -6637,7 +6648,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-fj-razor-clam"
     ],
     "summary": "闽南海蛏，滋阴鲜味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "orange",
@@ -6756,7 +6768,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-chicken-feet"
     ],
     "summary": "粤式早茶凤爪，胶原蛋白适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gd-steamed-spareribs",
@@ -6925,7 +6938,8 @@ const CN_SUPPLEMENT_FOODS = [
       "cordyceps-flower-gd"
     ],
     "summary": "粤式煲汤配色菌菇。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-cordyceps-flower-hk",
@@ -6953,7 +6967,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-cordyceps-flower-hk"
     ],
     "summary": "港式炖汤配色菌菇。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--203",
@@ -9073,7 +9088,8 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "aliases": [
       "臭腐乳块",
-      "长沙臭豆腐"
+      "长沙臭豆腐",
+      "臭豆腐（长沙）"
     ],
     "dietaryScenes": [
       "素食",
@@ -9112,7 +9128,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-zj-stinky-tofu"
     ],
     "summary": "绍兴臭豆腐，发酵风味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-hn-stinky-tofu-rx",
@@ -9137,7 +9154,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-hn-stinky-tofu-rx"
     ],
     "summary": "长沙臭豆腐，发酵风味适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-hn-stinky-tofu",
@@ -9772,7 +9790,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-sd-scallion"
     ],
     "summary": "山东大葱，发汗解表调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "star-anise",
@@ -10026,7 +10045,8 @@ const CN_SUPPLEMENT_FOODS = [
       "阳澄湖"
     ],
     "aliases": [
-      "中华绒螯蟹"
+      "中华绒螯蟹",
+      "大闸蟹（沪式）"
     ],
     "pinyin": "dazhaxie",
     "initials": "dzx",
@@ -10063,7 +10083,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-sh-hairy-crab"
     ],
     "summary": "阳澄湖大闸蟹，滋阴鲜味，寒凉适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-sh-hairy-crab",
@@ -10088,7 +10109,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c15-sh-hairy-crab"
     ],
     "summary": "阳澄湖大闸蟹，滋阴适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hairtail",
@@ -10385,7 +10407,10 @@ const CN_SUPPLEMENT_FOODS = [
       "sd-dezhou-chicken"
     ],
     "summary": "山东扒鸡，温中益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "德州扒鸡（整只）"
+    ]
   },
   {
     "id": "c13-sd-dezhou-chicken-rx",
@@ -10410,7 +10435,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-sd-dezhou-chicken-rx"
     ],
     "summary": "山东扒鸡，温中益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-sd-dezhou",
@@ -10651,7 +10677,8 @@ const CN_SUPPLEMENT_FOODS = [
       "sc-dongpo-rou"
     ],
     "summary": "四川东坡肉，温补油腻控量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-zj-dongpo-pork",
@@ -10676,7 +10703,10 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-zj-dongpo-pork"
     ],
     "summary": "杭帮东坡肉，温补控量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "东坡肉（杭帮）"
+    ]
   },
   {
     "id": "zj-dongpo-pork-zj",
@@ -10701,7 +10731,8 @@ const CN_SUPPLEMENT_FOODS = [
       "zj-dongpo-pork-zj"
     ],
     "summary": "杭州东坡肉，温补控量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-dongshan-goat",
@@ -10801,7 +10832,8 @@ const CN_SUPPLEMENT_FOODS = [
       "winter-melon-skin"
     ],
     "summary": "利湿消暑，可煲汤配伍。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-gd-winter-melon-soup",
@@ -10954,7 +10986,8 @@ const CN_SUPPLEMENT_FOODS = [
       "四川"
     ],
     "aliases": [
-      "郫县豆瓣"
+      "郫县豆瓣",
+      "郫县豆瓣（川菜）"
     ],
     "pinyin": "doubanjiang",
     "initials": "dbj",
@@ -11049,7 +11082,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-sc-fermented-bean"
     ],
     "summary": "川菜豆豉，开胃调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "tofu",
@@ -11142,7 +11176,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-tofu-pudding"
     ],
     "summary": "澳门甜或咸豆腐花，清热润燥。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "tofu-skin",
@@ -11502,7 +11537,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-sugar-apple"
     ],
     "summary": "岭南番荔枝，温中益气适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "guava",
@@ -11756,7 +11792,8 @@ const CN_SUPPLEMENT_FOODS = [
       "jx-steamed-pork-rice"
     ],
     "summary": "江西粉蒸肉，温补适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-jx-steamed-pork",
@@ -11878,7 +11915,8 @@ const CN_SUPPLEMENT_FOODS = [
       "tw-pineapple-cake"
     ],
     "summary": "台湾凤梨酥伴手礼。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-tw-pineapple-rx",
@@ -14379,7 +14417,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-fermented-tofu-hk"
     ],
     "summary": "港式煲粥配菜，开胃佐食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-fermented-bean-curd",
@@ -14404,7 +14443,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-fermented-bean-curd"
     ],
     "summary": "广西红腐乳，开胃佐食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-hn-tofu-skin",
@@ -16505,7 +16545,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-sugarcane-gx"
     ],
     "summary": "广西甘蔗，清热生津润燥。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "olive-oil",
@@ -16844,7 +16885,8 @@ const CN_SUPPLEMENT_FOODS = [
       "tj-goubuli"
     ],
     "summary": "天津传统包子，健脾益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-tj-goubuli-rx",
@@ -16949,7 +16991,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-goji"
     ],
     "summary": "茶饮枸杞，滋补肝肾。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "nx-goji-chicken",
@@ -17066,7 +17109,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-nx-goji-leaf"
     ],
     "summary": "宁夏枸杞嫩叶，滋阴明目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "chenpi-dried",
@@ -17131,7 +17175,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-chenpi-hk"
     ],
     "summary": "港式汤饮与糖水常用陈皮。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-chenpi-mo",
@@ -17160,7 +17205,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-chenpi-mo"
     ],
     "summary": "澳门汤饮陈皮，理气健脾。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "reg-fermented-tofu-white--3",
@@ -21497,7 +21543,10 @@ const CN_SUPPLEMENT_FOODS = [
       "turtle-jelly"
     ],
     "summary": "岭南清热祛湿传统甜品，夏令凉茶铺常见。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "龟苓膏（块状）"
+    ]
   },
   {
     "id": "hk-turtle-jelly-hk",
@@ -21525,7 +21574,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-turtle-jelly-hk"
     ],
     "summary": "港式清热祛湿甜品。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-herbal-jelly",
@@ -21550,7 +21600,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-herbal-jelly"
     ],
     "summary": "岭南龟苓膏，清热祛湿。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-gd-herbal-jelly-gd",
@@ -21579,7 +21630,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-herbal-jelly-gd"
     ],
     "summary": "岭南龟苓膏，清热祛湿。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "turtle-jelly-powder",
@@ -23758,7 +23810,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hn-guilin-rice-noodle"
     ],
     "summary": "桂林卤菜粉，日常主食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-guilin-rice-noodle",
@@ -23907,7 +23960,8 @@ const CN_SUPPLEMENT_FOODS = [
       "dried-longan-pulp"
     ],
     "summary": "补血安神，糖水炖品常用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-longan",
@@ -23932,7 +23986,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-longan"
     ],
     "summary": "糖水桂圆，补血安神。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "ln-guobaorou",
@@ -24030,7 +24085,11 @@ const CN_SUPPLEMENT_FOODS = [
       "yn-cross-bridge"
     ],
     "summary": "云南过桥米线，温胃益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "过桥米线（滇式）",
+      "过桥米线料"
+    ]
   },
   {
     "id": "c13-yn-cross-bridge-rx",
@@ -24055,7 +24114,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-yn-cross-bridge-rx"
     ],
     "summary": "云南过桥米线，温胃益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-gd-cross-bridge",
@@ -24080,7 +24140,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-cross-bridge"
     ],
     "summary": "云南过桥米线汤料方向。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-yn-cross-bridge",
@@ -24226,7 +24287,9 @@ const CN_SUPPLEMENT_FOODS = [
       "山东",
       "辽宁"
     ],
-    "aliases": [],
+    "aliases": [
+      "海参（粤式）"
+    ],
     "pinyin": "haishen",
     "initials": "hs",
     "searchTerms": [
@@ -24265,7 +24328,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-sea-cucumber"
     ],
     "summary": "粤式海参，滋阴补肾。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "seaweed-salad",
@@ -24386,7 +24450,8 @@ const CN_SUPPLEMENT_FOODS = [
       "seabed-coconut"
     ],
     "summary": "润燥汤料，润肺止咳整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-sea-coconut",
@@ -24411,7 +24476,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-sea-coconut"
     ],
     "summary": "澳门润燥汤料海底椰，润肺止咳。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-sea-coconut",
@@ -26982,7 +27048,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-dried-oyster-hk"
     ],
     "summary": "港式煲汤海产干货，滋阴养血。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-dried-oyster-mo",
@@ -27011,7 +27078,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-dried-oyster-mo"
     ],
     "summary": "澳门煲汤海产干货，滋阴养血。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-dried-oyster",
@@ -27040,7 +27108,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-dried-oyster"
     ],
     "summary": "煲汤蚝豉，滋阴养血。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "oyster-sauce",
@@ -27094,7 +27163,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-oyster-sauce-hk"
     ],
     "summary": "港式炒菜常用蚝油，控钠。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-oyster-sauce-mo",
@@ -27119,7 +27189,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-oyster-sauce-mo"
     ],
     "summary": "澳门炒菜蚝油，提鲜控钠。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "rice-field-worm",
@@ -31560,7 +31631,10 @@ const CN_SUPPLEMENT_FOODS = [
       "tw-oyster-omelette-tw"
     ],
     "summary": "台湾夜市蚵仔煎。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "蚵仔煎（台式）"
+    ]
   },
   {
     "id": "c13-tw-oyster-rx",
@@ -31585,7 +31659,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-tw-oyster-rx"
     ],
     "summary": "台湾夜市蚵仔煎。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-tw-oyster",
@@ -31843,7 +31918,8 @@ const CN_SUPPLEMENT_FOODS = [
       "乌鳢"
     ],
     "summary": "淡水肉食鱼，术后调养常选，煲汤为主。",
-    "caution": "疮疡发热、皮肤病急性期遵医嘱。"
+    "caution": "疮疡发热、皮肤病急性期遵医嘱。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "black-sesame",
@@ -32067,7 +32143,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-red-bean-soup-hk"
     ],
     "summary": "港式糖水红豆沙，健脾祛湿，夏令常见。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "red-fermented-bean-curd",
@@ -32208,7 +32285,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-sh-red-braised"
     ],
     "summary": "上海本帮红烧肉，温补控量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sweet-potato",
@@ -32406,7 +32484,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-red-date"
     ],
     "summary": "煲汤红枣，补中益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-gd-lotus-root-fresh",
@@ -36663,7 +36742,8 @@ const CN_SUPPLEMENT_FOODS = [
       "fish-maw-gd"
     ],
     "summary": "滋阴养颜，炖汤名品。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-fish-maw-hk",
@@ -36691,7 +36771,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-fish-maw-hk"
     ],
     "summary": "港式炖品名贵胶类，滋阴养颜。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-fish-maw",
@@ -36716,7 +36797,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-fish-maw"
     ],
     "summary": "澳门炖品花胶，滋阴养颜。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-fish-maw",
@@ -36741,7 +36823,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-fish-maw"
     ],
     "summary": "炖品花胶，滋阴养颜。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sichuan-peppercorn",
@@ -36964,7 +37047,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-sd-peanut"
     ],
     "summary": "山东花生，润肺健脾。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "flower-crab",
@@ -37260,7 +37344,8 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "aliases": [
       "大黄鱼",
-      "小黄鱼"
+      "小黄鱼",
+      "黄花鱼（粤式）"
     ],
     "pinyin": "huanghuayu",
     "initials": "hhy",
@@ -37325,7 +37410,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-yellow-croaker"
     ],
     "summary": "粤式黄花鱼，健脾开胃。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "huangjiu",
@@ -37421,7 +37507,8 @@ const CN_SUPPLEMENT_FOODS = [
       "wampee"
     ],
     "summary": "酸甜开胃，生津整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-gd-wampee",
@@ -37882,7 +37969,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-js-wonton"
     ],
     "summary": "江南馄饨，养胃易消化。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hotpot-base",
@@ -37904,7 +37992,10 @@ const CN_SUPPLEMENT_FOODS = [
       "huoguodiliao",
       "hgdl"
     ],
-    "summary": "川渝复合调味，偏热辣。"
+    "summary": "川渝复合调味，偏热辣。",
+    "aliases": [
+      "火锅底料（重庆）"
+    ]
   },
   {
     "id": "c13-cq-hotpot-rx",
@@ -37929,7 +38020,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-cq-hotpot-rx"
     ],
     "summary": "重庆麻辣火锅底料。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hotpot-beef-slice",
@@ -38019,7 +38111,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-dragon-fruit"
     ],
     "summary": "岭南火龙果，清热润肠。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cured-ham",
@@ -38080,7 +38173,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-ah-ham"
     ],
     "summary": "徽州火腿，温补适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "termitomyces",
@@ -44243,7 +44337,8 @@ const CN_SUPPLEMENT_FOODS = [
       "立春"
     ],
     "summary": "春令常见蔬菜，偏温辛，宜炒蛋、做馅。",
-    "caution": "阴虚内热、眼疾者不宜多食。"
+    "caution": "阴虚内热、眼疾者不宜多食。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "chinese-chive",
@@ -44692,7 +44787,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-curry-fishball"
     ],
     "summary": "港式街头咖喱鱼蛋，小食参考。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-hk-fish-ball",
@@ -44959,7 +45055,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-water-spinach-hi"
     ],
     "summary": "海南空心菜，清热通肠。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "button-mushroom",
@@ -45079,7 +45176,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-bitter-melon-hi"
     ],
     "summary": "海南苦瓜，清热解暑。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "bitter-melon-dried",
@@ -45306,7 +45404,8 @@ const CN_SUPPLEMENT_FOODS = [
       "preserved-pork-gd"
     ],
     "summary": "粤式腊味三宝之一。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gz-cured-meat",
@@ -45331,7 +45430,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gz-cured-meat"
     ],
     "summary": "贵州烟熏腊肉，高盐适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-hn-smoked-pork",
@@ -45356,7 +45456,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-hn-smoked-pork"
     ],
     "summary": "湖南腊肉，高盐适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "preserved-duck-gd",
@@ -45496,7 +45597,10 @@ const CN_SUPPLEMENT_FOODS = [
       "cq-laziji"
     ],
     "summary": "重庆干辣椒炒鸡，辛辣适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "辣子鸡（滇式）"
+    ]
   },
   {
     "id": "c14-gd-spicy-chicken",
@@ -45521,7 +45625,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-spicy-chicken"
     ],
     "summary": "云南辣子鸡，辛温开胃。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mantis-shrimp",
@@ -45670,7 +45775,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gs-lanzhou-beef"
     ],
     "summary": "兰州清汤牛肉面，温胃益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "blueberry",
@@ -45866,7 +45972,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-dried-tangerine"
     ],
     "summary": "澳门冲饮老药桔，理气化痰。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-old-friend-noodle",
@@ -46205,7 +46312,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-lychee-hi"
     ],
     "summary": "海南荔枝，温中益气，多食上火。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "chestnut",
@@ -46295,7 +46403,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-lotus-root-gx"
     ],
     "summary": "广西莲藕，健脾开胃。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-hb-lotus-root",
@@ -46572,7 +46681,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-herbal-tea"
     ],
     "summary": "澳门凉茶铺复方，清热祛湿体虚慎用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-herbal-tea-gx",
@@ -46597,7 +46707,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-herbal-tea-gx"
     ],
     "summary": "广西凉茶，清热祛湿体虚慎用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-herbal-tea-hi",
@@ -46622,7 +46733,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-herbal-tea-hi"
     ],
     "summary": "海南凉茶，清热祛湿。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-gd-bitter-melon-stir",
@@ -46667,7 +46779,8 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "aliases": [
       "陕西凉皮",
-      "麻酱凉皮"
+      "麻酱凉皮",
+      "凉皮（关中）"
     ],
     "searchTerms": [
       "liangpi",
@@ -46700,7 +46813,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-sx-liangpi-rx"
     ],
     "summary": "关中凉皮，清热解暑。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-sx-liangpi",
@@ -47871,7 +47985,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mud-carp-gd"
     ],
     "summary": "珠江淡水鱼，鲮鱼球煲汤。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-gd-papaya",
@@ -48240,7 +48355,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-longan-hi"
     ],
     "summary": "海南龙眼，补血安神适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "aloe-dried",
@@ -48513,7 +48629,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-green-bean-soup-hk"
     ],
     "summary": "港式清热解暑糖水，脾胃虚寒减量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mung-bean-sprout",
@@ -48917,7 +49034,10 @@ const CN_SUPPLEMENT_FOODS = [
       "turnip-cake"
     ],
     "summary": "年糕类点心，煎香食用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "萝卜糕（粤式）"
+    ]
   },
   {
     "id": "hk-turnip-cake-hk",
@@ -48945,7 +49065,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-turnip-cake-hk"
     ],
     "summary": "港式贺年点心，煎香食用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-turnip-cake",
@@ -48970,7 +49091,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-turnip-cake"
     ],
     "summary": "粤式贺年萝卜糕，煎香食用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-gd-turnip-pudding",
@@ -48999,7 +49121,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-turnip-pudding"
     ],
     "summary": "粤式萝卜糕，煎香食用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "daikon-leaf",
@@ -49508,7 +49631,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-water-chestnut-cake"
     ],
     "summary": "港式马蹄糕清甜糕点，夏令常见。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-water-chestnut-cake",
@@ -49533,7 +49657,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-water-chestnut-cake"
     ],
     "summary": "粤式马蹄糕，清热生津。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "malt",
@@ -49664,7 +49789,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-mango-hi"
     ],
     "summary": "海南芒果，生津润燥适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-hi-mango",
@@ -49689,7 +49815,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-hi-mango"
     ],
     "summary": "海南芒果，生津润燥。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-preserved-mango",
@@ -50050,7 +50177,8 @@ const CN_SUPPLEMENT_FOODS = [
       "cogon-root"
     ],
     "summary": "清热生津，粤式凉茶饮。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-cogon-root-gx",
@@ -50079,7 +50207,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-cogon-root-gx"
     ],
     "summary": "广西茅根竹蔗饮，清热生津。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-cogon",
@@ -50416,7 +50545,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-baijiu"
     ],
     "summary": "云南糯米酒，温中少量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-yn-rice-noodle",
@@ -50490,7 +50620,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-candied-fruit"
     ],
     "summary": "澳门传统蜜饯，生津开胃适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "candied-date",
@@ -50547,7 +50678,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-candied-date-hk"
     ],
     "summary": "港式汤料甜枣，调和甘润。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mianyinchen",
@@ -50841,7 +50973,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-wood-ear-gx"
     ],
     "summary": "广西黑木耳，滋阴润燥。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "papaya-fruit",
@@ -51437,7 +51570,10 @@ const CN_SUPPLEMENT_FOODS = [
       "xj-nang"
     ],
     "summary": "新疆烤馕，日常主食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "馕（新疆）"
+    ]
   },
   {
     "id": "c13-xj-nang-rx",
@@ -51462,7 +51598,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-xj-nang-rx"
     ],
     "summary": "新疆烤馕，日常主食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-steamed-bun--548",
@@ -54219,7 +54356,8 @@ const CN_SUPPLEMENT_FOODS = [
       "nm-beef-dried"
     ],
     "summary": "内蒙古风干牛肉，高蛋白零食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-beef-jerky",
@@ -54244,7 +54382,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-beef-jerky"
     ],
     "summary": "澳门炭烤牛肉干，温补适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-mo-dried-meat",
@@ -54417,7 +54556,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gx-rice-wine"
     ],
     "summary": "广西糯米酒，温中少量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "parsley",
@@ -54847,7 +54987,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-sc-chili-bean"
     ],
     "summary": "川菜郫县豆瓣，辛温调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-sc-pixian",
@@ -54876,7 +55017,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c15-sc-pixian"
     ],
     "summary": "川菜郫县豆瓣，辛温调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "beer",
@@ -55011,7 +55153,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-egg-tart"
     ],
     "summary": "澳门葡式蛋挞，奶香酥皮，控糖适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-mo-egg-tart",
@@ -57832,7 +57975,10 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-qingbuliang"
     ],
     "summary": "海南清补凉糖水，清热解暑。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "清补凉料"
+    ]
   },
   {
     "id": "c13-hi-qingbuliang-base",
@@ -57857,7 +58003,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-hi-qingbuliang-base"
     ],
     "summary": "海南清补凉底料，清热解暑。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "halal-chicken",
@@ -58188,7 +58335,10 @@ const CN_SUPPLEMENT_FOODS = [
       "hb-reganmian"
     ],
     "summary": "武汉热干面，芝麻酱香主食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "热干面（武汉）"
+    ]
   },
   {
     "id": "c13-hb-hot-dry-noodle",
@@ -58213,7 +58363,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-hb-hot-dry-noodle"
     ],
     "summary": "武汉热干面，芝麻酱香主食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-hb-hot-dry",
@@ -58913,7 +59064,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gx-pomelo"
     ],
     "summary": "容县沙田柚，清热化痰。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "amomum",
@@ -63070,7 +63222,8 @@ const CN_SUPPLEMENT_FOODS = [
       "山楂"
     ],
     "summary": "酸甜水果，消食化积，宜煮饮、做糕。",
-    "caution": "胃酸过多、空腹不宜大量；与 homologous hawthorn 为同物。"
+    "caution": "胃酸过多、空腹不宜大量；与 homologous hawthorn 为同物。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hawthorn",
@@ -67252,7 +67405,8 @@ const CN_SUPPLEMENT_FOODS = [
       "siu-mai-hk"
     ],
     "summary": "早茶点心，猪肉虾仁馅。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-shumai",
@@ -67556,7 +67710,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-grouper"
     ],
     "summary": "海南石斑鱼，益气养血。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "dendrobium-gd",
@@ -67888,7 +68043,8 @@ const CN_SUPPLEMENT_FOODS = [
       "nm-mutton-hotpot"
     ],
     "summary": "内蒙古涮羊肉，温阳补虚。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-bj-instant-boil",
@@ -67942,7 +68098,8 @@ const CN_SUPPLEMENT_FOODS = [
       "double-skin-milk"
     ],
     "summary": "水牛奶蒸制甜品。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-hk-milk-pudding",
@@ -68227,7 +68384,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-hk-milk-tea"
     ],
     "summary": "港式丝袜奶茶，提神适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--183",
@@ -70338,7 +70496,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-matsutake"
     ],
     "summary": "云南松茸，益气健脾。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-js-sweet-sour-fish",
@@ -70606,7 +70765,8 @@ const CN_SUPPLEMENT_FOODS = [
       "酸竹笋"
     ],
     "summary": "竹笋发酵腌渍，酸辣开胃，螺蛳粉与酸汤鱼常用。",
-    "caution": "高盐发酵品，高血压者控量；肠胃敏感者少量。"
+    "caution": "高盐发酵品，高血压者控量；肠胃敏感者少量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "bamboo-shoot-sour",
@@ -70636,7 +70796,8 @@ const CN_SUPPLEMENT_FOODS = [
       "bamboo-shoot-sour"
     ],
     "summary": "酸汤调味，开胃消食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-sour-bamboo",
@@ -70665,7 +70826,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-sour-bamboo"
     ],
     "summary": "广西发酵酸笋，开胃消食，胃弱者适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-sour-bamboo-hi",
@@ -70690,7 +70852,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-sour-bamboo-hi"
     ],
     "summary": "海南酸笋，开胃消食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gz-sour-soup-base",
@@ -70996,7 +71159,8 @@ const CN_SUPPLEMENT_FOODS = [
       "chrysanthemum-bud"
     ],
     "summary": "胎菊为清肝明目茶饮，夏令凉茶常用花材。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-chrysanthemum",
@@ -71380,7 +71544,8 @@ const CN_SUPPLEMENT_FOODS = [
       "bullfrog-gd"
     ],
     "summary": "姜蒜爆炒或打边炉。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-river-snail",
@@ -71621,7 +71786,8 @@ const CN_SUPPLEMENT_FOODS = [
       "fj-tea-picking"
     ],
     "summary": "安溪铁观音，温胃茶饮。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-fj-tieguanyin",
@@ -71921,7 +72087,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-sc-rabbit"
     ],
     "summary": "四川兔肉，凉血解毒适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "baby-cabbage",
@@ -72205,7 +72372,10 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-wenchang-chicken"
     ],
     "summary": "海南文昌鸡，温中益气滋补。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "文昌鸡（整只）"
+    ]
   },
   {
     "id": "c13-hi-wenchang-chicken-rx",
@@ -72260,7 +72430,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c15-hi-wenchang"
     ],
     "summary": "海南文昌白切鸡，温中益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-hi-wenchang-soup",
@@ -72384,7 +72555,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-silkie-chicken"
     ],
     "summary": "澳门炖汤乌鸡，滋阴补血。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "oolong-tea",
@@ -72528,7 +72700,8 @@ const CN_SUPPLEMENT_FOODS = [
       "fig-dried"
     ],
     "summary": "无花果干为煲汤润肺清肠的常见汤料。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-gd-fig-dried",
@@ -72713,7 +72886,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-five-flower-tea"
     ],
     "summary": "港式家庭凉茶，清热利湿。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-five-color-rice",
@@ -72791,7 +72965,8 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "aliases": [
       "团头鲂",
-      "缩项鳊"
+      "缩项鳊",
+      "武昌鱼（整尾）"
     ],
     "pinyin": "wuchangyu",
     "initials": "wcy",
@@ -72828,7 +73003,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hb-wuchang-fish"
     ],
     "summary": "湖北武昌鱼，益气健脾。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-hb-wuchang-fish",
@@ -72853,7 +73029,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-hb-wuchang-fish"
     ],
     "summary": "武昌鱼，益气健脾。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-hb-wuchang",
@@ -72878,7 +73055,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c15-hb-wuchang"
     ],
     "summary": "武昌鱼，益气健脾。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "wuhan-duya",
@@ -74224,7 +74402,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-watercress-hk"
     ],
     "summary": "港式西洋菜汤，清热润肺。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "panax-quinquefolius",
@@ -74336,7 +74515,8 @@ const CN_SUPPLEMENT_FOODS = [
       "shrimp-paste-gd"
     ],
     "summary": "咸鲜发酵酱，蒸排骨调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "dim-sum-shrimp",
@@ -74387,7 +74567,8 @@ const CN_SUPPLEMENT_FOODS = [
       "shrimp-dumpling-hk"
     ],
     "summary": "早茶点心，澄粉皮包虾。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-har-gow",
@@ -74530,7 +74711,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-shrimp-roe-hk"
     ],
     "summary": "港式捞面蒸蛋鲜味调料。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-shrimp-roe-mo",
@@ -74555,7 +74737,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-shrimp-roe-mo"
     ],
     "summary": "澳门捞面蒸蛋鲜味调料。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "selfheal-spike",
@@ -74693,7 +74876,8 @@ const CN_SUPPLEMENT_FOODS = [
       "yn-rose-pastry"
     ],
     "summary": "云南玫瑰鲜花饼，适量甜点。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-gd-rose-cake",
@@ -78908,7 +79092,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-almond-cookie"
     ],
     "summary": "澳门香港手信酥饼，适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-mo-almond",
@@ -79155,7 +79340,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-hasma-hk"
     ],
     "summary": "港式滋补糖水，滋阴润燥。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snow-pear-dried",
@@ -79184,7 +79370,8 @@ const CN_SUPPLEMENT_FOODS = [
       "snow-pear-dried"
     ],
     "summary": "润燥汤料，南北杏配伍。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-gd-snow-pear-dried",
@@ -79476,7 +79663,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-duck-blood"
     ],
     "summary": "广西粉店鸭血，凉血解毒适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-sc-duck-blood",
@@ -79633,7 +79821,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-js-salted-duck"
     ],
     "summary": "南京盐水鸭，滋阴清补。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "beef-ribeye-steak",
@@ -79762,7 +79951,8 @@ const CN_SUPPLEMENT_FOODS = [
       "bird-nest-gd"
     ],
     "summary": "滋阴润肺，炖品整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "js-yangzhou-fried-rice",
@@ -79831,7 +80021,9 @@ const CN_SUPPLEMENT_FOODS = [
       "云南",
       "四川"
     ],
-    "aliases": [],
+    "aliases": [
+      "羊肚菌（云南）"
+    ],
     "pinyin": "yangdujun",
     "initials": "ydj",
     "searchTerms": [
@@ -79866,7 +80058,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-morel"
     ],
     "summary": "云南羊肚菌，益气养阴。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-yn-morel",
@@ -79891,7 +80084,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c15-yn-morel"
     ],
     "summary": "云南羊肚菌，益气养阴。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "lamb",
@@ -80026,7 +80220,8 @@ const CN_SUPPLEMENT_FOODS = [
       "sx-yangrou-paomo"
     ],
     "summary": "西安羊肉泡馍，温胃散寒。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-sx-lamb-soup",
@@ -80131,7 +80326,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-red-bayberry"
     ],
     "summary": "岭南杨梅，生津消食适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "starfruit",
@@ -80188,7 +80384,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-starfruit"
     ],
     "summary": "岭南杨桃，清热生津。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-mango-pomelo",
@@ -80335,7 +80532,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-dried-scallop-hk"
     ],
     "summary": "港式汤粥鲜味干货，滋阴调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-dried-scallop-mo",
@@ -80364,7 +80562,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-dried-scallop-mo"
     ],
     "summary": "澳门汤粥鲜味干货，滋阴调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-dried-scallop",
@@ -80393,7 +80592,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-dried-scallop"
     ],
     "summary": "煲汤瑶柱，滋阴鲜味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "coconut-milk",
@@ -80579,7 +80779,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-coconut-hi"
     ],
     "summary": "海南椰子，生津润燥补虚。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-hi-coconut",
@@ -80604,7 +80805,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-hi-coconut"
     ],
     "summary": "海南椰子，生津润燥。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-coconut-rice",
@@ -80952,7 +81154,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-coix"
     ],
     "summary": "煲汤薏米，利湿健脾。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "white-fungus",
@@ -80998,7 +81201,8 @@ const CN_SUPPLEMENT_FOODS = [
     "officialFoodMedicine": true,
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
-    "summary": "国家食药同源目录条目，典型饮食化润养食材，常用于羹汤与甜品。"
+    "summary": "国家食药同源目录条目，典型饮食化润养食材，常用于羹汤与甜品。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-snow-fungus",
@@ -81023,7 +81227,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-snow-fungus"
     ],
     "summary": "炖品银耳，润肺滋阴。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "whitebait",
@@ -81276,7 +81481,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hn-oil-tea"
     ],
     "summary": "广西瑶族油茶，温胃散寒。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-oil-tea",
@@ -81412,7 +81618,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-fried-dough-gx"
     ],
     "summary": "广西早餐油条，偶尔食用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-deep-fried-dough",
@@ -81499,7 +81706,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-squid-hi"
     ],
     "summary": "海南鲜鱿鱼，滋阴补虚。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "pomelo",
@@ -81964,7 +82172,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-taro-gx"
     ],
     "summary": "广西荔浦芋头，健脾益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-taro-hi",
@@ -81989,7 +82198,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-taro-hi"
     ],
     "summary": "海南芋头，健脾益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "taro-cake",
@@ -82046,7 +82256,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-taro-cake-hk"
     ],
     "summary": "港式茶楼芋头糕点心，煎香食用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-taro-cake",
@@ -82071,7 +82282,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-taro-cake"
     ],
     "summary": "粤式芋头糕，健脾益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-taro-pork",
@@ -82250,7 +82462,8 @@ const CN_SUPPLEMENT_FOODS = [
       "cloud-ear-gd"
     ],
     "summary": "岭南云耳，凉拌或煲汤常用菌菇整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--223",
@@ -84706,7 +84919,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hn-chou-doufu"
     ],
     "summary": "湖南发酵豆腐，适量食用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--263",
@@ -86876,7 +87090,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-sesame-paste-mo"
     ],
     "summary": "澳门糖水芝麻糊，补血润肠。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sesame-paste-soup-base",
@@ -86997,7 +87212,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-sc-sesame-paste"
     ],
     "summary": "川式芝麻酱，润肠调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sesame-oil",
@@ -87112,7 +87328,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-mo-pork-chop"
     ],
     "summary": "澳门猪扒，茶餐厅常见蛋白。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-pork-chop-bun",
@@ -87199,7 +87416,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-pork-liver"
     ],
     "summary": "鸡骨草汤经典搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-gd-pork-liver-soup",
@@ -87350,7 +87568,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-pork-shoulder-hk"
     ],
     "summary": "港式老火汤瘦肉部位。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-pork-tendon",
@@ -87379,7 +87598,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-pork-tendon"
     ],
     "summary": "老火汤瘦肉部位。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "bamboo-rat",
@@ -87430,7 +87650,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-bamboo-rat"
     ],
     "summary": "广西特色野味，温补适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "bamboo-fungus",
@@ -87487,7 +87708,8 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-bamboo-pith"
     ],
     "summary": "粤式竹荪，益气养阴。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hi-bamboo-shoot",
@@ -87684,7 +87906,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-chu-hou-hk"
     ],
     "summary": "港式焖炖调味酱。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-chu-hou",
@@ -87709,7 +87932,8 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-chu-hou"
     ],
     "summary": "澳门焖炖柱侯酱，温中调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "zhuang-five-color-rice",
@@ -87925,7 +88149,8 @@ const CN_SUPPLEMENT_FOODS = [
       "hi-seaweed-hi"
     ],
     "summary": "海南紫菜，清热化痰。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "purple-cabbage",
@@ -88108,7 +88333,8 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-sticky-rice-dumpling"
     ],
     "summary": "广西壮乡糯米粽，健脾益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-zj-drunken-chicken",
@@ -88233,7 +88459,8 @@ const CN_SUPPLEMENT_FOODS = [
       "xo-sauce"
     ],
     "summary": "港式海鲜辣味酱，拌面佐餐。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-xo-sauce-hk",
@@ -88286,6 +88513,7 @@ const CN_SUPPLEMENT_FOODS = [
       "mo-xo-sauce"
     ],
     "summary": "澳门港式海鲜辣味酱，拌面佐餐。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   }
 ];

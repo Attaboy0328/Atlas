@@ -104,7 +104,8 @@
       "四川"
     ],
     "aliases": [
-      "郫县豆瓣"
+      "郫县豆瓣",
+      "郫县豆瓣（川菜）"
     ],
     "pinyin": "doubanjiang",
     "initials": "dbj",
@@ -1181,6 +1182,7 @@
       "山楂"
     ],
     "summary": "酸甜水果，消食化积，宜煮饮、做糕。",
-    "caution": "胃酸过多、空腹不宜大量；与 homologous hawthorn 为同物。"
+    "caution": "胃酸过多、空腹不宜大量；与 homologous hawthorn 为同物。",
+    "hiddenFromLibrary": true
   }
 ]

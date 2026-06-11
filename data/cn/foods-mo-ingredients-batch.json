@@ -55,7 +55,8 @@
       "mo-egg-tart"
     ],
     "summary": "澳门葡式蛋挞，奶香酥皮，控糖适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-pork-chop-bun",
@@ -367,7 +368,8 @@
       "mo-dried-scallop-mo"
     ],
     "summary": "澳门汤粥鲜味干货，滋阴调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-dried-oyster-mo",
@@ -396,7 +398,8 @@
       "mo-dried-oyster-mo"
     ],
     "summary": "澳门煲汤海产干货，滋阴养血。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-candied-fruit",
@@ -421,7 +424,8 @@
       "mo-candied-fruit"
     ],
     "summary": "澳门传统蜜饯，生津开胃适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-lotus-paste",
@@ -471,7 +475,8 @@
       "mo-sesame-paste-mo"
     ],
     "summary": "澳门糖水芝麻糊，补血润肠。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-ginger-milk",
@@ -525,7 +530,8 @@
       "mo-tofu-pudding"
     ],
     "summary": "澳门甜或咸豆腐花，清热润燥。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-rice-pudding",
@@ -600,7 +606,8 @@
       "mo-beef-jerky"
     ],
     "summary": "澳门炭烤牛肉干，温补适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-shrimp-roe-mo",
@@ -625,7 +632,8 @@
       "mo-shrimp-roe-mo"
     ],
     "summary": "澳门捞面蒸蛋鲜味调料。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-xo-sauce",
@@ -650,7 +658,8 @@
       "mo-xo-sauce"
     ],
     "summary": "澳门港式海鲜辣味酱，拌面佐餐。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-oyster-sauce-mo",
@@ -675,7 +684,8 @@
       "mo-oyster-sauce-mo"
     ],
     "summary": "澳门炒菜蚝油，提鲜控钠。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-chu-hou",
@@ -700,7 +710,8 @@
       "mo-chu-hou"
     ],
     "summary": "澳门焖炖柱侯酱，温中调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-dried-tangerine",
@@ -725,7 +736,8 @@
       "mo-dried-tangerine"
     ],
     "summary": "澳门冲饮老药桔，理气化痰。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-herbal-tea",
@@ -750,7 +762,8 @@
       "mo-herbal-tea"
     ],
     "summary": "澳门凉茶铺复方，清热祛湿体虚慎用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-silkie-chicken",
@@ -775,7 +788,8 @@
       "mo-silkie-chicken"
     ],
     "summary": "澳门炖汤乌鸡，滋阴补血。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-fish-maw",
@@ -800,7 +814,8 @@
       "mo-fish-maw"
     ],
     "summary": "澳门炖品花胶，滋阴养颜。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-sea-coconut",
@@ -825,7 +840,8 @@
       "mo-sea-coconut"
     ],
     "summary": "澳门润燥汤料海底椰，润肺止咳。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-chenpi-mo",
@@ -854,7 +870,8 @@
       "mo-chenpi-mo"
     ],
     "summary": "澳门汤饮陈皮，理气健脾。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-coconut-milk",
