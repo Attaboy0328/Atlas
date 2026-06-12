@@ -67,7 +67,8 @@
       "naan"
     ],
     "summary": "新疆烤制面饼，咸香耐存，配烤肉或奶茶。",
-    "caution": "小麦制品，麸质过敏者不宜。"
+    "caution": "小麦制品，麸质过敏者不宜。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "yak-meat",

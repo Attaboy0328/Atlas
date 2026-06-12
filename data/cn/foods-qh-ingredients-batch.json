@@ -1,0 +1,727 @@
+[
+  {
+    "id": "qh-yak-yogurt",
+    "name": "青海牦牛酸奶",
+    "en": "青海牦牛酸奶",
+    "category": "发酵食品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "酸奶"
+    ],
+    "pinyin": "qhyakyogurt",
+    "initials": "qh-",
+    "searchTerms": [
+      "青海牦牛酸奶",
+      "酸奶",
+      "qh-yak-yogurt"
+    ],
+    "summary": "青海牦牛酸奶，健脾助消化。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-zanba",
+    "name": "青海糌粑",
+    "en": "青海糌粑",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "糌粑"
+    ],
+    "pinyin": "qhzanba",
+    "initials": "qh-",
+    "searchTerms": [
+      "青海糌粑",
+      "糌粑",
+      "qh-zanba"
+    ],
+    "summary": "青海糌粑，青稞粉主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-lake-fish",
+    "name": "湟鱼",
+    "en": "湟鱼",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "青海湖裸鲤"
+    ],
+    "pinyin": "qhlakefish",
+    "initials": "qh-",
+    "searchTerms": [
+      "湟鱼",
+      "青海湖裸鲤",
+      "qh-lake-fish"
+    ],
+    "summary": "青海湖湟鱼，高蛋白适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-yak-beef",
+    "name": "青海牦牛肉",
+    "en": "青海牦牛肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "牦牛肉"
+    ],
+    "pinyin": "qhyakbeef",
+    "initials": "qh-",
+    "searchTerms": [
+      "青海牦牛肉",
+      "牦牛肉",
+      "qh-yak-beef"
+    ],
+    "summary": "青海牦牛肉，温补气血。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-plateau-lamb",
+    "name": "青海羊肉",
+    "en": "青海羊肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "羊肉"
+    ],
+    "pinyin": "qhplateaulamb",
+    "initials": "qh-",
+    "searchTerms": [
+      "青海羊肉",
+      "羊肉",
+      "qh-plateau-lamb"
+    ],
+    "summary": "青海高原羊肉，温中补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-sweet-ferment",
+    "name": "甜醅",
+    "en": "甜醅",
+    "category": "发酵食品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "甜胚子"
+    ],
+    "pinyin": "qhsweetferment",
+    "initials": "qh-",
+    "searchTerms": [
+      "甜醅",
+      "甜胚子",
+      "qh-sweet-ferment"
+    ],
+    "summary": "青海甜醅，温胃活血少量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-gafanpian",
+    "name": "尕面片",
+    "en": "尕面片",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "面片"
+    ],
+    "pinyin": "qhgafanpian",
+    "initials": "qh-",
+    "searchTerms": [
+      "尕面片",
+      "面片",
+      "qh-gafanpian"
+    ],
+    "summary": "青海尕面片，暖胃汤面。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-oil-pancake",
+    "name": "狗浇尿",
+    "en": "狗浇尿",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "油饼"
+    ],
+    "pinyin": "qhoilpancake",
+    "initials": "qh-",
+    "searchTerms": [
+      "狗浇尿",
+      "油饼",
+      "qh-oil-pancake"
+    ],
+    "summary": "青海薄油饼，节庆面点适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-liangpi",
+    "name": "青海酿皮",
+    "en": "青海酿皮",
+    "category": "主食",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "凉皮"
+    ],
+    "pinyin": "qhliangpi",
+    "initials": "qh-",
+    "searchTerms": [
+      "青海酿皮",
+      "凉皮",
+      "qh-liangpi"
+    ],
+    "summary": "青海酿皮，酸辣凉皮。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-potato-slice",
+    "name": "青海土豆片",
+    "en": "青海土豆片",
+    "category": "薯类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "洋芋片"
+    ],
+    "pinyin": "qhpotatoslice",
+    "initials": "qh-",
+    "searchTerms": [
+      "青海土豆片",
+      "洋芋片",
+      "qh-potato-slice"
+    ],
+    "summary": "青海炒土豆片，家常主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-chaidamu-goji",
+    "name": "柴达木枸杞",
+    "en": "柴达木枸杞",
+    "category": "滋补食材",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "枸杞"
+    ],
+    "pinyin": "qhchaidamugoji",
+    "initials": "qh-",
+    "searchTerms": [
+      "柴达木枸杞",
+      "枸杞",
+      "qh-chaidamu-goji"
+    ],
+    "summary": "柴达木枸杞，滋阴明目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-barley-wine",
+    "name": "互助青稞酒",
+    "en": "互助青稞酒",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "青稞酒"
+    ],
+    "pinyin": "qhbarleywine",
+    "initials": "qh-",
+    "searchTerms": [
+      "互助青稞酒",
+      "青稞酒",
+      "qh-barley-wine"
+    ],
+    "summary": "互助青稞酒，温胃少量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-ledu-garlic",
+    "name": "乐都紫皮大蒜",
+    "en": "乐都紫皮大蒜",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "大蒜"
+    ],
+    "pinyin": "qhledugarlic",
+    "initials": "qh-",
+    "searchTerms": [
+      "乐都紫皮大蒜",
+      "大蒜",
+      "qh-ledu-garlic"
+    ],
+    "summary": "乐都紫皮蒜，温中健胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-menyuan-oil",
+    "name": "门源菜籽油",
+    "en": "门源菜籽油",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "菜籽油"
+    ],
+    "pinyin": "qhmenyuanoil",
+    "initials": "qh-",
+    "searchTerms": [
+      "门源菜籽油",
+      "菜籽油",
+      "qh-menyuan-oil"
+    ],
+    "summary": "门源菜籽油，烹饪用油。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-qilian-mushroom",
+    "name": "祁连黄菇",
+    "en": "祁连黄菇",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "黄菇"
+    ],
+    "pinyin": "qhqilianmushroom",
+    "initials": "qh-",
+    "searchTerms": [
+      "祁连黄菇",
+      "黄菇",
+      "qh-qilian-mushroom"
+    ],
+    "summary": "祁连黄菇，益气健脾。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-xunhua-chili",
+    "name": "循化辣椒",
+    "en": "循化辣椒",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "辣椒"
+    ],
+    "pinyin": "qhxunhuachili",
+    "initials": "qh-",
+    "searchTerms": [
+      "循化辣椒",
+      "辣椒",
+      "qh-xunhua-chili"
+    ],
+    "summary": "循化线辣椒，辛温开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-huangyuan-vinegar",
+    "name": "湟源陈醋",
+    "en": "湟源陈醋",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "陈醋"
+    ],
+    "pinyin": "qhhuangyuanvinegar",
+    "initials": "qh-",
+    "searchTerms": [
+      "湟源陈醋",
+      "陈醋",
+      "qh-huangyuan-vinegar"
+    ],
+    "summary": "湟源陈醋，酸香开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-xining-liangpi",
+    "name": "西宁酿皮",
+    "en": "西宁酿皮",
+    "category": "主食",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "酿皮"
+    ],
+    "pinyin": "qhxiningliangpi",
+    "initials": "qh-",
+    "searchTerms": [
+      "西宁酿皮",
+      "酿皮",
+      "qh-xining-liangpi"
+    ],
+    "summary": "西宁酿皮，酸辣小吃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-brick-tea",
+    "name": "青海砖茶",
+    "en": "青海砖茶",
+    "category": "茶饮",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "茯茶"
+    ],
+    "pinyin": "qhbricktea",
+    "initials": "qh-",
+    "searchTerms": [
+      "青海砖茶",
+      "茯茶",
+      "qh-brick-tea"
+    ],
+    "summary": "青海砖茶，解腻消食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-cold-lamb",
+    "name": "冷吃羊肉",
+    "en": "冷吃羊肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "手抓羊肉"
+    ],
+    "pinyin": "qhcoldlamb",
+    "initials": "qh-",
+    "searchTerms": [
+      "冷吃羊肉",
+      "手抓羊肉",
+      "qh-cold-lamb"
+    ],
+    "summary": "青海手抓羊肉，温补适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-mutton-soup",
+    "name": "羊肉汤",
+    "en": "羊肉汤",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "羊汤"
+    ],
+    "pinyin": "qhmuttonsoup",
+    "initials": "qh-",
+    "searchTerms": [
+      "羊肉汤",
+      "羊汤",
+      "qh-mutton-soup"
+    ],
+    "summary": "青海羊肉汤，暖身补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-highland-barley",
+    "name": "青海青稞",
+    "en": "青海青稞",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "青稞"
+    ],
+    "pinyin": "qhhighlandbarley",
+    "initials": "qh-",
+    "searchTerms": [
+      "青海青稞",
+      "青稞",
+      "qh-highland-barley"
+    ],
+    "summary": "青海青稞，健脾粗粮。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-yak-milk-tea",
+    "name": "青海奶茶",
+    "en": "青海奶茶",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "咸奶茶"
+    ],
+    "pinyin": "qhyakmilktea",
+    "initials": "qh-",
+    "searchTerms": [
+      "青海奶茶",
+      "咸奶茶",
+      "qh-yak-milk-tea"
+    ],
+    "summary": "青海咸奶茶，温胃抗寒。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-dried-yak-meat",
+    "name": "青海风干肉",
+    "en": "青海风干肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "牛肉干"
+    ],
+    "pinyin": "qhdriedyakmeat",
+    "initials": "qh-",
+    "searchTerms": [
+      "青海风干肉",
+      "牛肉干",
+      "qh-dried-yak-meat"
+    ],
+    "summary": "青海风干牦牛肉，高蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "qh-plateau-rapeseed",
+    "name": "高原油菜",
+    "en": "高原油菜",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "青海"
+    ],
+    "aliases": [
+      "菜心"
+    ],
+    "pinyin": "qhplateaurapeseed",
+    "initials": "qh-",
+    "searchTerms": [
+      "高原油菜",
+      "菜心",
+      "qh-plateau-rapeseed"
+    ],
+    "summary": "青海高原油菜，清热润燥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

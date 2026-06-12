@@ -1,0 +1,1021 @@
+[
+  {
+    "id": "xz-butter-tea",
+    "name": "酥油茶",
+    "en": "酥油茶",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "奶茶",
+      "咸茶"
+    ],
+    "pinyin": "xzbuttertea",
+    "initials": "xz-",
+    "searchTerms": [
+      "酥油茶",
+      "奶茶",
+      "咸茶",
+      "xz-butter-tea"
+    ],
+    "summary": "藏式酥油茶，高海拔温胃御寒。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-tsampa",
+    "name": "糌粑",
+    "en": "糌粑",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "青稞糌粑"
+    ],
+    "pinyin": "xztsampa",
+    "initials": "xz-",
+    "searchTerms": [
+      "糌粑",
+      "青稞糌粑",
+      "xz-tsampa"
+    ],
+    "summary": "藏族青稞糌粑，高原主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-yak-beef",
+    "name": "牦牛肉",
+    "en": "牦牛肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "牛肉"
+    ],
+    "pinyin": "xzyakbeef",
+    "initials": "xz-",
+    "searchTerms": [
+      "牦牛肉",
+      "牛肉",
+      "xz-yak-beef"
+    ],
+    "summary": "高原牦牛肉，温补气血。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "xz-yak-butter",
+    "name": "酥油",
+    "en": "酥油",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "黄油"
+    ],
+    "pinyin": "xzyakbutter",
+    "initials": "xz-",
+    "searchTerms": [
+      "酥油",
+      "黄油",
+      "xz-yak-butter"
+    ],
+    "summary": "藏区酥油，温胃润肠高能量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-highland-barley",
+    "name": "藏青稞",
+    "en": "藏青稞",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "青稞"
+    ],
+    "pinyin": "xzhighlandbarley",
+    "initials": "xz-",
+    "searchTerms": [
+      "藏青稞",
+      "青稞",
+      "xz-highland-barley"
+    ],
+    "summary": "西藏青稞，健脾益气粗粮。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-matsutake",
+    "name": "藏松茸",
+    "en": "藏松茸",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "松茸"
+    ],
+    "pinyin": "xzmatsutake",
+    "initials": "xz-",
+    "searchTerms": [
+      "藏松茸",
+      "松茸",
+      "xz-matsutake"
+    ],
+    "summary": "藏区松茸，益气健脾，须煮熟。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-yak-milk-curd",
+    "name": "奶渣",
+    "en": "奶渣",
+    "category": "发酵食品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "曲拉"
+    ],
+    "pinyin": "xzyakmilkcurd",
+    "initials": "xz-",
+    "searchTerms": [
+      "奶渣",
+      "曲拉",
+      "xz-yak-milk-curd"
+    ],
+    "summary": "牦牛奶渣，高蛋白易消化。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-air-dried-meat",
+    "name": "风干牦牛肉",
+    "en": "风干牦牛肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "牛肉干"
+    ],
+    "pinyin": "xzairdriedmeat",
+    "initials": "xz-",
+    "searchTerms": [
+      "风干牦牛肉",
+      "牛肉干",
+      "xz-air-dried-meat"
+    ],
+    "summary": "藏区风干牦牛肉，温补适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-tibetan-mutton",
+    "name": "藏羊肉",
+    "en": "藏羊肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "羊肉"
+    ],
+    "pinyin": "xztibetanmutton",
+    "initials": "xz-",
+    "searchTerms": [
+      "藏羊肉",
+      "羊肉",
+      "xz-tibetan-mutton"
+    ],
+    "summary": "高原藏羊肉，温中补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-highland-potato",
+    "name": "高原土豆",
+    "en": "高原土豆",
+    "category": "薯类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "土豆"
+    ],
+    "pinyin": "xzhighlandpotato",
+    "initials": "xz-",
+    "searchTerms": [
+      "高原土豆",
+      "土豆",
+      "xz-highland-potato"
+    ],
+    "summary": "西藏高原土豆，健脾益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-highland-radish",
+    "name": "高原萝卜",
+    "en": "高原萝卜",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "白萝卜"
+    ],
+    "pinyin": "xzhighlandradish",
+    "initials": "xz-",
+    "searchTerms": [
+      "高原萝卜",
+      "白萝卜",
+      "xz-highland-radish"
+    ],
+    "summary": "藏区萝卜，清热化痰。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-highland-cabbage",
+    "name": "圆白菜",
+    "en": "圆白菜",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "卷心菜"
+    ],
+    "pinyin": "xzhighlandcabbage",
+    "initials": "xz-",
+    "searchTerms": [
+      "圆白菜",
+      "卷心菜",
+      "xz-highland-cabbage"
+    ],
+    "summary": "高原圆白菜，健脾养胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-wild-mushroom",
+    "name": "藏蘑菇",
+    "en": "藏蘑菇",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "野蘑菇"
+    ],
+    "pinyin": "xzwildmushroom",
+    "initials": "xz-",
+    "searchTerms": [
+      "藏蘑菇",
+      "野蘑菇",
+      "xz-wild-mushroom"
+    ],
+    "summary": "藏区野生菌，益气健脾须煮熟。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-ginseng-fruit",
+    "name": "人参果",
+    "en": "人参果",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "香瓜茄"
+    ],
+    "pinyin": "xzginsengfruit",
+    "initials": "xz-",
+    "searchTerms": [
+      "人参果",
+      "香瓜茄",
+      "xz-ginseng-fruit"
+    ],
+    "summary": "西藏人参果，生津润燥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-highland-buckwheat",
+    "name": "高原荞麦",
+    "en": "高原荞麦",
+    "category": "谷物",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "荞麦"
+    ],
+    "pinyin": "xzhighlandbuckwheat",
+    "initials": "xz-",
+    "searchTerms": [
+      "高原荞麦",
+      "荞麦",
+      "xz-highland-buckwheat"
+    ],
+    "summary": "藏区荞麦，健脾降脂。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-tibetan-noodle",
+    "name": "藏面",
+    "en": "藏面",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "牛肉面"
+    ],
+    "pinyin": "xztibetannoodle",
+    "initials": "xz-",
+    "searchTerms": [
+      "藏面",
+      "牛肉面",
+      "xz-tibetan-noodle"
+    ],
+    "summary": "拉萨藏面，日常主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-sweet-tea",
+    "name": "甜茶",
+    "en": "甜茶",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "藏式甜茶"
+    ],
+    "pinyin": "xzsweettea",
+    "initials": "xz-",
+    "searchTerms": [
+      "甜茶",
+      "藏式甜茶",
+      "xz-sweet-tea"
+    ],
+    "summary": "拉萨甜茶，温胃提神。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-barley-wine",
+    "name": "青稞酒",
+    "en": "青稞酒",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "咂酒"
+    ],
+    "pinyin": "xzbarleywine",
+    "initials": "xz-",
+    "searchTerms": [
+      "青稞酒",
+      "咂酒",
+      "xz-barley-wine"
+    ],
+    "summary": "藏区青稞酒，温胃少量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-yak-yogurt",
+    "name": "牦牛酸奶",
+    "en": "牦牛酸奶",
+    "category": "发酵食品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "酸奶"
+    ],
+    "pinyin": "xzyakyogurt",
+    "initials": "xz-",
+    "searchTerms": [
+      "牦牛酸奶",
+      "酸奶",
+      "xz-yak-yogurt"
+    ],
+    "summary": "高原牦牛酸奶，健脾助消化。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-blood-sausage",
+    "name": "血肠",
+    "en": "血肠",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "羊血肠"
+    ],
+    "pinyin": "xzbloodsausage",
+    "initials": "xz-",
+    "searchTerms": [
+      "血肠",
+      "羊血肠",
+      "xz-blood-sausage"
+    ],
+    "summary": "藏式血肠，温补适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-meat-sausage",
+    "name": "灌肠",
+    "en": "灌肠",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "肉肠"
+    ],
+    "pinyin": "xzmeatsausage",
+    "initials": "xz-",
+    "searchTerms": [
+      "灌肠",
+      "肉肠",
+      "xz-meat-sausage"
+    ],
+    "summary": "藏式灌肠，节日食品适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-dried-meat-stew",
+    "name": "腊牛羊肉",
+    "en": "腊牛羊肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "风干肉"
+    ],
+    "pinyin": "xzdriedmeatstew",
+    "initials": "xz-",
+    "searchTerms": [
+      "腊牛羊肉",
+      "风干肉",
+      "xz-dried-meat-stew"
+    ],
+    "summary": "藏区腊牛羊肉，高蛋白适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-tibetan-pork",
+    "name": "藏香猪",
+    "en": "藏香猪",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "香猪"
+    ],
+    "pinyin": "xztibetanpork",
+    "initials": "xz-",
+    "searchTerms": [
+      "藏香猪",
+      "香猪",
+      "xz-tibetan-pork"
+    ],
+    "summary": "林芝藏香猪，滋阴补虚适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-highland-pea",
+    "name": "藏豌豆",
+    "en": "藏豌豆",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "豌豆"
+    ],
+    "pinyin": "xzhighlandpea",
+    "initials": "xz-",
+    "searchTerms": [
+      "藏豌豆",
+      "豌豆",
+      "xz-highland-pea"
+    ],
+    "summary": "高原豌豆，健脾益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-herbal-tea",
+    "name": "藏药茶",
+    "en": "藏药茶",
+    "category": "茶饮",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "药王茶"
+    ],
+    "pinyin": "xzherbaltea",
+    "initials": "xz-",
+    "searchTerms": [
+      "藏药茶",
+      "药王茶",
+      "xz-herbal-tea"
+    ],
+    "summary": "藏区药茶，温胃行气少量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-cheese",
+    "name": "藏奶酪",
+    "en": "藏奶酪",
+    "category": "发酵食品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "干酪"
+    ],
+    "pinyin": "xzcheese",
+    "initials": "xz-",
+    "searchTerms": [
+      "藏奶酪",
+      "干酪",
+      "xz-cheese"
+    ],
+    "summary": "牦牛奶酪，补钙易消化。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-roasted-barley",
+    "name": "炒青稞",
+    "en": "炒青稞",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "炒麦"
+    ],
+    "pinyin": "xzroastedbarley",
+    "initials": "xz-",
+    "searchTerms": [
+      "炒青稞",
+      "炒麦",
+      "xz-roasted-barley"
+    ],
+    "summary": "藏族炒青稞，零食主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-yak-milk",
+    "name": "牦牛奶",
+    "en": "牦牛奶",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "牛奶"
+    ],
+    "pinyin": "xzyakmilk",
+    "initials": "xz-",
+    "searchTerms": [
+      "牦牛奶",
+      "牛奶",
+      "xz-yak-milk"
+    ],
+    "summary": "高原牦牛奶，滋阴补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "xz-wild-berry",
+    "name": "高原浆果",
+    "en": "高原浆果",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "沙棘果"
+    ],
+    "pinyin": "xzwildberry",
+    "initials": "xz-",
+    "searchTerms": [
+      "高原浆果",
+      "沙棘果",
+      "xz-wild-berry"
+    ],
+    "summary": "藏区浆果，生津润燥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-barley-cake",
+    "name": "青稞饼",
+    "en": "青稞饼",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "糌粑饼"
+    ],
+    "pinyin": "xzbarleycake",
+    "initials": "xz-",
+    "searchTerms": [
+      "青稞饼",
+      "糌粑饼",
+      "xz-barley-cake"
+    ],
+    "summary": "藏区青稞饼，便携主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-butter-bun",
+    "name": "酥油馍",
+    "en": "酥油馍",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "油馍"
+    ],
+    "pinyin": "xzbutterbun",
+    "initials": "xz-",
+    "searchTerms": [
+      "酥油馍",
+      "油馍",
+      "xz-butter-bun"
+    ],
+    "summary": "酥油面馍，高能量主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-lamb-ribs",
+    "name": "藏羊排",
+    "en": "藏羊排",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "羊排"
+    ],
+    "pinyin": "xzlambribs",
+    "initials": "xz-",
+    "searchTerms": [
+      "藏羊排",
+      "羊排",
+      "xz-lamb-ribs"
+    ],
+    "summary": "藏区烤羊排，温补气血。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-turnip-stew",
+    "name": "萝卜炖牦牛肉",
+    "en": "萝卜炖牦牛肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "萝卜牛肉"
+    ],
+    "pinyin": "xzturnipstew",
+    "initials": "xz-",
+    "searchTerms": [
+      "萝卜炖牦牛肉",
+      "萝卜牛肉",
+      "xz-turnip-stew"
+    ],
+    "summary": "藏式萝卜炖肉，温胃补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-mushroom-soup",
+    "name": "松茸汤料",
+    "en": "松茸汤料",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "菌汤"
+    ],
+    "pinyin": "xzmushroomsoup",
+    "initials": "xz-",
+    "searchTerms": [
+      "松茸汤料",
+      "菌汤",
+      "xz-mushroom-soup"
+    ],
+    "summary": "藏区菌汤料，益气健脾。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xz-highland-turnip",
+    "name": "蔓菁",
+    "en": "蔓菁",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "西藏"
+    ],
+    "aliases": [
+      "芜菁"
+    ],
+    "pinyin": "xzhighlandturnip",
+    "initials": "xz-",
+    "searchTerms": [
+      "蔓菁",
+      "芜菁",
+      "xz-highland-turnip"
+    ],
+    "summary": "高原蔓菁，健脾消食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

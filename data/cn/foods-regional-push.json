@@ -3051,7 +3051,8 @@
         "hypertension"
       ],
       "confidence": "东北地方肉类扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "venison",

@@ -4,7 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "url";
 import { loadFoodCatalogIds } from "./lib/food-catalog.mjs";
-import { filterRecipeSeedTuples, readRecipeJson } from "./lib/recipe-catalog.mjs";
+import { filterRecipeSeedTuples, mergeAndWriteRecipeJson } from "./lib/recipe-catalog.mjs";
 
 const root = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const outFile = path.join(root, "data", "tcm", "regional-recipes-batch.json");
@@ -169,5 +169,5 @@ const TUPLES = [
 ];
 
 const rows = filterRecipeSeedTuples(TUPLES).map(t).filter(Boolean);
-fs.writeFileSync(outFile, `${JSON.stringify(rows, null, 2)}\n`, "utf8");
-console.log(`regional-recipes-batch.json: ${rows.length} recipes`);
+const total = mergeAndWriteRecipeJson("regional-recipes-batch.json", rows);
+console.log(`regional-recipes-batch.json: +${rows.length} seeded, ${total} total`);

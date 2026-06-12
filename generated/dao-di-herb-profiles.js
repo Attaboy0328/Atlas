@@ -981,7 +981,7 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "mentha-haplocalyx",
+    "canonicalId": "mint",
     "name": "薄荷",
     "linkStatus": "linked",
     "daoDiSystemIds": [
@@ -6049,7 +6049,7 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "lonicera-japonica",
+    "canonicalId": "honeysuckle",
     "name": "金银花",
     "linkStatus": "linked",
     "daoDiSystemIds": [
@@ -7019,7 +7019,7 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "siraitia-fruit",
+    "canonicalId": "luo-han-guo",
     "name": "罗汉果",
     "linkStatus": "linked",
     "daoDiSystemIds": [
@@ -9011,7 +9011,7 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "cinnamon-bark",
+    "canonicalId": "cinnamon",
     "name": "肉桂",
     "linkStatus": "linked",
     "daoDiSystemIds": [
@@ -9297,7 +9297,7 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "amomi-fructus",
+    "canonicalId": "amomum",
     "name": "砂仁",
     "linkStatus": "linked",
     "daoDiSystemIds": [
@@ -9437,7 +9437,7 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "crataegus-pinnatifida",
+    "canonicalId": "hawthorn",
     "name": "山楂",
     "linkStatus": "linked",
     "daoDiSystemIds": [
@@ -10321,7 +10321,7 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "saussurea-involuta",
+    "canonicalId": "c21-xj-tianshan-snow-lotus",
     "name": "天山雪莲",
     "linkStatus": "linked",
     "daoDiSystemIds": [
@@ -11383,7 +11383,7 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "fructus-foeniculi",
+    "canonicalId": "fennel-seed",
     "name": "小茴香",
     "linkStatus": "linked",
     "daoDiSystemIds": [
@@ -12371,7 +12371,7 @@ const DAO_DI_HERB_PROFILES = [
     }
   },
   {
-    "canonicalId": "polygonatum-odoratum",
+    "canonicalId": "polygonatum",
     "name": "玉竹",
     "linkStatus": "linked",
     "daoDiSystemIds": [

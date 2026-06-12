@@ -824,7 +824,8 @@
       "c13-js-sweet-sour"
     ],
     "summary": "江南糖醋小排，开胃下饭。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-js-yangzhou-dumpling",
@@ -1408,7 +1409,8 @@
       "c13-bj-instant-boil"
     ],
     "summary": "北京涮羊肉，温阳补虚。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-bj-peking-duck",
@@ -1514,7 +1516,8 @@
       "c13-tj-goubuli-rx"
     ],
     "summary": "天津狗不理包子，健脾益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-cq-hotpot-rx",
@@ -1876,8 +1879,7 @@
       "c13-gd-longan"
     ],
     "summary": "糖水桂圆，补血安神。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "c13-gd-red-date",
@@ -2443,8 +2445,7 @@
       "c13-gx-liuzhou-snail"
     ],
     "summary": "柳州螺蛳粉用螺，需彻底煮熟。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "c13-gx-bama-pork",

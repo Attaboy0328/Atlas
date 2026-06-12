@@ -1,0 +1,1293 @@
+[
+  {
+    "id": "c22-js-yangcheng-crab",
+    "name": "阳澄湖大闸蟹",
+    "en": "阳澄湖大闸蟹",
+    "category": "海产",
+    "nature": "寒",
+    "effects": [
+      "清热",
+      "清利"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "aliases": [
+      "大闸蟹"
+    ],
+    "pinyin": "c22jsyangchengcrab",
+    "initials": "c22",
+    "searchTerms": [
+      "阳澄湖大闸蟹",
+      "大闸蟹",
+      "c22-js-yangcheng-crab"
+    ],
+    "summary": "阳澄湖大闸蟹，滋阴鲜味适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-js-squirrel-fish",
+    "name": "松鼠桂鱼",
+    "en": "松鼠桂鱼",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "c22jssquirrelfish",
+    "initials": "c22",
+    "searchTerms": [
+      "松鼠桂鱼",
+      "c22-js-squirrel-fish"
+    ],
+    "summary": "苏帮松鼠桂鱼，健脾开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-js-salted-duck",
+    "name": "南京盐水鸭",
+    "en": "南京盐水鸭",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "aliases": [
+      "盐水鸭"
+    ],
+    "pinyin": "c22jssaltedduck",
+    "initials": "c22",
+    "searchTerms": [
+      "南京盐水鸭",
+      "盐水鸭",
+      "c22-js-salted-duck"
+    ],
+    "summary": "南京盐水鸭，滋阴清补。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-js-wuxi-rib",
+    "name": "无锡排骨",
+    "en": "无锡排骨",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "c22jswuxirib",
+    "initials": "c22",
+    "searchTerms": [
+      "无锡排骨",
+      "c22-js-wuxi-rib"
+    ],
+    "summary": "无锡酱排骨，温中补虚适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-js-yangzhou-fried-rice",
+    "name": "扬州炒饭",
+    "en": "扬州炒饭",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "c22jsyangzhoufriedrice",
+    "initials": "c22",
+    "searchTerms": [
+      "扬州炒饭",
+      "c22-js-yangzhou-fried-rice"
+    ],
+    "summary": "扬州蛋炒饭，健脾充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-js-zhenjiang-vinegar",
+    "name": "镇江香醋",
+    "en": "镇江香醋",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "c22jszhenjiangvinegar",
+    "initials": "c22",
+    "searchTerms": [
+      "镇江香醋",
+      "c22-js-zhenjiang-vinegar"
+    ],
+    "summary": "镇江香醋，酸香开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-js-taihu-silverfish",
+    "name": "太湖银鱼",
+    "en": "太湖银鱼",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "c22jstaihusilverfish",
+    "initials": "c22",
+    "searchTerms": [
+      "太湖银鱼",
+      "c22-js-taihu-silverfish"
+    ],
+    "summary": "太湖银鱼，益气补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-js-lion-head",
+    "name": "淮扬狮子头",
+    "en": "淮扬狮子头",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "aliases": [
+      "狮子头"
+    ],
+    "pinyin": "c22jslionhead",
+    "initials": "c22",
+    "searchTerms": [
+      "淮扬狮子头",
+      "狮子头",
+      "c22-js-lion-head"
+    ],
+    "summary": "淮扬清炖狮子头，健脾益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-js-duck-blood-soup",
+    "name": "鸭血粉丝汤",
+    "en": "鸭血粉丝汤",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "c22jsduckbloodsoup",
+    "initials": "c22",
+    "searchTerms": [
+      "鸭血粉丝汤",
+      "c22-js-duck-blood-soup"
+    ],
+    "summary": "南京鸭血粉丝汤，滋阴补血。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-js-sweet-and-sour",
+    "name": "糖醋小排",
+    "en": "糖醋小排",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "c22jssweetandsour",
+    "initials": "c22",
+    "searchTerms": [
+      "糖醋小排",
+      "c22-js-sweet-and-sour"
+    ],
+    "summary": "苏式糖醋小排，开胃下饭。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-js-eel",
+    "name": "无锡酱鳝",
+    "en": "无锡酱鳝",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "c22jseel",
+    "initials": "c22",
+    "searchTerms": [
+      "无锡酱鳝",
+      "c22-js-eel"
+    ],
+    "summary": "无锡酱爆鳝段，温中补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-js-green-tea",
+    "name": "碧螺春",
+    "en": "碧螺春",
+    "category": "茶饮",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江苏"
+    ],
+    "pinyin": "c22jsgreentea",
+    "initials": "c22",
+    "searchTerms": [
+      "碧螺春",
+      "c22-js-green-tea"
+    ],
+    "summary": "洞庭碧螺春，清热生津。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-zj-longjing",
+    "name": "西湖龙井",
+    "en": "西湖龙井",
+    "category": "茶饮",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "aliases": [
+      "龙井"
+    ],
+    "pinyin": "c22zjlongjing",
+    "initials": "c22",
+    "searchTerms": [
+      "西湖龙井",
+      "龙井",
+      "c22-zj-longjing"
+    ],
+    "summary": "西湖龙井，清热生津提神。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-zj-dongpo-pork",
+    "name": "东坡肉",
+    "en": "东坡肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "c22zjdongpopork",
+    "initials": "c22",
+    "searchTerms": [
+      "东坡肉",
+      "c22-zj-dongpo-pork"
+    ],
+    "summary": "杭州东坡肉，温中补虚适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "aliases": [
+      "东坡肉（杭帮）"
+    ]
+  },
+  {
+    "id": "c22-zj-westlake-fish",
+    "name": "西湖醋鱼",
+    "en": "西湖醋鱼",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "c22zjwestlakefish",
+    "initials": "c22",
+    "searchTerms": [
+      "西湖醋鱼",
+      "c22-zj-westlake-fish"
+    ],
+    "summary": "西湖醋鱼，健脾开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-zj-shaoxing-wine",
+    "name": "绍兴黄酒",
+    "en": "绍兴黄酒",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "c22zjshaoxingwine",
+    "initials": "c22",
+    "searchTerms": [
+      "绍兴黄酒",
+      "c22-zj-shaoxing-wine"
+    ],
+    "summary": "绍兴黄酒，温经活血少量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-zj-ningbo-tangyuan",
+    "name": "宁波汤圆",
+    "en": "宁波汤圆",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "c22zjningbotangyuan",
+    "initials": "c22",
+    "searchTerms": [
+      "宁波汤圆",
+      "c22-zj-ningbo-tangyuan"
+    ],
+    "summary": "宁波汤圆，温中健脾。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-zj-jinhua-ham",
+    "name": "金华火腿",
+    "en": "金华火腿",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "c22zjjinhuaham",
+    "initials": "c22",
+    "searchTerms": [
+      "金华火腿",
+      "c22-zj-jinhua-ham"
+    ],
+    "summary": "金华火腿，温补开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-zj-zhoushan-fish",
+    "name": "舟山带鱼",
+    "en": "舟山带鱼",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "c22zjzhoushanfish",
+    "initials": "c22",
+    "searchTerms": [
+      "舟山带鱼",
+      "c22-zj-zhoushan-fish"
+    ],
+    "summary": "舟山带鱼，温补海鲜。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-zj-wenzhou-fishball",
+    "name": "温州鱼丸",
+    "en": "温州鱼丸",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "c22zjwenzhoufishball",
+    "initials": "c22",
+    "searchTerms": [
+      "温州鱼丸",
+      "c22-zj-wenzhou-fishball"
+    ],
+    "summary": "温州鱼丸，益气健脾。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-zj-dongyang-vinegar",
+    "name": "东阳香醋",
+    "en": "东阳香醋",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "c22zjdongyangvinegar",
+    "initials": "c22",
+    "searchTerms": [
+      "东阳香醋",
+      "c22-zj-dongyang-vinegar"
+    ],
+    "summary": "东阳香醋，酸香开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-zj-bamboo-shoot",
+    "name": "安吉竹笋",
+    "en": "安吉竹笋",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "c22zjbambooshoot",
+    "initials": "c22",
+    "searchTerms": [
+      "安吉竹笋",
+      "c22-zj-bamboo-shoot"
+    ],
+    "summary": "安吉春笋，清热化痰。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-zj-waxberry",
+    "name": "仙居杨梅",
+    "en": "仙居杨梅",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "浙江"
+    ],
+    "pinyin": "c22zjwaxberry",
+    "initials": "c22",
+    "searchTerms": [
+      "仙居杨梅",
+      "c22-zj-waxberry"
+    ],
+    "summary": "仙居杨梅，生津止渴。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-sh-xiaolongbao",
+    "name": "南翔小笼包",
+    "en": "南翔小笼包",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "aliases": [
+      "小笼包"
+    ],
+    "pinyin": "c22shxiaolongbao",
+    "initials": "c22",
+    "searchTerms": [
+      "南翔小笼包",
+      "小笼包",
+      "c22-sh-xiaolongbao"
+    ],
+    "summary": "上海小笼包，温胃充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-sh-shengjian",
+    "name": "上海生煎",
+    "en": "上海生煎",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "aliases": [
+      "生煎包"
+    ],
+    "pinyin": "c22shshengjian",
+    "initials": "c22",
+    "searchTerms": [
+      "上海生煎",
+      "生煎包",
+      "c22-sh-shengjian"
+    ],
+    "summary": "上海生煎，香酥主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-sh-braised-pork",
+    "name": "本帮红烧肉",
+    "en": "本帮红烧肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "aliases": [
+      "红烧肉",
+      "红烧肉（本帮）"
+    ],
+    "pinyin": "c22shbraisedpork",
+    "initials": "c22",
+    "searchTerms": [
+      "本帮红烧肉",
+      "红烧肉",
+      "c22-sh-braised-pork"
+    ],
+    "summary": "本帮红烧肉，温中补虚适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-sh-white-cut-chicken",
+    "name": "白斩鸡",
+    "en": "白斩鸡",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "aliases": [
+      "白切鸡"
+    ],
+    "pinyin": "c22shwhitecutchicken",
+    "initials": "c22",
+    "searchTerms": [
+      "白斩鸡",
+      "白切鸡",
+      "c22-sh-white-cut-chicken"
+    ],
+    "summary": "本帮白斩鸡，滋阴清补。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-sh-pickled",
+    "name": "糟卤",
+    "en": "糟卤",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "aliases": [
+      "糟卤汁"
+    ],
+    "pinyin": "c22shpickled",
+    "initials": "c22",
+    "searchTerms": [
+      "糟卤",
+      "糟卤汁",
+      "c22-sh-pickled"
+    ],
+    "summary": "上海糟卤，开胃佐食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-sh-yanduxian",
+    "name": "腌笃鲜",
+    "en": "腌笃鲜",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "c22shyanduxian",
+    "initials": "c22",
+    "searchTerms": [
+      "腌笃鲜",
+      "c22-sh-yanduxian"
+    ],
+    "summary": "本帮腌笃鲜，鲜咸汤品。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-sh-scallion-oil",
+    "name": "葱油拌面",
+    "en": "葱油拌面",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "c22shscallionoil",
+    "initials": "c22",
+    "searchTerms": [
+      "葱油拌面",
+      "c22-sh-scallion-oil"
+    ],
+    "summary": "上海葱油拌面，温胃主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-sh-crab-roe",
+    "name": "蟹粉小笼",
+    "en": "蟹粉小笼",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "c22shcrabroe",
+    "initials": "c22",
+    "searchTerms": [
+      "蟹粉小笼",
+      "c22-sh-crab-roe"
+    ],
+    "summary": "蟹粉小笼，滋阴鲜味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-sh-soup-bun",
+    "name": "灌汤包",
+    "en": "灌汤包",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "上海"
+    ],
+    "pinyin": "c22shsoupbun",
+    "initials": "c22",
+    "searchTerms": [
+      "灌汤包",
+      "c22-sh-soup-bun"
+    ],
+    "summary": "上海灌汤包，温胃小点。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "c22-ah-huizhou-tofu",
+    "name": "徽州毛豆腐",
+    "en": "徽州毛豆腐",
+    "category": "豆制品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "c22ahhuizhoutofu",
+    "initials": "c22",
+    "searchTerms": [
+      "徽州毛豆腐",
+      "c22-ah-huizhou-tofu"
+    ],
+    "summary": "徽州发酵毛豆腐，健脾适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-ah-liuan-gua",
+    "name": "六安瓜片",
+    "en": "六安瓜片",
+    "category": "茶饮",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "安徽"
+    ],
+    "pinyin": "c22ahliuangua",
+    "initials": "c22",
+    "searchTerms": [
+      "六安瓜片",
+      "c22-ah-liuan-gua"
+    ],
+    "summary": "六安瓜片，清热生津。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-hb-wuchang-fish-soup",
+    "name": "武昌鱼羹",
+    "en": "武昌鱼羹",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖北"
+    ],
+    "pinyin": "c22hbwuchangfishsoup",
+    "initials": "c22",
+    "searchTerms": [
+      "武昌鱼羹",
+      "c22-hb-wuchang-fish-soup"
+    ],
+    "summary": "武昌鱼羹，益气健脾。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-hn-changsha-stinky",
+    "name": "长沙臭豆腐",
+    "en": "长沙臭豆腐",
+    "category": "豆制品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "湖南"
+    ],
+    "pinyin": "c22hnchangshastinky",
+    "initials": "c22",
+    "searchTerms": [
+      "长沙臭豆腐",
+      "c22-hn-changsha-stinky"
+    ],
+    "summary": "长沙臭豆腐，开胃适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-jx-poyang-shrimp",
+    "name": "鄱阳湖虾",
+    "en": "鄱阳湖虾",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c22jxpoyangshrimp",
+    "initials": "c22",
+    "searchTerms": [
+      "鄱阳湖虾",
+      "c22-jx-poyang-shrimp"
+    ],
+    "summary": "鄱阳湖河虾，温补肾阳。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-sd-jinan-spring",
+    "name": "章丘大葱",
+    "en": "章丘大葱",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山东"
+    ],
+    "pinyin": "c22sdjinanspring",
+    "initials": "c22",
+    "searchTerms": [
+      "章丘大葱",
+      "c22-sd-jinan-spring"
+    ],
+    "summary": "章丘大葱，辛温通阳。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-henan-spicy-soup",
+    "name": "逍遥镇胡辣汤",
+    "en": "逍遥镇胡辣汤",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河南"
+    ],
+    "pinyin": "c22henanspicysoup",
+    "initials": "c22",
+    "searchTerms": [
+      "逍遥镇胡辣汤",
+      "c22-henan-spicy-soup"
+    ],
+    "summary": "逍遥镇胡辣汤，辛温暖胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-he-tangshan-peanut",
+    "name": "唐山花生",
+    "en": "唐山花生",
+    "category": "坚果种子",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "河北"
+    ],
+    "pinyin": "c22hetangshanpeanut",
+    "initials": "c22",
+    "searchTerms": [
+      "唐山花生",
+      "c22-he-tangshan-peanut"
+    ],
+    "summary": "唐山花生，健脾润肺。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-sx-aged-vinegar",
+    "name": "老陈醋",
+    "en": "老陈醋",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "山西"
+    ],
+    "pinyin": "c22sxagedvinegar",
+    "initials": "c22",
+    "searchTerms": [
+      "老陈醋",
+      "c22-sx-aged-vinegar"
+    ],
+    "summary": "山西老陈醋，酸香开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-sn-qishan-saozi",
+    "name": "岐山臊子",
+    "en": "岐山臊子",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "陕西"
+    ],
+    "pinyin": "c22snqishansaozi",
+    "initials": "c22",
+    "searchTerms": [
+      "岐山臊子",
+      "c22-sn-qishan-saozi"
+    ],
+    "summary": "岐山臊子，酸辣开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-gs-lanzhou-radish",
+    "name": "兰州冬萝卜",
+    "en": "兰州冬萝卜",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "甘肃"
+    ],
+    "pinyin": "c22gslanzhouradish",
+    "initials": "c22",
+    "searchTerms": [
+      "兰州冬萝卜",
+      "c22-gs-lanzhou-radish"
+    ],
+    "summary": "兰州冬萝卜，清热化痰。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-nx-wolfberry-tea",
+    "name": "枸杞芽茶",
+    "en": "枸杞芽茶",
+    "category": "茶饮",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "宁夏"
+    ],
+    "pinyin": "c22nxwolfberrytea",
+    "initials": "c22",
+    "searchTerms": [
+      "枸杞芽茶",
+      "c22-nx-wolfberry-tea"
+    ],
+    "summary": "宁夏枸杞芽茶，滋阴明目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-bj-roast-duck",
+    "name": "北京烤鸭",
+    "en": "北京烤鸭",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "北京"
+    ],
+    "pinyin": "c22bjroastduck",
+    "initials": "c22",
+    "searchTerms": [
+      "北京烤鸭",
+      "c22-bj-roast-duck"
+    ],
+    "summary": "北京烤鸭，滋阴补虚适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-tj-goubuli",
+    "name": "狗不理包子",
+    "en": "狗不理包子",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "天津"
+    ],
+    "pinyin": "c22tjgoubuli",
+    "initials": "c22",
+    "searchTerms": [
+      "狗不理包子",
+      "c22-tj-goubuli"
+    ],
+    "summary": "天津狗不理包子，温胃主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-jl-changbai-ginseng",
+    "name": "长白山野山参",
+    "en": "长白山野山参",
+    "category": "滋补食材",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "吉林"
+    ],
+    "pinyin": "c22jlchangbaiginseng",
+    "initials": "c22",
+    "searchTerms": [
+      "长白山野山参",
+      "c22-jl-changbai-ginseng"
+    ],
+    "summary": "长白山人参，大补元气遵医嘱。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-ln-sea-cucumber",
+    "name": "大连海参",
+    "en": "大连海参",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "辽宁"
+    ],
+    "pinyin": "c22lnseacucumber",
+    "initials": "c22",
+    "searchTerms": [
+      "大连海参",
+      "c22-ln-sea-cucumber"
+    ],
+    "summary": "大连海参，滋阴补肾。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-hlj-wuchang-rice",
+    "name": "五常大米",
+    "en": "五常大米",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "黑龙江"
+    ],
+    "pinyin": "c22hljwuchangrice",
+    "initials": "c22",
+    "searchTerms": [
+      "五常大米",
+      "c22-hlj-wuchang-rice"
+    ],
+    "summary": "五常大米，健脾养胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c22-nm-lamb-hotpot",
+    "name": "涮羊肉",
+    "en": "涮羊肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "内蒙古"
+    ],
+    "pinyin": "c22nmlambhotpot",
+    "initials": "c22",
+    "searchTerms": [
+      "涮羊肉",
+      "c22-nm-lamb-hotpot"
+    ],
+    "summary": "蒙古涮羊肉，温补气血。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

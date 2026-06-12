@@ -12,7 +12,8 @@ export const RECIPE_JSON_SOURCES = [
   "cantonese-recipes-batch.json",
   "regional-recipes-batch.json",
   "regional-recipes-batch2.json",
-  "regional-recipes-batch3.json"
+  "regional-recipes-batch3.json",
+  "regional-recipes-batch4.json"
 ];
 
 export function readRecipeJson(name, fallback = []) {
@@ -117,6 +118,19 @@ export function dedupeRecipeRows(rows, { onSkip } = {}) {
   });
 
   return kept;
+}
+
+/** Merge seed rows into an existing recipe JSON file (by id) and write. */
+export function mergeAndWriteRecipeJson(fileName, newRows) {
+  const filePath = path.join(tcmDir, fileName);
+  const existing = readRecipeJson(fileName, []);
+  const byId = new Map(existing.map((row) => [row.id, row]));
+  newRows.forEach((row) => {
+    if (row?.id) byId.set(row.id, { ...byId.get(row.id), ...row });
+  });
+  const merged = [...byId.values()];
+  fs.writeFileSync(filePath, `${JSON.stringify(merged, null, 2)}\n`, "utf8");
+  return merged.length;
 }
 
 /** Filter seed tuples: [id, name, ...] — skip names or ids already published. */

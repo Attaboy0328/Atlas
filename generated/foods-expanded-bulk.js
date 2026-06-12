@@ -2561,7 +2561,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sand-ginger",
@@ -4615,7 +4616,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "selfheal-spike",
@@ -4669,7 +4671,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "patchouli",
@@ -5392,7 +5395,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "fennel-shoot",
@@ -6093,7 +6097,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "venison",
@@ -26572,7 +26577,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "dendrobium-tiepi",
@@ -26631,7 +26637,8 @@ const EXPANDED_FOODS_BULK = [
     "faNote": "",
     "regulatoryNote": "",
     "sources": [],
-    "safetyNote": ""
+    "safetyNote": "",
+    "hiddenFromLibrary": true
   },
   {
     "id": "baizhu",

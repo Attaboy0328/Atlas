@@ -1,0 +1,34 @@
+[
+  {
+    "term": "酥油茶",
+    "foodId": "xz-butter-tea"
+  },
+  {
+    "term": "糌粑",
+    "foodId": "xz-tsampa"
+  },
+  {
+    "term": "牦牛肉",
+    "foodId": "xz-yak-beef"
+  },
+  {
+    "term": "酥油",
+    "foodId": "xz-yak-butter"
+  },
+  {
+    "term": "藏松茸",
+    "foodId": "xz-matsutake"
+  },
+  {
+    "term": "甜茶",
+    "foodId": "xz-sweet-tea"
+  },
+  {
+    "term": "藏香猪",
+    "foodId": "xz-tibetan-pork"
+  },
+  {
+    "term": "青稞酒",
+    "foodId": "xz-barley-wine"
+  }
+]

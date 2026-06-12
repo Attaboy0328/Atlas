@@ -8472,7 +8472,7 @@
       "大安黄菇娘"
     ],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "registryStatus": "historical"
   },
   {
@@ -9933,8 +9933,8 @@
       "mara-大通藏香猪",
       "大通藏香猪"
     ],
-    "baseFoodId": null,
-    "natureSource": "rule-name",
+    "baseFoodId": "xz-tibetan-pork",
+    "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
   {
@@ -16705,7 +16705,7 @@
       "mara-凤泉薄荷",
       "凤泉薄荷"
     ],
-    "baseFoodId": "mentha-haplocalyx",
+    "baseFoodId": "mint",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -27914,7 +27914,7 @@
       "mara-辉县山楂",
       "辉县山楂"
     ],
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -31772,7 +31772,7 @@
       "mara-绛县山楂",
       "绛县山楂"
     ],
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -53942,7 +53942,7 @@
       "mara-七里坡山楂",
       "七里坡山楂"
     ],
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -61936,7 +61936,7 @@
     "id": "cnipa-邵东玉竹",
     "name": "邵东玉竹",
     "category": "滋补食材",
-    "nature": "寒",
+    "nature": "平",
     "provinces": [
       "CN",
       "湖南"
@@ -61971,7 +61971,7 @@
       "mara-邵东玉竹",
       "邵东玉竹"
     ],
-    "baseFoodId": "polygonatum-odoratum",
+    "baseFoodId": "polygonatum",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -68635,7 +68635,7 @@
       "mara-天宝山山楂",
       "天宝山山楂"
     ],
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -84533,7 +84533,7 @@
       "mara-宜昌木姜子",
       "宜昌木姜子"
     ],
-    "baseFoodId": "wood-ginger",
+    "baseFoodId": "wood-ginger-fruit",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -90230,7 +90230,7 @@
       "mara-泽州红山楂",
       "泽州红山楂"
     ],
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -91982,7 +91982,7 @@
       "mara-长泰砂仁",
       "长泰砂仁"
     ],
-    "baseFoodId": "amomi-fructus",
+    "baseFoodId": "amomum",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -93981,7 +93981,7 @@
       "mara-钟祥皮蛋",
       "钟祥皮蛋"
     ],
-    "baseFoodId": "preserved-egg",
+    "baseFoodId": "century-egg",
     "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
@@ -97755,7 +97755,7 @@
       "daodi-薄荷-道地",
       "薄荷（道地）"
     ],
-    "baseFoodId": "mentha-haplocalyx",
+    "baseFoodId": "mint",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -103674,7 +103674,7 @@
       "daodi-金银花-道地",
       "金银花（道地）"
     ],
-    "baseFoodId": "lonicera-japonica",
+    "baseFoodId": "honeysuckle",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -104840,7 +104840,7 @@
       "daodi-罗汉果-道地",
       "罗汉果（道地）"
     ],
-    "baseFoodId": "siraitia-fruit",
+    "baseFoodId": "luo-han-guo",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -107231,7 +107231,7 @@
       "daodi-肉桂-道地",
       "肉桂（道地）"
     ],
-    "baseFoodId": "cinnamon-bark",
+    "baseFoodId": "cinnamon",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -107583,7 +107583,7 @@
       "daodi-砂仁-道地",
       "砂仁（道地）"
     ],
-    "baseFoodId": "amomi-fructus",
+    "baseFoodId": "amomum",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -107749,7 +107749,7 @@
       "daodi-山楂-道地",
       "山楂（道地）"
     ],
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -110075,7 +110075,7 @@
       "daodi-小茴香-道地",
       "小茴香（道地）"
     ],
-    "baseFoodId": "fructus-foeniculi",
+    "baseFoodId": "fennel-seed",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -111232,7 +111232,7 @@
     "id": "daodi-polygonatum-odoratum-origin",
     "name": "玉竹（道地）",
     "category": "中药材",
-    "nature": "寒",
+    "nature": "平",
     "provinces": [
       "浙江",
       "湖南",
@@ -111252,7 +111252,7 @@
       "daodi-玉竹-道地",
       "玉竹（道地）"
     ],
-    "baseFoodId": "polygonatum-odoratum",
+    "baseFoodId": "polygonatum",
     "giSystems": [],
     "daoDi": {
       "isAuthentic": true,
@@ -112455,7 +112455,7 @@
       "北京烤鸭",
       "mara-北京鸭"
     ],
-    "baseFoodId": null,
+    "baseFoodId": "mara-beijing-pear-p4",
     "giSystems": [
       {
         "system": "cnipa",
@@ -112787,7 +112787,7 @@
       "fetchedAt": "2026-06-12",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
-    "natureSource": "rule-name",
+    "natureSource": "catalog-name",
     "registryStatus": "historical"
   },
   {
@@ -113473,7 +113473,7 @@
       "fetchedAt": "2026-06-12",
       "note": "整理自 registry-manifest 公开名录索引；以登记机关最新公告为准。"
     },
-    "natureSource": "rule-name"
+    "natureSource": "catalog-name"
   },
   {
     "id": "cnipa-xinyang-maojian",
@@ -115860,7 +115860,7 @@
         "mara-泾阳茯茶"
       ]
     },
-    "natureSource": "rule-name",
+    "natureSource": "catalog-name",
     "registryStatus": "historical"
   },
   {
@@ -173366,7 +173366,7 @@
       "中宁枸杞",
       "mara-中宁枸杞"
     ],
-    "baseFoodId": "mara-中宁枸杞",
+    "baseFoodId": "peop-中宁枸杞及其制品",
     "giSystems": [
       {
         "system": "mara",
@@ -178286,7 +178286,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "rule-name",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "从江香猪"
     ]
@@ -179408,7 +179408,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "rule-name",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "丹巴香猪腿"
     ]
@@ -180836,7 +180836,7 @@
     "id": "mara-芳林马蹄",
     "name": "芳林马蹄",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "寒",
     "provinces": [
       "广西"
     ],
@@ -180859,7 +180859,7 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": "c14-gd-water-chestnut",
+    "baseFoodId": "water-chestnut",
     "natureSource": "catalog-id",
     "searchTerms": [
       "芳林马蹄"
@@ -183334,7 +183334,7 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": "siraitia-fruit",
+    "baseFoodId": "luo-han-guo",
     "natureSource": "catalog-id",
     "searchTerms": [
       "桂林罗汉果"
@@ -187591,8 +187591,8 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": null,
-    "natureSource": "rule-name",
+    "baseFoodId": "xz-tibetan-pork",
+    "natureSource": "catalog-id",
     "searchTerms": [
       "嘉黎藏香猪"
     ]
@@ -188021,7 +188021,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "rule-name",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "剑河白香猪"
     ]
@@ -188911,7 +188911,7 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "natureSource": "catalog-id",
     "searchTerms": [
       "靖西大果山楂"
@@ -191231,7 +191231,7 @@
     "id": "mara-荔浦马蹄",
     "name": "荔浦马蹄",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "寒",
     "provinces": [
       "广西"
     ],
@@ -191254,7 +191254,7 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": "c14-gd-water-chestnut",
+    "baseFoodId": "water-chestnut",
     "natureSource": "catalog-id",
     "searchTerms": [
       "荔浦马蹄"
@@ -191881,7 +191881,7 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "natureSource": "catalog-id",
     "searchTerms": [
       "临朐三山峪大山楂"
@@ -192541,7 +192541,7 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": "c13-gx-liuzhou-snail",
+    "baseFoodId": "river-snail",
     "natureSource": "catalog-id",
     "searchTerms": [
       "柳州螺蛳"
@@ -194399,7 +194399,7 @@
     "id": "mara-麦盖提灰枣",
     "name": "麦盖提灰枣",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "provinces": [
       "新疆"
     ],
@@ -194423,7 +194423,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "rule-name",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "麦盖提灰枣"
     ]
@@ -198746,7 +198746,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "祁连黄菇"
     ]
@@ -199801,7 +199801,7 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "natureSource": "catalog-id",
     "searchTerms": [
       "清河山楂"
@@ -201154,8 +201154,8 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": null,
-    "natureSource": "rule-name",
+    "baseFoodId": "xz-tibetan-pork",
+    "natureSource": "catalog-id",
     "searchTerms": [
       "若尔盖藏香猪"
     ]
@@ -204322,7 +204322,7 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "natureSource": "catalog-id",
     "searchTerms": [
       "天峨大果山楂"
@@ -207359,7 +207359,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "rule-name",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "乌审旗皇香猪"
     ]
@@ -209305,7 +209305,7 @@
       "note": "历史登记名录；以绿色食品中心最新公开信息为准。"
     },
     "aliases": [],
-    "baseFoodId": null,
+    "baseFoodId": "mara-xiaozhan-rice-p4",
     "natureSource": "category-default",
     "searchTerms": [
       "小站稻"
@@ -209537,7 +209537,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "rule-name",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "新疆兵团二十九团香梨"
     ]
@@ -223981,7 +223981,7 @@
     "id": "peop-芦山甜茶",
     "name": "芦山甜茶",
     "category": "茶饮",
-    "nature": "凉",
+    "nature": "温",
     "provinces": [
       "CN"
     ],
@@ -223999,8 +223999,8 @@
       "note": "整理自中检协生态原产地公告或 stycd 证书名录。"
     },
     "aliases": [],
-    "baseFoodId": null,
-    "natureSource": "rule-name",
+    "baseFoodId": "xz-sweet-tea",
+    "natureSource": "catalog-id",
     "searchTerms": [
       "芦山甜茶"
     ]
@@ -228388,7 +228388,7 @@
     "id": "peop-羊肉制品",
     "name": "羊肉制品",
     "category": "肉蛋奶",
-    "nature": "热",
+    "nature": "温",
     "provinces": [
       "CN"
     ],

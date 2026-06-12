@@ -758,7 +758,8 @@
       "c15-js-sweet-sour-fish"
     ],
     "summary": "淮扬松鼠桂鱼，酸甜开胃。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-js-wuxi-rib",

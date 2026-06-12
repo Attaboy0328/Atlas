@@ -1909,5 +1909,105 @@ const PAIRING_RULES_ALL = [
     "level": "good",
     "category": "黔式主食",
     "text": "贵阳花溪牛肉粉，温胃暖身，辛辣适量。"
+  },
+  {
+    "ids": [
+      "xj-dapanji",
+      "ginger"
+    ],
+    "title": "大盘鸡与姜",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "新疆大盘鸡配生姜同焖，温中补虚去腥。"
+  },
+  {
+    "ids": [
+      "xj-shouzhuafan",
+      "carrot"
+    ],
+    "title": "手抓饭与胡萝卜",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "羊肉抓饭配胡萝卜丁，温阳补虚主食。"
+  },
+  {
+    "ids": [
+      "xj-lamb-skewer",
+      "cumin"
+    ],
+    "title": "羊肉串与孜然",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "新疆烤羊肉串撒孜然，温补肾阳适量。"
+  },
+  {
+    "ids": [
+      "xz-butter-tea",
+      "barley"
+    ],
+    "title": "酥油茶与糌粑",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "藏式酥油茶拌糌粑，高原抗寒高能量。"
+  },
+  {
+    "ids": [
+      "xz-yak-beef",
+      "carrot"
+    ],
+    "title": "牦牛肉与萝卜",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "牦牛肉炖萝卜，温胃补虚冬季参考。"
+  },
+  {
+    "ids": [
+      "qh-gafanpian",
+      "lamb"
+    ],
+    "title": "尕面片与羊肉",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "青海尕面片羊肉汤，暖胃汤面。"
+  },
+  {
+    "ids": [
+      "c22-js-salted-duck",
+      "ginger"
+    ],
+    "title": "盐水鸭与姜",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "南京盐水鸭配姜醋，滋阴清补开胃。"
+  },
+  {
+    "ids": [
+      "c22-zj-dongpo-pork",
+      "ginger"
+    ],
+    "title": "东坡肉与姜",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "东坡肉配姜葱，温中补虚适量。"
+  },
+  {
+    "ids": [
+      "c22-sh-xiaolongbao",
+      "ginger"
+    ],
+    "title": "小笼包与姜丝醋",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "小笼包蘸姜丝醋，温胃解腻。"
+  },
+  {
+    "ids": [
+      "c21-nm-hand-grab-meat",
+      "ginger"
+    ],
+    "title": "手把肉与姜",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "草原手把肉配姜盐，温补气血冬季。"
   }
 ];

@@ -692,7 +692,7 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
-    "canonicalId": "mentha-haplocalyx",
+    "canonicalId": "mint",
     "name": "薄荷",
     "daoDiRegions": [
       {
@@ -4496,7 +4496,7 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
-    "canonicalId": "lonicera-japonica",
+    "canonicalId": "honeysuckle",
     "name": "金银花",
     "daoDiRegions": [
       {
@@ -5214,7 +5214,7 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
-    "canonicalId": "siraitia-fruit",
+    "canonicalId": "luo-han-guo",
     "name": "罗汉果",
     "daoDiRegions": [
       {
@@ -6642,19 +6642,6 @@ const DAO_DI_REGIONS = [
     "name": "肉桂",
     "daoDiRegions": [
       {
-        "place": "广西玉林",
-        "province": "广西"
-      }
-    ],
-    "sources": [
-      "《中华本草》"
-    ]
-  },
-  {
-    "canonicalId": "cinnamon-bark",
-    "name": "肉桂",
-    "daoDiRegions": [
-      {
         "place": "广西、广东、海南、福建",
         "province": "福建"
       }
@@ -6866,19 +6853,6 @@ const DAO_DI_REGIONS = [
     "name": "砂仁",
     "daoDiRegions": [
       {
-        "place": "广东阳春",
-        "province": "广东"
-      }
-    ],
-    "sources": [
-      "《中国药材志》"
-    ]
-  },
-  {
-    "canonicalId": "amomi-fructus",
-    "name": "砂仁",
-    "daoDiRegions": [
-      {
         "place": "云南、广东",
         "province": "广东"
       }
@@ -6972,19 +6946,6 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "hawthorn",
-    "name": "山楂",
-    "daoDiRegions": [
-      {
-        "place": "山东临朐",
-        "province": "山东"
-      }
-    ],
-    "sources": [
-      "《中华本草》"
-    ]
-  },
-  {
-    "canonicalId": "crataegus-pinnatifida",
     "name": "山楂",
     "daoDiRegions": [
       {
@@ -7603,6 +7564,39 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "saussurea-involuta",
+    "name": "天山雪莲",
+    "daoDiRegions": [
+      {
+        "place": "新疆、西藏、宁夏等地",
+        "province": "西藏"
+      }
+    ],
+    "daoDiSystemIds": [
+      "qinyao",
+      "zangyao",
+      "weiyao",
+      "guanyao",
+      "beiyao",
+      "huaiyao",
+      "huaiyao-huai"
+    ],
+    "daoDiSystems": [
+      "秦药",
+      "藏药",
+      "维药",
+      "关药",
+      "北药",
+      "怀药",
+      "淮药"
+    ],
+    "sources": [
+      "道地药材网整理",
+      "《中国药材志》",
+      "《中华本草》"
+    ]
+  },
+  {
+    "canonicalId": "c21-xj-tianshan-snow-lotus",
     "name": "天山雪莲",
     "daoDiRegions": [
       {
@@ -8390,7 +8384,7 @@ const DAO_DI_REGIONS = [
     ]
   },
   {
-    "canonicalId": "fructus-foeniculi",
+    "canonicalId": "fennel-seed",
     "name": "小茴香",
     "daoDiRegions": [
       {
@@ -9172,19 +9166,6 @@ const DAO_DI_REGIONS = [
   },
   {
     "canonicalId": "polygonatum",
-    "name": "玉竹",
-    "daoDiRegions": [
-      {
-        "place": "湖南邵东",
-        "province": "湖南"
-      }
-    ],
-    "sources": [
-      "《中国药材志》"
-    ]
-  },
-  {
-    "canonicalId": "polygonatum-odoratum",
     "name": "玉竹",
     "daoDiRegions": [
       {

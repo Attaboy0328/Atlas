@@ -238,6 +238,10 @@ function buildFoodSearchSynonymMap() {
     "food-search-synonyms-batch9-hainan.json",
     "food-search-synonyms-batch10-phase4.json",
     "food-search-synonyms-batch11-phase5.json",
+    "food-search-synonyms-batch12.json",
+    "food-search-synonyms-batch12-xj.json",
+    "food-search-synonyms-batch12-xz.json",
+    "food-search-synonyms-batch12-qh.json",
     "origin-search-synonyms.json"
   ].forEach((file) => {
     readJson(file, []).forEach((row) => {
@@ -265,7 +269,8 @@ function loadPairingRulesAll() {
     ...readJson("pairing-rules-extra-batch6.json", []),
     ...readJson("pairing-rules-extra-batch7.json", []),
     ...readJson("pairing-rules-extra-batch8.json", []),
-    ...readJson("pairing-rules-extra-batch9.json", [])
+    ...readJson("pairing-rules-extra-batch9.json", []),
+    ...readJson("pairing-rules-extra-batch10.json", [])
   ];
 }
 

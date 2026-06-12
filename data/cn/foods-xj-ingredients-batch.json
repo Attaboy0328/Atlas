@@ -1,0 +1,1175 @@
+[
+  {
+    "id": "xj-dapanji",
+    "name": "新疆大盘鸡",
+    "en": "新疆大盘鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "大盘鸡"
+    ],
+    "pinyin": "xjdapanji",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆大盘鸡",
+      "大盘鸡",
+      "xj-dapanji"
+    ],
+    "summary": "新疆大盘鸡，土豆鸡肉温中补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-shouzhuafan",
+    "name": "新疆手抓饭",
+    "en": "新疆手抓饭",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "抓饭",
+      "羊肉抓饭"
+    ],
+    "pinyin": "xjshouzhuafan",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆手抓饭",
+      "抓饭",
+      "羊肉抓饭",
+      "xj-shouzhuafan"
+    ],
+    "summary": "新疆羊肉手抓饭，温阳补虚主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-lagman-noodle",
+    "name": "新疆拌面",
+    "en": "新疆拌面",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "拉条子",
+      "过油肉拌面"
+    ],
+    "pinyin": "xjlagmannoodle",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆拌面",
+      "拉条子",
+      "过油肉拌面",
+      "xj-lagman-noodle"
+    ],
+    "summary": "新疆拉条子拌面，筋道饱腹。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-naan-bread",
+    "name": "新疆馕",
+    "en": "新疆馕",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "烤馕",
+      "油馕"
+    ],
+    "pinyin": "xjnaanbread",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆馕",
+      "烤馕",
+      "油馕",
+      "xj-naan-bread"
+    ],
+    "summary": "新疆烤馕，日常主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-samsa",
+    "name": "新疆烤包子",
+    "en": "新疆烤包子",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "烤包子"
+    ],
+    "pinyin": "xjsamsa",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆烤包子",
+      "烤包子",
+      "xj-samsa"
+    ],
+    "summary": "新疆烤包子，羊肉馅面食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-lamb-skewer",
+    "name": "新疆烤羊肉串",
+    "en": "新疆烤羊肉串",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "羊肉串"
+    ],
+    "pinyin": "xjlambskewer",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆烤羊肉串",
+      "羊肉串",
+      "xj-lamb-skewer"
+    ],
+    "summary": "新疆烤羊肉串，温补适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-yogurt-curd",
+    "name": "酸奶疙瘩",
+    "en": "酸奶疙瘩",
+    "category": "发酵食品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "干酪",
+      "奶疙瘩"
+    ],
+    "pinyin": "xjyogurtcurd",
+    "initials": "xj-",
+    "searchTerms": [
+      "酸奶疙瘩",
+      "干酪",
+      "奶疙瘩",
+      "xj-yogurt-curd"
+    ],
+    "summary": "新疆酸奶疙瘩，助消化益生菌。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-hotan-walnut",
+    "name": "和田核桃",
+    "en": "和田核桃",
+    "category": "坚果种子",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "核桃"
+    ],
+    "pinyin": "xjhotanwalnut",
+    "initials": "xj-",
+    "searchTerms": [
+      "和田核桃",
+      "核桃",
+      "xj-hotan-walnut"
+    ],
+    "summary": "和田核桃，补肾温肺。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-turpan-grape",
+    "name": "吐鲁番葡萄",
+    "en": "吐鲁番葡萄",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "葡萄",
+      "无核白"
+    ],
+    "pinyin": "xjturpangrape",
+    "initials": "xj-",
+    "searchTerms": [
+      "吐鲁番葡萄",
+      "葡萄",
+      "无核白",
+      "xj-turpan-grape"
+    ],
+    "summary": "吐鲁番葡萄，补血益气生津。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-hami-melon",
+    "name": "哈密瓜",
+    "en": "哈密瓜",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "甜瓜"
+    ],
+    "pinyin": "xjhamimelon",
+    "initials": "xj-",
+    "searchTerms": [
+      "哈密瓜",
+      "甜瓜",
+      "xj-hami-melon"
+    ],
+    "summary": "哈密瓜，清热解暑生津。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "xj-korla-pear",
+    "name": "库尔勒香梨",
+    "en": "库尔勒香梨",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "香梨"
+    ],
+    "pinyin": "xjkorlapear",
+    "initials": "xj-",
+    "searchTerms": [
+      "库尔勒香梨",
+      "香梨",
+      "xj-korla-pear"
+    ],
+    "summary": "库尔勒香梨，润肺清热。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-ruoqiang-jujube",
+    "name": "若羌红枣",
+    "en": "若羌红枣",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "灰枣"
+    ],
+    "pinyin": "xjruoqiangjujube",
+    "initials": "xj-",
+    "searchTerms": [
+      "若羌红枣",
+      "灰枣",
+      "xj-ruoqiang-jujube"
+    ],
+    "summary": "若羌红枣，补中益气养血。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-cumin-seed",
+    "name": "新疆孜然",
+    "en": "新疆孜然",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "孜然"
+    ],
+    "pinyin": "xjcuminseed",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆孜然",
+      "孜然",
+      "xj-cumin-seed"
+    ],
+    "summary": "新疆孜然，温中行气调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-chili-flake",
+    "name": "新疆辣皮子",
+    "en": "新疆辣皮子",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "干辣椒",
+      "皮牙子辣"
+    ],
+    "pinyin": "xjchiliflake",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆辣皮子",
+      "干辣椒",
+      "皮牙子辣",
+      "xj-chili-flake"
+    ],
+    "summary": "新疆辣皮子，辛温开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-saffron-flower",
+    "name": "新疆红花",
+    "en": "新疆红花",
+    "category": "滋补食材",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "红花"
+    ],
+    "pinyin": "xjsaffronflower",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆红花",
+      "红花",
+      "xj-saffron-flower"
+    ],
+    "summary": "新疆红花，活血调经，遵医嘱。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-dried-apricot",
+    "name": "新疆杏干",
+    "en": "新疆杏干",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "杏脯"
+    ],
+    "pinyin": "xjdriedapricot",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆杏干",
+      "杏脯",
+      "xj-dried-apricot"
+    ],
+    "summary": "新疆杏干，润肺生津。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-raisin",
+    "name": "新疆葡萄干",
+    "en": "新疆葡萄干",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "葡萄干"
+    ],
+    "pinyin": "xjraisin",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆葡萄干",
+      "葡萄干",
+      "xj-raisin"
+    ],
+    "summary": "吐鲁番葡萄干，补血益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-badam",
+    "name": "巴旦木",
+    "en": "巴旦木",
+    "category": "坚果种子",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "扁桃仁"
+    ],
+    "pinyin": "xjbadam",
+    "initials": "xj-",
+    "searchTerms": [
+      "巴旦木",
+      "扁桃仁",
+      "xj-badam"
+    ],
+    "summary": "新疆巴旦木，润肺通便适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-pomegranate",
+    "name": "新疆石榴",
+    "en": "新疆石榴",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "石榴"
+    ],
+    "pinyin": "xjpomegranate",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆石榴",
+      "石榴",
+      "xj-pomegranate"
+    ],
+    "summary": "新疆石榴，生津涩肠适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-dried-fig",
+    "name": "喀什无花果干",
+    "en": "喀什无花果干",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "无花果干"
+    ],
+    "pinyin": "xjdriedfig",
+    "initials": "xj-",
+    "searchTerms": [
+      "喀什无花果干",
+      "无花果干",
+      "xj-dried-fig"
+    ],
+    "summary": "喀什无花果，健脾润肠。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-air-dried-beef",
+    "name": "新疆风干牛肉",
+    "en": "新疆风干牛肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "牛肉干"
+    ],
+    "pinyin": "xjairdriedbeef",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆风干牛肉",
+      "牛肉干",
+      "xj-air-dried-beef"
+    ],
+    "summary": "新疆风干牛肉，高蛋白适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-yili-horse-meat",
+    "name": "伊犁马肉",
+    "en": "伊犁马肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "马肉"
+    ],
+    "pinyin": "xjyilihorsemeat",
+    "initials": "xj-",
+    "searchTerms": [
+      "伊犁马肉",
+      "马肉",
+      "xj-yili-horse-meat"
+    ],
+    "summary": "伊犁马肉，温补气血适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-sanzi",
+    "name": "馓子",
+    "en": "馓子",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "油馓子"
+    ],
+    "pinyin": "xjsanzi",
+    "initials": "xj-",
+    "searchTerms": [
+      "馓子",
+      "油馓子",
+      "xj-sanzi"
+    ],
+    "summary": "新疆油炸馓子，节日点心适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-oil-cake",
+    "name": "油香",
+    "en": "油香",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "油饼"
+    ],
+    "pinyin": "xjoilcake",
+    "initials": "xj-",
+    "searchTerms": [
+      "油香",
+      "油饼",
+      "xj-oil-cake"
+    ],
+    "summary": "回族油香，节庆面点适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-pepper-chicken",
+    "name": "新疆椒麻鸡",
+    "en": "新疆椒麻鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "椒麻鸡"
+    ],
+    "pinyin": "xjpepperchicken",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆椒麻鸡",
+      "椒麻鸡",
+      "xj-pepper-chicken"
+    ],
+    "summary": "新疆椒麻鸡，辛香开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-milk-tea",
+    "name": "新疆奶茶",
+    "en": "新疆奶茶",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "砖茶奶茶"
+    ],
+    "pinyin": "xjmilktea",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆奶茶",
+      "砖茶奶茶",
+      "xj-milk-tea"
+    ],
+    "summary": "新疆砖茶奶茶，温胃抗寒。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-horse-sausage",
+    "name": "马肠子",
+    "en": "马肠子",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "熏马肠"
+    ],
+    "pinyin": "xjhorsesausage",
+    "initials": "xj-",
+    "searchTerms": [
+      "马肠子",
+      "熏马肠",
+      "xj-horse-sausage"
+    ],
+    "summary": "哈萨克马肠子，温补适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-lamb-hoof",
+    "name": "胡辣羊蹄",
+    "en": "胡辣羊蹄",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "羊蹄"
+    ],
+    "pinyin": "xjlambhoof",
+    "initials": "xj-",
+    "searchTerms": [
+      "胡辣羊蹄",
+      "羊蹄",
+      "xj-lamb-hoof"
+    ],
+    "summary": "新疆胡辣羊蹄，胶原蛋白适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-thin-skin-bun",
+    "name": "薄皮包子",
+    "en": "薄皮包子",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "烤包子"
+    ],
+    "pinyin": "xjthinskinbun",
+    "initials": "xj-",
+    "searchTerms": [
+      "薄皮包子",
+      "烤包子",
+      "xj-thin-skin-bun"
+    ],
+    "summary": "南疆薄皮包子，羊肉馅。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-noodle-soup",
+    "name": "新疆丸子汤",
+    "en": "新疆丸子汤",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "牛骨头汤"
+    ],
+    "pinyin": "xjnoodlesoup",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆丸子汤",
+      "牛骨头汤",
+      "xj-noodle-soup"
+    ],
+    "summary": "新疆丸子汤，暖身汤面。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-turnip-lamb",
+    "name": "恰玛古炖羊肉",
+    "en": "恰玛古炖羊肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "芜菁羊肉"
+    ],
+    "pinyin": "xjturniplamb",
+    "initials": "xj-",
+    "searchTerms": [
+      "恰玛古炖羊肉",
+      "芜菁羊肉",
+      "xj-turnip-lamb"
+    ],
+    "summary": "南疆恰玛古炖羊肉，温胃补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-noodle-lung",
+    "name": "新疆面肺子",
+    "en": "新疆面肺子",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "面肺"
+    ],
+    "pinyin": "xjnoodlelung",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆面肺子",
+      "面肺",
+      "xj-noodle-lung"
+    ],
+    "summary": "新疆面肺子，民族风味适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-stir-fried-meat",
+    "name": "新疆过油肉",
+    "en": "新疆过油肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "过油肉"
+    ],
+    "pinyin": "xjstirfriedmeat",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆过油肉",
+      "过油肉",
+      "xj-stir-fried-meat"
+    ],
+    "summary": "新疆过油肉，下饭荤菜。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-flatbread-meat",
+    "name": "馕坑肉",
+    "en": "馕坑肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "坑肉"
+    ],
+    "pinyin": "xjflatbreadmeat",
+    "initials": "xj-",
+    "searchTerms": [
+      "馕坑肉",
+      "坑肉",
+      "xj-flatbread-meat"
+    ],
+    "summary": "馕坑烤肉，温补适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-tomato-noodle",
+    "name": "番茄拌面",
+    "en": "番茄拌面",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "西红柿拌面"
+    ],
+    "pinyin": "xjtomatonoodle",
+    "initials": "xj-",
+    "searchTerms": [
+      "番茄拌面",
+      "西红柿拌面",
+      "xj-tomato-noodle"
+    ],
+    "summary": "新疆番茄拌面，酸甜开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-pilaf-lamb",
+    "name": "南疆碎肉抓饭",
+    "en": "南疆碎肉抓饭",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "碎肉抓饭"
+    ],
+    "pinyin": "xjpilaflamb",
+    "initials": "xj-",
+    "searchTerms": [
+      "南疆碎肉抓饭",
+      "碎肉抓饭",
+      "xj-pilaf-lamb"
+    ],
+    "summary": "南疆碎肉抓饭，温中补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-sour-milk",
+    "name": "新疆老酸奶",
+    "en": "新疆老酸奶",
+    "category": "发酵食品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "酸奶"
+    ],
+    "pinyin": "xjsourmilk",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆老酸奶",
+      "酸奶",
+      "xj-sour-milk"
+    ],
+    "summary": "新疆浓稠酸奶，健脾助消化。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-wheat-flour",
+    "name": "新疆面粉",
+    "en": "新疆面粉",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "高筋粉"
+    ],
+    "pinyin": "xjwheatflour",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆面粉",
+      "高筋粉",
+      "xj-wheat-flour"
+    ],
+    "summary": "新疆优质小麦粉，面食主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-onion",
+    "name": "皮芽子",
+    "en": "皮芽子",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "洋葱"
+    ],
+    "pinyin": "xjonion",
+    "initials": "xj-",
+    "searchTerms": [
+      "皮芽子",
+      "洋葱",
+      "xj-onion"
+    ],
+    "summary": "新疆皮芽子，辛温健胃调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "xj-carrot",
+    "name": "新疆胡萝卜",
+    "en": "新疆胡萝卜",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "新疆"
+    ],
+    "aliases": [
+      "黄萝卜"
+    ],
+    "pinyin": "xjcarrot",
+    "initials": "xj-",
+    "searchTerms": [
+      "新疆胡萝卜",
+      "黄萝卜",
+      "xj-carrot"
+    ],
+    "summary": "新疆胡萝卜，健脾明目。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

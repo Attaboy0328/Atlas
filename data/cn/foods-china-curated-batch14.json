@@ -309,9 +309,7 @@
     ],
     "summary": "杭帮东坡肉，温补控量。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "aliases": [
-      "东坡肉（杭帮）"
-    ]
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-zj-drunken-chicken",
@@ -2381,8 +2379,7 @@
       "c14-gd-water-chestnut"
     ],
     "summary": "粤式马蹄，清热生津。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "c14-gd-lotus-root-fresh",

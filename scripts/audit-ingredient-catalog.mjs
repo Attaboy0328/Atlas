@@ -22,6 +22,9 @@ const INGREDIENT_BATCH_FILES = new Set([
   "foods-mo-ingredients-batch.json",
   "foods-gx-ingredients-batch.json",
   "foods-hainan-ingredients-batch.json",
+  "foods-xj-ingredients-batch.json",
+  "foods-xz-ingredients-batch.json",
+  "foods-qh-ingredients-batch.json",
   "foods-china-curated-batch12.json",
   "foods-china-curated-batch13.json",
   "foods-china-curated-batch14.json",
@@ -30,7 +33,9 @@ const INGREDIENT_BATCH_FILES = new Set([
   "foods-china-curated-batch17.json",
   "foods-china-curated-batch18.json",
   "foods-china-curated-batch19.json",
-  "foods-china-curated-batch20.json"
+  "foods-china-curated-batch20.json",
+  "foods-china-curated-batch21.json",
+  "foods-china-curated-batch22.json"
 ]);
 
 const POOL_BATCH_FILES = new Set([

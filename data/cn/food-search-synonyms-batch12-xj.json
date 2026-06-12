@@ -1,0 +1,50 @@
+[
+  {
+    "term": "大盘鸡",
+    "foodId": "xj-dapanji"
+  },
+  {
+    "term": "手抓饭",
+    "foodId": "xj-shouzhuafan"
+  },
+  {
+    "term": "拉条子",
+    "foodId": "xj-lagman-noodle"
+  },
+  {
+    "term": "馕",
+    "foodId": "xj-naan-bread"
+  },
+  {
+    "term": "烤包子",
+    "foodId": "xj-samsa"
+  },
+  {
+    "term": "羊肉串",
+    "foodId": "xj-lamb-skewer"
+  },
+  {
+    "term": "酸奶疙瘩",
+    "foodId": "xj-yogurt-curd"
+  },
+  {
+    "term": "和田核桃",
+    "foodId": "xj-hotan-walnut"
+  },
+  {
+    "term": "哈密瓜",
+    "foodId": "xj-hami-melon"
+  },
+  {
+    "term": "椒麻鸡",
+    "foodId": "xj-pepper-chicken"
+  },
+  {
+    "term": "新疆奶茶",
+    "foodId": "xj-milk-tea"
+  },
+  {
+    "term": "恰玛古",
+    "foodId": "xj-turnip-lamb"
+  }
+]

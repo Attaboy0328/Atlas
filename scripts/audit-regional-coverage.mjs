@@ -18,6 +18,9 @@ const NEW_BATCH_FILES = [
   "foods-mo-ingredients-batch.json",
   "foods-gx-ingredients-batch.json",
   "foods-hainan-ingredients-batch.json",
+  "foods-xj-ingredients-batch.json",
+  "foods-xz-ingredients-batch.json",
+  "foods-qh-ingredients-batch.json",
   "foods-china-curated-batch12.json",
   "foods-china-curated-batch13.json",
   "foods-china-curated-batch14.json",
@@ -26,7 +29,9 @@ const NEW_BATCH_FILES = [
   "foods-china-curated-batch17.json",
   "foods-china-curated-batch18.json",
   "foods-china-curated-batch19.json",
-  "foods-china-curated-batch20.json"
+  "foods-china-curated-batch20.json",
+  "foods-china-curated-batch21.json",
+  "foods-china-curated-batch22.json"
 ];
 const CURATED_BATCH_FILES = [
   "foods-china-curated-batch12.json",
@@ -37,7 +42,9 @@ const CURATED_BATCH_FILES = [
   "foods-china-curated-batch17.json",
   "foods-china-curated-batch18.json",
   "foods-china-curated-batch19.json",
-  "foods-china-curated-batch20.json"
+  "foods-china-curated-batch20.json",
+  "foods-china-curated-batch21.json",
+  "foods-china-curated-batch22.json"
 ];
 const POOL_BATCH_FILES = [
   "foods-china-regional-batch7.json",
@@ -79,15 +86,28 @@ const recipeFiles = [
   "cantonese-recipes-batch.json",
   "regional-recipes-batch.json",
   "regional-recipes-batch2.json",
-  "regional-recipes-batch3.json"
+  "regional-recipes-batch3.json",
+  "regional-recipes-batch4.json"
 ];
 const allRecipes = recipeFiles.flatMap(readTcmJson);
 const cantoneseRecipes = readTcmJson("cantonese-recipes-batch.json");
 const regionalRecipes = [
   ...readTcmJson("regional-recipes-batch.json"),
   ...readTcmJson("regional-recipes-batch2.json"),
-  ...readTcmJson("regional-recipes-batch3.json")
+  ...readTcmJson("regional-recipes-batch3.json"),
+  ...readTcmJson("regional-recipes-batch4.json")
 ];
+const xjFoods = cnFoods.filter((food) => (food.provinces || []).includes("新疆"));
+const xzFoods = cnFoods.filter((food) => (food.provinces || []).includes("西藏"));
+const qhFoods = cnFoods.filter((food) => (food.provinces || []).includes("青海"));
+const jsFoods = cnFoods.filter((food) => (food.provinces || []).includes("江苏"));
+const zjFoods = cnFoods.filter((food) => (food.provinces || []).includes("浙江"));
+const shFoods = cnFoods.filter((food) => (food.provinces || []).includes("上海"));
+const xjCuisineRecipes = regionalRecipes.filter((r) => r.cuisine === "新疆菜");
+const xzCuisineRecipes = regionalRecipes.filter((r) => r.cuisine === "藏菜");
+const jsCuisineRecipes = regionalRecipes.filter((r) => r.cuisine === "苏菜");
+const zjCuisineRecipes = regionalRecipes.filter((r) => r.cuisine === "浙菜");
+const shCuisineRecipes = regionalRecipes.filter((r) => r.cuisine === "本帮菜");
 const hkCuisineRecipes = [...cantoneseRecipes, ...regionalRecipes].filter((r) => r.cuisine === "港式");
 const moCuisineRecipes = regionalRecipes.filter((r) => r.cuisine === "澳式");
 const gxCuisineRecipes = regionalRecipes.filter((r) => r.cuisine === "桂菜");
@@ -127,8 +147,41 @@ if (poolTemplateRatio > 0.3) {
 if (cantoneseRecipes.length < 118) {
   issues.push(`cantonese-recipes ${cantoneseRecipes.length} < 118`);
 }
-if (regionalRecipes.length < 195) {
-  issues.push(`regional-recipes ${regionalRecipes.length} < 195`);
+if (regionalRecipes.length < 240) {
+  issues.push(`regional-recipes ${regionalRecipes.length} < 240`);
+}
+if (xjFoods.length < 55) {
+  issues.push(`xinjiang-tagged foods ${xjFoods.length} < 55`);
+}
+if (xzFoods.length < 45) {
+  issues.push(`tibet-tagged foods ${xzFoods.length} < 45`);
+}
+if (qhFoods.length < 30) {
+  issues.push(`qinghai-tagged foods ${qhFoods.length} < 30`);
+}
+if (jsFoods.length < 25) {
+  issues.push(`jiangsu-tagged foods ${jsFoods.length} < 25`);
+}
+if (zjFoods.length < 25) {
+  issues.push(`zhejiang-tagged foods ${zjFoods.length} < 25`);
+}
+if (shFoods.length < 20) {
+  issues.push(`shanghai-tagged foods ${shFoods.length} < 20`);
+}
+if (xjCuisineRecipes.length < 10) {
+  issues.push(`新疆菜 recipes ${xjCuisineRecipes.length} < 10`);
+}
+if (xzCuisineRecipes.length < 8) {
+  issues.push(`藏菜 recipes ${xzCuisineRecipes.length} < 8`);
+}
+if (jsCuisineRecipes.length < 4) {
+  issues.push(`苏菜 recipes ${jsCuisineRecipes.length} < 4`);
+}
+if (zjCuisineRecipes.length < 4) {
+  issues.push(`浙菜 recipes ${zjCuisineRecipes.length} < 4`);
+}
+if (shCuisineRecipes.length < 4) {
+  issues.push(`本帮菜 recipes ${shCuisineRecipes.length} < 4`);
 }
 if (lingnanFoods.length < 200) {
   issues.push(`lingnan-tagged foods ${lingnanFoods.length} < 200`);
@@ -164,6 +217,13 @@ if (withRegionalSchema.length < cantoneseRecipes.length + regionalRecipes.length
 console.log("[audit-regional-coverage]");
 console.log(`  CN curated foods: ${cnFoods.length}`);
 console.log(`  lingnan-tagged: ${lingnanFoods.length} (GD ${gdFoods.length}, HK ${hkFoods.length}, HK-only ${hkOnlyFoods.length}, MO ${moFoods.length}, MO-only ${moOnlyFoods.length}, GX ${gxFoods.length}, HI ${hiFoods.length})`);
+console.log(`  northwest-plateau: XJ ${xjFoods.length}, XZ ${xzFoods.length}, QH ${qhFoods.length}`);
+console.log(`  east-china: JS ${jsFoods.length}, ZJ ${zjFoods.length}, SH ${shFoods.length}`);
+console.log(`  新疆菜 recipes: ${xjCuisineRecipes.length}`);
+console.log(`  藏菜 recipes: ${xzCuisineRecipes.length}`);
+console.log(`  苏菜 recipes: ${jsCuisineRecipes.length}`);
+console.log(`  浙菜 recipes: ${zjCuisineRecipes.length}`);
+console.log(`  本帮菜 recipes: ${shCuisineRecipes.length}`);
 console.log(`  港式 recipes: ${hkCuisineRecipes.length}`);
 console.log(`  澳式 recipes: ${moCuisineRecipes.length}`);
 console.log(`  桂菜 recipes: ${gxCuisineRecipes.length}`);

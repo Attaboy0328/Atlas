@@ -22,7 +22,8 @@
       "c17-xz-butter-tea"
     ],
     "summary": "藏式酥油茶，温胃御寒高海拔。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c17-xz-barley-cake",
@@ -47,7 +48,8 @@
       "c17-xz-barley-cake"
     ],
     "summary": "藏区青稞饼，高原主食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c17-xz-yak-meat",
@@ -98,7 +100,8 @@
       "c17-xz-yak-butter"
     ],
     "summary": "藏区酥油，温胃润肠。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c17-xz-highland-barley",
@@ -384,7 +387,8 @@
       "c17-xj-walnut"
     ],
     "summary": "和田核桃，补肾温肺。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c17-xj-sour-milk",
@@ -409,7 +413,8 @@
       "c17-xj-sour-milk"
     ],
     "summary": "新疆酸奶疙瘩，助消化。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c17-nx-tan-lamb",
@@ -571,7 +576,8 @@
       "c17-qh-yak-milk"
     ],
     "summary": "青海牦牛酸奶，健脾助消化。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c17-qh-zanba",
@@ -596,7 +602,8 @@
       "c17-qh-zanba"
     ],
     "summary": "青海糌粑，青稞粉主食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c17-qh-lake-salmon",
@@ -621,7 +628,8 @@
       "c17-qh-lake-salmon"
     ],
     "summary": "青海湖湟鱼，高蛋白适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c17-qh-cordyceps",
@@ -671,7 +679,8 @@
       "c17-qh-barley-wine"
     ],
     "summary": "青海青稞酒，温胃少量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c17-gs-liangpi",

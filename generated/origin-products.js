@@ -14133,6 +14133,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "青海",
+      "xz-tibetan-pork",
       "地理标志",
       "GI"
     ],
@@ -14142,7 +14143,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "xz-tibetan-pork",
     "giSystems": [
       {
         "system": "cnipa",
@@ -23828,7 +23829,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "mentha-haplocalyx",
+      "mint",
       "地理标志",
       "GI"
     ],
@@ -23838,7 +23839,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "mentha-haplocalyx",
+    "baseFoodId": "mint",
     "giSystems": [
       {
         "system": "cnipa",
@@ -39904,7 +39905,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "河南",
-      "crataegus-pinnatifida",
+      "hawthorn",
       "地理标志",
       "GI"
     ],
@@ -39914,7 +39915,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "giSystems": [
       {
         "system": "cnipa",
@@ -45444,7 +45445,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "crataegus-pinnatifida",
+      "hawthorn",
       "地理标志",
       "GI"
     ],
@@ -45454,7 +45455,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "giSystems": [
       {
         "system": "cnipa",
@@ -77216,7 +77217,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "crataegus-pinnatifida",
+      "hawthorn",
       "地理标志",
       "GI"
     ],
@@ -77226,7 +77227,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "giSystems": [
       {
         "system": "cnipa",
@@ -88723,7 +88724,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "邵东玉竹",
     "en": "",
     "category": "滋补食材",
-    "nature": "寒",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],
@@ -88742,7 +88743,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖南",
-      "polygonatum-odoratum",
+      "polygonatum",
       "地理标志",
       "GI"
     ],
@@ -88752,7 +88753,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "polygonatum-odoratum",
+    "baseFoodId": "polygonatum",
     "giSystems": [
       {
         "system": "cnipa",
@@ -98296,7 +98297,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山东",
-      "crataegus-pinnatifida",
+      "hawthorn",
       "地理标志",
       "GI"
     ],
@@ -98306,7 +98307,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "giSystems": [
       {
         "system": "cnipa",
@@ -121068,7 +121069,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "wood-ginger",
+      "wood-ginger-fruit",
       "地理标志",
       "GI"
     ],
@@ -121078,7 +121079,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "wood-ginger",
+    "baseFoodId": "wood-ginger-fruit",
     "giSystems": [
       {
         "system": "cnipa",
@@ -129236,7 +129237,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "山西",
-      "crataegus-pinnatifida",
+      "hawthorn",
       "地理标志",
       "GI"
     ],
@@ -129246,7 +129247,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "giSystems": [
       {
         "system": "cnipa",
@@ -131751,7 +131752,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "福建",
-      "amomi-fructus",
+      "amomum",
       "地理标志",
       "GI"
     ],
@@ -131761,7 +131762,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "amomi-fructus",
+    "baseFoodId": "amomum",
     "giSystems": [
       {
         "system": "cnipa",
@@ -134625,7 +134626,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "湖北",
-      "preserved-egg",
+      "century-egg",
       "地理标志",
       "GI"
     ],
@@ -134635,7 +134636,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "preserved-egg",
+    "baseFoodId": "century-egg",
     "giSystems": [
       {
         "system": "cnipa",
@@ -140175,7 +140176,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "江西",
       "河南等地",
       "河南",
-      "mentha-haplocalyx",
+      "mint",
       "地理标志",
       "GI"
     ],
@@ -140185,7 +140186,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "mentha-haplocalyx",
+    "baseFoodId": "mint",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -148945,7 +148946,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "山东。河南密县",
       "巩县",
       "山东",
-      "lonicera-japonica",
+      "honeysuckle",
       "地理标志",
       "GI"
     ],
@@ -148955,7 +148956,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "lonicera-japonica",
+    "baseFoodId": "honeysuckle",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -150679,7 +150680,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "广药",
       "daodi-罗汉果-道地",
       "广西",
-      "siraitia-fruit",
+      "luo-han-guo",
       "地理标志",
       "GI"
     ],
@@ -150689,7 +150690,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "siraitia-fruit",
+    "baseFoodId": "luo-han-guo",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -154242,7 +154243,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "广东",
       "海南",
       "福建",
-      "cinnamon-bark",
+      "cinnamon",
       "地理标志",
       "GI"
     ],
@@ -154252,7 +154253,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "cinnamon-bark",
+    "baseFoodId": "cinnamon",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -154770,7 +154771,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "云南、广东",
       "云南",
       "广东",
-      "amomi-fructus",
+      "amomum",
       "地理标志",
       "GI"
     ],
@@ -154780,7 +154781,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "amomi-fructus",
+    "baseFoodId": "amomum",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -155016,7 +155017,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "山东",
       "河北等地",
       "河北",
-      "crataegus-pinnatifida",
+      "hawthorn",
       "地理标志",
       "GI"
     ],
@@ -155026,7 +155027,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -158473,7 +158474,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "山西",
       "黑龙江等地",
       "黑龙江",
-      "fructus-foeniculi",
+      "fennel-seed",
       "地理标志",
       "GI"
     ],
@@ -158483,7 +158484,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "fructus-foeniculi",
+    "baseFoodId": "fennel-seed",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -160187,7 +160188,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "玉竹（道地）",
     "en": "",
     "category": "中药材",
-    "nature": "寒",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],
@@ -160219,7 +160220,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "江苏",
       "河南等地",
       "河南",
-      "polygonatum-odoratum",
+      "polygonatum",
       "地理标志",
       "GI"
     ],
@@ -160229,7 +160230,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "tcm-herb",
     "isOriginProduct": true,
-    "baseFoodId": "polygonatum-odoratum",
+    "baseFoodId": "polygonatum",
     "giSystems": [],
     "peop": null,
     "daoDi": {
@@ -163260,6 +163261,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "六安瓜片",
       "国家知识产权局地理标志",
       "安徽",
+      "c22-ah-liuan-gua",
       "地理标志",
       "GI"
     ],
@@ -163269,7 +163271,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "c22-ah-liuan-gua",
     "giSystems": [
       {
         "system": "cnipa",
@@ -225307,7 +225309,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "mara-中宁枸杞",
       "农业农村部农产品地理标志",
       "宁夏",
-      "c17-nx-goji",
+      "peop-中宁枸杞及其制品",
       "地理标志",
       "GI"
     ],
@@ -225317,7 +225319,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "c17-nx-goji",
+    "baseFoodId": "peop-中宁枸杞及其制品",
     "giSystems": [
       {
         "system": "mara",
@@ -236941,7 +236943,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芳林马蹄",
     "en": "",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -236956,7 +236958,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "芳林马蹄",
       "农业农村部农产品地理标志",
       "广西",
-      "c14-gd-water-chestnut",
+      "water-chestnut",
       "地理标志",
       "GI"
     ],
@@ -236966,7 +236968,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "c14-gd-water-chestnut",
+    "baseFoodId": "water-chestnut",
     "giSystems": [
       {
         "system": "mara",
@@ -240813,7 +240815,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "桂林罗汉果",
       "农业农村部农产品地理标志",
       "广西",
-      "siraitia-fruit",
+      "luo-han-guo",
       "地理标志",
       "GI"
     ],
@@ -240823,7 +240825,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "siraitia-fruit",
+    "baseFoodId": "luo-han-guo",
     "giSystems": [
       {
         "system": "mara",
@@ -247458,6 +247460,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "嘉黎藏香猪",
       "农业农村部农产品地理标志",
       "西藏",
+      "xz-tibetan-pork",
       "地理标志",
       "GI"
     ],
@@ -247467,7 +247470,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "xz-tibetan-pork",
     "giSystems": [
       {
         "system": "mara",
@@ -249514,7 +249517,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "靖西大果山楂",
       "农业农村部农产品地理标志",
       "广西",
-      "crataegus-pinnatifida",
+      "hawthorn",
       "地理标志",
       "GI"
     ],
@@ -249524,7 +249527,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "giSystems": [
       {
         "system": "mara",
@@ -253157,7 +253160,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "荔浦马蹄",
     "en": "",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "产地认证"
     ],
@@ -253172,7 +253175,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "荔浦马蹄",
       "农业农村部农产品地理标志",
       "广西",
-      "c14-gd-water-chestnut",
+      "water-chestnut",
       "地理标志",
       "GI"
     ],
@@ -253182,7 +253185,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "c14-gd-water-chestnut",
+    "baseFoodId": "water-chestnut",
     "giSystems": [
       {
         "system": "mara",
@@ -254149,7 +254152,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "临朐三山峪大山楂",
       "农业农村部农产品地理标志",
       "山东",
-      "crataegus-pinnatifida",
+      "hawthorn",
       "地理标志",
       "GI"
     ],
@@ -254159,7 +254162,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "giSystems": [
       {
         "system": "mara",
@@ -255180,7 +255183,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "柳州螺蛳",
       "农业农村部农产品地理标志",
       "广西",
-      "c13-gx-liuzhou-snail",
+      "river-snail",
       "地理标志",
       "GI"
     ],
@@ -255190,7 +255193,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "c13-gx-liuzhou-snail",
+    "baseFoodId": "river-snail",
     "giSystems": [
       {
         "system": "mara",
@@ -258104,7 +258107,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "麦盖提灰枣",
     "en": "",
     "category": "水果",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -264861,6 +264864,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "祁连黄菇",
       "农业农村部农产品地理标志",
       "青海",
+      "qh-qilian-mushroom",
       "地理标志",
       "GI"
     ],
@@ -264870,7 +264874,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "qh-qilian-mushroom",
     "giSystems": [
       {
         "system": "mara",
@@ -266513,7 +266517,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "清河山楂",
       "农业农村部农产品地理标志",
       "河北",
-      "crataegus-pinnatifida",
+      "hawthorn",
       "地理标志",
       "GI"
     ],
@@ -266523,7 +266527,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "giSystems": [
       {
         "system": "mara",
@@ -268625,6 +268629,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "若尔盖藏香猪",
       "农业农村部农产品地理标志",
       "四川",
+      "xz-tibetan-pork",
       "地理标志",
       "GI"
     ],
@@ -268634,7 +268639,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "xz-tibetan-pork",
     "giSystems": [
       {
         "system": "mara",
@@ -273571,7 +273576,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "天峨大果山楂",
       "农业农村部农产品地理标志",
       "广西",
-      "crataegus-pinnatifida",
+      "hawthorn",
       "地理标志",
       "GI"
     ],
@@ -273581,7 +273586,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "crataegus-pinnatifida",
+    "baseFoodId": "hawthorn",
     "giSystems": [
       {
         "system": "mara",
@@ -305217,7 +305222,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "芦山甜茶",
     "en": "",
     "category": "茶饮",
-    "nature": "凉",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -305232,6 +305237,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "芦山甜茶",
       "生态原产地保护产品",
       "CN",
+      "xz-sweet-tea",
       "地理标志",
       "GI",
       "PEOP",
@@ -305243,7 +305249,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "xz-sweet-tea",
     "giSystems": [],
     "peop": {
       "status": "protected",
@@ -313009,7 +313015,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "羊肉制品",
     "en": "",
     "category": "肉蛋奶",
-    "nature": "热",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],

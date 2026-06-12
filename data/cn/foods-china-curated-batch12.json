@@ -177,9 +177,7 @@
     ],
     "summary": "上海本帮红烧肉，温补但高脂控量。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "aliases": [
-      "红烧肉（本帮）"
-    ]
+    "hiddenFromLibrary": true
   },
   {
     "id": "sh-cifantuan",
@@ -254,7 +252,8 @@
       "sh-yan-duxian"
     ],
     "summary": "上海春笋咸肉汤，鲜爽开胃。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "tj-goubuli",
@@ -693,7 +692,8 @@
       "hn-chou-doufu"
     ],
     "summary": "湖南发酵豆腐，适量食用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hn-yangroufen",
@@ -1078,7 +1078,8 @@
       "zj-west-lake-fish"
     ],
     "summary": "杭帮菜西湖醋鱼，酸甜开胃。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "zj-dongpo-pork-zj",
@@ -1180,7 +1181,8 @@
       "js-yangzhou-fried-rice"
     ],
     "summary": "淮扬炒饭，日常主食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "js-lion-head",
@@ -2166,7 +2168,8 @@
       "gs-sweet-fermented"
     ],
     "summary": "青海甘肃甜醅，发酵糯米饮。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "ln-guobaorou",
