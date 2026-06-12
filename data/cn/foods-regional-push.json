@@ -1279,7 +1279,8 @@
         "tubixie"
       ],
       "confidence": "岭南汤料与中药材检索扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "sand-ginger",
@@ -2312,7 +2313,8 @@
         "huangtoucao"
       ],
       "confidence": "岭南凉茶药膳材料扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "selfheal-spike",
@@ -2339,7 +2341,8 @@
         "bangchuicao"
       ],
       "confidence": "粤港澳凉茶原料扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "patchouli",
@@ -2706,7 +2709,8 @@
         "tiaobanzicai"
       ],
       "confidence": "沿海海藻扩充条目"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "fennel-shoot",

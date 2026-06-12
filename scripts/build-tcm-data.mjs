@@ -13,6 +13,11 @@ import {
   normalizeRecipeFoodIds,
   root
 } from "./lib/food-catalog.mjs";
+import {
+  dedupeRecipeRows,
+  readRecipeJson,
+  RECIPE_JSON_SOURCES
+} from "./lib/recipe-catalog.mjs";
 
 const tcmDir = path.join(root, "data", "tcm");
 const cnDir = path.join(root, "data", "cn");
@@ -74,26 +79,13 @@ rawHerbs.map(normalizeHerb).forEach((herb) => {
 
 herbs.sort((a, b) => a.name.localeCompare(b.name, "zh-CN"));
 
-function collectPublishedRecipeNames(handcraftedList) {
-  const names = new Set();
-  handcraftedList.forEach((item) => names.add(item.name));
-  return names;
-}
-
 const catalog = loadFoodCatalogIds();
 const aliasMap = loadFoodIdAliasMap();
-const rawHandcrafted = [
-  ...readJson("handcrafted-recipes.json", []),
-  ...readJson("handcrafted-recipes-batch2.json", []),
-  ...readJson("handcrafted-recipes-batch3.json", []),
-  ...readJson("cantonese-recipes-batch.json", []),
-  ...readJson("regional-recipes-batch.json", []),
-  ...readJson("regional-recipes-batch2.json", []),
-  ...readJson("regional-recipes-batch3.json", [])
-];
+const rawHandcrafted = RECIPE_JSON_SOURCES.flatMap((file) => readRecipeJson(file, []));
 
 const classicOverlay = readJson("classic-diet-regional-overlay.json", {}).byName || {};
-const handcraftedRecipes = rawHandcrafted
+const normalizedHandcrafted = rawHandcrafted
+  .filter((item) => !item.hiddenFromLibrary)
   .map((item) => {
     const foodIds = normalizeRecipeFoodIds(item.foodIds || [], catalog, aliasMap);
     if (foodIds.length < 1) {
@@ -108,7 +100,10 @@ const handcraftedRecipes = rawHandcrafted
     };
   })
   .filter(Boolean);
-const publishedNames = collectPublishedRecipeNames(rawHandcrafted);
+const handcraftedRecipes = dedupeRecipeRows(normalizedHandcrafted, {
+  onSkip: (item, reason) => console.warn(`Skip recipe "${item.name}" (${item.id}): ${reason}`)
+});
+const publishedNames = new Set(handcraftedRecipes.map((item) => item.name));
 const rawClassic = [
   ...readJson("classic-diet-recipes.json"),
   ...readJson("classic-diet-recipes-batch2.json", []),

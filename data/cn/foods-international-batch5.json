@@ -426,7 +426,8 @@
       "赤紫苏"
     ],
     "summary": "日式料理常见香草，配鱼生、天妇罗与腌渍。",
-    "caution": "气虚表虚多汗者不宜过量。"
+    "caution": "气虚表虚多汗者不宜过量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "olive-oil",

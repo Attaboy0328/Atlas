@@ -22,7 +22,8 @@
       "c15-gd-chicken-feet-soup"
     ],
     "summary": "岭南鸡骨草，清热利湿，夏令汤料。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-gd-pork-liver-soup",
@@ -110,7 +111,8 @@
       "c15-gd-dried-longan"
     ],
     "summary": "煲汤糖水桂圆，补血安神。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-gd-snow-pear-dried",
@@ -243,7 +245,8 @@
       "c15-gd-poria"
     ],
     "summary": "健脾祛湿汤料，宁心安神。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-gd-adzuki",
@@ -268,7 +271,8 @@
       "c15-gd-adzuki"
     ],
     "summary": "祛湿糖水赤小豆，健脾利水。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-hk-dried-scallop",
@@ -779,7 +783,8 @@
       "c15-js-wuxi-rib"
     ],
     "summary": "江南糖醋排骨，开胃下饭。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-hn-stinky-tofu",
@@ -1139,7 +1144,8 @@
       "c15-bj-roast-duck"
     ],
     "summary": "北京烤鸭，滋阴补虚适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c15-sh-hairy-crab",

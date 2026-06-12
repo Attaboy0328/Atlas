@@ -638,6 +638,7 @@ function mergeRecipeBundles() {
   RECIPES = [];
   const handcrafted = typeof HANDCRAFTED_RECIPES !== "undefined" ? HANDCRAFTED_RECIPES : [];
   handcrafted.forEach((item) => {
+    if (item.hiddenFromLibrary) return;
     RECIPES.push({
       ...item,
       sources: item.sources?.length ? item.sources : (RECIPE_CLASSIC_SOURCES[item.id] || []),

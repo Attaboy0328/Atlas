@@ -29,7 +29,8 @@
         "medication"
       ],
       "summary": "肉苁蓉多见于补肾、润肠类传统食养语境，不宜当作普通调味料长期随意叠加。"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "dendrobium-tiepi",
@@ -62,7 +63,8 @@
         "medication"
       ],
       "summary": "铁皮石斛是石斛类中常见的细分称呼，传统上多放在养阴、生津、清润的食养框架里。"
-    }
+    },
+    "hiddenFromLibrary": true
   },
   {
     "id": "baizhu",

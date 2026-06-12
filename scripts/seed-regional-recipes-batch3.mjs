@@ -4,6 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "url";
 import { loadFoodCatalogIds } from "./lib/food-catalog.mjs";
+import { filterRecipeSeedTuples } from "./lib/recipe-catalog.mjs";
 
 const root = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const outFile = path.join(root, "data", "tcm", "regional-recipes-batch3.json");
@@ -68,7 +69,6 @@ const TUPLES = [
   ["gd-boat-congee-lite", "艇仔粥", "平", ["胃阴虚", "气血不足"], ["rice", "fish", "ginger"], ["广东"], "粤菜", "健脾养胃", ["夏", "秋"], "广州粥品", ["大米 50 克", "鱼片 50 克", "姜丝"], ["煮粥至稠", "下鱼片"], "暑湿食欲差时易消化。"],
   ["gd-salt-chicken-lite", "盐焗鸡手撕", "温", ["脾阳虚", "胃气虚"], ["chicken", "ginger"], ["广东"], "粤菜", "温中益气", ["四季"], "客家名菜", ["鸡腿 2 只", "粗盐适量"], ["盐焗至熟", "手撕食用"], "体虚畏寒时，控盐适量。"],
   ["gd-chenpi-duck-soup", "陈皮鸭汤", "温", ["脾胃气滞", "痰湿内阻"], ["duck", "chenpi-dried", "ginger"], ["广东"], "粤菜", "理气化痰", ["秋", "冬"], "粤式炖品", ["鸭肉 300 克", "陈皮 5 克"], ["鸭肉焯水", "炖 60 分钟"], "油腻后理气开胃，阴虚慎用。"],
-  ["gd-five-finger-pork", "五指毛桃排骨汤", "平", ["脾虚湿困", "气血不足"], ["pork", "ginger"], ["广东"], "粤菜", "健脾祛湿", ["夏", "秋"], "岭南汤料", ["排骨 250 克", "五指毛桃 20 克"], ["排骨焯水", "炖 90 分钟"], "身重困倦、湿气偏重时。"],
   ["gd-qingyuan-chicken-soup", "清远鸡清炖", "温", ["脾气虚", "气血不足"], ["chicken", "ginger", "red-dates"], ["广东"], "粤菜", "益气补虚", ["四季"], "白切鸡方向", ["清远鸡半只", "红枣 3 枚"], ["清水炖 40 分钟"], "病后调养、乏力少气时。"],
   ["gd-winter-melon-soup", "冬瓜盅", "凉", ["湿热内蕴", "暑湿"], ["winter-melon", "pork", "ginger"], ["广东"], "粤菜", "清热利湿", ["夏"], "粤式夏汤", ["冬瓜 500 克", "瘦肉 100 克"], ["冬瓜挖盅", "炖 45 分钟"], "暑热烦渴、身重时。"],
   ["gd-dried-scallop-porridge", "瑶柱瘦肉粥", "平", ["胃气虚", "肾阴虚"], ["rice", "pork", "ginger"], ["广东"], "粤菜", "滋阴养胃", ["秋"], "粤式生滚粥", ["大米 50 克", "瑶柱 10 克"], ["煮粥至稠", "下瘦肉片"], "口干胃弱时清淡粥品。"],
@@ -81,7 +81,6 @@ const TUPLES = [
   ["cq-wanzhou-fish-lite", "万州烤鱼少辣版", "热", ["湿热内蕴", "脾胃气滞"], ["fish", "ginger", "scallion"], ["重庆"], "渝菜", "开胃祛湿", ["夏"], "渝菜名菜", ["草鱼 1 条", "姜丝", "葱段"], ["烤制后少辣调味"], "湿重胃口差时，胃热减量。"],
   ["cq-sour-noodle-clear", "酸辣粉清汤版", "温", ["脾胃气滞", "寒湿困脾"], ["rice", "vinegar", "ginger"], ["重庆"], "渝菜", "开胃暖身", ["冬"], "重庆小吃", ["红薯粉 150 克", "陈醋少许"], ["清汤煮粉", "少辣调味"], "冬季暖胃，胃弱者减量。"],
   ["cq-hotpot-beef-lite", "毛肚清汤涮", "温", ["脾阳虚", "气血不足"], ["beef", "ginger", "scallion"], ["重庆"], "渝菜", "温补高蛋白", ["冬"], "火锅涮品", ["毛肚 150 克", "清汤锅底"], ["快速涮熟食用"], "冬季补充蛋白，高嘌呤控量。"],
-  ["yn-stone-pot-chicken", "汽锅鸡", "平", ["脾气虚", "气血不足"], ["chicken", "ginger"], ["云南"], "滇菜", "益气补虚", ["四季"], "云南名菜", ["土鸡半只", "生姜 3 片"], ["汽锅蒸 2 小时"], "体虚乏力、病后调养时。"],
   ["yn-rushan-honey", "乳扇配蜂蜜", "平", ["肠燥便秘", "气血不足"], ["honey"], ["云南"], "滇菜", "润肠补益", ["秋"], "大理小吃", ["乳扇 2 片", "蜂蜜 1 汤匙"], ["烤香乳扇", "蘸蜂蜜"], "便秘口干时适量甜品。"],
   ["yn-pineapple-rice-lite", "菠萝饭", "平", ["脾气虚", "食积"], ["rice", "pineapple"], ["云南"], "滇菜", "健脾开胃", ["夏"], "傣味主食", ["糯米饭 150 克", "菠萝 半个"], ["菠萝挖瓤", "糯米饭蒸制"], "暑季开胃主食，控糖。"],
   ["yn-mengzi-noodle-soup", "蒙自米线清汤", "平", ["胃气虚", "脾气虚"], ["rice", "pork", "ginger"], ["云南"], "滇菜", "养胃益气", ["四季"], "云南米线", ["米线 150 克", "瘦肉片 50 克"], ["清汤煮米线"], "日常易消化主食。"],
@@ -94,7 +93,7 @@ const TUPLES = [
   ["gz-kaili-sour-soup", "凯里酸汤火锅", "温", ["湿热内蕴", "脾胃气滞"], ["lamb", "ginger", "scallion"], ["贵州"], "黔菜", "开胃祛湿", ["夏"], "苗家酸汤", ["肉片 150 克", "酸汤 500 毫升"], ["酸汤煮开", "涮肉食用"], "暑湿身重时，胃热减量。"]
 ];
 
-const rows = TUPLES.map(t).filter(Boolean);
+const rows = filterRecipeSeedTuples(TUPLES).map(t).filter(Boolean);
 fs.mkdirSync(path.dirname(outFile), { recursive: true });
 fs.writeFileSync(outFile, `${JSON.stringify(rows, null, 2)}\n`, "utf8");
 console.log(`regional-recipes-batch3.json: ${rows.length} recipes`);

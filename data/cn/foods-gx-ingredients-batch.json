@@ -239,7 +239,8 @@
       "gx-river-snail"
     ],
     "summary": "广西河螺，清热利湿，需彻底煮熟。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-pomelo-gx",
@@ -668,7 +669,8 @@
       "gx-monk-fruit-gx"
     ],
     "summary": "广西永福罗汉果，润肺利咽。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-star-anise-gx",
@@ -722,7 +724,8 @@
       "gx-cassia-gx"
     ],
     "summary": "广西肉桂，温阳散寒调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-taro-gx",
@@ -777,7 +780,8 @@
       "gx-water-spinach-gx"
     ],
     "summary": "广西夏季空心菜，清热通肠。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-bitter-melon-gx",
@@ -806,7 +810,8 @@
       "gx-bitter-melon-gx"
     ],
     "summary": "广西苦瓜，清热解暑降火。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-preserved-lemon",

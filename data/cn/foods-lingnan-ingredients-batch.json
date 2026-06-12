@@ -275,7 +275,8 @@
       "foxnut"
     ],
     "summary": "健脾祛湿，糖水与煲汤常用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "rush-root",
@@ -554,7 +555,8 @@
       "smilax-glabra-root"
     ],
     "summary": "清热利湿解毒，岭南汤料。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sandalwood-berry",
@@ -1811,7 +1813,8 @@
       "yellow-croaker-gd"
     ],
     "summary": "清蒸煎焗常见海鱼。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "grouper-gd",
@@ -2865,7 +2868,8 @@
       "honeysuckle-gd"
     ],
     "summary": "清热解毒凉茶原料。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "chrysanthemum-bud",
@@ -2924,7 +2928,8 @@
       "selfheal-spike"
     ],
     "summary": "清肝明目，凉茶常用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "monk-fruit-gd",
@@ -2954,7 +2959,8 @@
       "monk-fruit-gd"
     ],
     "summary": "润肺止咳代茶饮。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cordyceps-flower-gd",
@@ -3104,7 +3110,8 @@
       "dendrobium-gd"
     ],
     "summary": "养阴生津，瘦肉汤。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "american-ginseng-gd",

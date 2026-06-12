@@ -1,12 +1,243 @@
 [
-  {"id":"yam-poria-porridge","name":"山药茯苓粥","nature":"平","syndromes":["脾气虚","痰湿困脾"],"foodIds":["yam","poria","rice"],"subtitle":"健脾渗湿","ingredients":["山药 80 克","茯苓 12 克","大米 80 克"],"steps":["山药切块","与茯苓、大米同煮至软烂"],"note":"适合食欲差、便溏、体倦乏力者。"},
-  {"id":"astragalus-chicken-soup","name":"黄芪炖鸡汤","nature":"温","syndromes":["脾气虚","肺气虚"],"foodIds":["astragalus","chicken","ginger"],"subtitle":"益气补虚","ingredients":["黄芪 15 克","鸡肉 300 克","生姜 3 片"],"steps":["鸡肉焯水","与黄芪、生姜同炖 1 小时"],"note":"感冒发热、实热证不宜。"},
-  {"id":"coix-redbean-soup","name":"薏米赤小豆汤","nature":"凉","syndromes":["湿热内蕴","水肿"],"foodIds":["coix-seed","adzuki-bean"],"subtitle":"清热利湿","ingredients":["薏米 40 克","赤小豆 30 克"],"steps":["浸泡 2 小时","煮至豆烂"],"note":"孕妇、阳虚怕冷者慎用薏米。"},
-  {"id":"white-fungus-pear-soup","name":"银耳炖雪梨","nature":"凉","syndromes":["肺阴虚","燥咳"],"foodIds":["white-fungus","pear"],"subtitle":"润肺生津","ingredients":["银耳 10 克","雪梨 1 个"],"steps":["银耳泡发","与雪梨同炖 30 分钟"],"note":"脾胃虚寒、风寒咳嗽不宜。"},
-  {"id":"chenpi-ginger-tea","name":"陈皮姜茶","nature":"温","syndromes":["胃寒","痰湿困脾"],"foodIds":["chenpi","ginger"],"subtitle":"温胃化湿","ingredients":["陈皮 5 克","生姜 3 片","清水 500 ml"],"steps":["同煮 12 分钟","温热饮用"],"note":"阴虚口干者少量。"},
-  {"id":"lotus-yam-soup","name":"莲子山药羹","nature":"平","syndromes":["心脾两虚","脾气虚"],"foodIds":["lotus-seed","yam","jujube"],"subtitle":"健脾养心","ingredients":["莲子 20 克","山药 80 克","红枣 4 枚"],"steps":["莲子浸泡","与山药、红枣同煮至软糯"],"note":"便秘者莲子宜少。"},
-  {"id":"eel-ginger-stew","name":"黄鳝生姜煲","nature":"温","syndromes":["脾气虚","气血不足"],"foodIds":["eel","ginger"],"subtitle":"温中补血","ingredients":["黄鳝 2 条","生姜 5 片"],"steps":["黄鳝洗净","与生姜同炖至熟"],"note":"须彻底煮熟。"},
-  {"id":"river-shrimp-ginger","name":"河虾姜葱炒","nature":"温","syndromes":["肾阳虚","腰膝酸冷"],"foodIds":["river-shrimp","ginger"],"subtitle":"补肾温阳","ingredients":["河虾 200 克","生姜 3 片","葱 2 根"],"steps":["河虾洗净","与姜葱快炒至熟"],"note":"海鲜过敏者禁食。"},
-  {"id":"tofu-seaweed-soup","name":"豆腐紫菜汤","nature":"平","syndromes":["胃阴虚","甲状腺保健"],"foodIds":["tofu","seaweed-nori"],"subtitle":"清淡养人","ingredients":["豆腐 200 克","紫菜 5 克","生姜 1 片"],"steps":["水开下紫菜豆腐","煮 5 分钟调味"],"note":"甲亢患者遵医嘱。"},
-  {"id":"millet-jujube-porridge","name":"小米红枣粥","nature":"温","syndromes":["脾气虚","失眠"],"foodIds":["millet","jujube"],"subtitle":"养胃安神","ingredients":["小米 80 克","红枣 5 枚"],"steps":["红枣去核","与小米同煮成粥"],"note":"晚间少量食用更宜。"}
+  {
+    "id": "yam-poria-porridge",
+    "name": "山药茯苓粥",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "yam",
+      "poria",
+      "rice"
+    ],
+    "subtitle": "健脾渗湿",
+    "ingredients": [
+      "山药 80 克",
+      "茯苓 12 克",
+      "大米 80 克"
+    ],
+    "steps": [
+      "山药切块",
+      "与茯苓、大米同煮至软烂"
+    ],
+    "note": "适合食欲差、便溏、体倦乏力者。"
+  },
+  {
+    "id": "astragalus-chicken-soup",
+    "name": "黄芪炖鸡汤",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "肺气虚"
+    ],
+    "foodIds": [
+      "astragalus",
+      "chicken",
+      "ginger"
+    ],
+    "subtitle": "益气补虚",
+    "ingredients": [
+      "黄芪 15 克",
+      "鸡肉 300 克",
+      "生姜 3 片"
+    ],
+    "steps": [
+      "鸡肉焯水",
+      "与黄芪、生姜同炖 1 小时"
+    ],
+    "note": "感冒发热、实热证不宜。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "coix-redbean-soup",
+    "name": "薏米赤小豆汤",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "水肿"
+    ],
+    "foodIds": [
+      "coix-seed",
+      "adzuki-bean"
+    ],
+    "subtitle": "清热利湿",
+    "ingredients": [
+      "薏米 40 克",
+      "赤小豆 30 克"
+    ],
+    "steps": [
+      "浸泡 2 小时",
+      "煮至豆烂"
+    ],
+    "note": "孕妇、阳虚怕冷者慎用薏米。"
+  },
+  {
+    "id": "white-fungus-pear-soup",
+    "name": "银耳炖雪梨",
+    "nature": "凉",
+    "syndromes": [
+      "肺阴虚",
+      "燥咳"
+    ],
+    "foodIds": [
+      "white-fungus",
+      "pear"
+    ],
+    "subtitle": "润肺生津",
+    "ingredients": [
+      "银耳 10 克",
+      "雪梨 1 个"
+    ],
+    "steps": [
+      "银耳泡发",
+      "与雪梨同炖 30 分钟"
+    ],
+    "note": "脾胃虚寒、风寒咳嗽不宜。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "chenpi-ginger-tea",
+    "name": "陈皮姜茶",
+    "nature": "温",
+    "syndromes": [
+      "胃寒",
+      "痰湿困脾"
+    ],
+    "foodIds": [
+      "chenpi",
+      "ginger"
+    ],
+    "subtitle": "温胃化湿",
+    "ingredients": [
+      "陈皮 5 克",
+      "生姜 3 片",
+      "清水 500 ml"
+    ],
+    "steps": [
+      "同煮 12 分钟",
+      "温热饮用"
+    ],
+    "note": "阴虚口干者少量。"
+  },
+  {
+    "id": "lotus-yam-soup",
+    "name": "莲子山药羹",
+    "nature": "平",
+    "syndromes": [
+      "心脾两虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "lotus-seed",
+      "yam",
+      "jujube"
+    ],
+    "subtitle": "健脾养心",
+    "ingredients": [
+      "莲子 20 克",
+      "山药 80 克",
+      "红枣 4 枚"
+    ],
+    "steps": [
+      "莲子浸泡",
+      "与山药、红枣同煮至软糯"
+    ],
+    "note": "便秘者莲子宜少。"
+  },
+  {
+    "id": "eel-ginger-stew",
+    "name": "黄鳝生姜煲",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "eel",
+      "ginger"
+    ],
+    "subtitle": "温中补血",
+    "ingredients": [
+      "黄鳝 2 条",
+      "生姜 5 片"
+    ],
+    "steps": [
+      "黄鳝洗净",
+      "与生姜同炖至熟"
+    ],
+    "note": "须彻底煮熟。"
+  },
+  {
+    "id": "river-shrimp-ginger",
+    "name": "河虾姜葱炒",
+    "nature": "温",
+    "syndromes": [
+      "肾阳虚",
+      "腰膝酸冷"
+    ],
+    "foodIds": [
+      "river-shrimp",
+      "ginger"
+    ],
+    "subtitle": "补肾温阳",
+    "ingredients": [
+      "河虾 200 克",
+      "生姜 3 片",
+      "葱 2 根"
+    ],
+    "steps": [
+      "河虾洗净",
+      "与姜葱快炒至熟"
+    ],
+    "note": "海鲜过敏者禁食。"
+  },
+  {
+    "id": "tofu-seaweed-soup",
+    "name": "豆腐紫菜汤",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "甲状腺保健"
+    ],
+    "foodIds": [
+      "tofu",
+      "seaweed-nori"
+    ],
+    "subtitle": "清淡养人",
+    "ingredients": [
+      "豆腐 200 克",
+      "紫菜 5 克",
+      "生姜 1 片"
+    ],
+    "steps": [
+      "水开下紫菜豆腐",
+      "煮 5 分钟调味"
+    ],
+    "note": "甲亢患者遵医嘱。"
+  },
+  {
+    "id": "millet-jujube-porridge",
+    "name": "小米红枣粥",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "失眠"
+    ],
+    "foodIds": [
+      "millet",
+      "jujube"
+    ],
+    "subtitle": "养胃安神",
+    "ingredients": [
+      "小米 80 克",
+      "红枣 5 枚"
+    ],
+    "steps": [
+      "红枣去核",
+      "与小米同煮成粥"
+    ],
+    "note": "晚间少量食用更宜。"
+  }
 ]

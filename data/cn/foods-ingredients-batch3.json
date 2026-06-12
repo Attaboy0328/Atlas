@@ -281,7 +281,8 @@
       "木耳"
     ],
     "summary": "胶质食用菌，凉拌、炒菜与煲汤常用。",
-    "caution": "出血倾向、手术前后慎大量活血类食用菌；须泡发充分并煮熟。"
+    "caution": "出血倾向、手术前后慎大量活血类食用菌；须泡发充分并煮熟。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "fern-shoot",
@@ -311,7 +312,8 @@
       "蕨菜"
     ],
     "summary": "山野蕨类嫩梢，焯水后炒食或凉拌。",
-    "caution": "须充分焯水去原蕨苷；不宜大量长期食用。"
+    "caution": "须充分焯水去原蕨苷；不宜大量长期食用。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "goji-leaf",

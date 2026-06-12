@@ -110,7 +110,8 @@
         "title": "地域食疗整理",
         "summary": "姜汁撞奶为澳式常见食养方。"
       }
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-portuguese-chicken-soup",
@@ -1030,7 +1031,8 @@
         "title": "地域食疗整理",
         "summary": "芋头扣肉为桂菜常见食养方。"
       }
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-pomelo-honey",
@@ -1323,7 +1325,8 @@
         "title": "地域食疗整理",
         "summary": "莲藕排骨汤为桂菜常见食养方。"
       }
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "gx-daylily-pork",
@@ -3102,7 +3105,8 @@
         "title": "地域食疗整理",
         "summary": "莲藕排骨汤为川菜常见食养方。"
       }
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "fj-buddha-soup",
@@ -3507,7 +3511,8 @@
         "title": "地域食疗整理",
         "summary": "荔枝肉为闽菜常见食养方。"
       }
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "fj-tremella-soup",
@@ -3762,7 +3767,8 @@
         "title": "地域食疗整理",
         "summary": "陈皮红豆沙为港式常见食养方。"
       }
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "mo-ginger-milk-cure2",
@@ -4051,7 +4057,8 @@
         "title": "地域食疗整理",
         "summary": "莲藕排骨汤为鄂菜常见食养方。"
       }
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "sd-scallion-seafood",

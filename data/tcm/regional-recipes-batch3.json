@@ -260,7 +260,8 @@
         "title": "地域食疗整理",
         "summary": "姜母鸭为闽菜常见食养方。"
       }
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "fj-fish-ball-soup",
@@ -298,7 +299,8 @@
         "title": "地域食疗整理",
         "summary": "福州鱼丸汤为闽菜常见食养方。"
       }
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "fj-shaxian-noodle-lite",
@@ -634,7 +636,8 @@
         "title": "地域食疗整理",
         "summary": "五指毛桃排骨汤为粤菜常见食养方。"
       }
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "gd-qingyuan-chicken-soup",
@@ -1123,7 +1126,8 @@
         "title": "地域食疗整理",
         "summary": "汽锅鸡为滇菜常见食养方。"
       }
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "yn-rushan-honey",

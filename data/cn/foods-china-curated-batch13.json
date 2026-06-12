@@ -618,7 +618,8 @@
       "c13-sc-sichuan-pepper"
     ],
     "summary": "川菜花椒，温中散寒调味。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-sc-pickled-mustard",
@@ -697,7 +698,8 @@
       "c13-fj-red-mushroom"
     ],
     "summary": "闽北红菇，滋阴补血汤料。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-fj-seaweed-roll",
@@ -1614,7 +1616,8 @@
       "c13-gd-dendrobium"
     ],
     "summary": "岭南石斛，滋阴养胃。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-astragalus-root",
@@ -1639,7 +1642,8 @@
       "c13-gd-astragalus-root"
     ],
     "summary": "煲汤黄芪，补气固表。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-angelica",
@@ -1664,7 +1668,8 @@
       "c13-gd-angelica"
     ],
     "summary": "煲汤当归，补血调经。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-lily",
@@ -1689,7 +1694,8 @@
       "c13-gd-lily"
     ],
     "summary": "广东百合，润肺安神。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-foxnut",
@@ -1714,7 +1720,8 @@
       "c13-gd-foxnut"
     ],
     "summary": "岭南芡实，健脾祛湿。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-coix",
@@ -1765,7 +1772,8 @@
       "c13-gd-red-bean"
     ],
     "summary": "糖水赤小豆，健脾祛湿。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-mung-bean",
@@ -1790,7 +1798,8 @@
       "c13-gd-mung-bean"
     ],
     "summary": "消暑绿豆，清热解毒。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-black-bean",
@@ -1815,7 +1824,8 @@
       "c13-gd-black-bean"
     ],
     "summary": "补肾黑豆，滋阴利水。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-snow-fungus",
@@ -1944,7 +1954,8 @@
       "c13-gd-honeysuckle"
     ],
     "summary": "凉茶金银花，清热解毒。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-selfheal",
@@ -2019,7 +2030,8 @@
       "c13-gd-kudzu"
     ],
     "summary": "岭南粉葛，解肌退热。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-cogon",
@@ -2073,7 +2085,8 @@
       "c13-gd-monk-fruit"
     ],
     "summary": "润肺罗汉果，利咽止咳。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-sea-coconut",
@@ -2263,7 +2276,8 @@
       "c13-gd-chicken-feet-soup"
     ],
     "summary": "岭南鸡骨草，清热利湿。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gd-pork-liver",
@@ -2429,7 +2443,8 @@
       "c13-gx-liuzhou-snail"
     ],
     "summary": "柳州螺蛳粉用螺，需彻底煮熟。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c13-gx-bama-pork",

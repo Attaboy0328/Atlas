@@ -1,6 +1,7 @@
 [
   {
     "id": "doubanjiang",
+    "hiddenFromLibrary": true,
     "name": "郫县豆瓣",
     "en": "pixian bean paste",
     "category": "调料",
@@ -118,7 +119,8 @@
       "花椒",
       "川椒"
     ],
-    "summary": "川菜麻香来源，偏热。"
+    "summary": "川菜麻香来源，偏热。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "yunnan-ham",

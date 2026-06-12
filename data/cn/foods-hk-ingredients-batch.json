@@ -1537,7 +1537,8 @@
       "hk-lotus-seed-hk"
     ],
     "summary": "港式糖水炖品常用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-lily-bulb-hk",
@@ -1565,7 +1566,8 @@
       "hk-lily-bulb-hk"
     ],
     "summary": "港式清润糖水配料。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-almond-tea-hk",

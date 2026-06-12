@@ -387,7 +387,8 @@
       "冬瓜"
     ],
     "summary": "夏秋季常见瓜类，清淡利水，宜煮汤。",
-    "caution": "脾胃虚寒、肾虚者不宜多食生冷。"
+    "caution": "脾胃虚寒、肾虚者不宜多食生冷。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "bitter-melon",
@@ -673,7 +674,8 @@
       "皮蛋"
     ],
     "summary": "传统蛋制品，宜凉拌、煮粥。",
-    "caution": "含铅工艺产品慎选；胃病患者适量。"
+    "caution": "含铅工艺产品慎选；胃病患者适量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "duck-egg",
@@ -1075,7 +1077,7 @@
   },
   {
     "id": "water-chestnut",
-    "name": "菱角",
+    "name": "荸荠",
     "en": "water chestnut",
     "category": "蔬菜",
     "nature": "凉",

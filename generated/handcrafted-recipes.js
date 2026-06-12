@@ -484,31 +484,6 @@ const HANDCRAFTED_RECIPES = [
     "sources": []
   },
   {
-    "id": "lotus-root-soup",
-    "name": "莲藕排骨汤",
-    "nature": "平",
-    "syndromes": [
-      "气血两虚",
-      "脾气虚"
-    ],
-    "foodIds": [
-      "lotus-root",
-      "pork"
-    ],
-    "subtitle": "和中养血",
-    "ingredients": [
-      "莲藕 250 克",
-      "排骨 250 克"
-    ],
-    "steps": [
-      "排骨焯水",
-      "与莲藕同炖"
-    ],
-    "note": "家常度高，适合大多数日常调理。",
-    "draft": false,
-    "sources": []
-  },
-  {
     "id": "yam-lotus-bowl",
     "name": "山药莲子羹",
     "nature": "平",
@@ -583,32 +558,6 @@ const HANDCRAFTED_RECIPES = [
       "加入米汤同煮"
     ],
     "note": "适合胃口差、饭后胀满、嗳气偏多时少量饮用。",
-    "draft": false,
-    "sources": []
-  },
-  {
-    "id": "white-fungus-lily-bowl",
-    "name": "银耳百合羹",
-    "nature": "平",
-    "syndromes": [
-      "胃阴虚",
-      "肺阴虚"
-    ],
-    "foodIds": [
-      "white-fungus",
-      "lily-bulb"
-    ],
-    "subtitle": "润养生津",
-    "ingredients": [
-      "银耳 10 克",
-      "百合 20 克",
-      "清水适量"
-    ],
-    "steps": [
-      "银耳先泡发煮软",
-      "后下百合再煮"
-    ],
-    "note": "偏润养，腹泻时不宜多食。",
     "draft": false,
     "sources": []
   },
@@ -972,29 +921,6 @@ const HANDCRAFTED_RECIPES = [
       "与当归、生姜小火慢炖"
     ],
     "note": "更适合血虚、产后恢复或体虚怕冷的人群。",
-    "draft": false,
-    "sources": []
-  },
-  {
-    "id": "rose-chenpi-drink",
-    "name": "玫瑰陈皮饮",
-    "nature": "温",
-    "syndromes": [
-      "理气",
-      "肝郁气滞"
-    ],
-    "foodIds": [
-      "chenpi"
-    ],
-    "subtitle": "疏肝理气",
-    "ingredients": [
-      "玫瑰花 6 克",
-      "陈皮 3 克"
-    ],
-    "steps": [
-      "热水冲泡或小火煮 8 分钟"
-    ],
-    "note": "更适合情绪郁闷、胸胁不舒、饭量下降的轻度场景。",
     "draft": false,
     "sources": []
   },
@@ -1516,33 +1442,6 @@ const HANDCRAFTED_RECIPES = [
     "sources": []
   },
   {
-    "id": "astragalus-chicken-soup",
-    "name": "黄芪炖鸡汤",
-    "nature": "温",
-    "syndromes": [
-      "脾气虚",
-      "肺气虚"
-    ],
-    "foodIds": [
-      "astragalus",
-      "chicken",
-      "ginger"
-    ],
-    "subtitle": "益气补虚",
-    "ingredients": [
-      "黄芪 15 克",
-      "鸡肉 300 克",
-      "生姜 3 片"
-    ],
-    "steps": [
-      "鸡肉焯水",
-      "与黄芪、生姜同炖 1 小时"
-    ],
-    "note": "感冒发热、实热证不宜。",
-    "draft": false,
-    "sources": []
-  },
-  {
     "id": "coix-redbean-soup",
     "name": "薏米赤小豆汤",
     "nature": "凉",
@@ -1564,31 +1463,6 @@ const HANDCRAFTED_RECIPES = [
       "煮至豆烂"
     ],
     "note": "孕妇、阳虚怕冷者慎用薏米。",
-    "draft": false,
-    "sources": []
-  },
-  {
-    "id": "white-fungus-pear-soup",
-    "name": "银耳炖雪梨",
-    "nature": "凉",
-    "syndromes": [
-      "肺阴虚",
-      "燥咳"
-    ],
-    "foodIds": [
-      "white-fungus",
-      "pear"
-    ],
-    "subtitle": "润肺生津",
-    "ingredients": [
-      "银耳 10 克",
-      "雪梨 1 个"
-    ],
-    "steps": [
-      "银耳泡发",
-      "与雪梨同炖 30 分钟"
-    ],
-    "note": "脾胃虚寒、风寒咳嗽不宜。",
     "draft": false,
     "sources": []
   },
@@ -7042,44 +6916,6 @@ const HANDCRAFTED_RECIPES = [
     "draft": false
   },
   {
-    "id": "mo-ginger-milk-cure",
-    "name": "姜汁撞奶",
-    "nature": "温",
-    "syndromes": [
-      "脾阳虚",
-      "胃气虚"
-    ],
-    "foodIds": [
-      "egg",
-      "ginger",
-      "milk"
-    ],
-    "provinces": [
-      "澳门"
-    ],
-    "cuisine": "澳式",
-    "recipeTopic": "温胃散寒",
-    "seasonTags": [
-      "冬"
-    ],
-    "subtitle": "暖胃助阳",
-    "ingredients": [
-      "姜汁 15 ml",
-      "牛奶 200 ml"
-    ],
-    "steps": [
-      "牛奶加热冲入姜汁"
-    ],
-    "note": "胃寒晨起不适时少量。",
-    "sources": [
-      {
-        "title": "地域食疗整理",
-        "summary": "姜汁撞奶为澳式常见食养方。"
-      }
-    ],
-    "draft": false
-  },
-  {
     "id": "mo-portuguese-chicken-soup",
     "name": "葡国鸡汤",
     "nature": "温",
@@ -7987,44 +7823,6 @@ const HANDCRAFTED_RECIPES = [
     "draft": false
   },
   {
-    "id": "gx-taro-pork-pot",
-    "name": "芋头扣肉",
-    "nature": "温",
-    "syndromes": [
-      "脾气虚",
-      "气血不足"
-    ],
-    "foodIds": [
-      "taro",
-      "pork"
-    ],
-    "provinces": [
-      "广西"
-    ],
-    "cuisine": "桂菜",
-    "recipeTopic": "温补气血",
-    "seasonTags": [
-      "冬"
-    ],
-    "subtitle": "年节菜肴",
-    "ingredients": [
-      "芋头 200 克",
-      "五花肉 200 克"
-    ],
-    "steps": [
-      "肉蒸至软烂",
-      "配芋头"
-    ],
-    "note": "冬季温补，高脂控量。",
-    "sources": [
-      {
-        "title": "地域食疗整理",
-        "summary": "芋头扣肉为桂菜常见食养方。"
-      }
-    ],
-    "draft": false
-  },
-  {
     "id": "gx-pomelo-honey",
     "name": "柚子蜂蜜水",
     "nature": "凉",
@@ -8283,44 +8081,6 @@ const HANDCRAFTED_RECIPES = [
       {
         "title": "地域食疗整理",
         "summary": "广西凉茶为桂菜常见食养方。"
-      }
-    ],
-    "draft": false
-  },
-  {
-    "id": "gx-lotus-root-pork",
-    "name": "莲藕排骨汤",
-    "nature": "平",
-    "syndromes": [
-      "胃阴虚",
-      "气血不足"
-    ],
-    "foodIds": [
-      "lotus-root",
-      "pork"
-    ],
-    "provinces": [
-      "广西"
-    ],
-    "cuisine": "桂菜",
-    "recipeTopic": "滋阴润燥",
-    "seasonTags": [
-      "秋"
-    ],
-    "subtitle": "健脾开胃",
-    "ingredients": [
-      "莲藕 300 克",
-      "排骨 250 克"
-    ],
-    "steps": [
-      "排骨焯水",
-      "与莲藕同炖"
-    ],
-    "note": "秋燥口干、食欲差时。",
-    "sources": [
-      {
-        "title": "地域食疗整理",
-        "summary": "莲藕排骨汤为桂菜常见食养方。"
       }
     ],
     "draft": false
@@ -10115,44 +9875,6 @@ const HANDCRAFTED_RECIPES = [
     "draft": false
   },
   {
-    "id": "sc-lotus-root-pork-sc",
-    "name": "莲藕排骨汤",
-    "nature": "平",
-    "syndromes": [
-      "胃阴虚",
-      "气血不足"
-    ],
-    "foodIds": [
-      "lotus-root",
-      "pork"
-    ],
-    "provinces": [
-      "四川"
-    ],
-    "cuisine": "川菜",
-    "recipeTopic": "滋阴润燥",
-    "seasonTags": [
-      "秋"
-    ],
-    "subtitle": "家常汤品",
-    "ingredients": [
-      "莲藕 300 克",
-      "排骨 250 克"
-    ],
-    "steps": [
-      "排骨焯水",
-      "与莲藕同炖"
-    ],
-    "note": "秋燥口干时。",
-    "sources": [
-      {
-        "title": "地域食疗整理",
-        "summary": "莲藕排骨汤为川菜常见食养方。"
-      }
-    ],
-    "draft": false
-  },
-  {
     "id": "fj-buddha-soup",
     "name": "佛跳墙（家常版）",
     "nature": "温",
@@ -10533,42 +10255,6 @@ const HANDCRAFTED_RECIPES = [
     "draft": false
   },
   {
-    "id": "fj-litchi-pork",
-    "name": "荔枝肉",
-    "nature": "温",
-    "syndromes": [
-      "气血不足"
-    ],
-    "foodIds": [
-      "pork",
-      "ginger"
-    ],
-    "provinces": [
-      "福建"
-    ],
-    "cuisine": "闽菜",
-    "recipeTopic": "温补气血",
-    "seasonTags": [
-      "夏"
-    ],
-    "subtitle": "闽菜经典",
-    "ingredients": [
-      "猪肉 200 克",
-      "荔枝 5 颗"
-    ],
-    "steps": [
-      "酸甜汁翻炒"
-    ],
-    "note": "乏力食少时，控糖。",
-    "sources": [
-      {
-        "title": "地域食疗整理",
-        "summary": "荔枝肉为闽菜常见食养方。"
-      }
-    ],
-    "draft": false
-  },
-  {
     "id": "fj-tremella-soup",
     "name": "银耳莲子羹",
     "nature": "平",
@@ -10790,42 +10476,6 @@ const HANDCRAFTED_RECIPES = [
       {
         "title": "地域食疗整理",
         "summary": "陈皮瘦肉汤为粤菜常见食养方。"
-      }
-    ],
-    "draft": false
-  },
-  {
-    "id": "hk-red-bean-chenpi",
-    "name": "陈皮红豆沙",
-    "nature": "平",
-    "syndromes": [
-      "湿热内蕴"
-    ],
-    "foodIds": [
-      "red-bean",
-      "chenpi-dried"
-    ],
-    "provinces": [
-      "香港"
-    ],
-    "cuisine": "港式",
-    "recipeTopic": "健脾祛湿",
-    "seasonTags": [
-      "夏"
-    ],
-    "subtitle": "糖水祛湿",
-    "ingredients": [
-      "红豆 80 克",
-      "陈皮 1 片"
-    ],
-    "steps": [
-      "煮至起沙"
-    ],
-    "note": "暑湿身重时港式糖水。",
-    "sources": [
-      {
-        "title": "地域食疗整理",
-        "summary": "陈皮红豆沙为港式常见食养方。"
       }
     ],
     "draft": false
@@ -11085,44 +10735,6 @@ const HANDCRAFTED_RECIPES = [
       {
         "title": "地域食疗整理",
         "summary": "剁椒蒸肉为湘菜常见食养方。"
-      }
-    ],
-    "draft": false
-  },
-  {
-    "id": "hb-lotus-pork",
-    "name": "莲藕排骨汤",
-    "nature": "平",
-    "syndromes": [
-      "胃阴虚",
-      "气血不足"
-    ],
-    "foodIds": [
-      "lotus-root",
-      "pork"
-    ],
-    "provinces": [
-      "湖北"
-    ],
-    "cuisine": "鄂菜",
-    "recipeTopic": "滋阴润燥",
-    "seasonTags": [
-      "秋"
-    ],
-    "subtitle": "家常汤品",
-    "ingredients": [
-      "莲藕 300 克",
-      "排骨 250 克"
-    ],
-    "steps": [
-      "排骨焯水",
-      "与莲藕同炖"
-    ],
-    "note": "秋燥口干时。",
-    "sources": [
-      {
-        "title": "地域食疗整理",
-        "summary": "莲藕排骨汤为鄂菜常见食养方。"
       }
     ],
     "draft": false
@@ -13055,44 +12667,6 @@ const HANDCRAFTED_RECIPES = [
     "draft": false
   },
   {
-    "id": "ah-bamboo-pork",
-    "name": "问政山笋炒肉",
-    "nature": "凉",
-    "syndromes": [
-      "湿热内蕴",
-      "肝胃不和"
-    ],
-    "foodIds": [
-      "pork",
-      "ginger"
-    ],
-    "provinces": [
-      "安徽"
-    ],
-    "cuisine": "徽菜",
-    "recipeTopic": "清热化痰",
-    "seasonTags": [
-      "春"
-    ],
-    "subtitle": "徽州春笋",
-    "ingredients": [
-      "鲜笋 200 克",
-      "瘦肉 100 克"
-    ],
-    "steps": [
-      "笋焯水",
-      "与肉快炒"
-    ],
-    "note": "春季油腻后清爽配菜。",
-    "sources": [
-      {
-        "title": "地域食疗整理",
-        "summary": "问政山笋炒肉为徽菜常见食养方。"
-      }
-    ],
-    "draft": false
-  },
-  {
     "id": "jx-steamed-pork-rice",
     "name": "粉蒸肉配米饭",
     "nature": "温",
@@ -13622,83 +13196,6 @@ const HANDCRAFTED_RECIPES = [
     "draft": false
   },
   {
-    "id": "fj-ginger-duck-soup",
-    "name": "姜母鸭",
-    "nature": "温",
-    "syndromes": [
-      "脾阳虚",
-      "寒湿困脾"
-    ],
-    "foodIds": [
-      "duck",
-      "ginger"
-    ],
-    "provinces": [
-      "福建"
-    ],
-    "cuisine": "闽菜",
-    "recipeTopic": "温中散寒",
-    "seasonTags": [
-      "冬"
-    ],
-    "subtitle": "闽南名菜",
-    "ingredients": [
-      "鸭肉 半只",
-      "老姜 100 克"
-    ],
-    "steps": [
-      "姜片煸香",
-      "鸭肉焖 50 分钟"
-    ],
-    "note": "冬季畏寒肢冷时，阴虚火旺减量。",
-    "sources": [
-      {
-        "title": "地域食疗整理",
-        "summary": "姜母鸭为闽菜常见食养方。"
-      }
-    ],
-    "draft": false
-  },
-  {
-    "id": "fj-fish-ball-soup",
-    "name": "福州鱼丸汤",
-    "nature": "平",
-    "syndromes": [
-      "胃气虚",
-      "气血不足"
-    ],
-    "foodIds": [
-      "ginger",
-      "scallion"
-    ],
-    "provinces": [
-      "福建"
-    ],
-    "cuisine": "闽菜",
-    "recipeTopic": "益气健脾",
-    "seasonTags": [
-      "四季"
-    ],
-    "subtitle": "福州汤品",
-    "ingredients": [
-      "鱼丸 8 颗",
-      "姜丝",
-      "葱花"
-    ],
-    "steps": [
-      "清水煮开",
-      "下鱼丸煮至浮起"
-    ],
-    "note": "胃口弱时清淡汤品。",
-    "sources": [
-      {
-        "title": "地域食疗整理",
-        "summary": "福州鱼丸汤为闽菜常见食养方。"
-      }
-    ],
-    "draft": false
-  },
-  {
     "id": "fj-shaxian-noodle-lite",
     "name": "沙县拌面少油版",
     "nature": "平",
@@ -14000,45 +13497,6 @@ const HANDCRAFTED_RECIPES = [
       {
         "title": "地域食疗整理",
         "summary": "陈皮鸭汤为粤菜常见食养方。"
-      }
-    ],
-    "draft": false
-  },
-  {
-    "id": "gd-five-finger-pork",
-    "name": "五指毛桃排骨汤",
-    "nature": "平",
-    "syndromes": [
-      "脾虚湿困",
-      "气血不足"
-    ],
-    "foodIds": [
-      "pork",
-      "ginger"
-    ],
-    "provinces": [
-      "广东"
-    ],
-    "cuisine": "粤菜",
-    "recipeTopic": "健脾祛湿",
-    "seasonTags": [
-      "夏",
-      "秋"
-    ],
-    "subtitle": "岭南汤料",
-    "ingredients": [
-      "排骨 250 克",
-      "五指毛桃 20 克"
-    ],
-    "steps": [
-      "排骨焯水",
-      "炖 90 分钟"
-    ],
-    "note": "身重困倦、湿气偏重时。",
-    "sources": [
-      {
-        "title": "地域食疗整理",
-        "summary": "五指毛桃排骨汤为粤菜常见食养方。"
       }
     ],
     "draft": false
@@ -14504,43 +13962,6 @@ const HANDCRAFTED_RECIPES = [
       {
         "title": "地域食疗整理",
         "summary": "毛肚清汤涮为渝菜常见食养方。"
-      }
-    ],
-    "draft": false
-  },
-  {
-    "id": "yn-stone-pot-chicken",
-    "name": "汽锅鸡",
-    "nature": "平",
-    "syndromes": [
-      "脾气虚",
-      "气血不足"
-    ],
-    "foodIds": [
-      "chicken",
-      "ginger"
-    ],
-    "provinces": [
-      "云南"
-    ],
-    "cuisine": "滇菜",
-    "recipeTopic": "益气补虚",
-    "seasonTags": [
-      "四季"
-    ],
-    "subtitle": "云南名菜",
-    "ingredients": [
-      "土鸡半只",
-      "生姜 3 片"
-    ],
-    "steps": [
-      "汽锅蒸 2 小时"
-    ],
-    "note": "体虚乏力、病后调养时。",
-    "sources": [
-      {
-        "title": "地域食疗整理",
-        "summary": "汽锅鸡为滇菜常见食养方。"
       }
     ],
     "draft": false

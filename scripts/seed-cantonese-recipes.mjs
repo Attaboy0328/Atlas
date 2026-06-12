@@ -4,6 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "url";
 import { loadFoodCatalogIds } from "./lib/food-catalog.mjs";
+import { filterRecipeSeedTuples } from "./lib/recipe-catalog.mjs";
 
 const root = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const outFile = path.join(root, "data", "tcm", "cantonese-recipes-batch.json");
@@ -163,7 +164,7 @@ const TUPLES = [
   ["hk-almond-tea-drink", "杏仁茶", "平", ["肺阴虚", "肠燥便秘"], ["almond", "rice"], ["香港"], "港式", "润肺止咳", ["秋"], "润燥生津", ["南杏 20 克", "米浆 200 ml"], ["煮至香浓"], "秋燥干咳时港式饮品。"]
 ];
 
-const rows = TUPLES.map(([id, name, nature, syndromes, foodIds, provinces, cuisine, recipeTopic, seasonTags, subtitle, ingredients, steps, note]) =>
+const rows = filterRecipeSeedTuples(TUPLES).map(([id, name, nature, syndromes, foodIds, provinces, cuisine, recipeTopic, seasonTags, subtitle, ingredients, steps, note]) =>
   recipe({ id, name, nature, syndromes, foodIds, provinces, cuisine, recipeTopic, seasonTags, subtitle, ingredients, steps, note })
 ).filter(Boolean);
 

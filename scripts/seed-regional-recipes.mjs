@@ -4,6 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "url";
 import { loadFoodCatalogIds } from "./lib/food-catalog.mjs";
+import { filterRecipeSeedTuples, readRecipeJson } from "./lib/recipe-catalog.mjs";
 
 const root = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const outFile = path.join(root, "data", "tcm", "regional-recipes-batch.json");
@@ -167,6 +168,6 @@ const TUPLES = [
   ["ln-sauerkraut-pork", "酸菜白肉", "温", ["脾阳虚"], ["pork", "ginger"], ["辽宁"], "东北菜", "温中暖胃", ["冬"], "炖菜暖身", ["酸菜 200 克", "五花肉 200 克"], ["炖至软烂"], "畏寒肢冷时。"]
 ];
 
-const rows = TUPLES.map(t).filter(Boolean);
+const rows = filterRecipeSeedTuples(TUPLES).map(t).filter(Boolean);
 fs.writeFileSync(outFile, `${JSON.stringify(rows, null, 2)}\n`, "utf8");
 console.log(`regional-recipes-batch.json: ${rows.length} recipes`);

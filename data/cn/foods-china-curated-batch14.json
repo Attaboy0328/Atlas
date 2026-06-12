@@ -77,7 +77,8 @@
       "c14-sc-bamboo-shoot"
     ],
     "summary": "川菜鲜笋，清热化痰。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-sc-preserved-veg",
@@ -153,7 +154,8 @@
       "c14-sc-duck-blood"
     ],
     "summary": "川式鸭血，凉血适量。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-sc-rice-noodle",
@@ -743,7 +745,8 @@
       "c14-hn-millet"
     ],
     "summary": "湖南小米粥，温胃益气。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-hb-wuchang-fish",
@@ -794,7 +797,8 @@
       "c14-hb-lotus-root"
     ],
     "summary": "洪湖莲藕，健脾开胃。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-hb-preserves",
@@ -2377,7 +2381,8 @@
       "c14-gd-water-chestnut"
     ],
     "summary": "粤式马蹄，清热生津。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "c14-gd-lotus-root-fresh",

@@ -872,7 +872,8 @@
       "gd-herbal-tea-gd"
     ],
     "summary": "广东凉茶，清热祛湿，体虚慎用。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "hk-milk-tea-base",
@@ -1310,7 +1311,9 @@
     ],
     "summary": "山东扒鸡，温中益气。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "aliases": [
+      "德州扒鸡（整只）"
+    ]
   },
   {
     "id": "sd-braised-intestine",
@@ -1643,7 +1646,10 @@
     ],
     "summary": "云南过桥米线，温胃益气。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "aliases": [
+      "过桥米线（滇式）",
+      "过桥米线料"
+    ]
   },
   {
     "id": "yn-steam-pot",
@@ -2135,8 +2141,7 @@
       "gs-niangpi"
     ],
     "summary": "西北酿皮，凉拌面食。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "gs-sweet-fermented",

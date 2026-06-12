@@ -166,7 +166,8 @@
       "豌豆尖",
       "豆尖"
     ],
-    "summary": "冬春至初夏时蔬，嫩梢可涮锅、做汤或快炒。"
+    "summary": "冬春至初夏时蔬，嫩梢可涮锅、做汤或快炒。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "broad-bean-pod",
@@ -580,6 +581,7 @@
   },
   {
     "id": "bamboo-shoot",
+    "hiddenFromLibrary": true,
     "name": "春笋",
     "en": "spring bamboo shoot",
     "category": "蔬菜",

@@ -70,7 +70,8 @@
     "officialBatch": "2002",
     "usageScope": "dietary-therapy",
     "summary": "国家食药同源目录条目，偏温甜，常见于羹汤与甜饮。",
-    "caution": "上火、糖尿病者控制用量。"
+    "caution": "上火、糖尿病者控制用量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "walnut",

@@ -4,6 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "url";
 import { loadFoodCatalogIds } from "./lib/food-catalog.mjs";
+import { filterRecipeSeedTuples } from "./lib/recipe-catalog.mjs";
 
 const root = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const outFile = path.join(root, "data", "tcm", "regional-recipes-batch2.json");
@@ -104,7 +105,7 @@ const TUPLES = [
   ["sx-millet-porridge", "小米南瓜粥", "温", ["脾气虚", "胃气虚"], ["rice", "pumpkin"], ["山西"], "晋菜", "健脾养胃", ["秋", "冬"], "晋北粥品", ["小米 50 克", "南瓜 100 克"], ["同煮至粥稠"], "脾胃虚弱日常粥品。"]
 ];
 
-const rows = TUPLES.map(t).filter(Boolean);
+const rows = filterRecipeSeedTuples(TUPLES).map(t).filter(Boolean);
 fs.mkdirSync(path.dirname(outFile), { recursive: true });
 fs.writeFileSync(outFile, `${JSON.stringify(rows, null, 2)}\n`, "utf8");
 console.log(`regional-recipes-batch2.json: ${rows.length} recipes`);
