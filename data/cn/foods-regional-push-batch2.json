@@ -286,7 +286,8 @@
       "客家"
     ],
     "summary": "客家名菜，豆腐酿肉馅，鲜香软嫩。",
-    "caution": "痛风急性期适量。"
+    "caution": "痛风急性期适量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "uyghur-polo",

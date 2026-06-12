@@ -75,6 +75,11 @@
     "note": "auto: duplicate name「黑虎虾」→ prawn-black-tiger"
   },
   {
+    "alias": "boat-congee",
+    "canonical": "c19-gd-boat-congee",
+    "note": "auto: duplicate name「艇仔粥」→ c19-gd-boat-congee"
+  },
+  {
     "alias": "buddha-jumps-wall",
     "canonical": "fj-buddha-jumps",
     "note": "auto: duplicate name「佛跳墙」→ fj-buddha-jumps"
@@ -645,6 +650,46 @@
     "note": "auto: duplicate name「刀削面」→ c14-sx-noodle"
   },
   {
+    "alias": "c19-gd-chaozhou-beefball",
+    "canonical": "c14-gd-beef-ball",
+    "note": "auto: duplicate name「潮汕牛肉丸」→ c14-gd-beef-ball"
+  },
+  {
+    "alias": "c19-gd-dried-scallop",
+    "canonical": "dried-scallop",
+    "note": "auto: duplicate name「瑶柱」→ dried-scallop"
+  },
+  {
+    "alias": "c19-gd-five-finger",
+    "canonical": "radix-fici",
+    "note": "auto: duplicate name「五指毛桃」→ radix-fici"
+  },
+  {
+    "alias": "c19-gd-winter-melon-soup",
+    "canonical": "c14-gd-winter-melon-soup",
+    "note": "auto: duplicate name「冬瓜盅」→ c14-gd-winter-melon-soup"
+  },
+  {
+    "alias": "c19-jx-artemisia",
+    "canonical": "artemisia-selengensis",
+    "note": "auto: duplicate name「藜蒿」→ artemisia-selengensis"
+  },
+  {
+    "alias": "c20-cq-hotpot-beef",
+    "canonical": "beef-tripe-omasum",
+    "note": "auto: duplicate name「毛肚」→ beef-tripe-omasum"
+  },
+  {
+    "alias": "c20-gz-tofu-ball",
+    "canonical": "c14-gz-tofu",
+    "note": "auto: duplicate name「豆腐圆子」→ c14-gz-tofu"
+  },
+  {
+    "alias": "c20-sc-chili-oil",
+    "canonical": "c14-sc-chili-oil",
+    "note": "auto: duplicate name「红油」→ c14-sc-chili-oil"
+  },
+  {
     "alias": "caixin",
     "canonical": "choy-sum",
     "note": "auto: duplicate name「菜心」→ choy-sum"
@@ -950,6 +995,11 @@
     "note": "auto: duplicate name「牛肝菌」→ boletus"
   },
   {
+    "alias": "cat-fungi-314",
+    "canonical": "c20-yn-termite-mushroom",
+    "note": "auto: bulk duplicate「鸡枞菌」→ c20-yn-termite-mushroom"
+  },
+  {
     "alias": "cat-fungi-315",
     "canonical": "bamboo-fungus",
     "note": "auto: duplicate name「竹荪」→ bamboo-fungus"
@@ -1008,6 +1058,11 @@
     "alias": "cat-grain-143",
     "canonical": "c14-sc-rice-noodle",
     "note": "auto: bulk duplicate「米粉」→ c14-sc-rice-noodle"
+  },
+  {
+    "alias": "cat-grain-145",
+    "canonical": "c19-gd-kway-teow",
+    "note": "auto: bulk duplicate「粿条」→ c19-gd-kway-teow"
   },
   {
     "alias": "cat-veg-189",
@@ -1243,6 +1298,11 @@
     "alias": "chili-oil",
     "canonical": "sichuan-chili-oil",
     "note": "auto: duplicate name「辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "chinese-sausage-gd",
+    "canonical": "c19-gd-cantonese-sausage",
+    "note": "auto: duplicate name「广式腊肠」→ c19-gd-cantonese-sausage"
   },
   {
     "alias": "chives",
@@ -1520,6 +1580,11 @@
     "note": "auto: duplicate name「酸汤鱼」→ c17-gz-sour-soup"
   },
   {
+    "alias": "hakka-stuffed-tofu",
+    "canonical": "c19-jx-hakka-tofu",
+    "note": "auto: duplicate name「客家酿豆腐」→ c19-jx-hakka-tofu"
+  },
+  {
     "alias": "harbin-red-sausage",
     "canonical": "c16-hlj-sausage",
     "note": "auto: duplicate name「哈尔滨红肠」→ c16-hlj-sausage"
@@ -1680,6 +1745,11 @@
     "note": "auto: duplicate name「雪蛤膏」→ hasma"
   },
   {
+    "alias": "hk-mango-pomelo",
+    "canonical": "c19-gd-mango-pomelo",
+    "note": "auto: duplicate name「杨枝甘露」→ c19-gd-mango-pomelo"
+  },
+  {
     "alias": "hk-oyster-sauce-hk",
     "canonical": "oyster-sauce",
     "note": "auto: duplicate name「蚝油」→ oyster-sauce"
@@ -1688,6 +1758,11 @@
     "alias": "hk-pineapple-bun",
     "canonical": "c14-hk-pineapple-bun",
     "note": "auto: duplicate name「菠萝包」→ c14-hk-pineapple-bun"
+  },
+  {
+    "alias": "hk-pork-liver-congee",
+    "canonical": "c19-gd-triple-congee",
+    "note": "auto: duplicate name「及第粥」→ c19-gd-triple-congee"
   },
   {
     "alias": "hk-pork-shoulder-hk",

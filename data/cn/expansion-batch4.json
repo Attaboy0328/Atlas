@@ -196,7 +196,8 @@
       "niangdoufu",
       "ndf"
     ],
-    "summary": "客家经典，豆腐酿肉，平和。"
+    "summary": "客家经典，豆腐酿肉，平和。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "minnan-tusundong",

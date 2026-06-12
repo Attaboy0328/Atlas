@@ -43,7 +43,9 @@ export const CN_JSON_SOURCES = [
   "foods-china-curated-batch15.json",
   "foods-china-curated-batch16.json",
   "foods-china-curated-batch17.json",
-  "foods-china-curated-batch18.json"
+  "foods-china-curated-batch18.json",
+  "foods-china-curated-batch19.json",
+  "foods-china-curated-batch20.json"
 ];
 
 export const EXPANDED_BULK_JSON_SOURCES = [

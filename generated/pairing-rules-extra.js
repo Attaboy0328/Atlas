@@ -1749,5 +1749,165 @@ const PAIRING_RULES_ALL = [
     "level": "good",
     "category": "理气醒脑",
     "text": "闽浙茶点配核桃，理气醒脑、补益脑髓适量。"
+  },
+  {
+    "ids": [
+      "c19-jx-artemisia",
+      "pork"
+    ],
+    "title": "藜蒿与腊肉",
+    "level": "good",
+    "category": "赣菜家常",
+    "text": "鄱阳湖经典搭配，健脾开胃，春季湿气偏重时参考。"
+  },
+  {
+    "ids": [
+      "c19-jx-white-lotus",
+      "pork"
+    ],
+    "title": "广昌莲子与排骨",
+    "level": "good",
+    "category": "赣菜炖汤",
+    "text": "赣南莲子排骨汤，健脾养心、宁心安神。"
+  },
+  {
+    "ids": [
+      "c19-fj-ginger-duck",
+      "ginger"
+    ],
+    "title": "姜母鸭与老姜",
+    "level": "good",
+    "category": "闽菜暖食",
+    "text": "闽南姜母鸭以姜驱寒，冬季畏寒肢冷时参考。"
+  },
+  {
+    "ids": [
+      "c19-fj-fish-ball",
+      "scallion"
+    ],
+    "title": "福州鱼丸与葱花",
+    "level": "good",
+    "category": "闽菜汤品",
+    "text": "清汤鱼丸配葱丝，益气健脾、清淡不腻。"
+  },
+  {
+    "ids": [
+      "c19-gd-char-siu",
+      "rice"
+    ],
+    "title": "叉烧与米饭",
+    "level": "good",
+    "category": "粤式烧味",
+    "text": "广式叉烧饭经典组合，补气充饥，控糖适量。"
+  },
+  {
+    "ids": [
+      "c19-gd-five-finger",
+      "pork"
+    ],
+    "title": "五指毛桃与瘦肉",
+    "level": "good",
+    "category": "岭南汤料",
+    "text": "粤式健脾祛湿汤常用配伍，湿气偏重时参考。"
+  },
+  {
+    "ids": [
+      "c19-gd-chenpi-duck",
+      "chenpi-dried"
+    ],
+    "title": "陈皮与鸭肉",
+    "level": "good",
+    "category": "粤式炖品",
+    "text": "新会陈皮鸭思路，理气化痰、开胃不腻。"
+  },
+  {
+    "ids": [
+      "c19-gd-dried-scallop",
+      "winter-melon"
+    ],
+    "title": "瑶柱与冬瓜",
+    "level": "good",
+    "category": "粤式夏汤",
+    "text": "瑶柱冬瓜汤鲜而不腻，清热利湿夏令参考。"
+  },
+  {
+    "ids": [
+      "c20-sc-sauerkraut-fish",
+      "grass-carp"
+    ],
+    "title": "酸菜与鲜鱼",
+    "level": "good",
+    "category": "川菜开胃",
+    "text": "川菜酸菜鱼经典，酸辣开胃、湿重困脾时参考。"
+  },
+  {
+    "ids": [
+      "c20-sc-kungpao",
+      "peanut"
+    ],
+    "title": "宫保鸡丁与花生",
+    "level": "good",
+    "category": "川菜经典",
+    "text": "宫保鸡丁配花生米，开胃下气、日常下饭。"
+  },
+  {
+    "ids": [
+      "c13-sc-sichuan-pepper",
+      "pork"
+    ],
+    "title": "花椒与猪肉",
+    "level": "caution",
+    "category": "川味调味",
+    "text": "川式麻香配伍，温中散寒但胃热、阴虚者宜减量。"
+  },
+  {
+    "ids": [
+      "c20-cq-wanzhou-fish",
+      "ginger"
+    ],
+    "title": "烤鱼与生姜",
+    "level": "caution",
+    "category": "渝菜麻辣",
+    "text": "万州烤鱼麻辣鲜香，湿热体质与胃弱者宜减量。"
+  },
+  {
+    "ids": [
+      "c20-yn-termite-mushroom",
+      "chicken"
+    ],
+    "title": "鸡枞菌与鸡肉",
+    "level": "caution",
+    "category": "滇式山珍",
+    "text": "云南菌子炖鸡，须煮熟透，过敏者慎用。"
+  },
+  {
+    "ids": [
+      "c20-yn-pineapple-rice",
+      "rice"
+    ],
+    "title": "菠萝与糯米饭",
+    "level": "good",
+    "category": "傣味主食",
+    "text": "西双版纳菠萝饭，酸甜开胃，控糖适量。"
+  },
+  {
+    "ids": [
+      "c20-gz-kaili-soup",
+      "grass-carp"
+    ],
+    "title": "凯里酸汤与鱼",
+    "level": "good",
+    "category": "黔式酸汤",
+    "text": "苗家酸汤鱼方向，开胃祛湿、暑湿身重时参考。"
+  },
+  {
+    "ids": [
+      "c20-gz-huaxi-beef-noodle",
+      "beef"
+    ],
+    "title": "花溪牛肉粉",
+    "level": "good",
+    "category": "黔式主食",
+    "text": "贵阳花溪牛肉粉，温胃暖身，辛辣适量。"
   }
 ];

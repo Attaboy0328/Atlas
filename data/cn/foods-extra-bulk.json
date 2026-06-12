@@ -1344,7 +1344,8 @@
     "nature": "平",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-grain-146",
@@ -2940,7 +2941,8 @@
     "nature": "平",
     "regions": [
       "CN"
-    ]
+    ],
+    "hiddenFromLibrary": true
   },
   {
     "id": "cat-fungi-315",

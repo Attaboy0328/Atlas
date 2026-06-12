@@ -24,7 +24,9 @@ const NEW_BATCH_FILES = [
   "foods-china-curated-batch15.json",
   "foods-china-curated-batch16.json",
   "foods-china-curated-batch17.json",
-  "foods-china-curated-batch18.json"
+  "foods-china-curated-batch18.json",
+  "foods-china-curated-batch19.json",
+  "foods-china-curated-batch20.json"
 ];
 const CURATED_BATCH_FILES = [
   "foods-china-curated-batch12.json",
@@ -33,7 +35,9 @@ const CURATED_BATCH_FILES = [
   "foods-china-curated-batch15.json",
   "foods-china-curated-batch16.json",
   "foods-china-curated-batch17.json",
-  "foods-china-curated-batch18.json"
+  "foods-china-curated-batch18.json",
+  "foods-china-curated-batch19.json",
+  "foods-china-curated-batch20.json"
 ];
 const POOL_BATCH_FILES = [
   "foods-china-regional-batch7.json",
@@ -74,13 +78,15 @@ const recipeFiles = [
   "handcrafted-recipes-batch3.json",
   "cantonese-recipes-batch.json",
   "regional-recipes-batch.json",
-  "regional-recipes-batch2.json"
+  "regional-recipes-batch2.json",
+  "regional-recipes-batch3.json"
 ];
 const allRecipes = recipeFiles.flatMap(readTcmJson);
 const cantoneseRecipes = readTcmJson("cantonese-recipes-batch.json");
 const regionalRecipes = [
   ...readTcmJson("regional-recipes-batch.json"),
-  ...readTcmJson("regional-recipes-batch2.json")
+  ...readTcmJson("regional-recipes-batch2.json"),
+  ...readTcmJson("regional-recipes-batch3.json")
 ];
 const hkCuisineRecipes = [...cantoneseRecipes, ...regionalRecipes].filter((r) => r.cuisine === "港式");
 const moCuisineRecipes = regionalRecipes.filter((r) => r.cuisine === "澳式");
@@ -112,8 +118,8 @@ const issues = [];
 if (newBatchTotal < 1700) {
   issues.push(`new-batch-total ${newBatchTotal} < 1700`);
 }
-if (curatedTotal < 480) {
-  issues.push(`curated batches total ${curatedTotal} < 480`);
+if (curatedTotal < 580) {
+  issues.push(`curated batches total ${curatedTotal} < 580`);
 }
 if (poolTemplateRatio > 0.3) {
   issues.push(`pool template ratio ${(poolTemplateRatio * 100).toFixed(1)}% > 30%`);
@@ -121,8 +127,8 @@ if (poolTemplateRatio > 0.3) {
 if (cantoneseRecipes.length < 118) {
   issues.push(`cantonese-recipes ${cantoneseRecipes.length} < 118`);
 }
-if (regionalRecipes.length < 160) {
-  issues.push(`regional-recipes ${regionalRecipes.length} < 160`);
+if (regionalRecipes.length < 195) {
+  issues.push(`regional-recipes ${regionalRecipes.length} < 195`);
 }
 if (lingnanFoods.length < 200) {
   issues.push(`lingnan-tagged foods ${lingnanFoods.length} < 200`);

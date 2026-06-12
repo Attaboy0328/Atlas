@@ -2056,7 +2056,8 @@
       "chinese-sausage-gd"
     ],
     "summary": "腊味饭与煲汤提香。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "preserved-duck-gd",

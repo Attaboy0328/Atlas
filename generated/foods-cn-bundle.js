@@ -198,6 +198,31 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "浙西名茶，清润微凉。"
   },
   {
+    "id": "c20-gz-anshun-liangfen",
+    "name": "安顺裹凉粉",
+    "en": "安顺裹凉粉",
+    "category": "主食",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "c20gzanshunliangfen",
+    "initials": "c20",
+    "searchTerms": [
+      "安顺裹凉粉",
+      "c20-gz-anshun-liangfen"
+    ],
+    "summary": "安顺裹凉粉，酸辣凉拌小吃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "quail-egg",
     "name": "鹌鹑蛋",
     "en": "quail egg",
@@ -733,6 +758,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-gd-boiled-shrimp",
+    "name": "白灼虾",
+    "en": "白灼虾",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdboiledshrimp",
+    "initials": "c19",
+    "searchTerms": [
+      "白灼虾",
+      "c19-gd-boiled-shrimp"
+    ],
+    "summary": "粤菜白灼虾，鲜甜高蛋白，清淡不腻。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "bai-three-course-tea",
     "name": "白族三道茶",
     "en": "Bai three-course tea",
@@ -858,6 +908,31 @@ const CN_SUPPLEMENT_FOODS = [
       "c15-gd-dried-lily"
     ],
     "summary": "粤式糖水炖品，润肺安神。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c20-yn-wild-honey",
+    "name": "百花蜜",
+    "en": "百花蜜",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "c20ynwildhoney",
+    "initials": "c20",
+    "searchTerms": [
+      "百花蜜",
+      "c20-yn-wild-honey"
+    ],
+    "summary": "云南百花蜜，润肺润肠适量。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -5545,6 +5620,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-gz-bijie-tangyuan",
+    "name": "毕节汤圆",
+    "en": "毕节汤圆",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "c20gzbijietangyuan",
+    "initials": "c20",
+    "searchTerms": [
+      "毕节汤圆",
+      "c20-gz-bijie-tangyuan"
+    ],
+    "summary": "毕节糯米汤圆，温补甜点。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "pecan",
     "name": "碧根果",
     "en": "pecan",
@@ -5602,6 +5702,35 @@ const CN_SUPPLEMENT_FOODS = [
       "三角鲂"
     ],
     "summary": "常见淡水鱼，体阔肉厚，宜红烧、炖汤。"
+  },
+  {
+    "id": "c19-fj-pianrouyan",
+    "name": "扁肉燕",
+    "en": "扁肉燕",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "aliases": [
+      "肉燕"
+    ],
+    "pinyin": "c19fjpianrouyan",
+    "initials": "c19",
+    "searchTerms": [
+      "扁肉燕",
+      "肉燕",
+      "c19-fj-pianrouyan"
+    ],
+    "summary": "福州扁肉燕，皮薄馅鲜面食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "ln-bingtanghulu",
@@ -5738,6 +5867,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-sc-bobo-chicken",
+    "name": "钵钵鸡",
+    "en": "钵钵鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20scbobochicken",
+    "initials": "c20",
+    "searchTerms": [
+      "钵钵鸡",
+      "c20-sc-bobo-chicken"
+    ],
+    "summary": "乐山钵钵鸡，麻辣冷串，适量食用。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "spinach",
     "name": "菠菜",
     "en": "spinach",
@@ -5850,6 +6004,35 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-hk-pineapple-bun"
     ],
     "summary": "港式菠萝包酥皮面包。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c20-yn-pineapple-rice",
+    "name": "菠萝饭",
+    "en": "菠萝饭",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "aliases": [
+      "傣味菠萝饭"
+    ],
+    "pinyin": "c20ynpineapplerice",
+    "initials": "c20",
+    "searchTerms": [
+      "菠萝饭",
+      "傣味菠萝饭",
+      "c20-yn-pineapple-rice"
+    ],
+    "summary": "西双版纳菠萝饭，酸甜主食。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -6236,6 +6419,35 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "夏季河鲜常见，宜水煮、红烧。",
     "caution": "海鲜过敏者禁食。"
+  },
+  {
+    "id": "c19-gd-char-siu",
+    "name": "叉烧",
+    "en": "叉烧",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "aliases": [
+      "蜜汁叉烧"
+    ],
+    "pinyin": "c19gdcharsiu",
+    "initials": "c19",
+    "searchTerms": [
+      "叉烧",
+      "蜜汁叉烧",
+      "c19-gd-char-siu"
+    ],
+    "summary": "广式叉烧，酱香温补，控糖适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "c13-mo-pork-bun",
@@ -6664,6 +6876,36 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-gd-chaozhou-beefball",
+    "name": "潮汕牛肉丸",
+    "en": "潮汕牛肉丸",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "aliases": [
+      "手打牛肉丸"
+    ],
+    "pinyin": "c19gdchaozhoubeefball",
+    "initials": "c19",
+    "searchTerms": [
+      "潮汕牛肉丸",
+      "手打牛肉丸",
+      "c19-gd-chaozhou-beefball"
+    ],
+    "summary": "潮汕牛肉丸，弹嫩高蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
     "id": "pickled-mustard-gd",
     "name": "潮汕咸菜",
     "en": "潮汕咸菜",
@@ -6938,6 +7180,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-gd-chenpi-duck",
+    "name": "陈皮鸭",
+    "en": "陈皮鸭",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdchenpiduck",
+    "initials": "c19",
+    "searchTerms": [
+      "陈皮鸭",
+      "c19-gd-chenpi-duck"
+    ],
+    "summary": "新会陈皮鸭，理气开胃，油腻控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "preserved-duck-gizzard",
     "name": "陈肾",
     "en": "陈肾",
@@ -7206,6 +7473,31 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "粤式早茶凤爪，胶原蛋白适量。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
     "hiddenFromLibrary": true
+  },
+  {
+    "id": "c19-gd-soy-chicken",
+    "name": "豉油鸡",
+    "en": "豉油鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdsoychicken",
+    "initials": "c19",
+    "searchTerms": [
+      "豉油鸡",
+      "c19-gd-soy-chicken"
+    ],
+    "summary": "粤式豉油鸡，咸香补虚，日常凉菜。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "gd-steamed-spareribs",
@@ -7583,6 +7875,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-cq-chongqing-noodle",
+    "name": "重庆豌杂面",
+    "en": "重庆豌杂面",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "c20cqchongqingnoodle",
+    "initials": "c20",
+    "searchTerms": [
+      "重庆豌杂面",
+      "c20-cq-chongqing-noodle"
+    ],
+    "summary": "重庆豌杂面，豌豆杂酱面食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "chongqing-noodles",
     "name": "重庆小面",
     "en": "chongqing noodles",
@@ -7820,6 +8137,60 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "徽州臭鳜鱼，发酵风味。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
     "hiddenFromLibrary": true
+  },
+  {
+    "id": "c20-sc-liangfen",
+    "name": "川北凉粉",
+    "en": "川北凉粉",
+    "category": "主食",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20scliangfen",
+    "initials": "c20",
+    "searchTerms": [
+      "川北凉粉",
+      "c20-sc-liangfen"
+    ],
+    "summary": "川北凉粉，清热解暑小吃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c20-sc-sichuan-sausage",
+    "name": "川味香肠",
+    "en": "川味香肠",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "aliases": [
+      "腊肠"
+    ],
+    "pinyin": "c20scsichuansausage",
+    "initials": "c20",
+    "searchTerms": [
+      "川味香肠",
+      "腊肠",
+      "c20-sc-sichuan-sausage"
+    ],
+    "summary": "四川麻辣香肠，腊香温补控盐。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "spring-roll",
@@ -8466,6 +8837,31 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-erkuai"
     ],
     "summary": "大理饵块，家常主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c20-yn-dali-rushan",
+    "name": "大理乳扇",
+    "en": "大理乳扇",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "c20yndalirushan",
+    "initials": "c20",
+    "searchTerms": [
+      "大理乳扇",
+      "c20-yn-dali-rushan"
+    ],
+    "summary": "大理乳扇，烤奶制小吃，适量食用。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -9264,6 +9660,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-sc-dengying-beef",
+    "name": "灯影牛肉",
+    "en": "灯影牛肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20scdengyingbeef",
+    "initials": "c20",
+    "searchTerms": [
+      "灯影牛肉",
+      "c20-sc-dengying-beef"
+    ],
+    "summary": "达州灯影牛肉，薄脆高蛋白零食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "reed-shoot",
     "name": "荻笋",
     "en": "reed shoot",
@@ -9324,6 +9745,35 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "法国芥末籽酱，沙拉酱与肉类蘸料常用。",
     "caution": "辛辣刺激，胃炎活动期适量。"
+  },
+  {
+    "id": "c20-yn-morel-soup",
+    "name": "滇南羊肚菌",
+    "en": "滇南羊肚菌",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "aliases": [
+      "羊肚菌"
+    ],
+    "pinyin": "c20ynmorelsoup",
+    "initials": "c20",
+    "searchTerms": [
+      "滇南羊肚菌",
+      "羊肚菌",
+      "c20-yn-morel-soup"
+    ],
+    "summary": "云南羊肚菌，益气健脾，须煮熟。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "clove",
@@ -9631,6 +10081,32 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-gd-winter-melon-soup",
+    "name": "冬瓜盅",
+    "en": "冬瓜盅",
+    "category": "主食",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdwintermelonsoup",
+    "initials": "c19",
+    "searchTerms": [
+      "冬瓜盅",
+      "c19-gd-winter-melon-soup"
+    ],
+    "summary": "粤式冬瓜盅，清热利湿夏令汤品。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
     "id": "winter-bamboo-shoot",
     "name": "冬笋",
     "en": "winter bamboo shoot",
@@ -9764,6 +10240,31 @@ const CN_SUPPLEMENT_FOODS = [
       "blc"
     ],
     "summary": "苏南绿茶，清香偏凉。"
+  },
+  {
+    "id": "c20-gz-cuiyan-tea",
+    "name": "都匀毛尖",
+    "en": "都匀毛尖",
+    "category": "茶饮",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "c20gzcuiyantea",
+    "initials": "c20",
+    "searchTerms": [
+      "都匀毛尖",
+      "c20-gz-cuiyan-tea"
+    ],
+    "summary": "都匀毛尖绿茶，清热生津。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "doubanjiang",
@@ -10032,6 +10533,32 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-gz-tofu-ball",
+    "name": "豆腐圆子",
+    "en": "豆腐圆子",
+    "category": "豆制品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "c20gztofuball",
+    "initials": "c20",
+    "searchTerms": [
+      "豆腐圆子",
+      "c20-gz-tofu-ball"
+    ],
+    "summary": "贵阳豆腐圆子，油炸豆制小吃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
     "id": "c13-sc-bean-sprout",
     "name": "豆芽",
     "en": "豆芽",
@@ -10266,6 +10793,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-sc-emei-tofu",
+    "name": "峨眉山豆花",
+    "en": "峨眉山豆花",
+    "category": "豆制品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20scemeitofu",
+    "initials": "c20",
+    "searchTerms": [
+      "峨眉山豆花",
+      "c20-sc-emei-tofu"
+    ],
+    "summary": "峨眉山豆花，细嫩易消化豆制品。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "child-mustard",
     "name": "儿菜",
     "en": "baby mustard",
@@ -10373,6 +10925,31 @@ const CN_SUPPLEMENT_FOODS = [
       "c17-yn-erkuai"
     ],
     "summary": "云南饵块，米制主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c20-yn-crossing-bridge-rice",
+    "name": "饵丝",
+    "en": "饵丝",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "c20yncrossingbridgerice",
+    "initials": "c20",
+    "searchTerms": [
+      "饵丝",
+      "c20-yn-crossing-bridge-rice"
+    ],
+    "summary": "大理饵丝，米制细面主食。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -11243,6 +11820,85 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-fj-litchi-shell",
+    "name": "福清荔枝",
+    "en": "福清荔枝",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "aliases": [
+      "荔枝"
+    ],
+    "pinyin": "c19fjlitchishell",
+    "initials": "c19",
+    "searchTerms": [
+      "福清荔枝",
+      "荔枝",
+      "c19-fj-litchi-shell"
+    ],
+    "summary": "福建荔枝，生津益气，湿热适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c19-fj-xianmian",
+    "name": "福州线面",
+    "en": "福州线面",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "c19fjxianmian",
+    "initials": "c19",
+    "searchTerms": [
+      "福州线面",
+      "c19-fj-xianmian"
+    ],
+    "summary": "福州线面，细面易煮，病后调养。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c19-fj-fish-ball",
+    "name": "福州鱼丸",
+    "en": "福州鱼丸",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "c19fjfishball",
+    "initials": "c19",
+    "searchTerms": [
+      "福州鱼丸",
+      "c19-fj-fish-ball"
+    ],
+    "summary": "福州鱼丸，弹嫩高蛋白，宜煮汤。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "fermented-tofu",
     "name": "腐乳",
     "en": "fermented tofu",
@@ -11781,6 +12437,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-jx-navel-orange",
+    "name": "赣南脐橙",
+    "en": "赣南脐橙",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxnavelorange",
+    "initials": "c19",
+    "searchTerms": [
+      "赣南脐橙",
+      "c19-jx-navel-orange"
+    ],
+    "summary": "赣南脐橙，生津润肺，秋冬鲜果。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "c18-he-noodle",
     "name": "缸炉烧饼",
     "en": "缸炉烧饼",
@@ -11949,6 +12630,31 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "高粱，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "c20-sc-kungpao",
+    "name": "宫保鸡丁",
+    "en": "宫保鸡丁",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20sckungpao",
+    "initials": "c20",
+    "searchTerms": [
+      "宫保鸡丁",
+      "c20-sc-kungpao"
+    ],
+    "summary": "川菜宫保鸡丁，酸甜微辣下饭。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "tj-goubuli",
@@ -12226,6 +12932,60 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-fj-guangbing",
+    "name": "光饼",
+    "en": "光饼",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "c19fjguangbing",
+    "initials": "c19",
+    "searchTerms": [
+      "光饼",
+      "c19-fj-guangbing"
+    ],
+    "summary": "福州光饼，炭烤面饼，日常主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c19-jx-white-lotus",
+    "name": "广昌白莲",
+    "en": "广昌白莲",
+    "category": "坚果种子",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "aliases": [
+      "莲子"
+    ],
+    "pinyin": "c19jxwhitelotus",
+    "initials": "c19",
+    "searchTerms": [
+      "广昌白莲",
+      "莲子",
+      "c19-jx-white-lotus"
+    ],
+    "summary": "广昌白莲，健脾养心干货。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "chenpi-dried",
     "name": "广陈皮",
     "en": "广陈皮",
@@ -12377,6 +13137,36 @@ const CN_SUPPLEMENT_FOODS = [
       "chinese-sausage-gd"
     ],
     "summary": "腊味饭与煲汤提香。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "c19-gd-cantonese-sausage",
+    "name": "广式腊肠",
+    "en": "广式腊肠",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "aliases": [
+      "腊肠"
+    ],
+    "pinyin": "c19gdcantonesesausage",
+    "initials": "c19",
+    "searchTerms": [
+      "广式腊肠",
+      "腊肠",
+      "c19-gd-cantonese-sausage"
+    ],
+    "summary": "广式腊肠，腊香温补，控盐适量。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -12573,6 +13363,35 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-steamed-bread--1104"
     ],
     "summary": "贵州产区贵州发糕，性味归经按民间经验整理。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c20-gz-sour-fish-soup",
+    "name": "贵州红酸汤",
+    "en": "贵州红酸汤",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "aliases": [
+      "酸汤料"
+    ],
+    "pinyin": "c20gzsourfishsoup",
+    "initials": "c20",
+    "searchTerms": [
+      "贵州红酸汤",
+      "酸汤料",
+      "c20-gz-sour-fish-soup"
+    ],
+    "summary": "贵州红酸汤底料，开胃祛湿。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -13029,6 +13848,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-fj-guobianhu",
+    "name": "锅边糊",
+    "en": "锅边糊",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "c19fjguobianhu",
+    "initials": "c19",
+    "searchTerms": [
+      "锅边糊",
+      "c19-fj-guobianhu"
+    ],
+    "summary": "福州锅边糊，米浆早点，暖胃易消化。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "c16-ln-apple",
     "name": "国光苹果",
     "en": "国光苹果",
@@ -13051,6 +13895,31 @@ const CN_SUPPLEMENT_FOODS = [
       "c16-ln-apple"
     ],
     "summary": "辽宁国光苹果，生津润肺。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c19-gd-kway-teow",
+    "name": "粿条",
+    "en": "粿条",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdkwayteow",
+    "initials": "c19",
+    "searchTerms": [
+      "粿条",
+      "c19-gd-kway-teow"
+    ],
+    "summary": "潮汕粿条，米制主食，汤炒皆宜。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -13624,6 +14493,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-fj-oyster-soup",
+    "name": "海蛎羹",
+    "en": "海蛎羹",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "c19fjoystersoup",
+    "initials": "c19",
+    "searchTerms": [
+      "海蛎羹",
+      "c19-fj-oyster-soup"
+    ],
+    "summary": "闽南海蛎羹，滋阴鲜味汤品。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "xiamen-oyster-omelette",
     "name": "海蛎煎",
     "en": "oyster omelette",
@@ -14193,6 +15087,31 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "珠三角河田养殖食用沙蚕，秋季时令，多煎蛋、焗饭或制膏。",
     "caution": "过敏体质、孕妇慎食；须新鲜、彻底做熟。"
+  },
+  {
+    "id": "c20-cq-hechuan-taopian",
+    "name": "合川桃片",
+    "en": "合川桃片",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "c20cqhechuantaopian",
+    "initials": "c20",
+    "searchTerms": [
+      "合川桃片",
+      "c20-cq-hechuan-taopian"
+    ],
+    "summary": "合川桃片，核桃糯米糕点。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "hi-hele-crab",
@@ -19925,6 +20844,32 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-sc-chili-oil",
+    "name": "红油",
+    "en": "红油",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20scchilioil",
+    "initials": "c20",
+    "searchTerms": [
+      "红油",
+      "c20-sc-chili-oil"
+    ],
+    "summary": "川式红油，辛香调味，胃热减量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
     "id": "c13-sc-chili-oil",
     "name": "红油辣子",
     "en": "红油辣子",
@@ -19972,6 +20917,31 @@ const CN_SUPPLEMENT_FOODS = [
       "fj-red-wine-chicken"
     ],
     "summary": "福建红糟烹调，温中补血。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c19-fj-hongzao-fish",
+    "name": "红糟鱼",
+    "en": "红糟鱼",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "c19fjhongzaofish",
+    "initials": "c19",
+    "searchTerms": [
+      "红糟鱼",
+      "c19-fj-hongzao-fish"
+    ],
+    "summary": "福建红糟鱼，酒酿风味，温补适量。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -20524,6 +21494,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-jx-hugeng",
+    "name": "糊羹",
+    "en": "糊羹",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxhugeng",
+    "initials": "c19",
+    "searchTerms": [
+      "糊羹",
+      "c19-jx-hugeng"
+    ],
+    "summary": "南昌糊羹，米羹早点，暖胃充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "c17-gz-chili",
     "name": "糊辣椒",
     "en": "糊辣椒",
@@ -20975,6 +21970,31 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "山东花生，健脾润肺。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
     "hiddenFromLibrary": true
+  },
+  {
+    "id": "c20-gz-huaxi-beef-noodle",
+    "name": "花溪牛肉粉",
+    "en": "花溪牛肉粉",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "c20gzhuaxibeefnoodle",
+    "initials": "c20",
+    "searchTerms": [
+      "花溪牛肉粉",
+      "c20-gz-huaxi-beef-noodle"
+    ],
+    "summary": "贵阳花溪牛肉粉，辣香汤粉。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "flower-crab",
@@ -21840,6 +22860,31 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "徽菜代表，发酵鳜鱼，偏温鲜。"
   },
   {
+    "id": "c20-sc-twice-pork",
+    "name": "回锅肉",
+    "en": "回锅肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20sctwicepork",
+    "initials": "c20",
+    "searchTerms": [
+      "回锅肉",
+      "c20-sc-twice-pork"
+    ],
+    "summary": "川菜回锅肉，酱香下饭，高脂控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "hui-lamian",
     "name": "回族拉面",
     "en": "Hui hand-pulled noodle",
@@ -22210,6 +23255,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "c20-yn-termite-mushroom",
+    "name": "鸡枞菌",
+    "en": "鸡枞菌",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "c20yntermitemushroom",
+    "initials": "c20",
+    "searchTerms": [
+      "鸡枞菌",
+      "c20-yn-termite-mushroom"
+    ],
+    "summary": "云南鸡枞菌，鲜美菌菇，须煮熟。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "egg",
     "name": "鸡蛋",
     "en": "egg",
@@ -22464,6 +23534,32 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-pork-liver-congee"
     ],
     "summary": "港式猪杂生滚粥，健脾益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "c19-gd-triple-congee",
+    "name": "及第粥",
+    "en": "及第粥",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdtriplecongee",
+    "initials": "c19",
+    "searchTerms": [
+      "及第粥",
+      "c19-gd-triple-congee"
+    ],
+    "summary": "广府及第粥，猪杂粥品，温胃益气。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -24860,6 +25956,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-yn-jianshui-tofu",
+    "name": "建水烧豆腐",
+    "en": "建水烧豆腐",
+    "category": "豆制品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "c20ynjianshuitofu",
+    "initials": "c20",
+    "searchTerms": [
+      "建水烧豆腐",
+      "c20-yn-jianshui-tofu"
+    ],
+    "summary": "建水烧豆腐，炭烤豆香小吃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "sword-lily-dried",
     "name": "剑花",
     "en": "剑花",
@@ -24890,6 +26011,31 @@ const CN_SUPPLEMENT_FOODS = [
       "sword-lily-dried"
     ],
     "summary": "干制花材，老火汤润肺化痰常见搭配。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c20-cq-jiangjin-pepper",
+    "name": "江津花椒",
+    "en": "江津花椒",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "c20cqjiangjinpepper",
+    "initials": "c20",
+    "searchTerms": [
+      "江津花椒",
+      "c20-cq-jiangjin-pepper"
+    ],
+    "summary": "江津青花椒，麻香调味。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -25143,6 +26289,35 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-jx-three-cup",
+    "name": "江西三杯鸡",
+    "en": "江西三杯鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "aliases": [
+      "三杯鸡"
+    ],
+    "pinyin": "c19jxthreecup",
+    "initials": "c19",
+    "searchTerms": [
+      "江西三杯鸡",
+      "三杯鸡",
+      "c19-jx-three-cup"
+    ],
+    "summary": "赣菜三杯鸡，酱香温补适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "c14-gd-clam-ginger",
     "name": "姜葱花甲",
     "en": "姜葱花甲",
@@ -25199,6 +26374,31 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "姜黄，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "c19-fj-ginger-duck",
+    "name": "姜母鸭",
+    "en": "姜母鸭",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "c19fjgingerduck",
+    "initials": "c19",
+    "searchTerms": [
+      "姜母鸭",
+      "c19-fj-ginger-duck"
+    ],
+    "summary": "闽南姜母鸭，温中散寒冬季。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "mo-ginger-milk",
@@ -25739,6 +26939,31 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true
   },
   {
+    "id": "c19-jx-bamboo-shoot",
+    "name": "井冈烟笋",
+    "en": "井冈烟笋",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxbambooshoot",
+    "initials": "c19",
+    "searchTerms": [
+      "井冈烟笋",
+      "c19-jx-bamboo-shoot"
+    ],
+    "summary": "井冈山烟笋，清热化痰，炖肉配菜。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "bombay-duck",
     "name": "九肚鱼",
     "en": "bombay duck",
@@ -25773,6 +26998,31 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "软骨海鱼，肉质细嫩如豆腐，粤菜常炸、煮汤或清蒸。",
     "caution": "海鲜过敏者禁食；油炸时注意控油。"
+  },
+  {
+    "id": "c19-jx-tea-cake",
+    "name": "九江茶饼",
+    "en": "九江茶饼",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxteacake",
+    "initials": "c19",
+    "searchTerms": [
+      "九江茶饼",
+      "c19-jx-tea-cake"
+    ],
+    "summary": "九江茶饼，酥脆茶点，配茶食用。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "sd-braised-intestine",
@@ -26435,6 +27685,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "调味、盐焗版本控钠；过敏体质留意。"
   },
   {
+    "id": "c20-gz-kaili-soup",
+    "name": "凯里酸汤",
+    "en": "凯里酸汤",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "c20gzkailisoup",
+    "initials": "c20",
+    "searchTerms": [
+      "凯里酸汤",
+      "c20-gz-kaili-soup"
+    ],
+    "summary": "凯里红酸汤底料，开胃消食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "c17-xj-samsa",
     "name": "烤包子",
     "en": "烤包子",
@@ -26645,7 +27920,37 @@ const CN_SUPPLEMENT_FOODS = [
       "niangdoufu",
       "ndf"
     ],
-    "summary": "客家经典，豆腐酿肉，平和。"
+    "summary": "客家经典，豆腐酿肉，平和。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "c19-jx-hakka-tofu",
+    "name": "客家酿豆腐",
+    "en": "客家酿豆腐",
+    "category": "豆制品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "aliases": [
+      "酿豆腐"
+    ],
+    "pinyin": "c19jxhakkatofu",
+    "initials": "c19",
+    "searchTerms": [
+      "客家酿豆腐",
+      "酿豆腐",
+      "c19-jx-hakka-tofu"
+    ],
+    "summary": "赣南酿豆腐，健脾益气家常菜。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "gx-water-spinach-gx",
@@ -26737,6 +28042,31 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "口蘑，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "c20-sc-mouthwater-chicken",
+    "name": "口水鸡",
+    "en": "口水鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20scmouthwaterchicken",
+    "initials": "c20",
+    "searchTerms": [
+      "口水鸡",
+      "c20-sc-mouthwater-chicken"
+    ],
+    "summary": "川菜口水鸡，麻辣开胃凉菜。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "c18-hn-spicy-crayfish",
@@ -26915,6 +28245,31 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "苦菊，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "c19-jx-kudzu-tofu",
+    "name": "苦槠豆腐",
+    "en": "苦槠豆腐",
+    "category": "豆制品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxkudzutofu",
+    "initials": "c19",
+    "searchTerms": [
+      "苦槠豆腐",
+      "c19-jx-kudzu-tofu"
+    ],
+    "summary": "景德镇苦槠豆腐，清香豆制小吃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "sunflower-seed",
@@ -27391,6 +28746,31 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true
   },
   {
+    "id": "c20-sc-lai-tangyuan",
+    "name": "赖汤圆",
+    "en": "赖汤圆",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20sclaitangyuan",
+    "initials": "c20",
+    "searchTerms": [
+      "赖汤圆",
+      "c20-sc-lai-tangyuan"
+    ],
+    "summary": "成都赖汤圆，糯米甜点，控糖适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "mantis-shrimp",
     "name": "濑尿虾",
     "en": "濑尿虾",
@@ -27788,6 +29168,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-sc-cold-rabbit",
+    "name": "冷吃兔",
+    "en": "冷吃兔",
+    "category": "肉蛋奶",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20sccoldrabbit",
+    "initials": "c20",
+    "searchTerms": [
+      "冷吃兔",
+      "c20-sc-cold-rabbit"
+    ],
+    "summary": "自贡冷吃兔，麻辣零食，辛辣适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "jl-korean-cold-noodle",
     "name": "冷面",
     "en": "冷面",
@@ -27880,6 +29285,32 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "春季江南常见野菜，清香脆嫩，多炒腊肉或清炒。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "c19-jx-artemisia",
+    "name": "藜蒿",
+    "en": "藜蒿",
+    "category": "野菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxartemisia",
+    "initials": "c19",
+    "searchTerms": [
+      "藜蒿",
+      "c19-jx-artemisia"
+    ],
+    "summary": "鄱阳湖藜蒿，清香健脾，常配腊肉炒制。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "quinoa",
@@ -28019,6 +29450,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "海鲜过敏者禁食。"
   },
   {
+    "id": "c20-yn-lijiang-baba",
+    "name": "丽江粑粑",
+    "en": "丽江粑粑",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "c20ynlijiangbaba",
+    "initials": "c20",
+    "searchTerms": [
+      "丽江粑粑",
+      "c20-yn-lijiang-baba"
+    ],
+    "summary": "丽江粑粑，纳西烤饼，日常主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "c14-gd-taro-fresh",
     "name": "荔浦芋头",
     "en": "荔浦芋头",
@@ -28101,6 +29557,31 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "海南荔枝，温中益气，多食上火。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
     "hiddenFromLibrary": true
+  },
+  {
+    "id": "c19-fj-lizhirou",
+    "name": "荔枝肉",
+    "en": "荔枝肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "c19fjlizhirou",
+    "initials": "c19",
+    "searchTerms": [
+      "荔枝肉",
+      "c19-fj-lizhirou"
+    ],
+    "summary": "闽菜荔枝肉，酸甜开胃，高脂控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "chestnut",
@@ -30877,6 +32358,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "含酒精，孕妇、驾车前不宜食用含酒菜肴。"
   },
   {
+    "id": "c19-jx-linchuan-wine",
+    "name": "临川贡酒",
+    "en": "临川贡酒",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxlinchuanwine",
+    "initials": "c19",
+    "searchTerms": [
+      "临川贡酒",
+      "c19-jx-linchuan-wine"
+    ],
+    "summary": "临川贡酒，米香白酒，少量活血。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "ganoderma-lucidum",
     "name": "灵芝",
     "category": "食药物质",
@@ -31051,6 +32557,31 @@ const CN_SUPPLEMENT_FOODS = [
       "bamboo-fungus-gd"
     ],
     "summary": "煲汤增鲜，益气养阴。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c19-gd-liusha-bun",
+    "name": "流沙包",
+    "en": "流沙包",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdliushabun",
+    "initials": "c19",
+    "searchTerms": [
+      "流沙包",
+      "c19-gd-liusha-bun"
+    ],
+    "summary": "粤式流沙包，奶黄甜点，适量食用。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -33198,6 +34729,32 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "高胆固醇者适量；须烫熟，不宜久涮过老。"
   },
   {
+    "id": "c20-cq-hotpot-beef",
+    "name": "毛肚",
+    "en": "毛肚",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "c20cqhotpotbeef",
+    "initials": "c20",
+    "searchTerms": [
+      "毛肚",
+      "c20-cq-hotpot-beef"
+    ],
+    "summary": "火锅毛肚，高蛋白涮品，适量食用。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
     "id": "hairy-bamboo-shoot",
     "name": "毛笋",
     "en": "hairy bamboo shoot",
@@ -33521,6 +35078,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-yn-rose-candy",
+    "name": "玫瑰糖",
+    "en": "玫瑰糖",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "c20ynrosecandy",
+    "initials": "c20",
+    "searchTerms": [
+      "玫瑰糖",
+      "c20-yn-rose-candy"
+    ],
+    "summary": "云南玫瑰糖，花香甜味，冲饮点心。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "pork-collar",
     "name": "梅头肉",
     "en": "梅头肉",
@@ -33712,6 +35294,31 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "草原地区发酵乳饮，偏温，节庆与待客常见。",
     "caution": "含酒精，孕妇、驾车及酒精敏感者不宜。"
+  },
+  {
+    "id": "c20-yn-mengzi-rice-noodle",
+    "name": "蒙自米线",
+    "en": "蒙自米线",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "c20ynmengziricenoodle",
+    "initials": "c20",
+    "searchTerms": [
+      "蒙自米线",
+      "c20-yn-mengzi-rice-noodle"
+    ],
+    "summary": "蒙自过桥米线，汤鲜米滑主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "rosemary",
@@ -34043,6 +35650,31 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true
   },
   {
+    "id": "c20-sc-mianyang-noodle",
+    "name": "绵阳米粉",
+    "en": "绵阳米粉",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20scmianyangnoodle",
+    "initials": "c20",
+    "searchTerms": [
+      "绵阳米粉",
+      "c20-sc-mianyang-noodle"
+    ],
+    "summary": "绵阳米粉，汤粉暖胃主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "mianyinchen",
     "name": "绵茵陈",
     "en": "绵茵陈",
@@ -34217,6 +35849,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-gz-miao-rice",
+    "name": "苗家糯米饭",
+    "en": "苗家糯米饭",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "c20gzmiaorice",
+    "initials": "c20",
+    "searchTerms": [
+      "苗家糯米饭",
+      "c20-gz-miao-rice"
+    ],
+    "summary": "黔东南苗家糯米饭，节庆主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "miao-glutinous-rice-wine",
     "name": "苗族糯米酒",
     "en": "Miao glutinous rice wine",
@@ -34299,6 +35956,31 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "明虾，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "c19-fj-jasmine-tea",
+    "name": "茉莉花茶",
+    "en": "茉莉花茶",
+    "category": "茶饮",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "c19fjjasminetea",
+    "initials": "c19",
+    "searchTerms": [
+      "茉莉花茶",
+      "c19-fj-jasmine-tea"
+    ],
+    "summary": "福州茉莉花茶，理气解郁茶饮。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "cuttlefish",
@@ -34727,6 +36409,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-jx-board-duck",
+    "name": "南安板鸭",
+    "en": "南安板鸭",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxboardduck",
+    "initials": "c19",
+    "searchTerms": [
+      "南安板鸭",
+      "c19-jx-board-duck"
+    ],
+    "summary": "南安板鸭，腊香温补，控盐适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "c14-gd-squid-dried",
     "name": "南澳鱿鱼干",
     "en": "南澳鱿鱼干",
@@ -34789,6 +36496,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-jx-sugar-cake",
+    "name": "南昌白糖糕",
+    "en": "南昌白糖糕",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxsugarcake",
+    "initials": "c19",
+    "searchTerms": [
+      "南昌白糖糕",
+      "c19-jx-sugar-cake"
+    ],
+    "summary": "南昌白糖糕，糯米甜点，适量充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "c14-jx-rice-noodle",
     "name": "南昌拌粉",
     "en": "南昌拌粉",
@@ -34838,6 +36570,31 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "南昌拌粉，辣香主食。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
     "hiddenFromLibrary": true
+  },
+  {
+    "id": "c19-jx-honey-tangerine",
+    "name": "南丰蜜橘",
+    "en": "南丰蜜橘",
+    "category": "水果",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxhoneytangerine",
+    "initials": "c19",
+    "searchTerms": [
+      "南丰蜜橘",
+      "c19-jx-honey-tangerine"
+    ],
+    "summary": "南丰蜜橘，理气开胃小果。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "pumpkin",
@@ -39561,6 +41318,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "c19-gd-beef-offal",
+    "name": "牛杂",
+    "en": "牛杂",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdbeefoffal",
+    "initials": "c19",
+    "searchTerms": [
+      "牛杂",
+      "c19-gd-beef-offal"
+    ],
+    "summary": "广式牛杂，温胃充饥，高嘌呤控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "oregano-dried",
     "name": "牛至",
     "en": "oregano",
@@ -40237,6 +42019,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "c19-jx-silver-fish",
+    "name": "鄱阳湖银鱼",
+    "en": "鄱阳湖银鱼",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxsilverfish",
+    "initials": "c19",
+    "searchTerms": [
+      "鄱阳湖银鱼",
+      "c19-jx-silver-fish"
+    ],
+    "summary": "鄱阳湖银鱼，细嫩高蛋白，宜蒸羹。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "mo-portuguese-chicken",
     "name": "葡国鸡",
     "en": "葡国鸡",
@@ -40562,6 +42369,31 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true
   },
   {
+    "id": "c20-yn-pu-er-cake",
+    "name": "普洱糕",
+    "en": "普洱糕",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "pinyin": "c20ynpuercake",
+    "initials": "c20",
+    "searchTerms": [
+      "普洱糕",
+      "c20-yn-pu-er-cake"
+    ],
+    "summary": "普洱米糕，茶香甜点适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "keemun-tea",
     "name": "祁门红茶",
     "en": "keemun black tea",
@@ -40733,6 +42565,56 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-gd-stone-pot"
     ],
     "summary": "云南汽锅鸡料包方向。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c19-jx-tangfen",
+    "name": "铅山烫粉",
+    "en": "铅山烫粉",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxtangfen",
+    "initials": "c19",
+    "searchTerms": [
+      "铅山烫粉",
+      "c19-jx-tangfen"
+    ],
+    "summary": "铅山烫粉，汤粉暖胃，日常主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c20-cq-qianjiang-chicken",
+    "name": "黔江鸡杂",
+    "en": "黔江鸡杂",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "c20cqqianjiangchicken",
+    "initials": "c20",
+    "searchTerms": [
+      "黔江鸡杂",
+      "c20-cq-qianjiang-chicken"
+    ],
+    "summary": "黔江鸡杂，酸辣开胃，高嘌呤控量。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -41382,6 +43264,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
   },
   {
+    "id": "c20-gz-qingyan-pig",
+    "name": "青岩卤猪脚",
+    "en": "青岩卤猪脚",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "c20gzqingyanpig",
+    "initials": "c20",
+    "searchTerms": [
+      "青岩卤猪脚",
+      "c20-gz-qingyan-pig"
+    ],
+    "summary": "青岩卤猪脚，胶质丰富，控量食用。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "black-carp",
     "name": "青鱼",
     "en": "black carp",
@@ -41469,6 +43376,31 @@ const CN_SUPPLEMENT_FOODS = [
     "summary": "海南清补凉底料，清热解暑。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
     "hiddenFromLibrary": true
+  },
+  {
+    "id": "c19-gd-qingyuan-chicken",
+    "name": "清远鸡",
+    "en": "清远鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdqingyuanchicken",
+    "initials": "c19",
+    "searchTerms": [
+      "清远鸡",
+      "c19-gd-qingyuan-chicken"
+    ],
+    "summary": "清远走地鸡，肉质鲜嫩，温中益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "halal-chicken",
@@ -42656,6 +44588,35 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true
   },
   {
+    "id": "c19-fj-shaxian-noodle",
+    "name": "沙县拌面",
+    "en": "沙县拌面",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "aliases": [
+      "沙县小吃"
+    ],
+    "pinyin": "c19fjshaxiannoodle",
+    "initials": "c19",
+    "searchTerms": [
+      "沙县拌面",
+      "沙县小吃",
+      "c19-fj-shaxian-noodle"
+    ],
+    "summary": "沙县花生酱拌面，日常主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "amomum",
     "name": "砂仁",
     "en": "amomum",
@@ -42683,6 +44644,31 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "砂仁，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "c20-cq-small-tangyuan",
+    "name": "山城小汤圆",
+    "en": "山城小汤圆",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "c20cqsmalltangyuan",
+    "initials": "c20",
+    "searchTerms": [
+      "山城小汤圆",
+      "c20-cq-small-tangyuan"
+    ],
+    "summary": "重庆山城小汤圆，糯米甜点。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "reg-knife-cut-noodle--1526",
@@ -43439,6 +45425,31 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-roujiamo--1358"
     ],
     "summary": "上海肉夹馍属上海类，传统食养整理供查阅搭配。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c19-gd-roast-goose",
+    "name": "烧鹅",
+    "en": "烧鹅",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdroastgoose",
+    "initials": "c19",
+    "searchTerms": [
+      "烧鹅",
+      "c19-gd-roast-goose"
+    ],
+    "summary": "广式烧鹅，皮脆肉嫩，高脂控量。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -45155,6 +47166,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-sc-sauerkraut-fish",
+    "name": "酸菜鱼",
+    "en": "酸菜鱼",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20scsauerkrautfish",
+    "initials": "c20",
+    "searchTerms": [
+      "酸菜鱼",
+      "c20-sc-sauerkraut-fish"
+    ],
+    "summary": "川菜酸菜鱼，酸辣开胃，鱼肉鲜嫩。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "gx-pickled-long-bean",
     "name": "酸豆角",
     "en": "酸豆角",
@@ -45202,6 +47238,31 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-pickled-pepper"
     ],
     "summary": "广西酸辣椒，开胃下饭。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c20-cq-sour-noodle",
+    "name": "酸辣粉",
+    "en": "酸辣粉",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "c20cqsournoodle",
+    "initials": "c20",
+    "searchTerms": [
+      "酸辣粉",
+      "c20-cq-sour-noodle"
+    ],
+    "summary": "重庆酸辣粉，开胃主食，胃弱者减量。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -48417,6 +50478,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-sc-pickled-radish",
+    "name": "跳水萝卜",
+    "en": "跳水萝卜",
+    "category": "腌菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20scpickledradish",
+    "initials": "c20",
+    "searchTerms": [
+      "跳水萝卜",
+      "c20-sc-pickled-radish"
+    ],
+    "summary": "川式跳水萝卜，酸辣开胃小菜。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "mudskipper",
     "name": "跳跳鱼",
     "en": "mudskipper",
@@ -48565,7 +50651,33 @@ const CN_SUPPLEMENT_FOODS = [
       "tingzaizhou",
       "tzz"
     ],
-    "summary": "广州传统生滚粥。"
+    "summary": "广州传统生滚粥。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "c19-gd-boat-congee",
+    "name": "艇仔粥",
+    "en": "艇仔粥",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdboatcongee",
+    "initials": "c19",
+    "searchTerms": [
+      "艇仔粥",
+      "c19-gd-boat-congee"
+    ],
+    "summary": "广州艇仔粥，海鲜粥品，健脾养胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "water-spinach",
@@ -48801,6 +50913,31 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true
   },
   {
+    "id": "c20-sc-rabbit-head",
+    "name": "兔头",
+    "en": "兔头",
+    "category": "肉蛋奶",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20scrabbithead",
+    "initials": "c20",
+    "searchTerms": [
+      "兔头",
+      "c20-sc-rabbit-head"
+    ],
+    "summary": "成都麻辣兔头，辛辣零食适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "baby-cabbage",
     "name": "娃娃菜",
     "en": "baby bok choy",
@@ -48996,6 +51133,31 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-shark-fin-soup"
     ],
     "summary": "港式碗仔翅为淀粉羹品，非真鱼翅，适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c20-cq-wanzhou-fish",
+    "name": "万州烤鱼",
+    "en": "万州烤鱼",
+    "category": "海产",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "重庆"
+    ],
+    "pinyin": "c20cqwanzhoufish",
+    "initials": "c20",
+    "searchTerms": [
+      "万州烤鱼",
+      "c20-cq-wanzhou-fish"
+    ],
+    "summary": "万州烤鱼，麻辣鲜香，湿热减量。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -49709,6 +51871,32 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-gd-five-finger",
+    "name": "五指毛桃",
+    "en": "五指毛桃",
+    "category": "滋补食材",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdfivefinger",
+    "initials": "c19",
+    "searchTerms": [
+      "五指毛桃",
+      "c19-gd-five-finger"
+    ],
+    "summary": "岭南五指毛桃，健脾祛湿煲汤料。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
     "id": "wuchang-bream",
     "name": "武昌鱼",
     "en": "wuchang bream",
@@ -49865,6 +52053,60 @@ const CN_SUPPLEMENT_FOODS = [
       "whyb"
     ],
     "summary": "卤制鸭脖，偏热辣，宜少量。"
+  },
+  {
+    "id": "c19-fj-wuyi-rougui",
+    "name": "武夷肉桂",
+    "en": "武夷肉桂",
+    "category": "茶饮",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "c19fjwuyirougui",
+    "initials": "c19",
+    "searchTerms": [
+      "武夷肉桂",
+      "c19-fj-wuyi-rougui"
+    ],
+    "summary": "武夷肉桂岩茶，温胃行气茶饮。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c19-fj-wuyi-yancha",
+    "name": "武夷岩茶",
+    "en": "武夷岩茶",
+    "category": "茶饮",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "aliases": [
+      "大红袍"
+    ],
+    "pinyin": "c19fjwuyiyancha",
+    "initials": "c19",
+    "searchTerms": [
+      "武夷岩茶",
+      "大红袍",
+      "c19-fj-wuyi-yancha"
+    ],
+    "summary": "武夷岩茶，温胃消食茶饮。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "reg-fermented-tofu-white--2213",
@@ -56167,6 +58409,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-jx-fish-thread",
+    "name": "兴国鱼丝",
+    "en": "兴国鱼丝",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxfishthread",
+    "initials": "c19",
+    "searchTerms": [
+      "兴国鱼丝",
+      "c19-jx-fish-thread"
+    ],
+    "summary": "兴国鱼丝，手工鱼面，易消化蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "apricot",
     "name": "杏",
     "en": "apricot",
@@ -57052,6 +59319,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-gd-salt-chicken",
+    "name": "盐焗鸡",
+    "en": "盐焗鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdsaltchicken",
+    "initials": "c19",
+    "searchTerms": [
+      "盐焗鸡",
+      "c19-gd-salt-chicken"
+    ],
+    "summary": "客家盐焗鸡，咸香温补，控盐适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "js-crispy-duck",
     "name": "盐水鸭",
     "en": "盐水鸭",
@@ -57771,6 +60063,32 @@ const CN_SUPPLEMENT_FOODS = [
       "hk-mango-pomelo"
     ],
     "summary": "港式芒果西米糖水，清热生津。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "c19-gd-mango-pomelo",
+    "name": "杨枝甘露",
+    "en": "杨枝甘露",
+    "category": "饮品",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "pinyin": "c19gdmangopomelo",
+    "initials": "c19",
+    "searchTerms": [
+      "杨枝甘露",
+      "c19-gd-mango-pomelo"
+    ],
+    "summary": "港式杨枝甘露，清热生津甜品，控糖。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -57801,6 +60119,31 @@ const CN_SUPPLEMENT_FOODS = [
     ],
     "summary": "洋葱，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+  },
+  {
+    "id": "c20-gz-crispy-potato",
+    "name": "洋芋粑",
+    "en": "洋芋粑",
+    "category": "薯类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "c20gzcrispypotato",
+    "initials": "c20",
+    "searchTerms": [
+      "洋芋粑",
+      "c20-gz-crispy-potato"
+    ],
+    "summary": "贵州洋芋粑，土豆煎饼小吃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "cashew",
@@ -57950,6 +60293,36 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-gd-dried-scallop"
     ],
     "summary": "煲汤瑶柱，滋阴鲜味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "c19-gd-dried-scallop",
+    "name": "瑶柱",
+    "en": "瑶柱",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "广东"
+    ],
+    "aliases": [
+      "干贝"
+    ],
+    "pinyin": "c19gddriedscallop",
+    "initials": "c19",
+    "searchTerms": [
+      "瑶柱",
+      "干贝",
+      "c19-gd-dried-scallop"
+    ],
+    "summary": "粤式瑶柱，滋阴鲜味，煲汤提鲜。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
     "hiddenFromLibrary": true
   },
@@ -58400,6 +60773,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-sc-yibin-ranmian",
+    "name": "宜宾燃面",
+    "en": "宜宾燃面",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20scyibinranmian",
+    "initials": "c20",
+    "searchTerms": [
+      "宜宾燃面",
+      "c20-sc-yibin-ranmian"
+    ],
+    "summary": "宜宾燃面，花生酱香面食，辛辣适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "yi-bitter-buckwheat-tea",
     "name": "彝族苦荞茶",
     "en": "Yi bitter buckwheat tea",
@@ -58427,6 +60825,31 @@ const CN_SUPPLEMENT_FOODS = [
       "凉山苦荞"
     ],
     "summary": "凉山与滇东北彝族地区常见，苦荞烘焙冲饮，偏凉。"
+  },
+  {
+    "id": "c19-jx-yiyang-rice-cake",
+    "name": "弋阳年糕",
+    "en": "弋阳年糕",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxyiyangricecake",
+    "initials": "c19",
+    "searchTerms": [
+      "弋阳年糕",
+      "c19-jx-yiyang-rice-cake"
+    ],
+    "summary": "弋阳年糕，糯米糕点，煎炒皆宜。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
     "id": "balsamic-vinegar",
@@ -59212,6 +61635,31 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true
   },
   {
+    "id": "c19-jx-yushan-chili",
+    "name": "余干辣椒",
+    "en": "余干辣椒",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "江西"
+    ],
+    "pinyin": "c19jxyushanchili",
+    "initials": "c19",
+    "searchTerms": [
+      "余干辣椒",
+      "c19-jx-yushan-chili"
+    ],
+    "summary": "余干辣椒，辛香调味，胃热减量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "shark-fin",
     "name": "鱼翅",
     "en": "shark fin",
@@ -59351,6 +61799,56 @@ const CN_SUPPLEMENT_FOODS = [
       "c14-fj-fish-ball"
     ],
     "summary": "福州鱼丸，益气健脾。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c19-fj-fish-ball-noodle",
+    "name": "鱼丸面",
+    "en": "鱼丸面",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "c19fjfishballnoodle",
+    "initials": "c19",
+    "searchTerms": [
+      "鱼丸面",
+      "c19-fj-fish-ball-noodle"
+    ],
+    "summary": "福州鱼丸面，汤鲜面滑主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c20-sc-eggplant",
+    "name": "鱼香茄子",
+    "en": "鱼香茄子",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20sceggplant",
+    "initials": "c20",
+    "searchTerms": [
+      "鱼香茄子",
+      "c20-sc-eggplant"
+    ],
+    "summary": "川菜鱼香茄子，开胃下饭素菜。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -59544,6 +62042,31 @@ const CN_SUPPLEMENT_FOODS = [
       "gx-taro-stem"
     ],
     "summary": "广西芋苗酸炒，开胃消食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c19-fj-taro-paste",
+    "name": "芋泥",
+    "en": "芋泥",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "c19fjtaropaste",
+    "initials": "c19",
+    "searchTerms": [
+      "芋泥",
+      "c19-fj-taro-paste"
+    ],
+    "summary": "闽式芋泥，糯米甜品，控糖适量。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -60026,6 +62549,35 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-liangpi--1017"
     ],
     "summary": "云南凉皮在云南饮食文化中常见，作调理参考而非医疗建议。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c20-yn-rice-wine",
+    "name": "云南米酒",
+    "en": "云南米酒",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "云南"
+    ],
+    "aliases": [
+      "糯米酒"
+    ],
+    "pinyin": "c20ynricewine",
+    "initials": "c20",
+    "searchTerms": [
+      "云南米酒",
+      "糯米酒",
+      "c20-yn-rice-wine"
+    ],
+    "summary": "云南糯米酒，温胃少量。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
@@ -61711,6 +64263,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c20-sc-camphor-tea",
+    "name": "竹叶青",
+    "en": "竹叶青",
+    "category": "茶饮",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "四川"
+    ],
+    "pinyin": "c20sccamphortea",
+    "initials": "c20",
+    "searchTerms": [
+      "竹叶青",
+      "c20-sc-camphor-tea"
+    ],
+    "summary": "峨眉山竹叶青，清热生津绿茶。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "sugar-cane-gd",
     "name": "竹蔗",
     "en": "竹蔗",
@@ -62309,6 +64886,31 @@ const CN_SUPPLEMENT_FOODS = [
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {
+    "id": "c19-fj-drunken-rib",
+    "name": "醉排骨",
+    "en": "醉排骨",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "福建"
+    ],
+    "pinyin": "c19fjdrunkenrib",
+    "initials": "c19",
+    "searchTerms": [
+      "醉排骨",
+      "c19-fj-drunken-rib"
+    ],
+    "summary": "福州醉排骨，酒酿酸甜，开胃下饭。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
     "id": "c13-zj-drunken-fish",
     "name": "醉鱼",
     "en": "醉鱼",
@@ -62331,6 +64933,31 @@ const CN_SUPPLEMENT_FOODS = [
       "c13-zj-drunken-fish"
     ],
     "summary": "绍兴醉鱼，温中开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c20-gz-zunyi-lamb",
+    "name": "遵义羊肉粉",
+    "en": "遵义羊肉粉",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CN"
+    ],
+    "provinces": [
+      "贵州"
+    ],
+    "pinyin": "c20gzzunyilamb",
+    "initials": "c20",
+    "searchTerms": [
+      "遵义羊肉粉",
+      "c20-gz-zunyi-lamb"
+    ],
+    "summary": "遵义羊肉粉，温胃暖身主食。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
   },
   {

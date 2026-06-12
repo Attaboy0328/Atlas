@@ -1,0 +1,68 @@
+#!/usr/bin/env node
+/** Phase 5 — 赣闽粤/云贵川渝 搜索同义词 */
+import path from "node:path";
+import { fileURLToPath } from "url";
+import { writeJsonFile } from "./lib/food-entry.mjs";
+
+const cnDir = path.join(path.dirname(fileURLToPath(import.meta.url)), "..", "data", "cn");
+
+const SYNONYMS = [
+  { term: "鄱阳湖银鱼", foodId: "c19-jx-silver-fish" },
+  { term: "井冈烟笋", foodId: "c19-jx-bamboo-shoot" },
+  { term: "南昌白糖糕", foodId: "c19-jx-sugar-cake" },
+  { term: "九江茶饼", foodId: "c19-jx-tea-cake" },
+  { term: "南安板鸭", foodId: "c19-jx-board-duck" },
+  { term: "客家酿豆腐", foodId: "c19-jx-hakka-tofu" },
+  { term: "赣南脐橙", foodId: "c19-jx-navel-orange" },
+  { term: "铅山烫粉", foodId: "c19-jx-tangfen" },
+  { term: "三杯鸡", foodId: "c19-jx-three-cup" },
+  { term: "福州鱼丸", foodId: "c19-fj-fish-ball" },
+  { term: "扁肉燕", foodId: "c19-fj-pianrouyan" },
+  { term: "锅边糊", foodId: "c19-fj-guobianhu" },
+  { term: "姜母鸭", foodId: "c19-fj-ginger-duck" },
+  { term: "沙县拌面", foodId: "c19-fj-shaxian-noodle" },
+  { term: "武夷岩茶", foodId: "c19-fj-wuyi-yancha" },
+  { term: "大红袍", foodId: "c19-fj-wuyi-yancha" },
+  { term: "蜜汁叉烧", foodId: "c19-gd-char-siu" },
+  { term: "广式烧鹅", foodId: "c19-gd-roast-goose" },
+  { term: "艇仔粥", foodId: "c19-gd-boat-congee" },
+  { term: "及第粥", foodId: "c19-gd-triple-congee" },
+  { term: "豉油鸡", foodId: "c19-gd-soy-chicken" },
+  { term: "白灼虾", foodId: "c19-gd-boiled-shrimp" },
+  { term: "广式腊肠", foodId: "c19-gd-cantonese-sausage" },
+  { term: "陈皮鸭", foodId: "c19-gd-chenpi-duck" },
+  { term: "清远鸡", foodId: "c19-gd-qingyuan-chicken" },
+  { term: "潮汕牛肉丸", foodId: "c19-gd-chaozhou-beefball" },
+  { term: "盐焗鸡", foodId: "c19-gd-salt-chicken" },
+  { term: "五指毛桃", foodId: "c19-gd-five-finger" },
+  { term: "杨枝甘露", foodId: "c19-gd-mango-pomelo" },
+  { term: "瑶柱", foodId: "c19-gd-dried-scallop" },
+  { term: "干贝", foodId: "c19-gd-dried-scallop" },
+  { term: "回锅肉", foodId: "c20-sc-twice-pork" },
+  { term: "口水鸡", foodId: "c20-sc-mouthwater-chicken" },
+  { term: "宫保鸡丁", foodId: "c20-sc-kungpao" },
+  { term: "酸菜鱼", foodId: "c20-sc-sauerkraut-fish" },
+  { term: "宜宾燃面", foodId: "c20-sc-yibin-ranmian" },
+  { term: "钵钵鸡", foodId: "c20-sc-bobo-chicken" },
+  { term: "川北凉粉", foodId: "c20-sc-liangfen" },
+  { term: "灯影牛肉", foodId: "c20-sc-dengying-beef" },
+  { term: "冷吃兔", foodId: "c20-sc-cold-rabbit" },
+  { term: "绵阳米粉", foodId: "c20-sc-mianyang-noodle" },
+  { term: "万州烤鱼", foodId: "c20-cq-wanzhou-fish" },
+  { term: "酸辣粉", foodId: "c20-cq-sour-noodle" },
+  { term: "大理乳扇", foodId: "c20-yn-dali-rushan" },
+  { term: "建水烧豆腐", foodId: "c20-yn-jianshui-tofu" },
+  { term: "傣味菠萝饭", foodId: "c20-yn-pineapple-rice" },
+  { term: "丽江粑粑", foodId: "c20-yn-lijiang-baba" },
+  { term: "鸡枞菌", foodId: "c20-yn-termite-mushroom" },
+  { term: "蒙自米线", foodId: "c20-yn-mengzi-rice-noodle" },
+  { term: "花溪牛肉粉", foodId: "c20-gz-huaxi-beef-noodle" },
+  { term: "遵义羊肉粉", foodId: "c20-gz-zunyi-lamb" },
+  { term: "青岩卤猪脚", foodId: "c20-gz-qingyan-pig" },
+  { term: "安顺裹凉粉", foodId: "c20-gz-anshun-liangfen" },
+  { term: "凯里酸汤", foodId: "c20-gz-kaili-soup" },
+  { term: "都匀毛尖", foodId: "c20-gz-cuiyan-tea" }
+];
+
+writeJsonFile(path.join(cnDir, "food-search-synonyms-batch11-phase5.json"), SYNONYMS);
+console.log(`food-search-synonyms-batch11-phase5.json: ${SYNONYMS.length}`);

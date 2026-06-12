@@ -88,7 +88,8 @@ const rawHandcrafted = [
   ...readJson("handcrafted-recipes-batch3.json", []),
   ...readJson("cantonese-recipes-batch.json", []),
   ...readJson("regional-recipes-batch.json", []),
-  ...readJson("regional-recipes-batch2.json", [])
+  ...readJson("regional-recipes-batch2.json", []),
+  ...readJson("regional-recipes-batch3.json", [])
 ];
 
 const classicOverlay = readJson("classic-diet-regional-overlay.json", {}).byName || {};
