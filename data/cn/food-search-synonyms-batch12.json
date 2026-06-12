@@ -1,0 +1,150 @@
+[
+  {
+    "term": "大盘鸡",
+    "foodId": "xj-dapanji"
+  },
+  {
+    "term": "手抓饭",
+    "foodId": "xj-shouzhuafan"
+  },
+  {
+    "term": "拉条子",
+    "foodId": "xj-lagman-noodle"
+  },
+  {
+    "term": "馕",
+    "foodId": "xj-naan-bread"
+  },
+  {
+    "term": "烤包子",
+    "foodId": "xj-samsa"
+  },
+  {
+    "term": "羊肉串",
+    "foodId": "xj-lamb-skewer"
+  },
+  {
+    "term": "酸奶疙瘩",
+    "foodId": "xj-yogurt-curd"
+  },
+  {
+    "term": "和田核桃",
+    "foodId": "xj-hotan-walnut"
+  },
+  {
+    "term": "哈密瓜",
+    "foodId": "xj-hami-melon"
+  },
+  {
+    "term": "椒麻鸡",
+    "foodId": "xj-pepper-chicken"
+  },
+  {
+    "term": "新疆奶茶",
+    "foodId": "xj-milk-tea"
+  },
+  {
+    "term": "恰玛古",
+    "foodId": "xj-turnip-lamb"
+  },
+  {
+    "term": "酥油茶",
+    "foodId": "xz-butter-tea"
+  },
+  {
+    "term": "糌粑",
+    "foodId": "xz-tsampa"
+  },
+  {
+    "term": "牦牛肉",
+    "foodId": "xz-yak-beef"
+  },
+  {
+    "term": "酥油",
+    "foodId": "xz-yak-butter"
+  },
+  {
+    "term": "藏松茸",
+    "foodId": "xz-matsutake"
+  },
+  {
+    "term": "甜茶",
+    "foodId": "xz-sweet-tea"
+  },
+  {
+    "term": "藏香猪",
+    "foodId": "xz-tibetan-pork"
+  },
+  {
+    "term": "青稞酒",
+    "foodId": "xz-barley-wine"
+  },
+  {
+    "term": "尕面片",
+    "foodId": "qh-gafanpian"
+  },
+  {
+    "term": "甜醅",
+    "foodId": "qh-sweet-ferment"
+  },
+  {
+    "term": "湟鱼",
+    "foodId": "qh-lake-fish"
+  },
+  {
+    "term": "柴达木枸杞",
+    "foodId": "qh-chaidamu-goji"
+  },
+  {
+    "term": "互助青稞酒",
+    "foodId": "qh-barley-wine"
+  },
+  {
+    "term": "祁连黄菇",
+    "foodId": "qh-qilian-mushroom"
+  },
+  {
+    "term": "湟源陈醋",
+    "foodId": "qh-huangyuan-vinegar"
+  },
+  {
+    "term": "淮扬狮子头",
+    "foodId": "c22-js-lion-head"
+  },
+  {
+    "term": "西湖醋鱼",
+    "foodId": "c22-zj-westlake-fish"
+  },
+  {
+    "term": "东坡肉",
+    "foodId": "c22-zj-dongpo-pork"
+  },
+  {
+    "term": "小笼包",
+    "foodId": "c22-sh-xiaolongbao"
+  },
+  {
+    "term": "生煎",
+    "foodId": "c22-sh-shengjian"
+  },
+  {
+    "term": "盐水鸭",
+    "foodId": "c22-js-salted-duck"
+  },
+  {
+    "term": "腌笃鲜",
+    "foodId": "c22-sh-yanduxian"
+  },
+  {
+    "term": "奶皮子",
+    "foodId": "c21-nm-dried-milk"
+  },
+  {
+    "term": "手把肉",
+    "foodId": "c21-nm-hand-grab-meat"
+  },
+  {
+    "term": "兰州牛肉面",
+    "foodId": "c21-gs-lanzhou-beef"
+  }
+]
