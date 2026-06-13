@@ -2779,9 +2779,10 @@ function normalizeFoods(items) {
     alone: cleanString(food.alone || enrichment.alone || ""),
     timing: cleanString(food.timing || enrichment.timing || ""),
     pair: cleanString(food.pair || enrichment.pair || ""),
+    eatingIntro: cleanString(food.eatingIntro || enrichment.eatingIntro || ""),
     hiddenFromLibrary: Boolean(food.hiddenFromLibrary)
   };
-  });
+  }).map((food) => (typeof enrichFoodContent === "function" ? enrichFoodContent(food) : food));
 }
 
 function filterRuntimeFoodExpansion(items, priorFoods = []) {
@@ -6474,13 +6475,14 @@ function renderFoodDetail(food) {
 
     <section class="detail-section" id="sheet-eating">
       <h3>${isTcmHerb ? "使用与食养提示" : "食用建议"}</h3>
+      ${food.eatingIntro && !isTcmHerb ? `<p class="section-copy eating-intro">${food.eatingIntro}</p>` : ""}
       <div class="detail-grid">
         ${isTcmHerb
           ? `<div class="detail-block"><strong>适用范围</strong><p>${isReferenceOnly ? "中药信息参考，非日常食材目录。" : "可在药食同源场景下少量入膳。"}</p></div>`
-          : `<div class="detail-block"><strong>单独吃是否合适</strong><p>${food.alone || "少量、熟食、结合个人耐受来判断。"}</p></div>`}
-        <div class="detail-block"><strong>更适合什么时候${isTcmHerb ? "参考" : "吃"}</strong><p>${food.timing || (isTcmHerb ? "按证候与个体状态，由专业人士指导。" : "优先放在规律正餐里，而不是靠极端做法放大寒热。")} </p></div>
-        <div class="detail-block"><strong>${isTcmHerb ? "常见配伍思路" : "如何搭配"}</strong><p>${food.pair || (isTcmHerb ? "详见相关食疗方与经典依据，勿自行拼凑处方。" : "与主食、蛋白质、蔬菜一起看整体结构。")} </p></div>
-        <div class="detail-block"><strong>安全提示</strong><p>${food.caution || "结合剂量、加工方式和个人状态综合判断。"} </p></div>
+          : `<div class="detail-block"><strong>单独吃是否合适</strong><p>${food.alone}</p></div>`}
+        <div class="detail-block"><strong>更适合什么时候${isTcmHerb ? "参考" : "吃"}</strong><p>${food.timing || (isTcmHerb ? "按证候与个体状态，由专业人士指导。" : "结合季节与体质，放在规律正餐里适量食用。")}</p></div>
+        <div class="detail-block"><strong>${isTcmHerb ? "常见配伍思路" : "如何搭配"}</strong><p>${food.pair || (isTcmHerb ? "详见相关食疗方与经典依据，勿自行拼凑处方。" : "与主食、蛋白、蔬菜同餐，看整体饮食结构。")}</p></div>
+        <div class="detail-block"><strong>安全提示</strong><p>${food.caution}</p></div>
       </div>
     </section>
 
@@ -6514,11 +6516,10 @@ function renderFoodDetail(food) {
       <h3>经典依据</h3>
       ${sources.length
         ? `<div class="source-list">${sources.map(renderSourceEntry).join("")}</div>`
-        : ""}
-      <ul>
-        ${classics.map((item) => `<li>${item}</li>`).join("") || "<li>当前以整理性摘要为主，条目级出典仍在继续补全。</li>"}
-      </ul>
+        : `<p class="section-copy">暂无典籍出处条目，可参考上方功效摘要与相关食疗方。</p>`}
+      ${classics.length ? `<ul>${classics.map((item) => `<li>${item}</li>`).join("")}</ul>` : ""}
       ${food.safetyNote ? `<p><strong>现代安全注释：</strong>${food.safetyNote}</p>` : ""}
+      <p class="section-copy">典籍条目用于说明食养整理来源，不替代个体辨证与医嘱。</p>
     </section>
 
     <section class="detail-section">
@@ -6722,12 +6723,6 @@ function renderRecipeDetail(item) {
 
 function buildClassicNotes(food) {
   const notes = [...food.benefits];
-  if (!food.sources?.length) {
-    CLASSIC_SOURCE_HINTS[food.name]?.forEach((source) => {
-      notes.push(`可进一步补入条目级出处：${source}`);
-    });
-  }
-
   if (food.name.includes("姜")) {
     notes.push("生姜、干姜、老姜不应混为同一使用场景，具体仍要按品种、剂量和加工方式区分。");
   }

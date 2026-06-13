@@ -6872,8 +6872,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "澳门家常炖汤，纳差痰多时参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "陈皮老鸭汤（澳式）为澳式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "陈皮老鸭汤（澳式）属澳式常见健脾祛湿整理，《食疗本草》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -6909,8 +6909,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "澳门糖水铺风格，秋燥干咳时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "杏仁茶炖品为澳式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "杏仁茶炖品属澳式常见润肺止咳整理，《食疗本草》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -6949,8 +6949,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "澳门葡式咖喱鸡汤，体虚时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "葡国鸡汤为澳式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "葡国鸡汤属澳式常见益气补虚整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -6989,8 +6989,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "澳门粤式生滚蟹粥，病后调养。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "水蟹粥为澳式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "水蟹粥属澳式常见养胃益气整理，《养老奉亲书》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -7026,8 +7026,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "澳门葡式家常菜，适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "马介休焗薯为澳式常见食养方。"
+        "title": "《随园食单》",
+        "summary": "马介休焗薯属澳式常见健脾开胃整理，《随园食单》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -7063,8 +7063,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "湿热口苦时少量，体虚慎用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "澳门凉茶为澳式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "澳门凉茶属澳式常见清热祛湿整理，《遵生八笺》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -7102,8 +7102,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "咽干干咳、秋燥时参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "海底椰瘦肉汤为澳式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "海底椰瘦肉汤属澳式常见润肺养阴整理，《食疗本草》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -7138,8 +7138,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热口渴时甜品。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "姜汁豆腐花为澳式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "姜汁豆腐花属澳式常见清热润燥整理，《遵生八笺》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -7175,8 +7175,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常暖胃主食，高脂控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "猪扒饭为澳式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "猪扒饭属澳式常见健脾益气整理，《养老奉亲书》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -7211,8 +7211,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "午后茶点，控糖适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "杏仁饼配茶为澳式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "杏仁饼配茶属澳式常见理气开胃整理，《遵生八笺》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -7246,8 +7246,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热烦渴时少量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "椰汁糕为澳式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "椰汁糕属澳式常见清热解暑整理，《遵生八笺》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -7284,8 +7284,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "阴虚体燥者少量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "花胶炖瘦肉为澳式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "花胶炖瘦肉属澳式常见滋阴养颜整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -7322,8 +7322,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "清淡高蛋白，胃口弱时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "蚬汁蒸鱼为澳式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "蚬汁蒸鱼属澳式常见调和肝胃整理，《遵生八笺》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -7358,8 +7358,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "油腻后配清茶，控糖。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "葡挞配菊茶为澳式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "葡挞配菊茶属澳式常见清肝润燥整理，《遵生八笺》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -7396,8 +7396,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "胃口差时适量，辛辣减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "非洲鸡（清淡版）为澳式常见食养方。"
+        "title": "《随园食单》",
+        "summary": "非洲鸡（清淡版）属澳式常见开胃消食整理，《随园食单》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -7433,8 +7433,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体虚乏力时家常参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "免治炒蛋为澳式常见食养方。"
+        "title": "《随园食单》",
+        "summary": "免治炒蛋属澳式常见益气养血整理，《随园食单》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -7473,8 +7473,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑湿身重时适量，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "螺蛳粉（清淡版）为桂菜常见食养方。"
+        "title": "《岭南采药录》",
+        "summary": "螺蛳粉（清淡版）属桂菜常见祛湿开胃整理，《岭南采药录》载有同类因时、因体调养思路，夏、长夏时令更宜。"
       }
     ],
     "draft": false
@@ -7512,8 +7512,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "广西酸辣汤品，开胃消食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸笋老鸭汤为桂菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "酸笋老鸭汤属桂菜常见开胃祛湿整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -7551,8 +7551,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "南宁名菜，暑天胃口差时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "柠檬鸭为桂菜常见食养方。"
+        "title": "《岭南采药录》",
+        "summary": "柠檬鸭属桂菜常见理气开胃整理，《岭南采药录》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -7591,8 +7591,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒肢冷时早餐参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "油茶早餐为桂菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "油茶早餐属桂菜常见温胃散寒整理，《遵生八笺》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -7626,8 +7626,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "壮族三月三传统主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "五色糯米饭为桂菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "五色糯米饭属桂菜常见健脾益气整理，《养老奉亲书》载有同类因时、因体调养思路，春时令更宜。"
       }
     ],
     "draft": false
@@ -7665,8 +7665,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后胃口弱时易消化。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "桂林米粉汤为桂菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "桂林米粉汤属桂菜常见养胃益气整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -7705,8 +7705,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "南宁老友粉，湿重困脾时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "老友粉为桂菜常见食养方。"
+        "title": "《岭南采药录》",
+        "summary": "老友粉属桂菜常见祛湿开胃整理，《岭南采药录》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -7741,8 +7741,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "干咳咽干、秋燥时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "罗汉果茶为桂菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "罗汉果茶属桂菜常见润肺止咳整理，《遵生八笺》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -7778,8 +7778,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热烦渴、口苦时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "茅根竹蔗饮为桂菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "茅根竹蔗饮属桂菜常见清热生津整理，《遵生八笺》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -7816,8 +7816,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑湿小便不利时，需彻底煮熟。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "田螺汤为桂菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "田螺汤属桂菜常见清热利湿整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -7853,8 +7853,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "燥咳少痰时饮品。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "柚子蜂蜜水为桂菜常见食养方。"
+        "title": "《岭南采药录》",
+        "summary": "柚子蜂蜜水属桂菜常见润肺化痰整理，《岭南采药录》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -7892,8 +7892,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "产后或畏寒时少量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "甜酒酿蛋花为桂菜常见食养方。"
+        "title": "《岭南采药录》",
+        "summary": "甜酒酿蛋花属桂菜常见温中补血整理，《岭南采药录》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -7931,8 +7931,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "血虚烦热时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "鸭血汤为桂菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "鸭血汤属桂菜常见凉血滋阴整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -7968,8 +7968,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "油腻后开胃配菜。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "咸柠檬蒸鱼为桂菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "咸柠檬蒸鱼属桂菜常见开胃消食整理，《饮膳正要》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -8005,8 +8005,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒肢冷时适量，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "桂林辣椒酱炒鸡为桂菜常见食养方。"
+        "title": "《随园食单》",
+        "summary": "桂林辣椒酱炒鸡属桂菜常见散寒暖胃整理，《随园食单》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -8043,8 +8043,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体虚腰酸时地方参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "竹鼠汤为桂菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "竹鼠汤属桂菜常见补肾益气整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -8079,8 +8079,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "湿热天气少量饮用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "广西凉茶为桂菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "广西凉茶属桂菜常见清热祛湿整理，《遵生八笺》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -8117,8 +8117,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "心悸失眠、面色少华时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "黄花菜蒸肉为桂菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "黄花菜蒸肉属桂菜常见养血安神整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -8155,8 +8155,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "便秘、口干时配菜。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "凉拌木耳为桂菜常见食养方。"
+        "title": "《岭南采药录》",
+        "summary": "凉拌木耳属桂菜常见滋阴润肠整理，《岭南采药录》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -8193,8 +8193,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "产后或畏寒时少量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "糯米酒炖鸡为桂菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "糯米酒炖鸡属桂菜常见温补气血整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -8230,8 +8230,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "胃口差时小菜。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸豆角炒肉末为桂菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "酸豆角炒肉末属桂菜常见开胃消食整理，《养老奉亲书》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -8267,8 +8267,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑湿困重时素菜。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "芋苗酸炒为桂菜常见食养方。"
+        "title": "《随园食单》",
+        "summary": "芋苗酸炒属桂菜常见清热开胃整理，《随园食单》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -8304,8 +8304,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑天食欲不振时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "百香果汁为桂菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "百香果汁属桂菜常见理气开胃整理，《遵生八笺》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -8344,8 +8344,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后胃口弱、需优质蛋白时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "文昌鸡粥为琼式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "文昌鸡粥属琼式常见益气养胃整理，《养老奉亲书》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -8383,8 +8383,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体虚汗多、口渴时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "椰子鸡为琼式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "椰子鸡属琼式常见补虚生津整理，《食疗本草》载有同类因时、因体调养思路，夏、冬时令更宜。"
       }
     ],
     "draft": false
@@ -8423,8 +8423,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热烦渴时海南糖水。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "清补凉为琼式常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "清补凉属琼式常见清热解暑整理，《随息居饮食谱》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -8462,8 +8462,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "阴虚胃弱、口干时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "加积鸭粥为琼式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "加积鸭粥属琼式常见滋阴养胃整理，《养老奉亲书》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -8501,8 +8501,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "怕冷腰酸、夜尿多时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "东山羊煲为琼式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "东山羊煲属琼式常见温阳补虚整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -8541,8 +8541,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "秋季进补适量，寒凉体质加姜。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "和乐蟹姜葱炒为琼式常见食养方。"
+        "title": "《随园食单》",
+        "summary": "和乐蟹姜葱炒属琼式常见温中补血整理，《随园食单》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -8577,8 +8577,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常健脾主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "椰子饭为琼式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "椰子饭属琼式常见健脾益气整理，《养老奉亲书》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -8613,8 +8613,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "胃口差时海南风味。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "糟粕醋煮鱼为琼式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "糟粕醋煮鱼属琼式常见开胃消食整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -8650,8 +8650,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒肢冷时，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "黄灯笼椒炒鸡为琼式常见食养方。"
+        "title": "《随园食单》",
+        "summary": "黄灯笼椒炒鸡属琼式常见散寒暖胃整理，《随园食单》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -8688,8 +8688,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "油腻后开胃，控糖。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "凤梨咕咾肉为琼式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "凤梨咕咾肉属琼式常见开胃消食整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -8727,8 +8727,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体虚消化弱时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "花螺姜葱炒为琼式常见食养方。"
+        "title": "《随园食单》",
+        "summary": "花螺姜葱炒属琼式常见益气开胃整理，《随园食单》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -8765,8 +8765,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高蛋白易消化。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "清蒸石斑鱼为琼式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "清蒸石斑鱼属琼式常见益气养血整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -8802,8 +8802,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热口渴时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "芒果西米露为琼式常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "芒果西米露属琼式常见清热生津整理，《随息居饮食谱》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -8840,8 +8840,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "乏力食少时，控糖。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "荔枝肉为琼式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "荔枝肉属琼式常见温补气血整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -8877,8 +8877,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "心悸失眠、面色少华时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "龙眼红枣茶为琼式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "龙眼红枣茶属琼式常见养血安神整理，《遵生八笺》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -8914,8 +8914,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "产后或胃口弱时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "木瓜鱼汤为琼式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "木瓜鱼汤属琼式常见和胃催乳整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -8950,8 +8950,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "湿热天气少量饮用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "海南凉茶为琼式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "海南凉茶属琼式常见清热祛湿整理，《遵生八笺》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -8988,8 +8988,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "春燥咳嗽、身热时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "竹笋炒肉为琼式常见食养方。"
+        "title": "《随园食单》",
+        "summary": "竹笋炒肉属琼式常见清热化痰整理，《随园食单》载有同类因时、因体调养思路，春时令更宜。"
       }
     ],
     "draft": false
@@ -9023,8 +9023,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "汗多口渴、暑热时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "椰青饮为琼式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "椰青饮属琼式常见生津止渴整理，《遵生八笺》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -9060,8 +9060,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑湿身重、胃口差时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸笋鱼汤为琼式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "酸笋鱼汤属琼式常见开胃祛湿整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -9100,8 +9100,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "胃口差时适量，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "麻婆豆腐为川菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "麻婆豆腐属川菜常见温中开胃整理，《养老奉亲书》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -9140,8 +9140,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒乏力时主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "担担面为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "担担面属川菜常见健脾开胃整理，《饮膳正要》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -9180,8 +9180,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "湿重困脾、胃口差时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸菜鱼为川菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "酸菜鱼属川菜常见开胃祛湿整理，《食疗本草》载有同类因时、因体调养思路，夏、冬时令更宜。"
       }
     ],
     "draft": false
@@ -9218,8 +9218,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒肢冷时，辛辣适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "辣子鸡为川菜常见食养方。"
+        "title": "《随园食单》",
+        "summary": "辣子鸡属川菜常见散寒暖胃整理，《随园食单》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -9257,8 +9257,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "油腻后适量，高血压控盐。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "回锅肉为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "回锅肉属川菜常见开胃消食整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -9295,8 +9295,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季畏寒时，湿热体质慎用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "水煮牛肉为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "水煮牛肉属川菜常见温阳散寒整理，《饮膳正要》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -9334,8 +9334,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "胃口差时素菜。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "鱼香茄子为川菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "鱼香茄子属川菜常见理气开胃整理，《养老奉亲书》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -9372,8 +9372,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热烦渴时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "川北凉粉为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "川北凉粉属川菜常见清热解暑整理，《饮膳正要》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -9411,8 +9411,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "久咳乏力、脾虚时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "白果炖猪肚为川菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "白果炖猪肚属川菜常见健脾补肺整理，《食疗本草》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -9449,8 +9449,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季畏寒温补，适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "清汤火锅为川菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "清汤火锅属川菜常见温中补虚整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -9485,8 +9485,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "寒湿身重时，辛辣适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "花椒兔丁为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "花椒兔丁属川菜常见散寒除湿整理，《饮膳正要》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -9522,8 +9522,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑湿胃口差时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "泡椒鱼片为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "泡椒鱼片属川菜常见开胃祛湿整理，《饮膳正要》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -9560,8 +9560,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒时小食，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "红油抄手为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "红油抄手属川菜常见健脾开胃整理，《饮膳正要》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -9598,8 +9598,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "乏力怕冷时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "红烧牛肉为川菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "红烧牛肉属川菜常见温补气血整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -9635,8 +9635,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补，湿热慎用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "水煮鱼为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "水煮鱼属川菜常见散寒开胃整理，《饮膳正要》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -9675,8 +9675,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热油腻后。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "蒜泥白肉为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "蒜泥白肉属川菜常见清热开胃整理，《饮膳正要》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -9714,8 +9714,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "饭后胀满时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸辣汤为川菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "酸辣汤属川菜常见开胃消食整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -9753,8 +9753,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒时主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "油泼面为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "油泼面属川菜常见温胃散寒整理，《饮膳正要》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -9793,8 +9793,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后胃口弱时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "榨菜肉丝面为川菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "榨菜肉丝面属川菜常见健脾开胃整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -9829,8 +9829,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑湿困重时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "绿豆薏米汤为川菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "绿豆薏米汤属川菜常见清热祛湿整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -9868,8 +9868,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "面色萎黄、畏寒时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "当归羊肉汤为川菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "当归羊肉汤属川菜常见补血温阳整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -9906,8 +9906,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季进补适量，高嘌呤慎用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "佛跳墙（家常版）为闽菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "佛跳墙（家常版）属闽菜常见滋补气血整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -9945,8 +9945,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "血虚面色少华时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "海蛎煎为闽菜常见食养方。"
+        "title": "《随园食单》",
+        "summary": "海蛎煎属闽菜常见滋阴养血整理，《随园食单》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -9984,8 +9984,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后胃口弱时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "沙茶面为闽菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "沙茶面属闽菜常见益气养胃整理，《遵生八笺》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -10022,8 +10022,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "产后或畏寒时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "红糟鸡为闽菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "红糟鸡属闽菜常见温中补血整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -10061,8 +10061,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "消化弱时易消化。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "鱼丸汤为闽菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "鱼丸汤属闽菜常见健脾养胃整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -10099,8 +10099,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "怕冷、四肢不温时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "姜母鸭为闽菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "姜母鸭属闽菜常见散寒暖胃整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -10135,8 +10135,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "健脾甜品，控糖。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "芋泥为闽菜常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "芋泥属闽菜常见健脾益气整理，《随息居饮食谱》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -10172,8 +10172,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "油腻后配菜。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "蚝油芥兰为闽菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "蚝油芥兰属闽菜常见清热利湿整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -10210,8 +10210,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "腰酸乏力时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "海参瘦肉汤为闽菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "海参瘦肉汤属闽菜常见补肾益气整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -10248,8 +10248,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体虚时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "蛏子姜葱炒为闽菜常见食养方。"
+        "title": "《随园食单》",
+        "summary": "蛏子姜葱炒属闽菜常见益气开胃整理，《随园食单》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -10286,8 +10286,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "干咳咽干时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "银耳莲子羹为闽菜常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "银耳莲子羹属闽菜常见润肺养阴整理，《随息居饮食谱》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -10323,8 +10323,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后调养。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "扁肉燕为闽菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "扁肉燕属闽菜常见养胃益气整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -10358,8 +10358,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体虚需要蛋白时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "包心鱼丸为闽菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "包心鱼丸属闽菜常见益气养血整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -10394,8 +10394,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "湿热天气少量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "福建凉茶为闽菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "福建凉茶属闽菜常见清热祛湿整理，《遵生八笺》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -10434,8 +10434,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "江浙家常羹汤，病后调养。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "西湖牛肉羹为江浙菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "西湖牛肉羹属江浙菜常见益气养胃整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -10474,8 +10474,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "纳差痰多、饭后易胀时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "陈皮瘦肉汤为粤菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "陈皮瘦肉汤属粤菜常见健脾祛湿整理，《食疗本草》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -10511,8 +10511,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "胃寒晨起不适时少量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "姜汁撞奶（澳式）为澳式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "姜汁撞奶（澳式）属澳式常见温胃散寒整理，《遵生八笺》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -10549,8 +10549,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "干咳咽干、秋燥时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "罗汉果瘦肉汤为桂菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "罗汉果瘦肉汤属桂菜常见润肺止咳整理，《食疗本草》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -10587,8 +10587,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体虚汗多、口渴时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "椰子炖排骨为琼式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "椰子炖排骨属琼式常见补虚生津整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -10624,8 +10624,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑湿困重、身重时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "薏米排骨汤为川菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "薏米排骨汤属川菜常见清热祛湿整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -10661,8 +10661,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "干咳咽干时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "银耳百合羹为闽菜常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "银耳百合羹属闽菜常见润肺养阴整理，《随息居饮食谱》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -10697,8 +10697,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "心烦失眠时，控糖。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "桂花莲子羹为江浙菜常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "桂花莲子羹属江浙菜常见养心安神整理，《随息居饮食谱》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -10733,8 +10733,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "胃口差时，辛辣适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "剁椒蒸肉为湘菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "剁椒蒸肉属湘菜常见开胃消食整理，《饮膳正要》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -10769,8 +10769,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "腰酸乏力时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "葱烧海参为鲁菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "葱烧海参属鲁菜常见补肾益气整理，《饮膳正要》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -10807,8 +10807,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "怕冷乏力时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "羊肉泡馍汤为西北菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "羊肉泡馍汤属西北菜常见温胃散寒整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -10844,8 +10844,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "气虚乏力、病后调养。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "汽锅鸡为滇菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "汽锅鸡属滇菜常见益气补虚整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -10881,8 +10881,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "油腻后开胃。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸汤素菜为黔菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "酸汤素菜属黔菜常见开胃消食整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -10918,8 +10918,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "秋冬润燥，控糖。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "芝麻糊（台式）为台菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "芝麻糊（台式）属台菜常见补血润肠整理，《养老奉亲书》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -10955,8 +10955,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季畏寒温补。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "涮羊肉为京菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "涮羊肉属京菜常见温阳补虚整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -10992,8 +10992,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "春令开胃汤品。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "腌笃鲜为本帮菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "腌笃鲜属本帮菜常见益气养胃整理，《食疗本草》载有同类因时、因体调养思路，春时令更宜。"
       }
     ],
     "draft": false
@@ -11028,8 +11028,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "春燥咳嗽时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "笋干炖肉为徽菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "笋干炖肉属徽菜常见清热化痰整理，《食疗本草》载有同类因时、因体调养思路，春时令更宜。"
       }
     ],
     "draft": false
@@ -11064,8 +11064,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补，高脂控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "粉蒸肉为赣菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "粉蒸肉属赣菜常见温补健脾整理，《饮膳正要》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -11100,8 +11100,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒肢冷时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸菜白肉为东北菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "酸菜白肉属东北菜常见温中暖胃整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -11140,8 +11140,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季畏寒肢冷时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "涮羊肉清汤为京菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "涮羊肉清汤属京菜常见温阳补虚整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -11178,8 +11178,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热烦渴时少量甜品。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "豌豆黄配菊茶为京菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "豌豆黄配菊茶属京菜常见清热润燥整理，《遵生八笺》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -11215,8 +11215,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "气味浓烈，消化不良者慎用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "豆汁配焦圈为京菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "豆汁配焦圈属京菜常见开胃消食整理，《遵生八笺》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -11255,8 +11255,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体虚畏寒冬季参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "炙子烤肉为京菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "炙子烤肉属京菜常见温补气血整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -11293,8 +11293,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "腰酸乏力、便秘时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "核桃酪为京菜常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "核桃酪属京菜常见补肾润肠整理，《随息居饮食谱》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -11334,8 +11334,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季暖身，控盐适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸菜炖粉条为东北菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "酸菜炖粉条属东北菜常见开胃暖身整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -11373,8 +11373,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "产后或体虚时高蛋白参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "大马哈鱼豆腐汤为东北菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "大马哈鱼豆腐汤属东北菜常见益气补虚整理，《食疗本草》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -11411,8 +11411,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后调养易消化主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "玉米面粥为东北菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "玉米面粥属东北菜常见健脾养胃整理，《养老奉亲书》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -11450,8 +11450,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "遵医嘱少量，阴虚火旺慎用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "人参鹿肉汤为东北菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "人参鹿肉汤属东北菜常见补肾益气整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -11490,8 +11490,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热食欲差时，胃寒减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "冷面清汤版为东北菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "冷面清汤版属东北菜常见清热解暑整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -11526,8 +11526,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季充饥暖胃小食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "烤地瓜为东北菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "烤地瓜属东北菜常见健脾益气整理，《饮膳正要》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -11565,8 +11565,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "食欲不振、乏力时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "榛蘑炖鸡为东北菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "榛蘑炖鸡属东北菜常见益气健脾整理，《食疗本草》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -11604,8 +11604,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后胃口弱时易消化。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "德州扒鸡汤为鲁菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "德州扒鸡汤属鲁菜常见温中补虚整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -11642,8 +11642,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "阴虚体燥者少量滋补。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "海参小米粥为鲁菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "海参小米粥属鲁菜常见滋阴温补整理，《养老奉亲书》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -11680,8 +11680,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "春季润燥通便小菜。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "花生拌菠菜为鲁菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "花生拌菠菜属鲁菜常见润燥养血整理，《饮膳正要》载有同类因时、因体调养思路，春时令更宜。"
       }
     ],
     "draft": false
@@ -11718,8 +11718,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "油腻后理气开胃。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "煎饼卷大葱汤为鲁菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "煎饼卷大葱汤属鲁菜常见理气开胃整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -11756,8 +11756,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高脂高嘌呤，慢病控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "九转大肠清淡版为鲁菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "九转大肠清淡版属鲁菜常见温补控量整理，《饮膳正要》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -11793,8 +11793,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "湿重困脾、胃口差时，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "剁椒鱼头为湘菜常见食养方。"
+        "title": "《本草纲目》",
+        "summary": "剁椒鱼头属湘菜常见开胃祛湿整理，《本草纲目》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -11831,8 +11831,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "春季开胃，控盐适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "腊肉炒笋为湘菜常见食养方。"
+        "title": "《随园食单》",
+        "summary": "腊肉炒笋属湘菜常见开胃健脾整理，《随园食单》载有同类因时、因体调养思路，春时令更宜。"
       }
     ],
     "draft": false
@@ -11869,8 +11869,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "心悸失眠、面色少华时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "湘莲排骨汤为湘菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "湘莲排骨汤属湘菜常见健脾养心整理，《食疗本草》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -11906,8 +11906,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "发酵风味，消化弱者适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "臭豆腐少油版为湘菜常见食养方。"
+        "title": "《本草纲目》",
+        "summary": "臭豆腐少油版属湘菜常见开胃消食整理，《本草纲目》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -11945,8 +11945,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后调养易消化。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "米粉清汤为湘菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "米粉清汤属湘菜常见养胃益气整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -11983,8 +11983,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热口苦时少量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "君山银针配茶点为湘菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "君山银针配茶点属湘菜常见清热生津整理，《遵生八笺》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -12023,8 +12023,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒体虚冬季参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "羊肉抓饭为西北菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "羊肉抓饭属西北菜常见温阳补虚整理，《养老奉亲书》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -12060,8 +12060,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常暖胃主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "拉条子汤面为西北菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "拉条子汤面属西北菜常见健脾主食整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -12098,8 +12098,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高原寒冷地区暖胃参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "馕配奶茶为西北菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "馕配奶茶属西北菜常见温胃充饥整理，《遵生八笺》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -12135,8 +12135,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "便秘口干时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸奶拌蜂蜜为西北菜常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "酸奶拌蜂蜜属西北菜常见润肠健脾整理，《随息居饮食谱》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -12174,8 +12174,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高海拔御寒，高脂控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "糌粑酥油茶为西北菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "糌粑酥油茶属西北菜常见温胃御寒整理，《遵生八笺》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -12213,8 +12213,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑湿身重、胃口差时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酿皮凉拌为西北菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "酿皮凉拌属西北菜常见清热开胃整理，《千金要方·食治》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -12251,8 +12251,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季畏寒腰酸时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "滩羊肉汤为西北菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "滩羊肉汤属西北菜常见温补气血整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -12288,8 +12288,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "面色萎黄、眼干时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "枸杞炖鸡为西北菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "枸杞炖鸡属西北菜常见益气养血整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -12326,8 +12326,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常主食，高脂控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "热干面少油版为鄂菜常见食养方。"
+        "title": "《本草纲目》",
+        "summary": "热干面少油版属鄂菜常见健脾开胃整理，《本草纲目》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -12365,8 +12365,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "秋燥口干、食欲差时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "排骨藕汤为鄂菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "排骨藕汤属鄂菜常见健脾养胃整理，《食疗本草》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -12403,8 +12403,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "清淡高蛋白，胃口弱时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "清蒸武昌鱼为鄂菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "清蒸武昌鱼属鄂菜常见调和肝胃整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -12441,8 +12441,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒肢冷冬季参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "羊肉烩面为豫菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "羊肉烩面属豫菜常见温胃暖身整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -12478,8 +12478,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "面色萎黄、乏力时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "大枣小米粥为豫菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "大枣小米粥属豫菜常见补中益气整理，《养老奉亲书》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -12516,8 +12516,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季暖胃主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "羊肉泡馍为陕菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "羊肉泡馍属陕菜常见温胃补虚整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -12552,8 +12552,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常充饥，高脂控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "肉夹馍少油版为陕菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "肉夹馍少油版属陕菜常见温中充饥整理，《千金要方·食治》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -12588,8 +12588,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热烦渴时，胃寒减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "凉皮少辣版为陕菜常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "凉皮少辣版属陕菜常见清热解暑整理，《随息居饮食谱》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -12624,8 +12624,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补甜品，控糖。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "红枣甑糕为陕菜常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "红枣甑糕属陕菜常见补气养血整理，《随息居饮食谱》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -12660,8 +12660,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "发酵风味，适量食用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "臭鳜鱼清蒸为徽菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "臭鳜鱼清蒸属徽菜常见开胃消食整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -12698,8 +12698,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补，高脂控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "粉蒸肉配米饭为赣菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "粉蒸肉配米饭属赣菜常见健脾益气整理，《养老奉亲书》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -12735,8 +12735,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后易消化主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "南昌拌粉清汤版为赣菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "南昌拌粉清汤版属赣菜常见养胃主食整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -12773,8 +12773,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季畏寒时温补参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "手扒羊肉汤为蒙古菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "手扒羊肉汤属蒙古菜常见温阳补虚整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -12812,8 +12812,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "草原寒冷地区暖胃。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "奶茶配炒米为蒙古菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "奶茶配炒米属蒙古菜常见温胃充饥整理，《遵生八笺》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -12847,8 +12847,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常早点，控卤汁咸度。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "嘎巴菜早点为津菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "嘎巴菜早点属津菜常见健脾充饥整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -12883,8 +12883,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季清晨暖胃。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "面茶暖身为津菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "面茶暖身属津菜常见温胃充饥整理，《遵生八笺》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -12919,8 +12919,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "油腻后开胃主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "陈醋刀削面为晋菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "陈醋刀削面属晋菜常见开胃消食整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -12957,8 +12957,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "脾胃虚弱日常粥品。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "小米南瓜粥为晋菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "小米南瓜粥属晋菜常见健脾养胃整理，《养老奉亲书》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -12996,8 +12996,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "春季开胃，控盐适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "藜蒿炒腊肉为赣菜常见食养方。"
+        "title": "《随园食单》",
+        "summary": "藜蒿炒腊肉属赣菜常见健脾开胃整理，《随园食单》载有同类因时、因体调养思路，春时令更宜。"
       }
     ],
     "draft": false
@@ -13034,8 +13034,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后调养易消化蛋白。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "银鱼蒸蛋为赣菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "银鱼蒸蛋属赣菜常见益气补虚整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -13073,8 +13073,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季畏寒参考，控糖控油。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "三杯鸡少油版为赣菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "三杯鸡少油版属赣菜常见温补气血整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -13111,8 +13111,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "心悸失眠、面色少华时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "广昌莲子排骨汤为赣菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "广昌莲子排骨汤属赣菜常见健脾养心整理，《食疗本草》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -13150,8 +13150,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后易消化主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "铅山烫粉清汤为赣菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "铅山烫粉清汤属赣菜常见养胃益气整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -13189,8 +13189,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "家常补益，适量食用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "客家酿豆腐为赣菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "客家酿豆腐属赣菜常见健脾益气整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -13227,8 +13227,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常充饥，高脂控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "沙县拌面少油版为闽菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "沙县拌面少油版属闽菜常见健脾主食整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -13265,8 +13265,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体虚乏力时高蛋白参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "海蛎羹清汤为闽菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "海蛎羹清汤属闽菜常见滋阴鲜味整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -13301,8 +13301,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "发酵风味适量，消化弱者控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "红糟鱼清蒸为闽菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "红糟鱼清蒸属闽菜常见开胃补血整理，《饮膳正要》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -13339,8 +13339,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "情绪郁结、胃口差时少量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "茉莉花茶配茶点为闽菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "茉莉花茶配茶点属闽菜常见理气解郁整理，《遵生八笺》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -13377,8 +13377,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常充饥，控糖适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "叉烧配米饭为粤菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "叉烧配米饭属粤菜常见补气充饥整理，《养老奉亲书》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -13417,8 +13417,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑湿食欲差时易消化。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "艇仔粥为粤菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "艇仔粥属粤菜常见健脾养胃整理，《养老奉亲书》载有同类因时、因体调养思路，夏、秋时令更宜。"
       }
     ],
     "draft": false
@@ -13455,8 +13455,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体虚畏寒时，控盐适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "盐焗鸡手撕为粤菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "盐焗鸡手撕属粤菜常见温中益气整理，《养老奉亲书》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -13495,8 +13495,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "油腻后理气开胃，阴虚慎用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "陈皮鸭汤为粤菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "陈皮鸭汤属粤菜常见理气化痰整理，《食疗本草》载有同类因时、因体调养思路，秋、冬时令更宜。"
       }
     ],
     "draft": false
@@ -13533,8 +13533,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后调养、乏力少气时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "清远鸡清炖为粤菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "清远鸡清炖属粤菜常见益气补虚整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -13572,8 +13572,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热烦渴、身重时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "冬瓜盅为粤菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "冬瓜盅属粤菜常见清热利湿整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -13611,8 +13611,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "口干胃弱时清淡粥品。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "瑶柱瘦肉粥为粤菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "瑶柱瘦肉粥属粤菜常见滋阴养胃整理，《养老奉亲书》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -13650,8 +13650,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "湿重胃口差时，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸菜鱼清汤版为川菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "酸菜鱼清汤版属川菜常见开胃消食整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -13689,8 +13689,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高脂高盐，慢病控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "回锅肉少油版为川菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "回锅肉少油版属川菜常见温补下饭整理，《养老奉亲书》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -13728,8 +13728,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常下饭，辛辣适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "宫保鸡丁为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "宫保鸡丁属川菜常见开胃益气整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -13768,8 +13768,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑湿困脾时，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "口水鸡少辣版为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "口水鸡少辣版属川菜常见开胃祛湿整理，《饮膳正要》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -13806,8 +13806,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常暖胃主食，辛辣控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "宜宾燃面为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "宜宾燃面属川菜常见健脾主食整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -13845,8 +13845,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "消化不良时易消化。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "峨眉山豆花为川菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "峨眉山豆花属川菜常见养胃润燥整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -13883,8 +13883,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "湿重胃口差时，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "万州烤鱼少辣版为渝菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "万州烤鱼少辣版属渝菜常见开胃祛湿整理，《饮膳正要》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -13922,8 +13922,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季暖胃，胃弱者减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸辣粉清汤版为渝菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "酸辣粉清汤版属渝菜常见开胃暖身整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -13960,8 +13960,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季补充蛋白，高嘌呤控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "毛肚清汤涮为渝菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "毛肚清汤涮属渝菜常见温补高蛋白整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -13997,8 +13997,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "便秘口干时适量甜品。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "乳扇配蜂蜜为滇菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "乳扇配蜂蜜属滇菜常见润肠补益整理，《饮膳正要》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -14035,8 +14035,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑季开胃主食，控糖。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "菠萝饭为滇菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "菠萝饭属滇菜常见健脾开胃整理，《养老奉亲书》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -14073,8 +14073,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常易消化主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "蒙自米线清汤为滇菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "蒙自米线清汤属滇菜常见养胃益气整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -14111,8 +14111,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "菌菇须煮熟透，过敏者慎用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "鸡枞菌炖鸡为滇菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "鸡枞菌炖鸡属滇菜常见益气健脾整理，《食疗本草》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -14149,8 +14149,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "油腻后消食参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "普洱茶配点心为滇菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "普洱茶配点心属滇菜常见消食解腻整理，《遵生八笺》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -14188,8 +14188,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "湿重困脾、胃口差时。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸汤鱼为黔菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "酸汤鱼属黔菜常见开胃祛湿整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -14227,8 +14227,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季暖胃主食，辛辣控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "花溪牛肉粉少辣版为黔菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "花溪牛肉粉少辣版属黔菜常见温胃暖身整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -14266,8 +14266,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒体虚冬季参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "遵义羊肉粉为黔菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "遵义羊肉粉属黔菜常见温补气血整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -14305,8 +14305,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "清淡易消化小食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "豆腐圆子汤为黔菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "豆腐圆子汤属黔菜常见健脾养胃整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -14344,8 +14344,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑湿身重时，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "凯里酸汤火锅为黔菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "凯里酸汤火锅属黔菜常见开胃祛湿整理，《食疗本草》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -14383,8 +14383,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒体虚冬季参考，辛辣控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "大盘鸡少辣版为新疆菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "大盘鸡少辣版属新疆菜常见温中补虚整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -14423,8 +14423,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补主食，高脂控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "羊肉手抓饭为新疆菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "羊肉手抓饭属新疆菜常见温阳补虚整理，《养老奉亲书》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -14462,8 +14462,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常易消化面食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "拉条子清汤为新疆菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "拉条子清汤属新疆菜常见健脾养胃整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -14500,8 +14500,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季畏寒适量，高嘌呤控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "烤羊肉串为新疆菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "烤羊肉串属新疆菜常见温补肾阳整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -14540,8 +14540,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "湿重胃口差时，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "椒麻鸡少油版为新疆菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "椒麻鸡少油版属新疆菜常见开胃祛湿整理，《千金要方·食治》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -14578,8 +14578,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "便秘口干时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸奶疙瘩配蜂蜜为新疆菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "酸奶疙瘩配蜂蜜属新疆菜常见润肠健胃整理，《饮膳正要》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -14617,8 +14617,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补，阴虚火旺减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "恰玛古炖羊肉为新疆菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "恰玛古炖羊肉属新疆菜常见温胃补虚整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -14655,8 +14655,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后体虚易消化。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "丸子汤为新疆菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "丸子汤属新疆菜常见益气暖身整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -14695,8 +14695,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常主食，控糖适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "素抓饭为新疆菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "素抓饭属新疆菜常见健脾充饥整理，《养老奉亲书》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -14734,8 +14734,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高寒地区暖胃，失眠者晚间少饮。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "新疆奶茶为新疆菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "新疆奶茶属新疆菜常见温胃散寒整理，《遵生八笺》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -14772,8 +14772,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "补充蛋白，适量食用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "馕坑肉清炖为新疆菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "馕坑肉清炖属新疆菜常见温补气血整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -14811,8 +14811,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高海拔抗寒高能量，高血脂控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酥油茶配糌粑为藏菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "酥油茶配糌粑属藏菜常见温胃御寒整理，《遵生八笺》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -14850,8 +14850,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高原寒冷冬季温补。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "牦牛肉萝卜汤为藏菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "牦牛肉萝卜汤属藏菜常见温胃补虚整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -14888,8 +14888,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "菌菇须煮熟透，过敏者慎用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "松茸炖鸡为藏菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "松茸炖鸡属藏菜常见益气健脾整理，《食疗本草》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -14925,8 +14925,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "消化不良时粗粮粥。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "青稞粥为藏菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "青稞粥属藏菜常见健脾养胃整理，《养老奉亲书》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -14964,8 +14964,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高蛋白适量，高血压控盐。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "风干牛肉汤为藏菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "风干牛肉汤属藏菜常见补气暖身整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -15002,8 +15002,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体虚乏力时清补参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "藏香猪清炖为藏菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "藏香猪清炖属藏菜常见滋阴补虚整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -15041,8 +15041,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "秋燥口干时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "人参果银耳羹为藏菜常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "人参果银耳羹属藏菜常见润肺生津整理，《随息居饮食谱》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -15079,8 +15079,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "情绪郁结时少量甜饮。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "甜茶配饼为藏菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "甜茶配饼属藏菜常见温胃解郁整理，《遵生八笺》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -15116,8 +15116,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "便秘口干时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "牦牛酸奶蜂蜜为藏菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "牦牛酸奶蜂蜜属藏菜常见润肠健胃整理，《饮膳正要》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -15155,8 +15155,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒肢冷冬季参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "藏羊肉炖萝卜为藏菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "藏羊肉炖萝卜属藏菜常见温中散寒整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -15193,8 +15193,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高原寒冷暖胃主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "尕面片汤为西北菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "尕面片汤属西北菜常见温胃暖身整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -15230,8 +15230,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "口干便秘时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "牦牛酸奶碗为西北菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "牦牛酸奶碗属西北菜常见滋阴润肠整理，《千金要方·食治》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -15268,8 +15268,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补，高嘌呤控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "青海手抓羊肉为西北菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "青海手抓羊肉属西北菜常见温补气血整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -15305,8 +15305,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体寒少量，糖尿病控糖。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "甜醅子饮为西北菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "甜醅子饮属西北菜常见温中活血整理，《遵生八笺》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -15344,8 +15344,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体虚乏力时清补。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "清炖狮子头为苏菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "清炖狮子头属苏菜常见健脾益气整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -15381,8 +15381,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后调养高蛋白。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "银鱼炒蛋为苏菜常见食养方。"
+        "title": "《随园食单》",
+        "summary": "银鱼炒蛋属苏菜常见益气补虚整理，《随园食单》载有同类因时、因体调养思路，春时令更宜。"
       }
     ],
     "draft": false
@@ -15419,8 +15419,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热食欲差时清补。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "盐水鸭为苏菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "盐水鸭属苏菜常见滋阴清补整理，《饮膳正要》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -15458,8 +15458,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常充饥主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "扬州炒饭为苏菜常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "扬州炒饭属苏菜常见健脾充饥整理，《养老奉亲书》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -15498,8 +15498,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "秋季滋补适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "蟹粉豆腐羹为苏菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "蟹粉豆腐羹属苏菜常见益气鲜味整理，《食疗本草》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -15536,8 +15536,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高脂控量，慢病适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "东坡肉少油版为浙菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "东坡肉少油版属浙菜常见温中补虚整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -15573,8 +15573,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "胃口差时开胃，胃酸过多减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "西湖醋鱼为浙菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "西湖醋鱼属浙菜常见开胃健脾整理，《饮膳正要》载有同类因时、因体调养思路，春时令更宜。"
       }
     ],
     "draft": false
@@ -15612,8 +15612,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "春困食欲差时清鲜小炒。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "龙井虾仁为浙菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "龙井虾仁属浙菜常见理气清鲜整理，《饮膳正要》载有同类因时、因体调养思路，春时令更宜。"
       }
     ],
     "draft": false
@@ -15650,8 +15650,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "酒酿适量，孕妇慎用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "绍兴醉鸡为浙菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "绍兴醉鸡属浙菜常见温中益气整理，《千金要方·食治》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -15689,8 +15689,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "胃口弱时清淡汤品。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "温州鱼丸汤为浙菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "温州鱼丸汤属浙菜常见益气健脾整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -15728,8 +15728,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常充饥，控油盐。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "小笼包配清汤为本帮菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "小笼包配清汤属本帮菜常见温胃充饥整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -15768,8 +15768,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "油腻后开胃，控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "生煎配姜醋为本帮菜常见食养方。"
+        "title": "《随园食单》",
+        "summary": "生煎配姜醋属本帮菜常见开胃主食整理，《随园食单》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -15806,8 +15806,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高脂控量，慢病适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "本帮红烧肉少油为本帮菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "本帮红烧肉少油属本帮菜常见温中补虚整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -15845,8 +15845,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热食欲差时清补。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "白斩鸡姜葱为本帮菜常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "白斩鸡姜葱属本帮菜常见滋阴清补整理，《饮膳正要》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -15882,8 +15882,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常暖胃主食，控油。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "葱油拌面为本帮菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "葱油拌面属本帮菜常见温胃主食整理，《千金要方·食治》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -15921,8 +15921,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补，高嘌呤控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "手把肉清炖为蒙古菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "手把肉清炖属蒙古菜常见温补气血整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -15958,8 +15958,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "草原抗寒暖胃。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "蒙古奶茶为蒙古菜常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "蒙古奶茶属蒙古菜常见温胃散寒整理，《遵生八笺》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -15997,8 +15997,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季畏寒温补。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "滩羊汤为西北菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "滩羊汤属西北菜常见温补气血整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -16034,8 +16034,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热烦渴时，胃寒减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "浆水面清版为西北菜常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "浆水面清版属西北菜常见清热解暑整理，《千金要方·食治》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -16071,8 +16071,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常筋道面食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "刀削面汤为晋菜常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "刀削面汤属晋菜常见健脾养胃整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -16111,8 +16111,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高血压控盐，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "味噌汤清版为日式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "味噌汤清版融合日式饮食经验，以温胃散寒思路整理，冬时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16151,8 +16151,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "生鱼须新鲜，消化弱者适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "三文鱼盖饭少酱为日式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "三文鱼盖饭少酱融合日式饮食经验，以滋阴补虚思路整理，四季时令更宜；东方食养语境可参考《养老奉亲书》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16190,8 +16190,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季畏寒暖胃，高钠控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "关东煮暖身为日式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "关东煮暖身融合日式饮食经验，以温胃暖身思路整理，冬时令更宜；东方食养语境可参考《遵生八笺》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16230,8 +16230,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热烦渴时，胃寒减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "荞麦凉面为日式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "荞麦凉面融合日式饮食经验，以清热健脾思路整理，夏时令更宜；东方食养语境可参考《遵生八笺》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16268,8 +16268,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后体虚易消化。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "茶碗蒸软嫩版为日式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "茶碗蒸软嫩版融合日式饮食经验，以滋阴易消化思路整理，四季时令更宜；东方食养语境可参考《遵生八笺》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16307,8 +16307,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "胃口差时少量，胃酸过多减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "梅干昆布茶为日式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "梅干昆布茶融合日式饮食经验，以开胃生津思路整理，夏时令更宜；东方食养语境可参考《遵生八笺》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16346,8 +16346,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补，高脂控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "寿喜烧少油为日式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "寿喜烧少油融合日式饮食经验，以温补气血思路整理，冬时令更宜；东方食养语境可参考《遵生八笺》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16386,8 +16386,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常暖胃便携主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "姜味饭团为日式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "姜味饭团融合日式饮食经验，以温胃充饥思路整理，四季时令更宜；东方食养语境可参考《养老奉亲书》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16426,8 +16426,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热口干时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "豆腐味噌沙拉为日式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "豆腐味噌沙拉融合日式饮食经验，以清热润燥思路整理，夏时令更宜；东方食养语境可参考《遵生八笺》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16464,8 +16464,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "油腻后消食，失眠晚间少饮。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "玄米茶饭后为日式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "玄米茶饭后融合日式饮食经验，以消食解腻思路整理，四季时令更宜；东方食养语境可参考《养老奉亲书》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16504,8 +16504,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "开胃祛湿，胃热辛辣减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "泡菜锅少辣为韩式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "泡菜锅少辣融合韩式饮食经验，以温胃开胃思路整理，冬时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16544,8 +16544,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常健脾主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "石锅拌饭素食为韩式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "石锅拌饭素食融合韩式饮食经验，以健脾充饥思路整理，四季时令更宜；东方食养语境可参考《养老奉亲书》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16583,8 +16583,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "甲状腺问题遵医嘱，胃寒减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "海带汤清版为韩式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "海带汤清版融合韩式饮食经验，以清热软坚思路整理，夏时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16623,8 +16623,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季暖胃，控盐适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "大酱汤为韩式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "大酱汤融合韩式饮食经验，以温胃健脾思路整理，冬时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16663,8 +16663,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热食欲差时，胃寒减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "荞麦冷面为韩式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "荞麦冷面融合韩式饮食经验，以清热解暑思路整理，夏时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16703,8 +16703,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "便携健脾主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "紫菜包饭为韩式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "紫菜包饭融合韩式饮食经验，以健脾充饥思路整理，四季时令更宜；东方食养语境可参考《养老奉亲书》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16742,8 +16742,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补，高脂控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "包肉生菜为韩式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "包肉生菜融合韩式饮食经验，以温补适量思路整理，冬时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16782,8 +16782,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒冬季，辛辣胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "辣牛肉汤少辣为韩式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "辣牛肉汤少辣融合韩式饮食经验，以温阳散寒思路整理，冬时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16822,8 +16822,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "湿重开胃，辛辣控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "冬阴功少辣为泰式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "冬阴功少辣融合泰式饮食经验，以祛湿开胃思路整理，夏时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16862,8 +16862,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常主食，控油盐。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "泰式炒河粉少油为泰式常见食养方。"
+        "title": "《随园食单》",
+        "summary": "泰式炒河粉少油融合泰式饮食经验，以健脾充饥思路整理，四季时令更宜；东方食养语境可参考《随园食单》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16902,8 +16902,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "辛辣控量，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "绿咖喱鸡为泰式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "绿咖喱鸡融合泰式饮食经验，以温中祛湿思路整理，冬时令更宜；东方食养语境可参考《饮膳正要》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16941,8 +16941,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "控糖适量，糖尿病慎用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "芒果糯米饭为泰式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "芒果糯米饭融合泰式饮食经验，以健脾润肠思路整理，夏时令更宜；东方食养语境可参考《养老奉亲书》的因时调养原则。"
       }
     ],
     "draft": false
@@ -16981,8 +16981,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热开胃，胃寒减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "青木瓜沙拉为泰式常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "青木瓜沙拉融合泰式饮食经验，以清热开胃思路整理，夏时令更宜；东方食养语境可参考《随息居饮食谱》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17021,8 +17021,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "胃口差时开胃小炒。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "罗勒炒鸡为泰式常见食养方。"
+        "title": "《随园食单》",
+        "summary": "罗勒炒鸡融合泰式饮食经验，以理气开胃思路整理，四季时令更宜；东方食养语境可参考《随园食单》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17060,8 +17060,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "秋燥口干时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "椰奶南瓜汤为泰式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "椰奶南瓜汤融合泰式饮食经验，以润燥健脾思路整理，秋时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17100,8 +17100,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "控盐适量，高血压减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "鱼露拌时蔬为泰式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "鱼露拌时蔬融合泰式饮食经验，以开胃消食思路整理，夏时令更宜；东方食养语境可参考《饮膳正要》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17140,8 +17140,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "病后体虚易消化。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "越南河粉清汤为越式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "越南河粉清汤属越式常见温胃补虚整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -17180,8 +17180,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热轻食，生冷适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "鲜虾米纸卷为越式常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "鲜虾米纸卷属越式常见清热轻食整理，《随息居饮食谱》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -17219,8 +17219,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常主食适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "烤肉米粉为越式常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "烤肉米粉属越式常见健脾充饥整理，《千金要方·食治》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -17258,8 +17258,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "畏寒冬季暖胃。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "姜鸡越式为越式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "姜鸡越式属越式常见温中散寒整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -17297,8 +17297,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "情绪郁结时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "莲花茶为越式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "莲花茶属越式常见清心解郁整理，《遵生八笺》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -17337,8 +17337,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常健脾主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "椰浆饭清版为马来式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "椰浆饭清版属马来式常见健脾充饥整理，《养老奉亲书》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -17376,8 +17376,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "沙爹少油为马来式常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "沙爹少油属马来式常见温补益气整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -17415,8 +17415,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "辛辣控量，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "叻沙清汤为马来式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "叻沙清汤属马来式常见祛湿开胃整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -17455,8 +17455,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常健脾益气。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "海南鸡饭清版为新式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "海南鸡饭清版属新式常见健脾益气整理，《养老奉亲书》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -17494,8 +17494,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "开胃祛湿，辛辣控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "鱼头咖喱少辣为新式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "鱼头咖喱少辣属新式常见祛湿开胃整理，《饮膳正要》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -17532,8 +17532,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "控糖适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "咖椰吐司早餐为新式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "咖椰吐司早餐属新式常见健脾早餐整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -17572,8 +17572,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "素食健脾高蛋白。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "印度豆糊配饭为印式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "印度豆糊配饭融合印式饮食经验，以健脾充饥思路整理，四季时令更宜；东方食养语境可参考《养老奉亲书》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17611,8 +17611,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "坦都里烤鸡少油为印式常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "坦都里烤鸡少油融合印式饮食经验，以温中益气思路整理，冬时令更宜；东方食养语境可参考《千金要方·食治》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17649,8 +17649,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热口干时适量控糖。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "芒果酸奶饮为印式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "芒果酸奶饮融合印式饮食经验，以滋阴润肠思路整理，夏时令更宜；东方食养语境可参考《遵生八笺》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17688,8 +17688,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季暖胃，孕妇慎用。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "黄金奶少姜为印式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "黄金奶少姜融合印式饮食经验，以温胃抗炎思路整理，冬时令更宜；东方食养语境可参考《遵生八笺》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17727,8 +17727,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "素食滋阴参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "菠菜奶酪为印式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "菠菜奶酪融合印式饮食经验，以滋阴健脾思路整理，四季时令更宜；东方食养语境可参考《饮膳正要》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17766,8 +17766,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常主食适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "蒜香烤饼为印式常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "蒜香烤饼融合印式饮食经验，以温胃主食思路整理，四季时令更宜；东方食养语境可参考《千金要方·食治》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17805,8 +17805,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补主食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "印度香饭清版为印式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "印度香饭清版融合印式饮食经验，以温中充饥思路整理，冬时令更宜；东方食养语境可参考《养老奉亲书》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17843,8 +17843,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "胃口差时开胃。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "芒果酸辣酱为印式常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "芒果酸辣酱融合印式饮食经验，以开胃消食思路整理，夏时令更宜；东方食养语境可参考《千金要方·食治》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17882,8 +17882,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "秋季润燥健脾汤。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "意式蔬菜汤为意式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "意式蔬菜汤融合意式饮食经验，以健脾润燥思路整理，秋时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17921,8 +17921,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常健脾主食控油。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "橄榄油意面为意式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "橄榄油意面融合意式饮食经验，以健脾润燥思路整理，四季时令更宜；东方食养语境可参考《饮膳正要》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17961,8 +17961,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热食欲差时清鲜。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "卡普雷塞沙拉为意式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "卡普雷塞沙拉融合意式饮食经验，以清热开胃思路整理，夏时令更宜；东方食养语境可参考《饮膳正要》的因时调养原则。"
       }
     ],
     "draft": false
@@ -17998,8 +17998,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "秋季菌菇益气参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "蘑菇烩饭为意式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "蘑菇烩饭融合意式饮食经验，以益气健脾思路整理，秋时令更宜；东方食养语境可参考《养老奉亲书》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18036,8 +18036,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "春困食欲差时开胃。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "青酱意面为意式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "青酱意面融合意式饮食经验，以理气开胃思路整理，春时令更宜；东方食养语境可参考《饮膳正要》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18074,8 +18074,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补主食适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "肉酱面少油为意式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "肉酱面少油融合意式饮食经验，以温胃主食思路整理，冬时令更宜；东方食养语境可参考《饮膳正要》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18112,8 +18112,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "控糖适量，失眠少咖啡。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "提拉米苏小份为意式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "提拉米苏小份融合意式饮食经验，以补益适量思路整理，冬时令更宜；东方食养语境可参考《饮膳正要》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18151,8 +18151,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季暖胃，高钠控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "法式洋葱汤为法式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "法式洋葱汤融合法式饮食经验，以温胃散寒思路整理，冬时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18191,8 +18191,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "夏燥口干时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "普罗旺斯炖菜为法式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "普罗旺斯炖菜融合法式饮食经验，以润燥健脾思路整理，夏时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18230,8 +18230,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "控糖适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "可丽饼蜂蜜为法式常见食养方。"
+        "title": "《随园食单》",
+        "summary": "可丽饼蜂蜜融合法式饮食经验，以健脾甜点思路整理，四季时令更宜；东方食养语境可参考《随园食单》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18268,8 +18268,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热开胃轻食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "希腊沙拉为地中海式常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "希腊沙拉属地中海式常见清热开胃整理，《随息居饮食谱》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -18306,8 +18306,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热口干时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "酸奶黄瓜蘸酱为地中海式常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "酸奶黄瓜蘸酱属地中海式常见清热开胃整理，《随息居饮食谱》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -18344,8 +18344,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "希腊烤肉串为地中海式常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "希腊烤肉串属地中海式常见温补气血整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -18382,8 +18382,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "素食滋阴参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "羊奶酪沙拉为地中海式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "羊奶酪沙拉属地中海式常见滋阴健脾整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -18420,8 +18420,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "土耳其烤肉卷为土耳其式常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "土耳其烤肉卷属土耳其式常见温补气血整理，《千金要方·食治》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -18458,8 +18458,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "素食健脾参考。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "鹰嘴豆泥配饼为土耳其式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "鹰嘴豆泥配饼属土耳其式常见健脾高蛋白整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -18496,8 +18496,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季健脾汤品。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "土耳其扁豆汤为土耳其式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "土耳其扁豆汤属土耳其式常见健脾充饥整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -18535,8 +18535,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热解暑控盐。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "咸酸奶饮为土耳其式常见食养方。"
+        "title": "《遵生八笺》",
+        "summary": "咸酸奶饮属土耳其式常见健脾解暑整理，《遵生八笺》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -18574,8 +18574,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常温补适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "沙威玛少酱为中东式常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "沙威玛少酱属中东式常见温补适量整理，《千金要方·食治》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -18612,8 +18612,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "素食健脾油炸控量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "法拉费配饼为中东式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "法拉费配饼属中东式常见健脾素食整理，《饮膳正要》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -18650,8 +18650,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "暑热开胃轻食。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "塔博勒沙拉为中东式常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "塔博勒沙拉属中东式常见清热开胃整理，《随息居饮食谱》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -18689,8 +18689,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "早餐温胃易消化。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "北非番茄炖蛋为中东式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "北非番茄炖蛋属中东式常见温胃早餐整理，《食疗本草》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false
@@ -18728,8 +18728,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "日常主食适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "塔可清版为墨西哥式常见食养方。"
+        "title": "《千金要方·食治》",
+        "summary": "塔可清版融合墨西哥式饮食经验，以温胃主食思路整理，四季时令更宜；东方食养语境可参考《千金要方·食治》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18767,8 +18767,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "秋燥口干时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "牛油果沙拉为墨西哥式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "牛油果沙拉融合墨西哥式饮食经验，以润燥开胃思路整理，夏时令更宜；东方食养语境可参考《饮膳正要》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18805,8 +18805,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季健脾汤品。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "墨西哥豆汤为墨西哥式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "墨西哥豆汤融合墨西哥式饮食经验，以健脾充饥思路整理，冬时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18842,8 +18842,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "辛辣控量，胃热减量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "辣酱卷饼少辣为墨西哥式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "辣酱卷饼少辣融合墨西哥式饮食经验，以祛湿开胃思路整理，冬时令更宜；东方食养语境可参考《饮膳正要》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18881,8 +18881,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季祛湿暖胃。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "秋葵浓汤为美式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "秋葵浓汤融合美式饮食经验，以温胃祛湿思路整理，冬时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18921,8 +18921,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "秋季润肠早餐控糖。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "美式燕麦粥为美式常见食养方。"
+        "title": "《养老奉亲书》",
+        "summary": "美式燕麦粥融合美式饮食经验，以健脾润肠思路整理，秋时令更宜；东方食养语境可参考《养老奉亲书》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18959,8 +18959,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "体虚乏力时适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "蛤蜊浓汤清版为美式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "蛤蜊浓汤清版融合美式饮食经验，以益气补虚思路整理，冬时令更宜；东方食养语境可参考《食疗本草》的因时调养原则。"
       }
     ],
     "draft": false
@@ -18997,8 +18997,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "控油适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "凯撒沙拉少酱为美式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "凯撒沙拉少酱融合美式饮食经验，以健脾轻食思路整理，夏时令更宜；东方食养语境可参考《饮膳正要》的因时调养原则。"
       }
     ],
     "draft": false
@@ -19036,8 +19036,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "冬季温补适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "巴西黑豆炖肉为巴西式常见食养方。"
+        "title": "《食疗本草》",
+        "summary": "巴西黑豆炖肉属巴西式常见温中补虚整理，《食疗本草》载有同类因时、因体调养思路，冬时令更宜。"
       }
     ],
     "draft": false
@@ -19074,8 +19074,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "控糖适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "巴西莓碗为巴西式常见食养方。"
+        "title": "《随息居饮食谱》",
+        "summary": "巴西莓碗属巴西式常见清热抗氧化整理，《随息居饮食谱》载有同类因时、因体调养思路，夏时令更宜。"
       }
     ],
     "draft": false
@@ -19113,8 +19113,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "控糖适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "枫糖燕麦为加式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "枫糖燕麦属加式常见健脾早餐整理，《饮膳正要》载有同类因时、因体调养思路，秋时令更宜。"
       }
     ],
     "draft": false
@@ -19152,8 +19152,8 @@ const HANDCRAFTED_RECIPES = [
     "note": "高蛋白适量。",
     "sources": [
       {
-        "title": "地域食疗整理",
-        "summary": "熏三文鱼轻食为加式常见食养方。"
+        "title": "《饮膳正要》",
+        "summary": "熏三文鱼轻食属加式常见滋阴补虚整理，《饮膳正要》载有同类因时、因体调养思路，四季时令更宜。"
       }
     ],
     "draft": false

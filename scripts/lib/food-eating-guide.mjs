@@ -1,0 +1,166 @@
+/** Derive per-food eating advice from category, nature, and summary metadata. */
+
+export const GENERIC_CAUTIONS = new Set([
+  "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+  "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+  "结合剂量、加工方式和个人状态综合判断。"
+]);
+
+const NATURE_ALONE = {
+  寒: "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+  凉: "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+  平: "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+  温: "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+  热: "性偏温热辛散，宜少量调味或佐餐，不宜长期大量单独食用。"
+};
+
+const NATURE_TIMING = {
+  寒: "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
+  凉: "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+  平: "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+  温: "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+  热: "寒冷季节或脾胃虚寒时少量参考；夏季实热、咽痛时不宜多用。"
+};
+
+const NATURE_CAUTION = {
+  寒: "脾胃虚寒、腹泻、痛经怕冷者不宜生食或大量食用。",
+  凉: "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
+  平: "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+  温: "口干咽痛、便秘上火、外感发热时不宜多吃。",
+  热: "胃热口臭、痔疮肿痛、高血压控盐期应少用或不用。"
+};
+
+const CATEGORY_PAIR = {
+  蔬菜: "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
+  野菜: "焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。",
+  水生蔬菜: "宜熟食入汤或清炒，不宜与寒凉海鲜大量同餐。",
+  菌菇: "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
+  水果: "更适合餐间或餐后少量，不宜替代正餐，空腹胃弱者慎食。",
+  谷物: "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
+  主食: "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
+  豆类: "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
+  豆制品: "与蔬菜、主食同餐，痛风急性期注意总量。",
+  肉蛋奶: "与蔬菜、主食同餐，高脂或高嘌呤品种注意份量与频率。",
+  海产: "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
+  坚果种子: "少量佐餐或入粥羹，不宜炒货当零食大量食用。",
+  调料: "仅作调味少量使用，不宜当作主要食材大量摄入。",
+  茶饮: "代茶少量、间断饮用，不宜长期当水喝或空腹大量。",
+  饮品: "注意糖分与冰度，体寒、控糖人群适量。",
+  发酵食品: "佐餐开胃，注意盐分与防腐添加，胃弱者少量。",
+  腌菜: "高盐小菜，高血压、水肿者严控，不宜长期大量。",
+  薯类: "可代部分主食，与蔬菜蛋白同餐，腹胀者适量。",
+  滋补食材: "少量、阶段性入膳，脾胃弱、痰湿重者不宜硬补。",
+  食药物质: "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
+  中药材: "参考范围，非日常食材，须在专业指导下使用。"
+};
+
+const CATEGORY_INTRO = {
+  蔬菜: "家常菜蔬，重在烹调熟透与份量适中。",
+  野菜: "应季野菜，重在来源可靠与规范处理。",
+  水生蔬菜: "水乡时蔬，宜熟食入馔。",
+  菌菇: "菌菇类，须彻底煮熟，过敏者禁食。",
+  水果: "鲜果以适量、应季为宜。",
+  谷物: "主食谷物，宜与荤素搭配。",
+  主食: "主食类，宜控制精制与份量。",
+  豆类: "豆类蛋白，宜煮透软烂。",
+  豆制品: "豆制品，清淡烹调更易消化。",
+  肉蛋奶: "荤食蛋白，宜选清淡烹调。",
+  海产: "水产海鲜，须新鲜熟透。",
+  坚果种子: "坚果种子，少量即可。",
+  调料: "香辛调料，点到为止。",
+  茶饮: "代茶饮，不宜过浓过频。",
+  饮品: "饮品以少糖、温热为佳。",
+  发酵食品: "发酵食品，注意盐度与耐受。",
+  腌菜: "腌渍小菜，控盐为主。",
+  薯类: "薯类可作主食补充。",
+  滋补食材: "滋补类宜少量阶段性使用。",
+  食药物质: "药食同源，少量入膳。",
+  中药材: "中药参考，非日常食材。"
+};
+
+function cleanNature(nature) {
+  const n = String(nature || "平").trim();
+  return ["寒", "凉", "平", "温", "热"].includes(n) ? n : "平";
+}
+
+function trimSummary(summary, max = 48) {
+  const text = String(summary || "").replace(/\s+/g, "").trim();
+  if (!text) return "";
+  if (text.length <= max) return text;
+  return `${text.slice(0, max)}…`;
+}
+
+export function isGenericCaution(caution) {
+  const text = String(caution || "").trim();
+  return !text || GENERIC_CAUTIONS.has(text);
+}
+
+export function deriveEatingGuide(food) {
+  const nature = cleanNature(food.nature);
+  const category = food.category || "蔬菜";
+  const name = food.name || "该食材";
+  const effect = (food.effects || [])[0] || "";
+  const intro = trimSummary(food.summary) || CATEGORY_INTRO[category] || "按家常饮食适量食用。";
+  const pairBase = CATEGORY_PAIR[category] || "与主食、蛋白、蔬菜一起看整体饮食结构。";
+
+  let alone = NATURE_ALONE[nature];
+  if (category === "调料" || category === "茶饮") {
+    alone = `${name}偏${nature}，宜少量${category === "调料" ? "调味" : "冲泡"}，不宜大量单独食用。`;
+  } else if (category === "水果") {
+    alone = `${name}作水果${nature === "寒" || nature === "凉" ? "偏清凉" : "偏平和"}，餐间少量即可，不宜代餐。`;
+  } else if (food.officialFoodMedicine) {
+    alone = `${name}属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。`;
+  }
+
+  let timing = NATURE_TIMING[nature];
+  if (effect.includes("湿") || effect.includes("利")) {
+    timing = "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。";
+  } else if (effect.includes("润") || effect.includes("阴")) {
+    timing = "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。";
+  } else if (effect.includes("温") || effect.includes("补")) {
+    timing = "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。";
+  }
+
+  let pair = pairBase;
+  if (nature === "寒" || nature === "凉") {
+    pair = `偏寒凉，${pairBase} 可配姜葱、胡椒等温性配料平衡。`;
+  } else if (nature === "温" || nature === "热") {
+    pair = `偏温热，${pairBase} 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。`;
+  }
+
+  let caution = NATURE_CAUTION[nature];
+  if (food.caution && !isGenericCaution(food.caution)) {
+    caution = food.caution;
+  } else if (category === "海产") {
+    caution = "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。";
+  } else if (category === "腌菜") {
+    caution = "钠含量高，高血压、肾病水肿者严控份量。";
+  } else if (category === "菌菇") {
+    caution = "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。";
+  } else if (food.officialFoodMedicine) {
+    caution = "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。";
+  }
+
+  return {
+    eatingIntro: `${name}：${intro}`,
+    alone,
+    timing,
+    pair,
+    caution
+  };
+}
+
+export function enrichFoodEatingFields(food) {
+  if (food.alone && food.timing && food.pair && !isGenericCaution(food.caution)) {
+    return food;
+  }
+  const guide = deriveEatingGuide(food);
+  return {
+    ...food,
+    alone: food.alone || guide.alone,
+    timing: food.timing || guide.timing,
+    pair: food.pair || guide.pair,
+    caution: isGenericCaution(food.caution) ? guide.caution : food.caution,
+    eatingIntro: food.eatingIntro || guide.eatingIntro
+  };
+}

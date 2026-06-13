@@ -6,6 +6,8 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { readCnJson, root } from "./lib/food-catalog.mjs";
+import { enrichFoodEatingFields } from "./lib/food-eating-guide.mjs";
+import { enrichFoodClassicSources } from "./lib/food-classic-sources.mjs";
 
 const genDir = path.join(root, "generated");
 
@@ -148,7 +150,7 @@ const bulk = [
   ...tail.map(mapRegionalEntry),
   ...batch3.map(mapRegionalEntry),
   ...batch4.map(mapRegionalEntry)
-];
+].map((food) => enrichFoodClassicSources(enrichFoodEatingFields(food)));
 
 fs.mkdirSync(genDir, { recursive: true });
 fs.writeFileSync(

@@ -11,6 +11,7 @@ export const CN_JSON_SOURCES = [
   "foods-regional-batch2.json",
   "expansion-batch4.json",
   "foods-ingredients.json",
+  "foods-china-pool-canonical.json",
   "foods-seasonal-river.json",
   "foods-medicine-homologous.json",
   "foods-medicine-homologous-batch2.json",

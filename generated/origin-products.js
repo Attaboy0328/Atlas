@@ -21236,6 +21236,7 @@ const ORIGIN_PRODUCT_FOODS = [
       "农业农村部农产品地理标志",
       "CN",
       "广东",
+      "bitter-gourd",
       "地理标志",
       "GI"
     ],
@@ -21245,7 +21246,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": null,
+    "baseFoodId": "bitter-gourd",
     "giSystems": [
       {
         "system": "cnipa",
@@ -43781,7 +43782,6 @@ const ORIGIN_PRODUCT_FOODS = [
       "建莲",
       "国家知识产权局地理标志",
       "CN",
-      "prod-lotus-seedpod--98",
       "地理标志",
       "GI"
     ],
@@ -43791,7 +43791,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "teaClass": "",
     "itemKind": "food",
     "isOriginProduct": true,
-    "baseFoodId": "prod-lotus-seedpod--98",
+    "baseFoodId": null,
     "giSystems": [
       {
         "system": "cnipa",
@@ -241015,7 +241015,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "安县魔芋",
     "en": "",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],
@@ -248135,7 +248135,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大新酸梅",
     "en": "",
     "category": "水果",
-    "nature": "凉",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -288877,7 +288877,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "桐梓魔芋",
     "en": "",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "平",
     "effects": [
       "产地认证"
     ],
@@ -311929,7 +311929,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "大连 “金葵”牌青芥辣粉（辣根粉）及青芥辣（辣根膏）",
     "en": "",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "产地认证"
     ],
@@ -318119,7 +318119,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "辣椒酱",
     "en": "",
     "category": "滋补食材",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],
@@ -321301,7 +321301,7 @@ const ORIGIN_PRODUCT_FOODS = [
     "name": "浓小丫辣椒酱",
     "en": "",
     "category": "滋补食材",
-    "nature": "温",
+    "nature": "热",
     "effects": [
       "产地认证"
     ],

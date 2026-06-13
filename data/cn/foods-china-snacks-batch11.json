@@ -1062,7 +1062,8 @@
       "snack-rice-noodle-roll--520"
     ],
     "summary": "西藏卷粉为西藏地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-flour-cake--521",
@@ -1087,7 +1088,8 @@
       "snack-rice-flour-cake--521"
     ],
     "summary": "西藏家常主食西藏米糕，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-glutinous-rice-ball--522",
@@ -1112,7 +1114,8 @@
       "snack-glutinous-rice-ball--522"
     ],
     "summary": "西藏糯米糍在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sesame-ball--523",
@@ -1137,7 +1140,8 @@
       "snack-sesame-ball--523"
     ],
     "summary": "西藏煎堆属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-turnip-pudding--524",
@@ -1162,7 +1166,8 @@
       "snack-turnip-pudding--524"
     ],
     "summary": "西藏产区西藏萝卜糕，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-taro-pudding--525",
@@ -1187,7 +1192,8 @@
       "snack-taro-pudding--525"
     ],
     "summary": "西藏芋头糕为西藏地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-salty--526",
@@ -1212,7 +1218,8 @@
       "snack-rice-dumpling-salty--526"
     ],
     "summary": "西藏家常主食西藏咸肉粽，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-sweet--527",
@@ -1237,7 +1244,8 @@
       "snack-rice-dumpling-sweet--527"
     ],
     "summary": "西藏碱水粽在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-steamed-bun--528",
@@ -1262,7 +1270,8 @@
       "snack-steamed-bun--528"
     ],
     "summary": "西藏包子属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-mantou--529",
@@ -1287,7 +1296,8 @@
       "snack-mantou--529"
     ],
     "summary": "西藏产区西藏馒头，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-scallion-pancake--530",
@@ -1312,7 +1322,8 @@
       "snack-scallion-pancake--530"
     ],
     "summary": "西藏葱油饼为西藏地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-fried-dough-twist--531",
@@ -1337,7 +1348,8 @@
       "snack-fried-dough-twist--531"
     ],
     "summary": "西藏家常主食西藏麻花，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-cracker--532",
@@ -1362,7 +1374,8 @@
       "snack-rice-cracker--532"
     ],
     "summary": "西藏米饼在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-soy-milk-hot--533",
@@ -1387,7 +1400,8 @@
       "snack-soy-milk-hot--533"
     ],
     "summary": "西藏热豆浆属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-tofu-pudding--534",
@@ -1412,7 +1426,8 @@
       "snack-tofu-pudding--534"
     ],
     "summary": "西藏产区西藏豆腐花，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-grass-jelly--535",
@@ -1437,7 +1452,8 @@
       "snack-grass-jelly--535"
     ],
     "summary": "西藏凉粉为西藏地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sweet-potato-ginger--536",
@@ -1462,7 +1478,8 @@
       "snack-sweet-potato-ginger--536"
     ],
     "summary": "西藏家常主食西藏番薯姜糖水，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-egg-waffle--537",
@@ -1487,7 +1504,8 @@
       "snack-egg-waffle--537"
     ],
     "summary": "西藏鸡蛋仔在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-pineapple-bun--538",
@@ -1512,7 +1530,8 @@
       "snack-pineapple-bun--538"
     ],
     "summary": "西藏菠萝包属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-wife-cake--539",
@@ -1537,7 +1556,8 @@
       "snack-wife-cake--539"
     ],
     "summary": "西藏产区西藏老婆饼，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-noodle-roll--540",
@@ -1562,7 +1582,8 @@
       "snack-rice-noodle-roll--540"
     ],
     "summary": "内蒙古卷粉为内蒙古地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-flour-cake--541",
@@ -1587,7 +1608,8 @@
       "snack-rice-flour-cake--541"
     ],
     "summary": "内蒙古家常主食内蒙古米糕，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-glutinous-rice-ball--542",
@@ -1612,7 +1634,8 @@
       "snack-glutinous-rice-ball--542"
     ],
     "summary": "内蒙古糯米糍在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sesame-ball--543",
@@ -1637,7 +1660,8 @@
       "snack-sesame-ball--543"
     ],
     "summary": "内蒙古煎堆属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-turnip-pudding--544",
@@ -1662,7 +1686,8 @@
       "snack-turnip-pudding--544"
     ],
     "summary": "内蒙古产区内蒙古萝卜糕，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-taro-pudding--545",
@@ -1687,7 +1712,8 @@
       "snack-taro-pudding--545"
     ],
     "summary": "内蒙古芋头糕为内蒙古地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-salty--546",
@@ -1712,7 +1738,8 @@
       "snack-rice-dumpling-salty--546"
     ],
     "summary": "内蒙古家常主食内蒙古咸肉粽，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-sweet--547",
@@ -1737,7 +1764,8 @@
       "snack-rice-dumpling-sweet--547"
     ],
     "summary": "内蒙古碱水粽在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-steamed-bun--548",
@@ -1762,7 +1790,8 @@
       "snack-steamed-bun--548"
     ],
     "summary": "内蒙古包子属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-mantou--549",
@@ -1787,7 +1816,8 @@
       "snack-mantou--549"
     ],
     "summary": "内蒙古产区内蒙古馒头，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-scallion-pancake--550",
@@ -1812,7 +1842,8 @@
       "snack-scallion-pancake--550"
     ],
     "summary": "内蒙古葱油饼为内蒙古地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-fried-dough-twist--551",
@@ -1837,7 +1868,8 @@
       "snack-fried-dough-twist--551"
     ],
     "summary": "内蒙古家常主食内蒙古麻花，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-cracker--552",
@@ -1862,7 +1894,8 @@
       "snack-rice-cracker--552"
     ],
     "summary": "内蒙古米饼在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-soy-milk-hot--553",
@@ -1887,7 +1920,8 @@
       "snack-soy-milk-hot--553"
     ],
     "summary": "内蒙古热豆浆属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-tofu-pudding--554",
@@ -1912,7 +1946,8 @@
       "snack-tofu-pudding--554"
     ],
     "summary": "内蒙古产区内蒙古豆腐花，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-grass-jelly--555",
@@ -1937,7 +1972,8 @@
       "snack-grass-jelly--555"
     ],
     "summary": "内蒙古凉粉为内蒙古地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sweet-potato-ginger--556",
@@ -1962,7 +1998,8 @@
       "snack-sweet-potato-ginger--556"
     ],
     "summary": "内蒙古家常主食内蒙古番薯姜糖水，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-egg-waffle--557",
@@ -1987,7 +2024,8 @@
       "snack-egg-waffle--557"
     ],
     "summary": "内蒙古鸡蛋仔在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-pineapple-bun--558",
@@ -2012,7 +2050,8 @@
       "snack-pineapple-bun--558"
     ],
     "summary": "内蒙古菠萝包属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-wife-cake--559",
@@ -2037,7 +2076,8 @@
       "snack-wife-cake--559"
     ],
     "summary": "内蒙古产区内蒙古老婆饼，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-noodle-roll--560",
@@ -2062,7 +2102,8 @@
       "snack-rice-noodle-roll--560"
     ],
     "summary": "辽宁卷粉为辽宁地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-flour-cake--561",
@@ -2087,7 +2128,8 @@
       "snack-rice-flour-cake--561"
     ],
     "summary": "辽宁家常主食辽宁米糕，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-glutinous-rice-ball--562",
@@ -2112,7 +2154,8 @@
       "snack-glutinous-rice-ball--562"
     ],
     "summary": "辽宁糯米糍在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sesame-ball--563",
@@ -2137,7 +2180,8 @@
       "snack-sesame-ball--563"
     ],
     "summary": "辽宁煎堆属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-turnip-pudding--564",
@@ -2162,7 +2206,8 @@
       "snack-turnip-pudding--564"
     ],
     "summary": "辽宁产区辽宁萝卜糕，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-taro-pudding--565",
@@ -2187,7 +2232,8 @@
       "snack-taro-pudding--565"
     ],
     "summary": "辽宁芋头糕为辽宁地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-salty--566",
@@ -2212,7 +2258,8 @@
       "snack-rice-dumpling-salty--566"
     ],
     "summary": "辽宁家常主食辽宁咸肉粽，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-sweet--567",
@@ -2237,7 +2284,8 @@
       "snack-rice-dumpling-sweet--567"
     ],
     "summary": "辽宁碱水粽在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-steamed-bun--568",
@@ -2262,7 +2310,8 @@
       "snack-steamed-bun--568"
     ],
     "summary": "辽宁包子属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-mantou--569",
@@ -2287,7 +2336,8 @@
       "snack-mantou--569"
     ],
     "summary": "辽宁产区辽宁馒头，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-scallion-pancake--570",
@@ -2312,7 +2362,8 @@
       "snack-scallion-pancake--570"
     ],
     "summary": "辽宁葱油饼为辽宁地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-fried-dough-twist--571",
@@ -2337,7 +2388,8 @@
       "snack-fried-dough-twist--571"
     ],
     "summary": "辽宁家常主食辽宁麻花，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-cracker--572",
@@ -2362,7 +2414,8 @@
       "snack-rice-cracker--572"
     ],
     "summary": "辽宁米饼在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-soy-milk-hot--573",
@@ -2387,7 +2440,8 @@
       "snack-soy-milk-hot--573"
     ],
     "summary": "辽宁热豆浆属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-tofu-pudding--574",
@@ -2412,7 +2466,8 @@
       "snack-tofu-pudding--574"
     ],
     "summary": "辽宁产区辽宁豆腐花，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-grass-jelly--575",
@@ -2437,7 +2492,8 @@
       "snack-grass-jelly--575"
     ],
     "summary": "辽宁凉粉为辽宁地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sweet-potato-ginger--576",
@@ -2462,7 +2518,8 @@
       "snack-sweet-potato-ginger--576"
     ],
     "summary": "辽宁家常主食辽宁番薯姜糖水，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-egg-waffle--577",
@@ -2487,7 +2544,8 @@
       "snack-egg-waffle--577"
     ],
     "summary": "辽宁鸡蛋仔在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-pineapple-bun--578",
@@ -2512,7 +2570,8 @@
       "snack-pineapple-bun--578"
     ],
     "summary": "辽宁菠萝包属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-wife-cake--579",
@@ -2537,7 +2596,8 @@
       "snack-wife-cake--579"
     ],
     "summary": "辽宁产区辽宁老婆饼，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-noodle-roll--580",
@@ -2562,7 +2622,8 @@
       "snack-rice-noodle-roll--580"
     ],
     "summary": "吉林卷粉为吉林地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-flour-cake--581",
@@ -2587,7 +2648,8 @@
       "snack-rice-flour-cake--581"
     ],
     "summary": "吉林家常主食吉林米糕，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-glutinous-rice-ball--582",
@@ -2612,7 +2674,8 @@
       "snack-glutinous-rice-ball--582"
     ],
     "summary": "吉林糯米糍在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sesame-ball--583",
@@ -2637,7 +2700,8 @@
       "snack-sesame-ball--583"
     ],
     "summary": "吉林煎堆属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-turnip-pudding--584",
@@ -2662,7 +2726,8 @@
       "snack-turnip-pudding--584"
     ],
     "summary": "吉林产区吉林萝卜糕，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-taro-pudding--585",
@@ -2687,7 +2752,8 @@
       "snack-taro-pudding--585"
     ],
     "summary": "吉林芋头糕为吉林地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-salty--586",
@@ -2712,7 +2778,8 @@
       "snack-rice-dumpling-salty--586"
     ],
     "summary": "吉林家常主食吉林咸肉粽，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-sweet--587",
@@ -2737,7 +2804,8 @@
       "snack-rice-dumpling-sweet--587"
     ],
     "summary": "吉林碱水粽在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-steamed-bun--588",
@@ -2762,7 +2830,8 @@
       "snack-steamed-bun--588"
     ],
     "summary": "吉林包子属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-mantou--589",
@@ -2787,7 +2856,8 @@
       "snack-mantou--589"
     ],
     "summary": "吉林产区吉林馒头，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-scallion-pancake--590",
@@ -2812,7 +2882,8 @@
       "snack-scallion-pancake--590"
     ],
     "summary": "吉林葱油饼为吉林地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-fried-dough-twist--591",
@@ -2837,7 +2908,8 @@
       "snack-fried-dough-twist--591"
     ],
     "summary": "吉林家常主食吉林麻花，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-cracker--592",
@@ -2862,7 +2934,8 @@
       "snack-rice-cracker--592"
     ],
     "summary": "吉林米饼在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-soy-milk-hot--593",
@@ -2887,7 +2960,8 @@
       "snack-soy-milk-hot--593"
     ],
     "summary": "吉林热豆浆属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-tofu-pudding--594",
@@ -2912,7 +2986,8 @@
       "snack-tofu-pudding--594"
     ],
     "summary": "吉林产区吉林豆腐花，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-grass-jelly--595",
@@ -2937,7 +3012,8 @@
       "snack-grass-jelly--595"
     ],
     "summary": "吉林凉粉为吉林地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sweet-potato-ginger--596",
@@ -2962,7 +3038,8 @@
       "snack-sweet-potato-ginger--596"
     ],
     "summary": "吉林家常主食吉林番薯姜糖水，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-egg-waffle--597",
@@ -2987,7 +3064,8 @@
       "snack-egg-waffle--597"
     ],
     "summary": "吉林鸡蛋仔在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-pineapple-bun--598",
@@ -3012,7 +3090,8 @@
       "snack-pineapple-bun--598"
     ],
     "summary": "吉林菠萝包属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-wife-cake--599",
@@ -3037,7 +3116,8 @@
       "snack-wife-cake--599"
     ],
     "summary": "吉林产区吉林老婆饼，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-noodle-roll--600",
@@ -3062,7 +3142,8 @@
       "snack-rice-noodle-roll--600"
     ],
     "summary": "黑龙江卷粉为黑龙江地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-flour-cake--601",
@@ -3087,7 +3168,8 @@
       "snack-rice-flour-cake--601"
     ],
     "summary": "黑龙江家常主食黑龙江米糕，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-glutinous-rice-ball--602",
@@ -3112,7 +3194,8 @@
       "snack-glutinous-rice-ball--602"
     ],
     "summary": "黑龙江糯米糍在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sesame-ball--603",
@@ -3137,7 +3220,8 @@
       "snack-sesame-ball--603"
     ],
     "summary": "黑龙江煎堆属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-turnip-pudding--604",
@@ -3162,7 +3246,8 @@
       "snack-turnip-pudding--604"
     ],
     "summary": "黑龙江产区黑龙江萝卜糕，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-taro-pudding--605",
@@ -3187,7 +3272,8 @@
       "snack-taro-pudding--605"
     ],
     "summary": "黑龙江芋头糕为黑龙江地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-salty--606",
@@ -3212,7 +3298,8 @@
       "snack-rice-dumpling-salty--606"
     ],
     "summary": "黑龙江家常主食黑龙江咸肉粽，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-sweet--607",
@@ -3237,7 +3324,8 @@
       "snack-rice-dumpling-sweet--607"
     ],
     "summary": "黑龙江碱水粽在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-steamed-bun--608",
@@ -3262,7 +3350,8 @@
       "snack-steamed-bun--608"
     ],
     "summary": "黑龙江包子属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-mantou--609",
@@ -3287,7 +3376,8 @@
       "snack-mantou--609"
     ],
     "summary": "黑龙江产区黑龙江馒头，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-scallion-pancake--610",
@@ -3312,7 +3402,8 @@
       "snack-scallion-pancake--610"
     ],
     "summary": "黑龙江葱油饼为黑龙江地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-fried-dough-twist--611",
@@ -3337,7 +3428,8 @@
       "snack-fried-dough-twist--611"
     ],
     "summary": "黑龙江家常主食黑龙江麻花，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-cracker--612",
@@ -3362,7 +3454,8 @@
       "snack-rice-cracker--612"
     ],
     "summary": "黑龙江米饼在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-soy-milk-hot--613",
@@ -3387,7 +3480,8 @@
       "snack-soy-milk-hot--613"
     ],
     "summary": "黑龙江热豆浆属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-tofu-pudding--614",
@@ -3412,7 +3506,8 @@
       "snack-tofu-pudding--614"
     ],
     "summary": "黑龙江产区黑龙江豆腐花，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-grass-jelly--615",
@@ -3437,7 +3532,8 @@
       "snack-grass-jelly--615"
     ],
     "summary": "黑龙江凉粉为黑龙江地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sweet-potato-ginger--616",
@@ -3462,7 +3558,8 @@
       "snack-sweet-potato-ginger--616"
     ],
     "summary": "黑龙江家常主食黑龙江番薯姜糖水，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-egg-waffle--617",
@@ -3487,7 +3584,8 @@
       "snack-egg-waffle--617"
     ],
     "summary": "黑龙江鸡蛋仔在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-pineapple-bun--618",
@@ -3512,7 +3610,8 @@
       "snack-pineapple-bun--618"
     ],
     "summary": "黑龙江菠萝包属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-wife-cake--619",
@@ -3537,7 +3636,8 @@
       "snack-wife-cake--619"
     ],
     "summary": "黑龙江产区黑龙江老婆饼，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-noodle-roll--620",
@@ -3562,7 +3662,8 @@
       "snack-rice-noodle-roll--620"
     ],
     "summary": "北京卷粉为北京地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-flour-cake--621",
@@ -3587,7 +3688,8 @@
       "snack-rice-flour-cake--621"
     ],
     "summary": "北京家常主食北京米糕，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-glutinous-rice-ball--622",
@@ -3612,7 +3714,8 @@
       "snack-glutinous-rice-ball--622"
     ],
     "summary": "北京糯米糍在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sesame-ball--623",
@@ -3637,7 +3740,8 @@
       "snack-sesame-ball--623"
     ],
     "summary": "北京煎堆属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-turnip-pudding--624",
@@ -3662,7 +3766,8 @@
       "snack-turnip-pudding--624"
     ],
     "summary": "北京产区北京萝卜糕，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-taro-pudding--625",
@@ -3687,7 +3792,8 @@
       "snack-taro-pudding--625"
     ],
     "summary": "北京芋头糕为北京地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-salty--626",
@@ -3712,7 +3818,8 @@
       "snack-rice-dumpling-salty--626"
     ],
     "summary": "北京家常主食北京咸肉粽，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-sweet--627",
@@ -3737,7 +3844,8 @@
       "snack-rice-dumpling-sweet--627"
     ],
     "summary": "北京碱水粽在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-steamed-bun--628",
@@ -3762,7 +3870,8 @@
       "snack-steamed-bun--628"
     ],
     "summary": "北京包子属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-mantou--629",
@@ -3787,7 +3896,8 @@
       "snack-mantou--629"
     ],
     "summary": "北京产区北京馒头，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-scallion-pancake--630",
@@ -3812,7 +3922,8 @@
       "snack-scallion-pancake--630"
     ],
     "summary": "北京葱油饼为北京地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-fried-dough-twist--631",
@@ -3837,7 +3948,8 @@
       "snack-fried-dough-twist--631"
     ],
     "summary": "北京家常主食北京麻花，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-cracker--632",
@@ -3862,7 +3974,8 @@
       "snack-rice-cracker--632"
     ],
     "summary": "北京米饼在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-soy-milk-hot--633",
@@ -3887,7 +4000,8 @@
       "snack-soy-milk-hot--633"
     ],
     "summary": "北京热豆浆属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-tofu-pudding--634",
@@ -3912,7 +4026,8 @@
       "snack-tofu-pudding--634"
     ],
     "summary": "北京产区北京豆腐花，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-grass-jelly--635",
@@ -3937,7 +4052,8 @@
       "snack-grass-jelly--635"
     ],
     "summary": "北京凉粉为北京地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sweet-potato-ginger--636",
@@ -3962,7 +4078,8 @@
       "snack-sweet-potato-ginger--636"
     ],
     "summary": "北京家常主食北京番薯姜糖水，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-egg-waffle--637",
@@ -3987,7 +4104,8 @@
       "snack-egg-waffle--637"
     ],
     "summary": "北京鸡蛋仔在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-pineapple-bun--638",
@@ -4012,7 +4130,8 @@
       "snack-pineapple-bun--638"
     ],
     "summary": "北京菠萝包属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-wife-cake--639",
@@ -4037,7 +4156,8 @@
       "snack-wife-cake--639"
     ],
     "summary": "北京产区北京老婆饼，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-noodle-roll--640",
@@ -4062,7 +4182,8 @@
       "snack-rice-noodle-roll--640"
     ],
     "summary": "天津卷粉为天津地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-flour-cake--641",
@@ -4087,7 +4208,8 @@
       "snack-rice-flour-cake--641"
     ],
     "summary": "天津家常主食天津米糕，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-glutinous-rice-ball--642",
@@ -4112,7 +4234,8 @@
       "snack-glutinous-rice-ball--642"
     ],
     "summary": "天津糯米糍在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sesame-ball--643",
@@ -4137,7 +4260,8 @@
       "snack-sesame-ball--643"
     ],
     "summary": "天津煎堆属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-turnip-pudding--644",
@@ -4162,7 +4286,8 @@
       "snack-turnip-pudding--644"
     ],
     "summary": "天津产区天津萝卜糕，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-taro-pudding--645",
@@ -4187,7 +4312,8 @@
       "snack-taro-pudding--645"
     ],
     "summary": "天津芋头糕为天津地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-salty--646",
@@ -4212,7 +4338,8 @@
       "snack-rice-dumpling-salty--646"
     ],
     "summary": "天津家常主食天津咸肉粽，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-dumpling-sweet--647",
@@ -4237,7 +4364,8 @@
       "snack-rice-dumpling-sweet--647"
     ],
     "summary": "天津碱水粽在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-steamed-bun--648",
@@ -4262,7 +4390,8 @@
       "snack-steamed-bun--648"
     ],
     "summary": "天津包子属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-mantou--649",
@@ -4287,7 +4416,8 @@
       "snack-mantou--649"
     ],
     "summary": "天津产区天津馒头，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-scallion-pancake--650",
@@ -4312,7 +4442,8 @@
       "snack-scallion-pancake--650"
     ],
     "summary": "天津葱油饼为天津地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-rice-cracker--652",
@@ -4337,7 +4468,8 @@
       "snack-rice-cracker--652"
     ],
     "summary": "天津家常主食天津米饼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-soy-milk-hot--653",
@@ -4362,7 +4494,8 @@
       "snack-soy-milk-hot--653"
     ],
     "summary": "天津热豆浆在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-tofu-pudding--654",
@@ -4387,7 +4520,8 @@
       "snack-tofu-pudding--654"
     ],
     "summary": "天津豆腐花属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-grass-jelly--655",
@@ -4412,7 +4546,8 @@
       "snack-grass-jelly--655"
     ],
     "summary": "天津产区天津凉粉，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-sweet-potato-ginger--656",
@@ -4437,7 +4572,8 @@
       "snack-sweet-potato-ginger--656"
     ],
     "summary": "天津番薯姜糖水为天津地方主食，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-egg-waffle--657",
@@ -4462,7 +4598,8 @@
       "snack-egg-waffle--657"
     ],
     "summary": "天津家常主食天津鸡蛋仔，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-pineapple-bun--658",
@@ -4487,7 +4624,8 @@
       "snack-pineapple-bun--658"
     ],
     "summary": "天津菠萝包在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "snack-wife-cake--659",
@@ -4512,6 +4650,7 @@
       "snack-wife-cake--659"
     ],
     "summary": "天津老婆饼属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   }
 ]

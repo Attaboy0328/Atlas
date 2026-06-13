@@ -31,7 +31,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：滋补、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -48,17 +48,23 @@ const EXPANDED_FOODS_BULK = [
       "tuanyu",
       "shuiyu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "甲鱼：甲鱼是常见海产。传统食养中常见关键词为“滋补、和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "tilapia",
@@ -90,7 +96,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -106,17 +112,23 @@ const EXPANDED_FOODS_BULK = [
       "luofei",
       "feizhoujiyu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "罗非鱼：罗非鱼是常见海产。传统食养中常见关键词为“高蛋白、和中”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "snakehead-fish",
@@ -149,7 +161,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白、滋养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -166,18 +178,24 @@ const EXPANDED_FOODS_BULK = [
       "caiyu",
       "shengyu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "黑鱼：黑鱼是常见海产。传统食养中常见关键词为“高蛋白、滋养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "crucian-carp",
@@ -205,7 +223,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、滋养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -220,17 +238,27 @@ const EXPANDED_FOODS_BULK = [
       "jy",
       "jiguazi"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "鲫鱼健脾利湿、和中补虚。"
+      },
+      {
+        "title": "《养老奉亲书》",
+        "summary": "鲫鱼豆腐汤为产后调养方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鲫鱼：鲫鱼是常见海产。传统食养中常见关键词为“和中、滋养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "carp",
@@ -257,7 +285,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、滋养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -271,17 +299,23 @@ const EXPANDED_FOODS_BULK = [
       "liyu",
       "ly"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鲤鱼：鲤鱼是常见海产。传统食养中常见关键词为“和中、滋养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "grass-carp",
@@ -309,7 +343,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -324,17 +358,23 @@ const EXPANDED_FOODS_BULK = [
       "cy",
       "huanyu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "草鱼：草鱼是常见海产。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "mandarin-fish",
@@ -364,7 +404,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：鲜补",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -380,17 +420,23 @@ const EXPANDED_FOODS_BULK = [
       "guiyu-alt",
       "jihuayu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鳜鱼：鳜鱼是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "catfish",
@@ -417,7 +463,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -432,17 +478,23 @@ const EXPANDED_FOODS_BULK = [
       "ny",
       "huzinian"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鲶鱼：鲶鱼是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "yellow-catfish",
@@ -474,7 +526,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -491,17 +543,23 @@ const EXPANDED_FOODS_BULK = [
       "gayu",
       "angciyu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黄骨鱼：黄骨鱼是常见海产。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "donkey-meat",
@@ -531,7 +589,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：补益",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -545,17 +603,23 @@ const EXPANDED_FOODS_BULK = [
       "lvrou",
       "lr"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，与蔬菜、主食同餐，高脂或高嘌呤品种注意份量与频率。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "荤食补形益气，宜清炖煮汤，肥腻控量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "驴肉：驴肉是常见肉蛋奶。传统食养中常见关键词为“补益”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "rabbit-meat",
@@ -584,7 +648,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -598,18 +662,24 @@ const EXPANDED_FOODS_BULK = [
       "turou",
       "tr"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与蔬菜、主食同餐，高脂或高嘌呤品种注意份量与频率。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "荤食补形益气，宜清炖煮汤，肥腻控量。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "兔肉：兔肉是常见肉蛋奶。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "pigeon",
@@ -638,7 +708,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：补益",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -657,17 +727,23 @@ const EXPANDED_FOODS_BULK = [
       "鸽子",
       "young pigeon"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，与蔬菜、主食同餐，高脂或高嘌呤品种注意份量与频率。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "荤食补形益气，宜清炖煮汤，肥腻控量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "乳鸽：乳鸽是常见肉蛋奶。传统食养中常见关键词为“补益”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "button-mushroom",
@@ -698,7 +774,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、增鲜",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -714,17 +790,23 @@ const EXPANDED_FOODS_BULK = [
       "baimo",
       "koumo"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "白蘑菇：白蘑菇是常见菌菇。传统食养中常见关键词为“和中、增鲜”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "straw-mushroom",
@@ -754,7 +836,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、增鲜",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -768,17 +850,23 @@ const EXPANDED_FOODS_BULK = [
       "caogu",
       "cg"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "草菇：草菇是常见菌菇。传统食养中常见关键词为“和中、增鲜”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "termitomyces",
@@ -808,7 +896,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：增鲜、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -823,17 +911,23 @@ const EXPANDED_FOODS_BULK = [
       "jz",
       "jizongjun"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鸡枞：鸡枞是常见菌菇。传统食养中常见关键词为“增鲜、和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "matsutake",
@@ -863,7 +957,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：增鲜、滋养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -877,17 +971,23 @@ const EXPANDED_FOODS_BULK = [
       "songrong",
       "sr"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "松茸：松茸是常见菌菇。传统食养中常见关键词为“增鲜、滋养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "boletus",
@@ -915,7 +1015,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：增鲜",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -929,17 +1029,23 @@ const EXPANDED_FOODS_BULK = [
       "niuganjun",
       "ngj"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "牛肝菌：牛肝菌是常见菌菇。传统食养中常见关键词为“增鲜”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "caitai",
@@ -970,7 +1076,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -986,17 +1092,23 @@ const EXPANDED_FOODS_BULK = [
       "caitai",
       "zicaitai"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "红菜苔：红菜苔是常见蔬菜。传统食养中常见关键词为“清利、和中”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "night-blooming-flower",
@@ -1027,7 +1139,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清润、增香",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1042,17 +1154,23 @@ const EXPANDED_FOODS_BULK = [
       "yxh",
       "yelaixianghua"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "夜香花：夜香花是常见蔬菜。传统食养中常见关键词为“清润、增香”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "gai-lan",
@@ -1084,7 +1202,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1100,18 +1218,24 @@ const EXPANDED_FOODS_BULK = [
       "gailan",
       "chinesebroccoli"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "芥兰：芥兰是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "red-stem-gai-lan",
@@ -1140,7 +1264,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1155,17 +1279,23 @@ const EXPANDED_FOODS_BULK = [
       "hjjl",
       "honggengjielan"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与主食、豆制品或瘦肉同烹，比单吃更均衡。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "红脚芥兰：红脚芥兰是常见蔬菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "sesame-leaf",
@@ -1197,7 +1327,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、增香",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1213,17 +1343,23 @@ const EXPANDED_FOODS_BULK = [
       "zhimaye",
       "mayecai"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "麻叶：麻叶是常见野菜。传统食养中常见关键词为“和中、增香”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "fish-mint",
@@ -1254,7 +1390,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1269,17 +1405,27 @@ const EXPANDED_FOODS_BULK = [
       "zeg",
       "yuxingcao"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "鱼腥草清热解毒、消痈排脓。"
+      },
+      {
+        "title": "《岭南采药录》",
+        "summary": "岭南清热利湿常用。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "折耳根：折耳根是常见野菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "celtuce",
@@ -1306,7 +1452,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1321,17 +1467,23 @@ const EXPANDED_FOODS_BULK = [
       "ws",
       "wojusun"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "莴笋：莴笋是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "water-chestnut",
@@ -1363,7 +1515,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利、生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "脾胃虚寒、腹泻、痛经怕冷者不宜生食或大量食用。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1379,17 +1531,23 @@ const EXPANDED_FOODS_BULK = [
       "mati",
       "dili"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "荸荠：荸荠是常见蔬菜。传统食养中常见关键词为“清利、生津”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "water-shield",
@@ -1419,7 +1577,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清润",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1434,17 +1592,23 @@ const EXPANDED_FOODS_BULK = [
       "cc",
       "shuikui"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "莼菜：莼菜是常见蔬菜。传统食养中常见关键词为“清润”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "toon-bud",
@@ -1475,7 +1639,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：开胃、增香",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1490,17 +1654,23 @@ const EXPANDED_FOODS_BULK = [
       "xc",
       "xiangchunya"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "香椿：香椿是常见野菜。传统食养中常见关键词为“开胃、增香”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "water-bamboo",
@@ -1530,7 +1700,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1545,17 +1715,23 @@ const EXPANDED_FOODS_BULK = [
       "jb",
       "gaosun"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "茭白：茭白是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "sour-bamboo-shoot",
@@ -1584,7 +1760,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：开胃",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "钠含量高，高血压、肾病水肿者严控份量。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1600,18 +1776,24 @@ const EXPANDED_FOODS_BULK = [
       "fajiaosun",
       "suanzhusun"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，高盐小菜，高血压、水肿者严控，不宜长期大量。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "腌渍小菜开胃，钠含量高，宜少量佐餐。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "酸笋：酸笋是常见腌菜。传统食养中常见关键词为“开胃”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "hami-melon",
@@ -1639,7 +1821,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1654,17 +1836,23 @@ const EXPANDED_FOODS_BULK = [
       "hmg",
       "xinjianghamigua"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "哈密瓜作水果偏清凉，餐间少量即可，不宜代餐。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，更适合餐间或餐后少量，不宜替代正餐，空腹胃弱者慎食。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "鲜果生津止渴，宜应季适量，不宜过寒过饱。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "哈密瓜：哈密瓜是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "wax-apple",
@@ -1693,7 +1881,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1708,17 +1896,23 @@ const EXPANDED_FOODS_BULK = [
       "lw",
       "yangputao"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "莲雾作水果偏清凉，餐间少量即可，不宜代餐。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，更适合餐间或餐后少量，不宜替代正餐，空腹胃弱者慎食。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "鲜果生津止渴，宜应季适量，不宜过寒过饱。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "莲雾：莲雾是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "pineapple-honey",
@@ -1748,7 +1942,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1764,17 +1958,23 @@ const EXPANDED_FOODS_BULK = [
       "muboluo",
       "jackfruit"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "菠萝蜜作水果偏平和，餐间少量即可，不宜代餐。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，更适合餐间或餐后少量，不宜替代正餐，空腹胃弱者慎食。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "鲜果生津止渴，宜应季适量，不宜过寒过饱。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "菠萝蜜：菠萝蜜是常见水果。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "bamboo-fungus",
@@ -1805,7 +2005,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、增鲜",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1820,17 +2020,23 @@ const EXPANDED_FOODS_BULK = [
       "zs",
       "zhusheng"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "竹荪：竹荪是常见菌菇。传统食养中常见关键词为“和中、增鲜”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "termite-mushroom",
@@ -1858,7 +2064,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：增鲜",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1872,17 +2078,23 @@ const EXPANDED_FOODS_BULK = [
       "ganbajun",
       "gbj"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "干巴菌：干巴菌是常见菌菇。传统食养中常见关键词为“增鲜”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "morel",
@@ -1912,7 +2124,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：增鲜、滋养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1926,17 +2138,23 @@ const EXPANDED_FOODS_BULK = [
       "yangdujun",
       "ydj"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "羊肚菌：羊肚菌是常见菌菇。传统食养中常见关键词为“增鲜、滋养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "wild-pepper-leaf",
@@ -1968,7 +2186,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：行气、增香",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -1985,17 +2203,23 @@ const EXPANDED_FOODS_BULK = [
       "tujia",
       "dongzu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "木姜叶：木姜叶是常见野菜。传统食养中常见关键词为“行气、增香”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "red-sour-soup",
@@ -2026,7 +2250,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调味、开胃",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [
       "reflux"
     ],
@@ -2045,17 +2269,23 @@ const EXPANDED_FOODS_BULK = [
       "miaozu",
       "dongzu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "红酸汤偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "红酸汤：红酸汤是常见调料。传统食养中常见关键词为“调味、开胃”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "ciba-pepper",
@@ -2083,7 +2313,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调味",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃热口臭、痔疮肿痛、高血压控盐期应少用或不用。",
     "cautionTags": [
       "reflux",
       "hypertension"
@@ -2101,17 +2331,23 @@ const EXPANDED_FOODS_BULK = [
       "cblj",
       "haijiao"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "糍粑辣椒偏热，宜少量调味，不宜大量单独食用。",
+    "timing": "寒冷季节或脾胃虚寒时少量参考；夏季实热、咽痛时不宜多用。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "糍粑辣椒：糍粑辣椒是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "zhacai",
@@ -2138,7 +2374,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：开胃",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "钠含量高，高血压、肾病水肿者严控份量。",
     "cautionTags": [
       "hypertension"
     ],
@@ -2155,18 +2391,24 @@ const EXPANDED_FOODS_BULK = [
       "zc",
       "fulingzhacai"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，高盐小菜，高血压、水肿者严控，不宜长期大量。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "腌渍小菜开胃，钠含量高，宜少量佐餐。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "榨菜：榨菜是常见腌菜。传统食养中常见关键词为“开胃”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "yibin-yacai",
@@ -2195,7 +2437,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：开胃、调味",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "钠含量高，高血压、肾病水肿者严控份量。",
     "cautionTags": [
       "hypertension"
     ],
@@ -2213,17 +2455,23 @@ const EXPANDED_FOODS_BULK = [
       "yibinyacai",
       "suimiyacai"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，高盐小菜，高血压、水肿者严控，不宜长期大量。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "腌渍小菜开胃，钠含量高，宜少量佐餐。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芽菜：芽菜是常见腌菜。传统食养中常见关键词为“开胃、调味”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "pickled-chili",
@@ -2252,7 +2500,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调味",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "钠含量高，高血压、肾病水肿者严控份量。",
     "cautionTags": [
       "reflux",
       "hypertension"
@@ -2270,17 +2518,23 @@ const EXPANDED_FOODS_BULK = [
       "pj",
       "paohaijiao"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏温热辛散，宜少量调味或佐餐，不宜长期大量单独食用。",
+    "timing": "寒冷季节或脾胃虚寒时少量参考；夏季实热、咽痛时不宜多用。",
+    "pair": "偏温热，高盐小菜，高血压、水肿者严控，不宜长期大量。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "腌渍小菜开胃，钠含量高，宜少量佐餐。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "泡椒：泡椒是常见腌菜。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "caixin",
@@ -2309,7 +2563,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -2324,18 +2578,24 @@ const EXPANDED_FOODS_BULK = [
       "cx",
       "guangdongcaixin"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "菜心：菜心是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "watercress",
@@ -2365,7 +2625,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清润",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -2380,17 +2640,23 @@ const EXPANDED_FOODS_BULK = [
       "xyc",
       "doubancai"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "西洋菜：西洋菜是常见蔬菜。传统食养中常见关键词为“清润”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "wolfberry-leaf",
@@ -2419,7 +2685,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清润",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -2435,18 +2701,24 @@ const EXPANDED_FOODS_BULK = [
       "gouqimiao",
       "hakka"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "枸杞叶：枸杞叶是常见蔬菜。传统食养中常见关键词为“清润”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "wuzhi-maotao",
@@ -2477,7 +2749,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、煲汤",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -2494,18 +2766,24 @@ const EXPANDED_FOODS_BULK = [
       "tuhuangqi",
       "hakka"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "少量、阶段性入膳，脾胃弱、痰湿重者不宜硬补。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《千金要方·食治》",
+        "summary": "滋补类宜辨证少量，不可盲目久服。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "五指毛桃：五指毛桃是常见滋补食材。传统食养中常见关键词为“和中、煲汤”，实际影响更取决于份量、加工方式和个…"
   },
   {
     "id": "tufuling",
@@ -2535,7 +2813,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -2551,18 +2829,24 @@ const EXPANDED_FOODS_BULK = [
       "yingfantou",
       "tubixie"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "土茯苓：土茯苓是常见食药物质。传统食养中常见关键词为“和中、清利”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "sand-ginger",
@@ -2593,7 +2877,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调味、温中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -2609,17 +2893,23 @@ const EXPANDED_FOODS_BULK = [
       "shannai",
       "hakka"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "沙姜偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "沙姜：沙姜是常见调料。传统食养中常见关键词为“调味、温中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "oyster",
@@ -2651,7 +2941,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -2669,17 +2959,23 @@ const EXPANDED_FOODS_BULK = [
       "muli",
       "hao"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "生蚝：生蚝是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "clam",
@@ -2710,7 +3006,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：鲜补",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -2728,17 +3024,23 @@ const EXPANDED_FOODS_BULK = [
       "geli",
       "wenga"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "花甲：花甲是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "razor-clam",
@@ -2768,7 +3070,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：鲜补",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -2785,17 +3087,23 @@ const EXPANDED_FOODS_BULK = [
       "cz",
       "zhucheng"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蛏子：蛏子是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "mud-snail",
@@ -2824,7 +3132,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：鲜补",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -2841,17 +3149,23 @@ const EXPANDED_FOODS_BULK = [
       "nl",
       "huangniluo"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "泥螺：泥螺是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "river-shrimp",
@@ -2878,7 +3192,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -2895,17 +3209,23 @@ const EXPANDED_FOODS_BULK = [
       "hx",
       "qingxia"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "河虾：河虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "knife-fish",
@@ -2933,7 +3253,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：鲜补",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -2950,17 +3270,23 @@ const EXPANDED_FOODS_BULK = [
       "dy",
       "changjiangdaoyu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "刀鱼：刀鱼是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "malantou",
@@ -2988,7 +3314,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3004,17 +3330,23 @@ const EXPANDED_FOODS_BULK = [
       "malan",
       "jierchang"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "马兰头：马兰头是常见野菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "shepherds-purse",
@@ -3043,7 +3375,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3058,17 +3390,23 @@ const EXPANDED_FOODS_BULK = [
       "jc",
       "dicai"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "荠菜：荠菜是常见野菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "loquat",
@@ -3097,7 +3435,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3111,17 +3449,23 @@ const EXPANDED_FOODS_BULK = [
       "pipa",
       "pp"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "枇杷作水果偏清凉，餐间少量即可，不宜代餐。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，更适合餐间或餐后少量，不宜替代正餐，空腹胃弱者慎食。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "鲜果生津止渴，宜应季适量，不宜过寒过饱。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "枇杷：枇杷是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "red-yeast-rice",
@@ -3150,7 +3494,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调味",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3166,17 +3510,23 @@ const EXPANDED_FOODS_BULK = [
       "hongquzao",
       "fuzhouhongzao"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "红糟偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "红糟：红糟是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "perilla-nine-layer",
@@ -3207,7 +3557,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：增香、行气",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3224,17 +3574,23 @@ const EXPANDED_FOODS_BULK = [
       "taiwanjiucengta",
       "basil"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "九层塔偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "九层塔：九层塔是常见调料。传统食养中常见关键词为“增香、行气”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "po-bu-zi",
@@ -3263,7 +3619,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：开胃、调味",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "钠含量高，高血压、肾病水肿者严控份量。",
     "cautionTags": [
       "hypertension"
     ],
@@ -3281,17 +3637,23 @@ const EXPANDED_FOODS_BULK = [
       "shuzi",
       "pobuguo"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "高盐小菜，高血压、水肿者严控，不宜长期大量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "腌渍小菜开胃，钠含量高，宜少量佐餐。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "破布子：破布子是常见腌菜。传统食养中常见关键词为“开胃、调味”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "yam-bean",
@@ -3322,7 +3684,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3337,17 +3699,23 @@ const EXPANDED_FOODS_BULK = [
       "sg",
       "liangshu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "沙葛：沙葛是常见蔬菜。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "hazel-mushroom",
@@ -3374,7 +3742,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：增鲜",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3388,18 +3756,24 @@ const EXPANDED_FOODS_BULK = [
       "zhenmo",
       "zm"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "榛蘑：榛蘑是常见菌菇。传统食养中常见关键词为“增鲜”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "yuanmo",
@@ -3426,7 +3800,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：增鲜",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3440,17 +3814,23 @@ const EXPANDED_FOODS_BULK = [
       "yuanmo",
       "ym"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "元蘑：元蘑是常见菌菇。传统食养中常见关键词为“增鲜”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "pine-nut-kernel",
@@ -3477,7 +3857,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：滋养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3492,18 +3872,24 @@ const EXPANDED_FOODS_BULK = [
       "szr",
       "songren"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，少量佐餐或入粥羹，不宜炒货当零食大量食用。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "坚果种子润燥补益，少量即可，炒货不宜过量。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "松子仁：松子仁是常见坚果种子。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "sour-cabbage",
@@ -3532,7 +3918,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：开胃",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "钠含量高，高血压、肾病水肿者严控份量。",
     "cautionTags": [
       "hypertension"
     ],
@@ -3550,18 +3936,24 @@ const EXPANDED_FOODS_BULK = [
       "dongbeisuancai",
       "xibeisuancai"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "高盐小菜，高血压、水肿者严控，不宜长期大量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "腌渍小菜开胃，钠含量高，宜少量佐餐。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "酸菜：酸菜是常见腌菜。传统食养中常见关键词为“开胃”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "sea-buckthorn-fruit",
@@ -3589,7 +3981,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3604,17 +3996,23 @@ const EXPANDED_FOODS_BULK = [
       "sjg",
       "shaji"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "沙棘果作水果偏平和，餐间少量即可，不宜代餐。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，更适合餐间或餐后少量，不宜替代正餐，空腹胃弱者慎食。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "鲜果生津止渴，宜应季适量，不宜过寒过饱。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "沙棘果：沙棘果是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "seabuckthorn-juice",
@@ -3641,7 +4039,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3656,17 +4054,23 @@ const EXPANDED_FOODS_BULK = [
       "sjz",
       "shajiyin"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，注意糖分与冰度，体寒、控糖人群适量。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "沙棘汁：沙棘汁是常见饮品。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "naked-oats",
@@ -3695,7 +4099,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3710,17 +4114,23 @@ const EXPANDED_FOODS_BULK = [
       "ym",
       "yanmaimian"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，作为主食基底，与蛋白、蔬菜同餐结构更完整。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "莜麦：莜麦是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "buckwheat-noodle",
@@ -3749,7 +4159,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3764,17 +4174,23 @@ const EXPANDED_FOODS_BULK = [
       "qm",
       "qiaomaimian"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，作为主食基底，与蛋白、蔬菜同餐结构更完整。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "荞面：荞面是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "sorghum-rice",
@@ -3802,7 +4218,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3817,17 +4233,23 @@ const EXPANDED_FOODS_BULK = [
       "glm",
       "honggaoliang"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，作为主食基底，与蛋白、蔬菜同餐结构更完整。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "高粱米：高粱米是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "millet-noodle",
@@ -3856,7 +4278,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3871,18 +4293,24 @@ const EXPANDED_FOODS_BULK = [
       "mz",
       "huangmi"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，作为主食基底，与蛋白、蔬菜同餐结构更完整。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "糜子：糜子是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "daylily",
@@ -3911,7 +4339,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3926,18 +4354,24 @@ const EXPANDED_FOODS_BULK = [
       "hhc",
       "jinzhencai"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "黄花菜：黄花菜是常见蔬菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "wood-ginger-oil",
@@ -3968,7 +4402,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调味、增香",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -3985,17 +4419,23 @@ const EXPANDED_FOODS_BULK = [
       "miaozu",
       "dongzu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "木姜油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "木姜油：木姜油是常见调料。传统食养中常见关键词为“调味、增香”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "green-sour-soup",
@@ -4026,7 +4466,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调味、开胃",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -4042,17 +4482,23 @@ const EXPANDED_FOODS_BULK = [
       "qingsuantang",
       "mitangsuantang"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "白酸汤偏凉，宜少量调味，不宜大量单独食用。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，仅作调味少量使用，不宜当作主要食材大量摄入。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "白酸汤：白酸汤是常见调料。传统食养中常见关键词为“调味、开胃”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "miao-dipping-water",
@@ -4083,7 +4529,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调味",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃热口臭、痔疮肿痛、高血压控盐期应少用或不用。",
     "cautionTags": [
       "reflux",
       "hypertension"
@@ -4103,17 +4549,23 @@ const EXPANDED_FOODS_BULK = [
       "miaozu",
       "yizu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "蘸水偏热，宜少量调味，不宜大量单独食用。",
+    "timing": "寒冷季节或脾胃虚寒时少量参考；夏季实热、咽痛时不宜多用。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蘸水：蘸水是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "thorn-vine-pepper",
@@ -4144,7 +4596,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：增香、行气",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -4162,17 +4614,23 @@ const EXPANDED_FOODS_BULK = [
       "daizu",
       "jingpozu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "刺芫荽：刺芫荽是常见野菜。传统食养中常见关键词为“增香、行气”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "water-fern",
@@ -4201,7 +4659,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -4216,17 +4674,23 @@ const EXPANDED_FOODS_BULK = [
       "sjc",
       "shuijue"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "水蕨菜：水蕨菜是常见野菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "fiddlehead",
@@ -4255,7 +4719,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -4270,17 +4734,23 @@ const EXPANDED_FOODS_BULK = [
       "jcj",
       "quantoucai"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蕨菜尖：蕨菜尖是常见野菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "larou",
@@ -4312,7 +4782,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [
       "hypertension"
     ],
@@ -4331,18 +4801,24 @@ const EXPANDED_FOODS_BULK = [
       "miaojialarou",
       "chuanweilarou"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，与蔬菜、主食同餐，高脂或高嘌呤品种注意份量与频率。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "荤食补形益气，宜清炖煮汤，肥腻控量。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "腊肉：腊肉是常见肉蛋奶。传统食养中常见关键词为“温中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "lapork-ribs",
@@ -4370,7 +4846,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [
       "hypertension"
     ],
@@ -4388,17 +4864,23 @@ const EXPANDED_FOODS_BULK = [
       "fengganpaigu",
       "naxizu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，与蔬菜、主食同餐，高脂或高嘌呤品种注意份量与频率。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "荤食补形益气，宜清炖煮汤，肥腻控量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "腊排骨：腊排骨是常见肉蛋奶。传统食养中常见关键词为“温中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "la-bean-curd",
@@ -4427,7 +4909,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [
       "hypertension"
     ],
@@ -4444,17 +4926,23 @@ const EXPANDED_FOODS_BULK = [
       "ldf",
       "yanxundoufu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蔬菜、主食同餐，痛风急性期注意总量。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "腊豆腐：腊豆腐是常见豆制品。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "mesona",
@@ -4484,7 +4972,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -4500,17 +4988,23 @@ const EXPANDED_FOODS_BULK = [
       "xiancao",
       "hakka"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "凉粉草：凉粉草是常见食药物质。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "kapok-flower",
@@ -4538,7 +5032,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -4553,17 +5047,23 @@ const EXPANDED_FOODS_BULK = [
       "mmh",
       "panzhihua"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "木棉花：木棉花是常见食药物质。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "chikung-tea-herb",
@@ -4591,7 +5091,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -4606,18 +5106,24 @@ const EXPANDED_FOODS_BULK = [
       "jgc",
       "huangtoucao"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "鸡骨草：鸡骨草是常见食药物质。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "selfheal-spike",
@@ -4646,7 +5152,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "脾胃虚寒、腹泻、痛经怕冷者不宜生食或大量食用。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -4661,18 +5167,24 @@ const EXPANDED_FOODS_BULK = [
       "xkc",
       "bangchuicao"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "夏枯草：夏枯草是常见食药物质。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "patchouli",
@@ -4701,7 +5213,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：化湿、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -4716,17 +5228,23 @@ const EXPANDED_FOODS_BULK = [
       "hx",
       "guanghuoxiang"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "藿香：藿香是常见食药物质。传统食养中常见关键词为“化湿、和中”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "wormgrass-flower",
@@ -4754,7 +5272,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：滋养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -4769,18 +5287,24 @@ const EXPANDED_FOODS_BULK = [
       "cch",
       "yongchongcao"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "虫草花：虫草花是常见菌菇。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "dried-scallop",
@@ -4810,7 +5334,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：鲜补",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -4828,17 +5352,23 @@ const EXPANDED_FOODS_BULK = [
       "ganbei",
       "jiangyaozhu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "瑶柱：瑶柱是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "dried-oyster",
@@ -4866,7 +5396,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：鲜补",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -4883,17 +5413,23 @@ const EXPANDED_FOODS_BULK = [
       "hc",
       "haogan"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蚝豉：蚝豉是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "water-spinach-stem",
@@ -4921,7 +5457,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -4936,17 +5472,23 @@ const EXPANDED_FOODS_BULK = [
       "tcg",
       "kongxincaigeng"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "通菜梗：通菜梗是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "mustard-tuber",
@@ -4976,7 +5518,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：开胃",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "钠含量高，高血压、肾病水肿者严控份量。",
     "cautionTags": [
       "hypertension"
     ],
@@ -4994,17 +5536,23 @@ const EXPANDED_FOODS_BULK = [
       "zhacaitou",
       "hakka"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，高盐小菜，高血压、水肿者严控，不宜长期大量。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "腌渍小菜开胃，钠含量高，宜少量佐餐。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "大头菜：大头菜是常见腌菜。传统食养中常见关键词为“开胃”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "taro-stem",
@@ -5033,7 +5581,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5048,17 +5596,23 @@ const EXPANDED_FOODS_BULK = [
       "yhg",
       "yugeng"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芋荷梗：芋荷梗是常见蔬菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "eel",
@@ -5087,7 +5641,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：滋养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -5104,17 +5658,27 @@ const EXPANDED_FOODS_BULK = [
       "sy",
       "huangshan"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "黄鳝补气血、强筋骨。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "须彻底煮熟，湿热疮疡慎食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鳝鱼：鳝鱼是常见海产。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "river-eel",
@@ -5144,7 +5708,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：滋养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -5162,17 +5726,23 @@ const EXPANDED_FOODS_BULK = [
       "baishan",
       "heman"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鳗鱼：鳗鱼是常见海产。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "pomfret",
@@ -5202,7 +5772,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：鲜补",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -5220,17 +5790,23 @@ const EXPANDED_FOODS_BULK = [
       "pingyu",
       "yinchang"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鲳鱼：鲳鱼是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "hairtail",
@@ -5259,7 +5835,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：鲜补",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -5276,17 +5852,23 @@ const EXPANDED_FOODS_BULK = [
       "dy",
       "hairtail"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "带鱼：带鱼是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "seaweed-greens",
@@ -5314,7 +5896,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5329,17 +5911,23 @@ const EXPANDED_FOODS_BULK = [
       "hbc",
       "shichun"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "海白菜：海白菜是常见海产。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "laver",
@@ -5369,7 +5957,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5385,18 +5973,28 @@ const EXPANDED_FOODS_BULK = [
       "tanzicai",
       "tiaobanzicai"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "紫菜化痰软坚、清热利水。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "汤羹常配蛋花、虾皮。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "紫菜：紫菜是常见海产。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "fennel-shoot",
@@ -5424,7 +6022,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：行气",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5439,17 +6037,23 @@ const EXPANDED_FOODS_BULK = [
       "hxm",
       "xiaohuixiangmiao"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与主食、豆制品或瘦肉同烹，比单吃更均衡。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "茴香苗：茴香苗是常见蔬菜。传统食养中常见关键词为“行气”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "wild-rice-stem",
@@ -5477,7 +6081,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5492,17 +6096,23 @@ const EXPANDED_FOODS_BULK = [
       "cg",
       "cigu-alt"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "茨菇：茨菇是常见蔬菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "bergamot-fruit",
@@ -5530,7 +6140,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：行气",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5545,17 +6155,23 @@ const EXPANDED_FOODS_BULK = [
       "xy",
       "xiangyuan-fruit"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "香橼作水果偏平和，餐间少量即可，不宜代餐。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，更适合餐间或餐后少量，不宜替代正餐，空腹胃弱者慎食。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "鲜果生津止渴，宜应季适量，不宜过寒过饱。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "香橼：香橼是常见水果。传统食养中常见关键词为“行气”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "fermented-rice-wine",
@@ -5585,7 +6201,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5601,17 +6217,23 @@ const EXPANDED_FOODS_BULK = [
       "laozao",
       "tianjiuniang"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，佐餐开胃，注意盐分与防腐添加，胃弱者少量。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随园食单》",
+        "summary": "发酵食品开胃助消化，注意盐分与耐受。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "酒酿：酒酿是常见发酵食品。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "muscovy-duck",
@@ -5640,7 +6262,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：补益",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5655,17 +6277,23 @@ const EXPANDED_FOODS_BULK = [
       "fy",
       "shexiangya"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，与蔬菜、主食同餐，高脂或高嘌呤品种注意份量与频率。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "荤食补形益气，宜清炖煮汤，肥腻控量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "番鸭：番鸭是常见肉蛋奶。传统食养中常见关键词为“补益”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "yam-leaf",
@@ -5694,7 +6322,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5709,17 +6337,23 @@ const EXPANDED_FOODS_BULK = [
       "syd",
       "lingyuzi"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "可代部分主食，与蔬菜蛋白同餐，腹胀者适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "薯类可代部分主食，腹胀者适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "山药豆：山药豆是常见薯类。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cattail-pollen",
@@ -5747,7 +6381,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5762,17 +6396,23 @@ const EXPANDED_FOODS_BULK = [
       "ph",
       "xiangpuhuangfen"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蒲黄：蒲黄是常见食药物质。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "lily-root",
@@ -5800,7 +6440,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清润",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5815,17 +6455,23 @@ const EXPANDED_FOODS_BULK = [
       "bhg",
       "shiyongbaihe"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "百合根：百合根是常见食药物质。传统食养中常见关键词为“清润”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "sea-buckthorn-leaf",
@@ -5852,7 +6498,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5867,17 +6513,23 @@ const EXPANDED_FOODS_BULK = [
       "sjy",
       "shajinenye"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "沙棘叶：沙棘叶是常见食药物质。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "wild-onion",
@@ -5907,7 +6559,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：增香、行气",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5923,17 +6575,23 @@ const EXPANDED_FOODS_BULK = [
       "menggujiu",
       "huizu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "沙葱：沙葱是常见野菜。传统食养中常见关键词为“增香、行气”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "yellow-millet",
@@ -5962,7 +6620,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -5977,17 +6635,23 @@ const EXPANDED_FOODS_BULK = [
       "hm",
       "shumi"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，作为主食基底，与蛋白、蔬菜同餐结构更完整。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黄米：黄米是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "millet-paste",
@@ -6016,7 +6680,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6032,18 +6696,24 @@ const EXPANDED_FOODS_BULK = [
       "mengguchaomi",
       "mengguzu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，作为主食基底，与蛋白、蔬菜同餐结构更完整。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "炒米：炒米是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "blood-sausage",
@@ -6070,7 +6740,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：补益",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [
       "hypertension"
     ],
@@ -6087,18 +6757,24 @@ const EXPANDED_FOODS_BULK = [
       "xc",
       "dongbeixuechang"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，与蔬菜、主食同餐，高脂或高嘌呤品种注意份量与频率。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "荤食补形益气，宜清炖煮汤，肥腻控量。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "血肠：血肠是常见肉蛋奶。传统食养中常见关键词为“补益”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "venison",
@@ -6126,7 +6802,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温补",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6142,18 +6818,24 @@ const EXPANDED_FOODS_BULK = [
       "meihualurou",
       "manzu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，与蔬菜、主食同餐，高脂或高嘌呤品种注意份量与频率。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "荤食补形益气，宜清炖煮汤，肥腻控量。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "鹿肉：鹿肉是常见肉蛋奶。传统食养中常见关键词为“温补”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "hazelnut",
@@ -6181,7 +6863,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：滋养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6196,17 +6878,23 @@ const EXPANDED_FOODS_BULK = [
       "zz",
       "pingzhen"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，少量佐餐或入粥羹，不宜炒货当零食大量食用。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "坚果种子润燥补益，少量即可，炒货不宜过量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "榛子：榛子是常见坚果种子。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "goblet-mushroom",
@@ -6234,7 +6922,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6248,17 +6936,23 @@ const EXPANDED_FOODS_BULK = [
       "houtoumo",
       "htm"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "猴头蘑：猴头蘑是常见菌菇。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "fern-root-starch",
@@ -6288,7 +6982,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6304,17 +6998,23 @@ const EXPANDED_FOODS_BULK = [
       "juemami",
       "zangzu"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "可代部分主食，与蔬菜蛋白同餐，腹胀者适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "薯类可代部分主食，腹胀者适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "厥麻：厥麻是常见薯类。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "goat-milk",
@@ -6343,7 +7043,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：滋养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6358,17 +7058,23 @@ const EXPANDED_FOODS_BULK = [
       "yn",
       "shanyangnai"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，注意糖分与冰度，体寒、控糖人群适量。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "羊奶：羊奶是常见饮品。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "official-ginseng",
@@ -6395,7 +7101,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：补气、扶正",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6406,18 +7112,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "人参属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "人参大补元气、补脾益肺。"
+      },
+      {
+        "title": "《千金要方·食治》",
+        "summary": "气虚欲脱须辨证，不宜随意入膳。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "人参：人参是常见食药物质。传统食养中常见关键词为“补气、扶正”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-american-ginseng",
@@ -6444,7 +7160,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：益气、生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6455,18 +7171,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "西洋参属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草从新》",
+        "summary": "西洋参补气养阴、清热生津。"
+      },
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "气阴两虚可少量炖服。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "西洋参：西洋参是常见食药物质。传统食养中常见关键词为“益气、生津”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-licorice",
@@ -6493,7 +7219,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、调和",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6504,18 +7230,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "甘草属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "甘草：甘草是常见食药物质。传统食养中常见关键词为“和中、调和”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-dried-ginger",
@@ -6542,7 +7274,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温中、散寒",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6553,18 +7285,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "干姜属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "干姜：干姜是常见食药物质。传统食养中常见关键词为“温中、散寒”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-cinnamon",
@@ -6591,7 +7329,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温阳、散寒",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6602,18 +7340,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "肉桂属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "肉桂补火助阳、散寒止痛。"
+      },
+      {
+        "title": "《饮膳正要》",
+        "summary": "炖肉卤味常用温阳香料。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "肉桂：肉桂是常见食药物质。传统食养中常见关键词为“温阳、散寒”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-fennel",
@@ -6640,7 +7388,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温中、理气",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6651,18 +7399,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "小茴香属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "小茴香温肾散寒、理气和胃。"
+      },
+      {
+        "title": "《饮膳正要》",
+        "summary": "炖肉卤味常用香料。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "小茴香：小茴香是常见食药物质。传统食养中常见关键词为“温中、理气”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-cardamom",
@@ -6689,7 +7447,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：化湿、行气",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6700,18 +7458,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "白豆蔻属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "白豆蔻：白豆蔻是常见食药物质。传统食养中常见关键词为“化湿、行气”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-amomum",
@@ -6738,7 +7502,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：行气、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6749,18 +7513,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "砂仁属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "砂仁：砂仁是常见食药物质。传统食养中常见关键词为“行气、和中”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-clove",
@@ -6787,7 +7557,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温中、降逆",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6798,18 +7568,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "丁香属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "丁香：丁香是常见食药物质。传统食养中常见关键词为“温中、降逆”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-nutmeg",
@@ -6836,7 +7612,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温中、涩肠",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6847,18 +7623,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "肉豆蔻属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "肉豆蔻：肉豆蔻是常见食药物质。传统食养中常见关键词为“温中、涩肠”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-gardenia",
@@ -6885,7 +7667,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利、除烦",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6896,18 +7678,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "栀子属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "栀子：栀子是常见食药物质。传统食养中常见关键词为“清利、除烦”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-cassia-seed",
@@ -6934,7 +7722,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利、润肠",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6945,18 +7733,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "决明子属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "决明子：决明子是常见食药物质。传统食养中常见关键词为“清利、润肠”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-honeysuckle",
@@ -6983,7 +7777,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利、解暑",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -6994,18 +7788,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "金银花属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "金银花清热解毒、疏散风热。"
+      },
+      {
+        "title": "《岭南采药录》",
+        "summary": "岭南凉茶常用原料。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "金银花：金银花是常见食药物质。传统食养中常见关键词为“清利、解暑”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-dandelion",
@@ -7032,7 +7836,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7043,18 +7847,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "蒲公英属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "蒲公英清热解毒、消肿散结。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "偏寒凉，夏令少量鲜品或冲泡。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "蒲公英：蒲公英是常见食药物质。传统食养中常见关键词为“清利、和中”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-houttuynia",
@@ -7081,7 +7895,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利、生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7092,18 +7906,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "鱼腥草属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "鱼腥草清热解毒、消痈排脓。"
+      },
+      {
+        "title": "《岭南采药录》",
+        "summary": "岭南清热利湿常用。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "鱼腥草：鱼腥草是常见食药物质。传统食养中常见关键词为“清利、生津”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-reed-rhizome",
@@ -7130,7 +7954,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津、清利",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7141,18 +7965,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "芦根属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "芦根：芦根是常见食药物质。传统食养中常见关键词为“生津、清利”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-lotus-leaf",
@@ -7179,7 +8009,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、清暑",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7190,18 +8020,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "荷叶属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "荷叶清热解暑、升发清阳。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "暑湿身重可配薏米、山楂。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "荷叶：荷叶是常见食药物质。传统食养中常见关键词为“和中、清暑”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-mulberry-leaf",
@@ -7228,7 +8068,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利、润燥",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7239,18 +8079,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "桑叶属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "桑叶疏散风热、清肺润燥。"
+      },
+      {
+        "title": "《遵生八笺》",
+        "summary": "秋燥咳嗽代茶饮参考。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "桑叶：桑叶是常见食药物质。传统食养中常见关键词为“清利、润燥”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-perilla-leaf",
@@ -7277,7 +8127,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：解表、行气",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7288,18 +8138,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "紫苏叶属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "紫苏叶散寒解表、行气宽中。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "海鲜鱼蟹常配紫苏去腥。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "紫苏叶：紫苏叶是常见食药物质。传统食养中常见关键词为“解表、行气”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-perilla-seed",
@@ -7326,7 +8186,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：降气、润肠",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7337,18 +8197,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "紫苏子属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "紫苏子降气化痰、止咳平喘。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "与陈皮同用理气和胃。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "紫苏子：紫苏子是常见食药物质。传统食养中常见关键词为“降气、润肠”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-plum",
@@ -7375,7 +8245,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津、敛藏",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7386,18 +8256,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "乌梅属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "乌梅敛肺涩肠、生津安蛔。"
+      },
+      {
+        "title": "《遵生八笺》",
+        "summary": "夏令生津饮品常用。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "乌梅：乌梅是常见食药物质。传统食养中常见关键词为“生津、敛藏”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-sea-buckthorn",
@@ -7424,7 +8304,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7435,18 +8315,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "沙棘属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "沙棘：沙棘是常见食药物质。传统食养中常见关键词为“生津、和中”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-goji-berry",
@@ -7473,7 +8359,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：滋补、养阴",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7484,17 +8370,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "枸杞子属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "枸杞子：枸杞子是常见食药物质。传统食养中常见关键词为“滋补、养阴”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-morinda",
@@ -7521,7 +8413,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温补、强筋",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7532,18 +8424,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "巴戟天属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "巴戟天：巴戟天是常见食药物质。传统食养中常见关键词为“温补、强筋”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-euryale",
@@ -7570,7 +8468,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：补脾、固摄",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7581,18 +8479,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "芡实属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "芡实：芡实是常见食药物质。传统食养中常见关键词为“补脾、固摄”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-polygoni-odorati",
@@ -7619,7 +8523,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：养阴、润燥",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7630,18 +8534,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "玉竹属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "玉竹养阴润燥、生津止渴。"
+      },
+      {
+        "title": "《遵生八笺》",
+        "summary": "秋燥养阴常配沙参、麦冬。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "玉竹：玉竹是常见食药物质。传统食养中常见关键词为“养阴、润燥”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-dendrobium",
@@ -7668,7 +8582,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：养阴、生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7679,18 +8593,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "石斛属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "石斛：石斛是常见食药物质。传统食养中常见关键词为“养阴、生津”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-olive",
@@ -7717,7 +8637,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津、利咽",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7728,17 +8648,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "橄榄属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "橄榄：橄榄是常见食药物质。传统食养中常见关键词为“生津、利咽”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-sour-jujube-seed",
@@ -7765,7 +8691,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：养心、安神",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7776,18 +8702,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "酸枣仁属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "酸枣仁：酸枣仁是常见食药物质。传统食养中常见关键词为“养心、安神”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-broomcorn",
@@ -7814,7 +8746,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温中、散寒",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7825,18 +8757,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "高良姜属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "高良姜：高良姜是常见食药物质。传统食养中常见关键词为“温中、散寒”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-cyperus",
@@ -7863,7 +8801,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：理气、解郁",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7874,18 +8812,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "香附属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "香附：香附是常见食药物质。传统食养中常见关键词为“理气、解郁”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-angelica",
@@ -7912,7 +8856,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：养血、活络",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7923,18 +8867,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "当归属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "当归：当归是常见食药物质。传统食养中常见关键词为“养血、活络”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-longan-pulp",
@@ -7961,7 +8911,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：养血、安神",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -7972,18 +8922,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "桂圆肉属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "龙眼肉补心脾、益气血。"
+      },
+      {
+        "title": "《随园食单》",
+        "summary": "桂圆粥为养血安神民间方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "桂圆肉：桂圆肉是常见食药物质。传统食养中常见关键词为“养血、安神”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-safflower",
@@ -8010,7 +8970,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：活络、行散",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8021,18 +8981,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "红花属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "红花：红花是常见食药物质。传统食养中常见关键词为“活络、行散”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-peach-kernel",
@@ -8059,7 +9025,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：润肠、活络",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8070,18 +9036,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "桃仁属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "桃仁：桃仁是常见食药物质。传统食养中常见关键词为“润肠、活络”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-black-sesame",
@@ -8108,7 +9080,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：滋补、润燥",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8119,18 +9091,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "黑芝麻属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "黑芝麻补肝肾、润五脏。"
+      },
+      {
+        "title": "《随园食单》",
+        "summary": "芝麻糊为润燥补益小吃。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "黑芝麻：黑芝麻是常见食药物质。传统食养中常见关键词为“滋补、润燥”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-walnut",
@@ -8157,7 +9139,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温补、润肠",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8168,18 +9150,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "核桃仁属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "核桃补肾温肺、润肠通便。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "与黑芝麻同用润燥补益。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "核桃仁：核桃仁是常见食药物质。传统食养中常见关键词为“温补、润肠”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-almond",
@@ -8207,7 +9199,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：降气、润燥",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8227,18 +9219,24 @@ const EXPANDED_FOODS_BULK = [
       "扁桃",
       "甜杏仁"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "杏仁属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "杏仁：杏仁是常见食药物质。传统食养中常见关键词为“降气、润燥”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-pine-nut",
@@ -8265,7 +9263,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：润燥、滋养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8276,17 +9274,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "松子仁属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "松子仁：松子仁是常见食药物质。传统食养中常见关键词为“润燥、滋养”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-bitter-almond",
@@ -8313,7 +9317,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：降气、润燥",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8324,18 +9328,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "苦杏仁属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "苦杏仁：苦杏仁是常见食药物质。传统食养中常见关键词为“降气、润燥”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-chinese-olive",
@@ -8362,7 +9372,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：利咽、生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8373,18 +9383,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "青果属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "青果：青果是常见食药物质。传统食养中常见关键词为“利咽、生津”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-bamboo-leaf",
@@ -8411,7 +9427,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利、除烦",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8422,18 +9438,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "淡竹叶属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "淡竹叶：淡竹叶是常见食药物质。传统食养中常见关键词为“清利、除烦”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-cordia-fruit",
@@ -8460,7 +9482,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：利咽、润燥",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8471,18 +9493,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "胖大海属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "胖大海：胖大海是常见食药物质。传统食养中常见关键词为“利咽、润燥”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-lotus-heart",
@@ -8509,7 +9537,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利、安神",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8520,18 +9548,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "莲子心属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "莲子心：莲子心是常见食药物质。传统食养中常见关键词为“清利、安神”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-gingko",
@@ -8558,7 +9592,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：敛肺、益气",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8569,17 +9603,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "银杏属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "银杏：银杏是常见食药物质。传统食养中常见关键词为“敛肺、益气”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-turmeric",
@@ -8606,7 +9646,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：行气、活络",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8617,18 +9657,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "姜黄属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "姜黄：姜黄是常见食药物质。传统食养中常见关键词为“行气、活络”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-galanga",
@@ -8655,7 +9701,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温中、散寒",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8666,17 +9712,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "良姜属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "良姜：良姜是常见食药物质。传统食养中常见关键词为“温中、散寒”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-tsaoko",
@@ -8703,7 +9755,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：燥湿、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8714,18 +9766,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "草果属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "草果：草果是常见食药物质。传统食养中常见关键词为“燥湿、和中”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-kaempferia",
@@ -8752,7 +9810,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温中、调香",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8763,17 +9821,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "山奈属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "山奈：山奈是常见食药物质。传统食养中常见关键词为“温中、调香”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-lemongrass",
@@ -8800,7 +9864,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：行气、醒脾",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8811,18 +9875,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "香茅属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "香茅：香茅是常见食药物质。传统食养中常见关键词为“行气、醒脾”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-citron",
@@ -8849,7 +9919,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：理气、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8860,18 +9930,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "香橼属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "香橼：香橼是常见食药物质。传统食养中常见关键词为“理气、和中”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-medlar-leaf",
@@ -8898,7 +9974,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清补、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8909,18 +9985,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "枸杞叶属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "枸杞叶：枸杞叶是常见食药物质。传统食养中常见关键词为“清补、和中”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-mulberry",
@@ -8947,7 +10029,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：养阴、生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -8958,18 +10040,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "桑葚属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "桑葚：桑葚是常见食药物质。传统食养中常见关键词为“养阴、生津”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-fig",
@@ -8996,7 +10084,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：润燥、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9007,18 +10095,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "无花果属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "无花果：无花果是常见食药物质。传统食养中常见关键词为“润燥、和中”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-date",
@@ -9045,7 +10139,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：补中、养血",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9056,18 +10150,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "大枣属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "大枣补中益气、养血安神。"
+      },
+      {
+        "title": "《千金要方·食治》",
+        "summary": "与生姜同用调和营卫。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "大枣：大枣是常见食药物质。传统食养中常见关键词为“补中、养血”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-dragon-eye",
@@ -9094,7 +10198,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：养心、补血",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9105,18 +10209,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "龙眼肉属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "龙眼肉：龙眼肉是常见食药物质。传统食养中常见关键词为“养心、补血”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-chive-seed",
@@ -9143,7 +10253,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温补、助阳",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9154,18 +10264,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "韭菜子属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "韭菜子：韭菜子是常见食药物质。传统食养中常见关键词为“温补、助阳”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-quince",
@@ -9192,7 +10308,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和胃、舒展",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9203,18 +10319,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "木瓜属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "木瓜：木瓜是常见食药物质。传统食养中常见关键词为“和胃、舒展”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-ophiopogon",
@@ -9241,7 +10363,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：养阴、生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9252,18 +10374,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "麦冬属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "麦冬：麦冬是常见食药物质。传统食养中常见关键词为“养阴、生津”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-raspberry",
@@ -9290,7 +10418,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：固摄、补养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9301,18 +10429,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "覆盆子属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "覆盆子：覆盆子是常见食药物质。传统食养中常见关键词为“固摄、补养”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-rehmannia",
@@ -9339,7 +10473,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：养阴、生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9350,18 +10484,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "生地黄属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "生地黄：生地黄是常见食药物质。传统食养中常见关键词为“养阴、生津”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-solomon-seal",
@@ -9388,7 +10528,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：滋补、养阴",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9399,18 +10539,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "黄精属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "黄精：黄精是常见食药物质。传统食养中常见关键词为“滋补、养阴”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-white-peony",
@@ -9437,7 +10583,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：养阴、和营",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9448,18 +10594,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "白芍属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "白芍：白芍是常见食药物质。传统食养中常见关键词为“养阴、和营”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-imperata-root",
@@ -9486,7 +10638,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清利、生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9497,18 +10649,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "白茅根属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "白茅根：白茅根是常见食药物质。传统食养中常见关键词为“清利、生津”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-bupleurum-tip",
@@ -9535,7 +10693,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：舒展、理气",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9546,17 +10704,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "柴胡苗属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "柴胡苗：柴胡苗是常见食药物质。传统食养中常见关键词为“舒展、理气”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-rose",
@@ -9583,7 +10747,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：理气、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9594,18 +10758,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "玫瑰花属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "玫瑰花：玫瑰花是常见食药物质。传统食养中常见关键词为“理气、和中”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-jasmine",
@@ -9632,7 +10802,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：理气、调香",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9643,17 +10813,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "茉莉花属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "茉莉花：茉莉花是常见食药物质。传统食养中常见关键词为“理气、调香”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-osmanthus",
@@ -9680,7 +10856,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调香、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9691,18 +10867,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "桂花属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "桂花：桂花是常见食药物质。传统食养中常见关键词为“调香、和中”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-kudzu",
@@ -9729,7 +10911,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津、舒展",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9740,18 +10922,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "葛根属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "葛根：葛根是常见食药物质。传统食养中常见关键词为“生津、舒展”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-kudzu-flower",
@@ -9778,7 +10966,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、醒脾",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9789,17 +10977,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "葛花属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "葛花：葛花是常见食药物质。传统食养中常见关键词为“和中、醒脾”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-tangerine-white",
@@ -9826,7 +11020,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和络、理气",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9837,17 +11031,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "橘络属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "橘络：橘络是常见食药物质。传统食养中常见关键词为“和络、理气”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-tangerine-kernel",
@@ -9874,7 +11074,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：理气、散结",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9885,18 +11085,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "橘核属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "橘核：橘核是常见食药物质。传统食养中常见关键词为“理气、散结”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-orange-blossom",
@@ -9923,7 +11129,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：理气、调香",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9934,17 +11140,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "橙花属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "橙花：橙花是常见食药物质。传统食养中常见关键词为“理气、调香”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-burdock-seed",
@@ -9971,7 +11183,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：疏利、清爽",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -9982,18 +11194,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "牛蒡子属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "牛蒡子：牛蒡子是常见食药物质。传统食养中常见关键词为“疏利、清爽”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-sweet-osmanthus",
@@ -10020,7 +11238,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调香、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10031,17 +11249,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "甜桂花属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "甜桂花：甜桂花是常见食药物质。传统食养中常见关键词为“调香、和中”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-basil-seed",
@@ -10068,7 +11292,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、调香",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10079,17 +11303,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "罗勒子属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "罗勒子：罗勒子是常见食药物质。传统食养中常见关键词为“和中、调香”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-fragrant-leaf",
@@ -10116,7 +11346,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调香、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10127,17 +11357,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "香叶属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "香叶：香叶是常见食药物质。传统食养中常见关键词为“调香、和中”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-lotus-plum",
@@ -10164,7 +11400,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津、开胃",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10175,17 +11411,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "梅子属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "梅子：梅子是常见食药物质。传统食养中常见关键词为“生津、开胃”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-sand-ginger",
@@ -10212,7 +11454,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：行气、温中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10223,18 +11465,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "沙姜属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "沙姜：沙姜是常见食药物质。传统食养中常见关键词为“行气、温中”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-bellflower",
@@ -10261,7 +11509,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：宣利、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10272,18 +11520,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "桔梗属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "桔梗：桔梗是常见食药物质。传统食养中常见关键词为“宣利、和中”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-caper-spurge",
@@ -10310,7 +11564,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清润、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10321,18 +11575,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "霸王花属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "霸王花：霸王花是常见食药物质。传统食养中常见关键词为“清润、和中”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-red-bean",
@@ -10359,7 +11619,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：利水、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10370,18 +11630,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "赤小豆属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "身重困倦、小便不利、暑湿偏重时更适宜；阳虚怕冷、孕妇等特殊人群慎用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "赤小豆利水消肿、解毒排脓。"
+      },
+      {
+        "title": "《本草纲目》",
+        "summary": "与薏米同煮利湿。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "赤小豆：赤小豆是常见食药物质。传统食养中常见关键词为“利水、和中”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-foxnut",
@@ -10408,7 +11678,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：补脾、固摄",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10419,17 +11689,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "鸡头米属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鸡头米：鸡头米是常见食药物质。传统食养中常见关键词为“补脾、固摄”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-pear-dry",
@@ -10456,7 +11732,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津、润燥",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10467,18 +11743,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "雪梨干属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "雪梨干：雪梨干是常见食药物质。传统食养中常见关键词为“生津、润燥”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-loquat-leaf",
@@ -10505,7 +11787,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和胃、润燥",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10516,18 +11798,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "枇杷叶属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "枇杷叶：枇杷叶是常见食药物质。传统食养中常见关键词为“和胃、润燥”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "official-perilla-stem",
@@ -10554,7 +11842,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：理气、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10565,17 +11853,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "苏梗属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "苏梗：苏梗是常见食药物质。传统食养中常见关键词为“理气、和中”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-fermented-rice",
@@ -10602,7 +11896,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、调味",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10613,18 +11907,24 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "醪糟属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "醪糟：醪糟是常见食药物质。传统食养中常见关键词为“和中、调味”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-chinese-barley",
@@ -10651,7 +11951,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：和中、助运",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10662,18 +11962,28 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "大麦属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "大麦和胃消积、除热止渴。"
+      },
+      {
+        "title": "《饮膳正要》",
+        "summary": "麦粥为北方常见养胃主食。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "大麦：大麦是常见食药物质。传统食养中常见关键词为“和中、助运”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "official-snow-lotus-fruit",
@@ -10700,7 +12010,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：润养、和中",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10711,17 +12021,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "皂角米属药食同源目录，宜少量入粥汤茶饮，不宜长期大量当普通蔬菜吃。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "按药食同源少量入膳，不替代辨证处方，遵医嘱。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "皂角米：皂角米是常见食药物质。传统食养中常见关键词为“润养、和中”，实际影响更取决于份量、加工方式和个人…"
   },
   {
     "id": "cat-condiment-001",
@@ -10747,7 +12063,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10758,17 +12074,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "花椒偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "花椒温中止痛、杀虫止痒。"
+      },
+      {
+        "title": "《饮膳正要》",
+        "summary": "川味温中散寒常用调料。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "花椒：花椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-002",
@@ -10794,7 +12120,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10805,17 +12131,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "八角偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "八角：八角是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-003",
@@ -10841,7 +12173,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10852,17 +12184,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "桂皮偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "桂皮：桂皮是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-004",
@@ -10888,7 +12226,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10899,17 +12237,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "白胡椒偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "白胡椒：白胡椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-005",
@@ -10935,7 +12279,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10946,17 +12290,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "黑胡椒偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黑胡椒：黑胡椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-006",
@@ -10982,7 +12332,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -10993,17 +12343,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "辣椒偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "辣椒：辣椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-007",
@@ -11029,7 +12385,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11040,17 +12396,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "干辣椒偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "干辣椒：干辣椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-008",
@@ -11076,7 +12438,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11087,17 +12449,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "泡椒偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "泡椒：泡椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-009",
@@ -11123,7 +12491,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11134,17 +12502,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "豆瓣酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆瓣酱：豆瓣酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-010",
@@ -11170,7 +12544,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11181,17 +12555,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "黄豆酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黄豆酱：黄豆酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-011",
@@ -11217,7 +12597,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11228,17 +12608,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "甜面酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "甜面酱：甜面酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-012",
@@ -11264,7 +12650,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11275,17 +12661,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "芝麻酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芝麻酱：芝麻酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-013",
@@ -11311,7 +12703,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11322,17 +12714,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "花生酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "花生酱：花生酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-014",
@@ -11358,7 +12756,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11369,17 +12767,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "蒜蓉酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蒜蓉酱：蒜蓉酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-015",
@@ -11405,7 +12809,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11416,17 +12820,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "虾酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "虾酱：虾酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-016",
@@ -11452,7 +12862,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11463,17 +12873,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "沙茶酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "沙茶酱：沙茶酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-017",
@@ -11499,7 +12915,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11510,17 +12926,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "腐乳：腐乳是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-018",
@@ -11546,7 +12968,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11557,17 +12979,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "韭菜花偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "韭菜花：韭菜花是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-019",
@@ -11593,7 +13021,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11604,17 +13032,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "剁椒偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "剁椒：剁椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-020",
@@ -11640,7 +13074,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11651,17 +13085,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "糟卤偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "糟卤：糟卤是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-021",
@@ -11687,7 +13127,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11698,17 +13138,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "料酒偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "料酒：料酒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-022",
@@ -11734,7 +13180,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11745,17 +13191,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "黄酒偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黄酒：黄酒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-023",
@@ -11781,7 +13233,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11792,17 +13244,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "米酒偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "米酒：米酒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-024",
@@ -11828,7 +13286,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11839,17 +13297,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "陈醋偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "陈醋：陈醋是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-025",
@@ -11875,7 +13339,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11886,17 +13350,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "香醋偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "香醋：香醋是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-026",
@@ -11922,7 +13392,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11933,17 +13403,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "白醋偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "白醋：白醋是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-027",
@@ -11969,7 +13445,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -11980,17 +13456,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "米醋偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "米醋：米醋是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-028",
@@ -12016,7 +13498,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12027,17 +13509,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "酱油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "酱油：酱油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-029",
@@ -12063,7 +13551,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12074,17 +13562,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "生抽偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "生抽：生抽是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-030",
@@ -12110,7 +13604,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12121,17 +13615,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "老抽偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "老抽：老抽是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-031",
@@ -12157,7 +13657,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12168,17 +13668,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "蚝油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蚝油：蚝油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-032",
@@ -12204,7 +13710,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12215,17 +13721,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "鱼露偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鱼露：鱼露是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-033",
@@ -12251,7 +13763,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12262,17 +13774,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "味噌偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "味噌：味噌是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-034",
@@ -12298,7 +13816,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12309,17 +13827,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "芥末偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芥末：芥末是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-035",
@@ -12345,7 +13869,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12356,17 +13880,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "孜然偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "孜然：孜然是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-036",
@@ -12392,7 +13922,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12403,17 +13933,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "咖喱粉偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "咖喱粉：咖喱粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-037",
@@ -12439,7 +13975,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12450,17 +13986,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "五香粉偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "五香粉：五香粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-038",
@@ -12486,7 +14028,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12497,17 +14039,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "十三香偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "十三香：十三香是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-039",
@@ -12533,7 +14081,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12544,17 +14092,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "椒盐偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "椒盐：椒盐是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-040",
@@ -12580,7 +14134,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12591,17 +14145,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "黑糖偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黑糖：黑糖是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-041",
@@ -12627,7 +14187,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12638,17 +14198,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "冰糖偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "冰糖：冰糖是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-042",
@@ -12674,7 +14240,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12685,17 +14251,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "红糖偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "红糖：红糖是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-043",
@@ -12721,7 +14293,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12732,17 +14304,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "蜂蜜偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "蜂蜜补中润燥、止痛解毒。"
+      },
+      {
+        "title": "《千金要方·食治》",
+        "summary": "阴虚肠燥、咽痛可温水冲服。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蜂蜜：蜂蜜是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-044",
@@ -12768,7 +14350,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12779,17 +14361,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "麦芽糖偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "麦芽糖：麦芽糖是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-045",
@@ -12815,7 +14403,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12826,17 +14414,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "枫糖浆偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "枫糖浆：枫糖浆是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-046",
@@ -12862,7 +14456,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12873,17 +14467,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "酸梅膏偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "酸梅膏：酸梅膏是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-047",
@@ -12909,7 +14509,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12920,17 +14520,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "花生碎偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "花生碎：花生碎是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-048",
@@ -12956,7 +14562,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -12967,17 +14573,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "芝麻碎偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芝麻碎：芝麻碎是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-049",
@@ -13003,7 +14615,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13014,17 +14626,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "葱油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "葱油：葱油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-050",
@@ -13050,7 +14668,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13061,17 +14679,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "花椒油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "花椒油：花椒油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-051",
@@ -13097,7 +14721,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13108,17 +14732,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "辣椒油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "辣椒油：辣椒油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-052",
@@ -13144,7 +14774,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13155,17 +14785,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "芝麻油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芝麻油：芝麻油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-053",
@@ -13191,7 +14827,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13202,17 +14838,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "菜籽油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "菜籽油：菜籽油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-054",
@@ -13238,7 +14880,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13249,17 +14891,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "猪油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "猪油：猪油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-055",
@@ -13285,7 +14933,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13296,17 +14944,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "牛油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "牛油：牛油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-056",
@@ -13332,7 +14986,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13343,17 +14997,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "鸡油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鸡油：鸡油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-057",
@@ -13379,7 +15039,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13390,17 +15050,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "黄油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黄油：黄油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-058",
@@ -13426,7 +15092,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13437,17 +15103,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "奶油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "奶油：奶油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-059",
@@ -13473,7 +15145,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13484,17 +15156,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "炼乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "炼乳：炼乳是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-060",
@@ -13520,7 +15198,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13531,17 +15209,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "奶酪粉偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "奶酪粉：奶酪粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-061",
@@ -13567,7 +15251,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13578,17 +15262,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "番茄酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "番茄酱：番茄酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-062",
@@ -13614,7 +15304,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13625,17 +15315,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "蛋黄酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蛋黄酱：蛋黄酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-063",
@@ -13661,7 +15357,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13672,17 +15368,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "沙拉酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "沙拉酱：沙拉酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-064",
@@ -13708,7 +15410,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13719,17 +15421,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "凯撒酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "凯撒酱：凯撒酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-065",
@@ -13755,7 +15463,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13766,17 +15474,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "塔塔酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "塔塔酱：塔塔酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-066",
@@ -13802,7 +15516,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13813,17 +15527,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "蒜香黄油偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蒜香黄油：蒜香黄油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-condiment-067",
@@ -13849,7 +15569,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13860,17 +15580,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "松露酱偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "松露酱：松露酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-068",
@@ -13896,7 +15622,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13907,17 +15633,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "香草荚偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "香草荚：香草荚是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-069",
@@ -13943,7 +15675,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -13954,17 +15686,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "迷迭香偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "迷迭香：迷迭香是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-070",
@@ -13990,7 +15728,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14001,17 +15739,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "百里香偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "百里香：百里香是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-071",
@@ -14037,7 +15781,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14048,17 +15792,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "鼠尾草偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鼠尾草：鼠尾草是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-072",
@@ -14084,7 +15834,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14095,17 +15845,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "牛至偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "牛至：牛至是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-073",
@@ -14131,7 +15887,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14142,17 +15898,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "罗勒偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "罗勒：罗勒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-074",
@@ -14178,7 +15940,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14189,17 +15951,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "欧芹偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "欧芹：欧芹是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-075",
@@ -14225,7 +15993,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14236,17 +16004,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "月桂叶偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "月桂叶：月桂叶是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-076",
@@ -14272,7 +16046,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14283,17 +16057,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "芫荽籽偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芫荽籽：芫荽籽是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-077",
@@ -14319,7 +16099,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14330,17 +16110,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "葛缕子偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "葛缕子：葛缕子是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-078",
@@ -14366,7 +16152,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14377,17 +16163,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "烟熏红椒粉偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "烟熏红椒粉：烟熏红椒粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "cat-condiment-079",
@@ -14413,7 +16205,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14424,17 +16216,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "芥菜籽偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芥菜籽：芥菜籽是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-080",
@@ -14460,7 +16258,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14471,17 +16269,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "椰浆粉偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "椰浆粉：椰浆粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-condiment-081",
@@ -14507,7 +16311,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14518,17 +16322,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "可可粉偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "可可粉：可可粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-082",
@@ -14554,7 +16364,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14565,17 +16375,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "椰子水：椰子水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-083",
@@ -14601,7 +16417,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14612,17 +16428,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "柠檬水：柠檬水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-084",
@@ -14648,7 +16470,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14659,17 +16481,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蜂蜜水：蜂蜜水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-085",
@@ -14695,7 +16523,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14706,17 +16534,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "苏打水：苏打水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-086",
@@ -14742,7 +16576,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14753,17 +16587,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "矿泉水：矿泉水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-087",
@@ -14789,7 +16629,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14800,17 +16640,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "气泡水：气泡水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-088",
@@ -14836,7 +16682,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14847,17 +16693,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "果蔬汁：果蔬汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-089",
@@ -14883,7 +16735,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14894,17 +16746,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "甘蔗汁：甘蔗汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-090",
@@ -14930,7 +16788,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14941,17 +16799,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "玉米汁：玉米汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-091",
@@ -14977,7 +16841,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -14988,17 +16852,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "杏仁露：杏仁露是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-092",
@@ -15024,7 +16894,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15035,17 +16905,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "核桃露：核桃露是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-093",
@@ -15071,7 +16947,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15082,17 +16958,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "酸奶饮：酸奶饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-094",
@@ -15118,7 +17000,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15129,17 +17011,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "奶昔：奶昔是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-095",
@@ -15165,7 +17053,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15176,17 +17064,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "米乳：米乳是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-096",
@@ -15212,7 +17106,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15223,17 +17117,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆乳：豆乳是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-097",
@@ -15259,7 +17159,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15270,17 +17170,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "植物奶：植物奶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-098",
@@ -15306,7 +17212,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15317,17 +17223,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "牛乳：牛乳是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-099",
@@ -15353,7 +17265,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15364,17 +17276,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "羊乳：羊乳是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-100",
@@ -15400,7 +17318,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15411,17 +17329,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "马奶：马奶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-101",
@@ -15447,7 +17371,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15458,17 +17382,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "拿铁：拿铁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-102",
@@ -15494,7 +17424,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15505,17 +17435,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "美式咖啡：美式咖啡是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-drink-103",
@@ -15541,7 +17477,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15552,17 +17488,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "可可：可可是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-104",
@@ -15588,7 +17530,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15599,17 +17541,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "热巧克力：热巧克力是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-drink-105",
@@ -15635,7 +17583,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15646,17 +17594,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "酸奶昔：酸奶昔是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-106",
@@ -15682,7 +17636,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15693,17 +17647,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "奶茶：奶茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-107",
@@ -15729,7 +17689,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15740,17 +17700,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "水果茶：水果茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-108",
@@ -15776,7 +17742,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15787,17 +17753,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "花草茶：花草茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-109",
@@ -15823,7 +17795,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15834,17 +17806,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "乌梅饮：乌梅饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-110",
@@ -15870,7 +17848,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15881,17 +17859,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "雪梨汁：雪梨汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-111",
@@ -15917,7 +17901,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15928,17 +17912,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "洛神花饮：洛神花饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-drink-112",
@@ -15964,7 +17954,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -15975,17 +17965,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "菊花露：菊花露是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-113",
@@ -16011,7 +18007,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16022,17 +18018,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "薄荷饮：薄荷饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-114",
@@ -16058,7 +18060,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16069,17 +18071,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "柚子茶：柚子茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-115",
@@ -16105,7 +18113,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16116,17 +18124,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "姜茶：姜茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-116",
@@ -16152,7 +18166,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16163,17 +18177,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "红糖姜饮：红糖姜饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-drink-117",
@@ -16199,7 +18219,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16210,17 +18230,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "银耳饮：银耳饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-118",
@@ -16246,7 +18272,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16257,17 +18283,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "米汤：米汤是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-119",
@@ -16293,7 +18325,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16304,17 +18336,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "酸角汁：酸角汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-120",
@@ -16340,7 +18378,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16351,17 +18389,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "罗望子饮：罗望子饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-drink-121",
@@ -16387,7 +18431,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16398,17 +18442,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "椰奶：椰奶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-122",
@@ -16434,7 +18484,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16445,17 +18495,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "燕麦奶：燕麦奶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-drink-123",
@@ -16481,7 +18537,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16492,17 +18548,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "抹茶拿铁：抹茶拿铁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-drink-124",
@@ -16528,7 +18590,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16539,17 +18601,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "注意糖分与冰度，体寒、控糖人群适量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "饮品类以少糖、温热为佳，勿过冰过甜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "康普茶：康普茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-125",
@@ -16575,7 +18643,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16586,17 +18654,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黑米：黑米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-126",
@@ -16622,7 +18696,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16633,17 +18707,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "紫米：紫米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-127",
@@ -16669,7 +18749,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16680,17 +18760,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "高粱：高粱是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-128",
@@ -16716,7 +18802,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16727,17 +18813,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "青稞：青稞是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-129",
@@ -16763,7 +18855,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16774,17 +18866,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "藜麦：藜麦是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-130",
@@ -16810,7 +18908,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16821,17 +18919,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "薏米饭：薏米饭是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-131",
@@ -16857,7 +18961,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16868,17 +18972,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "糙米：糙米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-132",
@@ -16904,7 +19014,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16915,17 +19025,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "小麦：小麦是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-133",
@@ -16951,7 +19067,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -16962,17 +19078,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "西米：西米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-134",
@@ -16998,7 +19120,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17009,17 +19131,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "粳米益气除烦、和中养胃。"
+      },
+      {
+        "title": "《养老奉亲书》",
+        "summary": "粥饮为老年养胃首选。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "粳米：粳米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-135",
@@ -17045,7 +19177,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17056,17 +19188,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "籼米：籼米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-136",
@@ -17092,7 +19230,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17103,17 +19241,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黍米：黍米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-137",
@@ -17139,7 +19283,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17150,17 +19294,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "糜子：糜子是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-138",
@@ -17186,7 +19336,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17197,17 +19347,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "燕麦片：燕麦片是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-139",
@@ -17233,7 +19389,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17244,17 +19400,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "玉米碴：玉米碴是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-140",
@@ -17280,7 +19442,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17291,17 +19453,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "米皮糖：米皮糖是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-141",
@@ -17327,7 +19495,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17338,17 +19506,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "米花：米花是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-142",
@@ -17374,7 +19548,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17385,17 +19559,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "米线：米线是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-143",
@@ -17421,7 +19601,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17432,17 +19612,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "米粉：米粉是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-144",
@@ -17468,7 +19654,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17479,17 +19665,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "河粉：河粉是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-145",
@@ -17515,7 +19707,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17526,17 +19718,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "粿条：粿条是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-146",
@@ -17562,7 +19760,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17573,17 +19771,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "年糕米：年糕米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-grain-147",
@@ -17609,7 +19813,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17620,17 +19824,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "五谷为养，主食宜与荤素搭配，养胃益气。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "粽米：粽米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-148",
@@ -17656,7 +19866,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17667,17 +19877,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芸豆：芸豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-149",
@@ -17703,7 +19919,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17714,17 +19930,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "眉豆：眉豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-150",
@@ -17750,7 +19972,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17761,17 +19983,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鹰嘴豆：鹰嘴豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-151",
@@ -17797,7 +20025,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17808,17 +20036,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "扁豆：扁豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-152",
@@ -17844,7 +20078,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17855,17 +20089,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "刀豆：刀豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-153",
@@ -17891,7 +20131,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17902,17 +20142,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豌豆：豌豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-154",
@@ -17938,7 +20184,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17949,17 +20195,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蚕豆：蚕豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-155",
@@ -17985,7 +20237,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -17996,17 +20248,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "四季豆：四季豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-156",
@@ -18032,7 +20290,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18043,17 +20301,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "荷兰豆：荷兰豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-157",
@@ -18079,7 +20343,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18090,17 +20354,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "毛豆：毛豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-158",
@@ -18126,7 +20396,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18137,17 +20407,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "菜豆：菜豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-159",
@@ -18173,7 +20449,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18184,17 +20460,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "花豆：花豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-160",
@@ -18220,7 +20502,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18231,17 +20513,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "斑豆：斑豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-161",
@@ -18267,7 +20555,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18278,17 +20566,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "白芸豆：白芸豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-162",
@@ -18314,7 +20608,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18325,17 +20619,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "青豆：青豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-163",
@@ -18361,7 +20661,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18372,17 +20672,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黑眼豆：黑眼豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-164",
@@ -18409,7 +20715,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18425,17 +20731,23 @@ const EXPANDED_FOODS_BULK = [
       "lentil",
       "小扁豆"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "小扁豆：小扁豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-165",
@@ -18461,7 +20773,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18472,17 +20784,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆荚米：豆荚米是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-166",
@@ -18508,7 +20826,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18519,17 +20837,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与谷物同煮可提高蛋白利用率，胀气明显者少量、煮透。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "豆类健脾利湿，宜煮透，胀气者少量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆苗豆：豆苗豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-167",
@@ -18555,7 +20879,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18566,17 +20890,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆皮：豆皮是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-168",
@@ -18602,7 +20932,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18613,17 +20943,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "腐竹：腐竹是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-169",
@@ -18649,7 +20985,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18660,17 +20996,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆干：豆干是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-170",
@@ -18696,7 +21038,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18707,17 +21049,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "香干：香干是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-171",
@@ -18743,7 +21091,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18754,17 +21102,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "千张：千张是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-172",
@@ -18790,7 +21144,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18801,17 +21155,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆泡：豆泡是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-173",
@@ -18837,7 +21197,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18848,17 +21208,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆花：豆花是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-174",
@@ -18884,7 +21250,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18895,17 +21261,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆乳皮：豆乳皮是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-bean-product-175",
@@ -18931,7 +21303,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18942,17 +21314,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "纳豆：纳豆是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-176",
@@ -18978,7 +21356,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -18989,17 +21367,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆豉：豆豉是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-177",
@@ -19025,7 +21409,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19036,17 +21420,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆瓣：豆瓣是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-178",
@@ -19072,7 +21462,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19083,17 +21473,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆沙：豆沙是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-179",
@@ -19119,7 +21515,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19130,17 +21526,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆泥：豆泥是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-180",
@@ -19166,7 +21568,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19177,17 +21579,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆腐脑：豆腐脑是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-bean-product-181",
@@ -19213,7 +21621,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19224,17 +21632,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆腐丝：豆腐丝是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-bean-product-182",
@@ -19260,7 +21674,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19271,17 +21685,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆肠：豆肠是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-bean-product-183",
@@ -19307,7 +21727,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19318,17 +21738,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "油豆腐：油豆腐是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-bean-product-184",
@@ -19354,7 +21780,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19365,17 +21791,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "冻豆腐：冻豆腐是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-bean-product-185",
@@ -19401,7 +21833,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19412,17 +21844,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "内酯豆腐：内酯豆腐是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐…"
   },
   {
     "id": "cat-bean-product-186",
@@ -19448,7 +21886,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19459,17 +21897,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蔬菜、主食同餐，痛风急性期注意总量。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "豆制品益气和中，清淡烹调更易消化。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "老豆腐：老豆腐是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-veg-187",
@@ -19495,7 +21939,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19506,17 +21950,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "白菜养胃生津、除烦解渴。"
+      },
+      {
+        "title": "《饮膳正要》",
+        "summary": "家常清炒煮汤皆宜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "白菜：白菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-188",
@@ -19542,7 +21996,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19553,17 +22007,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "油菜：油菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-189",
@@ -19589,7 +22049,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19600,17 +22060,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "生菜：生菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-190",
@@ -19636,7 +22102,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19647,17 +22113,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芹菜：芹菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-191",
@@ -19683,7 +22155,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19694,17 +22166,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "韭菜：韭菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-192",
@@ -19730,7 +22208,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19741,17 +22219,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "大葱：大葱是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-193",
@@ -19777,7 +22261,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19788,17 +22272,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "小葱：小葱是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-194",
@@ -19824,7 +22314,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19835,17 +22325,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "洋葱：洋葱是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-195",
@@ -19871,7 +22367,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19882,17 +22378,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "大蒜温中行滞、解毒杀虫。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "少量调味可醒脾开胃。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "大蒜：大蒜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-196",
@@ -19918,7 +22424,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19929,17 +22435,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蒜苗：蒜苗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-197",
@@ -19965,7 +22477,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -19976,17 +22488,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "青椒：青椒是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-198",
@@ -20012,7 +22530,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20023,17 +22541,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "彩椒：彩椒是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-199",
@@ -20059,7 +22583,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20070,17 +22594,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "茄子清热活血、消肿解毒。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "宜熟食，不宜生食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "茄子：茄子是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-200",
@@ -20106,7 +22640,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20117,17 +22651,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "西葫芦：西葫芦是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-201",
@@ -20153,7 +22693,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20164,17 +22704,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "丝瓜：丝瓜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-202",
@@ -20200,7 +22746,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20211,17 +22757,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "苦菊：苦菊是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-203",
@@ -20247,7 +22799,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20258,17 +22810,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "油麦菜：油麦菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-204",
@@ -20294,7 +22852,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20305,17 +22863,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "莴笋：莴笋是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-205",
@@ -20341,7 +22905,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20352,17 +22916,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芥蓝：芥蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-206",
@@ -20388,7 +22958,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20399,17 +22969,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "菜心：菜心是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-207",
@@ -20435,7 +23011,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20446,17 +23022,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "上海青：上海青是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-208",
@@ -20482,7 +23064,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20493,17 +23075,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "苋菜：苋菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-209",
@@ -20529,7 +23117,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20540,17 +23128,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菠菜利肠胃、解热毒。"
+      },
+      {
+        "title": "《遵生八笺》",
+        "summary": "草酸偏高，宜焯水熟食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "菠菜：菠菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-210",
@@ -20576,7 +23174,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20587,17 +23185,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "茼蒿：茼蒿是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-211",
@@ -20623,7 +23227,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20634,17 +23238,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "苜蓿芽：苜蓿芽是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-212",
@@ -20670,7 +23280,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20681,17 +23291,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "包菜：包菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-213",
@@ -20717,7 +23333,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20728,17 +23344,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "紫甘蓝：紫甘蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-214",
@@ -20764,7 +23386,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20775,17 +23397,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "花椰菜：花椰菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-215",
@@ -20811,7 +23439,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20822,17 +23450,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "西兰花：西兰花是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-216",
@@ -20858,7 +23492,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20869,17 +23503,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "胡萝卜：胡萝卜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-217",
@@ -20905,7 +23545,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20916,17 +23556,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "青萝卜：青萝卜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-218",
@@ -20952,7 +23598,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -20963,17 +23609,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "樱桃萝卜：樱桃萝卜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-veg-219",
@@ -20999,7 +23651,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21010,17 +23662,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "萝卜缨：萝卜缨是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-220",
@@ -21046,7 +23704,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21057,17 +23715,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "萝卜干：萝卜干是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-221",
@@ -21093,7 +23757,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21104,17 +23768,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "马铃薯和胃调中、健脾益气。"
+      },
+      {
+        "title": "《随园食单》",
+        "summary": "可作主食补充。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "土豆：土豆是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-222",
@@ -21140,7 +23814,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21151,17 +23825,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "山药豆：山药豆是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-223",
@@ -21187,7 +23867,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21198,17 +23878,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芋头：芋头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-224",
@@ -21234,7 +23920,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21245,17 +23931,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芋苗：芋苗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-225",
@@ -21281,7 +23973,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21292,17 +23984,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "甘薯补中和血、益气生津。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "便秘者适量，胃酸过多慎食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "红薯：红薯是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-226",
@@ -21328,7 +24030,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21339,17 +24041,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "紫薯：紫薯是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-227",
@@ -21375,7 +24083,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21386,17 +24094,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "木薯：木薯是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-228",
@@ -21422,7 +24136,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21433,17 +24147,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "莲藕带：莲藕带是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-229",
@@ -21469,7 +24189,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21480,17 +24200,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "茭白：茭白是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-230",
@@ -21516,7 +24242,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21527,17 +24253,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "慈菇：慈菇是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-231",
@@ -21563,7 +24295,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21574,17 +24306,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "荸荠：荸荠是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-232",
@@ -21610,7 +24348,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21621,17 +24359,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芦笋尖：芦笋尖是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-233",
@@ -21657,7 +24401,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21668,17 +24412,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豇豆：豇豆是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-234",
@@ -21704,7 +24454,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21715,17 +24465,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆角：豆角是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-235",
@@ -21751,7 +24507,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21762,17 +24518,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "秋葵：秋葵是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-236",
@@ -21798,7 +24560,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21809,17 +24571,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "佛手瓜：佛手瓜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-237",
@@ -21845,7 +24613,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21856,17 +24624,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黄花菜：黄花菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-238",
@@ -21892,7 +24666,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21903,17 +24677,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "菜花：菜花是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-239",
@@ -21939,7 +24719,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21950,17 +24730,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "羽衣甘蓝：羽衣甘蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-veg-240",
@@ -21986,7 +24772,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -21997,17 +24783,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鸡毛菜：鸡毛菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-241",
@@ -22033,7 +24825,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22044,17 +24836,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "苕尖：苕尖是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-242",
@@ -22080,7 +24878,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22091,17 +24889,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "苜蓿菜：苜蓿菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-243",
@@ -22127,7 +24931,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22138,17 +24942,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "空心菜梗：空心菜梗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-veg-244",
@@ -22174,7 +24984,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22185,17 +24995,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "苤蓝：苤蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-245",
@@ -22221,7 +25037,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22232,17 +25048,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "榨菜头：榨菜头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-246",
@@ -22268,7 +25090,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22279,17 +25101,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "甜玉米：甜玉米是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-247",
@@ -22315,7 +25143,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22326,17 +25154,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "玉米笋：玉米笋是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-248",
@@ -22362,7 +25196,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22373,17 +25207,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "番薯叶：番薯叶是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-249",
@@ -22409,7 +25249,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22420,17 +25260,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "地瓜叶：地瓜叶是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-250",
@@ -22456,7 +25302,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22467,17 +25313,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "南瓜花：南瓜花是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-251",
@@ -22503,7 +25355,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22514,17 +25366,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "西葫芦花：西葫芦花是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-veg-252",
@@ -22550,7 +25408,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22561,17 +25419,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "冬寒菜：冬寒菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-253",
@@ -22597,7 +25461,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22608,17 +25472,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "萝卜苗：萝卜苗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-254",
@@ -22644,7 +25514,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22655,17 +25525,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆苗：豆苗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-255",
@@ -22691,7 +25567,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22702,17 +25578,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "青蒜：青蒜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-256",
@@ -22738,7 +25620,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22749,17 +25631,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蒜苔：蒜苔是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-257",
@@ -22785,7 +25673,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22796,17 +25684,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "马兰头：马兰头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-258",
@@ -22832,7 +25726,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22843,17 +25737,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "香椿头：香椿头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-259",
@@ -22879,7 +25779,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22890,17 +25790,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "龙须菜：龙须菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-260",
@@ -22926,7 +25832,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22937,17 +25843,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "白菜苔：白菜苔是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-261",
@@ -22973,7 +25885,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -22984,17 +25896,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芥菜头：芥菜头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-262",
@@ -23020,7 +25938,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23031,17 +25949,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "油菜苔：油菜苔是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-263",
@@ -23067,7 +25991,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23078,17 +26002,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "枸杞头：枸杞头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-264",
@@ -23114,7 +26044,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23125,17 +26055,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "枸杞芽：枸杞芽是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-265",
@@ -23161,7 +26097,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23172,17 +26108,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黄秋葵：黄秋葵是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-266",
@@ -23208,7 +26150,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23219,17 +26161,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "豆瓣菜：豆瓣菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-267",
@@ -23255,7 +26203,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23266,17 +26214,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "朝鲜蓟：朝鲜蓟是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-268",
@@ -23302,7 +26256,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23313,17 +26267,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "芜菁：芜菁是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-269",
@@ -23349,7 +26309,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23360,17 +26320,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "球茎甘蓝：球茎甘蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-veg-270",
@@ -23396,7 +26362,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23407,17 +26373,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "抱子甘蓝：抱子甘蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-veg-271",
@@ -23443,7 +26415,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23454,17 +26426,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "洋姜：洋姜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-272",
@@ -23490,7 +26468,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23501,17 +26479,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "牛蒡：牛蒡是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-273",
@@ -23537,7 +26521,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23548,17 +26532,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蒿子秆：蒿子秆是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-veg-274",
@@ -23584,7 +26574,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23595,17 +26585,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "菜蔬多入膳以和中清热、辅助运化，宜熟食适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "菱角菜：菱角菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-275",
@@ -23631,7 +26627,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23642,17 +26638,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "荠菜：荠菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-276",
@@ -23678,7 +26680,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23689,17 +26691,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "香椿：香椿是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-277",
@@ -23725,7 +26733,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23736,17 +26744,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "马兰头：马兰头是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-278",
@@ -23772,7 +26786,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23783,17 +26797,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "灰灰菜：灰灰菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-279",
@@ -23819,7 +26839,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23830,17 +26850,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蒲公英叶：蒲公英叶是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-wild-280",
@@ -23866,7 +26892,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23877,17 +26903,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "刺儿菜：刺儿菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-281",
@@ -23913,7 +26945,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23924,17 +26956,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "苦菜：苦菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-282",
@@ -23960,7 +26998,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -23971,17 +27009,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "车前草：车前草是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-283",
@@ -24007,7 +27051,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24018,17 +27062,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "枸杞头：枸杞头是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-284",
@@ -24054,7 +27104,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24065,17 +27115,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "苜蓿：苜蓿是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-285",
@@ -24101,7 +27157,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24112,17 +27168,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "野芹菜：野芹菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-286",
@@ -24148,7 +27210,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24159,17 +27221,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "野韭菜：野韭菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-287",
@@ -24195,7 +27263,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24206,17 +27274,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "野葱：野葱是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-288",
@@ -24242,7 +27316,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24253,17 +27327,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "地皮菜：地皮菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-289",
@@ -24289,7 +27369,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24300,17 +27380,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "榆钱：榆钱是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-290",
@@ -24336,7 +27422,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24347,17 +27433,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "槐花：槐花是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-291",
@@ -24383,7 +27475,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24394,17 +27486,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "洋槐花：洋槐花是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-292",
@@ -24430,7 +27528,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24441,17 +27539,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蕨根：蕨根是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-293",
@@ -24477,7 +27581,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24488,17 +27592,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "野蒜：野蒜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-294",
@@ -24524,7 +27634,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24535,17 +27645,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "折耳根：折耳根是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-295",
@@ -24571,7 +27687,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24582,17 +27698,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蕨根粉：蕨根粉是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-296",
@@ -24618,7 +27740,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24629,17 +27751,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "观音菜：观音菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-297",
@@ -24665,7 +27793,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24676,17 +27804,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "野苋菜：野苋菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-298",
@@ -24712,7 +27846,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24723,17 +27857,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "山野菜：山野菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-wild-299",
@@ -24759,7 +27899,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24770,17 +27910,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，焯水后与蒜姜、肉类同炒，不宜不明来源采食或长期高频食用。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "山野菜蔬多偏寒凉或辛散，宜应季少量、规范处理。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蕨麻：蕨麻是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-300",
@@ -24806,7 +27952,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24817,17 +27963,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "蘑菇益气开胃、化痰理气。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "须煮熟，野生不明品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "香菇：香菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-301",
@@ -24853,7 +28009,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24864,17 +28020,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "平菇：平菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-302",
@@ -24900,7 +28062,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24911,17 +28073,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "金针菇：金针菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-303",
@@ -24947,7 +28115,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -24958,17 +28126,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "杏鲍菇：杏鲍菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-304",
@@ -24994,7 +28168,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25005,17 +28179,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鸡腿菇：鸡腿菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-305",
@@ -25041,7 +28221,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25052,17 +28232,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "口蘑：口蘑是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-306",
@@ -25088,7 +28274,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25099,17 +28285,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "茶树菇：茶树菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-307",
@@ -25135,7 +28327,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25146,17 +28338,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "滑子菇：滑子菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-308",
@@ -25182,7 +28380,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25193,17 +28391,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "海鲜菇：海鲜菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-309",
@@ -25229,7 +28433,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25240,17 +28444,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "姬菇：姬菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-310",
@@ -25276,7 +28486,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25287,17 +28497,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "虫草花：虫草花是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-311",
@@ -25323,7 +28539,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25334,17 +28550,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "羊肚菌：羊肚菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-312",
@@ -25370,7 +28592,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25381,17 +28603,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "松茸：松茸是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-313",
@@ -25417,7 +28645,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25428,17 +28656,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "牛肝菌：牛肝菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-314",
@@ -25464,7 +28698,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25475,17 +28709,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鸡枞菌：鸡枞菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-315",
@@ -25511,7 +28751,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25522,17 +28762,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "竹荪：竹荪是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-316",
@@ -25558,7 +28804,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25569,17 +28815,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "木耳益气强身、活血止血。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "与黄瓜、醋凉拌润肠。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "木耳：木耳是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-317",
@@ -25605,7 +28861,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25616,17 +28872,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "银耳花：银耳花是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-318",
@@ -25652,7 +28914,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25663,17 +28925,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "蘑菇益气开胃、化痰理气。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "须煮熟，野生不明品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蘑菇：蘑菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-319",
@@ -25699,7 +28971,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25710,17 +28982,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "白玉菇：白玉菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-320",
@@ -25746,7 +29024,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25757,17 +29035,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蟹味菇：蟹味菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-321",
@@ -25793,7 +29077,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25804,17 +29088,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鹿茸菇：鹿茸菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-322",
@@ -25840,7 +29130,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25851,17 +29141,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鹿肚菌：鹿肚菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-323",
@@ -25887,7 +29183,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25898,17 +29194,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "珊瑚菌：珊瑚菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-324",
@@ -25934,7 +29236,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25945,17 +29247,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "榛蘑：榛蘑是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-325",
@@ -25981,7 +29289,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -25992,17 +29300,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "元蘑：元蘑是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-326",
@@ -26028,7 +29342,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -26039,17 +29353,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "真姬菇：真姬菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-327",
@@ -26075,7 +29395,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -26086,17 +29406,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "秀珍菇：秀珍菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-328",
@@ -26122,7 +29448,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -26133,17 +29459,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "木耳益气强身、活血止血。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "与黄瓜、醋凉拌润肠。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黑木耳：黑木耳是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-329",
@@ -26169,7 +29505,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -26180,17 +29516,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黄伞菌：黄伞菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-330",
@@ -26216,7 +29558,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -26227,17 +29569,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "黄牛肝菌：黄牛肝菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "cat-fungi-331",
@@ -26263,7 +29611,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -26274,17 +29622,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "青头菌：青头菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-332",
@@ -26310,7 +29664,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -26321,17 +29675,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "铜绿菌：铜绿菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-333",
@@ -26357,7 +29717,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -26368,17 +29728,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "奶浆菌：奶浆菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-334",
@@ -26404,7 +29770,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -26415,17 +29781,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "扫把菌：扫把菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fungi-335",
@@ -26451,7 +29823,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -26462,17 +29834,23 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与鸡肉、蔬菜、米面同炖，菌菇过敏者禁食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "菌类益气开胃，须煮熟，不明野生品种勿食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鸡油菌：鸡油菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cat-fruit-336",
@@ -26498,7 +29876,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：日常食养",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -26509,17 +29887,27 @@ const EXPANDED_FOODS_BULK = [
     "teaClass": "",
     "teaNote": "",
     "searchTerms": [],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "葡萄作水果偏平和，餐间少量即可，不宜代餐。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "更适合餐间或餐后少量，不宜替代正餐，空腹胃弱者慎食。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "葡萄补气血、强筋骨。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "气血不足少量鲜食或酿酒入膳。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "葡萄：葡萄是常见水果。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cistanche-roucongrong",
@@ -26549,7 +29937,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：补肾、润肠",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [
       "medication"
     ],
@@ -26567,18 +29955,28 @@ const EXPANDED_FOODS_BULK = [
       "内蒙古苁蓉",
       "新疆大芸"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "肉苁蓉补肾阳、益精血。"
+      },
+      {
+        "title": "《饮膳正要》",
+        "summary": "温补类宜冬季少量炖汤。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "肉苁蓉：肉苁蓉多见于补肾、润肠类传统食养语境，不宜当作普通调味料长期随意叠加。"
   },
   {
     "id": "dendrobium-tiepi",
@@ -26609,7 +30007,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：养阴、生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [
       "medication"
     ],
@@ -26627,18 +30025,28 @@ const EXPANDED_FOODS_BULK = [
       "霍斗",
       "浙石斛"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "偏寒凉，按药食同源少量入膳，不替代辨证处方，遵医嘱。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "石斛益胃生津、滋阴清热。"
+      },
+      {
+        "title": "《遵生八笺》",
+        "summary": "阴虚口干可配银耳。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "铁皮石斛：铁皮石斛是石斛类中常见的细分称呼，传统上多放在养阴、生津、清润的食养框架里。"
   },
   {
     "id": "baizhu",
@@ -26668,7 +30076,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：健脾、燥湿",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [
       "medication"
     ],
@@ -26685,17 +30093,23 @@ const EXPANDED_FOODS_BULK = [
       "bz",
       "浙江白术"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，按药食同源少量入膳，不替代辨证处方，遵医嘱。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《神农本草经》",
+        "summary": "药食同源条目，宜少量入膳，不替代处方。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "白术：白术多见于健脾、燥湿类方药语境，作为食养信息仅作辨识与搭配提醒，不建议自行长期食用。"
   },
   {
     "id": "crab",
@@ -26726,7 +30140,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：清鲜、高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -26744,17 +30158,27 @@ const EXPANDED_FOODS_BULK = [
       "湖蟹",
       "清水蟹"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
+    "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "蟹清热散结、益气养血。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "配姜醋去腥散寒，须煮熟。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "螃蟹：螃蟹是常见海产。传统食养中常见关键词为“清鲜、高蛋白”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "shrimp",
@@ -26784,7 +30208,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -26801,17 +30225,27 @@ const EXPANDED_FOODS_BULK = [
       "x",
       "虾仁"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "虾壮阳补肾、通乳托毒。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "须彻底煮熟，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "虾：虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "lobster",
@@ -26841,7 +30275,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -26859,18 +30293,24 @@ const EXPANDED_FOODS_BULK = [
       "澳洲龙虾",
       "波士顿龙虾"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "龙虾：龙虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "black-tiger-shrimp",
@@ -26899,7 +30339,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -26916,18 +30356,24 @@ const EXPANDED_FOODS_BULK = [
       "hhx",
       "虎虾"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "黑虎虾：黑虎虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "whiteleg-shrimp",
@@ -26956,7 +30402,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -26973,18 +30419,24 @@ const EXPANDED_FOODS_BULK = [
       "nmbdx",
       "南美白虾"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "南美白对虾：南美白对虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "kuruma-prawn",
@@ -27013,7 +30465,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -27030,18 +30482,24 @@ const EXPANDED_FOODS_BULK = [
       "zjx",
       "花虾"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "竹节虾：竹节虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "ming-prawn",
@@ -27069,7 +30527,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -27086,18 +30544,24 @@ const EXPANDED_FOODS_BULK = [
       "mx",
       "海捕明虾"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "明虾：明虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "argentine-red-shrimp",
@@ -27125,7 +30589,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -27142,18 +30606,24 @@ const EXPANDED_FOODS_BULK = [
       "agthx",
       "船冻红虾"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "阿根廷红虾：阿根廷红虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "greasyback-shrimp",
@@ -27181,7 +30651,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -27198,18 +30668,24 @@ const EXPANDED_FOODS_BULK = [
       "jwx",
       "广东基围虾"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "基围虾：基围虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "fish-generic",
@@ -27239,7 +30715,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：高蛋白",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "海鲜过敏、痛风急性期、甲状腺特殊疾病者需注意；必须彻底煮熟。",
     "cautionTags": [
       "allergy"
     ],
@@ -27255,17 +30731,23 @@ const EXPANDED_FOODS_BULK = [
       "yu",
       "y"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "水产鲜美补虚，须新鲜熟透，过敏者禁食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "鱼：鱼是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "pandan-leaf",
@@ -27298,7 +30780,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：芳香、调味",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -27314,17 +30796,23 @@ const EXPANDED_FOODS_BULK = [
       "新加坡班兰",
       "马来香兰叶"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "斑斓叶偏平，宜少量调味，不宜大量单独食用。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "斑斓叶：斑斓叶是常见调料。传统食养中常见关键词为“芳香、调味”，实际影响更取决于份量、加工方式和个人耐受…"
   },
   {
     "id": "peach",
@@ -27353,7 +30841,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -27369,17 +30857,23 @@ const EXPANDED_FOODS_BULK = [
       "奉化水蜜桃",
       "阳山水蜜桃"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "桃作水果偏平和，餐间少量即可，不宜代餐。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，更适合餐间或餐后少量，不宜替代正餐，空腹胃弱者慎食。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "鲜果生津止渴，宜应季适量，不宜过寒过饱。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "桃：桃是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "durian",
@@ -27409,7 +30903,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：温补",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃热口臭、痔疮肿痛、高血压控盐期应少用或不用。",
     "cautionTags": [
       "reflux"
     ],
@@ -27427,17 +30921,23 @@ const EXPANDED_FOODS_BULK = [
       "泰国金枕",
       "马来猫山王"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "榴莲作水果偏平和，餐间少量即可，不宜代餐。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，更适合餐间或餐后少量，不宜替代正餐，空腹胃弱者慎食。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "鲜果生津止渴，宜应季适量，不宜过寒过饱。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "榴莲：榴莲是常见水果。传统食养中常见关键词为“温补”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "rice-mi",
@@ -27466,7 +30966,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：主食",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -27481,17 +30981,27 @@ const EXPANDED_FOODS_BULK = [
       "m",
       "柴米油盐酱醋茶"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "作为主食基底，与蛋白、蔬菜同餐结构更完整。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《食疗本草》",
+        "summary": "粳米益气除烦、和中养胃。"
+      },
+      {
+        "title": "《养老奉亲书》",
+        "summary": "粥饮为老年养胃首选。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "米：米是常见谷物。传统食养中常见关键词为“主食”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cooking-oil",
@@ -27521,7 +31031,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调味",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -27536,17 +31046,23 @@ const EXPANDED_FOODS_BULK = [
       "y",
       "柴米油盐酱醋茶"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "油偏平，宜少量调味，不宜大量单独食用。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "油：油是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "salt",
@@ -27575,7 +31091,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调味",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -27590,17 +31106,23 @@ const EXPANDED_FOODS_BULK = [
       "y",
       "柴米油盐酱醋茶"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "盐偏平，宜少量调味，不宜大量单独食用。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "盐：盐是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "sauce-jiang",
@@ -27631,7 +31153,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调味",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -27646,17 +31168,23 @@ const EXPANDED_FOODS_BULK = [
       "j",
       "柴米油盐酱醋茶"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "酱偏平，宜少量调味，不宜大量单独食用。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "香辛调料温中行气，宜少量调味，不可代主食。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "酱：酱是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "vinegar-cu",
@@ -27686,7 +31214,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：调味",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -27701,18 +31229,28 @@ const EXPANDED_FOODS_BULK = [
       "c",
       "柴米油盐酱醋茶"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "醋偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "醋散瘀解毒、消食开胃。"
+      },
+      {
+        "title": "《食疗本草》",
+        "summary": "与蒜泥凉拌可醒脾。"
+      }
+    ],
     "safetyNote": "",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "eatingIntro": "醋：醋是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
   },
   {
     "id": "cili-fruit",
@@ -27741,7 +31279,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：生津、清润",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -27757,17 +31295,23 @@ const EXPANDED_FOODS_BULK = [
       "刺梨",
       "刺梨子"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "刺梨作水果偏清凉，餐间少量即可，不宜代餐。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，更适合餐间或餐后少量，不宜替代正餐，空腹胃弱者慎食。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《随息居饮食谱》",
+        "summary": "鲜果生津止渴，宜应季适量，不宜过寒过饱。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "刺梨：贵州等地常见野果，味酸涩，多用于泡酒、制汁或蜜饯。"
   },
   {
     "id": "preserved-fruit",
@@ -27810,17 +31354,23 @@ const EXPANDED_FOODS_BULK = [
       "蜜饯",
       "果脯"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与主食、蛋白、蔬菜一起看整体饮食结构。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《千金要方·食治》",
+        "summary": "性偏温热，宜畏寒体虚者少量，实热忌多用。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "蜜饯：糖渍或盐渍果脯类零食，偏甜偏温，宜少量佐餐。"
   },
   {
     "id": "chia-seed",
@@ -27848,7 +31398,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：润肠",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -27864,17 +31414,23 @@ const EXPANDED_FOODS_BULK = [
       "chia",
       "奇亚籽"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "秋燥口干、咽干皮肤干时更适宜；腹泻便溏、痰多体腻时减量。",
+    "pair": "少量佐餐或入粥羹，不宜炒货当零食大量食用。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "坚果种子润燥补益，少量即可，炒货不宜过量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "奇亚籽：进口超级食物种子，吸水膨胀，常见于早餐、酸奶搭配。"
   },
   {
     "id": "sunflower-seed",
@@ -27902,7 +31458,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：休闲零食",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -27920,17 +31476,23 @@ const EXPANDED_FOODS_BULK = [
       "瓜子",
       "葵花籽"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "少量佐餐或入粥羹，不宜炒货当零食大量食用。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "坚果种子润燥补益，少量即可，炒货不宜过量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "葵花籽：常见炒货零食，偏平，宜少量；盐焗、奶油口味注意钠与添加糖。"
   },
   {
     "id": "watermelon-seed",
@@ -27956,7 +31518,7 @@ const EXPANDED_FOODS_BULK = [
       "传统食养常见关键词：休闲零食",
       "日常营养价值需结合品种、份量与烹调方式评估"
     ],
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "cautionTags": [],
     "suitableFor": [],
     "avoidFor": [],
@@ -27971,17 +31533,23 @@ const EXPANDED_FOODS_BULK = [
       "xgz",
       "西瓜子"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "少量佐餐或入粥羹，不宜炒货当零食大量食用。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "坚果种子润燥补益，少量即可，炒货不宜过量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "西瓜子：常见炒货零食，偏平，宜少量；盐焗口味注意钠摄入。"
   },
   {
     "id": "bamboo-rat",
@@ -28025,18 +31593,24 @@ const EXPANDED_FOODS_BULK = [
       "zs",
       "竹鼠"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，与蔬菜、主食同餐，高脂或高嘌呤品种注意份量与频率。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "荤食补形益气，宜清炖煮汤，肥腻控量。"
+      }
+    ],
     "safetyNote": "",
-    "usageScope": "reference-only"
+    "usageScope": "reference-only",
+    "eatingIntro": "竹鼠：华南地方物产参考条目，传统上偶有入馔记载，非日常食材。"
   },
   {
     "id": "field-mouse",
@@ -28079,18 +31653,24 @@ const EXPANDED_FOODS_BULK = [
       "ts",
       "田鼠"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "畏寒乏力、病后恢复、冬季进补时更适宜；实热上火时不宜。",
+    "pair": "偏温热，与蔬菜、主食同餐，高脂或高嘌呤品种注意份量与频率。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "荤食补形益气，宜清炖煮汤，肥腻控量。"
+      }
+    ],
     "safetyNote": "",
-    "usageScope": "reference-only"
+    "usageScope": "reference-only",
+    "eatingIntro": "田鼠：部分地方饮食中的参考条目，非日常食材。"
   },
   {
     "id": "youtiao",
@@ -28135,17 +31715,23 @@ const EXPANDED_FOODS_BULK = [
       "油炸鬼",
       "馃子"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏温热辛散，宜少量调味或佐餐，不宜长期大量单独食用。",
+    "timing": "寒冷季节或脾胃虚寒时少量参考；夏季实热、咽痛时不宜多用。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "粥饭为养生之本，宜温热、规律、适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "油条：常见油炸面食，偏温热油腻，早餐宜少量。"
   },
   {
     "id": "zongzi",
@@ -28189,17 +31775,23 @@ const EXPANDED_FOODS_BULK = [
       "粽子",
       "肉粽"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "粥饭为养生之本，宜温热、规律、适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "粽子：糯米包裹馅料的节令食品，偏温黏腻，宜热食、适量。"
   },
   {
     "id": "mooncake",
@@ -28243,17 +31835,23 @@ const EXPANDED_FOODS_BULK = [
       "mooncake",
       "月饼"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与主食、蛋白、蔬菜一起看整体饮食结构。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《千金要方·食治》",
+        "summary": "性偏温热，宜畏寒体虚者少量，实热忌多用。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "月饼：中秋常见糕点，偏甜偏油，宜分次少量。"
   },
   {
     "id": "tangyuan",
@@ -28299,17 +31897,23 @@ const EXPANDED_FOODS_BULK = [
       "汤圆",
       "元宵"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "粥饭为养生之本，宜温热、规律、适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "汤圆：糯米制圆子，多煮糖水食用，偏温黏。"
   },
   {
     "id": "shumai",
@@ -28354,17 +31958,23 @@ const EXPANDED_FOODS_BULK = [
       "烧麦",
       "烧卖"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "粥饭为养生之本，宜温热、规律、适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "烧麦：面皮包馅蒸制点心，南北做法不一，宜热食。"
   },
   {
     "id": "liangpi",
@@ -28375,7 +31985,26 @@ const EXPANDED_FOODS_BULK = [
     "aliases": [
       "陕西凉皮",
       "麻酱凉皮",
-      "凉皮（关中）"
+      "凉皮（关中）",
+      "湖南凉皮",
+      "湖北凉皮",
+      "江西凉皮",
+      "四川凉皮",
+      "重庆凉皮",
+      "云南凉皮",
+      "贵州凉皮",
+      "浙江凉皮",
+      "江苏凉皮",
+      "上海凉皮",
+      "安徽凉皮",
+      "山东凉皮",
+      "河南凉皮",
+      "河北凉皮",
+      "山西凉皮",
+      "甘肃凉皮",
+      "青海凉皮",
+      "宁夏凉皮",
+      "新疆凉皮"
     ],
     "effects": [
       "充饥"
@@ -28408,17 +32037,23 @@ const EXPANDED_FOODS_BULK = [
       "lp",
       "凉皮"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 可配姜葱、胡椒等温性配料平衡。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "粥饭为养生之本，宜温热、规律、适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "凉皮：小麦淀粉或面筋制凉拌主食，偏凉爽口。"
   },
   {
     "id": "spring-roll",
@@ -28461,17 +32096,23 @@ const EXPANDED_FOODS_BULK = [
       "spring roll",
       "春卷"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "粥饭为养生之本，宜温热、规律、适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "春卷：面皮裹馅炸或蒸的点心，宜热食、控油。"
   },
   {
     "id": "rice-roll",
@@ -28516,17 +32157,23 @@ const EXPANDED_FOODS_BULK = [
       "rice roll",
       "肠粉"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "粥饭为养生之本，宜温热、规律、适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "肠粉：米浆蒸制卷粉，粤菜早茶常见，宜热食。"
   },
   {
     "id": "wonton",
@@ -28574,17 +32221,23 @@ const EXPANDED_FOODS_BULK = [
       "云吞",
       "扁食"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "粥饭为养生之本，宜温热、规律、适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "馄饨：薄皮裹馅煮汤面食，南北叫法不同，宜热食。"
   },
   {
     "id": "glutinous-rice-cake",
@@ -28628,17 +32281,23 @@ const EXPANDED_FOODS_BULK = [
       "糯米糍",
       "糍粑"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《养老奉亲书》",
+        "summary": "粥饭为养生之本，宜温热、规律、适量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "糍粑：糯米捶打或蒸制的黏食，宜热食、少量。"
   },
   {
     "id": "qingtuan",
@@ -28683,17 +32342,23 @@ const EXPANDED_FOODS_BULK = [
       "艾糍",
       "清明果"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与主食、蛋白、蔬菜一起看整体饮食结构。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "性偏平和，日常饮食适量即可，仍须熟食为宜。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "青团：艾草或麦青汁和糯米粉制成的节令点心。"
   },
   {
     "id": "cashew",
@@ -28736,17 +32401,23 @@ const EXPANDED_FOODS_BULK = [
       "cashew",
       "腰果"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "少量佐餐或入粥羹，不宜炒货当零食大量食用。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "坚果种子润燥补益，少量即可，炒货不宜过量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "腰果：常见坚果炒货，偏平，宜少量。"
   },
   {
     "id": "pistachio",
@@ -28790,17 +32461,23 @@ const EXPANDED_FOODS_BULK = [
       "pistachio",
       "开心果"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，少量佐餐或入粥羹，不宜炒货当零食大量食用。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "坚果种子润燥补益，少量即可，炒货不宜过量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "开心果：常见坚果炒货，偏温香，宜少量。"
   },
   {
     "id": "pecan",
@@ -28844,17 +32521,23 @@ const EXPANDED_FOODS_BULK = [
       "pecan",
       "碧根果"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，少量佐餐或入粥羹，不宜炒货当零食大量食用。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "坚果种子润燥补益，少量即可，炒货不宜过量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "碧根果：进口坚果炒货，油脂含量高，宜少量。"
   },
   {
     "id": "macadamia",
@@ -28899,17 +32582,23 @@ const EXPANDED_FOODS_BULK = [
       "macadamia",
       "夏威夷果"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，少量佐餐或入粥羹，不宜炒货当零食大量食用。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "坚果种子润燥补益，少量即可，炒货不宜过量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "夏威夷果：奶油香坚果，油脂丰富，宜少量。"
   },
   {
     "id": "pine-nut-snack",
@@ -28954,17 +32643,23 @@ const EXPANDED_FOODS_BULK = [
       "松子",
       "松子仁"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，少量佐餐或入粥羹，不宜炒货当零食大量食用。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《本草纲目》",
+        "summary": "坚果种子润燥补益，少量即可，炒货不宜过量。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "松子：常见炒货坚果，偏温润，宜少量。"
   },
   {
     "id": "spicy-strip",
@@ -29006,16 +32701,22 @@ const EXPANDED_FOODS_BULK = [
       "lt",
       "辣条"
     ],
-    "alone": "",
-    "timing": "",
-    "pair": "",
+    "alone": "性偏温热辛散，宜少量调味或佐餐，不宜长期大量单独食用。",
+    "timing": "寒冷季节或脾胃虚寒时少量参考；夏季实热、咽痛时不宜多用。",
+    "pair": "偏温热，与主食、蛋白、蔬菜一起看整体饮食结构。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "qiTerms": [],
     "qiTermNote": "",
     "varietyNote": "",
     "faCategory": "",
     "faNote": "",
     "regulatoryNote": "",
-    "sources": [],
-    "safetyNote": ""
+    "sources": [
+      {
+        "title": "《饮膳正要》",
+        "summary": "性偏温热辛散，宜寒冬暖胃，上火咽痛忌多用。"
+      }
+    ],
+    "safetyNote": "",
+    "eatingIntro": "辣条：调味面筋零食，辛辣重口，宜偶尔少量。"
   }
 ];

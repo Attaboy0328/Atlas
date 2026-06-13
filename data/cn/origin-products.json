@@ -14907,8 +14907,8 @@
       "mara-杜阮凉瓜",
       "杜阮凉瓜"
     ],
-    "baseFoodId": null,
-    "natureSource": "catalog-name",
+    "baseFoodId": "bitter-gourd",
+    "natureSource": "catalog-id",
     "registryStatus": "historical"
   },
   {
@@ -18853,7 +18853,7 @@
       "富源魔芋"
     ],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "registryStatus": "historical"
   },
   {
@@ -28159,7 +28159,7 @@
       "会同魔芋"
     ],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "registryStatus": "historical"
   },
   {
@@ -30617,8 +30617,8 @@
       "note": "整理自公开登记公告或抓取缓存，以登记机关最新公告为准。"
     },
     "aliases": [],
-    "baseFoodId": "prod-lotus-seedpod--98",
-    "natureSource": "catalog-id",
+    "baseFoodId": null,
+    "natureSource": "catalog-name",
     "searchTerms": [
       "建莲"
     ]
@@ -38058,7 +38058,7 @@
       "岚皋魔芋"
     ],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "registryStatus": "historical"
   },
   {
@@ -76684,7 +76684,7 @@
       "溪洛渡白魔芋"
     ],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "registryStatus": "historical"
   },
   {
@@ -93044,7 +93044,7 @@
       "镇巴花魔芋"
     ],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "registryStatus": "historical"
   },
   {
@@ -188380,7 +188380,7 @@
     "id": "mara-安县魔芋",
     "name": "安县魔芋",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "平",
     "provinces": [
       "四川"
     ],
@@ -188404,7 +188404,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "安县魔芋"
     ]
@@ -192934,7 +192934,7 @@
     "id": "mara-大新酸梅",
     "name": "大新酸梅",
     "category": "水果",
-    "nature": "凉",
+    "nature": "温",
     "provinces": [
       "广西"
     ],
@@ -192958,7 +192958,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "大新酸梅"
     ]
@@ -219037,7 +219037,7 @@
     "id": "mara-桐梓魔芋",
     "name": "桐梓魔芋",
     "category": "蔬菜",
-    "nature": "凉",
+    "nature": "平",
     "provinces": [
       "贵州"
     ],
@@ -219061,7 +219061,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "桐梓魔芋"
     ]
@@ -233813,7 +233813,7 @@
     "id": "peop-大连-金葵-牌青芥辣粉-辣根粉-及青芥辣-辣根膏",
     "name": "大连 “金葵”牌青芥辣粉（辣根粉）及青芥辣（辣根膏）",
     "category": "谷物",
-    "nature": "平",
+    "nature": "温",
     "provinces": [
       "CN"
     ],
@@ -233832,7 +233832,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "大连 “金葵”牌青芥辣粉（辣根粉）及青芥辣（辣根膏）"
     ]
@@ -236770,7 +236770,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "金阳白魔芋"
     ]
@@ -237311,7 +237311,7 @@
     "id": "peop-辣椒酱",
     "name": "辣椒酱",
     "category": "滋补食材",
-    "nature": "温",
+    "nature": "热",
     "provinces": [
       "CN"
     ],
@@ -239103,7 +239103,7 @@
     "id": "peop-浓小丫辣椒酱",
     "name": "浓小丫辣椒酱",
     "category": "滋补食材",
-    "nature": "温",
+    "nature": "热",
     "provinces": [
       "CN"
     ],
@@ -239234,7 +239234,7 @@
     },
     "aliases": [],
     "baseFoodId": null,
-    "natureSource": "category-default",
+    "natureSource": "catalog-name",
     "searchTerms": [
       "普格县阿都夷农花魔芋"
     ]

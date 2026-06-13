@@ -1625,6 +1625,1506 @@
     "note": "薏米"
   },
   {
+    "alias": "cond-bbq-sauce-cn--379",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「河南叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--399",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「河北叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--419",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「山西叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--439",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「陕西叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--459",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「甘肃叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--479",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「青海叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--499",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「宁夏叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--519",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「新疆叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--539",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「西藏叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--559",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「内蒙古叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--579",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「辽宁叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--599",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「吉林叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--619",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「黑龙江叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--639",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「北京叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bbq-sauce-cn--659",
+    "canonical": "bbq-sauce-cn",
+    "note": "auto: provincial pool「天津叉烧酱」→ bbq-sauce-cn"
+  },
+  {
+    "alias": "cond-bean-paste--360",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「河南黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--380",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「河北黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--400",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「山西黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--420",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「陕西黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--440",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「甘肃黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--460",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「青海黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--480",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「宁夏黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--500",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「新疆黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--520",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「西藏黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--540",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「内蒙古黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--560",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「辽宁黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--580",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「吉林黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--600",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「黑龙江黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--620",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「北京黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-bean-paste--640",
+    "canonical": "bean-paste",
+    "note": "auto: provincial pool「天津黄豆酱」→ bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--362",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「河南辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--382",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「河北辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--402",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「山西辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--422",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「陕西辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--442",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「甘肃辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--462",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「青海辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--482",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「宁夏辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--502",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「新疆辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--522",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「西藏辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--542",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「内蒙古辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--562",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「辽宁辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--582",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「吉林辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--602",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「黑龙江辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--622",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「北京辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-bean-paste--642",
+    "canonical": "chili-bean-paste",
+    "note": "auto: provincial pool「天津辣豆瓣酱」→ chili-bean-paste"
+  },
+  {
+    "alias": "cond-chili-oil--366",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「河南辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--386",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「河北辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--406",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「山西辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--426",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「陕西辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--446",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「甘肃辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--466",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「青海辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--486",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「宁夏辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--506",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「新疆辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--526",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「西藏辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--546",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「内蒙古辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--566",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「辽宁辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--586",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「吉林辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--606",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「黑龙江辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--626",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「北京辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-chili-oil--646",
+    "canonical": "sichuan-chili-oil",
+    "note": "auto: provincial pool「天津辣椒油」→ sichuan-chili-oil"
+  },
+  {
+    "alias": "cond-curry-powder-cn--377",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「河南咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--397",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「河北咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--417",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「山西咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--437",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「陕西咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--457",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「甘肃咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--477",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「青海咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--497",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「宁夏咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--517",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「新疆咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--537",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「西藏咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--557",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「内蒙古咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--577",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「辽宁咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--597",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「吉林咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--617",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「黑龙江咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--637",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「北京咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-curry-powder-cn--657",
+    "canonical": "curry-powder-cn",
+    "note": "auto: provincial pool「天津咖喱粉」→ curry-powder-cn"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--364",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「河南玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--384",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「河北玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--404",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「山西玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--424",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「陕西玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--444",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「甘肃玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--464",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「青海玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--484",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「宁夏玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--504",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「新疆玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--524",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「西藏玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--544",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「内蒙古玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--564",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「辽宁玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--584",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「吉林玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--604",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「黑龙江玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--624",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「北京玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-rose--644",
+    "canonical": "fermented-tofu-rose",
+    "note": "auto: provincial pool「天津玫瑰腐乳」→ fermented-tofu-rose"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--363",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「河南白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--383",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「河北白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--403",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「山西白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--423",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「陕西白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--443",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「甘肃白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--463",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「青海白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--483",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「宁夏白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--503",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「新疆白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--523",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「西藏白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--543",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「内蒙古白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--563",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「辽宁白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--583",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「吉林白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--603",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「黑龙江白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--623",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「北京白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fermented-tofu-white--643",
+    "canonical": "white-fermented-bean-curd",
+    "note": "auto: provincial pool「天津白腐乳」→ white-fermented-bean-curd"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--370",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「河南鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--390",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「河北鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--410",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「山西鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--430",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「陕西鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--450",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「甘肃鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--470",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「青海鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--490",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「宁夏鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--510",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「新疆鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--530",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「西藏鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--550",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「内蒙古鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--570",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「辽宁鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--590",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「吉林鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--610",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「黑龙江鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--630",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「北京鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-fish-sauce-gd--650",
+    "canonical": "fish-sauce",
+    "note": "auto: provincial pool「天津鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "cond-five-spice-powder--376",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「河南五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--396",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「河北五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--416",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「山西五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--436",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「陕西五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--456",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「甘肃五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--476",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「青海五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--496",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「宁夏五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--516",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「新疆五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--536",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「西藏五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--556",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「内蒙古五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--576",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「辽宁五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--596",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「吉林五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--616",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「黑龙江五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--636",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「北京五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-five-spice-powder--656",
+    "canonical": "five-spice-powder",
+    "note": "auto: provincial pool「天津五香粉」→ five-spice-powder"
+  },
+  {
+    "alias": "cond-master-stock--375",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「河南卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--395",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「河北卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--415",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「山西卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--435",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「陕西卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--455",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「甘肃卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--475",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「青海卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--495",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「宁夏卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--515",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「新疆卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--535",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「西藏卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--555",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「内蒙古卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--575",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「辽宁卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--595",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「吉林卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--615",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「黑龙江卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--635",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「北京卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-master-stock--655",
+    "canonical": "master-stock",
+    "note": "auto: provincial pool「天津卤水汁」→ master-stock"
+  },
+  {
+    "alias": "cond-oyster-sauce--368",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「河南蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--388",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「河北蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--408",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「山西蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--428",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「陕西蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--448",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「甘肃蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--468",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「青海蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--488",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「宁夏蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--508",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「新疆蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--528",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「西藏蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--548",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「内蒙古蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--568",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「辽宁蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--588",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「吉林蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--608",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「黑龙江蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--628",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「北京蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-oyster-sauce--648",
+    "canonical": "oyster-sauce",
+    "note": "auto: provincial pool「天津蚝油」→ oyster-sauce"
+  },
+  {
+    "alias": "cond-preserved-plum--374",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「河南咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--394",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「河北咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--414",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「山西咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--434",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「陕西咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--454",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「甘肃咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--474",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「青海咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--494",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「宁夏咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--514",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「新疆咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--534",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「西藏咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--554",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「内蒙古咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--574",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「辽宁咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--594",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「吉林咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--614",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「黑龙江咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--634",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「北京咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-preserved-plum--654",
+    "canonical": "preserved-plum",
+    "note": "auto: provincial pool「天津咸酸梅」→ preserved-plum"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--371",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「河南料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--391",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「河北料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--411",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「山西料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--431",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「陕西料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--451",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「甘肃料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--471",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「青海料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--491",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「宁夏料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--511",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「新疆料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--531",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「西藏料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--551",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「内蒙古料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--571",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「辽宁料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--591",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「吉林料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--611",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「黑龙江料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--631",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「北京料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rice-wine-cooking--651",
+    "canonical": "cooking-wine",
+    "note": "auto: provincial pool「天津料酒」→ cooking-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--373",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「河南玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--393",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「河北玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--413",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「山西玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--433",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「陕西玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--453",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「甘肃玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--473",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「青海玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--493",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「宁夏玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--513",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「新疆玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--533",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「西藏玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--553",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「内蒙古玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--573",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「辽宁玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--593",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「吉林玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--613",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「黑龙江玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--633",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「北京玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-rose-fermented-wine--653",
+    "canonical": "rose-fermented-wine",
+    "note": "auto: provincial pool「天津玫瑰露酒」→ rose-fermented-wine"
+  },
+  {
+    "alias": "cond-satay-sauce--378",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「河南沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--398",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「河北沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--418",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「山西沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--438",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「陕西沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--458",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「甘肃沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--478",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「青海沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--498",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「宁夏沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--518",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「新疆沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--538",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「西藏沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--558",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「内蒙古沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--578",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「辽宁沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--598",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「吉林沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--618",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「黑龙江沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--638",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「北京沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-satay-sauce--658",
+    "canonical": "c14-fj-shacha",
+    "note": "auto: provincial pool「天津沙茶酱」→ c14-fj-shacha"
+  },
+  {
+    "alias": "cond-sesame-oil--365",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「河南芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--385",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「河北芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--405",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「山西芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--425",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「陕西芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--445",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「甘肃芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--465",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「青海芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--485",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「宁夏芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--505",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「新疆芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--525",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「西藏芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--545",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「内蒙古芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--565",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「辽宁芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--585",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「吉林芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--605",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「黑龙江芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--625",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「北京芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-sesame-oil--645",
+    "canonical": "sesame-oil",
+    "note": "auto: provincial pool「天津芝麻油」→ sesame-oil"
+  },
+  {
+    "alias": "cond-shrimp-sauce--369",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「河南虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--389",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「河北虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--409",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「山西虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--429",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「陕西虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--449",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「甘肃虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--469",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「青海虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--489",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「宁夏虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--509",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「新疆虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--529",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「西藏虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--549",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「内蒙古虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--569",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「辽宁虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--589",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「吉林虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--609",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「黑龙江虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--629",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「北京虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-shrimp-sauce--649",
+    "canonical": "shrimp-paste",
+    "note": "auto: provincial pool「天津虾酱」→ shrimp-paste"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--367",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「河南花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--387",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「河北花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--407",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「山西花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--427",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「陕西花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--447",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「甘肃花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--467",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「青海花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--487",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「宁夏花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--507",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「新疆花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--527",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「西藏花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--547",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「内蒙古花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--567",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「辽宁花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--587",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「吉林花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--607",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「黑龙江花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--627",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「北京花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sichuan-pepper-oil--647",
+    "canonical": "sichuan-pepper-oil",
+    "note": "auto: provincial pool「天津花椒油」→ sichuan-pepper-oil"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--361",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「河南甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--381",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「河北甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--401",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「山西甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--421",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「陕西甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--441",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「甘肃甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--461",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「青海甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--481",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「宁夏甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--501",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「新疆甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--521",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「西藏甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--541",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「内蒙古甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--561",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「辽宁甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--581",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「吉林甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--601",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「黑龙江甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--621",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「北京甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-sweet-bean-sauce--641",
+    "canonical": "sweet-bean-sauce",
+    "note": "auto: provincial pool「天津甜面酱」→ sweet-bean-sauce"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--372",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「河南黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--392",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「河北黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--412",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「山西黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--432",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「陕西黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--452",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「甘肃黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--472",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「青海黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--492",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「宁夏黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--512",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「新疆黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--532",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「西藏黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--552",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「内蒙古黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--572",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「辽宁黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--592",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「吉林黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--612",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「黑龙江黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--632",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「北京黄酒」→ huangjiu"
+  },
+  {
+    "alias": "cond-yellow-rice-wine--652",
+    "canonical": "huangjiu",
+    "note": "auto: provincial pool「天津黄酒」→ huangjiu"
+  },
+  {
     "alias": "cordyceps-flower-gd",
     "canonical": "cordyceps-flower",
     "note": "auto: duplicate name「虫草花」→ cordyceps-flower"
@@ -2990,6 +4490,906 @@
     "note": "auto: duplicate name「榨菜」→ c13-sc-pickled-mustard"
   },
   {
+    "alias": "prod-amaranth--484",
+    "canonical": "amaranth-greens",
+    "note": "auto: provincial pool「宁夏苋菜」→ amaranth-greens"
+  },
+  {
+    "alias": "prod-amaranth--504",
+    "canonical": "amaranth-greens",
+    "note": "auto: provincial pool「新疆苋菜」→ amaranth-greens"
+  },
+  {
+    "alias": "prod-amaranth--524",
+    "canonical": "amaranth-greens",
+    "note": "auto: provincial pool「西藏苋菜」→ amaranth-greens"
+  },
+  {
+    "alias": "prod-amaranth--544",
+    "canonical": "amaranth-greens",
+    "note": "auto: provincial pool「内蒙古苋菜」→ amaranth-greens"
+  },
+  {
+    "alias": "prod-amaranth--564",
+    "canonical": "amaranth-greens",
+    "note": "auto: provincial pool「辽宁苋菜」→ amaranth-greens"
+  },
+  {
+    "alias": "prod-amaranth--584",
+    "canonical": "amaranth-greens",
+    "note": "auto: provincial pool「吉林苋菜」→ amaranth-greens"
+  },
+  {
+    "alias": "prod-amaranth--604",
+    "canonical": "amaranth-greens",
+    "note": "auto: provincial pool「黑龙江苋菜」→ amaranth-greens"
+  },
+  {
+    "alias": "prod-amaranth--624",
+    "canonical": "amaranth-greens",
+    "note": "auto: provincial pool「北京苋菜」→ amaranth-greens"
+  },
+  {
+    "alias": "prod-amaranth--644",
+    "canonical": "amaranth-greens",
+    "note": "auto: provincial pool「天津苋菜」→ amaranth-greens"
+  },
+  {
+    "alias": "prod-bitter-gourd--490",
+    "canonical": "bitter-gourd",
+    "note": "auto: provincial pool「宁夏凉瓜」→ bitter-gourd"
+  },
+  {
+    "alias": "prod-bitter-gourd--510",
+    "canonical": "bitter-gourd",
+    "note": "auto: provincial pool「新疆凉瓜」→ bitter-gourd"
+  },
+  {
+    "alias": "prod-bitter-gourd--530",
+    "canonical": "bitter-gourd",
+    "note": "auto: provincial pool「西藏凉瓜」→ bitter-gourd"
+  },
+  {
+    "alias": "prod-bitter-gourd--550",
+    "canonical": "bitter-gourd",
+    "note": "auto: provincial pool「内蒙古凉瓜」→ bitter-gourd"
+  },
+  {
+    "alias": "prod-bitter-gourd--570",
+    "canonical": "bitter-gourd",
+    "note": "auto: provincial pool「辽宁凉瓜」→ bitter-gourd"
+  },
+  {
+    "alias": "prod-bitter-gourd--590",
+    "canonical": "bitter-gourd",
+    "note": "auto: provincial pool「吉林凉瓜」→ bitter-gourd"
+  },
+  {
+    "alias": "prod-bitter-gourd--610",
+    "canonical": "bitter-gourd",
+    "note": "auto: provincial pool「黑龙江凉瓜」→ bitter-gourd"
+  },
+  {
+    "alias": "prod-bitter-gourd--630",
+    "canonical": "bitter-gourd",
+    "note": "auto: provincial pool「北京凉瓜」→ bitter-gourd"
+  },
+  {
+    "alias": "prod-bitter-gourd--650",
+    "canonical": "bitter-gourd",
+    "note": "auto: provincial pool「天津凉瓜」→ bitter-gourd"
+  },
+  {
+    "alias": "prod-bok-choy--480",
+    "canonical": "bok-choy",
+    "note": "auto: provincial pool「宁夏小白菜」→ bok-choy"
+  },
+  {
+    "alias": "prod-bok-choy--500",
+    "canonical": "bok-choy",
+    "note": "auto: provincial pool「新疆小白菜」→ bok-choy"
+  },
+  {
+    "alias": "prod-bok-choy--520",
+    "canonical": "bok-choy",
+    "note": "auto: provincial pool「西藏小白菜」→ bok-choy"
+  },
+  {
+    "alias": "prod-bok-choy--540",
+    "canonical": "bok-choy",
+    "note": "auto: provincial pool「内蒙古小白菜」→ bok-choy"
+  },
+  {
+    "alias": "prod-bok-choy--560",
+    "canonical": "bok-choy",
+    "note": "auto: provincial pool「辽宁小白菜」→ bok-choy"
+  },
+  {
+    "alias": "prod-bok-choy--580",
+    "canonical": "bok-choy",
+    "note": "auto: provincial pool「吉林小白菜」→ bok-choy"
+  },
+  {
+    "alias": "prod-bok-choy--600",
+    "canonical": "bok-choy",
+    "note": "auto: provincial pool「黑龙江小白菜」→ bok-choy"
+  },
+  {
+    "alias": "prod-bok-choy--620",
+    "canonical": "bok-choy",
+    "note": "auto: provincial pool「北京小白菜」→ bok-choy"
+  },
+  {
+    "alias": "prod-bok-choy--640",
+    "canonical": "bok-choy",
+    "note": "auto: provincial pool「天津小白菜」→ bok-choy"
+  },
+  {
+    "alias": "prod-chayote--493",
+    "canonical": "chayote",
+    "note": "auto: provincial pool「宁夏佛手瓜」→ chayote"
+  },
+  {
+    "alias": "prod-chayote--513",
+    "canonical": "chayote",
+    "note": "auto: provincial pool「新疆佛手瓜」→ chayote"
+  },
+  {
+    "alias": "prod-chayote--533",
+    "canonical": "chayote",
+    "note": "auto: provincial pool「西藏佛手瓜」→ chayote"
+  },
+  {
+    "alias": "prod-chayote--553",
+    "canonical": "chayote",
+    "note": "auto: provincial pool「内蒙古佛手瓜」→ chayote"
+  },
+  {
+    "alias": "prod-chayote--573",
+    "canonical": "chayote",
+    "note": "auto: provincial pool「辽宁佛手瓜」→ chayote"
+  },
+  {
+    "alias": "prod-chayote--593",
+    "canonical": "chayote",
+    "note": "auto: provincial pool「吉林佛手瓜」→ chayote"
+  },
+  {
+    "alias": "prod-chayote--613",
+    "canonical": "chayote",
+    "note": "auto: provincial pool「黑龙江佛手瓜」→ chayote"
+  },
+  {
+    "alias": "prod-chayote--633",
+    "canonical": "chayote",
+    "note": "auto: provincial pool「北京佛手瓜」→ chayote"
+  },
+  {
+    "alias": "prod-chayote--653",
+    "canonical": "chayote",
+    "note": "auto: provincial pool「天津佛手瓜」→ chayote"
+  },
+  {
+    "alias": "prod-chinese-cabbage--482",
+    "canonical": "chinese-cabbage",
+    "note": "auto: provincial pool「宁夏大白菜」→ chinese-cabbage"
+  },
+  {
+    "alias": "prod-chinese-cabbage--502",
+    "canonical": "chinese-cabbage",
+    "note": "auto: provincial pool「新疆大白菜」→ chinese-cabbage"
+  },
+  {
+    "alias": "prod-chinese-cabbage--522",
+    "canonical": "chinese-cabbage",
+    "note": "auto: provincial pool「西藏大白菜」→ chinese-cabbage"
+  },
+  {
+    "alias": "prod-chinese-cabbage--542",
+    "canonical": "chinese-cabbage",
+    "note": "auto: provincial pool「内蒙古大白菜」→ chinese-cabbage"
+  },
+  {
+    "alias": "prod-chinese-cabbage--562",
+    "canonical": "chinese-cabbage",
+    "note": "auto: provincial pool「辽宁大白菜」→ chinese-cabbage"
+  },
+  {
+    "alias": "prod-chinese-cabbage--582",
+    "canonical": "chinese-cabbage",
+    "note": "auto: provincial pool「吉林大白菜」→ chinese-cabbage"
+  },
+  {
+    "alias": "prod-chinese-cabbage--602",
+    "canonical": "chinese-cabbage",
+    "note": "auto: provincial pool「黑龙江大白菜」→ chinese-cabbage"
+  },
+  {
+    "alias": "prod-chinese-cabbage--622",
+    "canonical": "chinese-cabbage",
+    "note": "auto: provincial pool「北京大白菜」→ chinese-cabbage"
+  },
+  {
+    "alias": "prod-chinese-cabbage--642",
+    "canonical": "chinese-cabbage",
+    "note": "auto: provincial pool「天津大白菜」→ chinese-cabbage"
+  },
+  {
+    "alias": "prod-chive-flower--488",
+    "canonical": "chive-flower",
+    "note": "auto: provincial pool「宁夏韭菜花」→ chive-flower"
+  },
+  {
+    "alias": "prod-chive-flower--508",
+    "canonical": "chive-flower",
+    "note": "auto: provincial pool「新疆韭菜花」→ chive-flower"
+  },
+  {
+    "alias": "prod-chive-flower--528",
+    "canonical": "chive-flower",
+    "note": "auto: provincial pool「西藏韭菜花」→ chive-flower"
+  },
+  {
+    "alias": "prod-chive-flower--548",
+    "canonical": "chive-flower",
+    "note": "auto: provincial pool「内蒙古韭菜花」→ chive-flower"
+  },
+  {
+    "alias": "prod-chive-flower--568",
+    "canonical": "chive-flower",
+    "note": "auto: provincial pool「辽宁韭菜花」→ chive-flower"
+  },
+  {
+    "alias": "prod-chive-flower--588",
+    "canonical": "chive-flower",
+    "note": "auto: provincial pool「吉林韭菜花」→ chive-flower"
+  },
+  {
+    "alias": "prod-chive-flower--608",
+    "canonical": "chive-flower",
+    "note": "auto: provincial pool「黑龙江韭菜花」→ chive-flower"
+  },
+  {
+    "alias": "prod-chive-flower--628",
+    "canonical": "chive-flower",
+    "note": "auto: provincial pool「北京韭菜花」→ chive-flower"
+  },
+  {
+    "alias": "prod-chive-flower--648",
+    "canonical": "chive-flower",
+    "note": "auto: provincial pool「天津韭菜花」→ chive-flower"
+  },
+  {
+    "alias": "prod-garlic-chive--487",
+    "canonical": "garlic-chive",
+    "note": "auto: provincial pool「宁夏韭菜」→ garlic-chive"
+  },
+  {
+    "alias": "prod-garlic-chive--507",
+    "canonical": "garlic-chive",
+    "note": "auto: provincial pool「新疆韭菜」→ garlic-chive"
+  },
+  {
+    "alias": "prod-garlic-chive--527",
+    "canonical": "garlic-chive",
+    "note": "auto: provincial pool「西藏韭菜」→ garlic-chive"
+  },
+  {
+    "alias": "prod-garlic-chive--547",
+    "canonical": "garlic-chive",
+    "note": "auto: provincial pool「内蒙古韭菜」→ garlic-chive"
+  },
+  {
+    "alias": "prod-garlic-chive--567",
+    "canonical": "garlic-chive",
+    "note": "auto: provincial pool「辽宁韭菜」→ garlic-chive"
+  },
+  {
+    "alias": "prod-garlic-chive--587",
+    "canonical": "garlic-chive",
+    "note": "auto: provincial pool「吉林韭菜」→ garlic-chive"
+  },
+  {
+    "alias": "prod-garlic-chive--607",
+    "canonical": "garlic-chive",
+    "note": "auto: provincial pool「黑龙江韭菜」→ garlic-chive"
+  },
+  {
+    "alias": "prod-garlic-chive--627",
+    "canonical": "garlic-chive",
+    "note": "auto: provincial pool「北京韭菜」→ garlic-chive"
+  },
+  {
+    "alias": "prod-garlic-chive--647",
+    "canonical": "garlic-chive",
+    "note": "auto: provincial pool「天津韭菜」→ garlic-chive"
+  },
+  {
+    "alias": "prod-lotus-seedpod--498",
+    "canonical": "lotus-seedpod",
+    "note": "auto: provincial pool「宁夏莲蓬」→ lotus-seedpod"
+  },
+  {
+    "alias": "prod-lotus-seedpod--518",
+    "canonical": "lotus-seedpod",
+    "note": "auto: provincial pool「新疆莲蓬」→ lotus-seedpod"
+  },
+  {
+    "alias": "prod-lotus-seedpod--538",
+    "canonical": "lotus-seedpod",
+    "note": "auto: provincial pool「西藏莲蓬」→ lotus-seedpod"
+  },
+  {
+    "alias": "prod-lotus-seedpod--558",
+    "canonical": "lotus-seedpod",
+    "note": "auto: provincial pool「内蒙古莲蓬」→ lotus-seedpod"
+  },
+  {
+    "alias": "prod-lotus-seedpod--578",
+    "canonical": "lotus-seedpod",
+    "note": "auto: provincial pool「辽宁莲蓬」→ lotus-seedpod"
+  },
+  {
+    "alias": "prod-lotus-seedpod--598",
+    "canonical": "lotus-seedpod",
+    "note": "auto: provincial pool「吉林莲蓬」→ lotus-seedpod"
+  },
+  {
+    "alias": "prod-lotus-seedpod--618",
+    "canonical": "lotus-seedpod",
+    "note": "auto: provincial pool「黑龙江莲蓬」→ lotus-seedpod"
+  },
+  {
+    "alias": "prod-lotus-seedpod--638",
+    "canonical": "lotus-seedpod",
+    "note": "auto: provincial pool「北京莲蓬」→ lotus-seedpod"
+  },
+  {
+    "alias": "prod-lotus-seedpod--658",
+    "canonical": "lotus-seedpod",
+    "note": "auto: provincial pool「天津莲蓬」→ lotus-seedpod"
+  },
+  {
+    "alias": "prod-luffa--491",
+    "canonical": "luffa",
+    "note": "auto: provincial pool「宁夏丝瓜」→ luffa"
+  },
+  {
+    "alias": "prod-luffa--511",
+    "canonical": "luffa",
+    "note": "auto: provincial pool「新疆丝瓜」→ luffa"
+  },
+  {
+    "alias": "prod-luffa--531",
+    "canonical": "luffa",
+    "note": "auto: provincial pool「西藏丝瓜」→ luffa"
+  },
+  {
+    "alias": "prod-luffa--551",
+    "canonical": "luffa",
+    "note": "auto: provincial pool「内蒙古丝瓜」→ luffa"
+  },
+  {
+    "alias": "prod-luffa--571",
+    "canonical": "luffa",
+    "note": "auto: provincial pool「辽宁丝瓜」→ luffa"
+  },
+  {
+    "alias": "prod-luffa--591",
+    "canonical": "luffa",
+    "note": "auto: provincial pool「吉林丝瓜」→ luffa"
+  },
+  {
+    "alias": "prod-luffa--611",
+    "canonical": "luffa",
+    "note": "auto: provincial pool「黑龙江丝瓜」→ luffa"
+  },
+  {
+    "alias": "prod-luffa--631",
+    "canonical": "luffa",
+    "note": "auto: provincial pool「北京丝瓜」→ luffa"
+  },
+  {
+    "alias": "prod-luffa--651",
+    "canonical": "luffa",
+    "note": "auto: provincial pool「天津丝瓜」→ luffa"
+  },
+  {
+    "alias": "prod-malabar-spinach--485",
+    "canonical": "malabar-spinach",
+    "note": "auto: provincial pool「宁夏木耳菜」→ malabar-spinach"
+  },
+  {
+    "alias": "prod-malabar-spinach--505",
+    "canonical": "malabar-spinach",
+    "note": "auto: provincial pool「新疆木耳菜」→ malabar-spinach"
+  },
+  {
+    "alias": "prod-malabar-spinach--525",
+    "canonical": "malabar-spinach",
+    "note": "auto: provincial pool「西藏木耳菜」→ malabar-spinach"
+  },
+  {
+    "alias": "prod-malabar-spinach--545",
+    "canonical": "malabar-spinach",
+    "note": "auto: provincial pool「内蒙古木耳菜」→ malabar-spinach"
+  },
+  {
+    "alias": "prod-malabar-spinach--565",
+    "canonical": "malabar-spinach",
+    "note": "auto: provincial pool「辽宁木耳菜」→ malabar-spinach"
+  },
+  {
+    "alias": "prod-malabar-spinach--585",
+    "canonical": "malabar-spinach",
+    "note": "auto: provincial pool「吉林木耳菜」→ malabar-spinach"
+  },
+  {
+    "alias": "prod-malabar-spinach--605",
+    "canonical": "malabar-spinach",
+    "note": "auto: provincial pool「黑龙江木耳菜」→ malabar-spinach"
+  },
+  {
+    "alias": "prod-malabar-spinach--625",
+    "canonical": "malabar-spinach",
+    "note": "auto: provincial pool「北京木耳菜」→ malabar-spinach"
+  },
+  {
+    "alias": "prod-malabar-spinach--645",
+    "canonical": "malabar-spinach",
+    "note": "auto: provincial pool「天津木耳菜」→ malabar-spinach"
+  },
+  {
+    "alias": "prod-mustard-greens--483",
+    "canonical": "mustard-greens",
+    "note": "auto: provincial pool「宁夏芥菜」→ mustard-greens"
+  },
+  {
+    "alias": "prod-mustard-greens--503",
+    "canonical": "mustard-greens",
+    "note": "auto: provincial pool「新疆芥菜」→ mustard-greens"
+  },
+  {
+    "alias": "prod-mustard-greens--523",
+    "canonical": "mustard-greens",
+    "note": "auto: provincial pool「西藏芥菜」→ mustard-greens"
+  },
+  {
+    "alias": "prod-mustard-greens--543",
+    "canonical": "mustard-greens",
+    "note": "auto: provincial pool「内蒙古芥菜」→ mustard-greens"
+  },
+  {
+    "alias": "prod-mustard-greens--563",
+    "canonical": "mustard-greens",
+    "note": "auto: provincial pool「辽宁芥菜」→ mustard-greens"
+  },
+  {
+    "alias": "prod-mustard-greens--583",
+    "canonical": "mustard-greens",
+    "note": "auto: provincial pool「吉林芥菜」→ mustard-greens"
+  },
+  {
+    "alias": "prod-mustard-greens--603",
+    "canonical": "mustard-greens",
+    "note": "auto: provincial pool「黑龙江芥菜」→ mustard-greens"
+  },
+  {
+    "alias": "prod-mustard-greens--623",
+    "canonical": "mustard-greens",
+    "note": "auto: provincial pool「北京芥菜」→ mustard-greens"
+  },
+  {
+    "alias": "prod-mustard-greens--643",
+    "canonical": "mustard-greens",
+    "note": "auto: provincial pool「天津芥菜」→ mustard-greens"
+  },
+  {
+    "alias": "prod-okra--494",
+    "canonical": "okra",
+    "note": "auto: provincial pool「宁夏秋葵」→ okra"
+  },
+  {
+    "alias": "prod-okra--514",
+    "canonical": "okra",
+    "note": "auto: provincial pool「新疆秋葵」→ okra"
+  },
+  {
+    "alias": "prod-okra--534",
+    "canonical": "okra",
+    "note": "auto: provincial pool「西藏秋葵」→ okra"
+  },
+  {
+    "alias": "prod-okra--554",
+    "canonical": "okra",
+    "note": "auto: provincial pool「内蒙古秋葵」→ okra"
+  },
+  {
+    "alias": "prod-okra--574",
+    "canonical": "okra",
+    "note": "auto: provincial pool「辽宁秋葵」→ okra"
+  },
+  {
+    "alias": "prod-okra--594",
+    "canonical": "okra",
+    "note": "auto: provincial pool「吉林秋葵」→ okra"
+  },
+  {
+    "alias": "prod-okra--614",
+    "canonical": "okra",
+    "note": "auto: provincial pool「黑龙江秋葵」→ okra"
+  },
+  {
+    "alias": "prod-okra--634",
+    "canonical": "okra",
+    "note": "auto: provincial pool「北京秋葵」→ okra"
+  },
+  {
+    "alias": "prod-okra--654",
+    "canonical": "okra",
+    "note": "auto: provincial pool「天津秋葵」→ okra"
+  },
+  {
+    "alias": "prod-pomelo--499",
+    "canonical": "pomelo",
+    "note": "auto: provincial pool「宁夏柚子」→ pomelo"
+  },
+  {
+    "alias": "prod-pomelo--519",
+    "canonical": "pomelo",
+    "note": "auto: provincial pool「新疆柚子」→ pomelo"
+  },
+  {
+    "alias": "prod-pomelo--539",
+    "canonical": "pomelo",
+    "note": "auto: provincial pool「西藏柚子」→ pomelo"
+  },
+  {
+    "alias": "prod-pomelo--559",
+    "canonical": "pomelo",
+    "note": "auto: provincial pool「内蒙古柚子」→ pomelo"
+  },
+  {
+    "alias": "prod-pomelo--579",
+    "canonical": "pomelo",
+    "note": "auto: provincial pool「辽宁柚子」→ pomelo"
+  },
+  {
+    "alias": "prod-pomelo--599",
+    "canonical": "pomelo",
+    "note": "auto: provincial pool「吉林柚子」→ pomelo"
+  },
+  {
+    "alias": "prod-pomelo--619",
+    "canonical": "pomelo",
+    "note": "auto: provincial pool「黑龙江柚子」→ pomelo"
+  },
+  {
+    "alias": "prod-pomelo--639",
+    "canonical": "pomelo",
+    "note": "auto: provincial pool「北京柚子」→ pomelo"
+  },
+  {
+    "alias": "prod-pomelo--659",
+    "canonical": "pomelo",
+    "note": "auto: provincial pool「天津柚子」→ pomelo"
+  },
+  {
+    "alias": "prod-shanghai-greens--481",
+    "canonical": "shanghai-greens",
+    "note": "auto: provincial pool「宁夏上海青」→ shanghai-greens"
+  },
+  {
+    "alias": "prod-shanghai-greens--501",
+    "canonical": "shanghai-greens",
+    "note": "auto: provincial pool「新疆上海青」→ shanghai-greens"
+  },
+  {
+    "alias": "prod-shanghai-greens--521",
+    "canonical": "shanghai-greens",
+    "note": "auto: provincial pool「西藏上海青」→ shanghai-greens"
+  },
+  {
+    "alias": "prod-shanghai-greens--541",
+    "canonical": "shanghai-greens",
+    "note": "auto: provincial pool「内蒙古上海青」→ shanghai-greens"
+  },
+  {
+    "alias": "prod-shanghai-greens--561",
+    "canonical": "shanghai-greens",
+    "note": "auto: provincial pool「辽宁上海青」→ shanghai-greens"
+  },
+  {
+    "alias": "prod-shanghai-greens--581",
+    "canonical": "shanghai-greens",
+    "note": "auto: provincial pool「吉林上海青」→ shanghai-greens"
+  },
+  {
+    "alias": "prod-shanghai-greens--601",
+    "canonical": "shanghai-greens",
+    "note": "auto: provincial pool「黑龙江上海青」→ shanghai-greens"
+  },
+  {
+    "alias": "prod-shanghai-greens--621",
+    "canonical": "shanghai-greens",
+    "note": "auto: provincial pool「北京上海青」→ shanghai-greens"
+  },
+  {
+    "alias": "prod-shanghai-greens--641",
+    "canonical": "shanghai-greens",
+    "note": "auto: provincial pool「天津上海青」→ shanghai-greens"
+  },
+  {
+    "alias": "prod-snake-gourd--492",
+    "canonical": "snake-gourd",
+    "note": "auto: provincial pool「宁夏蛇瓜」→ snake-gourd"
+  },
+  {
+    "alias": "prod-snake-gourd--512",
+    "canonical": "snake-gourd",
+    "note": "auto: provincial pool「新疆蛇瓜」→ snake-gourd"
+  },
+  {
+    "alias": "prod-snake-gourd--532",
+    "canonical": "snake-gourd",
+    "note": "auto: provincial pool「西藏蛇瓜」→ snake-gourd"
+  },
+  {
+    "alias": "prod-snake-gourd--552",
+    "canonical": "snake-gourd",
+    "note": "auto: provincial pool「内蒙古蛇瓜」→ snake-gourd"
+  },
+  {
+    "alias": "prod-snake-gourd--572",
+    "canonical": "snake-gourd",
+    "note": "auto: provincial pool「辽宁蛇瓜」→ snake-gourd"
+  },
+  {
+    "alias": "prod-snake-gourd--592",
+    "canonical": "snake-gourd",
+    "note": "auto: provincial pool「吉林蛇瓜」→ snake-gourd"
+  },
+  {
+    "alias": "prod-snake-gourd--612",
+    "canonical": "snake-gourd",
+    "note": "auto: provincial pool「黑龙江蛇瓜」→ snake-gourd"
+  },
+  {
+    "alias": "prod-snake-gourd--632",
+    "canonical": "snake-gourd",
+    "note": "auto: provincial pool「北京蛇瓜」→ snake-gourd"
+  },
+  {
+    "alias": "prod-snake-gourd--652",
+    "canonical": "snake-gourd",
+    "note": "auto: provincial pool「天津蛇瓜」→ snake-gourd"
+  },
+  {
+    "alias": "prod-snow-pea--496",
+    "canonical": "snow-pea",
+    "note": "auto: provincial pool「宁夏荷兰豆」→ snow-pea"
+  },
+  {
+    "alias": "prod-snow-pea--516",
+    "canonical": "snow-pea",
+    "note": "auto: provincial pool「新疆荷兰豆」→ snow-pea"
+  },
+  {
+    "alias": "prod-snow-pea--536",
+    "canonical": "snow-pea",
+    "note": "auto: provincial pool「西藏荷兰豆」→ snow-pea"
+  },
+  {
+    "alias": "prod-snow-pea--556",
+    "canonical": "snow-pea",
+    "note": "auto: provincial pool「内蒙古荷兰豆」→ snow-pea"
+  },
+  {
+    "alias": "prod-snow-pea--576",
+    "canonical": "snow-pea",
+    "note": "auto: provincial pool「辽宁荷兰豆」→ snow-pea"
+  },
+  {
+    "alias": "prod-snow-pea--596",
+    "canonical": "snow-pea",
+    "note": "auto: provincial pool「吉林荷兰豆」→ snow-pea"
+  },
+  {
+    "alias": "prod-snow-pea--616",
+    "canonical": "snow-pea",
+    "note": "auto: provincial pool「黑龙江荷兰豆」→ snow-pea"
+  },
+  {
+    "alias": "prod-snow-pea--636",
+    "canonical": "snow-pea",
+    "note": "auto: provincial pool「北京荷兰豆」→ snow-pea"
+  },
+  {
+    "alias": "prod-snow-pea--656",
+    "canonical": "snow-pea",
+    "note": "auto: provincial pool「天津荷兰豆」→ snow-pea"
+  },
+  {
+    "alias": "prod-sugar-snap--497",
+    "canonical": "sugar-snap",
+    "note": "auto: provincial pool「宁夏甜豆」→ sugar-snap"
+  },
+  {
+    "alias": "prod-sugar-snap--517",
+    "canonical": "sugar-snap",
+    "note": "auto: provincial pool「新疆甜豆」→ sugar-snap"
+  },
+  {
+    "alias": "prod-sugar-snap--537",
+    "canonical": "sugar-snap",
+    "note": "auto: provincial pool「西藏甜豆」→ sugar-snap"
+  },
+  {
+    "alias": "prod-sugar-snap--557",
+    "canonical": "sugar-snap",
+    "note": "auto: provincial pool「内蒙古甜豆」→ sugar-snap"
+  },
+  {
+    "alias": "prod-sugar-snap--577",
+    "canonical": "sugar-snap",
+    "note": "auto: provincial pool「辽宁甜豆」→ sugar-snap"
+  },
+  {
+    "alias": "prod-sugar-snap--597",
+    "canonical": "sugar-snap",
+    "note": "auto: provincial pool「吉林甜豆」→ sugar-snap"
+  },
+  {
+    "alias": "prod-sugar-snap--617",
+    "canonical": "sugar-snap",
+    "note": "auto: provincial pool「黑龙江甜豆」→ sugar-snap"
+  },
+  {
+    "alias": "prod-sugar-snap--637",
+    "canonical": "sugar-snap",
+    "note": "auto: provincial pool「北京甜豆」→ sugar-snap"
+  },
+  {
+    "alias": "prod-sugar-snap--657",
+    "canonical": "sugar-snap",
+    "note": "auto: provincial pool「天津甜豆」→ sugar-snap"
+  },
+  {
+    "alias": "prod-water-spinach-tip--486",
+    "canonical": "water-spinach-tip",
+    "note": "auto: provincial pool「宁夏空心菜苗」→ water-spinach-tip"
+  },
+  {
+    "alias": "prod-water-spinach-tip--506",
+    "canonical": "water-spinach-tip",
+    "note": "auto: provincial pool「新疆空心菜苗」→ water-spinach-tip"
+  },
+  {
+    "alias": "prod-water-spinach-tip--526",
+    "canonical": "water-spinach-tip",
+    "note": "auto: provincial pool「西藏空心菜苗」→ water-spinach-tip"
+  },
+  {
+    "alias": "prod-water-spinach-tip--546",
+    "canonical": "water-spinach-tip",
+    "note": "auto: provincial pool「内蒙古空心菜苗」→ water-spinach-tip"
+  },
+  {
+    "alias": "prod-water-spinach-tip--566",
+    "canonical": "water-spinach-tip",
+    "note": "auto: provincial pool「辽宁空心菜苗」→ water-spinach-tip"
+  },
+  {
+    "alias": "prod-water-spinach-tip--586",
+    "canonical": "water-spinach-tip",
+    "note": "auto: provincial pool「吉林空心菜苗」→ water-spinach-tip"
+  },
+  {
+    "alias": "prod-water-spinach-tip--606",
+    "canonical": "water-spinach-tip",
+    "note": "auto: provincial pool「黑龙江空心菜苗」→ water-spinach-tip"
+  },
+  {
+    "alias": "prod-water-spinach-tip--626",
+    "canonical": "water-spinach-tip",
+    "note": "auto: provincial pool「北京空心菜苗」→ water-spinach-tip"
+  },
+  {
+    "alias": "prod-water-spinach-tip--646",
+    "canonical": "water-spinach-tip",
+    "note": "auto: provincial pool「天津空心菜苗」→ water-spinach-tip"
+  },
+  {
+    "alias": "prod-winter-gourd--489",
+    "canonical": "winter-gourd",
+    "note": "auto: provincial pool「宁夏节瓜」→ winter-gourd"
+  },
+  {
+    "alias": "prod-winter-gourd--509",
+    "canonical": "winter-gourd",
+    "note": "auto: provincial pool「新疆节瓜」→ winter-gourd"
+  },
+  {
+    "alias": "prod-winter-gourd--529",
+    "canonical": "winter-gourd",
+    "note": "auto: provincial pool「西藏节瓜」→ winter-gourd"
+  },
+  {
+    "alias": "prod-winter-gourd--549",
+    "canonical": "winter-gourd",
+    "note": "auto: provincial pool「内蒙古节瓜」→ winter-gourd"
+  },
+  {
+    "alias": "prod-winter-gourd--569",
+    "canonical": "winter-gourd",
+    "note": "auto: provincial pool「辽宁节瓜」→ winter-gourd"
+  },
+  {
+    "alias": "prod-winter-gourd--589",
+    "canonical": "winter-gourd",
+    "note": "auto: provincial pool「吉林节瓜」→ winter-gourd"
+  },
+  {
+    "alias": "prod-winter-gourd--609",
+    "canonical": "winter-gourd",
+    "note": "auto: provincial pool「黑龙江节瓜」→ winter-gourd"
+  },
+  {
+    "alias": "prod-winter-gourd--629",
+    "canonical": "winter-gourd",
+    "note": "auto: provincial pool「北京节瓜」→ winter-gourd"
+  },
+  {
+    "alias": "prod-winter-gourd--649",
+    "canonical": "winter-gourd",
+    "note": "auto: provincial pool「天津节瓜」→ winter-gourd"
+  },
+  {
+    "alias": "prod-yardlong-bean--495",
+    "canonical": "yardlong-bean",
+    "note": "auto: provincial pool「宁夏长豆角」→ yardlong-bean"
+  },
+  {
+    "alias": "prod-yardlong-bean--515",
+    "canonical": "yardlong-bean",
+    "note": "auto: provincial pool「新疆长豆角」→ yardlong-bean"
+  },
+  {
+    "alias": "prod-yardlong-bean--535",
+    "canonical": "yardlong-bean",
+    "note": "auto: provincial pool「西藏长豆角」→ yardlong-bean"
+  },
+  {
+    "alias": "prod-yardlong-bean--555",
+    "canonical": "yardlong-bean",
+    "note": "auto: provincial pool「内蒙古长豆角」→ yardlong-bean"
+  },
+  {
+    "alias": "prod-yardlong-bean--575",
+    "canonical": "yardlong-bean",
+    "note": "auto: provincial pool「辽宁长豆角」→ yardlong-bean"
+  },
+  {
+    "alias": "prod-yardlong-bean--595",
+    "canonical": "yardlong-bean",
+    "note": "auto: provincial pool「吉林长豆角」→ yardlong-bean"
+  },
+  {
+    "alias": "prod-yardlong-bean--615",
+    "canonical": "yardlong-bean",
+    "note": "auto: provincial pool「黑龙江长豆角」→ yardlong-bean"
+  },
+  {
+    "alias": "prod-yardlong-bean--635",
+    "canonical": "yardlong-bean",
+    "note": "auto: provincial pool「北京长豆角」→ yardlong-bean"
+  },
+  {
+    "alias": "prod-yardlong-bean--655",
+    "canonical": "yardlong-bean",
+    "note": "auto: provincial pool「天津长豆角」→ yardlong-bean"
+  },
+  {
     "alias": "pu-er-tea",
     "canonical": "c14-yn-puer-tea",
     "note": "auto: duplicate name「普洱茶」→ c14-yn-puer-tea"
@@ -3020,6 +5420,46 @@
     "note": "人参"
   },
   {
+    "alias": "reg-abalone-small--1561",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「河南鲍鱼仔」→ abalone-small"
+  },
+  {
+    "alias": "reg-abalone-small--1646",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「河北鲍鱼仔」→ abalone-small"
+  },
+  {
+    "alias": "reg-abalone-small--1731",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「山西鲍鱼仔」→ abalone-small"
+  },
+  {
+    "alias": "reg-abalone-small--1816",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「陕西鲍鱼仔」→ abalone-small"
+  },
+  {
+    "alias": "reg-abalone-small--1901",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「甘肃鲍鱼仔」→ abalone-small"
+  },
+  {
+    "alias": "reg-abalone-small--1986",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「青海鲍鱼仔」→ abalone-small"
+  },
+  {
+    "alias": "reg-abalone-small--2071",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「宁夏鲍鱼仔」→ abalone-small"
+  },
+  {
+    "alias": "reg-abalone-small--2156",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「新疆鲍鱼仔」→ abalone-small"
+  },
+  {
     "alias": "reg-amaranth--2084",
     "canonical": "prod-amaranth--484",
     "note": "auto: duplicate name「宁夏苋菜」→ prod-amaranth--484"
@@ -3028,6 +5468,46 @@
     "alias": "reg-amaranth--2169",
     "canonical": "prod-amaranth--504",
     "note": "auto: duplicate name「新疆苋菜」→ prod-amaranth--504"
+  },
+  {
+    "alias": "reg-anchovy--1566",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「河南凤尾鱼」→ anchovy"
+  },
+  {
+    "alias": "reg-anchovy--1651",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「河北凤尾鱼」→ anchovy"
+  },
+  {
+    "alias": "reg-anchovy--1736",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「山西凤尾鱼」→ anchovy"
+  },
+  {
+    "alias": "reg-anchovy--1821",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「陕西凤尾鱼」→ anchovy"
+  },
+  {
+    "alias": "reg-anchovy--1906",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「甘肃凤尾鱼」→ anchovy"
+  },
+  {
+    "alias": "reg-anchovy--1991",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「青海凤尾鱼」→ anchovy"
+  },
+  {
+    "alias": "reg-anchovy--2076",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「宁夏凤尾鱼」→ anchovy"
+  },
+  {
+    "alias": "reg-anchovy--2161",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「新疆凤尾鱼」→ anchovy"
   },
   {
     "alias": "reg-bbq-sauce-cn--1549",
@@ -3260,6 +5740,46 @@
     "note": "auto: duplicate name「新疆韭菜花」→ prod-chive-flower--508"
   },
   {
+    "alias": "reg-clams--1558",
+    "canonical": "clams",
+    "note": "auto: provincial pool「河南花甲」→ clams"
+  },
+  {
+    "alias": "reg-clams--1643",
+    "canonical": "clams",
+    "note": "auto: provincial pool「河北花甲」→ clams"
+  },
+  {
+    "alias": "reg-clams--1728",
+    "canonical": "clams",
+    "note": "auto: provincial pool「山西花甲」→ clams"
+  },
+  {
+    "alias": "reg-clams--1813",
+    "canonical": "clams",
+    "note": "auto: provincial pool「陕西花甲」→ clams"
+  },
+  {
+    "alias": "reg-clams--1898",
+    "canonical": "clams",
+    "note": "auto: provincial pool「甘肃花甲」→ clams"
+  },
+  {
+    "alias": "reg-clams--1983",
+    "canonical": "clams",
+    "note": "auto: provincial pool「青海花甲」→ clams"
+  },
+  {
+    "alias": "reg-clams--2068",
+    "canonical": "clams",
+    "note": "auto: provincial pool「宁夏花甲」→ clams"
+  },
+  {
+    "alias": "reg-clams--2153",
+    "canonical": "clams",
+    "note": "auto: provincial pool「新疆花甲」→ clams"
+  },
+  {
     "alias": "reg-curry-powder-cn--1547",
     "canonical": "cond-curry-powder-cn--377",
     "note": "auto: duplicate name「河南咖喱粉」→ cond-curry-powder-cn--377"
@@ -3303,6 +5823,136 @@
     "alias": "reg-curry-powder-cn--2227",
     "canonical": "cond-curry-powder-cn--537",
     "note": "auto: duplicate name「西藏咖喱粉」→ cond-curry-powder-cn--537"
+  },
+  {
+    "alias": "reg-cuttlefish--1555",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「河南墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "reg-cuttlefish--1640",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「河北墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "reg-cuttlefish--1725",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「山西墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "reg-cuttlefish--1810",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「陕西墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "reg-cuttlefish--1895",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「甘肃墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "reg-cuttlefish--1980",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「青海墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "reg-cuttlefish--2065",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「宁夏墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "reg-cuttlefish--2150",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「新疆墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "reg-dried-cuttlefish--1557",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「河南墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "reg-dried-cuttlefish--1642",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「河北墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "reg-dried-cuttlefish--1727",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「山西墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "reg-dried-cuttlefish--1812",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「陕西墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "reg-dried-cuttlefish--1897",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「甘肃墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "reg-dried-cuttlefish--1982",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「青海墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "reg-dried-cuttlefish--2067",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「宁夏墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "reg-dried-cuttlefish--2152",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「新疆墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "reg-dried-squid--1556",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「河南鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "reg-dried-squid--1641",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「河北鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "reg-dried-squid--1726",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「山西鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "reg-dried-squid--1811",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「陕西鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "reg-dried-squid--1896",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「甘肃鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "reg-dried-squid--1981",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「青海鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "reg-dried-squid--2066",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「宁夏鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "reg-dried-squid--2151",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「新疆鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "reg-egg-waffle--2117",
+    "canonical": "egg-waffle",
+    "note": "auto: provincial pool「宁夏鸡蛋仔」→ egg-waffle"
+  },
+  {
+    "alias": "reg-egg-waffle--2202",
+    "canonical": "egg-waffle",
+    "note": "auto: provincial pool「新疆鸡蛋仔」→ egg-waffle"
   },
   {
     "alias": "reg-fermented-tofu-rose--1534",
@@ -3395,6 +6045,46 @@
     "note": "auto: duplicate name「西藏白腐乳」→ cond-fermented-tofu-white--523"
   },
   {
+    "alias": "reg-fish-ball--1568",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「河南鱼丸」→ c14-fj-fish-ball"
+  },
+  {
+    "alias": "reg-fish-ball--1653",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「河北鱼丸」→ c14-fj-fish-ball"
+  },
+  {
+    "alias": "reg-fish-ball--1738",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「山西鱼丸」→ c14-fj-fish-ball"
+  },
+  {
+    "alias": "reg-fish-ball--1823",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「陕西鱼丸」→ c14-fj-fish-ball"
+  },
+  {
+    "alias": "reg-fish-ball--1908",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「甘肃鱼丸」→ c14-fj-fish-ball"
+  },
+  {
+    "alias": "reg-fish-ball--1993",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「青海鱼丸」→ c14-fj-fish-ball"
+  },
+  {
+    "alias": "reg-fish-ball--2078",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「宁夏鱼丸」→ c14-fj-fish-ball"
+  },
+  {
+    "alias": "reg-fish-ball--2163",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「新疆鱼丸」→ c14-fj-fish-ball"
+  },
+  {
     "alias": "reg-fish-sauce-gd--1540",
     "canonical": "cond-fish-sauce-gd--370",
     "note": "auto: duplicate name「河南鱼露」→ cond-fish-sauce-gd--370"
@@ -3485,6 +6175,16 @@
     "note": "auto: duplicate name「西藏五香粉」→ cond-five-spice-powder--536"
   },
   {
+    "alias": "reg-fried-dough-twist--2111",
+    "canonical": "fried-dough-twist",
+    "note": "auto: provincial pool「宁夏麻花」→ fried-dough-twist"
+  },
+  {
+    "alias": "reg-fried-dough-twist--2196",
+    "canonical": "fried-dough-twist",
+    "note": "auto: provincial pool「新疆麻花」→ fried-dough-twist"
+  },
+  {
     "alias": "reg-garlic-chive--2087",
     "canonical": "prod-garlic-chive--487",
     "note": "auto: duplicate name「宁夏韭菜」→ prod-garlic-chive--487"
@@ -3493,6 +6193,401 @@
     "alias": "reg-garlic-chive--2172",
     "canonical": "prod-garlic-chive--507",
     "note": "auto: duplicate name「新疆韭菜」→ prod-garlic-chive--507"
+  },
+  {
+    "alias": "reg-glutinous-rice-ball--2102",
+    "canonical": "glutinous-rice-ball",
+    "note": "auto: provincial pool「宁夏糯米糍」→ glutinous-rice-ball"
+  },
+  {
+    "alias": "reg-glutinous-rice-ball--2187",
+    "canonical": "glutinous-rice-ball",
+    "note": "auto: provincial pool「新疆糯米糍」→ glutinous-rice-ball"
+  },
+  {
+    "alias": "reg-grass-jelly--2115",
+    "canonical": "grass-jelly",
+    "note": "auto: provincial pool「宁夏凉粉」→ grass-jelly"
+  },
+  {
+    "alias": "reg-grass-jelly--2200",
+    "canonical": "grass-jelly",
+    "note": "auto: provincial pool「新疆凉粉」→ grass-jelly"
+  },
+  {
+    "alias": "reg-hairtail--1550",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「河南带鱼」→ hairtail"
+  },
+  {
+    "alias": "reg-hairtail--1635",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「河北带鱼」→ hairtail"
+  },
+  {
+    "alias": "reg-hairtail--1720",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「山西带鱼」→ hairtail"
+  },
+  {
+    "alias": "reg-hairtail--1805",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「陕西带鱼」→ hairtail"
+  },
+  {
+    "alias": "reg-hairtail--1890",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「甘肃带鱼」→ hairtail"
+  },
+  {
+    "alias": "reg-hairtail--1975",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「青海带鱼」→ hairtail"
+  },
+  {
+    "alias": "reg-hairtail--2060",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「宁夏带鱼」→ hairtail"
+  },
+  {
+    "alias": "reg-hairtail--2145",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「新疆带鱼」→ hairtail"
+  },
+  {
+    "alias": "reg-hairtail--2230",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「西藏带鱼」→ hairtail"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--1015",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「云南拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--1100",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「贵州拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--1185",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「浙江拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--1270",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「江苏拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--1355",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「上海拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--1440",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「安徽拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--1525",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「山东拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--1610",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「河南拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--1695",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「河北拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--1780",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「山西拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--1865",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「陕西拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--1950",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「甘肃拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--2035",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「青海拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--2120",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「宁夏拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--2205",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「新疆拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--590",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「湖南拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--675",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「湖北拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--760",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「江西拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--845",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「四川拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-hand-pulled-noodle--930",
+    "canonical": "hand-pulled-noodle",
+    "note": "auto: provincial pool「重庆拉面」→ hand-pulled-noodle"
+  },
+  {
+    "alias": "reg-kelp-knot--1564",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「河南海带结」→ kelp-knot"
+  },
+  {
+    "alias": "reg-kelp-knot--1649",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「河北海带结」→ kelp-knot"
+  },
+  {
+    "alias": "reg-kelp-knot--1734",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「山西海带结」→ kelp-knot"
+  },
+  {
+    "alias": "reg-kelp-knot--1819",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「陕西海带结」→ kelp-knot"
+  },
+  {
+    "alias": "reg-kelp-knot--1904",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「甘肃海带结」→ kelp-knot"
+  },
+  {
+    "alias": "reg-kelp-knot--1989",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「青海海带结」→ kelp-knot"
+  },
+  {
+    "alias": "reg-kelp-knot--2074",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「宁夏海带结」→ kelp-knot"
+  },
+  {
+    "alias": "reg-kelp-knot--2159",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「新疆海带结」→ kelp-knot"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--1016",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「云南刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--1101",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「贵州刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--1186",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「浙江刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--1271",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「江苏刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--1356",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「上海刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--1441",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「安徽刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--1526",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「山东刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--1611",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「河南刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--1696",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「河北刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--1866",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「陕西刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--1951",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「甘肃刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--2036",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「青海刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--2121",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「宁夏刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--2206",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「新疆刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--591",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「湖南刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--676",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「湖北刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--761",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「江西刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--846",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「四川刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-knife-cut-noodle--931",
+    "canonical": "c14-sx-noodle",
+    "note": "auto: provincial pool「重庆刀削面」→ c14-sx-noodle"
+  },
+  {
+    "alias": "reg-liangpi--1017",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「云南凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--1102",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「贵州凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--1187",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「浙江凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--1272",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「江苏凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--1357",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「上海凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--1442",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「安徽凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--1527",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「山东凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--1612",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「河南凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--1697",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「河北凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--1782",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「山西凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--1952",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「甘肃凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--2037",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「青海凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--2122",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「宁夏凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--2207",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「新疆凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--592",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「湖南凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--677",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「湖北凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--762",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「江西凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--847",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「四川凉皮」→ liangpi"
+  },
+  {
+    "alias": "reg-liangpi--932",
+    "canonical": "liangpi",
+    "note": "auto: provincial pool「重庆凉皮」→ liangpi"
   },
   {
     "alias": "reg-lotus-seedpod--2098",
@@ -3523,6 +6618,16 @@
     "alias": "reg-malabar-spinach--2170",
     "canonical": "prod-malabar-spinach--505",
     "note": "auto: duplicate name「新疆木耳菜」→ prod-malabar-spinach--505"
+  },
+  {
+    "alias": "reg-mantou--2109",
+    "canonical": "mantou",
+    "note": "auto: provincial pool「宁夏馒头」→ mantou"
+  },
+  {
+    "alias": "reg-mantou--2194",
+    "canonical": "mantou",
+    "note": "auto: provincial pool「新疆馒头」→ mantou"
   },
   {
     "alias": "reg-master-stock--1545",
@@ -3590,6 +6695,46 @@
     "note": "auto: duplicate name「新疆秋葵」→ prod-okra--514"
   },
   {
+    "alias": "reg-oyster-meat--1560",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「河南生蚝肉」→ oyster-meat"
+  },
+  {
+    "alias": "reg-oyster-meat--1645",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「河北生蚝肉」→ oyster-meat"
+  },
+  {
+    "alias": "reg-oyster-meat--1730",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「山西生蚝肉」→ oyster-meat"
+  },
+  {
+    "alias": "reg-oyster-meat--1815",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「陕西生蚝肉」→ oyster-meat"
+  },
+  {
+    "alias": "reg-oyster-meat--1900",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「甘肃生蚝肉」→ oyster-meat"
+  },
+  {
+    "alias": "reg-oyster-meat--1985",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「青海生蚝肉」→ oyster-meat"
+  },
+  {
+    "alias": "reg-oyster-meat--2070",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「宁夏生蚝肉」→ oyster-meat"
+  },
+  {
+    "alias": "reg-oyster-meat--2155",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「新疆生蚝肉」→ oyster-meat"
+  },
+  {
     "alias": "reg-oyster-sauce--1538",
     "canonical": "cond-oyster-sauce--368",
     "note": "auto: duplicate name「河南蚝油」→ cond-oyster-sauce--368"
@@ -3635,6 +6780,16 @@
     "note": "auto: duplicate name「西藏蚝油」→ cond-oyster-sauce--528"
   },
   {
+    "alias": "reg-pineapple-bun--2118",
+    "canonical": "c14-hk-pineapple-bun",
+    "note": "auto: provincial pool「宁夏菠萝包」→ c14-hk-pineapple-bun"
+  },
+  {
+    "alias": "reg-pineapple-bun--2203",
+    "canonical": "c14-hk-pineapple-bun",
+    "note": "auto: provincial pool「新疆菠萝包」→ c14-hk-pineapple-bun"
+  },
+  {
     "alias": "reg-pomelo--2099",
     "canonical": "prod-pomelo--499",
     "note": "auto: duplicate name「宁夏柚子」→ prod-pomelo--499"
@@ -3643,6 +6798,46 @@
     "alias": "reg-pomelo--2184",
     "canonical": "prod-pomelo--519",
     "note": "auto: duplicate name「新疆柚子」→ prod-pomelo--519"
+  },
+  {
+    "alias": "reg-pomfret--1552",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「河南鲳鱼」→ pomfret"
+  },
+  {
+    "alias": "reg-pomfret--1637",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「河北鲳鱼」→ pomfret"
+  },
+  {
+    "alias": "reg-pomfret--1722",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「山西鲳鱼」→ pomfret"
+  },
+  {
+    "alias": "reg-pomfret--1807",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「陕西鲳鱼」→ pomfret"
+  },
+  {
+    "alias": "reg-pomfret--1892",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「甘肃鲳鱼」→ pomfret"
+  },
+  {
+    "alias": "reg-pomfret--1977",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「青海鲳鱼」→ pomfret"
+  },
+  {
+    "alias": "reg-pomfret--2062",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「宁夏鲳鱼」→ pomfret"
+  },
+  {
+    "alias": "reg-pomfret--2147",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「新疆鲳鱼」→ pomfret"
   },
   {
     "alias": "reg-preserved-plum--1544",
@@ -3688,6 +6883,96 @@
     "alias": "reg-preserved-plum--2224",
     "canonical": "cond-preserved-plum--534",
     "note": "auto: duplicate name「西藏咸酸梅」→ cond-preserved-plum--534"
+  },
+  {
+    "alias": "reg-razor-clam--1559",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「河南蛏子」→ razor-clam"
+  },
+  {
+    "alias": "reg-razor-clam--1644",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「河北蛏子」→ razor-clam"
+  },
+  {
+    "alias": "reg-razor-clam--1729",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「山西蛏子」→ razor-clam"
+  },
+  {
+    "alias": "reg-razor-clam--1814",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「陕西蛏子」→ razor-clam"
+  },
+  {
+    "alias": "reg-razor-clam--1899",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「甘肃蛏子」→ razor-clam"
+  },
+  {
+    "alias": "reg-razor-clam--1984",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「青海蛏子」→ razor-clam"
+  },
+  {
+    "alias": "reg-razor-clam--2069",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「宁夏蛏子」→ razor-clam"
+  },
+  {
+    "alias": "reg-razor-clam--2154",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「新疆蛏子」→ razor-clam"
+  },
+  {
+    "alias": "reg-rice-cracker--2112",
+    "canonical": "rice-cracker",
+    "note": "auto: provincial pool「宁夏米饼」→ rice-cracker"
+  },
+  {
+    "alias": "reg-rice-cracker--2197",
+    "canonical": "rice-cracker",
+    "note": "auto: provincial pool「新疆米饼」→ rice-cracker"
+  },
+  {
+    "alias": "reg-rice-dumpling-salty--2106",
+    "canonical": "c14-gd-rice-dumpling",
+    "note": "auto: provincial pool「宁夏咸肉粽」→ c14-gd-rice-dumpling"
+  },
+  {
+    "alias": "reg-rice-dumpling-salty--2191",
+    "canonical": "c14-gd-rice-dumpling",
+    "note": "auto: provincial pool「新疆咸肉粽」→ c14-gd-rice-dumpling"
+  },
+  {
+    "alias": "reg-rice-dumpling-sweet--2107",
+    "canonical": "rice-dumpling-sweet",
+    "note": "auto: provincial pool「宁夏碱水粽」→ rice-dumpling-sweet"
+  },
+  {
+    "alias": "reg-rice-dumpling-sweet--2192",
+    "canonical": "rice-dumpling-sweet",
+    "note": "auto: provincial pool「新疆碱水粽」→ rice-dumpling-sweet"
+  },
+  {
+    "alias": "reg-rice-flour-cake--2101",
+    "canonical": "rice-flour-cake",
+    "note": "auto: provincial pool「宁夏米糕」→ rice-flour-cake"
+  },
+  {
+    "alias": "reg-rice-flour-cake--2186",
+    "canonical": "rice-flour-cake",
+    "note": "auto: provincial pool「新疆米糕」→ rice-flour-cake"
+  },
+  {
+    "alias": "reg-rice-noodle-roll--2100",
+    "canonical": "rice-noodle-roll",
+    "note": "auto: provincial pool「宁夏卷粉」→ rice-noodle-roll"
+  },
+  {
+    "alias": "reg-rice-noodle-roll--2185",
+    "canonical": "rice-noodle-roll",
+    "note": "auto: provincial pool「新疆卷粉」→ rice-noodle-roll"
   },
   {
     "alias": "reg-rice-wine-cooking--1541",
@@ -3780,6 +7065,106 @@
     "note": "auto: duplicate name「西藏玫瑰露酒」→ cond-rose-fermented-wine--533"
   },
   {
+    "alias": "reg-roujiamo--1018",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「云南肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--1103",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「贵州肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--1188",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「浙江肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--1273",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「江苏肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--1358",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「上海肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--1443",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「安徽肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--1528",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「山东肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--1613",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「河南肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--1698",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「河北肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--1783",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「山西肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--1868",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「陕西肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--1953",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「甘肃肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--2038",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「青海肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--2123",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「宁夏肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--2208",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「新疆肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--593",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「湖南肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--678",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「湖北肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--763",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「江西肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--848",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「四川肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
+    "alias": "reg-roujiamo--933",
+    "canonical": "c18-sn-roujiamo",
+    "note": "auto: provincial pool「重庆肉夹馍」→ c18-sn-roujiamo"
+  },
+  {
     "alias": "reg-satay-sauce--1548",
     "canonical": "cond-satay-sauce--378",
     "note": "auto: duplicate name「河南沙茶酱」→ cond-satay-sauce--378"
@@ -3823,6 +7208,106 @@
     "alias": "reg-satay-sauce--2228",
     "canonical": "cond-satay-sauce--538",
     "note": "auto: duplicate name「西藏沙茶酱」→ cond-satay-sauce--538"
+  },
+  {
+    "alias": "reg-scallion-pancake--2110",
+    "canonical": "c13-sd-scallion-pancake",
+    "note": "auto: provincial pool「宁夏葱油饼」→ c13-sd-scallion-pancake"
+  },
+  {
+    "alias": "reg-scallion-pancake--2195",
+    "canonical": "c13-sd-scallion-pancake",
+    "note": "auto: provincial pool「新疆葱油饼」→ c13-sd-scallion-pancake"
+  },
+  {
+    "alias": "reg-sea-cucumber-dried--1562",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「河南海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "reg-sea-cucumber-dried--1647",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「河北海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "reg-sea-cucumber-dried--1732",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「山西海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "reg-sea-cucumber-dried--1817",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「陕西海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "reg-sea-cucumber-dried--1902",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「甘肃海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "reg-sea-cucumber-dried--1987",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「青海海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "reg-sea-cucumber-dried--2072",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「宁夏海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "reg-sea-cucumber-dried--2157",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「新疆海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "reg-seaweed-sheet--1563",
+    "canonical": "nori",
+    "note": "auto: provincial pool「河南紫菜」→ nori"
+  },
+  {
+    "alias": "reg-seaweed-sheet--1648",
+    "canonical": "nori",
+    "note": "auto: provincial pool「河北紫菜」→ nori"
+  },
+  {
+    "alias": "reg-seaweed-sheet--1733",
+    "canonical": "nori",
+    "note": "auto: provincial pool「山西紫菜」→ nori"
+  },
+  {
+    "alias": "reg-seaweed-sheet--1818",
+    "canonical": "nori",
+    "note": "auto: provincial pool「陕西紫菜」→ nori"
+  },
+  {
+    "alias": "reg-seaweed-sheet--1903",
+    "canonical": "nori",
+    "note": "auto: provincial pool「甘肃紫菜」→ nori"
+  },
+  {
+    "alias": "reg-seaweed-sheet--1988",
+    "canonical": "nori",
+    "note": "auto: provincial pool「青海紫菜」→ nori"
+  },
+  {
+    "alias": "reg-seaweed-sheet--2073",
+    "canonical": "nori",
+    "note": "auto: provincial pool「宁夏紫菜」→ nori"
+  },
+  {
+    "alias": "reg-seaweed-sheet--2158",
+    "canonical": "nori",
+    "note": "auto: provincial pool「新疆紫菜」→ nori"
+  },
+  {
+    "alias": "reg-sesame-ball--2103",
+    "canonical": "c13-gd-sesame-ball",
+    "note": "auto: provincial pool「宁夏煎堆」→ c13-gd-sesame-ball"
+  },
+  {
+    "alias": "reg-sesame-ball--2188",
+    "canonical": "c13-gd-sesame-ball",
+    "note": "auto: provincial pool「新疆煎堆」→ c13-gd-sesame-ball"
   },
   {
     "alias": "reg-sesame-oil--1535",
@@ -3878,6 +7363,46 @@
     "alias": "reg-shanghai-greens--2166",
     "canonical": "prod-shanghai-greens--501",
     "note": "auto: duplicate name「新疆上海青」→ prod-shanghai-greens--501"
+  },
+  {
+    "alias": "reg-shrimp-paste-ball--1569",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「河南虾滑」→ shrimp-paste-ball"
+  },
+  {
+    "alias": "reg-shrimp-paste-ball--1654",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「河北虾滑」→ shrimp-paste-ball"
+  },
+  {
+    "alias": "reg-shrimp-paste-ball--1739",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「山西虾滑」→ shrimp-paste-ball"
+  },
+  {
+    "alias": "reg-shrimp-paste-ball--1824",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「陕西虾滑」→ shrimp-paste-ball"
+  },
+  {
+    "alias": "reg-shrimp-paste-ball--1909",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「甘肃虾滑」→ shrimp-paste-ball"
+  },
+  {
+    "alias": "reg-shrimp-paste-ball--1994",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「青海虾滑」→ shrimp-paste-ball"
+  },
+  {
+    "alias": "reg-shrimp-paste-ball--2079",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「宁夏虾滑」→ shrimp-paste-ball"
+  },
+  {
+    "alias": "reg-shrimp-paste-ball--2164",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「新疆虾滑」→ shrimp-paste-ball"
   },
   {
     "alias": "reg-shrimp-sauce--1539",
@@ -3990,6 +7515,211 @@
     "note": "auto: duplicate name「新疆荷兰豆」→ prod-snow-pea--516"
   },
   {
+    "alias": "reg-soy-milk-hot--2113",
+    "canonical": "soy-milk-hot",
+    "note": "auto: provincial pool「宁夏热豆浆」→ soy-milk-hot"
+  },
+  {
+    "alias": "reg-soy-milk-hot--2198",
+    "canonical": "soy-milk-hot",
+    "note": "auto: provincial pool「新疆热豆浆」→ soy-milk-hot"
+  },
+  {
+    "alias": "reg-spanish-mackerel--1551",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「河南马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "reg-spanish-mackerel--1636",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「河北马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "reg-spanish-mackerel--1721",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「山西马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "reg-spanish-mackerel--1806",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「陕西马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "reg-spanish-mackerel--1891",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「甘肃马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "reg-spanish-mackerel--1976",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「青海马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "reg-spanish-mackerel--2061",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「宁夏马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "reg-spanish-mackerel--2146",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「新疆马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "reg-spanish-mackerel--2231",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「西藏马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "reg-squid-tube--1554",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「河南鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "reg-squid-tube--1639",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「河北鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "reg-squid-tube--1724",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「山西鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "reg-squid-tube--1809",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「陕西鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "reg-squid-tube--1894",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「甘肃鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "reg-squid-tube--1979",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「青海鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "reg-squid-tube--2064",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「宁夏鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "reg-squid-tube--2149",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「新疆鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "reg-steamed-bread--1019",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「云南发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--1104",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「贵州发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--1189",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「浙江发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--1274",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「江苏发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--1359",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「上海发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--1444",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「安徽发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--1529",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「山东发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--1614",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「河南发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--1699",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「河北发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--1784",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「山西发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--1869",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「陕西发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--1954",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「甘肃发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--2039",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「青海发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--2124",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「宁夏发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--2209",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「新疆发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--594",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「湖南发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--679",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「湖北发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--764",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「江西发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--849",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「四川发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bread--934",
+    "canonical": "steamed-bread",
+    "note": "auto: provincial pool「重庆发糕」→ steamed-bread"
+  },
+  {
+    "alias": "reg-steamed-bun--2108",
+    "canonical": "steamed-bun",
+    "note": "auto: provincial pool「宁夏包子」→ steamed-bun"
+  },
+  {
+    "alias": "reg-steamed-bun--2193",
+    "canonical": "steamed-bun",
+    "note": "auto: provincial pool「新疆包子」→ steamed-bun"
+  },
+  {
     "alias": "reg-sugar-snap--2097",
     "canonical": "prod-sugar-snap--497",
     "note": "auto: duplicate name「宁夏甜豆」→ prod-sugar-snap--497"
@@ -4045,6 +7775,46 @@
     "note": "auto: duplicate name「西藏甜面酱」→ cond-sweet-bean-sauce--521"
   },
   {
+    "alias": "reg-sweet-potato-ginger--2116",
+    "canonical": "sweet-potato-ginger",
+    "note": "auto: provincial pool「宁夏番薯姜糖水」→ sweet-potato-ginger"
+  },
+  {
+    "alias": "reg-sweet-potato-ginger--2201",
+    "canonical": "sweet-potato-ginger",
+    "note": "auto: provincial pool「新疆番薯姜糖水」→ sweet-potato-ginger"
+  },
+  {
+    "alias": "reg-taro-pudding--2105",
+    "canonical": "taro-cake",
+    "note": "auto: provincial pool「宁夏芋头糕」→ taro-cake"
+  },
+  {
+    "alias": "reg-taro-pudding--2190",
+    "canonical": "taro-cake",
+    "note": "auto: provincial pool「新疆芋头糕」→ taro-cake"
+  },
+  {
+    "alias": "reg-tofu-pudding--2114",
+    "canonical": "hk-tofu-pudding-hk",
+    "note": "auto: provincial pool「宁夏豆腐花」→ hk-tofu-pudding-hk"
+  },
+  {
+    "alias": "reg-tofu-pudding--2199",
+    "canonical": "hk-tofu-pudding-hk",
+    "note": "auto: provincial pool「新疆豆腐花」→ hk-tofu-pudding-hk"
+  },
+  {
+    "alias": "reg-turnip-pudding--2104",
+    "canonical": "turnip-cake",
+    "note": "auto: provincial pool「宁夏萝卜糕」→ turnip-cake"
+  },
+  {
+    "alias": "reg-turnip-pudding--2189",
+    "canonical": "turnip-cake",
+    "note": "auto: provincial pool「新疆萝卜糕」→ turnip-cake"
+  },
+  {
     "alias": "reg-water-spinach-tip--2086",
     "canonical": "prod-water-spinach-tip--486",
     "note": "auto: duplicate name「宁夏空心菜苗」→ prod-water-spinach-tip--486"
@@ -4053,6 +7823,56 @@
     "alias": "reg-water-spinach-tip--2171",
     "canonical": "prod-water-spinach-tip--506",
     "note": "auto: duplicate name「新疆空心菜苗」→ prod-water-spinach-tip--506"
+  },
+  {
+    "alias": "reg-whitebait--1565",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「河南银鱼」→ whitebait"
+  },
+  {
+    "alias": "reg-whitebait--1650",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「河北银鱼」→ whitebait"
+  },
+  {
+    "alias": "reg-whitebait--1735",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「山西银鱼」→ whitebait"
+  },
+  {
+    "alias": "reg-whitebait--1820",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「陕西银鱼」→ whitebait"
+  },
+  {
+    "alias": "reg-whitebait--1905",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「甘肃银鱼」→ whitebait"
+  },
+  {
+    "alias": "reg-whitebait--1990",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「青海银鱼」→ whitebait"
+  },
+  {
+    "alias": "reg-whitebait--2075",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「宁夏银鱼」→ whitebait"
+  },
+  {
+    "alias": "reg-whitebait--2160",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「新疆银鱼」→ whitebait"
+  },
+  {
+    "alias": "reg-wife-cake--2119",
+    "canonical": "hk-wife-cake-hk",
+    "note": "auto: provincial pool「宁夏老婆饼」→ hk-wife-cake-hk"
+  },
+  {
+    "alias": "reg-wife-cake--2204",
+    "canonical": "hk-wife-cake-hk",
+    "note": "auto: provincial pool「新疆老婆饼」→ hk-wife-cake-hk"
   },
   {
     "alias": "reg-winter-gourd--2089",
@@ -4073,6 +7893,86 @@
     "alias": "reg-yardlong-bean--2180",
     "canonical": "prod-yardlong-bean--515",
     "note": "auto: duplicate name「新疆长豆角」→ prod-yardlong-bean--515"
+  },
+  {
+    "alias": "reg-yellow-croaker-dried--1567",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「河南黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "reg-yellow-croaker-dried--1652",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「河北黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "reg-yellow-croaker-dried--1737",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「山西黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "reg-yellow-croaker-dried--1822",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「陕西黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "reg-yellow-croaker-dried--1907",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「甘肃黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "reg-yellow-croaker-dried--1992",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「青海黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "reg-yellow-croaker-dried--2077",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「宁夏黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "reg-yellow-croaker-dried--2162",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「新疆黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "reg-yellow-fin-tuna--1553",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「河南黄鳍金枪鱼」→ yellow-fin-tuna"
+  },
+  {
+    "alias": "reg-yellow-fin-tuna--1638",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「河北黄鳍金枪鱼」→ yellow-fin-tuna"
+  },
+  {
+    "alias": "reg-yellow-fin-tuna--1723",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「山西黄鳍金枪鱼」→ yellow-fin-tuna"
+  },
+  {
+    "alias": "reg-yellow-fin-tuna--1808",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「陕西黄鳍金枪鱼」→ yellow-fin-tuna"
+  },
+  {
+    "alias": "reg-yellow-fin-tuna--1893",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「甘肃黄鳍金枪鱼」→ yellow-fin-tuna"
+  },
+  {
+    "alias": "reg-yellow-fin-tuna--1978",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「青海黄鳍金枪鱼」→ yellow-fin-tuna"
+  },
+  {
+    "alias": "reg-yellow-fin-tuna--2063",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「宁夏黄鳍金枪鱼」→ yellow-fin-tuna"
+  },
+  {
+    "alias": "reg-yellow-fin-tuna--2148",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「新疆黄鳍金枪鱼」→ yellow-fin-tuna"
   },
   {
     "alias": "reg-yellow-rice-wine--1542",
@@ -4200,6 +8100,41 @@
     "note": "auto: duplicate name「新疆鲍鱼仔」→ reg-abalone-small--2156"
   },
   {
+    "alias": "sea-abalone-small--531",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「西藏鲍鱼仔」→ abalone-small"
+  },
+  {
+    "alias": "sea-abalone-small--551",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「内蒙古鲍鱼仔」→ abalone-small"
+  },
+  {
+    "alias": "sea-abalone-small--571",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「辽宁鲍鱼仔」→ abalone-small"
+  },
+  {
+    "alias": "sea-abalone-small--591",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「吉林鲍鱼仔」→ abalone-small"
+  },
+  {
+    "alias": "sea-abalone-small--611",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「黑龙江鲍鱼仔」→ abalone-small"
+  },
+  {
+    "alias": "sea-abalone-small--631",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「北京鲍鱼仔」→ abalone-small"
+  },
+  {
+    "alias": "sea-abalone-small--651",
+    "canonical": "abalone-small",
+    "note": "auto: provincial pool「天津鲍鱼仔」→ abalone-small"
+  },
+  {
     "alias": "sea-anchovy--376",
     "canonical": "reg-anchovy--1566",
     "note": "auto: duplicate name「河南凤尾鱼」→ reg-anchovy--1566"
@@ -4240,6 +8175,41 @@
     "note": "auto: duplicate name「新疆凤尾鱼」→ reg-anchovy--2161"
   },
   {
+    "alias": "sea-anchovy--536",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「西藏凤尾鱼」→ anchovy"
+  },
+  {
+    "alias": "sea-anchovy--556",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「内蒙古凤尾鱼」→ anchovy"
+  },
+  {
+    "alias": "sea-anchovy--576",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「辽宁凤尾鱼」→ anchovy"
+  },
+  {
+    "alias": "sea-anchovy--596",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「吉林凤尾鱼」→ anchovy"
+  },
+  {
+    "alias": "sea-anchovy--616",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「黑龙江凤尾鱼」→ anchovy"
+  },
+  {
+    "alias": "sea-anchovy--636",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「北京凤尾鱼」→ anchovy"
+  },
+  {
+    "alias": "sea-anchovy--656",
+    "canonical": "anchovy",
+    "note": "auto: provincial pool「天津凤尾鱼」→ anchovy"
+  },
+  {
     "alias": "sea-clams--368",
     "canonical": "reg-clams--1558",
     "note": "auto: duplicate name「河南花甲」→ reg-clams--1558"
@@ -4278,6 +8248,41 @@
     "alias": "sea-clams--508",
     "canonical": "reg-clams--2153",
     "note": "auto: duplicate name「新疆花甲」→ reg-clams--2153"
+  },
+  {
+    "alias": "sea-clams--528",
+    "canonical": "clams",
+    "note": "auto: provincial pool「西藏花甲」→ clams"
+  },
+  {
+    "alias": "sea-clams--548",
+    "canonical": "clams",
+    "note": "auto: provincial pool「内蒙古花甲」→ clams"
+  },
+  {
+    "alias": "sea-clams--568",
+    "canonical": "clams",
+    "note": "auto: provincial pool「辽宁花甲」→ clams"
+  },
+  {
+    "alias": "sea-clams--588",
+    "canonical": "clams",
+    "note": "auto: provincial pool「吉林花甲」→ clams"
+  },
+  {
+    "alias": "sea-clams--608",
+    "canonical": "clams",
+    "note": "auto: provincial pool「黑龙江花甲」→ clams"
+  },
+  {
+    "alias": "sea-clams--628",
+    "canonical": "clams",
+    "note": "auto: provincial pool「北京花甲」→ clams"
+  },
+  {
+    "alias": "sea-clams--648",
+    "canonical": "clams",
+    "note": "auto: provincial pool「天津花甲」→ clams"
   },
   {
     "alias": "sea-cucumber-fresh",
@@ -4325,6 +8330,41 @@
     "note": "auto: duplicate name「新疆墨鱼」→ reg-cuttlefish--2150"
   },
   {
+    "alias": "sea-cuttlefish--525",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「西藏墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "sea-cuttlefish--545",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「内蒙古墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "sea-cuttlefish--565",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「辽宁墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "sea-cuttlefish--585",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「吉林墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "sea-cuttlefish--605",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「黑龙江墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "sea-cuttlefish--625",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「北京墨鱼」→ cuttlefish"
+  },
+  {
+    "alias": "sea-cuttlefish--645",
+    "canonical": "cuttlefish",
+    "note": "auto: provincial pool「天津墨鱼」→ cuttlefish"
+  },
+  {
     "alias": "sea-dried-cuttlefish--367",
     "canonical": "reg-dried-cuttlefish--1557",
     "note": "auto: duplicate name「河南墨鱼干」→ reg-dried-cuttlefish--1557"
@@ -4363,6 +8403,41 @@
     "alias": "sea-dried-cuttlefish--507",
     "canonical": "reg-dried-cuttlefish--2152",
     "note": "auto: duplicate name「新疆墨鱼干」→ reg-dried-cuttlefish--2152"
+  },
+  {
+    "alias": "sea-dried-cuttlefish--527",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「西藏墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "sea-dried-cuttlefish--547",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「内蒙古墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "sea-dried-cuttlefish--567",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「辽宁墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "sea-dried-cuttlefish--587",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「吉林墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "sea-dried-cuttlefish--607",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「黑龙江墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "sea-dried-cuttlefish--627",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「北京墨鱼干」→ dried-cuttlefish"
+  },
+  {
+    "alias": "sea-dried-cuttlefish--647",
+    "canonical": "dried-cuttlefish",
+    "note": "auto: provincial pool「天津墨鱼干」→ dried-cuttlefish"
   },
   {
     "alias": "sea-dried-squid--366",
@@ -4405,6 +8480,41 @@
     "note": "auto: duplicate name「新疆鱿鱼干」→ reg-dried-squid--2151"
   },
   {
+    "alias": "sea-dried-squid--526",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「西藏鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "sea-dried-squid--546",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「内蒙古鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "sea-dried-squid--566",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「辽宁鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "sea-dried-squid--586",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「吉林鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "sea-dried-squid--606",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「黑龙江鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "sea-dried-squid--626",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「北京鱿鱼干」→ dried-squid"
+  },
+  {
+    "alias": "sea-dried-squid--646",
+    "canonical": "dried-squid",
+    "note": "auto: provincial pool「天津鱿鱼干」→ dried-squid"
+  },
+  {
     "alias": "sea-fish-ball--378",
     "canonical": "reg-fish-ball--1568",
     "note": "auto: duplicate name「河南鱼丸」→ reg-fish-ball--1568"
@@ -4443,6 +8553,41 @@
     "alias": "sea-fish-ball--518",
     "canonical": "reg-fish-ball--2163",
     "note": "auto: duplicate name「新疆鱼丸」→ reg-fish-ball--2163"
+  },
+  {
+    "alias": "sea-fish-ball--538",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「西藏鱼丸」→ c14-fj-fish-ball"
+  },
+  {
+    "alias": "sea-fish-ball--558",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「内蒙古鱼丸」→ c14-fj-fish-ball"
+  },
+  {
+    "alias": "sea-fish-ball--578",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「辽宁鱼丸」→ c14-fj-fish-ball"
+  },
+  {
+    "alias": "sea-fish-ball--598",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「吉林鱼丸」→ c14-fj-fish-ball"
+  },
+  {
+    "alias": "sea-fish-ball--618",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「黑龙江鱼丸」→ c14-fj-fish-ball"
+  },
+  {
+    "alias": "sea-fish-ball--638",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「北京鱼丸」→ c14-fj-fish-ball"
+  },
+  {
+    "alias": "sea-fish-ball--658",
+    "canonical": "c14-fj-fish-ball",
+    "note": "auto: provincial pool「天津鱼丸」→ c14-fj-fish-ball"
   },
   {
     "alias": "sea-hairtail--360",
@@ -4490,6 +8635,36 @@
     "note": "auto: duplicate name「西藏带鱼」→ reg-hairtail--2230"
   },
   {
+    "alias": "sea-hairtail--540",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「内蒙古带鱼」→ hairtail"
+  },
+  {
+    "alias": "sea-hairtail--560",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「辽宁带鱼」→ hairtail"
+  },
+  {
+    "alias": "sea-hairtail--580",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「吉林带鱼」→ hairtail"
+  },
+  {
+    "alias": "sea-hairtail--600",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「黑龙江带鱼」→ hairtail"
+  },
+  {
+    "alias": "sea-hairtail--620",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「北京带鱼」→ hairtail"
+  },
+  {
+    "alias": "sea-hairtail--640",
+    "canonical": "hairtail",
+    "note": "auto: provincial pool「天津带鱼」→ hairtail"
+  },
+  {
     "alias": "sea-kelp-knot--374",
     "canonical": "reg-kelp-knot--1564",
     "note": "auto: duplicate name「河南海带结」→ reg-kelp-knot--1564"
@@ -4528,6 +8703,41 @@
     "alias": "sea-kelp-knot--514",
     "canonical": "reg-kelp-knot--2159",
     "note": "auto: duplicate name「新疆海带结」→ reg-kelp-knot--2159"
+  },
+  {
+    "alias": "sea-kelp-knot--534",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「西藏海带结」→ kelp-knot"
+  },
+  {
+    "alias": "sea-kelp-knot--554",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「内蒙古海带结」→ kelp-knot"
+  },
+  {
+    "alias": "sea-kelp-knot--574",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「辽宁海带结」→ kelp-knot"
+  },
+  {
+    "alias": "sea-kelp-knot--594",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「吉林海带结」→ kelp-knot"
+  },
+  {
+    "alias": "sea-kelp-knot--614",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「黑龙江海带结」→ kelp-knot"
+  },
+  {
+    "alias": "sea-kelp-knot--634",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「北京海带结」→ kelp-knot"
+  },
+  {
+    "alias": "sea-kelp-knot--654",
+    "canonical": "kelp-knot",
+    "note": "auto: provincial pool「天津海带结」→ kelp-knot"
   },
   {
     "alias": "sea-oyster-meat--370",
@@ -4570,6 +8780,41 @@
     "note": "auto: duplicate name「新疆生蚝肉」→ reg-oyster-meat--2155"
   },
   {
+    "alias": "sea-oyster-meat--530",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「西藏生蚝肉」→ oyster-meat"
+  },
+  {
+    "alias": "sea-oyster-meat--550",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「内蒙古生蚝肉」→ oyster-meat"
+  },
+  {
+    "alias": "sea-oyster-meat--570",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「辽宁生蚝肉」→ oyster-meat"
+  },
+  {
+    "alias": "sea-oyster-meat--590",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「吉林生蚝肉」→ oyster-meat"
+  },
+  {
+    "alias": "sea-oyster-meat--610",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「黑龙江生蚝肉」→ oyster-meat"
+  },
+  {
+    "alias": "sea-oyster-meat--630",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「北京生蚝肉」→ oyster-meat"
+  },
+  {
+    "alias": "sea-oyster-meat--650",
+    "canonical": "oyster-meat",
+    "note": "auto: provincial pool「天津生蚝肉」→ oyster-meat"
+  },
+  {
     "alias": "sea-pomfret--362",
     "canonical": "reg-pomfret--1552",
     "note": "auto: duplicate name「河南鲳鱼」→ reg-pomfret--1552"
@@ -4608,6 +8853,41 @@
     "alias": "sea-pomfret--502",
     "canonical": "reg-pomfret--2147",
     "note": "auto: duplicate name「新疆鲳鱼」→ reg-pomfret--2147"
+  },
+  {
+    "alias": "sea-pomfret--522",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「西藏鲳鱼」→ pomfret"
+  },
+  {
+    "alias": "sea-pomfret--542",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「内蒙古鲳鱼」→ pomfret"
+  },
+  {
+    "alias": "sea-pomfret--562",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「辽宁鲳鱼」→ pomfret"
+  },
+  {
+    "alias": "sea-pomfret--582",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「吉林鲳鱼」→ pomfret"
+  },
+  {
+    "alias": "sea-pomfret--602",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「黑龙江鲳鱼」→ pomfret"
+  },
+  {
+    "alias": "sea-pomfret--622",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「北京鲳鱼」→ pomfret"
+  },
+  {
+    "alias": "sea-pomfret--642",
+    "canonical": "pomfret",
+    "note": "auto: provincial pool「天津鲳鱼」→ pomfret"
   },
   {
     "alias": "sea-razor-clam--369",
@@ -4650,6 +8930,41 @@
     "note": "auto: duplicate name「新疆蛏子」→ reg-razor-clam--2154"
   },
   {
+    "alias": "sea-razor-clam--529",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「西藏蛏子」→ razor-clam"
+  },
+  {
+    "alias": "sea-razor-clam--549",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「内蒙古蛏子」→ razor-clam"
+  },
+  {
+    "alias": "sea-razor-clam--569",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「辽宁蛏子」→ razor-clam"
+  },
+  {
+    "alias": "sea-razor-clam--589",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「吉林蛏子」→ razor-clam"
+  },
+  {
+    "alias": "sea-razor-clam--609",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「黑龙江蛏子」→ razor-clam"
+  },
+  {
+    "alias": "sea-razor-clam--629",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「北京蛏子」→ razor-clam"
+  },
+  {
+    "alias": "sea-razor-clam--649",
+    "canonical": "razor-clam",
+    "note": "auto: provincial pool「天津蛏子」→ razor-clam"
+  },
+  {
     "alias": "sea-sea-cucumber-dried--372",
     "canonical": "reg-sea-cucumber-dried--1562",
     "note": "auto: duplicate name「河南海参干」→ reg-sea-cucumber-dried--1562"
@@ -4688,6 +9003,41 @@
     "alias": "sea-sea-cucumber-dried--512",
     "canonical": "reg-sea-cucumber-dried--2157",
     "note": "auto: duplicate name「新疆海参干」→ reg-sea-cucumber-dried--2157"
+  },
+  {
+    "alias": "sea-sea-cucumber-dried--532",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「西藏海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "sea-sea-cucumber-dried--552",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「内蒙古海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "sea-sea-cucumber-dried--572",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「辽宁海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "sea-sea-cucumber-dried--592",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「吉林海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "sea-sea-cucumber-dried--612",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「黑龙江海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "sea-sea-cucumber-dried--632",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「北京海参干」→ sea-cucumber-dried"
+  },
+  {
+    "alias": "sea-sea-cucumber-dried--652",
+    "canonical": "sea-cucumber-dried",
+    "note": "auto: provincial pool「天津海参干」→ sea-cucumber-dried"
   },
   {
     "alias": "sea-seaweed-sheet--373",
@@ -4730,6 +9080,41 @@
     "note": "auto: duplicate name「新疆紫菜」→ reg-seaweed-sheet--2158"
   },
   {
+    "alias": "sea-seaweed-sheet--533",
+    "canonical": "nori",
+    "note": "auto: provincial pool「西藏紫菜」→ nori"
+  },
+  {
+    "alias": "sea-seaweed-sheet--553",
+    "canonical": "nori",
+    "note": "auto: provincial pool「内蒙古紫菜」→ nori"
+  },
+  {
+    "alias": "sea-seaweed-sheet--573",
+    "canonical": "nori",
+    "note": "auto: provincial pool「辽宁紫菜」→ nori"
+  },
+  {
+    "alias": "sea-seaweed-sheet--593",
+    "canonical": "nori",
+    "note": "auto: provincial pool「吉林紫菜」→ nori"
+  },
+  {
+    "alias": "sea-seaweed-sheet--613",
+    "canonical": "nori",
+    "note": "auto: provincial pool「黑龙江紫菜」→ nori"
+  },
+  {
+    "alias": "sea-seaweed-sheet--633",
+    "canonical": "nori",
+    "note": "auto: provincial pool「北京紫菜」→ nori"
+  },
+  {
+    "alias": "sea-seaweed-sheet--653",
+    "canonical": "nori",
+    "note": "auto: provincial pool「天津紫菜」→ nori"
+  },
+  {
     "alias": "sea-shrimp-paste-ball--379",
     "canonical": "reg-shrimp-paste-ball--1569",
     "note": "auto: duplicate name「河南虾滑」→ reg-shrimp-paste-ball--1569"
@@ -4768,6 +9153,41 @@
     "alias": "sea-shrimp-paste-ball--519",
     "canonical": "reg-shrimp-paste-ball--2164",
     "note": "auto: duplicate name「新疆虾滑」→ reg-shrimp-paste-ball--2164"
+  },
+  {
+    "alias": "sea-shrimp-paste-ball--539",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「西藏虾滑」→ shrimp-paste-ball"
+  },
+  {
+    "alias": "sea-shrimp-paste-ball--559",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「内蒙古虾滑」→ shrimp-paste-ball"
+  },
+  {
+    "alias": "sea-shrimp-paste-ball--579",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「辽宁虾滑」→ shrimp-paste-ball"
+  },
+  {
+    "alias": "sea-shrimp-paste-ball--599",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「吉林虾滑」→ shrimp-paste-ball"
+  },
+  {
+    "alias": "sea-shrimp-paste-ball--619",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「黑龙江虾滑」→ shrimp-paste-ball"
+  },
+  {
+    "alias": "sea-shrimp-paste-ball--639",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「北京虾滑」→ shrimp-paste-ball"
+  },
+  {
+    "alias": "sea-shrimp-paste-ball--659",
+    "canonical": "shrimp-paste-ball",
+    "note": "auto: provincial pool「天津虾滑」→ shrimp-paste-ball"
   },
   {
     "alias": "sea-spanish-mackerel--361",
@@ -4815,6 +9235,36 @@
     "note": "auto: duplicate name「西藏马鲛鱼」→ reg-spanish-mackerel--2231"
   },
   {
+    "alias": "sea-spanish-mackerel--541",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「内蒙古马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "sea-spanish-mackerel--561",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「辽宁马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "sea-spanish-mackerel--581",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「吉林马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "sea-spanish-mackerel--601",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「黑龙江马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "sea-spanish-mackerel--621",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「北京马鲛鱼」→ spanish-mackerel"
+  },
+  {
+    "alias": "sea-spanish-mackerel--641",
+    "canonical": "spanish-mackerel",
+    "note": "auto: provincial pool「天津马鲛鱼」→ spanish-mackerel"
+  },
+  {
     "alias": "sea-squid-tube--364",
     "canonical": "reg-squid-tube--1554",
     "note": "auto: duplicate name「河南鱿鱼筒」→ reg-squid-tube--1554"
@@ -4853,6 +9303,41 @@
     "alias": "sea-squid-tube--504",
     "canonical": "reg-squid-tube--2149",
     "note": "auto: duplicate name「新疆鱿鱼筒」→ reg-squid-tube--2149"
+  },
+  {
+    "alias": "sea-squid-tube--524",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「西藏鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "sea-squid-tube--544",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「内蒙古鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "sea-squid-tube--564",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「辽宁鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "sea-squid-tube--584",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「吉林鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "sea-squid-tube--604",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「黑龙江鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "sea-squid-tube--624",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「北京鱿鱼筒」→ squid-tube"
+  },
+  {
+    "alias": "sea-squid-tube--644",
+    "canonical": "squid-tube",
+    "note": "auto: provincial pool「天津鱿鱼筒」→ squid-tube"
   },
   {
     "alias": "sea-whitebait--375",
@@ -4895,6 +9380,41 @@
     "note": "auto: duplicate name「新疆银鱼」→ reg-whitebait--2160"
   },
   {
+    "alias": "sea-whitebait--535",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「西藏银鱼」→ whitebait"
+  },
+  {
+    "alias": "sea-whitebait--555",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「内蒙古银鱼」→ whitebait"
+  },
+  {
+    "alias": "sea-whitebait--575",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「辽宁银鱼」→ whitebait"
+  },
+  {
+    "alias": "sea-whitebait--595",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「吉林银鱼」→ whitebait"
+  },
+  {
+    "alias": "sea-whitebait--615",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「黑龙江银鱼」→ whitebait"
+  },
+  {
+    "alias": "sea-whitebait--635",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「北京银鱼」→ whitebait"
+  },
+  {
+    "alias": "sea-whitebait--655",
+    "canonical": "whitebait",
+    "note": "auto: provincial pool「天津银鱼」→ whitebait"
+  },
+  {
     "alias": "sea-yellow-croaker-dried--377",
     "canonical": "reg-yellow-croaker-dried--1567",
     "note": "auto: duplicate name「河南黄花鱼干」→ reg-yellow-croaker-dried--1567"
@@ -4935,6 +9455,41 @@
     "note": "auto: duplicate name「新疆黄花鱼干」→ reg-yellow-croaker-dried--2162"
   },
   {
+    "alias": "sea-yellow-croaker-dried--537",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「西藏黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--557",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「内蒙古黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--577",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「辽宁黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--597",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「吉林黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--617",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「黑龙江黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--637",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「北京黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--657",
+    "canonical": "yellow-croaker-dried",
+    "note": "auto: provincial pool「天津黄花鱼干」→ yellow-croaker-dried"
+  },
+  {
     "alias": "sea-yellow-fin-tuna--363",
     "canonical": "reg-yellow-fin-tuna--1553",
     "note": "auto: duplicate name「河南黄鳍金枪鱼」→ reg-yellow-fin-tuna--1553"
@@ -4973,6 +9528,41 @@
     "alias": "sea-yellow-fin-tuna--503",
     "canonical": "reg-yellow-fin-tuna--2148",
     "note": "auto: duplicate name「新疆黄鳍金枪鱼」→ reg-yellow-fin-tuna--2148"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--523",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「西藏黄鳍金枪鱼」→ yellow-fin-tuna"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--543",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「内蒙古黄鳍金枪鱼」→ yellow-fin-tuna"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--563",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「辽宁黄鳍金枪鱼」→ yellow-fin-tuna"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--583",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「吉林黄鳍金枪鱼」→ yellow-fin-tuna"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--603",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「黑龙江黄鳍金枪鱼」→ yellow-fin-tuna"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--623",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「北京黄鳍金枪鱼」→ yellow-fin-tuna"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--643",
+    "canonical": "yellow-fin-tuna",
+    "note": "auto: provincial pool「天津黄鳍金枪鱼」→ yellow-fin-tuna"
   },
   {
     "alias": "seabed-coconut",
@@ -5085,6 +9675,41 @@
     "note": "auto: duplicate name「新疆鸡蛋仔」→ reg-egg-waffle--2202"
   },
   {
+    "alias": "snack-egg-waffle--537",
+    "canonical": "egg-waffle",
+    "note": "auto: provincial pool「西藏鸡蛋仔」→ egg-waffle"
+  },
+  {
+    "alias": "snack-egg-waffle--557",
+    "canonical": "egg-waffle",
+    "note": "auto: provincial pool「内蒙古鸡蛋仔」→ egg-waffle"
+  },
+  {
+    "alias": "snack-egg-waffle--577",
+    "canonical": "egg-waffle",
+    "note": "auto: provincial pool「辽宁鸡蛋仔」→ egg-waffle"
+  },
+  {
+    "alias": "snack-egg-waffle--597",
+    "canonical": "egg-waffle",
+    "note": "auto: provincial pool「吉林鸡蛋仔」→ egg-waffle"
+  },
+  {
+    "alias": "snack-egg-waffle--617",
+    "canonical": "egg-waffle",
+    "note": "auto: provincial pool「黑龙江鸡蛋仔」→ egg-waffle"
+  },
+  {
+    "alias": "snack-egg-waffle--637",
+    "canonical": "egg-waffle",
+    "note": "auto: provincial pool「北京鸡蛋仔」→ egg-waffle"
+  },
+  {
+    "alias": "snack-egg-waffle--657",
+    "canonical": "egg-waffle",
+    "note": "auto: provincial pool「天津鸡蛋仔」→ egg-waffle"
+  },
+  {
     "alias": "snack-fried-dough-twist--491",
     "canonical": "reg-fried-dough-twist--2111",
     "note": "auto: duplicate name「宁夏麻花」→ reg-fried-dough-twist--2111"
@@ -5093,6 +9718,36 @@
     "alias": "snack-fried-dough-twist--511",
     "canonical": "reg-fried-dough-twist--2196",
     "note": "auto: duplicate name「新疆麻花」→ reg-fried-dough-twist--2196"
+  },
+  {
+    "alias": "snack-fried-dough-twist--531",
+    "canonical": "fried-dough-twist",
+    "note": "auto: provincial pool「西藏麻花」→ fried-dough-twist"
+  },
+  {
+    "alias": "snack-fried-dough-twist--551",
+    "canonical": "fried-dough-twist",
+    "note": "auto: provincial pool「内蒙古麻花」→ fried-dough-twist"
+  },
+  {
+    "alias": "snack-fried-dough-twist--571",
+    "canonical": "fried-dough-twist",
+    "note": "auto: provincial pool「辽宁麻花」→ fried-dough-twist"
+  },
+  {
+    "alias": "snack-fried-dough-twist--591",
+    "canonical": "fried-dough-twist",
+    "note": "auto: provincial pool「吉林麻花」→ fried-dough-twist"
+  },
+  {
+    "alias": "snack-fried-dough-twist--611",
+    "canonical": "fried-dough-twist",
+    "note": "auto: provincial pool「黑龙江麻花」→ fried-dough-twist"
+  },
+  {
+    "alias": "snack-fried-dough-twist--631",
+    "canonical": "fried-dough-twist",
+    "note": "auto: provincial pool「北京麻花」→ fried-dough-twist"
   },
   {
     "alias": "snack-glutinous-rice-ball--482",
@@ -5105,6 +9760,41 @@
     "note": "auto: duplicate name「新疆糯米糍」→ reg-glutinous-rice-ball--2187"
   },
   {
+    "alias": "snack-glutinous-rice-ball--522",
+    "canonical": "glutinous-rice-ball",
+    "note": "auto: provincial pool「西藏糯米糍」→ glutinous-rice-ball"
+  },
+  {
+    "alias": "snack-glutinous-rice-ball--542",
+    "canonical": "glutinous-rice-ball",
+    "note": "auto: provincial pool「内蒙古糯米糍」→ glutinous-rice-ball"
+  },
+  {
+    "alias": "snack-glutinous-rice-ball--562",
+    "canonical": "glutinous-rice-ball",
+    "note": "auto: provincial pool「辽宁糯米糍」→ glutinous-rice-ball"
+  },
+  {
+    "alias": "snack-glutinous-rice-ball--582",
+    "canonical": "glutinous-rice-ball",
+    "note": "auto: provincial pool「吉林糯米糍」→ glutinous-rice-ball"
+  },
+  {
+    "alias": "snack-glutinous-rice-ball--602",
+    "canonical": "glutinous-rice-ball",
+    "note": "auto: provincial pool「黑龙江糯米糍」→ glutinous-rice-ball"
+  },
+  {
+    "alias": "snack-glutinous-rice-ball--622",
+    "canonical": "glutinous-rice-ball",
+    "note": "auto: provincial pool「北京糯米糍」→ glutinous-rice-ball"
+  },
+  {
+    "alias": "snack-glutinous-rice-ball--642",
+    "canonical": "glutinous-rice-ball",
+    "note": "auto: provincial pool「天津糯米糍」→ glutinous-rice-ball"
+  },
+  {
     "alias": "snack-grass-jelly--495",
     "canonical": "reg-grass-jelly--2115",
     "note": "auto: duplicate name「宁夏凉粉」→ reg-grass-jelly--2115"
@@ -5113,6 +9803,41 @@
     "alias": "snack-grass-jelly--515",
     "canonical": "reg-grass-jelly--2200",
     "note": "auto: duplicate name「新疆凉粉」→ reg-grass-jelly--2200"
+  },
+  {
+    "alias": "snack-grass-jelly--535",
+    "canonical": "grass-jelly",
+    "note": "auto: provincial pool「西藏凉粉」→ grass-jelly"
+  },
+  {
+    "alias": "snack-grass-jelly--555",
+    "canonical": "grass-jelly",
+    "note": "auto: provincial pool「内蒙古凉粉」→ grass-jelly"
+  },
+  {
+    "alias": "snack-grass-jelly--575",
+    "canonical": "grass-jelly",
+    "note": "auto: provincial pool「辽宁凉粉」→ grass-jelly"
+  },
+  {
+    "alias": "snack-grass-jelly--595",
+    "canonical": "grass-jelly",
+    "note": "auto: provincial pool「吉林凉粉」→ grass-jelly"
+  },
+  {
+    "alias": "snack-grass-jelly--615",
+    "canonical": "grass-jelly",
+    "note": "auto: provincial pool「黑龙江凉粉」→ grass-jelly"
+  },
+  {
+    "alias": "snack-grass-jelly--635",
+    "canonical": "grass-jelly",
+    "note": "auto: provincial pool「北京凉粉」→ grass-jelly"
+  },
+  {
+    "alias": "snack-grass-jelly--655",
+    "canonical": "grass-jelly",
+    "note": "auto: provincial pool「天津凉粉」→ grass-jelly"
   },
   {
     "alias": "snack-mantou--489",
@@ -5125,6 +9850,41 @@
     "note": "auto: duplicate name「新疆馒头」→ reg-mantou--2194"
   },
   {
+    "alias": "snack-mantou--529",
+    "canonical": "mantou",
+    "note": "auto: provincial pool「西藏馒头」→ mantou"
+  },
+  {
+    "alias": "snack-mantou--549",
+    "canonical": "mantou",
+    "note": "auto: provincial pool「内蒙古馒头」→ mantou"
+  },
+  {
+    "alias": "snack-mantou--569",
+    "canonical": "mantou",
+    "note": "auto: provincial pool「辽宁馒头」→ mantou"
+  },
+  {
+    "alias": "snack-mantou--589",
+    "canonical": "mantou",
+    "note": "auto: provincial pool「吉林馒头」→ mantou"
+  },
+  {
+    "alias": "snack-mantou--609",
+    "canonical": "mantou",
+    "note": "auto: provincial pool「黑龙江馒头」→ mantou"
+  },
+  {
+    "alias": "snack-mantou--629",
+    "canonical": "mantou",
+    "note": "auto: provincial pool「北京馒头」→ mantou"
+  },
+  {
+    "alias": "snack-mantou--649",
+    "canonical": "mantou",
+    "note": "auto: provincial pool「天津馒头」→ mantou"
+  },
+  {
     "alias": "snack-pineapple-bun--498",
     "canonical": "reg-pineapple-bun--2118",
     "note": "auto: duplicate name「宁夏菠萝包」→ reg-pineapple-bun--2118"
@@ -5133,6 +9893,41 @@
     "alias": "snack-pineapple-bun--518",
     "canonical": "reg-pineapple-bun--2203",
     "note": "auto: duplicate name「新疆菠萝包」→ reg-pineapple-bun--2203"
+  },
+  {
+    "alias": "snack-pineapple-bun--538",
+    "canonical": "c14-hk-pineapple-bun",
+    "note": "auto: provincial pool「西藏菠萝包」→ c14-hk-pineapple-bun"
+  },
+  {
+    "alias": "snack-pineapple-bun--558",
+    "canonical": "c14-hk-pineapple-bun",
+    "note": "auto: provincial pool「内蒙古菠萝包」→ c14-hk-pineapple-bun"
+  },
+  {
+    "alias": "snack-pineapple-bun--578",
+    "canonical": "c14-hk-pineapple-bun",
+    "note": "auto: provincial pool「辽宁菠萝包」→ c14-hk-pineapple-bun"
+  },
+  {
+    "alias": "snack-pineapple-bun--598",
+    "canonical": "c14-hk-pineapple-bun",
+    "note": "auto: provincial pool「吉林菠萝包」→ c14-hk-pineapple-bun"
+  },
+  {
+    "alias": "snack-pineapple-bun--618",
+    "canonical": "c14-hk-pineapple-bun",
+    "note": "auto: provincial pool「黑龙江菠萝包」→ c14-hk-pineapple-bun"
+  },
+  {
+    "alias": "snack-pineapple-bun--638",
+    "canonical": "c14-hk-pineapple-bun",
+    "note": "auto: provincial pool「北京菠萝包」→ c14-hk-pineapple-bun"
+  },
+  {
+    "alias": "snack-pineapple-bun--658",
+    "canonical": "c14-hk-pineapple-bun",
+    "note": "auto: provincial pool「天津菠萝包」→ c14-hk-pineapple-bun"
   },
   {
     "alias": "snack-rice-cracker--492",
@@ -5145,6 +9940,41 @@
     "note": "auto: duplicate name「新疆米饼」→ reg-rice-cracker--2197"
   },
   {
+    "alias": "snack-rice-cracker--532",
+    "canonical": "rice-cracker",
+    "note": "auto: provincial pool「西藏米饼」→ rice-cracker"
+  },
+  {
+    "alias": "snack-rice-cracker--552",
+    "canonical": "rice-cracker",
+    "note": "auto: provincial pool「内蒙古米饼」→ rice-cracker"
+  },
+  {
+    "alias": "snack-rice-cracker--572",
+    "canonical": "rice-cracker",
+    "note": "auto: provincial pool「辽宁米饼」→ rice-cracker"
+  },
+  {
+    "alias": "snack-rice-cracker--592",
+    "canonical": "rice-cracker",
+    "note": "auto: provincial pool「吉林米饼」→ rice-cracker"
+  },
+  {
+    "alias": "snack-rice-cracker--612",
+    "canonical": "rice-cracker",
+    "note": "auto: provincial pool「黑龙江米饼」→ rice-cracker"
+  },
+  {
+    "alias": "snack-rice-cracker--632",
+    "canonical": "rice-cracker",
+    "note": "auto: provincial pool「北京米饼」→ rice-cracker"
+  },
+  {
+    "alias": "snack-rice-cracker--652",
+    "canonical": "rice-cracker",
+    "note": "auto: provincial pool「天津米饼」→ rice-cracker"
+  },
+  {
     "alias": "snack-rice-dumpling-salty--486",
     "canonical": "reg-rice-dumpling-salty--2106",
     "note": "auto: duplicate name「宁夏咸肉粽」→ reg-rice-dumpling-salty--2106"
@@ -5153,6 +9983,41 @@
     "alias": "snack-rice-dumpling-salty--506",
     "canonical": "reg-rice-dumpling-salty--2191",
     "note": "auto: duplicate name「新疆咸肉粽」→ reg-rice-dumpling-salty--2191"
+  },
+  {
+    "alias": "snack-rice-dumpling-salty--526",
+    "canonical": "c14-gd-rice-dumpling",
+    "note": "auto: provincial pool「西藏咸肉粽」→ c14-gd-rice-dumpling"
+  },
+  {
+    "alias": "snack-rice-dumpling-salty--546",
+    "canonical": "c14-gd-rice-dumpling",
+    "note": "auto: provincial pool「内蒙古咸肉粽」→ c14-gd-rice-dumpling"
+  },
+  {
+    "alias": "snack-rice-dumpling-salty--566",
+    "canonical": "c14-gd-rice-dumpling",
+    "note": "auto: provincial pool「辽宁咸肉粽」→ c14-gd-rice-dumpling"
+  },
+  {
+    "alias": "snack-rice-dumpling-salty--586",
+    "canonical": "c14-gd-rice-dumpling",
+    "note": "auto: provincial pool「吉林咸肉粽」→ c14-gd-rice-dumpling"
+  },
+  {
+    "alias": "snack-rice-dumpling-salty--606",
+    "canonical": "c14-gd-rice-dumpling",
+    "note": "auto: provincial pool「黑龙江咸肉粽」→ c14-gd-rice-dumpling"
+  },
+  {
+    "alias": "snack-rice-dumpling-salty--626",
+    "canonical": "c14-gd-rice-dumpling",
+    "note": "auto: provincial pool「北京咸肉粽」→ c14-gd-rice-dumpling"
+  },
+  {
+    "alias": "snack-rice-dumpling-salty--646",
+    "canonical": "c14-gd-rice-dumpling",
+    "note": "auto: provincial pool「天津咸肉粽」→ c14-gd-rice-dumpling"
   },
   {
     "alias": "snack-rice-dumpling-sweet--487",
@@ -5165,6 +10030,41 @@
     "note": "auto: duplicate name「新疆碱水粽」→ reg-rice-dumpling-sweet--2192"
   },
   {
+    "alias": "snack-rice-dumpling-sweet--527",
+    "canonical": "rice-dumpling-sweet",
+    "note": "auto: provincial pool「西藏碱水粽」→ rice-dumpling-sweet"
+  },
+  {
+    "alias": "snack-rice-dumpling-sweet--547",
+    "canonical": "rice-dumpling-sweet",
+    "note": "auto: provincial pool「内蒙古碱水粽」→ rice-dumpling-sweet"
+  },
+  {
+    "alias": "snack-rice-dumpling-sweet--567",
+    "canonical": "rice-dumpling-sweet",
+    "note": "auto: provincial pool「辽宁碱水粽」→ rice-dumpling-sweet"
+  },
+  {
+    "alias": "snack-rice-dumpling-sweet--587",
+    "canonical": "rice-dumpling-sweet",
+    "note": "auto: provincial pool「吉林碱水粽」→ rice-dumpling-sweet"
+  },
+  {
+    "alias": "snack-rice-dumpling-sweet--607",
+    "canonical": "rice-dumpling-sweet",
+    "note": "auto: provincial pool「黑龙江碱水粽」→ rice-dumpling-sweet"
+  },
+  {
+    "alias": "snack-rice-dumpling-sweet--627",
+    "canonical": "rice-dumpling-sweet",
+    "note": "auto: provincial pool「北京碱水粽」→ rice-dumpling-sweet"
+  },
+  {
+    "alias": "snack-rice-dumpling-sweet--647",
+    "canonical": "rice-dumpling-sweet",
+    "note": "auto: provincial pool「天津碱水粽」→ rice-dumpling-sweet"
+  },
+  {
     "alias": "snack-rice-flour-cake--481",
     "canonical": "reg-rice-flour-cake--2101",
     "note": "auto: duplicate name「宁夏米糕」→ reg-rice-flour-cake--2101"
@@ -5173,6 +10073,41 @@
     "alias": "snack-rice-flour-cake--501",
     "canonical": "reg-rice-flour-cake--2186",
     "note": "auto: duplicate name「新疆米糕」→ reg-rice-flour-cake--2186"
+  },
+  {
+    "alias": "snack-rice-flour-cake--521",
+    "canonical": "rice-flour-cake",
+    "note": "auto: provincial pool「西藏米糕」→ rice-flour-cake"
+  },
+  {
+    "alias": "snack-rice-flour-cake--541",
+    "canonical": "rice-flour-cake",
+    "note": "auto: provincial pool「内蒙古米糕」→ rice-flour-cake"
+  },
+  {
+    "alias": "snack-rice-flour-cake--561",
+    "canonical": "rice-flour-cake",
+    "note": "auto: provincial pool「辽宁米糕」→ rice-flour-cake"
+  },
+  {
+    "alias": "snack-rice-flour-cake--581",
+    "canonical": "rice-flour-cake",
+    "note": "auto: provincial pool「吉林米糕」→ rice-flour-cake"
+  },
+  {
+    "alias": "snack-rice-flour-cake--601",
+    "canonical": "rice-flour-cake",
+    "note": "auto: provincial pool「黑龙江米糕」→ rice-flour-cake"
+  },
+  {
+    "alias": "snack-rice-flour-cake--621",
+    "canonical": "rice-flour-cake",
+    "note": "auto: provincial pool「北京米糕」→ rice-flour-cake"
+  },
+  {
+    "alias": "snack-rice-flour-cake--641",
+    "canonical": "rice-flour-cake",
+    "note": "auto: provincial pool「天津米糕」→ rice-flour-cake"
   },
   {
     "alias": "snack-rice-noodle-roll--480",
@@ -5185,6 +10120,41 @@
     "note": "auto: duplicate name「新疆卷粉」→ reg-rice-noodle-roll--2185"
   },
   {
+    "alias": "snack-rice-noodle-roll--520",
+    "canonical": "rice-noodle-roll",
+    "note": "auto: provincial pool「西藏卷粉」→ rice-noodle-roll"
+  },
+  {
+    "alias": "snack-rice-noodle-roll--540",
+    "canonical": "rice-noodle-roll",
+    "note": "auto: provincial pool「内蒙古卷粉」→ rice-noodle-roll"
+  },
+  {
+    "alias": "snack-rice-noodle-roll--560",
+    "canonical": "rice-noodle-roll",
+    "note": "auto: provincial pool「辽宁卷粉」→ rice-noodle-roll"
+  },
+  {
+    "alias": "snack-rice-noodle-roll--580",
+    "canonical": "rice-noodle-roll",
+    "note": "auto: provincial pool「吉林卷粉」→ rice-noodle-roll"
+  },
+  {
+    "alias": "snack-rice-noodle-roll--600",
+    "canonical": "rice-noodle-roll",
+    "note": "auto: provincial pool「黑龙江卷粉」→ rice-noodle-roll"
+  },
+  {
+    "alias": "snack-rice-noodle-roll--620",
+    "canonical": "rice-noodle-roll",
+    "note": "auto: provincial pool「北京卷粉」→ rice-noodle-roll"
+  },
+  {
+    "alias": "snack-rice-noodle-roll--640",
+    "canonical": "rice-noodle-roll",
+    "note": "auto: provincial pool「天津卷粉」→ rice-noodle-roll"
+  },
+  {
     "alias": "snack-scallion-pancake--490",
     "canonical": "reg-scallion-pancake--2110",
     "note": "auto: duplicate name「宁夏葱油饼」→ reg-scallion-pancake--2110"
@@ -5193,6 +10163,41 @@
     "alias": "snack-scallion-pancake--510",
     "canonical": "reg-scallion-pancake--2195",
     "note": "auto: duplicate name「新疆葱油饼」→ reg-scallion-pancake--2195"
+  },
+  {
+    "alias": "snack-scallion-pancake--530",
+    "canonical": "c13-sd-scallion-pancake",
+    "note": "auto: provincial pool「西藏葱油饼」→ c13-sd-scallion-pancake"
+  },
+  {
+    "alias": "snack-scallion-pancake--550",
+    "canonical": "c13-sd-scallion-pancake",
+    "note": "auto: provincial pool「内蒙古葱油饼」→ c13-sd-scallion-pancake"
+  },
+  {
+    "alias": "snack-scallion-pancake--570",
+    "canonical": "c13-sd-scallion-pancake",
+    "note": "auto: provincial pool「辽宁葱油饼」→ c13-sd-scallion-pancake"
+  },
+  {
+    "alias": "snack-scallion-pancake--590",
+    "canonical": "c13-sd-scallion-pancake",
+    "note": "auto: provincial pool「吉林葱油饼」→ c13-sd-scallion-pancake"
+  },
+  {
+    "alias": "snack-scallion-pancake--610",
+    "canonical": "c13-sd-scallion-pancake",
+    "note": "auto: provincial pool「黑龙江葱油饼」→ c13-sd-scallion-pancake"
+  },
+  {
+    "alias": "snack-scallion-pancake--630",
+    "canonical": "c13-sd-scallion-pancake",
+    "note": "auto: provincial pool「北京葱油饼」→ c13-sd-scallion-pancake"
+  },
+  {
+    "alias": "snack-scallion-pancake--650",
+    "canonical": "c13-sd-scallion-pancake",
+    "note": "auto: provincial pool「天津葱油饼」→ c13-sd-scallion-pancake"
   },
   {
     "alias": "snack-sesame-ball--483",
@@ -5205,6 +10210,41 @@
     "note": "auto: duplicate name「新疆煎堆」→ reg-sesame-ball--2188"
   },
   {
+    "alias": "snack-sesame-ball--523",
+    "canonical": "c13-gd-sesame-ball",
+    "note": "auto: provincial pool「西藏煎堆」→ c13-gd-sesame-ball"
+  },
+  {
+    "alias": "snack-sesame-ball--543",
+    "canonical": "c13-gd-sesame-ball",
+    "note": "auto: provincial pool「内蒙古煎堆」→ c13-gd-sesame-ball"
+  },
+  {
+    "alias": "snack-sesame-ball--563",
+    "canonical": "c13-gd-sesame-ball",
+    "note": "auto: provincial pool「辽宁煎堆」→ c13-gd-sesame-ball"
+  },
+  {
+    "alias": "snack-sesame-ball--583",
+    "canonical": "c13-gd-sesame-ball",
+    "note": "auto: provincial pool「吉林煎堆」→ c13-gd-sesame-ball"
+  },
+  {
+    "alias": "snack-sesame-ball--603",
+    "canonical": "c13-gd-sesame-ball",
+    "note": "auto: provincial pool「黑龙江煎堆」→ c13-gd-sesame-ball"
+  },
+  {
+    "alias": "snack-sesame-ball--623",
+    "canonical": "c13-gd-sesame-ball",
+    "note": "auto: provincial pool「北京煎堆」→ c13-gd-sesame-ball"
+  },
+  {
+    "alias": "snack-sesame-ball--643",
+    "canonical": "c13-gd-sesame-ball",
+    "note": "auto: provincial pool「天津煎堆」→ c13-gd-sesame-ball"
+  },
+  {
     "alias": "snack-soy-milk-hot--493",
     "canonical": "reg-soy-milk-hot--2113",
     "note": "auto: duplicate name「宁夏热豆浆」→ reg-soy-milk-hot--2113"
@@ -5213,6 +10253,41 @@
     "alias": "snack-soy-milk-hot--513",
     "canonical": "reg-soy-milk-hot--2198",
     "note": "auto: duplicate name「新疆热豆浆」→ reg-soy-milk-hot--2198"
+  },
+  {
+    "alias": "snack-soy-milk-hot--533",
+    "canonical": "soy-milk-hot",
+    "note": "auto: provincial pool「西藏热豆浆」→ soy-milk-hot"
+  },
+  {
+    "alias": "snack-soy-milk-hot--553",
+    "canonical": "soy-milk-hot",
+    "note": "auto: provincial pool「内蒙古热豆浆」→ soy-milk-hot"
+  },
+  {
+    "alias": "snack-soy-milk-hot--573",
+    "canonical": "soy-milk-hot",
+    "note": "auto: provincial pool「辽宁热豆浆」→ soy-milk-hot"
+  },
+  {
+    "alias": "snack-soy-milk-hot--593",
+    "canonical": "soy-milk-hot",
+    "note": "auto: provincial pool「吉林热豆浆」→ soy-milk-hot"
+  },
+  {
+    "alias": "snack-soy-milk-hot--613",
+    "canonical": "soy-milk-hot",
+    "note": "auto: provincial pool「黑龙江热豆浆」→ soy-milk-hot"
+  },
+  {
+    "alias": "snack-soy-milk-hot--633",
+    "canonical": "soy-milk-hot",
+    "note": "auto: provincial pool「北京热豆浆」→ soy-milk-hot"
+  },
+  {
+    "alias": "snack-soy-milk-hot--653",
+    "canonical": "soy-milk-hot",
+    "note": "auto: provincial pool「天津热豆浆」→ soy-milk-hot"
   },
   {
     "alias": "snack-steamed-bun--488",
@@ -5225,6 +10300,41 @@
     "note": "auto: duplicate name「新疆包子」→ reg-steamed-bun--2193"
   },
   {
+    "alias": "snack-steamed-bun--528",
+    "canonical": "steamed-bun",
+    "note": "auto: provincial pool「西藏包子」→ steamed-bun"
+  },
+  {
+    "alias": "snack-steamed-bun--548",
+    "canonical": "steamed-bun",
+    "note": "auto: provincial pool「内蒙古包子」→ steamed-bun"
+  },
+  {
+    "alias": "snack-steamed-bun--568",
+    "canonical": "steamed-bun",
+    "note": "auto: provincial pool「辽宁包子」→ steamed-bun"
+  },
+  {
+    "alias": "snack-steamed-bun--588",
+    "canonical": "steamed-bun",
+    "note": "auto: provincial pool「吉林包子」→ steamed-bun"
+  },
+  {
+    "alias": "snack-steamed-bun--608",
+    "canonical": "steamed-bun",
+    "note": "auto: provincial pool「黑龙江包子」→ steamed-bun"
+  },
+  {
+    "alias": "snack-steamed-bun--628",
+    "canonical": "steamed-bun",
+    "note": "auto: provincial pool「北京包子」→ steamed-bun"
+  },
+  {
+    "alias": "snack-steamed-bun--648",
+    "canonical": "steamed-bun",
+    "note": "auto: provincial pool「天津包子」→ steamed-bun"
+  },
+  {
     "alias": "snack-sweet-potato-ginger--496",
     "canonical": "reg-sweet-potato-ginger--2116",
     "note": "auto: duplicate name「宁夏番薯姜糖水」→ reg-sweet-potato-ginger--2116"
@@ -5233,6 +10343,41 @@
     "alias": "snack-sweet-potato-ginger--516",
     "canonical": "reg-sweet-potato-ginger--2201",
     "note": "auto: duplicate name「新疆番薯姜糖水」→ reg-sweet-potato-ginger--2201"
+  },
+  {
+    "alias": "snack-sweet-potato-ginger--536",
+    "canonical": "sweet-potato-ginger",
+    "note": "auto: provincial pool「西藏番薯姜糖水」→ sweet-potato-ginger"
+  },
+  {
+    "alias": "snack-sweet-potato-ginger--556",
+    "canonical": "sweet-potato-ginger",
+    "note": "auto: provincial pool「内蒙古番薯姜糖水」→ sweet-potato-ginger"
+  },
+  {
+    "alias": "snack-sweet-potato-ginger--576",
+    "canonical": "sweet-potato-ginger",
+    "note": "auto: provincial pool「辽宁番薯姜糖水」→ sweet-potato-ginger"
+  },
+  {
+    "alias": "snack-sweet-potato-ginger--596",
+    "canonical": "sweet-potato-ginger",
+    "note": "auto: provincial pool「吉林番薯姜糖水」→ sweet-potato-ginger"
+  },
+  {
+    "alias": "snack-sweet-potato-ginger--616",
+    "canonical": "sweet-potato-ginger",
+    "note": "auto: provincial pool「黑龙江番薯姜糖水」→ sweet-potato-ginger"
+  },
+  {
+    "alias": "snack-sweet-potato-ginger--636",
+    "canonical": "sweet-potato-ginger",
+    "note": "auto: provincial pool「北京番薯姜糖水」→ sweet-potato-ginger"
+  },
+  {
+    "alias": "snack-sweet-potato-ginger--656",
+    "canonical": "sweet-potato-ginger",
+    "note": "auto: provincial pool「天津番薯姜糖水」→ sweet-potato-ginger"
   },
   {
     "alias": "snack-taro-pudding--485",
@@ -5245,6 +10390,41 @@
     "note": "auto: duplicate name「新疆芋头糕」→ reg-taro-pudding--2190"
   },
   {
+    "alias": "snack-taro-pudding--525",
+    "canonical": "taro-cake",
+    "note": "auto: provincial pool「西藏芋头糕」→ taro-cake"
+  },
+  {
+    "alias": "snack-taro-pudding--545",
+    "canonical": "taro-cake",
+    "note": "auto: provincial pool「内蒙古芋头糕」→ taro-cake"
+  },
+  {
+    "alias": "snack-taro-pudding--565",
+    "canonical": "taro-cake",
+    "note": "auto: provincial pool「辽宁芋头糕」→ taro-cake"
+  },
+  {
+    "alias": "snack-taro-pudding--585",
+    "canonical": "taro-cake",
+    "note": "auto: provincial pool「吉林芋头糕」→ taro-cake"
+  },
+  {
+    "alias": "snack-taro-pudding--605",
+    "canonical": "taro-cake",
+    "note": "auto: provincial pool「黑龙江芋头糕」→ taro-cake"
+  },
+  {
+    "alias": "snack-taro-pudding--625",
+    "canonical": "taro-cake",
+    "note": "auto: provincial pool「北京芋头糕」→ taro-cake"
+  },
+  {
+    "alias": "snack-taro-pudding--645",
+    "canonical": "taro-cake",
+    "note": "auto: provincial pool「天津芋头糕」→ taro-cake"
+  },
+  {
     "alias": "snack-tofu-pudding--494",
     "canonical": "reg-tofu-pudding--2114",
     "note": "auto: duplicate name「宁夏豆腐花」→ reg-tofu-pudding--2114"
@@ -5253,6 +10433,41 @@
     "alias": "snack-tofu-pudding--514",
     "canonical": "reg-tofu-pudding--2199",
     "note": "auto: duplicate name「新疆豆腐花」→ reg-tofu-pudding--2199"
+  },
+  {
+    "alias": "snack-tofu-pudding--534",
+    "canonical": "hk-tofu-pudding-hk",
+    "note": "auto: provincial pool「西藏豆腐花」→ hk-tofu-pudding-hk"
+  },
+  {
+    "alias": "snack-tofu-pudding--554",
+    "canonical": "hk-tofu-pudding-hk",
+    "note": "auto: provincial pool「内蒙古豆腐花」→ hk-tofu-pudding-hk"
+  },
+  {
+    "alias": "snack-tofu-pudding--574",
+    "canonical": "hk-tofu-pudding-hk",
+    "note": "auto: provincial pool「辽宁豆腐花」→ hk-tofu-pudding-hk"
+  },
+  {
+    "alias": "snack-tofu-pudding--594",
+    "canonical": "hk-tofu-pudding-hk",
+    "note": "auto: provincial pool「吉林豆腐花」→ hk-tofu-pudding-hk"
+  },
+  {
+    "alias": "snack-tofu-pudding--614",
+    "canonical": "hk-tofu-pudding-hk",
+    "note": "auto: provincial pool「黑龙江豆腐花」→ hk-tofu-pudding-hk"
+  },
+  {
+    "alias": "snack-tofu-pudding--634",
+    "canonical": "hk-tofu-pudding-hk",
+    "note": "auto: provincial pool「北京豆腐花」→ hk-tofu-pudding-hk"
+  },
+  {
+    "alias": "snack-tofu-pudding--654",
+    "canonical": "hk-tofu-pudding-hk",
+    "note": "auto: provincial pool「天津豆腐花」→ hk-tofu-pudding-hk"
   },
   {
     "alias": "snack-turnip-pudding--484",
@@ -5265,6 +10480,41 @@
     "note": "auto: duplicate name「新疆萝卜糕」→ reg-turnip-pudding--2189"
   },
   {
+    "alias": "snack-turnip-pudding--524",
+    "canonical": "turnip-cake",
+    "note": "auto: provincial pool「西藏萝卜糕」→ turnip-cake"
+  },
+  {
+    "alias": "snack-turnip-pudding--544",
+    "canonical": "turnip-cake",
+    "note": "auto: provincial pool「内蒙古萝卜糕」→ turnip-cake"
+  },
+  {
+    "alias": "snack-turnip-pudding--564",
+    "canonical": "turnip-cake",
+    "note": "auto: provincial pool「辽宁萝卜糕」→ turnip-cake"
+  },
+  {
+    "alias": "snack-turnip-pudding--584",
+    "canonical": "turnip-cake",
+    "note": "auto: provincial pool「吉林萝卜糕」→ turnip-cake"
+  },
+  {
+    "alias": "snack-turnip-pudding--604",
+    "canonical": "turnip-cake",
+    "note": "auto: provincial pool「黑龙江萝卜糕」→ turnip-cake"
+  },
+  {
+    "alias": "snack-turnip-pudding--624",
+    "canonical": "turnip-cake",
+    "note": "auto: provincial pool「北京萝卜糕」→ turnip-cake"
+  },
+  {
+    "alias": "snack-turnip-pudding--644",
+    "canonical": "turnip-cake",
+    "note": "auto: provincial pool「天津萝卜糕」→ turnip-cake"
+  },
+  {
     "alias": "snack-wife-cake--499",
     "canonical": "reg-wife-cake--2119",
     "note": "auto: duplicate name「宁夏老婆饼」→ reg-wife-cake--2119"
@@ -5273,6 +10523,41 @@
     "alias": "snack-wife-cake--519",
     "canonical": "reg-wife-cake--2204",
     "note": "auto: duplicate name「新疆老婆饼」→ reg-wife-cake--2204"
+  },
+  {
+    "alias": "snack-wife-cake--539",
+    "canonical": "hk-wife-cake-hk",
+    "note": "auto: provincial pool「西藏老婆饼」→ hk-wife-cake-hk"
+  },
+  {
+    "alias": "snack-wife-cake--559",
+    "canonical": "hk-wife-cake-hk",
+    "note": "auto: provincial pool「内蒙古老婆饼」→ hk-wife-cake-hk"
+  },
+  {
+    "alias": "snack-wife-cake--579",
+    "canonical": "hk-wife-cake-hk",
+    "note": "auto: provincial pool「辽宁老婆饼」→ hk-wife-cake-hk"
+  },
+  {
+    "alias": "snack-wife-cake--599",
+    "canonical": "hk-wife-cake-hk",
+    "note": "auto: provincial pool「吉林老婆饼」→ hk-wife-cake-hk"
+  },
+  {
+    "alias": "snack-wife-cake--619",
+    "canonical": "hk-wife-cake-hk",
+    "note": "auto: provincial pool「黑龙江老婆饼」→ hk-wife-cake-hk"
+  },
+  {
+    "alias": "snack-wife-cake--639",
+    "canonical": "hk-wife-cake-hk",
+    "note": "auto: provincial pool「北京老婆饼」→ hk-wife-cake-hk"
+  },
+  {
+    "alias": "snack-wife-cake--659",
+    "canonical": "hk-wife-cake-hk",
+    "note": "auto: provincial pool「天津老婆饼」→ hk-wife-cake-hk"
   },
   {
     "alias": "snail",

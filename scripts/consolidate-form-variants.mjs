@@ -15,6 +15,7 @@ import {
   pickCanonicalRow,
   writeFoodIdAliasFile
 } from "./lib/catalog-records.mjs";
+import { uniquePoolItems } from "./lib/china-pool-manifest.mjs";
 import {
   CN_JSON_SOURCES,
   loadFoodIdAliasMap,
@@ -129,6 +130,7 @@ function buildProposals(rows) {
     byName.get(row.name).push(row);
   });
   const knownNames = new Set(rows.filter((r) => !r.record?.hiddenFromLibrary).map((r) => r.name));
+  uniquePoolItems().forEach((item) => knownNames.add(item.name));
 
   const proposals = [];
   const seenAlias = new Set();

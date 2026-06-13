@@ -4234,7 +4234,8 @@
       "sea-pomfret--522"
     ],
     "summary": "西藏鲳鱼在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-fin-tuna--523",
@@ -4259,7 +4260,8 @@
       "sea-yellow-fin-tuna--523"
     ],
     "summary": "西藏黄鳍金枪鱼属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-squid-tube--524",
@@ -4284,7 +4286,8 @@
       "sea-squid-tube--524"
     ],
     "summary": "西藏产区西藏鱿鱼筒，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-cuttlefish--525",
@@ -4309,7 +4312,8 @@
       "sea-cuttlefish--525"
     ],
     "summary": "西藏墨鱼为西藏地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-squid--526",
@@ -4334,7 +4338,8 @@
       "sea-dried-squid--526"
     ],
     "summary": "西藏家常海产西藏鱿鱼干，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-cuttlefish--527",
@@ -4359,7 +4364,8 @@
       "sea-dried-cuttlefish--527"
     ],
     "summary": "西藏墨鱼干在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-clams--528",
@@ -4384,7 +4390,8 @@
       "sea-clams--528"
     ],
     "summary": "西藏花甲属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-razor-clam--529",
@@ -4409,7 +4416,8 @@
       "sea-razor-clam--529"
     ],
     "summary": "西藏产区西藏蛏子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-oyster-meat--530",
@@ -4434,7 +4442,8 @@
       "sea-oyster-meat--530"
     ],
     "summary": "西藏生蚝肉为西藏地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-abalone-small--531",
@@ -4459,7 +4468,8 @@
       "sea-abalone-small--531"
     ],
     "summary": "西藏家常海产西藏鲍鱼仔，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-sea-cucumber-dried--532",
@@ -4484,7 +4494,8 @@
       "sea-sea-cucumber-dried--532"
     ],
     "summary": "西藏海参干在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-seaweed-sheet--533",
@@ -4509,7 +4520,8 @@
       "sea-seaweed-sheet--533"
     ],
     "summary": "西藏紫菜属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-kelp-knot--534",
@@ -4534,7 +4546,8 @@
       "sea-kelp-knot--534"
     ],
     "summary": "西藏产区西藏海带结，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-whitebait--535",
@@ -4559,7 +4572,8 @@
       "sea-whitebait--535"
     ],
     "summary": "西藏银鱼为西藏地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-anchovy--536",
@@ -4584,7 +4598,8 @@
       "sea-anchovy--536"
     ],
     "summary": "西藏家常海产西藏凤尾鱼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-croaker-dried--537",
@@ -4609,7 +4624,8 @@
       "sea-yellow-croaker-dried--537"
     ],
     "summary": "西藏黄花鱼干在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-fish-ball--538",
@@ -4634,7 +4650,8 @@
       "sea-fish-ball--538"
     ],
     "summary": "西藏鱼丸属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-shrimp-paste-ball--539",
@@ -4659,7 +4676,8 @@
       "sea-shrimp-paste-ball--539"
     ],
     "summary": "西藏产区西藏虾滑，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-hairtail--540",
@@ -4684,7 +4702,8 @@
       "sea-hairtail--540"
     ],
     "summary": "内蒙古带鱼为内蒙古地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-spanish-mackerel--541",
@@ -4709,7 +4728,8 @@
       "sea-spanish-mackerel--541"
     ],
     "summary": "内蒙古家常海产内蒙古马鲛鱼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-pomfret--542",
@@ -4734,7 +4754,8 @@
       "sea-pomfret--542"
     ],
     "summary": "内蒙古鲳鱼在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-fin-tuna--543",
@@ -4759,7 +4780,8 @@
       "sea-yellow-fin-tuna--543"
     ],
     "summary": "内蒙古黄鳍金枪鱼属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-squid-tube--544",
@@ -4784,7 +4806,8 @@
       "sea-squid-tube--544"
     ],
     "summary": "内蒙古产区内蒙古鱿鱼筒，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-cuttlefish--545",
@@ -4809,7 +4832,8 @@
       "sea-cuttlefish--545"
     ],
     "summary": "内蒙古墨鱼为内蒙古地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-squid--546",
@@ -4834,7 +4858,8 @@
       "sea-dried-squid--546"
     ],
     "summary": "内蒙古家常海产内蒙古鱿鱼干，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-cuttlefish--547",
@@ -4859,7 +4884,8 @@
       "sea-dried-cuttlefish--547"
     ],
     "summary": "内蒙古墨鱼干在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-clams--548",
@@ -4884,7 +4910,8 @@
       "sea-clams--548"
     ],
     "summary": "内蒙古花甲属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-razor-clam--549",
@@ -4909,7 +4936,8 @@
       "sea-razor-clam--549"
     ],
     "summary": "内蒙古产区内蒙古蛏子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-oyster-meat--550",
@@ -4934,7 +4962,8 @@
       "sea-oyster-meat--550"
     ],
     "summary": "内蒙古生蚝肉为内蒙古地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-abalone-small--551",
@@ -4959,7 +4988,8 @@
       "sea-abalone-small--551"
     ],
     "summary": "内蒙古家常海产内蒙古鲍鱼仔，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-sea-cucumber-dried--552",
@@ -4984,7 +5014,8 @@
       "sea-sea-cucumber-dried--552"
     ],
     "summary": "内蒙古海参干在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-seaweed-sheet--553",
@@ -5009,7 +5040,8 @@
       "sea-seaweed-sheet--553"
     ],
     "summary": "内蒙古紫菜属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-kelp-knot--554",
@@ -5034,7 +5066,8 @@
       "sea-kelp-knot--554"
     ],
     "summary": "内蒙古产区内蒙古海带结，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-whitebait--555",
@@ -5059,7 +5092,8 @@
       "sea-whitebait--555"
     ],
     "summary": "内蒙古银鱼为内蒙古地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-anchovy--556",
@@ -5084,7 +5118,8 @@
       "sea-anchovy--556"
     ],
     "summary": "内蒙古家常海产内蒙古凤尾鱼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-croaker-dried--557",
@@ -5109,7 +5144,8 @@
       "sea-yellow-croaker-dried--557"
     ],
     "summary": "内蒙古黄花鱼干在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-fish-ball--558",
@@ -5134,7 +5170,8 @@
       "sea-fish-ball--558"
     ],
     "summary": "内蒙古鱼丸属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-shrimp-paste-ball--559",
@@ -5159,7 +5196,8 @@
       "sea-shrimp-paste-ball--559"
     ],
     "summary": "内蒙古产区内蒙古虾滑，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-hairtail--560",
@@ -5184,7 +5222,8 @@
       "sea-hairtail--560"
     ],
     "summary": "辽宁带鱼为辽宁地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-spanish-mackerel--561",
@@ -5209,7 +5248,8 @@
       "sea-spanish-mackerel--561"
     ],
     "summary": "辽宁家常海产辽宁马鲛鱼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-pomfret--562",
@@ -5234,7 +5274,8 @@
       "sea-pomfret--562"
     ],
     "summary": "辽宁鲳鱼在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-fin-tuna--563",
@@ -5259,7 +5300,8 @@
       "sea-yellow-fin-tuna--563"
     ],
     "summary": "辽宁黄鳍金枪鱼属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-squid-tube--564",
@@ -5284,7 +5326,8 @@
       "sea-squid-tube--564"
     ],
     "summary": "辽宁产区辽宁鱿鱼筒，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-cuttlefish--565",
@@ -5309,7 +5352,8 @@
       "sea-cuttlefish--565"
     ],
     "summary": "辽宁墨鱼为辽宁地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-squid--566",
@@ -5334,7 +5378,8 @@
       "sea-dried-squid--566"
     ],
     "summary": "辽宁家常海产辽宁鱿鱼干，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-cuttlefish--567",
@@ -5359,7 +5404,8 @@
       "sea-dried-cuttlefish--567"
     ],
     "summary": "辽宁墨鱼干在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-clams--568",
@@ -5384,7 +5430,8 @@
       "sea-clams--568"
     ],
     "summary": "辽宁花甲属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-razor-clam--569",
@@ -5409,7 +5456,8 @@
       "sea-razor-clam--569"
     ],
     "summary": "辽宁产区辽宁蛏子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-oyster-meat--570",
@@ -5434,7 +5482,8 @@
       "sea-oyster-meat--570"
     ],
     "summary": "辽宁生蚝肉为辽宁地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-abalone-small--571",
@@ -5459,7 +5508,8 @@
       "sea-abalone-small--571"
     ],
     "summary": "辽宁家常海产辽宁鲍鱼仔，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-sea-cucumber-dried--572",
@@ -5484,7 +5534,8 @@
       "sea-sea-cucumber-dried--572"
     ],
     "summary": "辽宁海参干在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-seaweed-sheet--573",
@@ -5509,7 +5560,8 @@
       "sea-seaweed-sheet--573"
     ],
     "summary": "辽宁紫菜属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-kelp-knot--574",
@@ -5534,7 +5586,8 @@
       "sea-kelp-knot--574"
     ],
     "summary": "辽宁产区辽宁海带结，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-whitebait--575",
@@ -5559,7 +5612,8 @@
       "sea-whitebait--575"
     ],
     "summary": "辽宁银鱼为辽宁地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-anchovy--576",
@@ -5584,7 +5638,8 @@
       "sea-anchovy--576"
     ],
     "summary": "辽宁家常海产辽宁凤尾鱼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-croaker-dried--577",
@@ -5609,7 +5664,8 @@
       "sea-yellow-croaker-dried--577"
     ],
     "summary": "辽宁黄花鱼干在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-fish-ball--578",
@@ -5634,7 +5690,8 @@
       "sea-fish-ball--578"
     ],
     "summary": "辽宁鱼丸属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-shrimp-paste-ball--579",
@@ -5659,7 +5716,8 @@
       "sea-shrimp-paste-ball--579"
     ],
     "summary": "辽宁产区辽宁虾滑，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-hairtail--580",
@@ -5684,7 +5742,8 @@
       "sea-hairtail--580"
     ],
     "summary": "吉林带鱼为吉林地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-spanish-mackerel--581",
@@ -5709,7 +5768,8 @@
       "sea-spanish-mackerel--581"
     ],
     "summary": "吉林家常海产吉林马鲛鱼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-pomfret--582",
@@ -5734,7 +5794,8 @@
       "sea-pomfret--582"
     ],
     "summary": "吉林鲳鱼在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-fin-tuna--583",
@@ -5759,7 +5820,8 @@
       "sea-yellow-fin-tuna--583"
     ],
     "summary": "吉林黄鳍金枪鱼属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-squid-tube--584",
@@ -5784,7 +5846,8 @@
       "sea-squid-tube--584"
     ],
     "summary": "吉林产区吉林鱿鱼筒，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-cuttlefish--585",
@@ -5809,7 +5872,8 @@
       "sea-cuttlefish--585"
     ],
     "summary": "吉林墨鱼为吉林地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-squid--586",
@@ -5834,7 +5898,8 @@
       "sea-dried-squid--586"
     ],
     "summary": "吉林家常海产吉林鱿鱼干，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-cuttlefish--587",
@@ -5859,7 +5924,8 @@
       "sea-dried-cuttlefish--587"
     ],
     "summary": "吉林墨鱼干在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-clams--588",
@@ -5884,7 +5950,8 @@
       "sea-clams--588"
     ],
     "summary": "吉林花甲属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-razor-clam--589",
@@ -5909,7 +5976,8 @@
       "sea-razor-clam--589"
     ],
     "summary": "吉林产区吉林蛏子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-oyster-meat--590",
@@ -5934,7 +6002,8 @@
       "sea-oyster-meat--590"
     ],
     "summary": "吉林生蚝肉为吉林地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-abalone-small--591",
@@ -5959,7 +6028,8 @@
       "sea-abalone-small--591"
     ],
     "summary": "吉林家常海产吉林鲍鱼仔，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-sea-cucumber-dried--592",
@@ -5984,7 +6054,8 @@
       "sea-sea-cucumber-dried--592"
     ],
     "summary": "吉林海参干在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-seaweed-sheet--593",
@@ -6009,7 +6080,8 @@
       "sea-seaweed-sheet--593"
     ],
     "summary": "吉林紫菜属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-kelp-knot--594",
@@ -6034,7 +6106,8 @@
       "sea-kelp-knot--594"
     ],
     "summary": "吉林产区吉林海带结，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-whitebait--595",
@@ -6059,7 +6132,8 @@
       "sea-whitebait--595"
     ],
     "summary": "吉林银鱼为吉林地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-anchovy--596",
@@ -6084,7 +6158,8 @@
       "sea-anchovy--596"
     ],
     "summary": "吉林家常海产吉林凤尾鱼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-croaker-dried--597",
@@ -6109,7 +6184,8 @@
       "sea-yellow-croaker-dried--597"
     ],
     "summary": "吉林黄花鱼干在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-fish-ball--598",
@@ -6134,7 +6210,8 @@
       "sea-fish-ball--598"
     ],
     "summary": "吉林鱼丸属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-shrimp-paste-ball--599",
@@ -6159,7 +6236,8 @@
       "sea-shrimp-paste-ball--599"
     ],
     "summary": "吉林产区吉林虾滑，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-hairtail--600",
@@ -6184,7 +6262,8 @@
       "sea-hairtail--600"
     ],
     "summary": "黑龙江带鱼为黑龙江地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-spanish-mackerel--601",
@@ -6209,7 +6288,8 @@
       "sea-spanish-mackerel--601"
     ],
     "summary": "黑龙江家常海产黑龙江马鲛鱼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-pomfret--602",
@@ -6234,7 +6314,8 @@
       "sea-pomfret--602"
     ],
     "summary": "黑龙江鲳鱼在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-fin-tuna--603",
@@ -6259,7 +6340,8 @@
       "sea-yellow-fin-tuna--603"
     ],
     "summary": "黑龙江黄鳍金枪鱼属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-squid-tube--604",
@@ -6284,7 +6366,8 @@
       "sea-squid-tube--604"
     ],
     "summary": "黑龙江产区黑龙江鱿鱼筒，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-cuttlefish--605",
@@ -6309,7 +6392,8 @@
       "sea-cuttlefish--605"
     ],
     "summary": "黑龙江墨鱼为黑龙江地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-squid--606",
@@ -6334,7 +6418,8 @@
       "sea-dried-squid--606"
     ],
     "summary": "黑龙江家常海产黑龙江鱿鱼干，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-cuttlefish--607",
@@ -6359,7 +6444,8 @@
       "sea-dried-cuttlefish--607"
     ],
     "summary": "黑龙江墨鱼干在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-clams--608",
@@ -6384,7 +6470,8 @@
       "sea-clams--608"
     ],
     "summary": "黑龙江花甲属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-razor-clam--609",
@@ -6409,7 +6496,8 @@
       "sea-razor-clam--609"
     ],
     "summary": "黑龙江产区黑龙江蛏子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-oyster-meat--610",
@@ -6434,7 +6522,8 @@
       "sea-oyster-meat--610"
     ],
     "summary": "黑龙江生蚝肉为黑龙江地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-abalone-small--611",
@@ -6459,7 +6548,8 @@
       "sea-abalone-small--611"
     ],
     "summary": "黑龙江家常海产黑龙江鲍鱼仔，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-sea-cucumber-dried--612",
@@ -6484,7 +6574,8 @@
       "sea-sea-cucumber-dried--612"
     ],
     "summary": "黑龙江海参干在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-seaweed-sheet--613",
@@ -6509,7 +6600,8 @@
       "sea-seaweed-sheet--613"
     ],
     "summary": "黑龙江紫菜属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-kelp-knot--614",
@@ -6534,7 +6626,8 @@
       "sea-kelp-knot--614"
     ],
     "summary": "黑龙江产区黑龙江海带结，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-whitebait--615",
@@ -6559,7 +6652,8 @@
       "sea-whitebait--615"
     ],
     "summary": "黑龙江银鱼为黑龙江地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-anchovy--616",
@@ -6584,7 +6678,8 @@
       "sea-anchovy--616"
     ],
     "summary": "黑龙江家常海产黑龙江凤尾鱼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-croaker-dried--617",
@@ -6609,7 +6704,8 @@
       "sea-yellow-croaker-dried--617"
     ],
     "summary": "黑龙江黄花鱼干在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-fish-ball--618",
@@ -6634,7 +6730,8 @@
       "sea-fish-ball--618"
     ],
     "summary": "黑龙江鱼丸属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-shrimp-paste-ball--619",
@@ -6659,7 +6756,8 @@
       "sea-shrimp-paste-ball--619"
     ],
     "summary": "黑龙江产区黑龙江虾滑，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-hairtail--620",
@@ -6684,7 +6782,8 @@
       "sea-hairtail--620"
     ],
     "summary": "北京带鱼为北京地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-spanish-mackerel--621",
@@ -6709,7 +6808,8 @@
       "sea-spanish-mackerel--621"
     ],
     "summary": "北京家常海产北京马鲛鱼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-pomfret--622",
@@ -6734,7 +6834,8 @@
       "sea-pomfret--622"
     ],
     "summary": "北京鲳鱼在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-fin-tuna--623",
@@ -6759,7 +6860,8 @@
       "sea-yellow-fin-tuna--623"
     ],
     "summary": "北京黄鳍金枪鱼属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-squid-tube--624",
@@ -6784,7 +6886,8 @@
       "sea-squid-tube--624"
     ],
     "summary": "北京产区北京鱿鱼筒，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-cuttlefish--625",
@@ -6809,7 +6912,8 @@
       "sea-cuttlefish--625"
     ],
     "summary": "北京墨鱼为北京地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-squid--626",
@@ -6834,7 +6938,8 @@
       "sea-dried-squid--626"
     ],
     "summary": "北京家常海产北京鱿鱼干，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-cuttlefish--627",
@@ -6859,7 +6964,8 @@
       "sea-dried-cuttlefish--627"
     ],
     "summary": "北京墨鱼干在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-clams--628",
@@ -6884,7 +6990,8 @@
       "sea-clams--628"
     ],
     "summary": "北京花甲属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-razor-clam--629",
@@ -6909,7 +7016,8 @@
       "sea-razor-clam--629"
     ],
     "summary": "北京产区北京蛏子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-oyster-meat--630",
@@ -6934,7 +7042,8 @@
       "sea-oyster-meat--630"
     ],
     "summary": "北京生蚝肉为北京地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-abalone-small--631",
@@ -6959,7 +7068,8 @@
       "sea-abalone-small--631"
     ],
     "summary": "北京家常海产北京鲍鱼仔，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-sea-cucumber-dried--632",
@@ -6984,7 +7094,8 @@
       "sea-sea-cucumber-dried--632"
     ],
     "summary": "北京海参干在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-seaweed-sheet--633",
@@ -7009,7 +7120,8 @@
       "sea-seaweed-sheet--633"
     ],
     "summary": "北京紫菜属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-kelp-knot--634",
@@ -7034,7 +7146,8 @@
       "sea-kelp-knot--634"
     ],
     "summary": "北京产区北京海带结，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-whitebait--635",
@@ -7059,7 +7172,8 @@
       "sea-whitebait--635"
     ],
     "summary": "北京银鱼为北京地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-anchovy--636",
@@ -7084,7 +7198,8 @@
       "sea-anchovy--636"
     ],
     "summary": "北京家常海产北京凤尾鱼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-croaker-dried--637",
@@ -7109,7 +7224,8 @@
       "sea-yellow-croaker-dried--637"
     ],
     "summary": "北京黄花鱼干在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-fish-ball--638",
@@ -7134,7 +7250,8 @@
       "sea-fish-ball--638"
     ],
     "summary": "北京鱼丸属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-shrimp-paste-ball--639",
@@ -7159,7 +7276,8 @@
       "sea-shrimp-paste-ball--639"
     ],
     "summary": "北京产区北京虾滑，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-hairtail--640",
@@ -7184,7 +7302,8 @@
       "sea-hairtail--640"
     ],
     "summary": "天津带鱼为天津地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-spanish-mackerel--641",
@@ -7209,7 +7328,8 @@
       "sea-spanish-mackerel--641"
     ],
     "summary": "天津家常海产天津马鲛鱼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-pomfret--642",
@@ -7234,7 +7354,8 @@
       "sea-pomfret--642"
     ],
     "summary": "天津鲳鱼在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-fin-tuna--643",
@@ -7259,7 +7380,8 @@
       "sea-yellow-fin-tuna--643"
     ],
     "summary": "天津黄鳍金枪鱼属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-squid-tube--644",
@@ -7284,7 +7406,8 @@
       "sea-squid-tube--644"
     ],
     "summary": "天津产区天津鱿鱼筒，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-cuttlefish--645",
@@ -7309,7 +7432,8 @@
       "sea-cuttlefish--645"
     ],
     "summary": "天津墨鱼为天津地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-squid--646",
@@ -7334,7 +7458,8 @@
       "sea-dried-squid--646"
     ],
     "summary": "天津家常海产天津鱿鱼干，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-dried-cuttlefish--647",
@@ -7359,7 +7484,8 @@
       "sea-dried-cuttlefish--647"
     ],
     "summary": "天津墨鱼干在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-clams--648",
@@ -7384,7 +7510,8 @@
       "sea-clams--648"
     ],
     "summary": "天津花甲属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-razor-clam--649",
@@ -7409,7 +7536,8 @@
       "sea-razor-clam--649"
     ],
     "summary": "天津产区天津蛏子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-oyster-meat--650",
@@ -7434,7 +7562,8 @@
       "sea-oyster-meat--650"
     ],
     "summary": "天津生蚝肉为天津地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-abalone-small--651",
@@ -7459,7 +7588,8 @@
       "sea-abalone-small--651"
     ],
     "summary": "天津家常海产天津鲍鱼仔，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-sea-cucumber-dried--652",
@@ -7484,7 +7614,8 @@
       "sea-sea-cucumber-dried--652"
     ],
     "summary": "天津海参干在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-seaweed-sheet--653",
@@ -7509,7 +7640,8 @@
       "sea-seaweed-sheet--653"
     ],
     "summary": "天津紫菜属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-kelp-knot--654",
@@ -7534,7 +7666,8 @@
       "sea-kelp-knot--654"
     ],
     "summary": "天津产区天津海带结，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-whitebait--655",
@@ -7559,7 +7692,8 @@
       "sea-whitebait--655"
     ],
     "summary": "天津银鱼为天津地方海产，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-anchovy--656",
@@ -7584,7 +7718,8 @@
       "sea-anchovy--656"
     ],
     "summary": "天津家常海产天津凤尾鱼，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-yellow-croaker-dried--657",
@@ -7609,7 +7744,8 @@
       "sea-yellow-croaker-dried--657"
     ],
     "summary": "天津黄花鱼干在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-fish-ball--658",
@@ -7634,7 +7770,8 @@
       "sea-fish-ball--658"
     ],
     "summary": "天津鱼丸属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sea-shrimp-paste-ball--659",
@@ -7659,6 +7796,7 @@
       "sea-shrimp-paste-ball--659"
     ],
     "summary": "天津产区天津虾滑，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   }
 ]

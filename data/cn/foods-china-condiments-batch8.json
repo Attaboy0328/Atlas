@@ -22,7 +22,8 @@
       "cond-bean-paste--360"
     ],
     "summary": "河南黄豆酱为河南地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--361",
@@ -47,7 +48,8 @@
       "cond-sweet-bean-sauce--361"
     ],
     "summary": "河南家常调料河南甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--362",
@@ -72,7 +74,8 @@
       "cond-chili-bean-paste--362"
     ],
     "summary": "河南辣豆瓣酱在河南饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--363",
@@ -97,7 +100,8 @@
       "cond-fermented-tofu-white--363"
     ],
     "summary": "河南白腐乳属河南类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--364",
@@ -122,7 +126,8 @@
       "cond-fermented-tofu-rose--364"
     ],
     "summary": "河南产区河南玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--365",
@@ -147,7 +152,8 @@
       "cond-sesame-oil--365"
     ],
     "summary": "河南芝麻油为河南地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--366",
@@ -172,7 +178,8 @@
       "cond-chili-oil--366"
     ],
     "summary": "河南家常调料河南辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--367",
@@ -197,7 +204,8 @@
       "cond-sichuan-pepper-oil--367"
     ],
     "summary": "河南花椒油在河南饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--368",
@@ -222,7 +230,8 @@
       "cond-oyster-sauce--368"
     ],
     "summary": "河南蚝油属河南类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--369",
@@ -247,7 +256,8 @@
       "cond-shrimp-sauce--369"
     ],
     "summary": "河南产区河南虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--370",
@@ -272,7 +282,8 @@
       "cond-fish-sauce-gd--370"
     ],
     "summary": "河南鱼露为河南地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--371",
@@ -297,7 +308,8 @@
       "cond-rice-wine-cooking--371"
     ],
     "summary": "河南家常调料河南料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--372",
@@ -322,7 +334,8 @@
       "cond-yellow-rice-wine--372"
     ],
     "summary": "河南黄酒在河南饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--373",
@@ -347,7 +360,8 @@
       "cond-rose-fermented-wine--373"
     ],
     "summary": "河南玫瑰露酒属河南类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--374",
@@ -372,7 +386,8 @@
       "cond-preserved-plum--374"
     ],
     "summary": "河南产区河南咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--375",
@@ -397,7 +412,8 @@
       "cond-master-stock--375"
     ],
     "summary": "河南卤水汁为河南地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--376",
@@ -422,7 +438,8 @@
       "cond-five-spice-powder--376"
     ],
     "summary": "河南家常调料河南五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--377",
@@ -447,7 +464,8 @@
       "cond-curry-powder-cn--377"
     ],
     "summary": "河南咖喱粉在河南饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--378",
@@ -472,7 +490,8 @@
       "cond-satay-sauce--378"
     ],
     "summary": "河南沙茶酱属河南类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--379",
@@ -497,7 +516,8 @@
       "cond-bbq-sauce-cn--379"
     ],
     "summary": "河南产区河南叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--380",
@@ -522,7 +542,8 @@
       "cond-bean-paste--380"
     ],
     "summary": "河北黄豆酱为河北地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--381",
@@ -547,7 +568,8 @@
       "cond-sweet-bean-sauce--381"
     ],
     "summary": "河北家常调料河北甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--382",
@@ -572,7 +594,8 @@
       "cond-chili-bean-paste--382"
     ],
     "summary": "河北辣豆瓣酱在河北饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--383",
@@ -597,7 +620,8 @@
       "cond-fermented-tofu-white--383"
     ],
     "summary": "河北白腐乳属河北类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--384",
@@ -622,7 +646,8 @@
       "cond-fermented-tofu-rose--384"
     ],
     "summary": "河北产区河北玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--385",
@@ -647,7 +672,8 @@
       "cond-sesame-oil--385"
     ],
     "summary": "河北芝麻油为河北地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--386",
@@ -672,7 +698,8 @@
       "cond-chili-oil--386"
     ],
     "summary": "河北家常调料河北辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--387",
@@ -697,7 +724,8 @@
       "cond-sichuan-pepper-oil--387"
     ],
     "summary": "河北花椒油在河北饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--388",
@@ -722,7 +750,8 @@
       "cond-oyster-sauce--388"
     ],
     "summary": "河北蚝油属河北类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--389",
@@ -747,7 +776,8 @@
       "cond-shrimp-sauce--389"
     ],
     "summary": "河北产区河北虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--390",
@@ -772,7 +802,8 @@
       "cond-fish-sauce-gd--390"
     ],
     "summary": "河北鱼露为河北地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--391",
@@ -797,7 +828,8 @@
       "cond-rice-wine-cooking--391"
     ],
     "summary": "河北家常调料河北料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--392",
@@ -822,7 +854,8 @@
       "cond-yellow-rice-wine--392"
     ],
     "summary": "河北黄酒在河北饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--393",
@@ -847,7 +880,8 @@
       "cond-rose-fermented-wine--393"
     ],
     "summary": "河北玫瑰露酒属河北类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--394",
@@ -872,7 +906,8 @@
       "cond-preserved-plum--394"
     ],
     "summary": "河北产区河北咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--395",
@@ -897,7 +932,8 @@
       "cond-master-stock--395"
     ],
     "summary": "河北卤水汁为河北地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--396",
@@ -922,7 +958,8 @@
       "cond-five-spice-powder--396"
     ],
     "summary": "河北家常调料河北五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--397",
@@ -947,7 +984,8 @@
       "cond-curry-powder-cn--397"
     ],
     "summary": "河北咖喱粉在河北饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--398",
@@ -972,7 +1010,8 @@
       "cond-satay-sauce--398"
     ],
     "summary": "河北沙茶酱属河北类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--399",
@@ -997,7 +1036,8 @@
       "cond-bbq-sauce-cn--399"
     ],
     "summary": "河北产区河北叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--400",
@@ -1022,7 +1062,8 @@
       "cond-bean-paste--400"
     ],
     "summary": "山西黄豆酱为山西地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--401",
@@ -1047,7 +1088,8 @@
       "cond-sweet-bean-sauce--401"
     ],
     "summary": "山西家常调料山西甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--402",
@@ -1072,7 +1114,8 @@
       "cond-chili-bean-paste--402"
     ],
     "summary": "山西辣豆瓣酱在山西饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--403",
@@ -1097,7 +1140,8 @@
       "cond-fermented-tofu-white--403"
     ],
     "summary": "山西白腐乳属山西类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--404",
@@ -1122,7 +1166,8 @@
       "cond-fermented-tofu-rose--404"
     ],
     "summary": "山西产区山西玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--405",
@@ -1147,7 +1192,8 @@
       "cond-sesame-oil--405"
     ],
     "summary": "山西芝麻油为山西地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--406",
@@ -1172,7 +1218,8 @@
       "cond-chili-oil--406"
     ],
     "summary": "山西家常调料山西辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--407",
@@ -1197,7 +1244,8 @@
       "cond-sichuan-pepper-oil--407"
     ],
     "summary": "山西花椒油在山西饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--408",
@@ -1222,7 +1270,8 @@
       "cond-oyster-sauce--408"
     ],
     "summary": "山西蚝油属山西类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--409",
@@ -1247,7 +1296,8 @@
       "cond-shrimp-sauce--409"
     ],
     "summary": "山西产区山西虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--410",
@@ -1272,7 +1322,8 @@
       "cond-fish-sauce-gd--410"
     ],
     "summary": "山西鱼露为山西地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--411",
@@ -1297,7 +1348,8 @@
       "cond-rice-wine-cooking--411"
     ],
     "summary": "山西家常调料山西料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--412",
@@ -1322,7 +1374,8 @@
       "cond-yellow-rice-wine--412"
     ],
     "summary": "山西黄酒在山西饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--413",
@@ -1347,7 +1400,8 @@
       "cond-rose-fermented-wine--413"
     ],
     "summary": "山西玫瑰露酒属山西类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--414",
@@ -1372,7 +1426,8 @@
       "cond-preserved-plum--414"
     ],
     "summary": "山西产区山西咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--415",
@@ -1397,7 +1452,8 @@
       "cond-master-stock--415"
     ],
     "summary": "山西卤水汁为山西地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--416",
@@ -1422,7 +1478,8 @@
       "cond-five-spice-powder--416"
     ],
     "summary": "山西家常调料山西五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--417",
@@ -1447,7 +1504,8 @@
       "cond-curry-powder-cn--417"
     ],
     "summary": "山西咖喱粉在山西饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--418",
@@ -1472,7 +1530,8 @@
       "cond-satay-sauce--418"
     ],
     "summary": "山西沙茶酱属山西类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--419",
@@ -1497,7 +1556,8 @@
       "cond-bbq-sauce-cn--419"
     ],
     "summary": "山西产区山西叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--420",
@@ -1522,7 +1582,8 @@
       "cond-bean-paste--420"
     ],
     "summary": "陕西黄豆酱为陕西地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--421",
@@ -1547,7 +1608,8 @@
       "cond-sweet-bean-sauce--421"
     ],
     "summary": "陕西家常调料陕西甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--422",
@@ -1572,7 +1634,8 @@
       "cond-chili-bean-paste--422"
     ],
     "summary": "陕西辣豆瓣酱在陕西饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--423",
@@ -1597,7 +1660,8 @@
       "cond-fermented-tofu-white--423"
     ],
     "summary": "陕西白腐乳属陕西类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--424",
@@ -1622,7 +1686,8 @@
       "cond-fermented-tofu-rose--424"
     ],
     "summary": "陕西产区陕西玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--425",
@@ -1647,7 +1712,8 @@
       "cond-sesame-oil--425"
     ],
     "summary": "陕西芝麻油为陕西地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--426",
@@ -1672,7 +1738,8 @@
       "cond-chili-oil--426"
     ],
     "summary": "陕西家常调料陕西辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--427",
@@ -1697,7 +1764,8 @@
       "cond-sichuan-pepper-oil--427"
     ],
     "summary": "陕西花椒油在陕西饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--428",
@@ -1722,7 +1790,8 @@
       "cond-oyster-sauce--428"
     ],
     "summary": "陕西蚝油属陕西类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--429",
@@ -1747,7 +1816,8 @@
       "cond-shrimp-sauce--429"
     ],
     "summary": "陕西产区陕西虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--430",
@@ -1772,7 +1842,8 @@
       "cond-fish-sauce-gd--430"
     ],
     "summary": "陕西鱼露为陕西地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--431",
@@ -1797,7 +1868,8 @@
       "cond-rice-wine-cooking--431"
     ],
     "summary": "陕西家常调料陕西料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--432",
@@ -1822,7 +1894,8 @@
       "cond-yellow-rice-wine--432"
     ],
     "summary": "陕西黄酒在陕西饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--433",
@@ -1847,7 +1920,8 @@
       "cond-rose-fermented-wine--433"
     ],
     "summary": "陕西玫瑰露酒属陕西类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--434",
@@ -1872,7 +1946,8 @@
       "cond-preserved-plum--434"
     ],
     "summary": "陕西产区陕西咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--435",
@@ -1897,7 +1972,8 @@
       "cond-master-stock--435"
     ],
     "summary": "陕西卤水汁为陕西地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--436",
@@ -1922,7 +1998,8 @@
       "cond-five-spice-powder--436"
     ],
     "summary": "陕西家常调料陕西五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--437",
@@ -1947,7 +2024,8 @@
       "cond-curry-powder-cn--437"
     ],
     "summary": "陕西咖喱粉在陕西饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--438",
@@ -1972,7 +2050,8 @@
       "cond-satay-sauce--438"
     ],
     "summary": "陕西沙茶酱属陕西类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--439",
@@ -1997,7 +2076,8 @@
       "cond-bbq-sauce-cn--439"
     ],
     "summary": "陕西产区陕西叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--440",
@@ -2022,7 +2102,8 @@
       "cond-bean-paste--440"
     ],
     "summary": "甘肃黄豆酱为甘肃地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--441",
@@ -2047,7 +2128,8 @@
       "cond-sweet-bean-sauce--441"
     ],
     "summary": "甘肃家常调料甘肃甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--442",
@@ -2072,7 +2154,8 @@
       "cond-chili-bean-paste--442"
     ],
     "summary": "甘肃辣豆瓣酱在甘肃饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--443",
@@ -2097,7 +2180,8 @@
       "cond-fermented-tofu-white--443"
     ],
     "summary": "甘肃白腐乳属甘肃类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--444",
@@ -2122,7 +2206,8 @@
       "cond-fermented-tofu-rose--444"
     ],
     "summary": "甘肃产区甘肃玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--445",
@@ -2147,7 +2232,8 @@
       "cond-sesame-oil--445"
     ],
     "summary": "甘肃芝麻油为甘肃地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--446",
@@ -2172,7 +2258,8 @@
       "cond-chili-oil--446"
     ],
     "summary": "甘肃家常调料甘肃辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--447",
@@ -2197,7 +2284,8 @@
       "cond-sichuan-pepper-oil--447"
     ],
     "summary": "甘肃花椒油在甘肃饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--448",
@@ -2222,7 +2310,8 @@
       "cond-oyster-sauce--448"
     ],
     "summary": "甘肃蚝油属甘肃类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--449",
@@ -2247,7 +2336,8 @@
       "cond-shrimp-sauce--449"
     ],
     "summary": "甘肃产区甘肃虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--450",
@@ -2272,7 +2362,8 @@
       "cond-fish-sauce-gd--450"
     ],
     "summary": "甘肃鱼露为甘肃地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--451",
@@ -2297,7 +2388,8 @@
       "cond-rice-wine-cooking--451"
     ],
     "summary": "甘肃家常调料甘肃料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--452",
@@ -2322,7 +2414,8 @@
       "cond-yellow-rice-wine--452"
     ],
     "summary": "甘肃黄酒在甘肃饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--453",
@@ -2347,7 +2440,8 @@
       "cond-rose-fermented-wine--453"
     ],
     "summary": "甘肃玫瑰露酒属甘肃类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--454",
@@ -2372,7 +2466,8 @@
       "cond-preserved-plum--454"
     ],
     "summary": "甘肃产区甘肃咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--455",
@@ -2397,7 +2492,8 @@
       "cond-master-stock--455"
     ],
     "summary": "甘肃卤水汁为甘肃地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--456",
@@ -2422,7 +2518,8 @@
       "cond-five-spice-powder--456"
     ],
     "summary": "甘肃家常调料甘肃五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--457",
@@ -2447,7 +2544,8 @@
       "cond-curry-powder-cn--457"
     ],
     "summary": "甘肃咖喱粉在甘肃饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--458",
@@ -2472,7 +2570,8 @@
       "cond-satay-sauce--458"
     ],
     "summary": "甘肃沙茶酱属甘肃类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--459",
@@ -2497,7 +2596,8 @@
       "cond-bbq-sauce-cn--459"
     ],
     "summary": "甘肃产区甘肃叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--460",
@@ -2522,7 +2622,8 @@
       "cond-bean-paste--460"
     ],
     "summary": "青海黄豆酱为青海地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--461",
@@ -2547,7 +2648,8 @@
       "cond-sweet-bean-sauce--461"
     ],
     "summary": "青海家常调料青海甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--462",
@@ -2572,7 +2674,8 @@
       "cond-chili-bean-paste--462"
     ],
     "summary": "青海辣豆瓣酱在青海饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--463",
@@ -2597,7 +2700,8 @@
       "cond-fermented-tofu-white--463"
     ],
     "summary": "青海白腐乳属青海类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--464",
@@ -2622,7 +2726,8 @@
       "cond-fermented-tofu-rose--464"
     ],
     "summary": "青海产区青海玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--465",
@@ -2647,7 +2752,8 @@
       "cond-sesame-oil--465"
     ],
     "summary": "青海芝麻油为青海地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--466",
@@ -2672,7 +2778,8 @@
       "cond-chili-oil--466"
     ],
     "summary": "青海家常调料青海辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--467",
@@ -2697,7 +2804,8 @@
       "cond-sichuan-pepper-oil--467"
     ],
     "summary": "青海花椒油在青海饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--468",
@@ -2722,7 +2830,8 @@
       "cond-oyster-sauce--468"
     ],
     "summary": "青海蚝油属青海类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--469",
@@ -2747,7 +2856,8 @@
       "cond-shrimp-sauce--469"
     ],
     "summary": "青海产区青海虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--470",
@@ -2772,7 +2882,8 @@
       "cond-fish-sauce-gd--470"
     ],
     "summary": "青海鱼露为青海地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--471",
@@ -2797,7 +2908,8 @@
       "cond-rice-wine-cooking--471"
     ],
     "summary": "青海家常调料青海料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--472",
@@ -2822,7 +2934,8 @@
       "cond-yellow-rice-wine--472"
     ],
     "summary": "青海黄酒在青海饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--473",
@@ -2847,7 +2960,8 @@
       "cond-rose-fermented-wine--473"
     ],
     "summary": "青海玫瑰露酒属青海类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--474",
@@ -2872,7 +2986,8 @@
       "cond-preserved-plum--474"
     ],
     "summary": "青海产区青海咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--475",
@@ -2897,7 +3012,8 @@
       "cond-master-stock--475"
     ],
     "summary": "青海卤水汁为青海地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--476",
@@ -2922,7 +3038,8 @@
       "cond-five-spice-powder--476"
     ],
     "summary": "青海家常调料青海五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--477",
@@ -2947,7 +3064,8 @@
       "cond-curry-powder-cn--477"
     ],
     "summary": "青海咖喱粉在青海饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--478",
@@ -2972,7 +3090,8 @@
       "cond-satay-sauce--478"
     ],
     "summary": "青海沙茶酱属青海类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--479",
@@ -2997,7 +3116,8 @@
       "cond-bbq-sauce-cn--479"
     ],
     "summary": "青海产区青海叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--480",
@@ -3022,7 +3142,8 @@
       "cond-bean-paste--480"
     ],
     "summary": "宁夏黄豆酱为宁夏地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--481",
@@ -3047,7 +3168,8 @@
       "cond-sweet-bean-sauce--481"
     ],
     "summary": "宁夏家常调料宁夏甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--482",
@@ -3072,7 +3194,8 @@
       "cond-chili-bean-paste--482"
     ],
     "summary": "宁夏辣豆瓣酱在宁夏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--483",
@@ -3097,7 +3220,8 @@
       "cond-fermented-tofu-white--483"
     ],
     "summary": "宁夏白腐乳属宁夏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--484",
@@ -3122,7 +3246,8 @@
       "cond-fermented-tofu-rose--484"
     ],
     "summary": "宁夏产区宁夏玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--485",
@@ -3147,7 +3272,8 @@
       "cond-sesame-oil--485"
     ],
     "summary": "宁夏芝麻油为宁夏地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--486",
@@ -3172,7 +3298,8 @@
       "cond-chili-oil--486"
     ],
     "summary": "宁夏家常调料宁夏辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--487",
@@ -3197,7 +3324,8 @@
       "cond-sichuan-pepper-oil--487"
     ],
     "summary": "宁夏花椒油在宁夏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--488",
@@ -3222,7 +3350,8 @@
       "cond-oyster-sauce--488"
     ],
     "summary": "宁夏蚝油属宁夏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--489",
@@ -3247,7 +3376,8 @@
       "cond-shrimp-sauce--489"
     ],
     "summary": "宁夏产区宁夏虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--490",
@@ -3272,7 +3402,8 @@
       "cond-fish-sauce-gd--490"
     ],
     "summary": "宁夏鱼露为宁夏地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--491",
@@ -3297,7 +3428,8 @@
       "cond-rice-wine-cooking--491"
     ],
     "summary": "宁夏家常调料宁夏料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--492",
@@ -3322,7 +3454,8 @@
       "cond-yellow-rice-wine--492"
     ],
     "summary": "宁夏黄酒在宁夏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--493",
@@ -3347,7 +3480,8 @@
       "cond-rose-fermented-wine--493"
     ],
     "summary": "宁夏玫瑰露酒属宁夏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--494",
@@ -3372,7 +3506,8 @@
       "cond-preserved-plum--494"
     ],
     "summary": "宁夏产区宁夏咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--495",
@@ -3397,7 +3532,8 @@
       "cond-master-stock--495"
     ],
     "summary": "宁夏卤水汁为宁夏地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--496",
@@ -3422,7 +3558,8 @@
       "cond-five-spice-powder--496"
     ],
     "summary": "宁夏家常调料宁夏五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--497",
@@ -3447,7 +3584,8 @@
       "cond-curry-powder-cn--497"
     ],
     "summary": "宁夏咖喱粉在宁夏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--498",
@@ -3472,7 +3610,8 @@
       "cond-satay-sauce--498"
     ],
     "summary": "宁夏沙茶酱属宁夏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--499",
@@ -3497,7 +3636,8 @@
       "cond-bbq-sauce-cn--499"
     ],
     "summary": "宁夏产区宁夏叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--500",
@@ -3522,7 +3662,8 @@
       "cond-bean-paste--500"
     ],
     "summary": "新疆黄豆酱为新疆地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--501",
@@ -3547,7 +3688,8 @@
       "cond-sweet-bean-sauce--501"
     ],
     "summary": "新疆家常调料新疆甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--502",
@@ -3572,7 +3714,8 @@
       "cond-chili-bean-paste--502"
     ],
     "summary": "新疆辣豆瓣酱在新疆饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--503",
@@ -3597,7 +3740,8 @@
       "cond-fermented-tofu-white--503"
     ],
     "summary": "新疆白腐乳属新疆类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--504",
@@ -3622,7 +3766,8 @@
       "cond-fermented-tofu-rose--504"
     ],
     "summary": "新疆产区新疆玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--505",
@@ -3647,7 +3792,8 @@
       "cond-sesame-oil--505"
     ],
     "summary": "新疆芝麻油为新疆地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--506",
@@ -3672,7 +3818,8 @@
       "cond-chili-oil--506"
     ],
     "summary": "新疆家常调料新疆辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--507",
@@ -3697,7 +3844,8 @@
       "cond-sichuan-pepper-oil--507"
     ],
     "summary": "新疆花椒油在新疆饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--508",
@@ -3722,7 +3870,8 @@
       "cond-oyster-sauce--508"
     ],
     "summary": "新疆蚝油属新疆类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--509",
@@ -3747,7 +3896,8 @@
       "cond-shrimp-sauce--509"
     ],
     "summary": "新疆产区新疆虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--510",
@@ -3772,7 +3922,8 @@
       "cond-fish-sauce-gd--510"
     ],
     "summary": "新疆鱼露为新疆地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--511",
@@ -3797,7 +3948,8 @@
       "cond-rice-wine-cooking--511"
     ],
     "summary": "新疆家常调料新疆料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--512",
@@ -3822,7 +3974,8 @@
       "cond-yellow-rice-wine--512"
     ],
     "summary": "新疆黄酒在新疆饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--513",
@@ -3847,7 +4000,8 @@
       "cond-rose-fermented-wine--513"
     ],
     "summary": "新疆玫瑰露酒属新疆类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--514",
@@ -3872,7 +4026,8 @@
       "cond-preserved-plum--514"
     ],
     "summary": "新疆产区新疆咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--515",
@@ -3897,7 +4052,8 @@
       "cond-master-stock--515"
     ],
     "summary": "新疆卤水汁为新疆地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--516",
@@ -3922,7 +4078,8 @@
       "cond-five-spice-powder--516"
     ],
     "summary": "新疆家常调料新疆五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--517",
@@ -3947,7 +4104,8 @@
       "cond-curry-powder-cn--517"
     ],
     "summary": "新疆咖喱粉在新疆饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--518",
@@ -3972,7 +4130,8 @@
       "cond-satay-sauce--518"
     ],
     "summary": "新疆沙茶酱属新疆类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--519",
@@ -3997,7 +4156,8 @@
       "cond-bbq-sauce-cn--519"
     ],
     "summary": "新疆产区新疆叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--520",
@@ -4022,7 +4182,8 @@
       "cond-bean-paste--520"
     ],
     "summary": "西藏黄豆酱为西藏地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--521",
@@ -4047,7 +4208,8 @@
       "cond-sweet-bean-sauce--521"
     ],
     "summary": "西藏家常调料西藏甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--522",
@@ -4072,7 +4234,8 @@
       "cond-chili-bean-paste--522"
     ],
     "summary": "西藏辣豆瓣酱在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--523",
@@ -4097,7 +4260,8 @@
       "cond-fermented-tofu-white--523"
     ],
     "summary": "西藏白腐乳属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--524",
@@ -4122,7 +4286,8 @@
       "cond-fermented-tofu-rose--524"
     ],
     "summary": "西藏产区西藏玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--525",
@@ -4147,7 +4312,8 @@
       "cond-sesame-oil--525"
     ],
     "summary": "西藏芝麻油为西藏地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--526",
@@ -4172,7 +4338,8 @@
       "cond-chili-oil--526"
     ],
     "summary": "西藏家常调料西藏辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--527",
@@ -4197,7 +4364,8 @@
       "cond-sichuan-pepper-oil--527"
     ],
     "summary": "西藏花椒油在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--528",
@@ -4222,7 +4390,8 @@
       "cond-oyster-sauce--528"
     ],
     "summary": "西藏蚝油属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--529",
@@ -4247,7 +4416,8 @@
       "cond-shrimp-sauce--529"
     ],
     "summary": "西藏产区西藏虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--530",
@@ -4272,7 +4442,8 @@
       "cond-fish-sauce-gd--530"
     ],
     "summary": "西藏鱼露为西藏地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--531",
@@ -4297,7 +4468,8 @@
       "cond-rice-wine-cooking--531"
     ],
     "summary": "西藏家常调料西藏料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--532",
@@ -4322,7 +4494,8 @@
       "cond-yellow-rice-wine--532"
     ],
     "summary": "西藏黄酒在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--533",
@@ -4347,7 +4520,8 @@
       "cond-rose-fermented-wine--533"
     ],
     "summary": "西藏玫瑰露酒属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--534",
@@ -4372,7 +4546,8 @@
       "cond-preserved-plum--534"
     ],
     "summary": "西藏产区西藏咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--535",
@@ -4397,7 +4572,8 @@
       "cond-master-stock--535"
     ],
     "summary": "西藏卤水汁为西藏地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--536",
@@ -4422,7 +4598,8 @@
       "cond-five-spice-powder--536"
     ],
     "summary": "西藏家常调料西藏五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--537",
@@ -4447,7 +4624,8 @@
       "cond-curry-powder-cn--537"
     ],
     "summary": "西藏咖喱粉在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--538",
@@ -4472,7 +4650,8 @@
       "cond-satay-sauce--538"
     ],
     "summary": "西藏沙茶酱属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--539",
@@ -4497,7 +4676,8 @@
       "cond-bbq-sauce-cn--539"
     ],
     "summary": "西藏产区西藏叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--540",
@@ -4522,7 +4702,8 @@
       "cond-bean-paste--540"
     ],
     "summary": "内蒙古黄豆酱为内蒙古地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--541",
@@ -4547,7 +4728,8 @@
       "cond-sweet-bean-sauce--541"
     ],
     "summary": "内蒙古家常调料内蒙古甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--542",
@@ -4572,7 +4754,8 @@
       "cond-chili-bean-paste--542"
     ],
     "summary": "内蒙古辣豆瓣酱在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--543",
@@ -4597,7 +4780,8 @@
       "cond-fermented-tofu-white--543"
     ],
     "summary": "内蒙古白腐乳属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--544",
@@ -4622,7 +4806,8 @@
       "cond-fermented-tofu-rose--544"
     ],
     "summary": "内蒙古产区内蒙古玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--545",
@@ -4647,7 +4832,8 @@
       "cond-sesame-oil--545"
     ],
     "summary": "内蒙古芝麻油为内蒙古地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--546",
@@ -4672,7 +4858,8 @@
       "cond-chili-oil--546"
     ],
     "summary": "内蒙古家常调料内蒙古辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--547",
@@ -4697,7 +4884,8 @@
       "cond-sichuan-pepper-oil--547"
     ],
     "summary": "内蒙古花椒油在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--548",
@@ -4722,7 +4910,8 @@
       "cond-oyster-sauce--548"
     ],
     "summary": "内蒙古蚝油属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--549",
@@ -4747,7 +4936,8 @@
       "cond-shrimp-sauce--549"
     ],
     "summary": "内蒙古产区内蒙古虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--550",
@@ -4772,7 +4962,8 @@
       "cond-fish-sauce-gd--550"
     ],
     "summary": "内蒙古鱼露为内蒙古地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--551",
@@ -4797,7 +4988,8 @@
       "cond-rice-wine-cooking--551"
     ],
     "summary": "内蒙古家常调料内蒙古料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--552",
@@ -4822,7 +5014,8 @@
       "cond-yellow-rice-wine--552"
     ],
     "summary": "内蒙古黄酒在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--553",
@@ -4847,7 +5040,8 @@
       "cond-rose-fermented-wine--553"
     ],
     "summary": "内蒙古玫瑰露酒属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--554",
@@ -4872,7 +5066,8 @@
       "cond-preserved-plum--554"
     ],
     "summary": "内蒙古产区内蒙古咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--555",
@@ -4897,7 +5092,8 @@
       "cond-master-stock--555"
     ],
     "summary": "内蒙古卤水汁为内蒙古地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--556",
@@ -4922,7 +5118,8 @@
       "cond-five-spice-powder--556"
     ],
     "summary": "内蒙古家常调料内蒙古五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--557",
@@ -4947,7 +5144,8 @@
       "cond-curry-powder-cn--557"
     ],
     "summary": "内蒙古咖喱粉在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--558",
@@ -4972,7 +5170,8 @@
       "cond-satay-sauce--558"
     ],
     "summary": "内蒙古沙茶酱属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--559",
@@ -4997,7 +5196,8 @@
       "cond-bbq-sauce-cn--559"
     ],
     "summary": "内蒙古产区内蒙古叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--560",
@@ -5022,7 +5222,8 @@
       "cond-bean-paste--560"
     ],
     "summary": "辽宁黄豆酱为辽宁地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--561",
@@ -5047,7 +5248,8 @@
       "cond-sweet-bean-sauce--561"
     ],
     "summary": "辽宁家常调料辽宁甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--562",
@@ -5072,7 +5274,8 @@
       "cond-chili-bean-paste--562"
     ],
     "summary": "辽宁辣豆瓣酱在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--563",
@@ -5097,7 +5300,8 @@
       "cond-fermented-tofu-white--563"
     ],
     "summary": "辽宁白腐乳属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--564",
@@ -5122,7 +5326,8 @@
       "cond-fermented-tofu-rose--564"
     ],
     "summary": "辽宁产区辽宁玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--565",
@@ -5147,7 +5352,8 @@
       "cond-sesame-oil--565"
     ],
     "summary": "辽宁芝麻油为辽宁地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--566",
@@ -5172,7 +5378,8 @@
       "cond-chili-oil--566"
     ],
     "summary": "辽宁家常调料辽宁辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--567",
@@ -5197,7 +5404,8 @@
       "cond-sichuan-pepper-oil--567"
     ],
     "summary": "辽宁花椒油在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--568",
@@ -5222,7 +5430,8 @@
       "cond-oyster-sauce--568"
     ],
     "summary": "辽宁蚝油属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--569",
@@ -5247,7 +5456,8 @@
       "cond-shrimp-sauce--569"
     ],
     "summary": "辽宁产区辽宁虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--570",
@@ -5272,7 +5482,8 @@
       "cond-fish-sauce-gd--570"
     ],
     "summary": "辽宁鱼露为辽宁地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--571",
@@ -5297,7 +5508,8 @@
       "cond-rice-wine-cooking--571"
     ],
     "summary": "辽宁家常调料辽宁料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--572",
@@ -5322,7 +5534,8 @@
       "cond-yellow-rice-wine--572"
     ],
     "summary": "辽宁黄酒在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--573",
@@ -5347,7 +5560,8 @@
       "cond-rose-fermented-wine--573"
     ],
     "summary": "辽宁玫瑰露酒属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--574",
@@ -5372,7 +5586,8 @@
       "cond-preserved-plum--574"
     ],
     "summary": "辽宁产区辽宁咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--575",
@@ -5397,7 +5612,8 @@
       "cond-master-stock--575"
     ],
     "summary": "辽宁卤水汁为辽宁地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--576",
@@ -5422,7 +5638,8 @@
       "cond-five-spice-powder--576"
     ],
     "summary": "辽宁家常调料辽宁五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--577",
@@ -5447,7 +5664,8 @@
       "cond-curry-powder-cn--577"
     ],
     "summary": "辽宁咖喱粉在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--578",
@@ -5472,7 +5690,8 @@
       "cond-satay-sauce--578"
     ],
     "summary": "辽宁沙茶酱属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--579",
@@ -5497,7 +5716,8 @@
       "cond-bbq-sauce-cn--579"
     ],
     "summary": "辽宁产区辽宁叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--580",
@@ -5522,7 +5742,8 @@
       "cond-bean-paste--580"
     ],
     "summary": "吉林黄豆酱为吉林地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--581",
@@ -5547,7 +5768,8 @@
       "cond-sweet-bean-sauce--581"
     ],
     "summary": "吉林家常调料吉林甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--582",
@@ -5572,7 +5794,8 @@
       "cond-chili-bean-paste--582"
     ],
     "summary": "吉林辣豆瓣酱在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--583",
@@ -5597,7 +5820,8 @@
       "cond-fermented-tofu-white--583"
     ],
     "summary": "吉林白腐乳属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--584",
@@ -5622,7 +5846,8 @@
       "cond-fermented-tofu-rose--584"
     ],
     "summary": "吉林产区吉林玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--585",
@@ -5647,7 +5872,8 @@
       "cond-sesame-oil--585"
     ],
     "summary": "吉林芝麻油为吉林地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--586",
@@ -5672,7 +5898,8 @@
       "cond-chili-oil--586"
     ],
     "summary": "吉林家常调料吉林辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--587",
@@ -5697,7 +5924,8 @@
       "cond-sichuan-pepper-oil--587"
     ],
     "summary": "吉林花椒油在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--588",
@@ -5722,7 +5950,8 @@
       "cond-oyster-sauce--588"
     ],
     "summary": "吉林蚝油属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--589",
@@ -5747,7 +5976,8 @@
       "cond-shrimp-sauce--589"
     ],
     "summary": "吉林产区吉林虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--590",
@@ -5772,7 +6002,8 @@
       "cond-fish-sauce-gd--590"
     ],
     "summary": "吉林鱼露为吉林地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--591",
@@ -5797,7 +6028,8 @@
       "cond-rice-wine-cooking--591"
     ],
     "summary": "吉林家常调料吉林料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--592",
@@ -5822,7 +6054,8 @@
       "cond-yellow-rice-wine--592"
     ],
     "summary": "吉林黄酒在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--593",
@@ -5847,7 +6080,8 @@
       "cond-rose-fermented-wine--593"
     ],
     "summary": "吉林玫瑰露酒属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--594",
@@ -5872,7 +6106,8 @@
       "cond-preserved-plum--594"
     ],
     "summary": "吉林产区吉林咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--595",
@@ -5897,7 +6132,8 @@
       "cond-master-stock--595"
     ],
     "summary": "吉林卤水汁为吉林地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--596",
@@ -5922,7 +6158,8 @@
       "cond-five-spice-powder--596"
     ],
     "summary": "吉林家常调料吉林五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--597",
@@ -5947,7 +6184,8 @@
       "cond-curry-powder-cn--597"
     ],
     "summary": "吉林咖喱粉在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--598",
@@ -5972,7 +6210,8 @@
       "cond-satay-sauce--598"
     ],
     "summary": "吉林沙茶酱属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--599",
@@ -5997,7 +6236,8 @@
       "cond-bbq-sauce-cn--599"
     ],
     "summary": "吉林产区吉林叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--600",
@@ -6022,7 +6262,8 @@
       "cond-bean-paste--600"
     ],
     "summary": "黑龙江黄豆酱为黑龙江地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--601",
@@ -6047,7 +6288,8 @@
       "cond-sweet-bean-sauce--601"
     ],
     "summary": "黑龙江家常调料黑龙江甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--602",
@@ -6072,7 +6314,8 @@
       "cond-chili-bean-paste--602"
     ],
     "summary": "黑龙江辣豆瓣酱在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--603",
@@ -6097,7 +6340,8 @@
       "cond-fermented-tofu-white--603"
     ],
     "summary": "黑龙江白腐乳属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--604",
@@ -6122,7 +6366,8 @@
       "cond-fermented-tofu-rose--604"
     ],
     "summary": "黑龙江产区黑龙江玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--605",
@@ -6147,7 +6392,8 @@
       "cond-sesame-oil--605"
     ],
     "summary": "黑龙江芝麻油为黑龙江地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--606",
@@ -6172,7 +6418,8 @@
       "cond-chili-oil--606"
     ],
     "summary": "黑龙江家常调料黑龙江辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--607",
@@ -6197,7 +6444,8 @@
       "cond-sichuan-pepper-oil--607"
     ],
     "summary": "黑龙江花椒油在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--608",
@@ -6222,7 +6470,8 @@
       "cond-oyster-sauce--608"
     ],
     "summary": "黑龙江蚝油属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--609",
@@ -6247,7 +6496,8 @@
       "cond-shrimp-sauce--609"
     ],
     "summary": "黑龙江产区黑龙江虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--610",
@@ -6272,7 +6522,8 @@
       "cond-fish-sauce-gd--610"
     ],
     "summary": "黑龙江鱼露为黑龙江地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--611",
@@ -6297,7 +6548,8 @@
       "cond-rice-wine-cooking--611"
     ],
     "summary": "黑龙江家常调料黑龙江料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--612",
@@ -6322,7 +6574,8 @@
       "cond-yellow-rice-wine--612"
     ],
     "summary": "黑龙江黄酒在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--613",
@@ -6347,7 +6600,8 @@
       "cond-rose-fermented-wine--613"
     ],
     "summary": "黑龙江玫瑰露酒属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--614",
@@ -6372,7 +6626,8 @@
       "cond-preserved-plum--614"
     ],
     "summary": "黑龙江产区黑龙江咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--615",
@@ -6397,7 +6652,8 @@
       "cond-master-stock--615"
     ],
     "summary": "黑龙江卤水汁为黑龙江地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--616",
@@ -6422,7 +6678,8 @@
       "cond-five-spice-powder--616"
     ],
     "summary": "黑龙江家常调料黑龙江五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--617",
@@ -6447,7 +6704,8 @@
       "cond-curry-powder-cn--617"
     ],
     "summary": "黑龙江咖喱粉在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--618",
@@ -6472,7 +6730,8 @@
       "cond-satay-sauce--618"
     ],
     "summary": "黑龙江沙茶酱属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--619",
@@ -6497,7 +6756,8 @@
       "cond-bbq-sauce-cn--619"
     ],
     "summary": "黑龙江产区黑龙江叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--620",
@@ -6522,7 +6782,8 @@
       "cond-bean-paste--620"
     ],
     "summary": "北京黄豆酱为北京地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--621",
@@ -6547,7 +6808,8 @@
       "cond-sweet-bean-sauce--621"
     ],
     "summary": "北京家常调料北京甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--622",
@@ -6572,7 +6834,8 @@
       "cond-chili-bean-paste--622"
     ],
     "summary": "北京辣豆瓣酱在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--623",
@@ -6597,7 +6860,8 @@
       "cond-fermented-tofu-white--623"
     ],
     "summary": "北京白腐乳属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--624",
@@ -6622,7 +6886,8 @@
       "cond-fermented-tofu-rose--624"
     ],
     "summary": "北京产区北京玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--625",
@@ -6647,7 +6912,8 @@
       "cond-sesame-oil--625"
     ],
     "summary": "北京芝麻油为北京地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--626",
@@ -6672,7 +6938,8 @@
       "cond-chili-oil--626"
     ],
     "summary": "北京家常调料北京辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--627",
@@ -6697,7 +6964,8 @@
       "cond-sichuan-pepper-oil--627"
     ],
     "summary": "北京花椒油在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--628",
@@ -6722,7 +6990,8 @@
       "cond-oyster-sauce--628"
     ],
     "summary": "北京蚝油属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--629",
@@ -6747,7 +7016,8 @@
       "cond-shrimp-sauce--629"
     ],
     "summary": "北京产区北京虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--630",
@@ -6772,7 +7042,8 @@
       "cond-fish-sauce-gd--630"
     ],
     "summary": "北京鱼露为北京地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--631",
@@ -6797,7 +7068,8 @@
       "cond-rice-wine-cooking--631"
     ],
     "summary": "北京家常调料北京料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--632",
@@ -6822,7 +7094,8 @@
       "cond-yellow-rice-wine--632"
     ],
     "summary": "北京黄酒在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--633",
@@ -6847,7 +7120,8 @@
       "cond-rose-fermented-wine--633"
     ],
     "summary": "北京玫瑰露酒属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--634",
@@ -6872,7 +7146,8 @@
       "cond-preserved-plum--634"
     ],
     "summary": "北京产区北京咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--635",
@@ -6897,7 +7172,8 @@
       "cond-master-stock--635"
     ],
     "summary": "北京卤水汁为北京地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--636",
@@ -6922,7 +7198,8 @@
       "cond-five-spice-powder--636"
     ],
     "summary": "北京家常调料北京五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--637",
@@ -6947,7 +7224,8 @@
       "cond-curry-powder-cn--637"
     ],
     "summary": "北京咖喱粉在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--638",
@@ -6972,7 +7250,8 @@
       "cond-satay-sauce--638"
     ],
     "summary": "北京沙茶酱属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--639",
@@ -6997,7 +7276,8 @@
       "cond-bbq-sauce-cn--639"
     ],
     "summary": "北京产区北京叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bean-paste--640",
@@ -7022,7 +7302,8 @@
       "cond-bean-paste--640"
     ],
     "summary": "天津黄豆酱为天津地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sweet-bean-sauce--641",
@@ -7047,7 +7328,8 @@
       "cond-sweet-bean-sauce--641"
     ],
     "summary": "天津家常调料天津甜面酱，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-bean-paste--642",
@@ -7072,7 +7354,8 @@
       "cond-chili-bean-paste--642"
     ],
     "summary": "天津辣豆瓣酱在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-white--643",
@@ -7097,7 +7380,8 @@
       "cond-fermented-tofu-white--643"
     ],
     "summary": "天津白腐乳属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fermented-tofu-rose--644",
@@ -7122,7 +7406,8 @@
       "cond-fermented-tofu-rose--644"
     ],
     "summary": "天津产区天津玫瑰腐乳，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sesame-oil--645",
@@ -7147,7 +7432,8 @@
       "cond-sesame-oil--645"
     ],
     "summary": "天津芝麻油为天津地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-chili-oil--646",
@@ -7172,7 +7458,8 @@
       "cond-chili-oil--646"
     ],
     "summary": "天津家常调料天津辣椒油，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-sichuan-pepper-oil--647",
@@ -7197,7 +7484,8 @@
       "cond-sichuan-pepper-oil--647"
     ],
     "summary": "天津花椒油在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-oyster-sauce--648",
@@ -7222,7 +7510,8 @@
       "cond-oyster-sauce--648"
     ],
     "summary": "天津蚝油属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-shrimp-sauce--649",
@@ -7247,7 +7536,8 @@
       "cond-shrimp-sauce--649"
     ],
     "summary": "天津产区天津虾酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-fish-sauce-gd--650",
@@ -7272,7 +7562,8 @@
       "cond-fish-sauce-gd--650"
     ],
     "summary": "天津鱼露为天津地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rice-wine-cooking--651",
@@ -7297,7 +7588,8 @@
       "cond-rice-wine-cooking--651"
     ],
     "summary": "天津家常调料天津料酒，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-yellow-rice-wine--652",
@@ -7322,7 +7614,8 @@
       "cond-yellow-rice-wine--652"
     ],
     "summary": "天津黄酒在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-rose-fermented-wine--653",
@@ -7347,7 +7640,8 @@
       "cond-rose-fermented-wine--653"
     ],
     "summary": "天津玫瑰露酒属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-preserved-plum--654",
@@ -7372,7 +7666,8 @@
       "cond-preserved-plum--654"
     ],
     "summary": "天津产区天津咸酸梅，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-master-stock--655",
@@ -7397,7 +7692,8 @@
       "cond-master-stock--655"
     ],
     "summary": "天津卤水汁为天津地方调料，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-five-spice-powder--656",
@@ -7422,7 +7718,8 @@
       "cond-five-spice-powder--656"
     ],
     "summary": "天津家常调料天津五香粉，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-curry-powder-cn--657",
@@ -7447,7 +7744,8 @@
       "cond-curry-powder-cn--657"
     ],
     "summary": "天津咖喱粉在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-satay-sauce--658",
@@ -7472,7 +7770,8 @@
       "cond-satay-sauce--658"
     ],
     "summary": "天津沙茶酱属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cond-bbq-sauce-cn--659",
@@ -7497,6 +7796,7 @@
       "cond-bbq-sauce-cn--659"
     ],
     "summary": "天津产区天津叉烧酱，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   }
 ]

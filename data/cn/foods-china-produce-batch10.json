@@ -22,7 +22,8 @@
       "prod-bok-choy--480"
     ],
     "summary": "宁夏小白菜为宁夏地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-shanghai-greens--481",
@@ -47,7 +48,8 @@
       "prod-shanghai-greens--481"
     ],
     "summary": "宁夏家常蔬菜宁夏上海青，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chinese-cabbage--482",
@@ -72,7 +74,8 @@
       "prod-chinese-cabbage--482"
     ],
     "summary": "宁夏大白菜在宁夏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-mustard-greens--483",
@@ -97,7 +100,8 @@
       "prod-mustard-greens--483"
     ],
     "summary": "宁夏芥菜属宁夏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-amaranth--484",
@@ -122,7 +126,8 @@
       "prod-amaranth--484"
     ],
     "summary": "宁夏产区宁夏苋菜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-malabar-spinach--485",
@@ -147,7 +152,8 @@
       "prod-malabar-spinach--485"
     ],
     "summary": "宁夏木耳菜为宁夏地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-water-spinach-tip--486",
@@ -172,7 +178,8 @@
       "prod-water-spinach-tip--486"
     ],
     "summary": "宁夏家常蔬菜宁夏空心菜苗，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-garlic-chive--487",
@@ -197,7 +204,8 @@
       "prod-garlic-chive--487"
     ],
     "summary": "宁夏韭菜在宁夏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chive-flower--488",
@@ -222,7 +230,8 @@
       "prod-chive-flower--488"
     ],
     "summary": "宁夏韭菜花属宁夏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-winter-gourd--489",
@@ -247,7 +256,8 @@
       "prod-winter-gourd--489"
     ],
     "summary": "宁夏产区宁夏节瓜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bitter-gourd--490",
@@ -272,7 +282,8 @@
       "prod-bitter-gourd--490"
     ],
     "summary": "宁夏凉瓜为宁夏地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-luffa--491",
@@ -297,7 +308,8 @@
       "prod-luffa--491"
     ],
     "summary": "宁夏家常蔬菜宁夏丝瓜，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snake-gourd--492",
@@ -322,7 +334,8 @@
       "prod-snake-gourd--492"
     ],
     "summary": "宁夏蛇瓜在宁夏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chayote--493",
@@ -347,7 +360,8 @@
       "prod-chayote--493"
     ],
     "summary": "宁夏佛手瓜属宁夏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-okra--494",
@@ -372,7 +386,8 @@
       "prod-okra--494"
     ],
     "summary": "宁夏产区宁夏秋葵，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-yardlong-bean--495",
@@ -397,7 +412,8 @@
       "prod-yardlong-bean--495"
     ],
     "summary": "宁夏长豆角为宁夏地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snow-pea--496",
@@ -422,7 +438,8 @@
       "prod-snow-pea--496"
     ],
     "summary": "宁夏家常蔬菜宁夏荷兰豆，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-sugar-snap--497",
@@ -447,7 +464,8 @@
       "prod-sugar-snap--497"
     ],
     "summary": "宁夏甜豆在宁夏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-lotus-seedpod--498",
@@ -472,7 +490,8 @@
       "prod-lotus-seedpod--498"
     ],
     "summary": "宁夏莲蓬属宁夏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-pomelo--499",
@@ -497,7 +516,8 @@
       "prod-pomelo--499"
     ],
     "summary": "宁夏产区宁夏柚子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bok-choy--500",
@@ -522,7 +542,8 @@
       "prod-bok-choy--500"
     ],
     "summary": "新疆小白菜为新疆地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-shanghai-greens--501",
@@ -547,7 +568,8 @@
       "prod-shanghai-greens--501"
     ],
     "summary": "新疆家常蔬菜新疆上海青，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chinese-cabbage--502",
@@ -572,7 +594,8 @@
       "prod-chinese-cabbage--502"
     ],
     "summary": "新疆大白菜在新疆饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-mustard-greens--503",
@@ -597,7 +620,8 @@
       "prod-mustard-greens--503"
     ],
     "summary": "新疆芥菜属新疆类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-amaranth--504",
@@ -622,7 +646,8 @@
       "prod-amaranth--504"
     ],
     "summary": "新疆产区新疆苋菜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-malabar-spinach--505",
@@ -647,7 +672,8 @@
       "prod-malabar-spinach--505"
     ],
     "summary": "新疆木耳菜为新疆地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-water-spinach-tip--506",
@@ -672,7 +698,8 @@
       "prod-water-spinach-tip--506"
     ],
     "summary": "新疆家常蔬菜新疆空心菜苗，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-garlic-chive--507",
@@ -697,7 +724,8 @@
       "prod-garlic-chive--507"
     ],
     "summary": "新疆韭菜在新疆饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chive-flower--508",
@@ -722,7 +750,8 @@
       "prod-chive-flower--508"
     ],
     "summary": "新疆韭菜花属新疆类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-winter-gourd--509",
@@ -747,7 +776,8 @@
       "prod-winter-gourd--509"
     ],
     "summary": "新疆产区新疆节瓜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bitter-gourd--510",
@@ -772,7 +802,8 @@
       "prod-bitter-gourd--510"
     ],
     "summary": "新疆凉瓜为新疆地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-luffa--511",
@@ -797,7 +828,8 @@
       "prod-luffa--511"
     ],
     "summary": "新疆家常蔬菜新疆丝瓜，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snake-gourd--512",
@@ -822,7 +854,8 @@
       "prod-snake-gourd--512"
     ],
     "summary": "新疆蛇瓜在新疆饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chayote--513",
@@ -847,7 +880,8 @@
       "prod-chayote--513"
     ],
     "summary": "新疆佛手瓜属新疆类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-okra--514",
@@ -872,7 +906,8 @@
       "prod-okra--514"
     ],
     "summary": "新疆产区新疆秋葵，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-yardlong-bean--515",
@@ -897,7 +932,8 @@
       "prod-yardlong-bean--515"
     ],
     "summary": "新疆长豆角为新疆地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snow-pea--516",
@@ -922,7 +958,8 @@
       "prod-snow-pea--516"
     ],
     "summary": "新疆家常蔬菜新疆荷兰豆，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-sugar-snap--517",
@@ -947,7 +984,8 @@
       "prod-sugar-snap--517"
     ],
     "summary": "新疆甜豆在新疆饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-lotus-seedpod--518",
@@ -972,7 +1010,8 @@
       "prod-lotus-seedpod--518"
     ],
     "summary": "新疆莲蓬属新疆类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-pomelo--519",
@@ -997,7 +1036,8 @@
       "prod-pomelo--519"
     ],
     "summary": "新疆产区新疆柚子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bok-choy--520",
@@ -1022,7 +1062,8 @@
       "prod-bok-choy--520"
     ],
     "summary": "西藏小白菜为西藏地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-shanghai-greens--521",
@@ -1047,7 +1088,8 @@
       "prod-shanghai-greens--521"
     ],
     "summary": "西藏家常蔬菜西藏上海青，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chinese-cabbage--522",
@@ -1072,7 +1114,8 @@
       "prod-chinese-cabbage--522"
     ],
     "summary": "西藏大白菜在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-mustard-greens--523",
@@ -1097,7 +1140,8 @@
       "prod-mustard-greens--523"
     ],
     "summary": "西藏芥菜属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-amaranth--524",
@@ -1122,7 +1166,8 @@
       "prod-amaranth--524"
     ],
     "summary": "西藏产区西藏苋菜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-malabar-spinach--525",
@@ -1147,7 +1192,8 @@
       "prod-malabar-spinach--525"
     ],
     "summary": "西藏木耳菜为西藏地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-water-spinach-tip--526",
@@ -1172,7 +1218,8 @@
       "prod-water-spinach-tip--526"
     ],
     "summary": "西藏家常蔬菜西藏空心菜苗，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-garlic-chive--527",
@@ -1197,7 +1244,8 @@
       "prod-garlic-chive--527"
     ],
     "summary": "西藏韭菜在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chive-flower--528",
@@ -1222,7 +1270,8 @@
       "prod-chive-flower--528"
     ],
     "summary": "西藏韭菜花属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-winter-gourd--529",
@@ -1247,7 +1296,8 @@
       "prod-winter-gourd--529"
     ],
     "summary": "西藏产区西藏节瓜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bitter-gourd--530",
@@ -1272,7 +1322,8 @@
       "prod-bitter-gourd--530"
     ],
     "summary": "西藏凉瓜为西藏地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-luffa--531",
@@ -1297,7 +1348,8 @@
       "prod-luffa--531"
     ],
     "summary": "西藏家常蔬菜西藏丝瓜，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snake-gourd--532",
@@ -1322,7 +1374,8 @@
       "prod-snake-gourd--532"
     ],
     "summary": "西藏蛇瓜在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chayote--533",
@@ -1347,7 +1400,8 @@
       "prod-chayote--533"
     ],
     "summary": "西藏佛手瓜属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-okra--534",
@@ -1372,7 +1426,8 @@
       "prod-okra--534"
     ],
     "summary": "西藏产区西藏秋葵，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-yardlong-bean--535",
@@ -1397,7 +1452,8 @@
       "prod-yardlong-bean--535"
     ],
     "summary": "西藏长豆角为西藏地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snow-pea--536",
@@ -1422,7 +1478,8 @@
       "prod-snow-pea--536"
     ],
     "summary": "西藏家常蔬菜西藏荷兰豆，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-sugar-snap--537",
@@ -1447,7 +1504,8 @@
       "prod-sugar-snap--537"
     ],
     "summary": "西藏甜豆在西藏饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-lotus-seedpod--538",
@@ -1472,7 +1530,8 @@
       "prod-lotus-seedpod--538"
     ],
     "summary": "西藏莲蓬属西藏类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-pomelo--539",
@@ -1497,7 +1556,8 @@
       "prod-pomelo--539"
     ],
     "summary": "西藏产区西藏柚子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bok-choy--540",
@@ -1522,7 +1582,8 @@
       "prod-bok-choy--540"
     ],
     "summary": "内蒙古小白菜为内蒙古地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-shanghai-greens--541",
@@ -1547,7 +1608,8 @@
       "prod-shanghai-greens--541"
     ],
     "summary": "内蒙古家常蔬菜内蒙古上海青，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chinese-cabbage--542",
@@ -1572,7 +1634,8 @@
       "prod-chinese-cabbage--542"
     ],
     "summary": "内蒙古大白菜在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-mustard-greens--543",
@@ -1597,7 +1660,8 @@
       "prod-mustard-greens--543"
     ],
     "summary": "内蒙古芥菜属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-amaranth--544",
@@ -1622,7 +1686,8 @@
       "prod-amaranth--544"
     ],
     "summary": "内蒙古产区内蒙古苋菜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-malabar-spinach--545",
@@ -1647,7 +1712,8 @@
       "prod-malabar-spinach--545"
     ],
     "summary": "内蒙古木耳菜为内蒙古地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-water-spinach-tip--546",
@@ -1672,7 +1738,8 @@
       "prod-water-spinach-tip--546"
     ],
     "summary": "内蒙古家常蔬菜内蒙古空心菜苗，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-garlic-chive--547",
@@ -1697,7 +1764,8 @@
       "prod-garlic-chive--547"
     ],
     "summary": "内蒙古韭菜在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chive-flower--548",
@@ -1722,7 +1790,8 @@
       "prod-chive-flower--548"
     ],
     "summary": "内蒙古韭菜花属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-winter-gourd--549",
@@ -1747,7 +1816,8 @@
       "prod-winter-gourd--549"
     ],
     "summary": "内蒙古产区内蒙古节瓜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bitter-gourd--550",
@@ -1772,7 +1842,8 @@
       "prod-bitter-gourd--550"
     ],
     "summary": "内蒙古凉瓜为内蒙古地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-luffa--551",
@@ -1797,7 +1868,8 @@
       "prod-luffa--551"
     ],
     "summary": "内蒙古家常蔬菜内蒙古丝瓜，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snake-gourd--552",
@@ -1822,7 +1894,8 @@
       "prod-snake-gourd--552"
     ],
     "summary": "内蒙古蛇瓜在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chayote--553",
@@ -1847,7 +1920,8 @@
       "prod-chayote--553"
     ],
     "summary": "内蒙古佛手瓜属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-okra--554",
@@ -1872,7 +1946,8 @@
       "prod-okra--554"
     ],
     "summary": "内蒙古产区内蒙古秋葵，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-yardlong-bean--555",
@@ -1897,7 +1972,8 @@
       "prod-yardlong-bean--555"
     ],
     "summary": "内蒙古长豆角为内蒙古地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snow-pea--556",
@@ -1922,7 +1998,8 @@
       "prod-snow-pea--556"
     ],
     "summary": "内蒙古家常蔬菜内蒙古荷兰豆，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-sugar-snap--557",
@@ -1947,7 +2024,8 @@
       "prod-sugar-snap--557"
     ],
     "summary": "内蒙古甜豆在内蒙古饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-lotus-seedpod--558",
@@ -1972,7 +2050,8 @@
       "prod-lotus-seedpod--558"
     ],
     "summary": "内蒙古莲蓬属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-pomelo--559",
@@ -1997,7 +2076,8 @@
       "prod-pomelo--559"
     ],
     "summary": "内蒙古产区内蒙古柚子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bok-choy--560",
@@ -2022,7 +2102,8 @@
       "prod-bok-choy--560"
     ],
     "summary": "辽宁小白菜为辽宁地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-shanghai-greens--561",
@@ -2047,7 +2128,8 @@
       "prod-shanghai-greens--561"
     ],
     "summary": "辽宁家常蔬菜辽宁上海青，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chinese-cabbage--562",
@@ -2072,7 +2154,8 @@
       "prod-chinese-cabbage--562"
     ],
     "summary": "辽宁大白菜在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-mustard-greens--563",
@@ -2097,7 +2180,8 @@
       "prod-mustard-greens--563"
     ],
     "summary": "辽宁芥菜属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-amaranth--564",
@@ -2122,7 +2206,8 @@
       "prod-amaranth--564"
     ],
     "summary": "辽宁产区辽宁苋菜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-malabar-spinach--565",
@@ -2147,7 +2232,8 @@
       "prod-malabar-spinach--565"
     ],
     "summary": "辽宁木耳菜为辽宁地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-water-spinach-tip--566",
@@ -2172,7 +2258,8 @@
       "prod-water-spinach-tip--566"
     ],
     "summary": "辽宁家常蔬菜辽宁空心菜苗，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-garlic-chive--567",
@@ -2197,7 +2284,8 @@
       "prod-garlic-chive--567"
     ],
     "summary": "辽宁韭菜在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chive-flower--568",
@@ -2222,7 +2310,8 @@
       "prod-chive-flower--568"
     ],
     "summary": "辽宁韭菜花属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-winter-gourd--569",
@@ -2247,7 +2336,8 @@
       "prod-winter-gourd--569"
     ],
     "summary": "辽宁产区辽宁节瓜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bitter-gourd--570",
@@ -2272,7 +2362,8 @@
       "prod-bitter-gourd--570"
     ],
     "summary": "辽宁凉瓜为辽宁地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-luffa--571",
@@ -2297,7 +2388,8 @@
       "prod-luffa--571"
     ],
     "summary": "辽宁家常蔬菜辽宁丝瓜，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snake-gourd--572",
@@ -2322,7 +2414,8 @@
       "prod-snake-gourd--572"
     ],
     "summary": "辽宁蛇瓜在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chayote--573",
@@ -2347,7 +2440,8 @@
       "prod-chayote--573"
     ],
     "summary": "辽宁佛手瓜属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-okra--574",
@@ -2372,7 +2466,8 @@
       "prod-okra--574"
     ],
     "summary": "辽宁产区辽宁秋葵，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-yardlong-bean--575",
@@ -2397,7 +2492,8 @@
       "prod-yardlong-bean--575"
     ],
     "summary": "辽宁长豆角为辽宁地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snow-pea--576",
@@ -2422,7 +2518,8 @@
       "prod-snow-pea--576"
     ],
     "summary": "辽宁家常蔬菜辽宁荷兰豆，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-sugar-snap--577",
@@ -2447,7 +2544,8 @@
       "prod-sugar-snap--577"
     ],
     "summary": "辽宁甜豆在辽宁饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-lotus-seedpod--578",
@@ -2472,7 +2570,8 @@
       "prod-lotus-seedpod--578"
     ],
     "summary": "辽宁莲蓬属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-pomelo--579",
@@ -2497,7 +2596,8 @@
       "prod-pomelo--579"
     ],
     "summary": "辽宁产区辽宁柚子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bok-choy--580",
@@ -2522,7 +2622,8 @@
       "prod-bok-choy--580"
     ],
     "summary": "吉林小白菜为吉林地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-shanghai-greens--581",
@@ -2547,7 +2648,8 @@
       "prod-shanghai-greens--581"
     ],
     "summary": "吉林家常蔬菜吉林上海青，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chinese-cabbage--582",
@@ -2572,7 +2674,8 @@
       "prod-chinese-cabbage--582"
     ],
     "summary": "吉林大白菜在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-mustard-greens--583",
@@ -2597,7 +2700,8 @@
       "prod-mustard-greens--583"
     ],
     "summary": "吉林芥菜属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-amaranth--584",
@@ -2622,7 +2726,8 @@
       "prod-amaranth--584"
     ],
     "summary": "吉林产区吉林苋菜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-malabar-spinach--585",
@@ -2647,7 +2752,8 @@
       "prod-malabar-spinach--585"
     ],
     "summary": "吉林木耳菜为吉林地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-water-spinach-tip--586",
@@ -2672,7 +2778,8 @@
       "prod-water-spinach-tip--586"
     ],
     "summary": "吉林家常蔬菜吉林空心菜苗，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-garlic-chive--587",
@@ -2697,7 +2804,8 @@
       "prod-garlic-chive--587"
     ],
     "summary": "吉林韭菜在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chive-flower--588",
@@ -2722,7 +2830,8 @@
       "prod-chive-flower--588"
     ],
     "summary": "吉林韭菜花属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-winter-gourd--589",
@@ -2747,7 +2856,8 @@
       "prod-winter-gourd--589"
     ],
     "summary": "吉林产区吉林节瓜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bitter-gourd--590",
@@ -2772,7 +2882,8 @@
       "prod-bitter-gourd--590"
     ],
     "summary": "吉林凉瓜为吉林地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-luffa--591",
@@ -2797,7 +2908,8 @@
       "prod-luffa--591"
     ],
     "summary": "吉林家常蔬菜吉林丝瓜，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snake-gourd--592",
@@ -2822,7 +2934,8 @@
       "prod-snake-gourd--592"
     ],
     "summary": "吉林蛇瓜在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chayote--593",
@@ -2847,7 +2960,8 @@
       "prod-chayote--593"
     ],
     "summary": "吉林佛手瓜属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-okra--594",
@@ -2872,7 +2986,8 @@
       "prod-okra--594"
     ],
     "summary": "吉林产区吉林秋葵，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-yardlong-bean--595",
@@ -2897,7 +3012,8 @@
       "prod-yardlong-bean--595"
     ],
     "summary": "吉林长豆角为吉林地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snow-pea--596",
@@ -2922,7 +3038,8 @@
       "prod-snow-pea--596"
     ],
     "summary": "吉林家常蔬菜吉林荷兰豆，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-sugar-snap--597",
@@ -2947,7 +3064,8 @@
       "prod-sugar-snap--597"
     ],
     "summary": "吉林甜豆在吉林饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-lotus-seedpod--598",
@@ -2972,7 +3090,8 @@
       "prod-lotus-seedpod--598"
     ],
     "summary": "吉林莲蓬属吉林类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-pomelo--599",
@@ -2997,7 +3116,8 @@
       "prod-pomelo--599"
     ],
     "summary": "吉林产区吉林柚子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bok-choy--600",
@@ -3022,7 +3142,8 @@
       "prod-bok-choy--600"
     ],
     "summary": "黑龙江小白菜为黑龙江地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-shanghai-greens--601",
@@ -3047,7 +3168,8 @@
       "prod-shanghai-greens--601"
     ],
     "summary": "黑龙江家常蔬菜黑龙江上海青，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chinese-cabbage--602",
@@ -3072,7 +3194,8 @@
       "prod-chinese-cabbage--602"
     ],
     "summary": "黑龙江大白菜在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-mustard-greens--603",
@@ -3097,7 +3220,8 @@
       "prod-mustard-greens--603"
     ],
     "summary": "黑龙江芥菜属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-amaranth--604",
@@ -3122,7 +3246,8 @@
       "prod-amaranth--604"
     ],
     "summary": "黑龙江产区黑龙江苋菜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-malabar-spinach--605",
@@ -3147,7 +3272,8 @@
       "prod-malabar-spinach--605"
     ],
     "summary": "黑龙江木耳菜为黑龙江地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-water-spinach-tip--606",
@@ -3172,7 +3298,8 @@
       "prod-water-spinach-tip--606"
     ],
     "summary": "黑龙江家常蔬菜黑龙江空心菜苗，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-garlic-chive--607",
@@ -3197,7 +3324,8 @@
       "prod-garlic-chive--607"
     ],
     "summary": "黑龙江韭菜在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chive-flower--608",
@@ -3222,7 +3350,8 @@
       "prod-chive-flower--608"
     ],
     "summary": "黑龙江韭菜花属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-winter-gourd--609",
@@ -3247,7 +3376,8 @@
       "prod-winter-gourd--609"
     ],
     "summary": "黑龙江产区黑龙江节瓜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bitter-gourd--610",
@@ -3272,7 +3402,8 @@
       "prod-bitter-gourd--610"
     ],
     "summary": "黑龙江凉瓜为黑龙江地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-luffa--611",
@@ -3297,7 +3428,8 @@
       "prod-luffa--611"
     ],
     "summary": "黑龙江家常蔬菜黑龙江丝瓜，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snake-gourd--612",
@@ -3322,7 +3454,8 @@
       "prod-snake-gourd--612"
     ],
     "summary": "黑龙江蛇瓜在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chayote--613",
@@ -3347,7 +3480,8 @@
       "prod-chayote--613"
     ],
     "summary": "黑龙江佛手瓜属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-okra--614",
@@ -3372,7 +3506,8 @@
       "prod-okra--614"
     ],
     "summary": "黑龙江产区黑龙江秋葵，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-yardlong-bean--615",
@@ -3397,7 +3532,8 @@
       "prod-yardlong-bean--615"
     ],
     "summary": "黑龙江长豆角为黑龙江地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snow-pea--616",
@@ -3422,7 +3558,8 @@
       "prod-snow-pea--616"
     ],
     "summary": "黑龙江家常蔬菜黑龙江荷兰豆，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-sugar-snap--617",
@@ -3447,7 +3584,8 @@
       "prod-sugar-snap--617"
     ],
     "summary": "黑龙江甜豆在黑龙江饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-lotus-seedpod--618",
@@ -3472,7 +3610,8 @@
       "prod-lotus-seedpod--618"
     ],
     "summary": "黑龙江莲蓬属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-pomelo--619",
@@ -3497,7 +3636,8 @@
       "prod-pomelo--619"
     ],
     "summary": "黑龙江产区黑龙江柚子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bok-choy--620",
@@ -3522,7 +3662,8 @@
       "prod-bok-choy--620"
     ],
     "summary": "北京小白菜为北京地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-shanghai-greens--621",
@@ -3547,7 +3688,8 @@
       "prod-shanghai-greens--621"
     ],
     "summary": "北京家常蔬菜北京上海青，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chinese-cabbage--622",
@@ -3572,7 +3714,8 @@
       "prod-chinese-cabbage--622"
     ],
     "summary": "北京大白菜在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-mustard-greens--623",
@@ -3597,7 +3740,8 @@
       "prod-mustard-greens--623"
     ],
     "summary": "北京芥菜属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-amaranth--624",
@@ -3622,7 +3766,8 @@
       "prod-amaranth--624"
     ],
     "summary": "北京产区北京苋菜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-malabar-spinach--625",
@@ -3647,7 +3792,8 @@
       "prod-malabar-spinach--625"
     ],
     "summary": "北京木耳菜为北京地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-water-spinach-tip--626",
@@ -3672,7 +3818,8 @@
       "prod-water-spinach-tip--626"
     ],
     "summary": "北京家常蔬菜北京空心菜苗，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-garlic-chive--627",
@@ -3697,7 +3844,8 @@
       "prod-garlic-chive--627"
     ],
     "summary": "北京韭菜在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chive-flower--628",
@@ -3722,7 +3870,8 @@
       "prod-chive-flower--628"
     ],
     "summary": "北京韭菜花属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-winter-gourd--629",
@@ -3747,7 +3896,8 @@
       "prod-winter-gourd--629"
     ],
     "summary": "北京产区北京节瓜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bitter-gourd--630",
@@ -3772,7 +3922,8 @@
       "prod-bitter-gourd--630"
     ],
     "summary": "北京凉瓜为北京地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-luffa--631",
@@ -3797,7 +3948,8 @@
       "prod-luffa--631"
     ],
     "summary": "北京家常蔬菜北京丝瓜，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snake-gourd--632",
@@ -3822,7 +3974,8 @@
       "prod-snake-gourd--632"
     ],
     "summary": "北京蛇瓜在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chayote--633",
@@ -3847,7 +4000,8 @@
       "prod-chayote--633"
     ],
     "summary": "北京佛手瓜属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-okra--634",
@@ -3872,7 +4026,8 @@
       "prod-okra--634"
     ],
     "summary": "北京产区北京秋葵，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-yardlong-bean--635",
@@ -3897,7 +4052,8 @@
       "prod-yardlong-bean--635"
     ],
     "summary": "北京长豆角为北京地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snow-pea--636",
@@ -3922,7 +4078,8 @@
       "prod-snow-pea--636"
     ],
     "summary": "北京家常蔬菜北京荷兰豆，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-sugar-snap--637",
@@ -3947,7 +4104,8 @@
       "prod-sugar-snap--637"
     ],
     "summary": "北京甜豆在北京饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-lotus-seedpod--638",
@@ -3972,7 +4130,8 @@
       "prod-lotus-seedpod--638"
     ],
     "summary": "北京莲蓬属北京类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-pomelo--639",
@@ -3997,7 +4156,8 @@
       "prod-pomelo--639"
     ],
     "summary": "北京产区北京柚子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bok-choy--640",
@@ -4022,7 +4182,8 @@
       "prod-bok-choy--640"
     ],
     "summary": "天津小白菜为天津地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-shanghai-greens--641",
@@ -4047,7 +4208,8 @@
       "prod-shanghai-greens--641"
     ],
     "summary": "天津家常蔬菜天津上海青，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chinese-cabbage--642",
@@ -4072,7 +4234,8 @@
       "prod-chinese-cabbage--642"
     ],
     "summary": "天津大白菜在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-mustard-greens--643",
@@ -4097,7 +4260,8 @@
       "prod-mustard-greens--643"
     ],
     "summary": "天津芥菜属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-amaranth--644",
@@ -4122,7 +4286,8 @@
       "prod-amaranth--644"
     ],
     "summary": "天津产区天津苋菜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-malabar-spinach--645",
@@ -4147,7 +4312,8 @@
       "prod-malabar-spinach--645"
     ],
     "summary": "天津木耳菜为天津地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-water-spinach-tip--646",
@@ -4172,7 +4338,8 @@
       "prod-water-spinach-tip--646"
     ],
     "summary": "天津家常蔬菜天津空心菜苗，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-garlic-chive--647",
@@ -4197,7 +4364,8 @@
       "prod-garlic-chive--647"
     ],
     "summary": "天津韭菜在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chive-flower--648",
@@ -4222,7 +4390,8 @@
       "prod-chive-flower--648"
     ],
     "summary": "天津韭菜花属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-winter-gourd--649",
@@ -4247,7 +4416,8 @@
       "prod-winter-gourd--649"
     ],
     "summary": "天津产区天津节瓜，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-bitter-gourd--650",
@@ -4272,7 +4442,8 @@
       "prod-bitter-gourd--650"
     ],
     "summary": "天津凉瓜为天津地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-luffa--651",
@@ -4297,7 +4468,8 @@
       "prod-luffa--651"
     ],
     "summary": "天津家常蔬菜天津丝瓜，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snake-gourd--652",
@@ -4322,7 +4494,8 @@
       "prod-snake-gourd--652"
     ],
     "summary": "天津蛇瓜在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-chayote--653",
@@ -4347,7 +4520,8 @@
       "prod-chayote--653"
     ],
     "summary": "天津佛手瓜属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-okra--654",
@@ -4372,7 +4546,8 @@
       "prod-okra--654"
     ],
     "summary": "天津产区天津秋葵，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-yardlong-bean--655",
@@ -4397,7 +4572,8 @@
       "prod-yardlong-bean--655"
     ],
     "summary": "天津长豆角为天津地方蔬菜，日常食养参考条目。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-snow-pea--656",
@@ -4422,7 +4598,8 @@
       "prod-snow-pea--656"
     ],
     "summary": "天津家常蔬菜天津荷兰豆，性味与用量因人而异。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-sugar-snap--657",
@@ -4447,7 +4624,8 @@
       "prod-sugar-snap--657"
     ],
     "summary": "天津甜豆在天津饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-lotus-seedpod--658",
@@ -4472,7 +4650,8 @@
       "prod-lotus-seedpod--658"
     ],
     "summary": "天津莲蓬属天津类，传统食养整理供查阅搭配。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "prod-pomelo--659",
@@ -4497,6 +4676,7 @@
       "prod-pomelo--659"
     ],
     "summary": "天津产区天津柚子，性味归经按民间经验整理。",
-    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
   }
 ]

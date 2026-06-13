@@ -15,6 +15,8 @@ import {
   root,
   writeJsAliasBundle
 } from "./lib/food-catalog.mjs";
+import { enrichFoodEatingFields } from "./lib/food-eating-guide.mjs";
+import { enrichFoodClassicSources } from "./lib/food-classic-sources.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataDir = path.join(root, "data", "cn");
@@ -213,7 +215,9 @@ function mergeCnFoods() {
   CN_JSON_SOURCES.flatMap((file) => readJson(file)).forEach((food) => {
     byId.set(food.id, food);
   });
-  return [...byId.values()].sort((a, b) => a.name.localeCompare(b.name, "zh-CN"));
+  return [...byId.values()]
+    .map((food) => enrichFoodClassicSources(enrichFoodEatingFields(food)))
+    .sort((a, b) => a.name.localeCompare(b.name, "zh-CN"));
 }
 
 const cnFoods = mergeCnFoods();
@@ -243,6 +247,7 @@ function buildFoodSearchSynonymMap() {
     "food-search-synonyms-batch12-xz.json",
     "food-search-synonyms-batch12-qh.json",
     "food-search-synonyms-batch13.json",
+    "food-search-synonyms-pool.json",
     "origin-search-synonyms.json"
   ].forEach((file) => {
     readJson(file, []).forEach((row) => {

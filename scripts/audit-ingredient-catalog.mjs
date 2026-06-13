@@ -9,6 +9,7 @@ const INGREDIENT_BATCH_FILES = new Set([
   "foods-international-batch6.json",
   "foods-ingredients-batch3.json",
   "foods-ingredients-batch4.json",
+  "foods-china-pool-canonical.json",
   "foods-seasonal-river-batch3.json",
   "foods-seasonal-river-batch4.json",
   "foods-modern-regional-batch2.json",

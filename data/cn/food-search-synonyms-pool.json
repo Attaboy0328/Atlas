@@ -1,0 +1,342 @@
+[
+  {
+    "term": "黄豆酱",
+    "foodId": "bean-paste"
+  },
+  {
+    "term": "甜面酱",
+    "foodId": "sweet-bean-sauce"
+  },
+  {
+    "term": "辣豆瓣酱",
+    "foodId": "chili-bean-paste"
+  },
+  {
+    "term": "白腐乳",
+    "foodId": "white-fermented-bean-curd"
+  },
+  {
+    "term": "玫瑰腐乳",
+    "foodId": "fermented-tofu-rose"
+  },
+  {
+    "term": "芝麻油",
+    "foodId": "sesame-oil"
+  },
+  {
+    "term": "辣椒油",
+    "foodId": "sichuan-chili-oil"
+  },
+  {
+    "term": "花椒油",
+    "foodId": "sichuan-pepper-oil"
+  },
+  {
+    "term": "蚝油",
+    "foodId": "oyster-sauce"
+  },
+  {
+    "term": "虾酱",
+    "foodId": "shrimp-paste"
+  },
+  {
+    "term": "鱼露",
+    "foodId": "fish-sauce"
+  },
+  {
+    "term": "料酒",
+    "foodId": "cooking-wine"
+  },
+  {
+    "term": "黄酒",
+    "foodId": "huangjiu"
+  },
+  {
+    "term": "玫瑰露酒",
+    "foodId": "rose-fermented-wine"
+  },
+  {
+    "term": "咸酸梅",
+    "foodId": "preserved-plum"
+  },
+  {
+    "term": "卤水汁",
+    "foodId": "master-stock"
+  },
+  {
+    "term": "五香粉",
+    "foodId": "five-spice-powder"
+  },
+  {
+    "term": "咖喱粉",
+    "foodId": "curry-powder-cn"
+  },
+  {
+    "term": "沙茶酱",
+    "foodId": "c14-fj-shacha"
+  },
+  {
+    "term": "叉烧酱",
+    "foodId": "bbq-sauce-cn"
+  },
+  {
+    "term": "带鱼",
+    "foodId": "hairtail"
+  },
+  {
+    "term": "马鲛鱼",
+    "foodId": "spanish-mackerel"
+  },
+  {
+    "term": "鲳鱼",
+    "foodId": "pomfret"
+  },
+  {
+    "term": "黄鳍金枪鱼",
+    "foodId": "yellow-fin-tuna"
+  },
+  {
+    "term": "鱿鱼筒",
+    "foodId": "squid-tube"
+  },
+  {
+    "term": "墨鱼",
+    "foodId": "cuttlefish"
+  },
+  {
+    "term": "鱿鱼干",
+    "foodId": "dried-squid"
+  },
+  {
+    "term": "墨鱼干",
+    "foodId": "dried-cuttlefish"
+  },
+  {
+    "term": "花甲",
+    "foodId": "clams"
+  },
+  {
+    "term": "蛏子",
+    "foodId": "razor-clam"
+  },
+  {
+    "term": "生蚝肉",
+    "foodId": "oyster-meat"
+  },
+  {
+    "term": "鲍鱼仔",
+    "foodId": "abalone-small"
+  },
+  {
+    "term": "海参干",
+    "foodId": "sea-cucumber-dried"
+  },
+  {
+    "term": "紫菜",
+    "foodId": "nori"
+  },
+  {
+    "term": "海带结",
+    "foodId": "kelp-knot"
+  },
+  {
+    "term": "银鱼",
+    "foodId": "whitebait"
+  },
+  {
+    "term": "凤尾鱼",
+    "foodId": "anchovy"
+  },
+  {
+    "term": "黄花鱼干",
+    "foodId": "yellow-croaker-dried"
+  },
+  {
+    "term": "鱼丸",
+    "foodId": "c14-fj-fish-ball"
+  },
+  {
+    "term": "虾滑",
+    "foodId": "shrimp-paste-ball"
+  },
+  {
+    "term": "小白菜",
+    "foodId": "bok-choy"
+  },
+  {
+    "term": "上海青",
+    "foodId": "shanghai-greens"
+  },
+  {
+    "term": "大白菜",
+    "foodId": "chinese-cabbage"
+  },
+  {
+    "term": "芥菜",
+    "foodId": "mustard-greens"
+  },
+  {
+    "term": "苋菜",
+    "foodId": "amaranth-greens"
+  },
+  {
+    "term": "木耳菜",
+    "foodId": "malabar-spinach"
+  },
+  {
+    "term": "空心菜苗",
+    "foodId": "water-spinach-tip"
+  },
+  {
+    "term": "韭菜",
+    "foodId": "garlic-chive"
+  },
+  {
+    "term": "韭菜花",
+    "foodId": "chive-flower"
+  },
+  {
+    "term": "节瓜",
+    "foodId": "winter-gourd"
+  },
+  {
+    "term": "凉瓜",
+    "foodId": "bitter-gourd"
+  },
+  {
+    "term": "丝瓜",
+    "foodId": "luffa"
+  },
+  {
+    "term": "蛇瓜",
+    "foodId": "snake-gourd"
+  },
+  {
+    "term": "佛手瓜",
+    "foodId": "chayote"
+  },
+  {
+    "term": "秋葵",
+    "foodId": "okra"
+  },
+  {
+    "term": "长豆角",
+    "foodId": "yardlong-bean"
+  },
+  {
+    "term": "荷兰豆",
+    "foodId": "snow-pea"
+  },
+  {
+    "term": "甜豆",
+    "foodId": "sugar-snap"
+  },
+  {
+    "term": "莲蓬",
+    "foodId": "lotus-seedpod"
+  },
+  {
+    "term": "柚子",
+    "foodId": "pomelo"
+  },
+  {
+    "term": "卷粉",
+    "foodId": "rice-noodle-roll"
+  },
+  {
+    "term": "米糕",
+    "foodId": "rice-flour-cake"
+  },
+  {
+    "term": "糯米糍",
+    "foodId": "glutinous-rice-ball"
+  },
+  {
+    "term": "煎堆",
+    "foodId": "c13-gd-sesame-ball"
+  },
+  {
+    "term": "萝卜糕",
+    "foodId": "turnip-cake"
+  },
+  {
+    "term": "芋头糕",
+    "foodId": "taro-cake"
+  },
+  {
+    "term": "咸肉粽",
+    "foodId": "c14-gd-rice-dumpling"
+  },
+  {
+    "term": "碱水粽",
+    "foodId": "rice-dumpling-sweet"
+  },
+  {
+    "term": "包子",
+    "foodId": "steamed-bun"
+  },
+  {
+    "term": "馒头",
+    "foodId": "mantou"
+  },
+  {
+    "term": "葱油饼",
+    "foodId": "c13-sd-scallion-pancake"
+  },
+  {
+    "term": "麻花",
+    "foodId": "fried-dough-twist"
+  },
+  {
+    "term": "米饼",
+    "foodId": "rice-cracker"
+  },
+  {
+    "term": "热豆浆",
+    "foodId": "soy-milk-hot"
+  },
+  {
+    "term": "豆腐花",
+    "foodId": "hk-tofu-pudding-hk"
+  },
+  {
+    "term": "凉粉",
+    "foodId": "grass-jelly"
+  },
+  {
+    "term": "番薯姜糖水",
+    "foodId": "sweet-potato-ginger"
+  },
+  {
+    "term": "鸡蛋仔",
+    "foodId": "egg-waffle"
+  },
+  {
+    "term": "菠萝包",
+    "foodId": "c14-hk-pineapple-bun"
+  },
+  {
+    "term": "老婆饼",
+    "foodId": "hk-wife-cake-hk"
+  },
+  {
+    "term": "拉面",
+    "foodId": "hand-pulled-noodle"
+  },
+  {
+    "term": "刀削面",
+    "foodId": "c14-sx-noodle"
+  },
+  {
+    "term": "凉皮",
+    "foodId": "liangpi"
+  },
+  {
+    "term": "肉夹馍",
+    "foodId": "c18-sn-roujiamo"
+  },
+  {
+    "term": "发糕",
+    "foodId": "steamed-bread"
+  }
+]
