@@ -1,0 +1,178 @@
+[
+  {
+    "term": "照烧",
+    "foodId": "jp-teriyaki"
+  },
+  {
+    "term": "天妇罗",
+    "foodId": "jp-tempura"
+  },
+  {
+    "term": "章鱼烧",
+    "foodId": "jp-takoyaki"
+  },
+  {
+    "term": "大阪烧",
+    "foodId": "jp-okonomiyaki"
+  },
+  {
+    "term": "寿喜烧",
+    "foodId": "jp-sukiyaki"
+  },
+  {
+    "term": "关东煮",
+    "foodId": "jp-oden"
+  },
+  {
+    "term": "抹茶",
+    "foodId": "jp-matcha"
+  },
+  {
+    "term": "和牛",
+    "foodId": "jp-wagyu"
+  },
+  {
+    "term": "石锅拌饭",
+    "foodId": "kr-bibimbap"
+  },
+  {
+    "term": "泡菜锅",
+    "foodId": "kr-kimchi-jjigae"
+  },
+  {
+    "term": "紫菜包饭",
+    "foodId": "kr-gimbap"
+  },
+  {
+    "term": "辣炒年糕",
+    "foodId": "kr-tteokbokki"
+  },
+  {
+    "term": "韩式烤肉",
+    "foodId": "kr-bulgogi"
+  },
+  {
+    "term": "大酱汤",
+    "foodId": "kr-doenjang-jjigae"
+  },
+  {
+    "term": "冬阴功",
+    "foodId": "th-tom-yum"
+  },
+  {
+    "term": "越南河粉",
+    "foodId": "vn-pho"
+  },
+  {
+    "term": "海南鸡饭",
+    "foodId": "sg-hainanese-chicken"
+  },
+  {
+    "term": "叻沙",
+    "foodId": "my-laksa"
+  },
+  {
+    "term": "沙爹",
+    "foodId": "my-satay"
+  },
+  {
+    "term": "芒果糯米饭",
+    "foodId": "th-mango-sticky"
+  },
+  {
+    "term": "印尼炒饭",
+    "foodId": "id-nasi-goreng"
+  },
+  {
+    "term": "印度香饭",
+    "foodId": "in-biryani"
+  },
+  {
+    "term": "坦都里",
+    "foodId": "in-tandoori"
+  },
+  {
+    "term": "提拉米苏",
+    "foodId": "it-tiramisu"
+  },
+  {
+    "term": "希腊沙拉",
+    "foodId": "gr-greek-salad"
+  },
+  {
+    "term": "土耳其烤肉",
+    "foodId": "tr-kebab"
+  },
+  {
+    "term": "鹰嘴豆泥",
+    "foodId": "sa-hummus"
+  },
+  {
+    "term": "塔可",
+    "foodId": "mx-taco"
+  },
+  {
+    "term": "墨西哥卷饼",
+    "foodId": "mx-burrito"
+  },
+  {
+    "term": "牛油果酱",
+    "foodId": "mx-guacamole"
+  },
+  {
+    "term": "巴西烤肉",
+    "foodId": "br-churrasco"
+  },
+  {
+    "term": "阿根廷烤肉",
+    "foodId": "ar-asado"
+  },
+  {
+    "term": "枫糖浆",
+    "foodId": "ca-maple-syrup"
+  },
+  {
+    "term": "凯撒沙拉",
+    "foodId": "us-caesar-salad"
+  },
+  {
+    "term": "味噌汤",
+    "foodId": "c23-jp-miso-soup"
+  },
+  {
+    "term": "泡菜汤",
+    "foodId": "c23-kr-kimchi-stew"
+  },
+  {
+    "term": "椰奶咖喱",
+    "foodId": "c23-th-coconut-curry"
+  },
+  {
+    "term": "清炖河粉",
+    "foodId": "c23-vn-pho-lite"
+  },
+  {
+    "term": "番茄意面",
+    "foodId": "c23-it-pasta-marinara"
+  },
+  {
+    "term": "希腊酸奶",
+    "foodId": "c23-gr-yogurt-honey"
+  },
+  {
+    "term": "塔博勒",
+    "foodId": "c23-sa-tabouleh"
+  },
+  {
+    "term": "燕麦粥",
+    "foodId": "c23-us-oatmeal"
+  },
+  {
+    "term": "三文鱼丼",
+    "foodId": "c23-jp-salmon-don"
+  },
+  {
+    "term": "罗勒炒饭",
+    "foodId": "c23-th-basil-fried-rice"
+  }
+]

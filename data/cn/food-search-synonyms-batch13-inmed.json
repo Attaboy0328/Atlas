@@ -1,0 +1,30 @@
+[
+  {
+    "term": "印度香饭",
+    "foodId": "in-biryani"
+  },
+  {
+    "term": "坦都里",
+    "foodId": "in-tandoori"
+  },
+  {
+    "term": "提拉米苏",
+    "foodId": "it-tiramisu"
+  },
+  {
+    "term": "希腊沙拉",
+    "foodId": "gr-greek-salad"
+  },
+  {
+    "term": "土耳其烤肉",
+    "foodId": "tr-kebab"
+  },
+  {
+    "term": "鹰嘴豆泥",
+    "foodId": "sa-hummus"
+  },
+  {
+    "term": "冬阴功",
+    "foodId": "th-tom-yum"
+  }
+]

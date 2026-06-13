@@ -5,12 +5,32 @@
     "en": "lemongrass",
     "category": "调料",
     "nature": "温",
-    "effects": ["芳香", "行气"],
-    "regions": ["TH", "VN", "CN"],
-    "provinces": ["云南", "广东"],
-    "aliases": ["柠檬草"],
-    "dietaryScenes": ["素食", "全植物", "清真"],
-    "searchTerms": ["lemongrass", "香茅", "柠檬草"],
+    "effects": [
+      "芳香",
+      "行气"
+    ],
+    "regions": [
+      "TH",
+      "VN",
+      "CN"
+    ],
+    "provinces": [
+      "云南",
+      "广东"
+    ],
+    "aliases": [
+      "柠檬草"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "lemongrass",
+      "香茅",
+      "柠檬草"
+    ],
     "summary": "东南亚芳香草本，冬阴功与烤肉腌料常用。",
     "caution": "气味辛散，阴虚火旺者不宜过量。"
   },
@@ -20,13 +40,31 @@
     "en": "galangal",
     "category": "调料",
     "nature": "温",
-    "effects": ["散寒", "行气"],
-    "regions": ["TH", "MY"],
-    "aliases": ["高良姜", "泰国姜"],
-    "dietaryScenes": ["素食", "全植物", "清真"],
-    "searchTerms": ["galangal", "南姜", "高良姜"],
+    "effects": [
+      "散寒",
+      "行气"
+    ],
+    "regions": [
+      "TH",
+      "MY"
+    ],
+    "aliases": [
+      "高良姜",
+      "泰国姜"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "galangal",
+      "南姜",
+      "高良姜"
+    ],
     "summary": "东南亚根茎香料，咖喱与汤品去腥增香。",
-    "caution": "辛温，胃溃疡活动期适量。"
+    "caution": "辛温，胃溃疡活动期适量。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "tamarind-paste",
@@ -34,11 +72,28 @@
     "en": "tamarind paste",
     "category": "调料",
     "nature": "凉",
-    "effects": ["调味", "消食"],
-    "regions": ["TH", "IN"],
-    "aliases": ["酸角酱", "亚参酱"],
-    "dietaryScenes": ["素食", "全植物", "清真"],
-    "searchTerms": ["tamarind", "罗望子", "酸角酱"],
+    "effects": [
+      "调味",
+      "消食"
+    ],
+    "regions": [
+      "TH",
+      "IN"
+    ],
+    "aliases": [
+      "酸角酱",
+      "亚参酱"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "tamarind",
+      "罗望子",
+      "酸角酱"
+    ],
     "summary": "罗望子果肉酱，酸甜调味，泰式炒菜与蘸料。",
     "caution": "酸性强，胃酸过多、反流者适量。"
   },
@@ -48,10 +103,23 @@
     "en": "coconut sugar",
     "category": "调料",
     "nature": "平",
-    "effects": ["调味"],
-    "regions": ["TH", "MY"],
-    "dietaryScenes": ["素食", "全植物", "清真"],
-    "searchTerms": ["coconut sugar", "椰糖", "棕榈糖"],
+    "effects": [
+      "调味"
+    ],
+    "regions": [
+      "TH",
+      "MY"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "coconut sugar",
+      "椰糖",
+      "棕榈糖"
+    ],
     "summary": "椰花汁熬制糖块，东南亚甜品与咖喱平衡辣味。",
     "caution": "仍为糖类，糖尿病者控量。"
   },
@@ -61,10 +129,22 @@
     "en": "curry leaf",
     "category": "调料",
     "nature": "温",
-    "effects": ["芳香"],
-    "regions": ["IN", "LK"],
-    "dietaryScenes": ["素食", "全植物", "清真"],
-    "searchTerms": ["curry leaf", "咖喱叶"],
+    "effects": [
+      "芳香"
+    ],
+    "regions": [
+      "IN",
+      "LK"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "curry leaf",
+      "咖喱叶"
+    ],
     "summary": "南亚芳香叶片，油爆后入咖喱与炖菜。",
     "caution": "新鲜叶风味最佳，干燥品香气较弱。"
   },
@@ -74,10 +154,23 @@
     "en": "garam masala",
     "category": "调料",
     "nature": "温",
-    "effects": ["芳香", "调味"],
-    "regions": ["IN"],
-    "dietaryScenes": ["素食", "全植物", "清真"],
-    "searchTerms": ["garam masala", "印度香料", "马萨拉"],
+    "effects": [
+      "芳香",
+      "调味"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "garam masala",
+      "印度香料",
+      "马萨拉"
+    ],
     "summary": "印度混合香料粉，炖肉、咖喱与烤菜常用。",
     "caution": "辛温，内热便秘者适量。"
   },
@@ -87,11 +180,27 @@
     "en": "fresh turmeric",
     "category": "调料",
     "nature": "温",
-    "effects": ["活血", "调味"],
-    "regions": ["IN", "TH"],
-    "aliases": ["黄姜"],
-    "dietaryScenes": ["素食", "全植物", "清真"],
-    "searchTerms": ["turmeric", "姜黄", "黄姜"],
+    "effects": [
+      "活血",
+      "调味"
+    ],
+    "regions": [
+      "IN",
+      "TH"
+    ],
+    "aliases": [
+      "黄姜"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "turmeric",
+      "姜黄",
+      "黄姜"
+    ],
     "summary": "新鲜姜黄根茎，南亚咖喱与黄金奶常用。",
     "caution": "染色性强；胆囊疾病、孕妇大量药用需遵医嘱。"
   },
@@ -101,13 +210,27 @@
     "en": "paneer",
     "category": "肉蛋奶",
     "nature": "平",
-    "effects": ["补钙"],
-    "regions": ["IN"],
-    "aliases": ["帕尼尔", "印度奶豆腐"],
-    "dietaryScenes": ["素食"],
-    "searchTerms": ["paneer", "帕尼尔", "印度奶酪"],
+    "effects": [
+      "补钙"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "aliases": [
+      "帕尼尔",
+      "印度奶豆腐"
+    ],
+    "dietaryScenes": [
+      "素食"
+    ],
+    "searchTerms": [
+      "paneer",
+      "帕尼尔",
+      "印度奶酪"
+    ],
     "summary": "印度鲜制奶酪，咖喱与烤串常用，不融化。",
-    "caution": "乳制品，乳糖不耐者可能不适。"
+    "caution": "乳制品，乳糖不耐者可能不适。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "cilantro-fresh",
@@ -115,11 +238,30 @@
     "en": "cilantro",
     "category": "蔬菜",
     "nature": "温",
-    "effects": ["芳香", "发汗"],
-    "regions": ["CN", "MX", "IN"],
-    "aliases": ["芫荽", "胡荽"],
-    "dietaryScenes": ["素食", "全植物", "清真"],
-    "searchTerms": ["cilantro", "coriander", "香菜", "芫荽"],
+    "effects": [
+      "芳香",
+      "发汗"
+    ],
+    "regions": [
+      "CN",
+      "MX",
+      "IN"
+    ],
+    "aliases": [
+      "芫荽",
+      "胡荽"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "cilantro",
+      "coriander",
+      "香菜",
+      "芫荽"
+    ],
     "summary": "新鲜香菜叶，中餐凉拌、东南亚与墨西哥料理增香。",
     "caution": "部分人基因型觉苦；气虚自汗者不宜过量。"
   },
@@ -129,11 +271,28 @@
     "en": "masa harina",
     "category": "谷物",
     "nature": "平",
-    "effects": ["充饥"],
-    "regions": ["MX", "US"],
-    "aliases": ["墨西哥玉米粉", "玉米面团粉"],
-    "dietaryScenes": ["素食", "全植物", "清真", "无麸质"],
-    "searchTerms": ["masa", "masa harina", "墨西哥玉米粉"],
+    "effects": [
+      "充饥"
+    ],
+    "regions": [
+      "MX",
+      "US"
+    ],
+    "aliases": [
+      "墨西哥玉米粉",
+      "玉米面团粉"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真",
+      "无麸质"
+    ],
+    "searchTerms": [
+      "masa",
+      "masa harina",
+      "墨西哥玉米粉"
+    ],
     "summary": "碱化处理玉米磨粉，做玉米饼与塔可外皮。",
     "caution": "玉米制品，极少数人过敏。"
   },
@@ -143,13 +302,26 @@
     "en": "ghee",
     "category": "肉蛋奶",
     "nature": "温",
-    "effects": ["润燥"],
-    "regions": ["IN"],
-    "aliases": ["澄清黄油"],
-    "dietaryScenes": ["素食"],
-    "searchTerms": ["ghee", "酥油", "印度酥油"],
+    "effects": [
+      "润燥"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "aliases": [
+      "澄清黄油"
+    ],
+    "dietaryScenes": [
+      "素食"
+    ],
+    "searchTerms": [
+      "ghee",
+      "酥油",
+      "印度酥油"
+    ],
     "summary": "牛奶脂肪提炼澄清黄油，南亚煎炸与咖喱用油。",
-    "caution": "高饱和脂肪，控脂人群适量；含乳制品。"
+    "caution": "高饱和脂肪，控脂人群适量；含乳制品。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "sriracha",
@@ -157,10 +329,24 @@
     "en": "sriracha",
     "category": "调料",
     "nature": "温",
-    "effects": ["调味", "辛辣"],
-    "regions": ["TH", "US"],
-    "dietaryScenes": ["素食", "全植物", "清真"],
-    "searchTerms": ["sriracha", "是拉差", "越南辣椒酱"],
+    "effects": [
+      "调味",
+      "辛辣"
+    ],
+    "regions": [
+      "TH",
+      "US"
+    ],
+    "dietaryScenes": [
+      "素食",
+      "全植物",
+      "清真"
+    ],
+    "searchTerms": [
+      "sriracha",
+      "是拉差",
+      "越南辣椒酱"
+    ],
     "summary": "东南亚风格辣椒蒜酱，蘸料与拌面。",
     "caution": "辛辣高盐，胃炎活动期适量。"
   }

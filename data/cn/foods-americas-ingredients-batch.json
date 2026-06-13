@@ -1,0 +1,940 @@
+[
+  {
+    "id": "us-burger",
+    "name": "美式汉堡",
+    "en": "美式汉堡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "US"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "aliases": [
+      "牛肉汉堡"
+    ],
+    "pinyin": "usburger",
+    "initials": "us-",
+    "searchTerms": [
+      "美式汉堡",
+      "牛肉汉堡",
+      "us-burger"
+    ],
+    "summary": "美式汉堡，温中充饥适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "us-bbq-ribs",
+    "name": "美式烤肋排",
+    "en": "美式烤肋排",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "US"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "aliases": [
+      "BBQ肋排"
+    ],
+    "pinyin": "usbbqribs",
+    "initials": "us-",
+    "searchTerms": [
+      "美式烤肋排",
+      "BBQ肋排",
+      "us-bbq-ribs"
+    ],
+    "summary": "美式烤肋排，温补适量高脂控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "us-clam-chowder",
+    "name": "蛤蜊浓汤",
+    "en": "蛤蜊浓汤",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "US"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "aliases": [
+      "海鲜浓汤"
+    ],
+    "pinyin": "usclamchowder",
+    "initials": "us-",
+    "searchTerms": [
+      "蛤蜊浓汤",
+      "海鲜浓汤",
+      "us-clam-chowder"
+    ],
+    "summary": "美式蛤蜊浓汤，温胃补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "us-pancakes",
+    "name": "美式松饼",
+    "en": "美式松饼",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "US"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "aliases": [
+      "煎饼",
+      "Pancake"
+    ],
+    "pinyin": "uspancakes",
+    "initials": "us-",
+    "searchTerms": [
+      "美式松饼",
+      "煎饼",
+      "Pancake",
+      "us-pancakes"
+    ],
+    "summary": "美式松饼，健脾早餐控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "us-mac-cheese",
+    "name": "芝士通心粉",
+    "en": "芝士通心粉",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "US"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "aliases": [
+      "Mac and Cheese"
+    ],
+    "pinyin": "usmaccheese",
+    "initials": "us-",
+    "searchTerms": [
+      "芝士通心粉",
+      "Mac and Cheese",
+      "us-mac-cheese"
+    ],
+    "summary": "美式芝士通心粉，温胃主食适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "us-caesar-salad",
+    "name": "凯撒沙拉",
+    "en": "凯撒沙拉",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "US"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "aliases": [
+      "Caesar Salad"
+    ],
+    "pinyin": "uscaesarsalad",
+    "initials": "us-",
+    "searchTerms": [
+      "凯撒沙拉",
+      "Caesar Salad",
+      "us-caesar-salad"
+    ],
+    "summary": "美式凯撒沙拉，健脾开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "us-apple-pie",
+    "name": "苹果派",
+    "en": "苹果派",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "US"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "aliases": [
+      "Apple Pie"
+    ],
+    "pinyin": "usapplepie",
+    "initials": "us-",
+    "searchTerms": [
+      "苹果派",
+      "Apple Pie",
+      "us-apple-pie"
+    ],
+    "summary": "美式苹果派，健脾甜点控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "us-gumbo",
+    "name": "秋葵浓汤",
+    "en": "秋葵浓汤",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "US"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "aliases": [
+      "Gumbo"
+    ],
+    "pinyin": "usgumbo",
+    "initials": "us-",
+    "searchTerms": [
+      "秋葵浓汤",
+      "Gumbo",
+      "us-gumbo"
+    ],
+    "summary": "美式秋葵浓汤，温胃祛湿。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mx-taco",
+    "name": "墨西哥塔可",
+    "en": "墨西哥塔可",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "MX"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "aliases": [
+      "Taco",
+      "玉米饼"
+    ],
+    "pinyin": "mxtaco",
+    "initials": "mx-",
+    "searchTerms": [
+      "墨西哥塔可",
+      "Taco",
+      "玉米饼",
+      "mx-taco"
+    ],
+    "summary": "墨西哥塔可，温胃主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mx-burrito",
+    "name": "墨西哥卷饼",
+    "en": "墨西哥卷饼",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "MX"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "aliases": [
+      "Burrito"
+    ],
+    "pinyin": "mxburrito",
+    "initials": "mx-",
+    "searchTerms": [
+      "墨西哥卷饼",
+      "Burrito",
+      "mx-burrito"
+    ],
+    "summary": "墨西哥卷饼，温胃便携主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mx-guacamole",
+    "name": "牛油果酱",
+    "en": "牛油果酱",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "MX"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "aliases": [
+      "Guacamole"
+    ],
+    "pinyin": "mxguacamole",
+    "initials": "mx-",
+    "searchTerms": [
+      "牛油果酱",
+      "Guacamole",
+      "mx-guacamole"
+    ],
+    "summary": "墨西哥牛油果酱，润燥开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mx-enchilada",
+    "name": "辣酱卷饼",
+    "en": "辣酱卷饼",
+    "category": "主食",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "MX"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "aliases": [
+      "Enchilada"
+    ],
+    "pinyin": "mxenchilada",
+    "initials": "mx-",
+    "searchTerms": [
+      "辣酱卷饼",
+      "Enchilada",
+      "mx-enchilada"
+    ],
+    "summary": "墨西哥辣酱卷饼，辛热开胃辛辣控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mx-mole",
+    "name": "墨西哥摩尔酱",
+    "en": "墨西哥摩尔酱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "MX"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "aliases": [
+      "Mole",
+      "巧克力辣酱"
+    ],
+    "pinyin": "mxmole",
+    "initials": "mx-",
+    "searchTerms": [
+      "墨西哥摩尔酱",
+      "Mole",
+      "巧克力辣酱",
+      "mx-mole"
+    ],
+    "summary": "墨西哥摩尔酱，温香调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mx-tortilla",
+    "name": "玉米薄饼",
+    "en": "玉米薄饼",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "MX"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "aliases": [
+      "Tortilla"
+    ],
+    "pinyin": "mxtortilla",
+    "initials": "mx-",
+    "searchTerms": [
+      "玉米薄饼",
+      "Tortilla",
+      "mx-tortilla"
+    ],
+    "summary": "墨西哥玉米薄饼，健脾主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mx-pozole",
+    "name": "墨西哥 pozole",
+    "en": "墨西哥 pozole",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "MX"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "aliases": [
+      "玉米肉汤"
+    ],
+    "pinyin": "mxpozole",
+    "initials": "mx-",
+    "searchTerms": [
+      "墨西哥 pozole",
+      "玉米肉汤",
+      "mx-pozole"
+    ],
+    "summary": "墨西哥玉米肉汤，温胃补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "mx-churros",
+    "name": "西班牙油条",
+    "en": "西班牙油条",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "MX"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "aliases": [
+      "Churros",
+      "吉事果"
+    ],
+    "pinyin": "mxchurros",
+    "initials": "mx-",
+    "searchTerms": [
+      "西班牙油条",
+      "Churros",
+      "吉事果",
+      "mx-churros"
+    ],
+    "summary": "墨西哥吉事果，甜点控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "br-feijoada",
+    "name": "巴西黑豆炖肉",
+    "en": "巴西黑豆炖肉",
+    "category": "豆类",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "BR"
+    ],
+    "provinces": [
+      "巴西"
+    ],
+    "aliases": [
+      "Feijoada"
+    ],
+    "pinyin": "brfeijoada",
+    "initials": "br-",
+    "searchTerms": [
+      "巴西黑豆炖肉",
+      "Feijoada",
+      "br-feijoada"
+    ],
+    "summary": "巴西黑豆炖肉，温中补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "br-pao-de-acucar",
+    "name": "巴西芝士面包",
+    "en": "巴西芝士面包",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "BR"
+    ],
+    "provinces": [
+      "巴西"
+    ],
+    "aliases": [
+      "Pão de Queijo"
+    ],
+    "pinyin": "brpaodeacucar",
+    "initials": "br-",
+    "searchTerms": [
+      "巴西芝士面包",
+      "Pão de Queijo",
+      "br-pao-de-acucar"
+    ],
+    "summary": "巴西芝士面包，健脾小食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "br-acai-bowl",
+    "name": "巴西莓碗",
+    "en": "巴西莓碗",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "BR"
+    ],
+    "provinces": [
+      "巴西"
+    ],
+    "aliases": [
+      "Açaí Bowl"
+    ],
+    "pinyin": "bracaibowl",
+    "initials": "br-",
+    "searchTerms": [
+      "巴西莓碗",
+      "Açaí Bowl",
+      "br-acai-bowl"
+    ],
+    "summary": "巴西莓碗，清热抗氧化控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "br-churrasco",
+    "name": "巴西烤肉",
+    "en": "巴西烤肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "BR"
+    ],
+    "provinces": [
+      "巴西"
+    ],
+    "aliases": [
+      "Churrasco"
+    ],
+    "pinyin": "brchurrasco",
+    "initials": "br-",
+    "searchTerms": [
+      "巴西烤肉",
+      "Churrasco",
+      "br-churrasco"
+    ],
+    "summary": "巴西烤肉，温补气血适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "br-moqueca",
+    "name": "巴西海鲜炖",
+    "en": "巴西海鲜炖",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "BR"
+    ],
+    "provinces": [
+      "巴西"
+    ],
+    "aliases": [
+      "椰奶炖鱼"
+    ],
+    "pinyin": "brmoqueca",
+    "initials": "br-",
+    "searchTerms": [
+      "巴西海鲜炖",
+      "椰奶炖鱼",
+      "br-moqueca"
+    ],
+    "summary": "巴西海鲜炖，温胃补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "br-brigadeiro",
+    "name": "巴西巧克力球",
+    "en": "巴西巧克力球",
+    "category": "坚果种子",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "BR"
+    ],
+    "provinces": [
+      "巴西"
+    ],
+    "aliases": [
+      "Brigadeiro"
+    ],
+    "pinyin": "brbrigadeiro",
+    "initials": "br-",
+    "searchTerms": [
+      "巴西巧克力球",
+      "Brigadeiro",
+      "br-brigadeiro"
+    ],
+    "summary": "巴西巧克力球，甜点控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ar-asado",
+    "name": "阿根廷烤肉",
+    "en": "阿根廷烤肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "AR"
+    ],
+    "provinces": [
+      "阿根廷"
+    ],
+    "aliases": [
+      "Asado"
+    ],
+    "pinyin": "arasado",
+    "initials": "ar-",
+    "searchTerms": [
+      "阿根廷烤肉",
+      "Asado",
+      "ar-asado"
+    ],
+    "summary": "阿根廷烤肉，温补气血适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ar-empanada",
+    "name": "阿根廷馅饼",
+    "en": "阿根廷馅饼",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "AR"
+    ],
+    "provinces": [
+      "阿根廷"
+    ],
+    "aliases": [
+      "Empanada"
+    ],
+    "pinyin": "arempanada",
+    "initials": "ar-",
+    "searchTerms": [
+      "阿根廷馅饼",
+      "Empanada",
+      "ar-empanada"
+    ],
+    "summary": "阿根廷馅饼，温胃主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ar-dulce-de-leche",
+    "name": "焦糖牛奶酱",
+    "en": "焦糖牛奶酱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "AR"
+    ],
+    "provinces": [
+      "阿根廷"
+    ],
+    "aliases": [
+      "Dulce de Leche"
+    ],
+    "pinyin": "ardulcedeleche",
+    "initials": "ar-",
+    "searchTerms": [
+      "焦糖牛奶酱",
+      "Dulce de Leche",
+      "ar-dulce-de-leche"
+    ],
+    "summary": "阿根廷焦糖酱，甘温调味控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ar-chimichurri",
+    "name": "阿根廷青酱",
+    "en": "阿根廷青酱",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "AR"
+    ],
+    "provinces": [
+      "阿根廷"
+    ],
+    "aliases": [
+      "Chimichurri"
+    ],
+    "pinyin": "archimichurri",
+    "initials": "ar-",
+    "searchTerms": [
+      "阿根廷青酱",
+      "Chimichurri",
+      "ar-chimichurri"
+    ],
+    "summary": "阿根廷青酱，开胃调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ar-mate",
+    "name": "马黛茶",
+    "en": "马黛茶",
+    "category": "茶饮",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "AR"
+    ],
+    "provinces": [
+      "阿根廷"
+    ],
+    "aliases": [
+      "Mate",
+      "马黛"
+    ],
+    "pinyin": "armate",
+    "initials": "ar-",
+    "searchTerms": [
+      "马黛茶",
+      "Mate",
+      "马黛",
+      "ar-mate"
+    ],
+    "summary": "阿根廷马黛茶，提神适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ca-poutine",
+    "name": "肉汁芝士薯条",
+    "en": "肉汁芝士薯条",
+    "category": "薯类",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CA"
+    ],
+    "provinces": [
+      "加拿大"
+    ],
+    "aliases": [
+      "Poutine"
+    ],
+    "pinyin": "capoutine",
+    "initials": "ca-",
+    "searchTerms": [
+      "肉汁芝士薯条",
+      "Poutine",
+      "ca-poutine"
+    ],
+    "summary": "加拿大肉汁薯条，温胃小食高脂控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ca-maple-syrup",
+    "name": "枫糖浆",
+    "en": "枫糖浆",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CA"
+    ],
+    "provinces": [
+      "加拿大"
+    ],
+    "aliases": [
+      "Maple Syrup"
+    ],
+    "pinyin": "camaplesyrup",
+    "initials": "ca-",
+    "searchTerms": [
+      "枫糖浆",
+      "Maple Syrup",
+      "ca-maple-syrup"
+    ],
+    "summary": "加拿大枫糖浆，甘平调味控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ca-butter-tart",
+    "name": "黄油挞",
+    "en": "黄油挞",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CA"
+    ],
+    "provinces": [
+      "加拿大"
+    ],
+    "aliases": [
+      "Butter Tart"
+    ],
+    "pinyin": "cabuttertart",
+    "initials": "ca-",
+    "searchTerms": [
+      "黄油挞",
+      "Butter Tart",
+      "ca-butter-tart"
+    ],
+    "summary": "加拿大黄油挞，甜点控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ca-tourtiere",
+    "name": "法式肉派",
+    "en": "法式肉派",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CA"
+    ],
+    "provinces": [
+      "加拿大"
+    ],
+    "aliases": [
+      "Tourtière"
+    ],
+    "pinyin": "catourtiere",
+    "initials": "ca-",
+    "searchTerms": [
+      "法式肉派",
+      "Tourtière",
+      "ca-tourtiere"
+    ],
+    "summary": "加拿大法式肉派，温胃主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ca-smoked-salmon",
+    "name": "加拿大熏三文鱼",
+    "en": "加拿大熏三文鱼",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "CA"
+    ],
+    "provinces": [
+      "加拿大"
+    ],
+    "aliases": [
+      "熏鲑鱼"
+    ],
+    "pinyin": "casmokedsalmon",
+    "initials": "ca-",
+    "searchTerms": [
+      "加拿大熏三文鱼",
+      "熏鲑鱼",
+      "ca-smoked-salmon"
+    ],
+    "summary": "加拿大熏三文鱼，滋阴高蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

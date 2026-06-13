@@ -1,0 +1,34 @@
+[
+  {
+    "term": "照烧",
+    "foodId": "jp-teriyaki"
+  },
+  {
+    "term": "天妇罗",
+    "foodId": "jp-tempura"
+  },
+  {
+    "term": "章鱼烧",
+    "foodId": "jp-takoyaki"
+  },
+  {
+    "term": "大阪烧",
+    "foodId": "jp-okonomiyaki"
+  },
+  {
+    "term": "寿喜烧",
+    "foodId": "jp-sukiyaki"
+  },
+  {
+    "term": "关东煮",
+    "foodId": "jp-oden"
+  },
+  {
+    "term": "抹茶",
+    "foodId": "jp-matcha"
+  },
+  {
+    "term": "和牛",
+    "foodId": "jp-wagyu"
+  }
+]

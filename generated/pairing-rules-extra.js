@@ -2009,5 +2009,125 @@ const PAIRING_RULES_ALL = [
     "level": "good",
     "category": "日常搭配",
     "text": "草原手把肉配姜盐，温补气血冬季。"
+  },
+  {
+    "ids": [
+      "jp-miso-soup-base",
+      "tofu"
+    ],
+    "title": "味噌汤与豆腐",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "日式味噌汤配豆腐，温胃暖胃易消化。"
+  },
+  {
+    "ids": [
+      "jp-sashimi-salmon",
+      "ginger"
+    ],
+    "title": "三文鱼与姜丝",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "刺身配姜丝，温胃解腻适量。"
+  },
+  {
+    "ids": [
+      "kr-kimchi-jjigae",
+      "tofu"
+    ],
+    "title": "泡菜锅与豆腐",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "韩式泡菜锅配豆腐，温胃开胃。"
+  },
+  {
+    "ids": [
+      "kr-bibimbap",
+      "egg"
+    ],
+    "title": "石锅拌饭与蛋",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "拌饭配鸡蛋，健脾充饥。"
+  },
+  {
+    "ids": [
+      "th-tom-yum",
+      "th-lemongrass"
+    ],
+    "title": "冬阴功与香茅",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "泰式冬阴功配香茅，祛湿开胃。"
+  },
+  {
+    "ids": [
+      "vn-pho",
+      "ginger"
+    ],
+    "title": "河粉与姜",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "越南河粉配姜丝，温胃补虚。"
+  },
+  {
+    "ids": [
+      "sg-hainanese-chicken",
+      "ginger"
+    ],
+    "title": "海南鸡饭与姜",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "鸡饭配姜蓉，健脾益气。"
+  },
+  {
+    "ids": [
+      "in-dal",
+      "rice"
+    ],
+    "title": "豆糊与米饭",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "印度豆糊配饭，健脾素食。"
+  },
+  {
+    "ids": [
+      "pasta-dry",
+      "olive-oil"
+    ],
+    "title": "意面与橄榄油",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "意面拌橄榄油，健脾润燥。"
+  },
+  {
+    "ids": [
+      "gr-greek-salad",
+      "gr-feta"
+    ],
+    "title": "希腊沙拉与羊奶酪",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "沙拉配羊奶酪，清热开胃。"
+  },
+  {
+    "ids": [
+      "tr-kebab",
+      "yogurt"
+    ],
+    "title": "烤肉与酸奶",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "土耳其烤肉配酸奶，温补解腻。"
+  },
+  {
+    "ids": [
+      "mx-taco",
+      "mx-guacamole"
+    ],
+    "title": "塔可与牛油果酱",
+    "level": "good",
+    "category": "日常搭配",
+    "text": "塔可配牛油果酱，润燥开胃。"
   }
 ];

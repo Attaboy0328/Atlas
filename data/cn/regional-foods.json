@@ -1227,7 +1227,8 @@
       "hainanjifan",
       "hnjf"
     ],
-    "summary": "琼菜代表，鸡肉与鸡油饭。"
+    "summary": "琼菜代表，鸡肉与鸡油饭。",
+    "hiddenFromLibrary": true
   },
   {
     "id": "wuxianglu",

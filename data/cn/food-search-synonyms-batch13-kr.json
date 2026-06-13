@@ -1,0 +1,26 @@
+[
+  {
+    "term": "石锅拌饭",
+    "foodId": "kr-bibimbap"
+  },
+  {
+    "term": "泡菜锅",
+    "foodId": "kr-kimchi-jjigae"
+  },
+  {
+    "term": "紫菜包饭",
+    "foodId": "kr-gimbap"
+  },
+  {
+    "term": "辣炒年糕",
+    "foodId": "kr-tteokbokki"
+  },
+  {
+    "term": "韩式烤肉",
+    "foodId": "kr-bulgogi"
+  },
+  {
+    "term": "大酱汤",
+    "foodId": "kr-doenjang-jjigae"
+  }
+]

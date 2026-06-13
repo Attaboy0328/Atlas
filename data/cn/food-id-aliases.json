@@ -80,6 +80,11 @@
     "note": "auto: duplicate name「燕窝」→ bird-nest"
   },
   {
+    "alias": "bj-zhajiangmian",
+    "canonical": "kr-jjajangmyeon",
+    "note": "auto: duplicate name「炸酱面」→ kr-jjajangmyeon"
+  },
+  {
     "alias": "black-tiger-shrimp",
     "canonical": "prawn-black-tiger",
     "note": "auto: duplicate name「黑虎虾」→ prawn-black-tiger"
@@ -1770,6 +1775,11 @@
     "note": "auto: duplicate name「芥兰」→ chinese-broccoli"
   },
   {
+    "alias": "galangal",
+    "canonical": "th-galangal",
+    "note": "auto: duplicate name「南姜」→ th-galangal"
+  },
+  {
     "alias": "garlic-bulb",
     "canonical": "garlic",
     "note": "大蒜"
@@ -1778,6 +1788,11 @@
     "alias": "gd-herbal-tea-gd",
     "canonical": "herbal-cooling-tea",
     "note": "auto: duplicate name「凉茶」→ herbal-cooling-tea"
+  },
+  {
+    "alias": "ghee",
+    "canonical": "in-ghee",
+    "note": "auto: duplicate name「印度酥油」→ in-ghee"
   },
   {
     "alias": "glycine-max-black",
@@ -1913,6 +1928,11 @@
     "alias": "gz-sour-soup",
     "canonical": "c17-gz-sour-soup",
     "note": "auto: duplicate name「酸汤鱼」→ c17-gz-sour-soup"
+  },
+  {
+    "alias": "hainan-chicken-rice",
+    "canonical": "sg-hainanese-chicken",
+    "note": "auto: duplicate name「海南鸡饭」→ sg-hainanese-chicken"
   },
   {
     "alias": "hakka-stuffed-tofu",
@@ -2198,6 +2218,11 @@
     "alias": "jinhua-ham",
     "canonical": "c18-ah-ham",
     "note": "auto: duplicate name「金华火腿」→ c18-ah-ham"
+  },
+  {
+    "alias": "jl-korean-cold-noodle",
+    "canonical": "kr-naengmyeon",
+    "note": "auto: duplicate name「冷面」→ kr-naengmyeon"
   },
   {
     "alias": "jl-songhua-egg",
@@ -2900,6 +2925,11 @@
     "note": "auto: duplicate name「生蚝」→ oyster"
   },
   {
+    "alias": "paneer",
+    "canonical": "in-paneer",
+    "note": "auto: duplicate name「印度奶酪」→ in-paneer"
+  },
+  {
     "alias": "pea-tips",
     "canonical": "pea-shoot",
     "note": "auto: duplicate name「豌豆尖」→ pea-shoot"
@@ -2990,1254 +3020,1104 @@
     "note": "人参"
   },
   {
-    "alias": "reg-amaranth--129",
-    "canonical": "prod-amaranth--24",
-    "note": "auto: duplicate name「香港苋菜」→ prod-amaranth--24"
+    "alias": "reg-amaranth--2084",
+    "canonical": "prod-amaranth--484",
+    "note": "auto: duplicate name「宁夏苋菜」→ prod-amaranth--484"
   },
   {
-    "alias": "reg-amaranth--214",
-    "canonical": "prod-amaranth--44",
-    "note": "auto: duplicate name「澳门苋菜」→ prod-amaranth--44"
+    "alias": "reg-amaranth--2169",
+    "canonical": "prod-amaranth--504",
+    "note": "auto: duplicate name「新疆苋菜」→ prod-amaranth--504"
   },
   {
-    "alias": "reg-amaranth--299",
-    "canonical": "prod-amaranth--64",
-    "note": "auto: duplicate name「广西苋菜」→ prod-amaranth--64"
+    "alias": "reg-bbq-sauce-cn--1549",
+    "canonical": "cond-bbq-sauce-cn--379",
+    "note": "auto: duplicate name「河南叉烧酱」→ cond-bbq-sauce-cn--379"
   },
   {
-    "alias": "reg-amaranth--384",
-    "canonical": "prod-amaranth--84",
-    "note": "auto: duplicate name「福建苋菜」→ prod-amaranth--84"
+    "alias": "reg-bbq-sauce-cn--1634",
+    "canonical": "cond-bbq-sauce-cn--399",
+    "note": "auto: duplicate name「河北叉烧酱」→ cond-bbq-sauce-cn--399"
   },
   {
-    "alias": "reg-amaranth--44",
-    "canonical": "prod-amaranth--4",
-    "note": "auto: duplicate name「广东苋菜」→ prod-amaranth--4"
+    "alias": "reg-bbq-sauce-cn--1719",
+    "canonical": "cond-bbq-sauce-cn--419",
+    "note": "auto: duplicate name「山西叉烧酱」→ cond-bbq-sauce-cn--419"
   },
   {
-    "alias": "reg-amaranth--469",
-    "canonical": "prod-amaranth--104",
-    "note": "auto: duplicate name「海南苋菜」→ prod-amaranth--104"
+    "alias": "reg-bbq-sauce-cn--1804",
+    "canonical": "cond-bbq-sauce-cn--439",
+    "note": "auto: duplicate name「陕西叉烧酱」→ cond-bbq-sauce-cn--439"
   },
   {
-    "alias": "reg-bbq-sauce-cn--104",
-    "canonical": "cond-bbq-sauce-cn--39",
-    "note": "auto: duplicate name「香港叉烧酱」→ cond-bbq-sauce-cn--39"
+    "alias": "reg-bbq-sauce-cn--1889",
+    "canonical": "cond-bbq-sauce-cn--459",
+    "note": "auto: duplicate name「甘肃叉烧酱」→ cond-bbq-sauce-cn--459"
   },
   {
-    "alias": "reg-bbq-sauce-cn--189",
-    "canonical": "cond-bbq-sauce-cn--59",
-    "note": "auto: duplicate name「澳门叉烧酱」→ cond-bbq-sauce-cn--59"
+    "alias": "reg-bbq-sauce-cn--1974",
+    "canonical": "cond-bbq-sauce-cn--479",
+    "note": "auto: duplicate name「青海叉烧酱」→ cond-bbq-sauce-cn--479"
   },
   {
-    "alias": "reg-bbq-sauce-cn--19",
-    "canonical": "cond-bbq-sauce-cn--19",
-    "note": "auto: duplicate name「广东叉烧酱」→ cond-bbq-sauce-cn--19"
+    "alias": "reg-bbq-sauce-cn--2059",
+    "canonical": "cond-bbq-sauce-cn--499",
+    "note": "auto: duplicate name「宁夏叉烧酱」→ cond-bbq-sauce-cn--499"
   },
   {
-    "alias": "reg-bbq-sauce-cn--274",
-    "canonical": "cond-bbq-sauce-cn--79",
-    "note": "auto: duplicate name「广西叉烧酱」→ cond-bbq-sauce-cn--79"
+    "alias": "reg-bbq-sauce-cn--2144",
+    "canonical": "cond-bbq-sauce-cn--519",
+    "note": "auto: duplicate name「新疆叉烧酱」→ cond-bbq-sauce-cn--519"
   },
   {
-    "alias": "reg-bbq-sauce-cn--359",
-    "canonical": "cond-bbq-sauce-cn--99",
-    "note": "auto: duplicate name「福建叉烧酱」→ cond-bbq-sauce-cn--99"
+    "alias": "reg-bbq-sauce-cn--2229",
+    "canonical": "cond-bbq-sauce-cn--539",
+    "note": "auto: duplicate name「西藏叉烧酱」→ cond-bbq-sauce-cn--539"
   },
   {
-    "alias": "reg-bbq-sauce-cn--444",
-    "canonical": "cond-bbq-sauce-cn--119",
-    "note": "auto: duplicate name「海南叉烧酱」→ cond-bbq-sauce-cn--119"
+    "alias": "reg-bean-paste--1530",
+    "canonical": "cond-bean-paste--360",
+    "note": "auto: duplicate name「河南黄豆酱」→ cond-bean-paste--360"
   },
   {
-    "alias": "reg-bean-paste--0",
-    "canonical": "cond-bean-paste--0",
-    "note": "auto: duplicate name「广东黄豆酱」→ cond-bean-paste--0"
+    "alias": "reg-bean-paste--1615",
+    "canonical": "cond-bean-paste--380",
+    "note": "auto: duplicate name「河北黄豆酱」→ cond-bean-paste--380"
   },
   {
-    "alias": "reg-bean-paste--170",
-    "canonical": "cond-bean-paste--40",
-    "note": "auto: duplicate name「澳门黄豆酱」→ cond-bean-paste--40"
+    "alias": "reg-bean-paste--1700",
+    "canonical": "cond-bean-paste--400",
+    "note": "auto: duplicate name「山西黄豆酱」→ cond-bean-paste--400"
   },
   {
-    "alias": "reg-bean-paste--255",
-    "canonical": "cond-bean-paste--60",
-    "note": "auto: duplicate name「广西黄豆酱」→ cond-bean-paste--60"
+    "alias": "reg-bean-paste--1785",
+    "canonical": "cond-bean-paste--420",
+    "note": "auto: duplicate name「陕西黄豆酱」→ cond-bean-paste--420"
   },
   {
-    "alias": "reg-bean-paste--340",
-    "canonical": "cond-bean-paste--80",
-    "note": "auto: duplicate name「福建黄豆酱」→ cond-bean-paste--80"
+    "alias": "reg-bean-paste--1870",
+    "canonical": "cond-bean-paste--440",
+    "note": "auto: duplicate name「甘肃黄豆酱」→ cond-bean-paste--440"
   },
   {
-    "alias": "reg-bean-paste--425",
-    "canonical": "cond-bean-paste--100",
-    "note": "auto: duplicate name「海南黄豆酱」→ cond-bean-paste--100"
+    "alias": "reg-bean-paste--1955",
+    "canonical": "cond-bean-paste--460",
+    "note": "auto: duplicate name「青海黄豆酱」→ cond-bean-paste--460"
   },
   {
-    "alias": "reg-bean-paste--510",
-    "canonical": "cond-bean-paste--120",
-    "note": "auto: duplicate name「湖南黄豆酱」→ cond-bean-paste--120"
+    "alias": "reg-bean-paste--2040",
+    "canonical": "cond-bean-paste--480",
+    "note": "auto: duplicate name「宁夏黄豆酱」→ cond-bean-paste--480"
   },
   {
-    "alias": "reg-bean-paste--85",
-    "canonical": "cond-bean-paste--20",
-    "note": "auto: duplicate name「香港黄豆酱」→ cond-bean-paste--20"
+    "alias": "reg-bean-paste--2125",
+    "canonical": "cond-bean-paste--500",
+    "note": "auto: duplicate name「新疆黄豆酱」→ cond-bean-paste--500"
   },
   {
-    "alias": "reg-bitter-gourd--135",
-    "canonical": "prod-bitter-gourd--30",
-    "note": "auto: duplicate name「香港凉瓜」→ prod-bitter-gourd--30"
+    "alias": "reg-bean-paste--2210",
+    "canonical": "cond-bean-paste--520",
+    "note": "auto: duplicate name「西藏黄豆酱」→ cond-bean-paste--520"
   },
   {
-    "alias": "reg-bitter-gourd--220",
-    "canonical": "prod-bitter-gourd--50",
-    "note": "auto: duplicate name「澳门凉瓜」→ prod-bitter-gourd--50"
+    "alias": "reg-bitter-gourd--2090",
+    "canonical": "prod-bitter-gourd--490",
+    "note": "auto: duplicate name「宁夏凉瓜」→ prod-bitter-gourd--490"
   },
   {
-    "alias": "reg-bitter-gourd--305",
-    "canonical": "prod-bitter-gourd--70",
-    "note": "auto: duplicate name「广西凉瓜」→ prod-bitter-gourd--70"
+    "alias": "reg-bitter-gourd--2175",
+    "canonical": "prod-bitter-gourd--510",
+    "note": "auto: duplicate name「新疆凉瓜」→ prod-bitter-gourd--510"
   },
   {
-    "alias": "reg-bitter-gourd--390",
-    "canonical": "prod-bitter-gourd--90",
-    "note": "auto: duplicate name「福建凉瓜」→ prod-bitter-gourd--90"
+    "alias": "reg-bok-choy--2080",
+    "canonical": "prod-bok-choy--480",
+    "note": "auto: duplicate name「宁夏小白菜」→ prod-bok-choy--480"
   },
   {
-    "alias": "reg-bitter-gourd--475",
-    "canonical": "prod-bitter-gourd--110",
-    "note": "auto: duplicate name「海南凉瓜」→ prod-bitter-gourd--110"
+    "alias": "reg-bok-choy--2165",
+    "canonical": "prod-bok-choy--500",
+    "note": "auto: duplicate name「新疆小白菜」→ prod-bok-choy--500"
   },
   {
-    "alias": "reg-bitter-gourd--50",
-    "canonical": "prod-bitter-gourd--10",
-    "note": "auto: duplicate name「广东凉瓜」→ prod-bitter-gourd--10"
+    "alias": "reg-chayote--2093",
+    "canonical": "prod-chayote--493",
+    "note": "auto: duplicate name「宁夏佛手瓜」→ prod-chayote--493"
   },
   {
-    "alias": "reg-bok-choy--125",
-    "canonical": "prod-bok-choy--20",
-    "note": "auto: duplicate name「香港小白菜」→ prod-bok-choy--20"
+    "alias": "reg-chayote--2178",
+    "canonical": "prod-chayote--513",
+    "note": "auto: duplicate name「新疆佛手瓜」→ prod-chayote--513"
   },
   {
-    "alias": "reg-bok-choy--210",
-    "canonical": "prod-bok-choy--40",
-    "note": "auto: duplicate name「澳门小白菜」→ prod-bok-choy--40"
+    "alias": "reg-chili-bean-paste--1532",
+    "canonical": "cond-chili-bean-paste--362",
+    "note": "auto: duplicate name「河南辣豆瓣酱」→ cond-chili-bean-paste--362"
   },
   {
-    "alias": "reg-bok-choy--295",
-    "canonical": "prod-bok-choy--60",
-    "note": "auto: duplicate name「广西小白菜」→ prod-bok-choy--60"
+    "alias": "reg-chili-bean-paste--1617",
+    "canonical": "cond-chili-bean-paste--382",
+    "note": "auto: duplicate name「河北辣豆瓣酱」→ cond-chili-bean-paste--382"
   },
   {
-    "alias": "reg-bok-choy--380",
-    "canonical": "prod-bok-choy--80",
-    "note": "auto: duplicate name「福建小白菜」→ prod-bok-choy--80"
+    "alias": "reg-chili-bean-paste--1702",
+    "canonical": "cond-chili-bean-paste--402",
+    "note": "auto: duplicate name「山西辣豆瓣酱」→ cond-chili-bean-paste--402"
   },
   {
-    "alias": "reg-bok-choy--40",
-    "canonical": "prod-bok-choy--0",
-    "note": "auto: duplicate name「广东小白菜」→ prod-bok-choy--0"
+    "alias": "reg-chili-bean-paste--1787",
+    "canonical": "cond-chili-bean-paste--422",
+    "note": "auto: duplicate name「陕西辣豆瓣酱」→ cond-chili-bean-paste--422"
   },
   {
-    "alias": "reg-bok-choy--465",
-    "canonical": "prod-bok-choy--100",
-    "note": "auto: duplicate name「海南小白菜」→ prod-bok-choy--100"
+    "alias": "reg-chili-bean-paste--1872",
+    "canonical": "cond-chili-bean-paste--442",
+    "note": "auto: duplicate name「甘肃辣豆瓣酱」→ cond-chili-bean-paste--442"
   },
   {
-    "alias": "reg-chayote--138",
-    "canonical": "prod-chayote--33",
-    "note": "auto: duplicate name「香港佛手瓜」→ prod-chayote--33"
+    "alias": "reg-chili-bean-paste--1957",
+    "canonical": "cond-chili-bean-paste--462",
+    "note": "auto: duplicate name「青海辣豆瓣酱」→ cond-chili-bean-paste--462"
   },
   {
-    "alias": "reg-chayote--223",
-    "canonical": "prod-chayote--53",
-    "note": "auto: duplicate name「澳门佛手瓜」→ prod-chayote--53"
+    "alias": "reg-chili-bean-paste--2042",
+    "canonical": "cond-chili-bean-paste--482",
+    "note": "auto: duplicate name「宁夏辣豆瓣酱」→ cond-chili-bean-paste--482"
   },
   {
-    "alias": "reg-chayote--308",
-    "canonical": "prod-chayote--73",
-    "note": "auto: duplicate name「广西佛手瓜」→ prod-chayote--73"
+    "alias": "reg-chili-bean-paste--2127",
+    "canonical": "cond-chili-bean-paste--502",
+    "note": "auto: duplicate name「新疆辣豆瓣酱」→ cond-chili-bean-paste--502"
   },
   {
-    "alias": "reg-chayote--393",
-    "canonical": "prod-chayote--93",
-    "note": "auto: duplicate name「福建佛手瓜」→ prod-chayote--93"
+    "alias": "reg-chili-bean-paste--2212",
+    "canonical": "cond-chili-bean-paste--522",
+    "note": "auto: duplicate name「西藏辣豆瓣酱」→ cond-chili-bean-paste--522"
   },
   {
-    "alias": "reg-chayote--478",
-    "canonical": "prod-chayote--113",
-    "note": "auto: duplicate name「海南佛手瓜」→ prod-chayote--113"
+    "alias": "reg-chili-oil--1536",
+    "canonical": "cond-chili-oil--366",
+    "note": "auto: duplicate name「河南辣椒油」→ cond-chili-oil--366"
   },
   {
-    "alias": "reg-chayote--53",
-    "canonical": "prod-chayote--13",
-    "note": "auto: duplicate name「广东佛手瓜」→ prod-chayote--13"
+    "alias": "reg-chili-oil--1621",
+    "canonical": "cond-chili-oil--386",
+    "note": "auto: duplicate name「河北辣椒油」→ cond-chili-oil--386"
   },
   {
-    "alias": "reg-chili-bean-paste--172",
-    "canonical": "cond-chili-bean-paste--42",
-    "note": "auto: duplicate name「澳门辣豆瓣酱」→ cond-chili-bean-paste--42"
+    "alias": "reg-chili-oil--1706",
+    "canonical": "cond-chili-oil--406",
+    "note": "auto: duplicate name「山西辣椒油」→ cond-chili-oil--406"
   },
   {
-    "alias": "reg-chili-bean-paste--2",
-    "canonical": "cond-chili-bean-paste--2",
-    "note": "auto: duplicate name「广东辣豆瓣酱」→ cond-chili-bean-paste--2"
+    "alias": "reg-chili-oil--1791",
+    "canonical": "cond-chili-oil--426",
+    "note": "auto: duplicate name「陕西辣椒油」→ cond-chili-oil--426"
   },
   {
-    "alias": "reg-chili-bean-paste--257",
-    "canonical": "cond-chili-bean-paste--62",
-    "note": "auto: duplicate name「广西辣豆瓣酱」→ cond-chili-bean-paste--62"
+    "alias": "reg-chili-oil--1876",
+    "canonical": "cond-chili-oil--446",
+    "note": "auto: duplicate name「甘肃辣椒油」→ cond-chili-oil--446"
   },
   {
-    "alias": "reg-chili-bean-paste--342",
-    "canonical": "cond-chili-bean-paste--82",
-    "note": "auto: duplicate name「福建辣豆瓣酱」→ cond-chili-bean-paste--82"
+    "alias": "reg-chili-oil--1961",
+    "canonical": "cond-chili-oil--466",
+    "note": "auto: duplicate name「青海辣椒油」→ cond-chili-oil--466"
   },
   {
-    "alias": "reg-chili-bean-paste--427",
-    "canonical": "cond-chili-bean-paste--102",
-    "note": "auto: duplicate name「海南辣豆瓣酱」→ cond-chili-bean-paste--102"
+    "alias": "reg-chili-oil--2046",
+    "canonical": "cond-chili-oil--486",
+    "note": "auto: duplicate name「宁夏辣椒油」→ cond-chili-oil--486"
   },
   {
-    "alias": "reg-chili-bean-paste--512",
-    "canonical": "cond-chili-bean-paste--122",
-    "note": "auto: duplicate name「湖南辣豆瓣酱」→ cond-chili-bean-paste--122"
+    "alias": "reg-chili-oil--2131",
+    "canonical": "cond-chili-oil--506",
+    "note": "auto: duplicate name「新疆辣椒油」→ cond-chili-oil--506"
   },
   {
-    "alias": "reg-chili-bean-paste--87",
-    "canonical": "cond-chili-bean-paste--22",
-    "note": "auto: duplicate name「香港辣豆瓣酱」→ cond-chili-bean-paste--22"
+    "alias": "reg-chili-oil--2216",
+    "canonical": "cond-chili-oil--526",
+    "note": "auto: duplicate name「西藏辣椒油」→ cond-chili-oil--526"
   },
   {
-    "alias": "reg-chili-oil--176",
-    "canonical": "cond-chili-oil--46",
-    "note": "auto: duplicate name「澳门辣椒油」→ cond-chili-oil--46"
+    "alias": "reg-chinese-cabbage--2082",
+    "canonical": "prod-chinese-cabbage--482",
+    "note": "auto: duplicate name「宁夏大白菜」→ prod-chinese-cabbage--482"
   },
   {
-    "alias": "reg-chili-oil--261",
-    "canonical": "cond-chili-oil--66",
-    "note": "auto: duplicate name「广西辣椒油」→ cond-chili-oil--66"
+    "alias": "reg-chinese-cabbage--2167",
+    "canonical": "prod-chinese-cabbage--502",
+    "note": "auto: duplicate name「新疆大白菜」→ prod-chinese-cabbage--502"
   },
   {
-    "alias": "reg-chili-oil--346",
-    "canonical": "cond-chili-oil--86",
-    "note": "auto: duplicate name「福建辣椒油」→ cond-chili-oil--86"
+    "alias": "reg-chive-flower--2088",
+    "canonical": "prod-chive-flower--488",
+    "note": "auto: duplicate name「宁夏韭菜花」→ prod-chive-flower--488"
   },
   {
-    "alias": "reg-chili-oil--431",
-    "canonical": "cond-chili-oil--106",
-    "note": "auto: duplicate name「海南辣椒油」→ cond-chili-oil--106"
+    "alias": "reg-chive-flower--2173",
+    "canonical": "prod-chive-flower--508",
+    "note": "auto: duplicate name「新疆韭菜花」→ prod-chive-flower--508"
   },
   {
-    "alias": "reg-chili-oil--516",
-    "canonical": "cond-chili-oil--126",
-    "note": "auto: duplicate name「湖南辣椒油」→ cond-chili-oil--126"
+    "alias": "reg-curry-powder-cn--1547",
+    "canonical": "cond-curry-powder-cn--377",
+    "note": "auto: duplicate name「河南咖喱粉」→ cond-curry-powder-cn--377"
   },
   {
-    "alias": "reg-chili-oil--6",
-    "canonical": "cond-chili-oil--6",
-    "note": "auto: duplicate name「广东辣椒油」→ cond-chili-oil--6"
+    "alias": "reg-curry-powder-cn--1632",
+    "canonical": "cond-curry-powder-cn--397",
+    "note": "auto: duplicate name「河北咖喱粉」→ cond-curry-powder-cn--397"
   },
   {
-    "alias": "reg-chili-oil--91",
-    "canonical": "cond-chili-oil--26",
-    "note": "auto: duplicate name「香港辣椒油」→ cond-chili-oil--26"
+    "alias": "reg-curry-powder-cn--1717",
+    "canonical": "cond-curry-powder-cn--417",
+    "note": "auto: duplicate name「山西咖喱粉」→ cond-curry-powder-cn--417"
   },
   {
-    "alias": "reg-chinese-cabbage--127",
-    "canonical": "prod-chinese-cabbage--22",
-    "note": "auto: duplicate name「香港大白菜」→ prod-chinese-cabbage--22"
+    "alias": "reg-curry-powder-cn--1802",
+    "canonical": "cond-curry-powder-cn--437",
+    "note": "auto: duplicate name「陕西咖喱粉」→ cond-curry-powder-cn--437"
   },
   {
-    "alias": "reg-chinese-cabbage--212",
-    "canonical": "prod-chinese-cabbage--42",
-    "note": "auto: duplicate name「澳门大白菜」→ prod-chinese-cabbage--42"
+    "alias": "reg-curry-powder-cn--1887",
+    "canonical": "cond-curry-powder-cn--457",
+    "note": "auto: duplicate name「甘肃咖喱粉」→ cond-curry-powder-cn--457"
   },
   {
-    "alias": "reg-chinese-cabbage--297",
-    "canonical": "prod-chinese-cabbage--62",
-    "note": "auto: duplicate name「广西大白菜」→ prod-chinese-cabbage--62"
+    "alias": "reg-curry-powder-cn--1972",
+    "canonical": "cond-curry-powder-cn--477",
+    "note": "auto: duplicate name「青海咖喱粉」→ cond-curry-powder-cn--477"
   },
   {
-    "alias": "reg-chinese-cabbage--382",
-    "canonical": "prod-chinese-cabbage--82",
-    "note": "auto: duplicate name「福建大白菜」→ prod-chinese-cabbage--82"
+    "alias": "reg-curry-powder-cn--2057",
+    "canonical": "cond-curry-powder-cn--497",
+    "note": "auto: duplicate name「宁夏咖喱粉」→ cond-curry-powder-cn--497"
   },
   {
-    "alias": "reg-chinese-cabbage--42",
-    "canonical": "prod-chinese-cabbage--2",
-    "note": "auto: duplicate name「广东大白菜」→ prod-chinese-cabbage--2"
+    "alias": "reg-curry-powder-cn--2142",
+    "canonical": "cond-curry-powder-cn--517",
+    "note": "auto: duplicate name「新疆咖喱粉」→ cond-curry-powder-cn--517"
   },
   {
-    "alias": "reg-chinese-cabbage--467",
-    "canonical": "prod-chinese-cabbage--102",
-    "note": "auto: duplicate name「海南大白菜」→ prod-chinese-cabbage--102"
+    "alias": "reg-curry-powder-cn--2227",
+    "canonical": "cond-curry-powder-cn--537",
+    "note": "auto: duplicate name「西藏咖喱粉」→ cond-curry-powder-cn--537"
   },
   {
-    "alias": "reg-chive-flower--133",
-    "canonical": "prod-chive-flower--28",
-    "note": "auto: duplicate name「香港韭菜花」→ prod-chive-flower--28"
+    "alias": "reg-fermented-tofu-rose--1534",
+    "canonical": "cond-fermented-tofu-rose--364",
+    "note": "auto: duplicate name「河南玫瑰腐乳」→ cond-fermented-tofu-rose--364"
   },
   {
-    "alias": "reg-chive-flower--218",
-    "canonical": "prod-chive-flower--48",
-    "note": "auto: duplicate name「澳门韭菜花」→ prod-chive-flower--48"
+    "alias": "reg-fermented-tofu-rose--1619",
+    "canonical": "cond-fermented-tofu-rose--384",
+    "note": "auto: duplicate name「河北玫瑰腐乳」→ cond-fermented-tofu-rose--384"
   },
   {
-    "alias": "reg-chive-flower--303",
-    "canonical": "prod-chive-flower--68",
-    "note": "auto: duplicate name「广西韭菜花」→ prod-chive-flower--68"
+    "alias": "reg-fermented-tofu-rose--1704",
+    "canonical": "cond-fermented-tofu-rose--404",
+    "note": "auto: duplicate name「山西玫瑰腐乳」→ cond-fermented-tofu-rose--404"
   },
   {
-    "alias": "reg-chive-flower--388",
-    "canonical": "prod-chive-flower--88",
-    "note": "auto: duplicate name「福建韭菜花」→ prod-chive-flower--88"
+    "alias": "reg-fermented-tofu-rose--1789",
+    "canonical": "cond-fermented-tofu-rose--424",
+    "note": "auto: duplicate name「陕西玫瑰腐乳」→ cond-fermented-tofu-rose--424"
   },
   {
-    "alias": "reg-chive-flower--473",
-    "canonical": "prod-chive-flower--108",
-    "note": "auto: duplicate name「海南韭菜花」→ prod-chive-flower--108"
+    "alias": "reg-fermented-tofu-rose--1874",
+    "canonical": "cond-fermented-tofu-rose--444",
+    "note": "auto: duplicate name「甘肃玫瑰腐乳」→ cond-fermented-tofu-rose--444"
   },
   {
-    "alias": "reg-chive-flower--48",
-    "canonical": "prod-chive-flower--8",
-    "note": "auto: duplicate name「广东韭菜花」→ prod-chive-flower--8"
+    "alias": "reg-fermented-tofu-rose--1959",
+    "canonical": "cond-fermented-tofu-rose--464",
+    "note": "auto: duplicate name「青海玫瑰腐乳」→ cond-fermented-tofu-rose--464"
   },
   {
-    "alias": "reg-curry-powder-cn--102",
-    "canonical": "cond-curry-powder-cn--37",
-    "note": "auto: duplicate name「香港咖喱粉」→ cond-curry-powder-cn--37"
+    "alias": "reg-fermented-tofu-rose--2044",
+    "canonical": "cond-fermented-tofu-rose--484",
+    "note": "auto: duplicate name「宁夏玫瑰腐乳」→ cond-fermented-tofu-rose--484"
   },
   {
-    "alias": "reg-curry-powder-cn--17",
-    "canonical": "cond-curry-powder-cn--17",
-    "note": "auto: duplicate name「广东咖喱粉」→ cond-curry-powder-cn--17"
+    "alias": "reg-fermented-tofu-rose--2129",
+    "canonical": "cond-fermented-tofu-rose--504",
+    "note": "auto: duplicate name「新疆玫瑰腐乳」→ cond-fermented-tofu-rose--504"
   },
   {
-    "alias": "reg-curry-powder-cn--187",
-    "canonical": "cond-curry-powder-cn--57",
-    "note": "auto: duplicate name「澳门咖喱粉」→ cond-curry-powder-cn--57"
+    "alias": "reg-fermented-tofu-rose--2214",
+    "canonical": "cond-fermented-tofu-rose--524",
+    "note": "auto: duplicate name「西藏玫瑰腐乳」→ cond-fermented-tofu-rose--524"
   },
   {
-    "alias": "reg-curry-powder-cn--272",
-    "canonical": "cond-curry-powder-cn--77",
-    "note": "auto: duplicate name「广西咖喱粉」→ cond-curry-powder-cn--77"
+    "alias": "reg-fermented-tofu-white--1533",
+    "canonical": "cond-fermented-tofu-white--363",
+    "note": "auto: duplicate name「河南白腐乳」→ cond-fermented-tofu-white--363"
   },
   {
-    "alias": "reg-curry-powder-cn--357",
-    "canonical": "cond-curry-powder-cn--97",
-    "note": "auto: duplicate name「福建咖喱粉」→ cond-curry-powder-cn--97"
+    "alias": "reg-fermented-tofu-white--1618",
+    "canonical": "cond-fermented-tofu-white--383",
+    "note": "auto: duplicate name「河北白腐乳」→ cond-fermented-tofu-white--383"
   },
   {
-    "alias": "reg-curry-powder-cn--442",
-    "canonical": "cond-curry-powder-cn--117",
-    "note": "auto: duplicate name「海南咖喱粉」→ cond-curry-powder-cn--117"
+    "alias": "reg-fermented-tofu-white--1703",
+    "canonical": "cond-fermented-tofu-white--403",
+    "note": "auto: duplicate name「山西白腐乳」→ cond-fermented-tofu-white--403"
   },
   {
-    "alias": "reg-fermented-tofu-rose--174",
-    "canonical": "cond-fermented-tofu-rose--44",
-    "note": "auto: duplicate name「澳门玫瑰腐乳」→ cond-fermented-tofu-rose--44"
+    "alias": "reg-fermented-tofu-white--1788",
+    "canonical": "cond-fermented-tofu-white--423",
+    "note": "auto: duplicate name「陕西白腐乳」→ cond-fermented-tofu-white--423"
   },
   {
-    "alias": "reg-fermented-tofu-rose--259",
-    "canonical": "cond-fermented-tofu-rose--64",
-    "note": "auto: duplicate name「广西玫瑰腐乳」→ cond-fermented-tofu-rose--64"
+    "alias": "reg-fermented-tofu-white--1873",
+    "canonical": "cond-fermented-tofu-white--443",
+    "note": "auto: duplicate name「甘肃白腐乳」→ cond-fermented-tofu-white--443"
   },
   {
-    "alias": "reg-fermented-tofu-rose--344",
-    "canonical": "cond-fermented-tofu-rose--84",
-    "note": "auto: duplicate name「福建玫瑰腐乳」→ cond-fermented-tofu-rose--84"
+    "alias": "reg-fermented-tofu-white--1958",
+    "canonical": "cond-fermented-tofu-white--463",
+    "note": "auto: duplicate name「青海白腐乳」→ cond-fermented-tofu-white--463"
   },
   {
-    "alias": "reg-fermented-tofu-rose--4",
-    "canonical": "cond-fermented-tofu-rose--4",
-    "note": "auto: duplicate name「广东玫瑰腐乳」→ cond-fermented-tofu-rose--4"
+    "alias": "reg-fermented-tofu-white--2043",
+    "canonical": "cond-fermented-tofu-white--483",
+    "note": "auto: duplicate name「宁夏白腐乳」→ cond-fermented-tofu-white--483"
   },
   {
-    "alias": "reg-fermented-tofu-rose--429",
-    "canonical": "cond-fermented-tofu-rose--104",
-    "note": "auto: duplicate name「海南玫瑰腐乳」→ cond-fermented-tofu-rose--104"
+    "alias": "reg-fermented-tofu-white--2128",
+    "canonical": "cond-fermented-tofu-white--503",
+    "note": "auto: duplicate name「新疆白腐乳」→ cond-fermented-tofu-white--503"
   },
   {
-    "alias": "reg-fermented-tofu-rose--514",
-    "canonical": "cond-fermented-tofu-rose--124",
-    "note": "auto: duplicate name「湖南玫瑰腐乳」→ cond-fermented-tofu-rose--124"
+    "alias": "reg-fermented-tofu-white--2213",
+    "canonical": "cond-fermented-tofu-white--523",
+    "note": "auto: duplicate name「西藏白腐乳」→ cond-fermented-tofu-white--523"
   },
   {
-    "alias": "reg-fermented-tofu-rose--89",
-    "canonical": "cond-fermented-tofu-rose--24",
-    "note": "auto: duplicate name「香港玫瑰腐乳」→ cond-fermented-tofu-rose--24"
+    "alias": "reg-fish-sauce-gd--1540",
+    "canonical": "cond-fish-sauce-gd--370",
+    "note": "auto: duplicate name「河南鱼露」→ cond-fish-sauce-gd--370"
   },
   {
-    "alias": "reg-fermented-tofu-white--173",
-    "canonical": "cond-fermented-tofu-white--43",
-    "note": "auto: duplicate name「澳门白腐乳」→ cond-fermented-tofu-white--43"
+    "alias": "reg-fish-sauce-gd--1625",
+    "canonical": "cond-fish-sauce-gd--390",
+    "note": "auto: duplicate name「河北鱼露」→ cond-fish-sauce-gd--390"
   },
   {
-    "alias": "reg-fermented-tofu-white--258",
-    "canonical": "cond-fermented-tofu-white--63",
-    "note": "auto: duplicate name「广西白腐乳」→ cond-fermented-tofu-white--63"
+    "alias": "reg-fish-sauce-gd--1710",
+    "canonical": "cond-fish-sauce-gd--410",
+    "note": "auto: duplicate name「山西鱼露」→ cond-fish-sauce-gd--410"
   },
   {
-    "alias": "reg-fermented-tofu-white--3",
-    "canonical": "cond-fermented-tofu-white--3",
-    "note": "auto: duplicate name「广东白腐乳」→ cond-fermented-tofu-white--3"
+    "alias": "reg-fish-sauce-gd--1795",
+    "canonical": "cond-fish-sauce-gd--430",
+    "note": "auto: duplicate name「陕西鱼露」→ cond-fish-sauce-gd--430"
   },
   {
-    "alias": "reg-fermented-tofu-white--343",
-    "canonical": "cond-fermented-tofu-white--83",
-    "note": "auto: duplicate name「福建白腐乳」→ cond-fermented-tofu-white--83"
+    "alias": "reg-fish-sauce-gd--1880",
+    "canonical": "cond-fish-sauce-gd--450",
+    "note": "auto: duplicate name「甘肃鱼露」→ cond-fish-sauce-gd--450"
   },
   {
-    "alias": "reg-fermented-tofu-white--428",
-    "canonical": "cond-fermented-tofu-white--103",
-    "note": "auto: duplicate name「海南白腐乳」→ cond-fermented-tofu-white--103"
+    "alias": "reg-fish-sauce-gd--1965",
+    "canonical": "cond-fish-sauce-gd--470",
+    "note": "auto: duplicate name「青海鱼露」→ cond-fish-sauce-gd--470"
   },
   {
-    "alias": "reg-fermented-tofu-white--513",
-    "canonical": "cond-fermented-tofu-white--123",
-    "note": "auto: duplicate name「湖南白腐乳」→ cond-fermented-tofu-white--123"
+    "alias": "reg-fish-sauce-gd--2050",
+    "canonical": "cond-fish-sauce-gd--490",
+    "note": "auto: duplicate name「宁夏鱼露」→ cond-fish-sauce-gd--490"
   },
   {
-    "alias": "reg-fermented-tofu-white--88",
-    "canonical": "cond-fermented-tofu-white--23",
-    "note": "auto: duplicate name「香港白腐乳」→ cond-fermented-tofu-white--23"
+    "alias": "reg-fish-sauce-gd--2135",
+    "canonical": "cond-fish-sauce-gd--510",
+    "note": "auto: duplicate name「新疆鱼露」→ cond-fish-sauce-gd--510"
   },
   {
-    "alias": "reg-fish-sauce-gd--10",
-    "canonical": "cond-fish-sauce-gd--10",
-    "note": "auto: duplicate name「广东鱼露」→ cond-fish-sauce-gd--10"
+    "alias": "reg-fish-sauce-gd--2220",
+    "canonical": "cond-fish-sauce-gd--530",
+    "note": "auto: duplicate name「西藏鱼露」→ cond-fish-sauce-gd--530"
   },
   {
-    "alias": "reg-fish-sauce-gd--180",
-    "canonical": "cond-fish-sauce-gd--50",
-    "note": "auto: duplicate name「澳门鱼露」→ cond-fish-sauce-gd--50"
+    "alias": "reg-five-spice-powder--1546",
+    "canonical": "cond-five-spice-powder--376",
+    "note": "auto: duplicate name「河南五香粉」→ cond-five-spice-powder--376"
   },
   {
-    "alias": "reg-fish-sauce-gd--265",
-    "canonical": "cond-fish-sauce-gd--70",
-    "note": "auto: duplicate name「广西鱼露」→ cond-fish-sauce-gd--70"
+    "alias": "reg-five-spice-powder--1631",
+    "canonical": "cond-five-spice-powder--396",
+    "note": "auto: duplicate name「河北五香粉」→ cond-five-spice-powder--396"
   },
   {
-    "alias": "reg-fish-sauce-gd--350",
-    "canonical": "cond-fish-sauce-gd--90",
-    "note": "auto: duplicate name「福建鱼露」→ cond-fish-sauce-gd--90"
+    "alias": "reg-five-spice-powder--1716",
+    "canonical": "cond-five-spice-powder--416",
+    "note": "auto: duplicate name「山西五香粉」→ cond-five-spice-powder--416"
   },
   {
-    "alias": "reg-fish-sauce-gd--435",
-    "canonical": "cond-fish-sauce-gd--110",
-    "note": "auto: duplicate name「海南鱼露」→ cond-fish-sauce-gd--110"
+    "alias": "reg-five-spice-powder--1801",
+    "canonical": "cond-five-spice-powder--436",
+    "note": "auto: duplicate name「陕西五香粉」→ cond-five-spice-powder--436"
   },
   {
-    "alias": "reg-fish-sauce-gd--95",
-    "canonical": "cond-fish-sauce-gd--30",
-    "note": "auto: duplicate name「香港鱼露」→ cond-fish-sauce-gd--30"
+    "alias": "reg-five-spice-powder--1886",
+    "canonical": "cond-five-spice-powder--456",
+    "note": "auto: duplicate name「甘肃五香粉」→ cond-five-spice-powder--456"
   },
   {
-    "alias": "reg-five-spice-powder--101",
-    "canonical": "cond-five-spice-powder--36",
-    "note": "auto: duplicate name「香港五香粉」→ cond-five-spice-powder--36"
+    "alias": "reg-five-spice-powder--1971",
+    "canonical": "cond-five-spice-powder--476",
+    "note": "auto: duplicate name「青海五香粉」→ cond-five-spice-powder--476"
   },
   {
-    "alias": "reg-five-spice-powder--16",
-    "canonical": "cond-five-spice-powder--16",
-    "note": "auto: duplicate name「广东五香粉」→ cond-five-spice-powder--16"
+    "alias": "reg-five-spice-powder--2056",
+    "canonical": "cond-five-spice-powder--496",
+    "note": "auto: duplicate name「宁夏五香粉」→ cond-five-spice-powder--496"
   },
   {
-    "alias": "reg-five-spice-powder--186",
-    "canonical": "cond-five-spice-powder--56",
-    "note": "auto: duplicate name「澳门五香粉」→ cond-five-spice-powder--56"
+    "alias": "reg-five-spice-powder--2141",
+    "canonical": "cond-five-spice-powder--516",
+    "note": "auto: duplicate name「新疆五香粉」→ cond-five-spice-powder--516"
   },
   {
-    "alias": "reg-five-spice-powder--271",
-    "canonical": "cond-five-spice-powder--76",
-    "note": "auto: duplicate name「广西五香粉」→ cond-five-spice-powder--76"
+    "alias": "reg-five-spice-powder--2226",
+    "canonical": "cond-five-spice-powder--536",
+    "note": "auto: duplicate name「西藏五香粉」→ cond-five-spice-powder--536"
   },
   {
-    "alias": "reg-five-spice-powder--356",
-    "canonical": "cond-five-spice-powder--96",
-    "note": "auto: duplicate name「福建五香粉」→ cond-five-spice-powder--96"
+    "alias": "reg-garlic-chive--2087",
+    "canonical": "prod-garlic-chive--487",
+    "note": "auto: duplicate name「宁夏韭菜」→ prod-garlic-chive--487"
   },
   {
-    "alias": "reg-five-spice-powder--441",
-    "canonical": "cond-five-spice-powder--116",
-    "note": "auto: duplicate name「海南五香粉」→ cond-five-spice-powder--116"
+    "alias": "reg-garlic-chive--2172",
+    "canonical": "prod-garlic-chive--507",
+    "note": "auto: duplicate name「新疆韭菜」→ prod-garlic-chive--507"
   },
   {
-    "alias": "reg-garlic-chive--132",
-    "canonical": "prod-garlic-chive--27",
-    "note": "auto: duplicate name「香港韭菜」→ prod-garlic-chive--27"
+    "alias": "reg-lotus-seedpod--2098",
+    "canonical": "prod-lotus-seedpod--498",
+    "note": "auto: duplicate name「宁夏莲蓬」→ prod-lotus-seedpod--498"
   },
   {
-    "alias": "reg-garlic-chive--217",
-    "canonical": "prod-garlic-chive--47",
-    "note": "auto: duplicate name「澳门韭菜」→ prod-garlic-chive--47"
+    "alias": "reg-lotus-seedpod--2183",
+    "canonical": "prod-lotus-seedpod--518",
+    "note": "auto: duplicate name「新疆莲蓬」→ prod-lotus-seedpod--518"
   },
   {
-    "alias": "reg-garlic-chive--302",
-    "canonical": "prod-garlic-chive--67",
-    "note": "auto: duplicate name「广西韭菜」→ prod-garlic-chive--67"
+    "alias": "reg-luffa--2091",
+    "canonical": "prod-luffa--491",
+    "note": "auto: duplicate name「宁夏丝瓜」→ prod-luffa--491"
   },
   {
-    "alias": "reg-garlic-chive--387",
-    "canonical": "prod-garlic-chive--87",
-    "note": "auto: duplicate name「福建韭菜」→ prod-garlic-chive--87"
+    "alias": "reg-luffa--2176",
+    "canonical": "prod-luffa--511",
+    "note": "auto: duplicate name「新疆丝瓜」→ prod-luffa--511"
   },
   {
-    "alias": "reg-garlic-chive--47",
-    "canonical": "prod-garlic-chive--7",
-    "note": "auto: duplicate name「广东韭菜」→ prod-garlic-chive--7"
+    "alias": "reg-malabar-spinach--2085",
+    "canonical": "prod-malabar-spinach--485",
+    "note": "auto: duplicate name「宁夏木耳菜」→ prod-malabar-spinach--485"
   },
   {
-    "alias": "reg-garlic-chive--472",
-    "canonical": "prod-garlic-chive--107",
-    "note": "auto: duplicate name「海南韭菜」→ prod-garlic-chive--107"
+    "alias": "reg-malabar-spinach--2170",
+    "canonical": "prod-malabar-spinach--505",
+    "note": "auto: duplicate name「新疆木耳菜」→ prod-malabar-spinach--505"
   },
   {
-    "alias": "reg-lotus-seedpod--143",
-    "canonical": "prod-lotus-seedpod--38",
-    "note": "auto: duplicate name「香港莲蓬」→ prod-lotus-seedpod--38"
+    "alias": "reg-master-stock--1545",
+    "canonical": "cond-master-stock--375",
+    "note": "auto: duplicate name「河南卤水汁」→ cond-master-stock--375"
   },
   {
-    "alias": "reg-lotus-seedpod--228",
-    "canonical": "prod-lotus-seedpod--58",
-    "note": "auto: duplicate name「澳门莲蓬」→ prod-lotus-seedpod--58"
+    "alias": "reg-master-stock--1630",
+    "canonical": "cond-master-stock--395",
+    "note": "auto: duplicate name「河北卤水汁」→ cond-master-stock--395"
   },
   {
-    "alias": "reg-lotus-seedpod--313",
-    "canonical": "prod-lotus-seedpod--78",
-    "note": "auto: duplicate name「广西莲蓬」→ prod-lotus-seedpod--78"
+    "alias": "reg-master-stock--1715",
+    "canonical": "cond-master-stock--415",
+    "note": "auto: duplicate name「山西卤水汁」→ cond-master-stock--415"
   },
   {
-    "alias": "reg-lotus-seedpod--398",
-    "canonical": "prod-lotus-seedpod--98",
-    "note": "auto: duplicate name「福建莲蓬」→ prod-lotus-seedpod--98"
+    "alias": "reg-master-stock--1800",
+    "canonical": "cond-master-stock--435",
+    "note": "auto: duplicate name「陕西卤水汁」→ cond-master-stock--435"
   },
   {
-    "alias": "reg-lotus-seedpod--483",
-    "canonical": "prod-lotus-seedpod--118",
-    "note": "auto: duplicate name「海南莲蓬」→ prod-lotus-seedpod--118"
+    "alias": "reg-master-stock--1885",
+    "canonical": "cond-master-stock--455",
+    "note": "auto: duplicate name「甘肃卤水汁」→ cond-master-stock--455"
   },
   {
-    "alias": "reg-lotus-seedpod--58",
-    "canonical": "prod-lotus-seedpod--18",
-    "note": "auto: duplicate name「广东莲蓬」→ prod-lotus-seedpod--18"
+    "alias": "reg-master-stock--1970",
+    "canonical": "cond-master-stock--475",
+    "note": "auto: duplicate name「青海卤水汁」→ cond-master-stock--475"
   },
   {
-    "alias": "reg-luffa--136",
-    "canonical": "prod-luffa--31",
-    "note": "auto: duplicate name「香港丝瓜」→ prod-luffa--31"
+    "alias": "reg-master-stock--2055",
+    "canonical": "cond-master-stock--495",
+    "note": "auto: duplicate name「宁夏卤水汁」→ cond-master-stock--495"
   },
   {
-    "alias": "reg-luffa--221",
-    "canonical": "prod-luffa--51",
-    "note": "auto: duplicate name「澳门丝瓜」→ prod-luffa--51"
+    "alias": "reg-master-stock--2140",
+    "canonical": "cond-master-stock--515",
+    "note": "auto: duplicate name「新疆卤水汁」→ cond-master-stock--515"
   },
   {
-    "alias": "reg-luffa--306",
-    "canonical": "prod-luffa--71",
-    "note": "auto: duplicate name「广西丝瓜」→ prod-luffa--71"
+    "alias": "reg-master-stock--2225",
+    "canonical": "cond-master-stock--535",
+    "note": "auto: duplicate name「西藏卤水汁」→ cond-master-stock--535"
   },
   {
-    "alias": "reg-luffa--391",
-    "canonical": "prod-luffa--91",
-    "note": "auto: duplicate name「福建丝瓜」→ prod-luffa--91"
+    "alias": "reg-mustard-greens--2083",
+    "canonical": "prod-mustard-greens--483",
+    "note": "auto: duplicate name「宁夏芥菜」→ prod-mustard-greens--483"
   },
   {
-    "alias": "reg-luffa--476",
-    "canonical": "prod-luffa--111",
-    "note": "auto: duplicate name「海南丝瓜」→ prod-luffa--111"
+    "alias": "reg-mustard-greens--2168",
+    "canonical": "prod-mustard-greens--503",
+    "note": "auto: duplicate name「新疆芥菜」→ prod-mustard-greens--503"
   },
   {
-    "alias": "reg-luffa--51",
-    "canonical": "prod-luffa--11",
-    "note": "auto: duplicate name「广东丝瓜」→ prod-luffa--11"
+    "alias": "reg-okra--2094",
+    "canonical": "prod-okra--494",
+    "note": "auto: duplicate name「宁夏秋葵」→ prod-okra--494"
   },
   {
-    "alias": "reg-malabar-spinach--130",
-    "canonical": "prod-malabar-spinach--25",
-    "note": "auto: duplicate name「香港木耳菜」→ prod-malabar-spinach--25"
+    "alias": "reg-okra--2179",
+    "canonical": "prod-okra--514",
+    "note": "auto: duplicate name「新疆秋葵」→ prod-okra--514"
   },
   {
-    "alias": "reg-malabar-spinach--215",
-    "canonical": "prod-malabar-spinach--45",
-    "note": "auto: duplicate name「澳门木耳菜」→ prod-malabar-spinach--45"
+    "alias": "reg-oyster-sauce--1538",
+    "canonical": "cond-oyster-sauce--368",
+    "note": "auto: duplicate name「河南蚝油」→ cond-oyster-sauce--368"
   },
   {
-    "alias": "reg-malabar-spinach--300",
-    "canonical": "prod-malabar-spinach--65",
-    "note": "auto: duplicate name「广西木耳菜」→ prod-malabar-spinach--65"
+    "alias": "reg-oyster-sauce--1623",
+    "canonical": "cond-oyster-sauce--388",
+    "note": "auto: duplicate name「河北蚝油」→ cond-oyster-sauce--388"
   },
   {
-    "alias": "reg-malabar-spinach--385",
-    "canonical": "prod-malabar-spinach--85",
-    "note": "auto: duplicate name「福建木耳菜」→ prod-malabar-spinach--85"
+    "alias": "reg-oyster-sauce--1708",
+    "canonical": "cond-oyster-sauce--408",
+    "note": "auto: duplicate name「山西蚝油」→ cond-oyster-sauce--408"
   },
   {
-    "alias": "reg-malabar-spinach--45",
-    "canonical": "prod-malabar-spinach--5",
-    "note": "auto: duplicate name「广东木耳菜」→ prod-malabar-spinach--5"
+    "alias": "reg-oyster-sauce--1793",
+    "canonical": "cond-oyster-sauce--428",
+    "note": "auto: duplicate name「陕西蚝油」→ cond-oyster-sauce--428"
   },
   {
-    "alias": "reg-malabar-spinach--470",
-    "canonical": "prod-malabar-spinach--105",
-    "note": "auto: duplicate name「海南木耳菜」→ prod-malabar-spinach--105"
+    "alias": "reg-oyster-sauce--1878",
+    "canonical": "cond-oyster-sauce--448",
+    "note": "auto: duplicate name「甘肃蚝油」→ cond-oyster-sauce--448"
   },
   {
-    "alias": "reg-master-stock--100",
-    "canonical": "cond-master-stock--35",
-    "note": "auto: duplicate name「香港卤水汁」→ cond-master-stock--35"
+    "alias": "reg-oyster-sauce--1963",
+    "canonical": "cond-oyster-sauce--468",
+    "note": "auto: duplicate name「青海蚝油」→ cond-oyster-sauce--468"
   },
   {
-    "alias": "reg-master-stock--15",
-    "canonical": "cond-master-stock--15",
-    "note": "auto: duplicate name「广东卤水汁」→ cond-master-stock--15"
+    "alias": "reg-oyster-sauce--2048",
+    "canonical": "cond-oyster-sauce--488",
+    "note": "auto: duplicate name「宁夏蚝油」→ cond-oyster-sauce--488"
   },
   {
-    "alias": "reg-master-stock--185",
-    "canonical": "cond-master-stock--55",
-    "note": "auto: duplicate name「澳门卤水汁」→ cond-master-stock--55"
+    "alias": "reg-oyster-sauce--2133",
+    "canonical": "cond-oyster-sauce--508",
+    "note": "auto: duplicate name「新疆蚝油」→ cond-oyster-sauce--508"
   },
   {
-    "alias": "reg-master-stock--270",
-    "canonical": "cond-master-stock--75",
-    "note": "auto: duplicate name「广西卤水汁」→ cond-master-stock--75"
+    "alias": "reg-oyster-sauce--2218",
+    "canonical": "cond-oyster-sauce--528",
+    "note": "auto: duplicate name「西藏蚝油」→ cond-oyster-sauce--528"
   },
   {
-    "alias": "reg-master-stock--355",
-    "canonical": "cond-master-stock--95",
-    "note": "auto: duplicate name「福建卤水汁」→ cond-master-stock--95"
+    "alias": "reg-pomelo--2099",
+    "canonical": "prod-pomelo--499",
+    "note": "auto: duplicate name「宁夏柚子」→ prod-pomelo--499"
   },
   {
-    "alias": "reg-master-stock--440",
-    "canonical": "cond-master-stock--115",
-    "note": "auto: duplicate name「海南卤水汁」→ cond-master-stock--115"
+    "alias": "reg-pomelo--2184",
+    "canonical": "prod-pomelo--519",
+    "note": "auto: duplicate name「新疆柚子」→ prod-pomelo--519"
   },
   {
-    "alias": "reg-mustard-greens--128",
-    "canonical": "prod-mustard-greens--23",
-    "note": "auto: duplicate name「香港芥菜」→ prod-mustard-greens--23"
+    "alias": "reg-preserved-plum--1544",
+    "canonical": "cond-preserved-plum--374",
+    "note": "auto: duplicate name「河南咸酸梅」→ cond-preserved-plum--374"
   },
   {
-    "alias": "reg-mustard-greens--213",
-    "canonical": "prod-mustard-greens--43",
-    "note": "auto: duplicate name「澳门芥菜」→ prod-mustard-greens--43"
+    "alias": "reg-preserved-plum--1629",
+    "canonical": "cond-preserved-plum--394",
+    "note": "auto: duplicate name「河北咸酸梅」→ cond-preserved-plum--394"
   },
   {
-    "alias": "reg-mustard-greens--298",
-    "canonical": "prod-mustard-greens--63",
-    "note": "auto: duplicate name「广西芥菜」→ prod-mustard-greens--63"
+    "alias": "reg-preserved-plum--1714",
+    "canonical": "cond-preserved-plum--414",
+    "note": "auto: duplicate name「山西咸酸梅」→ cond-preserved-plum--414"
   },
   {
-    "alias": "reg-mustard-greens--383",
-    "canonical": "prod-mustard-greens--83",
-    "note": "auto: duplicate name「福建芥菜」→ prod-mustard-greens--83"
+    "alias": "reg-preserved-plum--1799",
+    "canonical": "cond-preserved-plum--434",
+    "note": "auto: duplicate name「陕西咸酸梅」→ cond-preserved-plum--434"
   },
   {
-    "alias": "reg-mustard-greens--43",
-    "canonical": "prod-mustard-greens--3",
-    "note": "auto: duplicate name「广东芥菜」→ prod-mustard-greens--3"
+    "alias": "reg-preserved-plum--1884",
+    "canonical": "cond-preserved-plum--454",
+    "note": "auto: duplicate name「甘肃咸酸梅」→ cond-preserved-plum--454"
   },
   {
-    "alias": "reg-mustard-greens--468",
-    "canonical": "prod-mustard-greens--103",
-    "note": "auto: duplicate name「海南芥菜」→ prod-mustard-greens--103"
+    "alias": "reg-preserved-plum--1969",
+    "canonical": "cond-preserved-plum--474",
+    "note": "auto: duplicate name「青海咸酸梅」→ cond-preserved-plum--474"
   },
   {
-    "alias": "reg-okra--139",
-    "canonical": "prod-okra--34",
-    "note": "auto: duplicate name「香港秋葵」→ prod-okra--34"
+    "alias": "reg-preserved-plum--2054",
+    "canonical": "cond-preserved-plum--494",
+    "note": "auto: duplicate name「宁夏咸酸梅」→ cond-preserved-plum--494"
   },
   {
-    "alias": "reg-okra--224",
-    "canonical": "prod-okra--54",
-    "note": "auto: duplicate name「澳门秋葵」→ prod-okra--54"
+    "alias": "reg-preserved-plum--2139",
+    "canonical": "cond-preserved-plum--514",
+    "note": "auto: duplicate name「新疆咸酸梅」→ cond-preserved-plum--514"
   },
   {
-    "alias": "reg-okra--309",
-    "canonical": "prod-okra--74",
-    "note": "auto: duplicate name「广西秋葵」→ prod-okra--74"
+    "alias": "reg-preserved-plum--2224",
+    "canonical": "cond-preserved-plum--534",
+    "note": "auto: duplicate name「西藏咸酸梅」→ cond-preserved-plum--534"
   },
   {
-    "alias": "reg-okra--394",
-    "canonical": "prod-okra--94",
-    "note": "auto: duplicate name「福建秋葵」→ prod-okra--94"
+    "alias": "reg-rice-wine-cooking--1541",
+    "canonical": "cond-rice-wine-cooking--371",
+    "note": "auto: duplicate name「河南料酒」→ cond-rice-wine-cooking--371"
   },
   {
-    "alias": "reg-okra--479",
-    "canonical": "prod-okra--114",
-    "note": "auto: duplicate name「海南秋葵」→ prod-okra--114"
+    "alias": "reg-rice-wine-cooking--1626",
+    "canonical": "cond-rice-wine-cooking--391",
+    "note": "auto: duplicate name「河北料酒」→ cond-rice-wine-cooking--391"
   },
   {
-    "alias": "reg-okra--54",
-    "canonical": "prod-okra--14",
-    "note": "auto: duplicate name「广东秋葵」→ prod-okra--14"
+    "alias": "reg-rice-wine-cooking--1711",
+    "canonical": "cond-rice-wine-cooking--411",
+    "note": "auto: duplicate name「山西料酒」→ cond-rice-wine-cooking--411"
   },
   {
-    "alias": "reg-oyster-sauce--178",
-    "canonical": "cond-oyster-sauce--48",
-    "note": "auto: duplicate name「澳门蚝油」→ cond-oyster-sauce--48"
+    "alias": "reg-rice-wine-cooking--1796",
+    "canonical": "cond-rice-wine-cooking--431",
+    "note": "auto: duplicate name「陕西料酒」→ cond-rice-wine-cooking--431"
   },
   {
-    "alias": "reg-oyster-sauce--263",
-    "canonical": "cond-oyster-sauce--68",
-    "note": "auto: duplicate name「广西蚝油」→ cond-oyster-sauce--68"
+    "alias": "reg-rice-wine-cooking--1881",
+    "canonical": "cond-rice-wine-cooking--451",
+    "note": "auto: duplicate name「甘肃料酒」→ cond-rice-wine-cooking--451"
   },
   {
-    "alias": "reg-oyster-sauce--348",
-    "canonical": "cond-oyster-sauce--88",
-    "note": "auto: duplicate name「福建蚝油」→ cond-oyster-sauce--88"
+    "alias": "reg-rice-wine-cooking--1966",
+    "canonical": "cond-rice-wine-cooking--471",
+    "note": "auto: duplicate name「青海料酒」→ cond-rice-wine-cooking--471"
   },
   {
-    "alias": "reg-oyster-sauce--433",
-    "canonical": "cond-oyster-sauce--108",
-    "note": "auto: duplicate name「海南蚝油」→ cond-oyster-sauce--108"
+    "alias": "reg-rice-wine-cooking--2051",
+    "canonical": "cond-rice-wine-cooking--491",
+    "note": "auto: duplicate name「宁夏料酒」→ cond-rice-wine-cooking--491"
   },
   {
-    "alias": "reg-oyster-sauce--518",
-    "canonical": "cond-oyster-sauce--128",
-    "note": "auto: duplicate name「湖南蚝油」→ cond-oyster-sauce--128"
+    "alias": "reg-rice-wine-cooking--2136",
+    "canonical": "cond-rice-wine-cooking--511",
+    "note": "auto: duplicate name「新疆料酒」→ cond-rice-wine-cooking--511"
   },
   {
-    "alias": "reg-oyster-sauce--8",
-    "canonical": "cond-oyster-sauce--8",
-    "note": "auto: duplicate name「广东蚝油」→ cond-oyster-sauce--8"
+    "alias": "reg-rice-wine-cooking--2221",
+    "canonical": "cond-rice-wine-cooking--531",
+    "note": "auto: duplicate name「西藏料酒」→ cond-rice-wine-cooking--531"
   },
   {
-    "alias": "reg-oyster-sauce--93",
-    "canonical": "cond-oyster-sauce--28",
-    "note": "auto: duplicate name「香港蚝油」→ cond-oyster-sauce--28"
+    "alias": "reg-rose-fermented-wine--1543",
+    "canonical": "cond-rose-fermented-wine--373",
+    "note": "auto: duplicate name「河南玫瑰露酒」→ cond-rose-fermented-wine--373"
   },
   {
-    "alias": "reg-pomelo--144",
-    "canonical": "prod-pomelo--39",
-    "note": "auto: duplicate name「香港柚子」→ prod-pomelo--39"
+    "alias": "reg-rose-fermented-wine--1628",
+    "canonical": "cond-rose-fermented-wine--393",
+    "note": "auto: duplicate name「河北玫瑰露酒」→ cond-rose-fermented-wine--393"
   },
   {
-    "alias": "reg-pomelo--229",
-    "canonical": "prod-pomelo--59",
-    "note": "auto: duplicate name「澳门柚子」→ prod-pomelo--59"
+    "alias": "reg-rose-fermented-wine--1713",
+    "canonical": "cond-rose-fermented-wine--413",
+    "note": "auto: duplicate name「山西玫瑰露酒」→ cond-rose-fermented-wine--413"
   },
   {
-    "alias": "reg-pomelo--314",
-    "canonical": "prod-pomelo--79",
-    "note": "auto: duplicate name「广西柚子」→ prod-pomelo--79"
+    "alias": "reg-rose-fermented-wine--1798",
+    "canonical": "cond-rose-fermented-wine--433",
+    "note": "auto: duplicate name「陕西玫瑰露酒」→ cond-rose-fermented-wine--433"
   },
   {
-    "alias": "reg-pomelo--399",
-    "canonical": "prod-pomelo--99",
-    "note": "auto: duplicate name「福建柚子」→ prod-pomelo--99"
+    "alias": "reg-rose-fermented-wine--1883",
+    "canonical": "cond-rose-fermented-wine--453",
+    "note": "auto: duplicate name「甘肃玫瑰露酒」→ cond-rose-fermented-wine--453"
   },
   {
-    "alias": "reg-pomelo--484",
-    "canonical": "prod-pomelo--119",
-    "note": "auto: duplicate name「海南柚子」→ prod-pomelo--119"
+    "alias": "reg-rose-fermented-wine--1968",
+    "canonical": "cond-rose-fermented-wine--473",
+    "note": "auto: duplicate name「青海玫瑰露酒」→ cond-rose-fermented-wine--473"
   },
   {
-    "alias": "reg-pomelo--59",
-    "canonical": "prod-pomelo--19",
-    "note": "auto: duplicate name「广东柚子」→ prod-pomelo--19"
+    "alias": "reg-rose-fermented-wine--2053",
+    "canonical": "cond-rose-fermented-wine--493",
+    "note": "auto: duplicate name「宁夏玫瑰露酒」→ cond-rose-fermented-wine--493"
   },
   {
-    "alias": "reg-preserved-plum--14",
-    "canonical": "cond-preserved-plum--14",
-    "note": "auto: duplicate name「广东咸酸梅」→ cond-preserved-plum--14"
+    "alias": "reg-rose-fermented-wine--2138",
+    "canonical": "cond-rose-fermented-wine--513",
+    "note": "auto: duplicate name「新疆玫瑰露酒」→ cond-rose-fermented-wine--513"
   },
   {
-    "alias": "reg-preserved-plum--184",
-    "canonical": "cond-preserved-plum--54",
-    "note": "auto: duplicate name「澳门咸酸梅」→ cond-preserved-plum--54"
+    "alias": "reg-rose-fermented-wine--2223",
+    "canonical": "cond-rose-fermented-wine--533",
+    "note": "auto: duplicate name「西藏玫瑰露酒」→ cond-rose-fermented-wine--533"
   },
   {
-    "alias": "reg-preserved-plum--269",
-    "canonical": "cond-preserved-plum--74",
-    "note": "auto: duplicate name「广西咸酸梅」→ cond-preserved-plum--74"
+    "alias": "reg-satay-sauce--1548",
+    "canonical": "cond-satay-sauce--378",
+    "note": "auto: duplicate name「河南沙茶酱」→ cond-satay-sauce--378"
   },
   {
-    "alias": "reg-preserved-plum--354",
-    "canonical": "cond-preserved-plum--94",
-    "note": "auto: duplicate name「福建咸酸梅」→ cond-preserved-plum--94"
+    "alias": "reg-satay-sauce--1633",
+    "canonical": "cond-satay-sauce--398",
+    "note": "auto: duplicate name「河北沙茶酱」→ cond-satay-sauce--398"
   },
   {
-    "alias": "reg-preserved-plum--439",
-    "canonical": "cond-preserved-plum--114",
-    "note": "auto: duplicate name「海南咸酸梅」→ cond-preserved-plum--114"
+    "alias": "reg-satay-sauce--1718",
+    "canonical": "cond-satay-sauce--418",
+    "note": "auto: duplicate name「山西沙茶酱」→ cond-satay-sauce--418"
   },
   {
-    "alias": "reg-preserved-plum--99",
-    "canonical": "cond-preserved-plum--34",
-    "note": "auto: duplicate name「香港咸酸梅」→ cond-preserved-plum--34"
+    "alias": "reg-satay-sauce--1803",
+    "canonical": "cond-satay-sauce--438",
+    "note": "auto: duplicate name「陕西沙茶酱」→ cond-satay-sauce--438"
   },
   {
-    "alias": "reg-rice-wine-cooking--11",
-    "canonical": "cond-rice-wine-cooking--11",
-    "note": "auto: duplicate name「广东料酒」→ cond-rice-wine-cooking--11"
+    "alias": "reg-satay-sauce--1888",
+    "canonical": "cond-satay-sauce--458",
+    "note": "auto: duplicate name「甘肃沙茶酱」→ cond-satay-sauce--458"
   },
   {
-    "alias": "reg-rice-wine-cooking--181",
-    "canonical": "cond-rice-wine-cooking--51",
-    "note": "auto: duplicate name「澳门料酒」→ cond-rice-wine-cooking--51"
+    "alias": "reg-satay-sauce--1973",
+    "canonical": "cond-satay-sauce--478",
+    "note": "auto: duplicate name「青海沙茶酱」→ cond-satay-sauce--478"
   },
   {
-    "alias": "reg-rice-wine-cooking--266",
-    "canonical": "cond-rice-wine-cooking--71",
-    "note": "auto: duplicate name「广西料酒」→ cond-rice-wine-cooking--71"
+    "alias": "reg-satay-sauce--2058",
+    "canonical": "cond-satay-sauce--498",
+    "note": "auto: duplicate name「宁夏沙茶酱」→ cond-satay-sauce--498"
   },
   {
-    "alias": "reg-rice-wine-cooking--351",
-    "canonical": "cond-rice-wine-cooking--91",
-    "note": "auto: duplicate name「福建料酒」→ cond-rice-wine-cooking--91"
+    "alias": "reg-satay-sauce--2143",
+    "canonical": "cond-satay-sauce--518",
+    "note": "auto: duplicate name「新疆沙茶酱」→ cond-satay-sauce--518"
   },
   {
-    "alias": "reg-rice-wine-cooking--436",
-    "canonical": "cond-rice-wine-cooking--111",
-    "note": "auto: duplicate name「海南料酒」→ cond-rice-wine-cooking--111"
+    "alias": "reg-satay-sauce--2228",
+    "canonical": "cond-satay-sauce--538",
+    "note": "auto: duplicate name「西藏沙茶酱」→ cond-satay-sauce--538"
   },
   {
-    "alias": "reg-rice-wine-cooking--96",
-    "canonical": "cond-rice-wine-cooking--31",
-    "note": "auto: duplicate name「香港料酒」→ cond-rice-wine-cooking--31"
+    "alias": "reg-sesame-oil--1535",
+    "canonical": "cond-sesame-oil--365",
+    "note": "auto: duplicate name「河南芝麻油」→ cond-sesame-oil--365"
   },
   {
-    "alias": "reg-rose-fermented-wine--13",
-    "canonical": "cond-rose-fermented-wine--13",
-    "note": "auto: duplicate name「广东玫瑰露酒」→ cond-rose-fermented-wine--13"
+    "alias": "reg-sesame-oil--1620",
+    "canonical": "cond-sesame-oil--385",
+    "note": "auto: duplicate name「河北芝麻油」→ cond-sesame-oil--385"
   },
   {
-    "alias": "reg-rose-fermented-wine--183",
-    "canonical": "cond-rose-fermented-wine--53",
-    "note": "auto: duplicate name「澳门玫瑰露酒」→ cond-rose-fermented-wine--53"
+    "alias": "reg-sesame-oil--1705",
+    "canonical": "cond-sesame-oil--405",
+    "note": "auto: duplicate name「山西芝麻油」→ cond-sesame-oil--405"
   },
   {
-    "alias": "reg-rose-fermented-wine--268",
-    "canonical": "cond-rose-fermented-wine--73",
-    "note": "auto: duplicate name「广西玫瑰露酒」→ cond-rose-fermented-wine--73"
+    "alias": "reg-sesame-oil--1790",
+    "canonical": "cond-sesame-oil--425",
+    "note": "auto: duplicate name「陕西芝麻油」→ cond-sesame-oil--425"
   },
   {
-    "alias": "reg-rose-fermented-wine--353",
-    "canonical": "cond-rose-fermented-wine--93",
-    "note": "auto: duplicate name「福建玫瑰露酒」→ cond-rose-fermented-wine--93"
+    "alias": "reg-sesame-oil--1875",
+    "canonical": "cond-sesame-oil--445",
+    "note": "auto: duplicate name「甘肃芝麻油」→ cond-sesame-oil--445"
   },
   {
-    "alias": "reg-rose-fermented-wine--438",
-    "canonical": "cond-rose-fermented-wine--113",
-    "note": "auto: duplicate name「海南玫瑰露酒」→ cond-rose-fermented-wine--113"
+    "alias": "reg-sesame-oil--1960",
+    "canonical": "cond-sesame-oil--465",
+    "note": "auto: duplicate name「青海芝麻油」→ cond-sesame-oil--465"
   },
   {
-    "alias": "reg-rose-fermented-wine--98",
-    "canonical": "cond-rose-fermented-wine--33",
-    "note": "auto: duplicate name「香港玫瑰露酒」→ cond-rose-fermented-wine--33"
+    "alias": "reg-sesame-oil--2045",
+    "canonical": "cond-sesame-oil--485",
+    "note": "auto: duplicate name「宁夏芝麻油」→ cond-sesame-oil--485"
   },
   {
-    "alias": "reg-satay-sauce--103",
-    "canonical": "cond-satay-sauce--38",
-    "note": "auto: duplicate name「香港沙茶酱」→ cond-satay-sauce--38"
+    "alias": "reg-sesame-oil--2130",
+    "canonical": "cond-sesame-oil--505",
+    "note": "auto: duplicate name「新疆芝麻油」→ cond-sesame-oil--505"
   },
   {
-    "alias": "reg-satay-sauce--18",
-    "canonical": "cond-satay-sauce--18",
-    "note": "auto: duplicate name「广东沙茶酱」→ cond-satay-sauce--18"
+    "alias": "reg-sesame-oil--2215",
+    "canonical": "cond-sesame-oil--525",
+    "note": "auto: duplicate name「西藏芝麻油」→ cond-sesame-oil--525"
   },
   {
-    "alias": "reg-satay-sauce--188",
-    "canonical": "cond-satay-sauce--58",
-    "note": "auto: duplicate name「澳门沙茶酱」→ cond-satay-sauce--58"
+    "alias": "reg-shanghai-greens--2081",
+    "canonical": "prod-shanghai-greens--481",
+    "note": "auto: duplicate name「宁夏上海青」→ prod-shanghai-greens--481"
   },
   {
-    "alias": "reg-satay-sauce--273",
-    "canonical": "cond-satay-sauce--78",
-    "note": "auto: duplicate name「广西沙茶酱」→ cond-satay-sauce--78"
+    "alias": "reg-shanghai-greens--2166",
+    "canonical": "prod-shanghai-greens--501",
+    "note": "auto: duplicate name「新疆上海青」→ prod-shanghai-greens--501"
   },
   {
-    "alias": "reg-satay-sauce--358",
-    "canonical": "cond-satay-sauce--98",
-    "note": "auto: duplicate name「福建沙茶酱」→ cond-satay-sauce--98"
+    "alias": "reg-shrimp-sauce--1539",
+    "canonical": "cond-shrimp-sauce--369",
+    "note": "auto: duplicate name「河南虾酱」→ cond-shrimp-sauce--369"
   },
   {
-    "alias": "reg-satay-sauce--443",
-    "canonical": "cond-satay-sauce--118",
-    "note": "auto: duplicate name「海南沙茶酱」→ cond-satay-sauce--118"
+    "alias": "reg-shrimp-sauce--1624",
+    "canonical": "cond-shrimp-sauce--389",
+    "note": "auto: duplicate name「河北虾酱」→ cond-shrimp-sauce--389"
   },
   {
-    "alias": "reg-sesame-oil--175",
-    "canonical": "cond-sesame-oil--45",
-    "note": "auto: duplicate name「澳门芝麻油」→ cond-sesame-oil--45"
+    "alias": "reg-shrimp-sauce--1709",
+    "canonical": "cond-shrimp-sauce--409",
+    "note": "auto: duplicate name「山西虾酱」→ cond-shrimp-sauce--409"
   },
   {
-    "alias": "reg-sesame-oil--260",
-    "canonical": "cond-sesame-oil--65",
-    "note": "auto: duplicate name「广西芝麻油」→ cond-sesame-oil--65"
+    "alias": "reg-shrimp-sauce--1794",
+    "canonical": "cond-shrimp-sauce--429",
+    "note": "auto: duplicate name「陕西虾酱」→ cond-shrimp-sauce--429"
   },
   {
-    "alias": "reg-sesame-oil--345",
-    "canonical": "cond-sesame-oil--85",
-    "note": "auto: duplicate name「福建芝麻油」→ cond-sesame-oil--85"
+    "alias": "reg-shrimp-sauce--1879",
+    "canonical": "cond-shrimp-sauce--449",
+    "note": "auto: duplicate name「甘肃虾酱」→ cond-shrimp-sauce--449"
   },
   {
-    "alias": "reg-sesame-oil--430",
-    "canonical": "cond-sesame-oil--105",
-    "note": "auto: duplicate name「海南芝麻油」→ cond-sesame-oil--105"
+    "alias": "reg-shrimp-sauce--1964",
+    "canonical": "cond-shrimp-sauce--469",
+    "note": "auto: duplicate name「青海虾酱」→ cond-shrimp-sauce--469"
   },
   {
-    "alias": "reg-sesame-oil--5",
-    "canonical": "cond-sesame-oil--5",
-    "note": "auto: duplicate name「广东芝麻油」→ cond-sesame-oil--5"
+    "alias": "reg-shrimp-sauce--2049",
+    "canonical": "cond-shrimp-sauce--489",
+    "note": "auto: duplicate name「宁夏虾酱」→ cond-shrimp-sauce--489"
   },
   {
-    "alias": "reg-sesame-oil--515",
-    "canonical": "cond-sesame-oil--125",
-    "note": "auto: duplicate name「湖南芝麻油」→ cond-sesame-oil--125"
+    "alias": "reg-shrimp-sauce--2134",
+    "canonical": "cond-shrimp-sauce--509",
+    "note": "auto: duplicate name「新疆虾酱」→ cond-shrimp-sauce--509"
   },
   {
-    "alias": "reg-sesame-oil--90",
-    "canonical": "cond-sesame-oil--25",
-    "note": "auto: duplicate name「香港芝麻油」→ cond-sesame-oil--25"
+    "alias": "reg-shrimp-sauce--2219",
+    "canonical": "cond-shrimp-sauce--529",
+    "note": "auto: duplicate name「西藏虾酱」→ cond-shrimp-sauce--529"
   },
   {
-    "alias": "reg-shanghai-greens--126",
-    "canonical": "prod-shanghai-greens--21",
-    "note": "auto: duplicate name「香港上海青」→ prod-shanghai-greens--21"
+    "alias": "reg-sichuan-pepper-oil--1537",
+    "canonical": "cond-sichuan-pepper-oil--367",
+    "note": "auto: duplicate name「河南花椒油」→ cond-sichuan-pepper-oil--367"
   },
   {
-    "alias": "reg-shanghai-greens--211",
-    "canonical": "prod-shanghai-greens--41",
-    "note": "auto: duplicate name「澳门上海青」→ prod-shanghai-greens--41"
+    "alias": "reg-sichuan-pepper-oil--1622",
+    "canonical": "cond-sichuan-pepper-oil--387",
+    "note": "auto: duplicate name「河北花椒油」→ cond-sichuan-pepper-oil--387"
   },
   {
-    "alias": "reg-shanghai-greens--296",
-    "canonical": "prod-shanghai-greens--61",
-    "note": "auto: duplicate name「广西上海青」→ prod-shanghai-greens--61"
+    "alias": "reg-sichuan-pepper-oil--1707",
+    "canonical": "cond-sichuan-pepper-oil--407",
+    "note": "auto: duplicate name「山西花椒油」→ cond-sichuan-pepper-oil--407"
   },
   {
-    "alias": "reg-shanghai-greens--381",
-    "canonical": "prod-shanghai-greens--81",
-    "note": "auto: duplicate name「福建上海青」→ prod-shanghai-greens--81"
+    "alias": "reg-sichuan-pepper-oil--1792",
+    "canonical": "cond-sichuan-pepper-oil--427",
+    "note": "auto: duplicate name「陕西花椒油」→ cond-sichuan-pepper-oil--427"
   },
   {
-    "alias": "reg-shanghai-greens--41",
-    "canonical": "prod-shanghai-greens--1",
-    "note": "auto: duplicate name「广东上海青」→ prod-shanghai-greens--1"
+    "alias": "reg-sichuan-pepper-oil--1877",
+    "canonical": "cond-sichuan-pepper-oil--447",
+    "note": "auto: duplicate name「甘肃花椒油」→ cond-sichuan-pepper-oil--447"
   },
   {
-    "alias": "reg-shanghai-greens--466",
-    "canonical": "prod-shanghai-greens--101",
-    "note": "auto: duplicate name「海南上海青」→ prod-shanghai-greens--101"
+    "alias": "reg-sichuan-pepper-oil--1962",
+    "canonical": "cond-sichuan-pepper-oil--467",
+    "note": "auto: duplicate name「青海花椒油」→ cond-sichuan-pepper-oil--467"
   },
   {
-    "alias": "reg-shrimp-sauce--179",
-    "canonical": "cond-shrimp-sauce--49",
-    "note": "auto: duplicate name「澳门虾酱」→ cond-shrimp-sauce--49"
+    "alias": "reg-sichuan-pepper-oil--2047",
+    "canonical": "cond-sichuan-pepper-oil--487",
+    "note": "auto: duplicate name「宁夏花椒油」→ cond-sichuan-pepper-oil--487"
   },
   {
-    "alias": "reg-shrimp-sauce--264",
-    "canonical": "cond-shrimp-sauce--69",
-    "note": "auto: duplicate name「广西虾酱」→ cond-shrimp-sauce--69"
+    "alias": "reg-sichuan-pepper-oil--2132",
+    "canonical": "cond-sichuan-pepper-oil--507",
+    "note": "auto: duplicate name「新疆花椒油」→ cond-sichuan-pepper-oil--507"
   },
   {
-    "alias": "reg-shrimp-sauce--349",
-    "canonical": "cond-shrimp-sauce--89",
-    "note": "auto: duplicate name「福建虾酱」→ cond-shrimp-sauce--89"
+    "alias": "reg-sichuan-pepper-oil--2217",
+    "canonical": "cond-sichuan-pepper-oil--527",
+    "note": "auto: duplicate name「西藏花椒油」→ cond-sichuan-pepper-oil--527"
   },
   {
-    "alias": "reg-shrimp-sauce--434",
-    "canonical": "cond-shrimp-sauce--109",
-    "note": "auto: duplicate name「海南虾酱」→ cond-shrimp-sauce--109"
+    "alias": "reg-snake-gourd--2092",
+    "canonical": "prod-snake-gourd--492",
+    "note": "auto: duplicate name「宁夏蛇瓜」→ prod-snake-gourd--492"
   },
   {
-    "alias": "reg-shrimp-sauce--519",
-    "canonical": "cond-shrimp-sauce--129",
-    "note": "auto: duplicate name「湖南虾酱」→ cond-shrimp-sauce--129"
+    "alias": "reg-snake-gourd--2177",
+    "canonical": "prod-snake-gourd--512",
+    "note": "auto: duplicate name「新疆蛇瓜」→ prod-snake-gourd--512"
   },
   {
-    "alias": "reg-shrimp-sauce--9",
-    "canonical": "cond-shrimp-sauce--9",
-    "note": "auto: duplicate name「广东虾酱」→ cond-shrimp-sauce--9"
+    "alias": "reg-snow-pea--2096",
+    "canonical": "prod-snow-pea--496",
+    "note": "auto: duplicate name「宁夏荷兰豆」→ prod-snow-pea--496"
   },
   {
-    "alias": "reg-shrimp-sauce--94",
-    "canonical": "cond-shrimp-sauce--29",
-    "note": "auto: duplicate name「香港虾酱」→ cond-shrimp-sauce--29"
+    "alias": "reg-snow-pea--2181",
+    "canonical": "prod-snow-pea--516",
+    "note": "auto: duplicate name「新疆荷兰豆」→ prod-snow-pea--516"
   },
   {
-    "alias": "reg-sichuan-pepper-oil--177",
-    "canonical": "cond-sichuan-pepper-oil--47",
-    "note": "auto: duplicate name「澳门花椒油」→ cond-sichuan-pepper-oil--47"
+    "alias": "reg-sugar-snap--2097",
+    "canonical": "prod-sugar-snap--497",
+    "note": "auto: duplicate name「宁夏甜豆」→ prod-sugar-snap--497"
   },
   {
-    "alias": "reg-sichuan-pepper-oil--262",
-    "canonical": "cond-sichuan-pepper-oil--67",
-    "note": "auto: duplicate name「广西花椒油」→ cond-sichuan-pepper-oil--67"
+    "alias": "reg-sugar-snap--2182",
+    "canonical": "prod-sugar-snap--517",
+    "note": "auto: duplicate name「新疆甜豆」→ prod-sugar-snap--517"
   },
   {
-    "alias": "reg-sichuan-pepper-oil--347",
-    "canonical": "cond-sichuan-pepper-oil--87",
-    "note": "auto: duplicate name「福建花椒油」→ cond-sichuan-pepper-oil--87"
+    "alias": "reg-sweet-bean-sauce--1531",
+    "canonical": "cond-sweet-bean-sauce--361",
+    "note": "auto: duplicate name「河南甜面酱」→ cond-sweet-bean-sauce--361"
   },
   {
-    "alias": "reg-sichuan-pepper-oil--432",
-    "canonical": "cond-sichuan-pepper-oil--107",
-    "note": "auto: duplicate name「海南花椒油」→ cond-sichuan-pepper-oil--107"
+    "alias": "reg-sweet-bean-sauce--1616",
+    "canonical": "cond-sweet-bean-sauce--381",
+    "note": "auto: duplicate name「河北甜面酱」→ cond-sweet-bean-sauce--381"
   },
   {
-    "alias": "reg-sichuan-pepper-oil--517",
-    "canonical": "cond-sichuan-pepper-oil--127",
-    "note": "auto: duplicate name「湖南花椒油」→ cond-sichuan-pepper-oil--127"
+    "alias": "reg-sweet-bean-sauce--1701",
+    "canonical": "cond-sweet-bean-sauce--401",
+    "note": "auto: duplicate name「山西甜面酱」→ cond-sweet-bean-sauce--401"
   },
   {
-    "alias": "reg-sichuan-pepper-oil--7",
-    "canonical": "cond-sichuan-pepper-oil--7",
-    "note": "auto: duplicate name「广东花椒油」→ cond-sichuan-pepper-oil--7"
+    "alias": "reg-sweet-bean-sauce--1786",
+    "canonical": "cond-sweet-bean-sauce--421",
+    "note": "auto: duplicate name「陕西甜面酱」→ cond-sweet-bean-sauce--421"
   },
   {
-    "alias": "reg-sichuan-pepper-oil--92",
-    "canonical": "cond-sichuan-pepper-oil--27",
-    "note": "auto: duplicate name「香港花椒油」→ cond-sichuan-pepper-oil--27"
+    "alias": "reg-sweet-bean-sauce--1871",
+    "canonical": "cond-sweet-bean-sauce--441",
+    "note": "auto: duplicate name「甘肃甜面酱」→ cond-sweet-bean-sauce--441"
   },
   {
-    "alias": "reg-snake-gourd--137",
-    "canonical": "prod-snake-gourd--32",
-    "note": "auto: duplicate name「香港蛇瓜」→ prod-snake-gourd--32"
+    "alias": "reg-sweet-bean-sauce--1956",
+    "canonical": "cond-sweet-bean-sauce--461",
+    "note": "auto: duplicate name「青海甜面酱」→ cond-sweet-bean-sauce--461"
   },
   {
-    "alias": "reg-snake-gourd--222",
-    "canonical": "prod-snake-gourd--52",
-    "note": "auto: duplicate name「澳门蛇瓜」→ prod-snake-gourd--52"
+    "alias": "reg-sweet-bean-sauce--2041",
+    "canonical": "cond-sweet-bean-sauce--481",
+    "note": "auto: duplicate name「宁夏甜面酱」→ cond-sweet-bean-sauce--481"
   },
   {
-    "alias": "reg-snake-gourd--307",
-    "canonical": "prod-snake-gourd--72",
-    "note": "auto: duplicate name「广西蛇瓜」→ prod-snake-gourd--72"
+    "alias": "reg-sweet-bean-sauce--2126",
+    "canonical": "cond-sweet-bean-sauce--501",
+    "note": "auto: duplicate name「新疆甜面酱」→ cond-sweet-bean-sauce--501"
   },
   {
-    "alias": "reg-snake-gourd--392",
-    "canonical": "prod-snake-gourd--92",
-    "note": "auto: duplicate name「福建蛇瓜」→ prod-snake-gourd--92"
+    "alias": "reg-sweet-bean-sauce--2211",
+    "canonical": "cond-sweet-bean-sauce--521",
+    "note": "auto: duplicate name「西藏甜面酱」→ cond-sweet-bean-sauce--521"
   },
   {
-    "alias": "reg-snake-gourd--477",
-    "canonical": "prod-snake-gourd--112",
-    "note": "auto: duplicate name「海南蛇瓜」→ prod-snake-gourd--112"
+    "alias": "reg-water-spinach-tip--2086",
+    "canonical": "prod-water-spinach-tip--486",
+    "note": "auto: duplicate name「宁夏空心菜苗」→ prod-water-spinach-tip--486"
   },
   {
-    "alias": "reg-snake-gourd--52",
-    "canonical": "prod-snake-gourd--12",
-    "note": "auto: duplicate name「广东蛇瓜」→ prod-snake-gourd--12"
+    "alias": "reg-water-spinach-tip--2171",
+    "canonical": "prod-water-spinach-tip--506",
+    "note": "auto: duplicate name「新疆空心菜苗」→ prod-water-spinach-tip--506"
   },
   {
-    "alias": "reg-snow-pea--141",
-    "canonical": "prod-snow-pea--36",
-    "note": "auto: duplicate name「香港荷兰豆」→ prod-snow-pea--36"
+    "alias": "reg-winter-gourd--2089",
+    "canonical": "prod-winter-gourd--489",
+    "note": "auto: duplicate name「宁夏节瓜」→ prod-winter-gourd--489"
   },
   {
-    "alias": "reg-snow-pea--226",
-    "canonical": "prod-snow-pea--56",
-    "note": "auto: duplicate name「澳门荷兰豆」→ prod-snow-pea--56"
+    "alias": "reg-winter-gourd--2174",
+    "canonical": "prod-winter-gourd--509",
+    "note": "auto: duplicate name「新疆节瓜」→ prod-winter-gourd--509"
   },
   {
-    "alias": "reg-snow-pea--311",
-    "canonical": "prod-snow-pea--76",
-    "note": "auto: duplicate name「广西荷兰豆」→ prod-snow-pea--76"
+    "alias": "reg-yardlong-bean--2095",
+    "canonical": "prod-yardlong-bean--495",
+    "note": "auto: duplicate name「宁夏长豆角」→ prod-yardlong-bean--495"
   },
   {
-    "alias": "reg-snow-pea--396",
-    "canonical": "prod-snow-pea--96",
-    "note": "auto: duplicate name「福建荷兰豆」→ prod-snow-pea--96"
+    "alias": "reg-yardlong-bean--2180",
+    "canonical": "prod-yardlong-bean--515",
+    "note": "auto: duplicate name「新疆长豆角」→ prod-yardlong-bean--515"
   },
   {
-    "alias": "reg-snow-pea--481",
-    "canonical": "prod-snow-pea--116",
-    "note": "auto: duplicate name「海南荷兰豆」→ prod-snow-pea--116"
+    "alias": "reg-yellow-rice-wine--1542",
+    "canonical": "cond-yellow-rice-wine--372",
+    "note": "auto: duplicate name「河南黄酒」→ cond-yellow-rice-wine--372"
   },
   {
-    "alias": "reg-snow-pea--56",
-    "canonical": "prod-snow-pea--16",
-    "note": "auto: duplicate name「广东荷兰豆」→ prod-snow-pea--16"
+    "alias": "reg-yellow-rice-wine--1627",
+    "canonical": "cond-yellow-rice-wine--392",
+    "note": "auto: duplicate name「河北黄酒」→ cond-yellow-rice-wine--392"
   },
   {
-    "alias": "reg-sugar-snap--142",
-    "canonical": "prod-sugar-snap--37",
-    "note": "auto: duplicate name「香港甜豆」→ prod-sugar-snap--37"
+    "alias": "reg-yellow-rice-wine--1712",
+    "canonical": "cond-yellow-rice-wine--412",
+    "note": "auto: duplicate name「山西黄酒」→ cond-yellow-rice-wine--412"
   },
   {
-    "alias": "reg-sugar-snap--227",
-    "canonical": "prod-sugar-snap--57",
-    "note": "auto: duplicate name「澳门甜豆」→ prod-sugar-snap--57"
+    "alias": "reg-yellow-rice-wine--1797",
+    "canonical": "cond-yellow-rice-wine--432",
+    "note": "auto: duplicate name「陕西黄酒」→ cond-yellow-rice-wine--432"
   },
   {
-    "alias": "reg-sugar-snap--312",
-    "canonical": "prod-sugar-snap--77",
-    "note": "auto: duplicate name「广西甜豆」→ prod-sugar-snap--77"
+    "alias": "reg-yellow-rice-wine--1882",
+    "canonical": "cond-yellow-rice-wine--452",
+    "note": "auto: duplicate name「甘肃黄酒」→ cond-yellow-rice-wine--452"
   },
   {
-    "alias": "reg-sugar-snap--397",
-    "canonical": "prod-sugar-snap--97",
-    "note": "auto: duplicate name「福建甜豆」→ prod-sugar-snap--97"
+    "alias": "reg-yellow-rice-wine--1967",
+    "canonical": "cond-yellow-rice-wine--472",
+    "note": "auto: duplicate name「青海黄酒」→ cond-yellow-rice-wine--472"
   },
   {
-    "alias": "reg-sugar-snap--482",
-    "canonical": "prod-sugar-snap--117",
-    "note": "auto: duplicate name「海南甜豆」→ prod-sugar-snap--117"
+    "alias": "reg-yellow-rice-wine--2052",
+    "canonical": "cond-yellow-rice-wine--492",
+    "note": "auto: duplicate name「宁夏黄酒」→ cond-yellow-rice-wine--492"
   },
   {
-    "alias": "reg-sugar-snap--57",
-    "canonical": "prod-sugar-snap--17",
-    "note": "auto: duplicate name「广东甜豆」→ prod-sugar-snap--17"
+    "alias": "reg-yellow-rice-wine--2137",
+    "canonical": "cond-yellow-rice-wine--512",
+    "note": "auto: duplicate name「新疆黄酒」→ cond-yellow-rice-wine--512"
   },
   {
-    "alias": "reg-sweet-bean-sauce--1",
-    "canonical": "cond-sweet-bean-sauce--1",
-    "note": "auto: duplicate name「广东甜面酱」→ cond-sweet-bean-sauce--1"
-  },
-  {
-    "alias": "reg-sweet-bean-sauce--171",
-    "canonical": "cond-sweet-bean-sauce--41",
-    "note": "auto: duplicate name「澳门甜面酱」→ cond-sweet-bean-sauce--41"
-  },
-  {
-    "alias": "reg-sweet-bean-sauce--256",
-    "canonical": "cond-sweet-bean-sauce--61",
-    "note": "auto: duplicate name「广西甜面酱」→ cond-sweet-bean-sauce--61"
-  },
-  {
-    "alias": "reg-sweet-bean-sauce--341",
-    "canonical": "cond-sweet-bean-sauce--81",
-    "note": "auto: duplicate name「福建甜面酱」→ cond-sweet-bean-sauce--81"
-  },
-  {
-    "alias": "reg-sweet-bean-sauce--426",
-    "canonical": "cond-sweet-bean-sauce--101",
-    "note": "auto: duplicate name「海南甜面酱」→ cond-sweet-bean-sauce--101"
-  },
-  {
-    "alias": "reg-sweet-bean-sauce--511",
-    "canonical": "cond-sweet-bean-sauce--121",
-    "note": "auto: duplicate name「湖南甜面酱」→ cond-sweet-bean-sauce--121"
-  },
-  {
-    "alias": "reg-sweet-bean-sauce--86",
-    "canonical": "cond-sweet-bean-sauce--21",
-    "note": "auto: duplicate name「香港甜面酱」→ cond-sweet-bean-sauce--21"
-  },
-  {
-    "alias": "reg-water-spinach-tip--131",
-    "canonical": "prod-water-spinach-tip--26",
-    "note": "auto: duplicate name「香港空心菜苗」→ prod-water-spinach-tip--26"
-  },
-  {
-    "alias": "reg-water-spinach-tip--216",
-    "canonical": "prod-water-spinach-tip--46",
-    "note": "auto: duplicate name「澳门空心菜苗」→ prod-water-spinach-tip--46"
-  },
-  {
-    "alias": "reg-water-spinach-tip--301",
-    "canonical": "prod-water-spinach-tip--66",
-    "note": "auto: duplicate name「广西空心菜苗」→ prod-water-spinach-tip--66"
-  },
-  {
-    "alias": "reg-water-spinach-tip--386",
-    "canonical": "prod-water-spinach-tip--86",
-    "note": "auto: duplicate name「福建空心菜苗」→ prod-water-spinach-tip--86"
-  },
-  {
-    "alias": "reg-water-spinach-tip--46",
-    "canonical": "prod-water-spinach-tip--6",
-    "note": "auto: duplicate name「广东空心菜苗」→ prod-water-spinach-tip--6"
-  },
-  {
-    "alias": "reg-water-spinach-tip--471",
-    "canonical": "prod-water-spinach-tip--106",
-    "note": "auto: duplicate name「海南空心菜苗」→ prod-water-spinach-tip--106"
-  },
-  {
-    "alias": "reg-winter-gourd--134",
-    "canonical": "prod-winter-gourd--29",
-    "note": "auto: duplicate name「香港节瓜」→ prod-winter-gourd--29"
-  },
-  {
-    "alias": "reg-winter-gourd--219",
-    "canonical": "prod-winter-gourd--49",
-    "note": "auto: duplicate name「澳门节瓜」→ prod-winter-gourd--49"
-  },
-  {
-    "alias": "reg-winter-gourd--304",
-    "canonical": "prod-winter-gourd--69",
-    "note": "auto: duplicate name「广西节瓜」→ prod-winter-gourd--69"
-  },
-  {
-    "alias": "reg-winter-gourd--389",
-    "canonical": "prod-winter-gourd--89",
-    "note": "auto: duplicate name「福建节瓜」→ prod-winter-gourd--89"
-  },
-  {
-    "alias": "reg-winter-gourd--474",
-    "canonical": "prod-winter-gourd--109",
-    "note": "auto: duplicate name「海南节瓜」→ prod-winter-gourd--109"
-  },
-  {
-    "alias": "reg-winter-gourd--49",
-    "canonical": "prod-winter-gourd--9",
-    "note": "auto: duplicate name「广东节瓜」→ prod-winter-gourd--9"
-  },
-  {
-    "alias": "reg-yardlong-bean--140",
-    "canonical": "prod-yardlong-bean--35",
-    "note": "auto: duplicate name「香港长豆角」→ prod-yardlong-bean--35"
-  },
-  {
-    "alias": "reg-yardlong-bean--225",
-    "canonical": "prod-yardlong-bean--55",
-    "note": "auto: duplicate name「澳门长豆角」→ prod-yardlong-bean--55"
-  },
-  {
-    "alias": "reg-yardlong-bean--310",
-    "canonical": "prod-yardlong-bean--75",
-    "note": "auto: duplicate name「广西长豆角」→ prod-yardlong-bean--75"
-  },
-  {
-    "alias": "reg-yardlong-bean--395",
-    "canonical": "prod-yardlong-bean--95",
-    "note": "auto: duplicate name「福建长豆角」→ prod-yardlong-bean--95"
-  },
-  {
-    "alias": "reg-yardlong-bean--480",
-    "canonical": "prod-yardlong-bean--115",
-    "note": "auto: duplicate name「海南长豆角」→ prod-yardlong-bean--115"
-  },
-  {
-    "alias": "reg-yardlong-bean--55",
-    "canonical": "prod-yardlong-bean--15",
-    "note": "auto: duplicate name「广东长豆角」→ prod-yardlong-bean--15"
-  },
-  {
-    "alias": "reg-yellow-rice-wine--12",
-    "canonical": "cond-yellow-rice-wine--12",
-    "note": "auto: duplicate name「广东黄酒」→ cond-yellow-rice-wine--12"
-  },
-  {
-    "alias": "reg-yellow-rice-wine--182",
-    "canonical": "cond-yellow-rice-wine--52",
-    "note": "auto: duplicate name「澳门黄酒」→ cond-yellow-rice-wine--52"
-  },
-  {
-    "alias": "reg-yellow-rice-wine--267",
-    "canonical": "cond-yellow-rice-wine--72",
-    "note": "auto: duplicate name「广西黄酒」→ cond-yellow-rice-wine--72"
-  },
-  {
-    "alias": "reg-yellow-rice-wine--352",
-    "canonical": "cond-yellow-rice-wine--92",
-    "note": "auto: duplicate name「福建黄酒」→ cond-yellow-rice-wine--92"
-  },
-  {
-    "alias": "reg-yellow-rice-wine--437",
-    "canonical": "cond-yellow-rice-wine--112",
-    "note": "auto: duplicate name「海南黄酒」→ cond-yellow-rice-wine--112"
-  },
-  {
-    "alias": "reg-yellow-rice-wine--97",
-    "canonical": "cond-yellow-rice-wine--32",
-    "note": "auto: duplicate name「香港黄酒」→ cond-yellow-rice-wine--32"
+    "alias": "reg-yellow-rice-wine--2222",
+    "canonical": "cond-yellow-rice-wine--532",
+    "note": "auto: duplicate name「西藏黄酒」→ cond-yellow-rice-wine--532"
   },
   {
     "alias": "rice-mi",
@@ -4280,94 +4160,124 @@
     "note": "auto: duplicate name「山东煎饼」→ c18-sd-scallion-pancake"
   },
   {
-    "alias": "sea-abalone-small--11",
-    "canonical": "reg-abalone-small--31",
-    "note": "auto: duplicate name「广东鲍鱼仔」→ reg-abalone-small--31"
+    "alias": "sea-abalone-small--371",
+    "canonical": "reg-abalone-small--1561",
+    "note": "auto: duplicate name「河南鲍鱼仔」→ reg-abalone-small--1561"
   },
   {
-    "alias": "sea-abalone-small--111",
-    "canonical": "reg-abalone-small--456",
-    "note": "auto: duplicate name「海南鲍鱼仔」→ reg-abalone-small--456"
+    "alias": "sea-abalone-small--391",
+    "canonical": "reg-abalone-small--1646",
+    "note": "auto: duplicate name「河北鲍鱼仔」→ reg-abalone-small--1646"
   },
   {
-    "alias": "sea-abalone-small--31",
-    "canonical": "reg-abalone-small--116",
-    "note": "auto: duplicate name「香港鲍鱼仔」→ reg-abalone-small--116"
+    "alias": "sea-abalone-small--411",
+    "canonical": "reg-abalone-small--1731",
+    "note": "auto: duplicate name「山西鲍鱼仔」→ reg-abalone-small--1731"
   },
   {
-    "alias": "sea-abalone-small--51",
-    "canonical": "reg-abalone-small--201",
-    "note": "auto: duplicate name「澳门鲍鱼仔」→ reg-abalone-small--201"
+    "alias": "sea-abalone-small--431",
+    "canonical": "reg-abalone-small--1816",
+    "note": "auto: duplicate name「陕西鲍鱼仔」→ reg-abalone-small--1816"
   },
   {
-    "alias": "sea-abalone-small--71",
-    "canonical": "reg-abalone-small--286",
-    "note": "auto: duplicate name「广西鲍鱼仔」→ reg-abalone-small--286"
+    "alias": "sea-abalone-small--451",
+    "canonical": "reg-abalone-small--1901",
+    "note": "auto: duplicate name「甘肃鲍鱼仔」→ reg-abalone-small--1901"
   },
   {
-    "alias": "sea-abalone-small--91",
-    "canonical": "reg-abalone-small--371",
-    "note": "auto: duplicate name「福建鲍鱼仔」→ reg-abalone-small--371"
+    "alias": "sea-abalone-small--471",
+    "canonical": "reg-abalone-small--1986",
+    "note": "auto: duplicate name「青海鲍鱼仔」→ reg-abalone-small--1986"
   },
   {
-    "alias": "sea-anchovy--116",
-    "canonical": "reg-anchovy--461",
-    "note": "auto: duplicate name「海南凤尾鱼」→ reg-anchovy--461"
+    "alias": "sea-abalone-small--491",
+    "canonical": "reg-abalone-small--2071",
+    "note": "auto: duplicate name「宁夏鲍鱼仔」→ reg-abalone-small--2071"
   },
   {
-    "alias": "sea-anchovy--16",
-    "canonical": "reg-anchovy--36",
-    "note": "auto: duplicate name「广东凤尾鱼」→ reg-anchovy--36"
+    "alias": "sea-abalone-small--511",
+    "canonical": "reg-abalone-small--2156",
+    "note": "auto: duplicate name「新疆鲍鱼仔」→ reg-abalone-small--2156"
   },
   {
-    "alias": "sea-anchovy--36",
-    "canonical": "reg-anchovy--121",
-    "note": "auto: duplicate name「香港凤尾鱼」→ reg-anchovy--121"
+    "alias": "sea-anchovy--376",
+    "canonical": "reg-anchovy--1566",
+    "note": "auto: duplicate name「河南凤尾鱼」→ reg-anchovy--1566"
   },
   {
-    "alias": "sea-anchovy--56",
-    "canonical": "reg-anchovy--206",
-    "note": "auto: duplicate name「澳门凤尾鱼」→ reg-anchovy--206"
+    "alias": "sea-anchovy--396",
+    "canonical": "reg-anchovy--1651",
+    "note": "auto: duplicate name「河北凤尾鱼」→ reg-anchovy--1651"
   },
   {
-    "alias": "sea-anchovy--76",
-    "canonical": "reg-anchovy--291",
-    "note": "auto: duplicate name「广西凤尾鱼」→ reg-anchovy--291"
+    "alias": "sea-anchovy--416",
+    "canonical": "reg-anchovy--1736",
+    "note": "auto: duplicate name「山西凤尾鱼」→ reg-anchovy--1736"
   },
   {
-    "alias": "sea-anchovy--96",
-    "canonical": "reg-anchovy--376",
-    "note": "auto: duplicate name「福建凤尾鱼」→ reg-anchovy--376"
+    "alias": "sea-anchovy--436",
+    "canonical": "reg-anchovy--1821",
+    "note": "auto: duplicate name「陕西凤尾鱼」→ reg-anchovy--1821"
   },
   {
-    "alias": "sea-clams--108",
-    "canonical": "reg-clams--453",
-    "note": "auto: duplicate name「海南花甲」→ reg-clams--453"
+    "alias": "sea-anchovy--456",
+    "canonical": "reg-anchovy--1906",
+    "note": "auto: duplicate name「甘肃凤尾鱼」→ reg-anchovy--1906"
   },
   {
-    "alias": "sea-clams--28",
-    "canonical": "reg-clams--113",
-    "note": "auto: duplicate name「香港花甲」→ reg-clams--113"
+    "alias": "sea-anchovy--476",
+    "canonical": "reg-anchovy--1991",
+    "note": "auto: duplicate name「青海凤尾鱼」→ reg-anchovy--1991"
   },
   {
-    "alias": "sea-clams--48",
-    "canonical": "reg-clams--198",
-    "note": "auto: duplicate name「澳门花甲」→ reg-clams--198"
+    "alias": "sea-anchovy--496",
+    "canonical": "reg-anchovy--2076",
+    "note": "auto: duplicate name「宁夏凤尾鱼」→ reg-anchovy--2076"
   },
   {
-    "alias": "sea-clams--68",
-    "canonical": "reg-clams--283",
-    "note": "auto: duplicate name「广西花甲」→ reg-clams--283"
+    "alias": "sea-anchovy--516",
+    "canonical": "reg-anchovy--2161",
+    "note": "auto: duplicate name「新疆凤尾鱼」→ reg-anchovy--2161"
   },
   {
-    "alias": "sea-clams--8",
-    "canonical": "reg-clams--28",
-    "note": "auto: duplicate name「广东花甲」→ reg-clams--28"
+    "alias": "sea-clams--368",
+    "canonical": "reg-clams--1558",
+    "note": "auto: duplicate name「河南花甲」→ reg-clams--1558"
   },
   {
-    "alias": "sea-clams--88",
-    "canonical": "reg-clams--368",
-    "note": "auto: duplicate name「福建花甲」→ reg-clams--368"
+    "alias": "sea-clams--388",
+    "canonical": "reg-clams--1643",
+    "note": "auto: duplicate name「河北花甲」→ reg-clams--1643"
+  },
+  {
+    "alias": "sea-clams--408",
+    "canonical": "reg-clams--1728",
+    "note": "auto: duplicate name「山西花甲」→ reg-clams--1728"
+  },
+  {
+    "alias": "sea-clams--428",
+    "canonical": "reg-clams--1813",
+    "note": "auto: duplicate name「陕西花甲」→ reg-clams--1813"
+  },
+  {
+    "alias": "sea-clams--448",
+    "canonical": "reg-clams--1898",
+    "note": "auto: duplicate name「甘肃花甲」→ reg-clams--1898"
+  },
+  {
+    "alias": "sea-clams--468",
+    "canonical": "reg-clams--1983",
+    "note": "auto: duplicate name「青海花甲」→ reg-clams--1983"
+  },
+  {
+    "alias": "sea-clams--488",
+    "canonical": "reg-clams--2068",
+    "note": "auto: duplicate name「宁夏花甲」→ reg-clams--2068"
+  },
+  {
+    "alias": "sea-clams--508",
+    "canonical": "reg-clams--2153",
+    "note": "auto: duplicate name「新疆花甲」→ reg-clams--2153"
   },
   {
     "alias": "sea-cucumber-fresh",
@@ -4375,514 +4285,694 @@
     "note": "鲜海参归并至海参主条目"
   },
   {
-    "alias": "sea-cuttlefish--105",
-    "canonical": "reg-cuttlefish--450",
-    "note": "auto: duplicate name「海南墨鱼」→ reg-cuttlefish--450"
+    "alias": "sea-cuttlefish--365",
+    "canonical": "reg-cuttlefish--1555",
+    "note": "auto: duplicate name「河南墨鱼」→ reg-cuttlefish--1555"
   },
   {
-    "alias": "sea-cuttlefish--25",
-    "canonical": "reg-cuttlefish--110",
-    "note": "auto: duplicate name「香港墨鱼」→ reg-cuttlefish--110"
+    "alias": "sea-cuttlefish--385",
+    "canonical": "reg-cuttlefish--1640",
+    "note": "auto: duplicate name「河北墨鱼」→ reg-cuttlefish--1640"
   },
   {
-    "alias": "sea-cuttlefish--45",
-    "canonical": "reg-cuttlefish--195",
-    "note": "auto: duplicate name「澳门墨鱼」→ reg-cuttlefish--195"
+    "alias": "sea-cuttlefish--405",
+    "canonical": "reg-cuttlefish--1725",
+    "note": "auto: duplicate name「山西墨鱼」→ reg-cuttlefish--1725"
   },
   {
-    "alias": "sea-cuttlefish--5",
-    "canonical": "reg-cuttlefish--25",
-    "note": "auto: duplicate name「广东墨鱼」→ reg-cuttlefish--25"
+    "alias": "sea-cuttlefish--425",
+    "canonical": "reg-cuttlefish--1810",
+    "note": "auto: duplicate name「陕西墨鱼」→ reg-cuttlefish--1810"
   },
   {
-    "alias": "sea-cuttlefish--65",
-    "canonical": "reg-cuttlefish--280",
-    "note": "auto: duplicate name「广西墨鱼」→ reg-cuttlefish--280"
+    "alias": "sea-cuttlefish--445",
+    "canonical": "reg-cuttlefish--1895",
+    "note": "auto: duplicate name「甘肃墨鱼」→ reg-cuttlefish--1895"
   },
   {
-    "alias": "sea-cuttlefish--85",
-    "canonical": "reg-cuttlefish--365",
-    "note": "auto: duplicate name「福建墨鱼」→ reg-cuttlefish--365"
+    "alias": "sea-cuttlefish--465",
+    "canonical": "reg-cuttlefish--1980",
+    "note": "auto: duplicate name「青海墨鱼」→ reg-cuttlefish--1980"
   },
   {
-    "alias": "sea-dried-cuttlefish--107",
-    "canonical": "reg-dried-cuttlefish--452",
-    "note": "auto: duplicate name「海南墨鱼干」→ reg-dried-cuttlefish--452"
+    "alias": "sea-cuttlefish--485",
+    "canonical": "reg-cuttlefish--2065",
+    "note": "auto: duplicate name「宁夏墨鱼」→ reg-cuttlefish--2065"
   },
   {
-    "alias": "sea-dried-cuttlefish--27",
-    "canonical": "reg-dried-cuttlefish--112",
-    "note": "auto: duplicate name「香港墨鱼干」→ reg-dried-cuttlefish--112"
+    "alias": "sea-cuttlefish--505",
+    "canonical": "reg-cuttlefish--2150",
+    "note": "auto: duplicate name「新疆墨鱼」→ reg-cuttlefish--2150"
   },
   {
-    "alias": "sea-dried-cuttlefish--47",
-    "canonical": "reg-dried-cuttlefish--197",
-    "note": "auto: duplicate name「澳门墨鱼干」→ reg-dried-cuttlefish--197"
+    "alias": "sea-dried-cuttlefish--367",
+    "canonical": "reg-dried-cuttlefish--1557",
+    "note": "auto: duplicate name「河南墨鱼干」→ reg-dried-cuttlefish--1557"
   },
   {
-    "alias": "sea-dried-cuttlefish--67",
-    "canonical": "reg-dried-cuttlefish--282",
-    "note": "auto: duplicate name「广西墨鱼干」→ reg-dried-cuttlefish--282"
+    "alias": "sea-dried-cuttlefish--387",
+    "canonical": "reg-dried-cuttlefish--1642",
+    "note": "auto: duplicate name「河北墨鱼干」→ reg-dried-cuttlefish--1642"
   },
   {
-    "alias": "sea-dried-cuttlefish--7",
-    "canonical": "reg-dried-cuttlefish--27",
-    "note": "auto: duplicate name「广东墨鱼干」→ reg-dried-cuttlefish--27"
+    "alias": "sea-dried-cuttlefish--407",
+    "canonical": "reg-dried-cuttlefish--1727",
+    "note": "auto: duplicate name「山西墨鱼干」→ reg-dried-cuttlefish--1727"
   },
   {
-    "alias": "sea-dried-cuttlefish--87",
-    "canonical": "reg-dried-cuttlefish--367",
-    "note": "auto: duplicate name「福建墨鱼干」→ reg-dried-cuttlefish--367"
+    "alias": "sea-dried-cuttlefish--427",
+    "canonical": "reg-dried-cuttlefish--1812",
+    "note": "auto: duplicate name「陕西墨鱼干」→ reg-dried-cuttlefish--1812"
   },
   {
-    "alias": "sea-dried-squid--106",
-    "canonical": "reg-dried-squid--451",
-    "note": "auto: duplicate name「海南鱿鱼干」→ reg-dried-squid--451"
+    "alias": "sea-dried-cuttlefish--447",
+    "canonical": "reg-dried-cuttlefish--1897",
+    "note": "auto: duplicate name「甘肃墨鱼干」→ reg-dried-cuttlefish--1897"
   },
   {
-    "alias": "sea-dried-squid--26",
-    "canonical": "reg-dried-squid--111",
-    "note": "auto: duplicate name「香港鱿鱼干」→ reg-dried-squid--111"
+    "alias": "sea-dried-cuttlefish--467",
+    "canonical": "reg-dried-cuttlefish--1982",
+    "note": "auto: duplicate name「青海墨鱼干」→ reg-dried-cuttlefish--1982"
   },
   {
-    "alias": "sea-dried-squid--46",
-    "canonical": "reg-dried-squid--196",
-    "note": "auto: duplicate name「澳门鱿鱼干」→ reg-dried-squid--196"
+    "alias": "sea-dried-cuttlefish--487",
+    "canonical": "reg-dried-cuttlefish--2067",
+    "note": "auto: duplicate name「宁夏墨鱼干」→ reg-dried-cuttlefish--2067"
   },
   {
-    "alias": "sea-dried-squid--6",
-    "canonical": "reg-dried-squid--26",
-    "note": "auto: duplicate name「广东鱿鱼干」→ reg-dried-squid--26"
+    "alias": "sea-dried-cuttlefish--507",
+    "canonical": "reg-dried-cuttlefish--2152",
+    "note": "auto: duplicate name「新疆墨鱼干」→ reg-dried-cuttlefish--2152"
   },
   {
-    "alias": "sea-dried-squid--66",
-    "canonical": "reg-dried-squid--281",
-    "note": "auto: duplicate name「广西鱿鱼干」→ reg-dried-squid--281"
+    "alias": "sea-dried-squid--366",
+    "canonical": "reg-dried-squid--1556",
+    "note": "auto: duplicate name「河南鱿鱼干」→ reg-dried-squid--1556"
   },
   {
-    "alias": "sea-dried-squid--86",
-    "canonical": "reg-dried-squid--366",
-    "note": "auto: duplicate name「福建鱿鱼干」→ reg-dried-squid--366"
+    "alias": "sea-dried-squid--386",
+    "canonical": "reg-dried-squid--1641",
+    "note": "auto: duplicate name「河北鱿鱼干」→ reg-dried-squid--1641"
   },
   {
-    "alias": "sea-fish-ball--118",
-    "canonical": "reg-fish-ball--463",
-    "note": "auto: duplicate name「海南鱼丸」→ reg-fish-ball--463"
+    "alias": "sea-dried-squid--406",
+    "canonical": "reg-dried-squid--1726",
+    "note": "auto: duplicate name「山西鱿鱼干」→ reg-dried-squid--1726"
   },
   {
-    "alias": "sea-fish-ball--18",
-    "canonical": "reg-fish-ball--38",
-    "note": "auto: duplicate name「广东鱼丸」→ reg-fish-ball--38"
+    "alias": "sea-dried-squid--426",
+    "canonical": "reg-dried-squid--1811",
+    "note": "auto: duplicate name「陕西鱿鱼干」→ reg-dried-squid--1811"
   },
   {
-    "alias": "sea-fish-ball--38",
-    "canonical": "reg-fish-ball--123",
-    "note": "auto: duplicate name「香港鱼丸」→ reg-fish-ball--123"
+    "alias": "sea-dried-squid--446",
+    "canonical": "reg-dried-squid--1896",
+    "note": "auto: duplicate name「甘肃鱿鱼干」→ reg-dried-squid--1896"
   },
   {
-    "alias": "sea-fish-ball--58",
-    "canonical": "reg-fish-ball--208",
-    "note": "auto: duplicate name「澳门鱼丸」→ reg-fish-ball--208"
+    "alias": "sea-dried-squid--466",
+    "canonical": "reg-dried-squid--1981",
+    "note": "auto: duplicate name「青海鱿鱼干」→ reg-dried-squid--1981"
   },
   {
-    "alias": "sea-fish-ball--78",
-    "canonical": "reg-fish-ball--293",
-    "note": "auto: duplicate name「广西鱼丸」→ reg-fish-ball--293"
+    "alias": "sea-dried-squid--486",
+    "canonical": "reg-dried-squid--2066",
+    "note": "auto: duplicate name「宁夏鱿鱼干」→ reg-dried-squid--2066"
   },
   {
-    "alias": "sea-fish-ball--98",
-    "canonical": "reg-fish-ball--378",
-    "note": "auto: duplicate name「福建鱼丸」→ reg-fish-ball--378"
+    "alias": "sea-dried-squid--506",
+    "canonical": "reg-dried-squid--2151",
+    "note": "auto: duplicate name「新疆鱿鱼干」→ reg-dried-squid--2151"
   },
   {
-    "alias": "sea-hairtail--0",
-    "canonical": "reg-hairtail--20",
-    "note": "auto: duplicate name「广东带鱼」→ reg-hairtail--20"
+    "alias": "sea-fish-ball--378",
+    "canonical": "reg-fish-ball--1568",
+    "note": "auto: duplicate name「河南鱼丸」→ reg-fish-ball--1568"
   },
   {
-    "alias": "sea-hairtail--100",
-    "canonical": "reg-hairtail--445",
-    "note": "auto: duplicate name「海南带鱼」→ reg-hairtail--445"
+    "alias": "sea-fish-ball--398",
+    "canonical": "reg-fish-ball--1653",
+    "note": "auto: duplicate name「河北鱼丸」→ reg-fish-ball--1653"
   },
   {
-    "alias": "sea-hairtail--20",
-    "canonical": "reg-hairtail--105",
-    "note": "auto: duplicate name「香港带鱼」→ reg-hairtail--105"
+    "alias": "sea-fish-ball--418",
+    "canonical": "reg-fish-ball--1738",
+    "note": "auto: duplicate name「山西鱼丸」→ reg-fish-ball--1738"
   },
   {
-    "alias": "sea-hairtail--40",
-    "canonical": "reg-hairtail--190",
-    "note": "auto: duplicate name「澳门带鱼」→ reg-hairtail--190"
+    "alias": "sea-fish-ball--438",
+    "canonical": "reg-fish-ball--1823",
+    "note": "auto: duplicate name「陕西鱼丸」→ reg-fish-ball--1823"
   },
   {
-    "alias": "sea-hairtail--60",
-    "canonical": "reg-hairtail--275",
-    "note": "auto: duplicate name「广西带鱼」→ reg-hairtail--275"
+    "alias": "sea-fish-ball--458",
+    "canonical": "reg-fish-ball--1908",
+    "note": "auto: duplicate name「甘肃鱼丸」→ reg-fish-ball--1908"
   },
   {
-    "alias": "sea-hairtail--80",
-    "canonical": "reg-hairtail--360",
-    "note": "auto: duplicate name「福建带鱼」→ reg-hairtail--360"
+    "alias": "sea-fish-ball--478",
+    "canonical": "reg-fish-ball--1993",
+    "note": "auto: duplicate name「青海鱼丸」→ reg-fish-ball--1993"
   },
   {
-    "alias": "sea-kelp-knot--114",
-    "canonical": "reg-kelp-knot--459",
-    "note": "auto: duplicate name「海南海带结」→ reg-kelp-knot--459"
+    "alias": "sea-fish-ball--498",
+    "canonical": "reg-fish-ball--2078",
+    "note": "auto: duplicate name「宁夏鱼丸」→ reg-fish-ball--2078"
   },
   {
-    "alias": "sea-kelp-knot--14",
-    "canonical": "reg-kelp-knot--34",
-    "note": "auto: duplicate name「广东海带结」→ reg-kelp-knot--34"
+    "alias": "sea-fish-ball--518",
+    "canonical": "reg-fish-ball--2163",
+    "note": "auto: duplicate name「新疆鱼丸」→ reg-fish-ball--2163"
   },
   {
-    "alias": "sea-kelp-knot--34",
-    "canonical": "reg-kelp-knot--119",
-    "note": "auto: duplicate name「香港海带结」→ reg-kelp-knot--119"
+    "alias": "sea-hairtail--360",
+    "canonical": "reg-hairtail--1550",
+    "note": "auto: duplicate name「河南带鱼」→ reg-hairtail--1550"
   },
   {
-    "alias": "sea-kelp-knot--54",
-    "canonical": "reg-kelp-knot--204",
-    "note": "auto: duplicate name「澳门海带结」→ reg-kelp-knot--204"
+    "alias": "sea-hairtail--380",
+    "canonical": "reg-hairtail--1635",
+    "note": "auto: duplicate name「河北带鱼」→ reg-hairtail--1635"
   },
   {
-    "alias": "sea-kelp-knot--74",
-    "canonical": "reg-kelp-knot--289",
-    "note": "auto: duplicate name「广西海带结」→ reg-kelp-knot--289"
+    "alias": "sea-hairtail--400",
+    "canonical": "reg-hairtail--1720",
+    "note": "auto: duplicate name「山西带鱼」→ reg-hairtail--1720"
   },
   {
-    "alias": "sea-kelp-knot--94",
-    "canonical": "reg-kelp-knot--374",
-    "note": "auto: duplicate name「福建海带结」→ reg-kelp-knot--374"
+    "alias": "sea-hairtail--420",
+    "canonical": "reg-hairtail--1805",
+    "note": "auto: duplicate name「陕西带鱼」→ reg-hairtail--1805"
   },
   {
-    "alias": "sea-oyster-meat--10",
-    "canonical": "reg-oyster-meat--30",
-    "note": "auto: duplicate name「广东生蚝肉」→ reg-oyster-meat--30"
+    "alias": "sea-hairtail--440",
+    "canonical": "reg-hairtail--1890",
+    "note": "auto: duplicate name「甘肃带鱼」→ reg-hairtail--1890"
   },
   {
-    "alias": "sea-oyster-meat--110",
-    "canonical": "reg-oyster-meat--455",
-    "note": "auto: duplicate name「海南生蚝肉」→ reg-oyster-meat--455"
+    "alias": "sea-hairtail--460",
+    "canonical": "reg-hairtail--1975",
+    "note": "auto: duplicate name「青海带鱼」→ reg-hairtail--1975"
   },
   {
-    "alias": "sea-oyster-meat--30",
-    "canonical": "reg-oyster-meat--115",
-    "note": "auto: duplicate name「香港生蚝肉」→ reg-oyster-meat--115"
+    "alias": "sea-hairtail--480",
+    "canonical": "reg-hairtail--2060",
+    "note": "auto: duplicate name「宁夏带鱼」→ reg-hairtail--2060"
   },
   {
-    "alias": "sea-oyster-meat--50",
-    "canonical": "reg-oyster-meat--200",
-    "note": "auto: duplicate name「澳门生蚝肉」→ reg-oyster-meat--200"
+    "alias": "sea-hairtail--500",
+    "canonical": "reg-hairtail--2145",
+    "note": "auto: duplicate name「新疆带鱼」→ reg-hairtail--2145"
   },
   {
-    "alias": "sea-oyster-meat--70",
-    "canonical": "reg-oyster-meat--285",
-    "note": "auto: duplicate name「广西生蚝肉」→ reg-oyster-meat--285"
+    "alias": "sea-hairtail--520",
+    "canonical": "reg-hairtail--2230",
+    "note": "auto: duplicate name「西藏带鱼」→ reg-hairtail--2230"
   },
   {
-    "alias": "sea-oyster-meat--90",
-    "canonical": "reg-oyster-meat--370",
-    "note": "auto: duplicate name「福建生蚝肉」→ reg-oyster-meat--370"
+    "alias": "sea-kelp-knot--374",
+    "canonical": "reg-kelp-knot--1564",
+    "note": "auto: duplicate name「河南海带结」→ reg-kelp-knot--1564"
   },
   {
-    "alias": "sea-pomfret--102",
-    "canonical": "reg-pomfret--447",
-    "note": "auto: duplicate name「海南鲳鱼」→ reg-pomfret--447"
+    "alias": "sea-kelp-knot--394",
+    "canonical": "reg-kelp-knot--1649",
+    "note": "auto: duplicate name「河北海带结」→ reg-kelp-knot--1649"
   },
   {
-    "alias": "sea-pomfret--2",
-    "canonical": "reg-pomfret--22",
-    "note": "auto: duplicate name「广东鲳鱼」→ reg-pomfret--22"
+    "alias": "sea-kelp-knot--414",
+    "canonical": "reg-kelp-knot--1734",
+    "note": "auto: duplicate name「山西海带结」→ reg-kelp-knot--1734"
   },
   {
-    "alias": "sea-pomfret--22",
-    "canonical": "reg-pomfret--107",
-    "note": "auto: duplicate name「香港鲳鱼」→ reg-pomfret--107"
+    "alias": "sea-kelp-knot--434",
+    "canonical": "reg-kelp-knot--1819",
+    "note": "auto: duplicate name「陕西海带结」→ reg-kelp-knot--1819"
   },
   {
-    "alias": "sea-pomfret--42",
-    "canonical": "reg-pomfret--192",
-    "note": "auto: duplicate name「澳门鲳鱼」→ reg-pomfret--192"
+    "alias": "sea-kelp-knot--454",
+    "canonical": "reg-kelp-knot--1904",
+    "note": "auto: duplicate name「甘肃海带结」→ reg-kelp-knot--1904"
   },
   {
-    "alias": "sea-pomfret--62",
-    "canonical": "reg-pomfret--277",
-    "note": "auto: duplicate name「广西鲳鱼」→ reg-pomfret--277"
+    "alias": "sea-kelp-knot--474",
+    "canonical": "reg-kelp-knot--1989",
+    "note": "auto: duplicate name「青海海带结」→ reg-kelp-knot--1989"
   },
   {
-    "alias": "sea-pomfret--82",
-    "canonical": "reg-pomfret--362",
-    "note": "auto: duplicate name「福建鲳鱼」→ reg-pomfret--362"
+    "alias": "sea-kelp-knot--494",
+    "canonical": "reg-kelp-knot--2074",
+    "note": "auto: duplicate name「宁夏海带结」→ reg-kelp-knot--2074"
   },
   {
-    "alias": "sea-razor-clam--109",
-    "canonical": "reg-razor-clam--454",
-    "note": "auto: duplicate name「海南蛏子」→ reg-razor-clam--454"
+    "alias": "sea-kelp-knot--514",
+    "canonical": "reg-kelp-knot--2159",
+    "note": "auto: duplicate name「新疆海带结」→ reg-kelp-knot--2159"
   },
   {
-    "alias": "sea-razor-clam--29",
-    "canonical": "reg-razor-clam--114",
-    "note": "auto: duplicate name「香港蛏子」→ reg-razor-clam--114"
+    "alias": "sea-oyster-meat--370",
+    "canonical": "reg-oyster-meat--1560",
+    "note": "auto: duplicate name「河南生蚝肉」→ reg-oyster-meat--1560"
   },
   {
-    "alias": "sea-razor-clam--49",
-    "canonical": "reg-razor-clam--199",
-    "note": "auto: duplicate name「澳门蛏子」→ reg-razor-clam--199"
+    "alias": "sea-oyster-meat--390",
+    "canonical": "reg-oyster-meat--1645",
+    "note": "auto: duplicate name「河北生蚝肉」→ reg-oyster-meat--1645"
   },
   {
-    "alias": "sea-razor-clam--69",
-    "canonical": "reg-razor-clam--284",
-    "note": "auto: duplicate name「广西蛏子」→ reg-razor-clam--284"
+    "alias": "sea-oyster-meat--410",
+    "canonical": "reg-oyster-meat--1730",
+    "note": "auto: duplicate name「山西生蚝肉」→ reg-oyster-meat--1730"
   },
   {
-    "alias": "sea-razor-clam--89",
-    "canonical": "reg-razor-clam--369",
-    "note": "auto: duplicate name「福建蛏子」→ reg-razor-clam--369"
+    "alias": "sea-oyster-meat--430",
+    "canonical": "reg-oyster-meat--1815",
+    "note": "auto: duplicate name「陕西生蚝肉」→ reg-oyster-meat--1815"
   },
   {
-    "alias": "sea-razor-clam--9",
-    "canonical": "reg-razor-clam--29",
-    "note": "auto: duplicate name「广东蛏子」→ reg-razor-clam--29"
+    "alias": "sea-oyster-meat--450",
+    "canonical": "reg-oyster-meat--1900",
+    "note": "auto: duplicate name「甘肃生蚝肉」→ reg-oyster-meat--1900"
   },
   {
-    "alias": "sea-sea-cucumber-dried--112",
-    "canonical": "reg-sea-cucumber-dried--457",
-    "note": "auto: duplicate name「海南海参干」→ reg-sea-cucumber-dried--457"
+    "alias": "sea-oyster-meat--470",
+    "canonical": "reg-oyster-meat--1985",
+    "note": "auto: duplicate name「青海生蚝肉」→ reg-oyster-meat--1985"
   },
   {
-    "alias": "sea-sea-cucumber-dried--12",
-    "canonical": "reg-sea-cucumber-dried--32",
-    "note": "auto: duplicate name「广东海参干」→ reg-sea-cucumber-dried--32"
+    "alias": "sea-oyster-meat--490",
+    "canonical": "reg-oyster-meat--2070",
+    "note": "auto: duplicate name「宁夏生蚝肉」→ reg-oyster-meat--2070"
   },
   {
-    "alias": "sea-sea-cucumber-dried--32",
-    "canonical": "reg-sea-cucumber-dried--117",
-    "note": "auto: duplicate name「香港海参干」→ reg-sea-cucumber-dried--117"
+    "alias": "sea-oyster-meat--510",
+    "canonical": "reg-oyster-meat--2155",
+    "note": "auto: duplicate name「新疆生蚝肉」→ reg-oyster-meat--2155"
   },
   {
-    "alias": "sea-sea-cucumber-dried--52",
-    "canonical": "reg-sea-cucumber-dried--202",
-    "note": "auto: duplicate name「澳门海参干」→ reg-sea-cucumber-dried--202"
+    "alias": "sea-pomfret--362",
+    "canonical": "reg-pomfret--1552",
+    "note": "auto: duplicate name「河南鲳鱼」→ reg-pomfret--1552"
   },
   {
-    "alias": "sea-sea-cucumber-dried--72",
-    "canonical": "reg-sea-cucumber-dried--287",
-    "note": "auto: duplicate name「广西海参干」→ reg-sea-cucumber-dried--287"
+    "alias": "sea-pomfret--382",
+    "canonical": "reg-pomfret--1637",
+    "note": "auto: duplicate name「河北鲳鱼」→ reg-pomfret--1637"
   },
   {
-    "alias": "sea-sea-cucumber-dried--92",
-    "canonical": "reg-sea-cucumber-dried--372",
-    "note": "auto: duplicate name「福建海参干」→ reg-sea-cucumber-dried--372"
+    "alias": "sea-pomfret--402",
+    "canonical": "reg-pomfret--1722",
+    "note": "auto: duplicate name「山西鲳鱼」→ reg-pomfret--1722"
   },
   {
-    "alias": "sea-seaweed-sheet--113",
-    "canonical": "reg-seaweed-sheet--458",
-    "note": "auto: duplicate name「海南紫菜」→ reg-seaweed-sheet--458"
+    "alias": "sea-pomfret--422",
+    "canonical": "reg-pomfret--1807",
+    "note": "auto: duplicate name「陕西鲳鱼」→ reg-pomfret--1807"
   },
   {
-    "alias": "sea-seaweed-sheet--13",
-    "canonical": "reg-seaweed-sheet--33",
-    "note": "auto: duplicate name「广东紫菜」→ reg-seaweed-sheet--33"
+    "alias": "sea-pomfret--442",
+    "canonical": "reg-pomfret--1892",
+    "note": "auto: duplicate name「甘肃鲳鱼」→ reg-pomfret--1892"
   },
   {
-    "alias": "sea-seaweed-sheet--33",
-    "canonical": "reg-seaweed-sheet--118",
-    "note": "auto: duplicate name「香港紫菜」→ reg-seaweed-sheet--118"
+    "alias": "sea-pomfret--462",
+    "canonical": "reg-pomfret--1977",
+    "note": "auto: duplicate name「青海鲳鱼」→ reg-pomfret--1977"
   },
   {
-    "alias": "sea-seaweed-sheet--53",
-    "canonical": "reg-seaweed-sheet--203",
-    "note": "auto: duplicate name「澳门紫菜」→ reg-seaweed-sheet--203"
+    "alias": "sea-pomfret--482",
+    "canonical": "reg-pomfret--2062",
+    "note": "auto: duplicate name「宁夏鲳鱼」→ reg-pomfret--2062"
   },
   {
-    "alias": "sea-seaweed-sheet--73",
-    "canonical": "reg-seaweed-sheet--288",
-    "note": "auto: duplicate name「广西紫菜」→ reg-seaweed-sheet--288"
+    "alias": "sea-pomfret--502",
+    "canonical": "reg-pomfret--2147",
+    "note": "auto: duplicate name「新疆鲳鱼」→ reg-pomfret--2147"
   },
   {
-    "alias": "sea-seaweed-sheet--93",
-    "canonical": "reg-seaweed-sheet--373",
-    "note": "auto: duplicate name「福建紫菜」→ reg-seaweed-sheet--373"
+    "alias": "sea-razor-clam--369",
+    "canonical": "reg-razor-clam--1559",
+    "note": "auto: duplicate name「河南蛏子」→ reg-razor-clam--1559"
   },
   {
-    "alias": "sea-shrimp-paste-ball--119",
-    "canonical": "reg-shrimp-paste-ball--464",
-    "note": "auto: duplicate name「海南虾滑」→ reg-shrimp-paste-ball--464"
+    "alias": "sea-razor-clam--389",
+    "canonical": "reg-razor-clam--1644",
+    "note": "auto: duplicate name「河北蛏子」→ reg-razor-clam--1644"
   },
   {
-    "alias": "sea-shrimp-paste-ball--19",
-    "canonical": "reg-shrimp-paste-ball--39",
-    "note": "auto: duplicate name「广东虾滑」→ reg-shrimp-paste-ball--39"
+    "alias": "sea-razor-clam--409",
+    "canonical": "reg-razor-clam--1729",
+    "note": "auto: duplicate name「山西蛏子」→ reg-razor-clam--1729"
   },
   {
-    "alias": "sea-shrimp-paste-ball--39",
-    "canonical": "reg-shrimp-paste-ball--124",
-    "note": "auto: duplicate name「香港虾滑」→ reg-shrimp-paste-ball--124"
+    "alias": "sea-razor-clam--429",
+    "canonical": "reg-razor-clam--1814",
+    "note": "auto: duplicate name「陕西蛏子」→ reg-razor-clam--1814"
   },
   {
-    "alias": "sea-shrimp-paste-ball--59",
-    "canonical": "reg-shrimp-paste-ball--209",
-    "note": "auto: duplicate name「澳门虾滑」→ reg-shrimp-paste-ball--209"
+    "alias": "sea-razor-clam--449",
+    "canonical": "reg-razor-clam--1899",
+    "note": "auto: duplicate name「甘肃蛏子」→ reg-razor-clam--1899"
   },
   {
-    "alias": "sea-shrimp-paste-ball--79",
-    "canonical": "reg-shrimp-paste-ball--294",
-    "note": "auto: duplicate name「广西虾滑」→ reg-shrimp-paste-ball--294"
+    "alias": "sea-razor-clam--469",
+    "canonical": "reg-razor-clam--1984",
+    "note": "auto: duplicate name「青海蛏子」→ reg-razor-clam--1984"
   },
   {
-    "alias": "sea-shrimp-paste-ball--99",
-    "canonical": "reg-shrimp-paste-ball--379",
-    "note": "auto: duplicate name「福建虾滑」→ reg-shrimp-paste-ball--379"
+    "alias": "sea-razor-clam--489",
+    "canonical": "reg-razor-clam--2069",
+    "note": "auto: duplicate name「宁夏蛏子」→ reg-razor-clam--2069"
   },
   {
-    "alias": "sea-spanish-mackerel--1",
-    "canonical": "reg-spanish-mackerel--21",
-    "note": "auto: duplicate name「广东马鲛鱼」→ reg-spanish-mackerel--21"
+    "alias": "sea-razor-clam--509",
+    "canonical": "reg-razor-clam--2154",
+    "note": "auto: duplicate name「新疆蛏子」→ reg-razor-clam--2154"
   },
   {
-    "alias": "sea-spanish-mackerel--101",
-    "canonical": "reg-spanish-mackerel--446",
-    "note": "auto: duplicate name「海南马鲛鱼」→ reg-spanish-mackerel--446"
+    "alias": "sea-sea-cucumber-dried--372",
+    "canonical": "reg-sea-cucumber-dried--1562",
+    "note": "auto: duplicate name「河南海参干」→ reg-sea-cucumber-dried--1562"
   },
   {
-    "alias": "sea-spanish-mackerel--21",
-    "canonical": "reg-spanish-mackerel--106",
-    "note": "auto: duplicate name「香港马鲛鱼」→ reg-spanish-mackerel--106"
+    "alias": "sea-sea-cucumber-dried--392",
+    "canonical": "reg-sea-cucumber-dried--1647",
+    "note": "auto: duplicate name「河北海参干」→ reg-sea-cucumber-dried--1647"
   },
   {
-    "alias": "sea-spanish-mackerel--41",
-    "canonical": "reg-spanish-mackerel--191",
-    "note": "auto: duplicate name「澳门马鲛鱼」→ reg-spanish-mackerel--191"
+    "alias": "sea-sea-cucumber-dried--412",
+    "canonical": "reg-sea-cucumber-dried--1732",
+    "note": "auto: duplicate name「山西海参干」→ reg-sea-cucumber-dried--1732"
   },
   {
-    "alias": "sea-spanish-mackerel--61",
-    "canonical": "reg-spanish-mackerel--276",
-    "note": "auto: duplicate name「广西马鲛鱼」→ reg-spanish-mackerel--276"
+    "alias": "sea-sea-cucumber-dried--432",
+    "canonical": "reg-sea-cucumber-dried--1817",
+    "note": "auto: duplicate name「陕西海参干」→ reg-sea-cucumber-dried--1817"
   },
   {
-    "alias": "sea-spanish-mackerel--81",
-    "canonical": "reg-spanish-mackerel--361",
-    "note": "auto: duplicate name「福建马鲛鱼」→ reg-spanish-mackerel--361"
+    "alias": "sea-sea-cucumber-dried--452",
+    "canonical": "reg-sea-cucumber-dried--1902",
+    "note": "auto: duplicate name「甘肃海参干」→ reg-sea-cucumber-dried--1902"
   },
   {
-    "alias": "sea-squid-tube--104",
-    "canonical": "reg-squid-tube--449",
-    "note": "auto: duplicate name「海南鱿鱼筒」→ reg-squid-tube--449"
+    "alias": "sea-sea-cucumber-dried--472",
+    "canonical": "reg-sea-cucumber-dried--1987",
+    "note": "auto: duplicate name「青海海参干」→ reg-sea-cucumber-dried--1987"
   },
   {
-    "alias": "sea-squid-tube--24",
-    "canonical": "reg-squid-tube--109",
-    "note": "auto: duplicate name「香港鱿鱼筒」→ reg-squid-tube--109"
+    "alias": "sea-sea-cucumber-dried--492",
+    "canonical": "reg-sea-cucumber-dried--2072",
+    "note": "auto: duplicate name「宁夏海参干」→ reg-sea-cucumber-dried--2072"
   },
   {
-    "alias": "sea-squid-tube--4",
-    "canonical": "reg-squid-tube--24",
-    "note": "auto: duplicate name「广东鱿鱼筒」→ reg-squid-tube--24"
+    "alias": "sea-sea-cucumber-dried--512",
+    "canonical": "reg-sea-cucumber-dried--2157",
+    "note": "auto: duplicate name「新疆海参干」→ reg-sea-cucumber-dried--2157"
   },
   {
-    "alias": "sea-squid-tube--44",
-    "canonical": "reg-squid-tube--194",
-    "note": "auto: duplicate name「澳门鱿鱼筒」→ reg-squid-tube--194"
+    "alias": "sea-seaweed-sheet--373",
+    "canonical": "reg-seaweed-sheet--1563",
+    "note": "auto: duplicate name「河南紫菜」→ reg-seaweed-sheet--1563"
   },
   {
-    "alias": "sea-squid-tube--64",
-    "canonical": "reg-squid-tube--279",
-    "note": "auto: duplicate name「广西鱿鱼筒」→ reg-squid-tube--279"
+    "alias": "sea-seaweed-sheet--393",
+    "canonical": "reg-seaweed-sheet--1648",
+    "note": "auto: duplicate name「河北紫菜」→ reg-seaweed-sheet--1648"
   },
   {
-    "alias": "sea-squid-tube--84",
-    "canonical": "reg-squid-tube--364",
-    "note": "auto: duplicate name「福建鱿鱼筒」→ reg-squid-tube--364"
+    "alias": "sea-seaweed-sheet--413",
+    "canonical": "reg-seaweed-sheet--1733",
+    "note": "auto: duplicate name「山西紫菜」→ reg-seaweed-sheet--1733"
   },
   {
-    "alias": "sea-whitebait--115",
-    "canonical": "reg-whitebait--460",
-    "note": "auto: duplicate name「海南银鱼」→ reg-whitebait--460"
+    "alias": "sea-seaweed-sheet--433",
+    "canonical": "reg-seaweed-sheet--1818",
+    "note": "auto: duplicate name「陕西紫菜」→ reg-seaweed-sheet--1818"
   },
   {
-    "alias": "sea-whitebait--15",
-    "canonical": "reg-whitebait--35",
-    "note": "auto: duplicate name「广东银鱼」→ reg-whitebait--35"
+    "alias": "sea-seaweed-sheet--453",
+    "canonical": "reg-seaweed-sheet--1903",
+    "note": "auto: duplicate name「甘肃紫菜」→ reg-seaweed-sheet--1903"
   },
   {
-    "alias": "sea-whitebait--35",
-    "canonical": "reg-whitebait--120",
-    "note": "auto: duplicate name「香港银鱼」→ reg-whitebait--120"
+    "alias": "sea-seaweed-sheet--473",
+    "canonical": "reg-seaweed-sheet--1988",
+    "note": "auto: duplicate name「青海紫菜」→ reg-seaweed-sheet--1988"
   },
   {
-    "alias": "sea-whitebait--55",
-    "canonical": "reg-whitebait--205",
-    "note": "auto: duplicate name「澳门银鱼」→ reg-whitebait--205"
+    "alias": "sea-seaweed-sheet--493",
+    "canonical": "reg-seaweed-sheet--2073",
+    "note": "auto: duplicate name「宁夏紫菜」→ reg-seaweed-sheet--2073"
   },
   {
-    "alias": "sea-whitebait--75",
-    "canonical": "reg-whitebait--290",
-    "note": "auto: duplicate name「广西银鱼」→ reg-whitebait--290"
+    "alias": "sea-seaweed-sheet--513",
+    "canonical": "reg-seaweed-sheet--2158",
+    "note": "auto: duplicate name「新疆紫菜」→ reg-seaweed-sheet--2158"
   },
   {
-    "alias": "sea-whitebait--95",
-    "canonical": "reg-whitebait--375",
-    "note": "auto: duplicate name「福建银鱼」→ reg-whitebait--375"
+    "alias": "sea-shrimp-paste-ball--379",
+    "canonical": "reg-shrimp-paste-ball--1569",
+    "note": "auto: duplicate name「河南虾滑」→ reg-shrimp-paste-ball--1569"
   },
   {
-    "alias": "sea-yellow-croaker-dried--117",
-    "canonical": "reg-yellow-croaker-dried--462",
-    "note": "auto: duplicate name「海南黄花鱼干」→ reg-yellow-croaker-dried--462"
+    "alias": "sea-shrimp-paste-ball--399",
+    "canonical": "reg-shrimp-paste-ball--1654",
+    "note": "auto: duplicate name「河北虾滑」→ reg-shrimp-paste-ball--1654"
   },
   {
-    "alias": "sea-yellow-croaker-dried--17",
-    "canonical": "reg-yellow-croaker-dried--37",
-    "note": "auto: duplicate name「广东黄花鱼干」→ reg-yellow-croaker-dried--37"
+    "alias": "sea-shrimp-paste-ball--419",
+    "canonical": "reg-shrimp-paste-ball--1739",
+    "note": "auto: duplicate name「山西虾滑」→ reg-shrimp-paste-ball--1739"
   },
   {
-    "alias": "sea-yellow-croaker-dried--37",
-    "canonical": "reg-yellow-croaker-dried--122",
-    "note": "auto: duplicate name「香港黄花鱼干」→ reg-yellow-croaker-dried--122"
+    "alias": "sea-shrimp-paste-ball--439",
+    "canonical": "reg-shrimp-paste-ball--1824",
+    "note": "auto: duplicate name「陕西虾滑」→ reg-shrimp-paste-ball--1824"
   },
   {
-    "alias": "sea-yellow-croaker-dried--57",
-    "canonical": "reg-yellow-croaker-dried--207",
-    "note": "auto: duplicate name「澳门黄花鱼干」→ reg-yellow-croaker-dried--207"
+    "alias": "sea-shrimp-paste-ball--459",
+    "canonical": "reg-shrimp-paste-ball--1909",
+    "note": "auto: duplicate name「甘肃虾滑」→ reg-shrimp-paste-ball--1909"
   },
   {
-    "alias": "sea-yellow-croaker-dried--77",
-    "canonical": "reg-yellow-croaker-dried--292",
-    "note": "auto: duplicate name「广西黄花鱼干」→ reg-yellow-croaker-dried--292"
+    "alias": "sea-shrimp-paste-ball--479",
+    "canonical": "reg-shrimp-paste-ball--1994",
+    "note": "auto: duplicate name「青海虾滑」→ reg-shrimp-paste-ball--1994"
   },
   {
-    "alias": "sea-yellow-croaker-dried--97",
-    "canonical": "reg-yellow-croaker-dried--377",
-    "note": "auto: duplicate name「福建黄花鱼干」→ reg-yellow-croaker-dried--377"
+    "alias": "sea-shrimp-paste-ball--499",
+    "canonical": "reg-shrimp-paste-ball--2079",
+    "note": "auto: duplicate name「宁夏虾滑」→ reg-shrimp-paste-ball--2079"
   },
   {
-    "alias": "sea-yellow-fin-tuna--103",
-    "canonical": "reg-yellow-fin-tuna--448",
-    "note": "auto: duplicate name「海南黄鳍金枪鱼」→ reg-yellow-fin-tuna--448"
+    "alias": "sea-shrimp-paste-ball--519",
+    "canonical": "reg-shrimp-paste-ball--2164",
+    "note": "auto: duplicate name「新疆虾滑」→ reg-shrimp-paste-ball--2164"
   },
   {
-    "alias": "sea-yellow-fin-tuna--23",
-    "canonical": "reg-yellow-fin-tuna--108",
-    "note": "auto: duplicate name「香港黄鳍金枪鱼」→ reg-yellow-fin-tuna--108"
+    "alias": "sea-spanish-mackerel--361",
+    "canonical": "reg-spanish-mackerel--1551",
+    "note": "auto: duplicate name「河南马鲛鱼」→ reg-spanish-mackerel--1551"
   },
   {
-    "alias": "sea-yellow-fin-tuna--3",
-    "canonical": "reg-yellow-fin-tuna--23",
-    "note": "auto: duplicate name「广东黄鳍金枪鱼」→ reg-yellow-fin-tuna--23"
+    "alias": "sea-spanish-mackerel--381",
+    "canonical": "reg-spanish-mackerel--1636",
+    "note": "auto: duplicate name「河北马鲛鱼」→ reg-spanish-mackerel--1636"
   },
   {
-    "alias": "sea-yellow-fin-tuna--43",
-    "canonical": "reg-yellow-fin-tuna--193",
-    "note": "auto: duplicate name「澳门黄鳍金枪鱼」→ reg-yellow-fin-tuna--193"
+    "alias": "sea-spanish-mackerel--401",
+    "canonical": "reg-spanish-mackerel--1721",
+    "note": "auto: duplicate name「山西马鲛鱼」→ reg-spanish-mackerel--1721"
   },
   {
-    "alias": "sea-yellow-fin-tuna--63",
-    "canonical": "reg-yellow-fin-tuna--278",
-    "note": "auto: duplicate name「广西黄鳍金枪鱼」→ reg-yellow-fin-tuna--278"
+    "alias": "sea-spanish-mackerel--421",
+    "canonical": "reg-spanish-mackerel--1806",
+    "note": "auto: duplicate name「陕西马鲛鱼」→ reg-spanish-mackerel--1806"
   },
   {
-    "alias": "sea-yellow-fin-tuna--83",
-    "canonical": "reg-yellow-fin-tuna--363",
-    "note": "auto: duplicate name「福建黄鳍金枪鱼」→ reg-yellow-fin-tuna--363"
+    "alias": "sea-spanish-mackerel--441",
+    "canonical": "reg-spanish-mackerel--1891",
+    "note": "auto: duplicate name「甘肃马鲛鱼」→ reg-spanish-mackerel--1891"
+  },
+  {
+    "alias": "sea-spanish-mackerel--461",
+    "canonical": "reg-spanish-mackerel--1976",
+    "note": "auto: duplicate name「青海马鲛鱼」→ reg-spanish-mackerel--1976"
+  },
+  {
+    "alias": "sea-spanish-mackerel--481",
+    "canonical": "reg-spanish-mackerel--2061",
+    "note": "auto: duplicate name「宁夏马鲛鱼」→ reg-spanish-mackerel--2061"
+  },
+  {
+    "alias": "sea-spanish-mackerel--501",
+    "canonical": "reg-spanish-mackerel--2146",
+    "note": "auto: duplicate name「新疆马鲛鱼」→ reg-spanish-mackerel--2146"
+  },
+  {
+    "alias": "sea-spanish-mackerel--521",
+    "canonical": "reg-spanish-mackerel--2231",
+    "note": "auto: duplicate name「西藏马鲛鱼」→ reg-spanish-mackerel--2231"
+  },
+  {
+    "alias": "sea-squid-tube--364",
+    "canonical": "reg-squid-tube--1554",
+    "note": "auto: duplicate name「河南鱿鱼筒」→ reg-squid-tube--1554"
+  },
+  {
+    "alias": "sea-squid-tube--384",
+    "canonical": "reg-squid-tube--1639",
+    "note": "auto: duplicate name「河北鱿鱼筒」→ reg-squid-tube--1639"
+  },
+  {
+    "alias": "sea-squid-tube--404",
+    "canonical": "reg-squid-tube--1724",
+    "note": "auto: duplicate name「山西鱿鱼筒」→ reg-squid-tube--1724"
+  },
+  {
+    "alias": "sea-squid-tube--424",
+    "canonical": "reg-squid-tube--1809",
+    "note": "auto: duplicate name「陕西鱿鱼筒」→ reg-squid-tube--1809"
+  },
+  {
+    "alias": "sea-squid-tube--444",
+    "canonical": "reg-squid-tube--1894",
+    "note": "auto: duplicate name「甘肃鱿鱼筒」→ reg-squid-tube--1894"
+  },
+  {
+    "alias": "sea-squid-tube--464",
+    "canonical": "reg-squid-tube--1979",
+    "note": "auto: duplicate name「青海鱿鱼筒」→ reg-squid-tube--1979"
+  },
+  {
+    "alias": "sea-squid-tube--484",
+    "canonical": "reg-squid-tube--2064",
+    "note": "auto: duplicate name「宁夏鱿鱼筒」→ reg-squid-tube--2064"
+  },
+  {
+    "alias": "sea-squid-tube--504",
+    "canonical": "reg-squid-tube--2149",
+    "note": "auto: duplicate name「新疆鱿鱼筒」→ reg-squid-tube--2149"
+  },
+  {
+    "alias": "sea-whitebait--375",
+    "canonical": "reg-whitebait--1565",
+    "note": "auto: duplicate name「河南银鱼」→ reg-whitebait--1565"
+  },
+  {
+    "alias": "sea-whitebait--395",
+    "canonical": "reg-whitebait--1650",
+    "note": "auto: duplicate name「河北银鱼」→ reg-whitebait--1650"
+  },
+  {
+    "alias": "sea-whitebait--415",
+    "canonical": "reg-whitebait--1735",
+    "note": "auto: duplicate name「山西银鱼」→ reg-whitebait--1735"
+  },
+  {
+    "alias": "sea-whitebait--435",
+    "canonical": "reg-whitebait--1820",
+    "note": "auto: duplicate name「陕西银鱼」→ reg-whitebait--1820"
+  },
+  {
+    "alias": "sea-whitebait--455",
+    "canonical": "reg-whitebait--1905",
+    "note": "auto: duplicate name「甘肃银鱼」→ reg-whitebait--1905"
+  },
+  {
+    "alias": "sea-whitebait--475",
+    "canonical": "reg-whitebait--1990",
+    "note": "auto: duplicate name「青海银鱼」→ reg-whitebait--1990"
+  },
+  {
+    "alias": "sea-whitebait--495",
+    "canonical": "reg-whitebait--2075",
+    "note": "auto: duplicate name「宁夏银鱼」→ reg-whitebait--2075"
+  },
+  {
+    "alias": "sea-whitebait--515",
+    "canonical": "reg-whitebait--2160",
+    "note": "auto: duplicate name「新疆银鱼」→ reg-whitebait--2160"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--377",
+    "canonical": "reg-yellow-croaker-dried--1567",
+    "note": "auto: duplicate name「河南黄花鱼干」→ reg-yellow-croaker-dried--1567"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--397",
+    "canonical": "reg-yellow-croaker-dried--1652",
+    "note": "auto: duplicate name「河北黄花鱼干」→ reg-yellow-croaker-dried--1652"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--417",
+    "canonical": "reg-yellow-croaker-dried--1737",
+    "note": "auto: duplicate name「山西黄花鱼干」→ reg-yellow-croaker-dried--1737"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--437",
+    "canonical": "reg-yellow-croaker-dried--1822",
+    "note": "auto: duplicate name「陕西黄花鱼干」→ reg-yellow-croaker-dried--1822"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--457",
+    "canonical": "reg-yellow-croaker-dried--1907",
+    "note": "auto: duplicate name「甘肃黄花鱼干」→ reg-yellow-croaker-dried--1907"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--477",
+    "canonical": "reg-yellow-croaker-dried--1992",
+    "note": "auto: duplicate name「青海黄花鱼干」→ reg-yellow-croaker-dried--1992"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--497",
+    "canonical": "reg-yellow-croaker-dried--2077",
+    "note": "auto: duplicate name「宁夏黄花鱼干」→ reg-yellow-croaker-dried--2077"
+  },
+  {
+    "alias": "sea-yellow-croaker-dried--517",
+    "canonical": "reg-yellow-croaker-dried--2162",
+    "note": "auto: duplicate name「新疆黄花鱼干」→ reg-yellow-croaker-dried--2162"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--363",
+    "canonical": "reg-yellow-fin-tuna--1553",
+    "note": "auto: duplicate name「河南黄鳍金枪鱼」→ reg-yellow-fin-tuna--1553"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--383",
+    "canonical": "reg-yellow-fin-tuna--1638",
+    "note": "auto: duplicate name「河北黄鳍金枪鱼」→ reg-yellow-fin-tuna--1638"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--403",
+    "canonical": "reg-yellow-fin-tuna--1723",
+    "note": "auto: duplicate name「山西黄鳍金枪鱼」→ reg-yellow-fin-tuna--1723"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--423",
+    "canonical": "reg-yellow-fin-tuna--1808",
+    "note": "auto: duplicate name「陕西黄鳍金枪鱼」→ reg-yellow-fin-tuna--1808"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--443",
+    "canonical": "reg-yellow-fin-tuna--1893",
+    "note": "auto: duplicate name「甘肃黄鳍金枪鱼」→ reg-yellow-fin-tuna--1893"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--463",
+    "canonical": "reg-yellow-fin-tuna--1978",
+    "note": "auto: duplicate name「青海黄鳍金枪鱼」→ reg-yellow-fin-tuna--1978"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--483",
+    "canonical": "reg-yellow-fin-tuna--2063",
+    "note": "auto: duplicate name「宁夏黄鳍金枪鱼」→ reg-yellow-fin-tuna--2063"
+  },
+  {
+    "alias": "sea-yellow-fin-tuna--503",
+    "canonical": "reg-yellow-fin-tuna--2148",
+    "note": "auto: duplicate name「新疆黄鳍金枪鱼」→ reg-yellow-fin-tuna--2148"
   },
   {
     "alias": "seabed-coconut",
@@ -4985,604 +5075,204 @@
     "note": "auto: duplicate name「土茯苓」→ c13-gd-smilax"
   },
   {
-    "alias": "snack-egg-waffle--117",
-    "canonical": "reg-egg-waffle--502",
-    "note": "auto: duplicate name「海南鸡蛋仔」→ reg-egg-waffle--502"
+    "alias": "snack-egg-waffle--497",
+    "canonical": "reg-egg-waffle--2117",
+    "note": "auto: duplicate name「宁夏鸡蛋仔」→ reg-egg-waffle--2117"
   },
   {
-    "alias": "snack-egg-waffle--17",
-    "canonical": "reg-egg-waffle--77",
-    "note": "auto: duplicate name「广东鸡蛋仔」→ reg-egg-waffle--77"
+    "alias": "snack-egg-waffle--517",
+    "canonical": "reg-egg-waffle--2202",
+    "note": "auto: duplicate name「新疆鸡蛋仔」→ reg-egg-waffle--2202"
   },
   {
-    "alias": "snack-egg-waffle--37",
-    "canonical": "reg-egg-waffle--162",
-    "note": "auto: duplicate name「香港鸡蛋仔」→ reg-egg-waffle--162"
+    "alias": "snack-fried-dough-twist--491",
+    "canonical": "reg-fried-dough-twist--2111",
+    "note": "auto: duplicate name「宁夏麻花」→ reg-fried-dough-twist--2111"
   },
   {
-    "alias": "snack-egg-waffle--57",
-    "canonical": "reg-egg-waffle--247",
-    "note": "auto: duplicate name「澳门鸡蛋仔」→ reg-egg-waffle--247"
+    "alias": "snack-fried-dough-twist--511",
+    "canonical": "reg-fried-dough-twist--2196",
+    "note": "auto: duplicate name「新疆麻花」→ reg-fried-dough-twist--2196"
   },
   {
-    "alias": "snack-egg-waffle--77",
-    "canonical": "reg-egg-waffle--332",
-    "note": "auto: duplicate name「广西鸡蛋仔」→ reg-egg-waffle--332"
+    "alias": "snack-glutinous-rice-ball--482",
+    "canonical": "reg-glutinous-rice-ball--2102",
+    "note": "auto: duplicate name「宁夏糯米糍」→ reg-glutinous-rice-ball--2102"
   },
   {
-    "alias": "snack-egg-waffle--97",
-    "canonical": "reg-egg-waffle--417",
-    "note": "auto: duplicate name「福建鸡蛋仔」→ reg-egg-waffle--417"
+    "alias": "snack-glutinous-rice-ball--502",
+    "canonical": "reg-glutinous-rice-ball--2187",
+    "note": "auto: duplicate name「新疆糯米糍」→ reg-glutinous-rice-ball--2187"
   },
   {
-    "alias": "snack-fried-dough-twist--11",
-    "canonical": "reg-fried-dough-twist--71",
-    "note": "auto: duplicate name「广东麻花」→ reg-fried-dough-twist--71"
+    "alias": "snack-grass-jelly--495",
+    "canonical": "reg-grass-jelly--2115",
+    "note": "auto: duplicate name「宁夏凉粉」→ reg-grass-jelly--2115"
   },
   {
-    "alias": "snack-fried-dough-twist--111",
-    "canonical": "reg-fried-dough-twist--496",
-    "note": "auto: duplicate name「海南麻花」→ reg-fried-dough-twist--496"
+    "alias": "snack-grass-jelly--515",
+    "canonical": "reg-grass-jelly--2200",
+    "note": "auto: duplicate name「新疆凉粉」→ reg-grass-jelly--2200"
   },
   {
-    "alias": "snack-fried-dough-twist--31",
-    "canonical": "reg-fried-dough-twist--156",
-    "note": "auto: duplicate name「香港麻花」→ reg-fried-dough-twist--156"
+    "alias": "snack-mantou--489",
+    "canonical": "reg-mantou--2109",
+    "note": "auto: duplicate name「宁夏馒头」→ reg-mantou--2109"
   },
   {
-    "alias": "snack-fried-dough-twist--51",
-    "canonical": "reg-fried-dough-twist--241",
-    "note": "auto: duplicate name「澳门麻花」→ reg-fried-dough-twist--241"
+    "alias": "snack-mantou--509",
+    "canonical": "reg-mantou--2194",
+    "note": "auto: duplicate name「新疆馒头」→ reg-mantou--2194"
   },
   {
-    "alias": "snack-fried-dough-twist--71",
-    "canonical": "reg-fried-dough-twist--326",
-    "note": "auto: duplicate name「广西麻花」→ reg-fried-dough-twist--326"
+    "alias": "snack-pineapple-bun--498",
+    "canonical": "reg-pineapple-bun--2118",
+    "note": "auto: duplicate name「宁夏菠萝包」→ reg-pineapple-bun--2118"
   },
   {
-    "alias": "snack-fried-dough-twist--91",
-    "canonical": "reg-fried-dough-twist--411",
-    "note": "auto: duplicate name「福建麻花」→ reg-fried-dough-twist--411"
+    "alias": "snack-pineapple-bun--518",
+    "canonical": "reg-pineapple-bun--2203",
+    "note": "auto: duplicate name「新疆菠萝包」→ reg-pineapple-bun--2203"
   },
   {
-    "alias": "snack-glutinous-rice-ball--102",
-    "canonical": "reg-glutinous-rice-ball--487",
-    "note": "auto: duplicate name「海南糯米糍」→ reg-glutinous-rice-ball--487"
+    "alias": "snack-rice-cracker--492",
+    "canonical": "reg-rice-cracker--2112",
+    "note": "auto: duplicate name「宁夏米饼」→ reg-rice-cracker--2112"
   },
   {
-    "alias": "snack-glutinous-rice-ball--2",
-    "canonical": "reg-glutinous-rice-ball--62",
-    "note": "auto: duplicate name「广东糯米糍」→ reg-glutinous-rice-ball--62"
+    "alias": "snack-rice-cracker--512",
+    "canonical": "reg-rice-cracker--2197",
+    "note": "auto: duplicate name「新疆米饼」→ reg-rice-cracker--2197"
   },
   {
-    "alias": "snack-glutinous-rice-ball--22",
-    "canonical": "reg-glutinous-rice-ball--147",
-    "note": "auto: duplicate name「香港糯米糍」→ reg-glutinous-rice-ball--147"
+    "alias": "snack-rice-dumpling-salty--486",
+    "canonical": "reg-rice-dumpling-salty--2106",
+    "note": "auto: duplicate name「宁夏咸肉粽」→ reg-rice-dumpling-salty--2106"
   },
   {
-    "alias": "snack-glutinous-rice-ball--42",
-    "canonical": "reg-glutinous-rice-ball--232",
-    "note": "auto: duplicate name「澳门糯米糍」→ reg-glutinous-rice-ball--232"
+    "alias": "snack-rice-dumpling-salty--506",
+    "canonical": "reg-rice-dumpling-salty--2191",
+    "note": "auto: duplicate name「新疆咸肉粽」→ reg-rice-dumpling-salty--2191"
   },
   {
-    "alias": "snack-glutinous-rice-ball--62",
-    "canonical": "reg-glutinous-rice-ball--317",
-    "note": "auto: duplicate name「广西糯米糍」→ reg-glutinous-rice-ball--317"
+    "alias": "snack-rice-dumpling-sweet--487",
+    "canonical": "reg-rice-dumpling-sweet--2107",
+    "note": "auto: duplicate name「宁夏碱水粽」→ reg-rice-dumpling-sweet--2107"
   },
   {
-    "alias": "snack-glutinous-rice-ball--82",
-    "canonical": "reg-glutinous-rice-ball--402",
-    "note": "auto: duplicate name「福建糯米糍」→ reg-glutinous-rice-ball--402"
+    "alias": "snack-rice-dumpling-sweet--507",
+    "canonical": "reg-rice-dumpling-sweet--2192",
+    "note": "auto: duplicate name「新疆碱水粽」→ reg-rice-dumpling-sweet--2192"
   },
   {
-    "alias": "snack-grass-jelly--115",
-    "canonical": "reg-grass-jelly--500",
-    "note": "auto: duplicate name「海南凉粉」→ reg-grass-jelly--500"
+    "alias": "snack-rice-flour-cake--481",
+    "canonical": "reg-rice-flour-cake--2101",
+    "note": "auto: duplicate name「宁夏米糕」→ reg-rice-flour-cake--2101"
   },
   {
-    "alias": "snack-grass-jelly--15",
-    "canonical": "reg-grass-jelly--75",
-    "note": "auto: duplicate name「广东凉粉」→ reg-grass-jelly--75"
+    "alias": "snack-rice-flour-cake--501",
+    "canonical": "reg-rice-flour-cake--2186",
+    "note": "auto: duplicate name「新疆米糕」→ reg-rice-flour-cake--2186"
   },
   {
-    "alias": "snack-grass-jelly--35",
-    "canonical": "reg-grass-jelly--160",
-    "note": "auto: duplicate name「香港凉粉」→ reg-grass-jelly--160"
+    "alias": "snack-rice-noodle-roll--480",
+    "canonical": "reg-rice-noodle-roll--2100",
+    "note": "auto: duplicate name「宁夏卷粉」→ reg-rice-noodle-roll--2100"
   },
   {
-    "alias": "snack-grass-jelly--55",
-    "canonical": "reg-grass-jelly--245",
-    "note": "auto: duplicate name「澳门凉粉」→ reg-grass-jelly--245"
+    "alias": "snack-rice-noodle-roll--500",
+    "canonical": "reg-rice-noodle-roll--2185",
+    "note": "auto: duplicate name「新疆卷粉」→ reg-rice-noodle-roll--2185"
   },
   {
-    "alias": "snack-grass-jelly--75",
-    "canonical": "reg-grass-jelly--330",
-    "note": "auto: duplicate name「广西凉粉」→ reg-grass-jelly--330"
+    "alias": "snack-scallion-pancake--490",
+    "canonical": "reg-scallion-pancake--2110",
+    "note": "auto: duplicate name「宁夏葱油饼」→ reg-scallion-pancake--2110"
   },
   {
-    "alias": "snack-grass-jelly--95",
-    "canonical": "reg-grass-jelly--415",
-    "note": "auto: duplicate name「福建凉粉」→ reg-grass-jelly--415"
+    "alias": "snack-scallion-pancake--510",
+    "canonical": "reg-scallion-pancake--2195",
+    "note": "auto: duplicate name「新疆葱油饼」→ reg-scallion-pancake--2195"
   },
   {
-    "alias": "snack-mantou--109",
-    "canonical": "reg-mantou--494",
-    "note": "auto: duplicate name「海南馒头」→ reg-mantou--494"
+    "alias": "snack-sesame-ball--483",
+    "canonical": "reg-sesame-ball--2103",
+    "note": "auto: duplicate name「宁夏煎堆」→ reg-sesame-ball--2103"
   },
   {
-    "alias": "snack-mantou--29",
-    "canonical": "reg-mantou--154",
-    "note": "auto: duplicate name「香港馒头」→ reg-mantou--154"
+    "alias": "snack-sesame-ball--503",
+    "canonical": "reg-sesame-ball--2188",
+    "note": "auto: duplicate name「新疆煎堆」→ reg-sesame-ball--2188"
   },
   {
-    "alias": "snack-mantou--49",
-    "canonical": "reg-mantou--239",
-    "note": "auto: duplicate name「澳门馒头」→ reg-mantou--239"
+    "alias": "snack-soy-milk-hot--493",
+    "canonical": "reg-soy-milk-hot--2113",
+    "note": "auto: duplicate name「宁夏热豆浆」→ reg-soy-milk-hot--2113"
   },
   {
-    "alias": "snack-mantou--69",
-    "canonical": "reg-mantou--324",
-    "note": "auto: duplicate name「广西馒头」→ reg-mantou--324"
+    "alias": "snack-soy-milk-hot--513",
+    "canonical": "reg-soy-milk-hot--2198",
+    "note": "auto: duplicate name「新疆热豆浆」→ reg-soy-milk-hot--2198"
   },
   {
-    "alias": "snack-mantou--89",
-    "canonical": "reg-mantou--409",
-    "note": "auto: duplicate name「福建馒头」→ reg-mantou--409"
+    "alias": "snack-steamed-bun--488",
+    "canonical": "reg-steamed-bun--2108",
+    "note": "auto: duplicate name「宁夏包子」→ reg-steamed-bun--2108"
   },
   {
-    "alias": "snack-mantou--9",
-    "canonical": "reg-mantou--69",
-    "note": "auto: duplicate name「广东馒头」→ reg-mantou--69"
+    "alias": "snack-steamed-bun--508",
+    "canonical": "reg-steamed-bun--2193",
+    "note": "auto: duplicate name「新疆包子」→ reg-steamed-bun--2193"
   },
   {
-    "alias": "snack-pineapple-bun--118",
-    "canonical": "reg-pineapple-bun--503",
-    "note": "auto: duplicate name「海南菠萝包」→ reg-pineapple-bun--503"
+    "alias": "snack-sweet-potato-ginger--496",
+    "canonical": "reg-sweet-potato-ginger--2116",
+    "note": "auto: duplicate name「宁夏番薯姜糖水」→ reg-sweet-potato-ginger--2116"
   },
   {
-    "alias": "snack-pineapple-bun--18",
-    "canonical": "reg-pineapple-bun--78",
-    "note": "auto: duplicate name「广东菠萝包」→ reg-pineapple-bun--78"
+    "alias": "snack-sweet-potato-ginger--516",
+    "canonical": "reg-sweet-potato-ginger--2201",
+    "note": "auto: duplicate name「新疆番薯姜糖水」→ reg-sweet-potato-ginger--2201"
   },
   {
-    "alias": "snack-pineapple-bun--38",
-    "canonical": "reg-pineapple-bun--163",
-    "note": "auto: duplicate name「香港菠萝包」→ reg-pineapple-bun--163"
+    "alias": "snack-taro-pudding--485",
+    "canonical": "reg-taro-pudding--2105",
+    "note": "auto: duplicate name「宁夏芋头糕」→ reg-taro-pudding--2105"
   },
   {
-    "alias": "snack-pineapple-bun--58",
-    "canonical": "reg-pineapple-bun--248",
-    "note": "auto: duplicate name「澳门菠萝包」→ reg-pineapple-bun--248"
+    "alias": "snack-taro-pudding--505",
+    "canonical": "reg-taro-pudding--2190",
+    "note": "auto: duplicate name「新疆芋头糕」→ reg-taro-pudding--2190"
   },
   {
-    "alias": "snack-pineapple-bun--78",
-    "canonical": "reg-pineapple-bun--333",
-    "note": "auto: duplicate name「广西菠萝包」→ reg-pineapple-bun--333"
+    "alias": "snack-tofu-pudding--494",
+    "canonical": "reg-tofu-pudding--2114",
+    "note": "auto: duplicate name「宁夏豆腐花」→ reg-tofu-pudding--2114"
   },
   {
-    "alias": "snack-pineapple-bun--98",
-    "canonical": "reg-pineapple-bun--418",
-    "note": "auto: duplicate name「福建菠萝包」→ reg-pineapple-bun--418"
+    "alias": "snack-tofu-pudding--514",
+    "canonical": "reg-tofu-pudding--2199",
+    "note": "auto: duplicate name「新疆豆腐花」→ reg-tofu-pudding--2199"
   },
   {
-    "alias": "snack-rice-cracker--112",
-    "canonical": "reg-rice-cracker--497",
-    "note": "auto: duplicate name「海南米饼」→ reg-rice-cracker--497"
+    "alias": "snack-turnip-pudding--484",
+    "canonical": "reg-turnip-pudding--2104",
+    "note": "auto: duplicate name「宁夏萝卜糕」→ reg-turnip-pudding--2104"
   },
   {
-    "alias": "snack-rice-cracker--12",
-    "canonical": "reg-rice-cracker--72",
-    "note": "auto: duplicate name「广东米饼」→ reg-rice-cracker--72"
+    "alias": "snack-turnip-pudding--504",
+    "canonical": "reg-turnip-pudding--2189",
+    "note": "auto: duplicate name「新疆萝卜糕」→ reg-turnip-pudding--2189"
   },
   {
-    "alias": "snack-rice-cracker--32",
-    "canonical": "reg-rice-cracker--157",
-    "note": "auto: duplicate name「香港米饼」→ reg-rice-cracker--157"
+    "alias": "snack-wife-cake--499",
+    "canonical": "reg-wife-cake--2119",
+    "note": "auto: duplicate name「宁夏老婆饼」→ reg-wife-cake--2119"
   },
   {
-    "alias": "snack-rice-cracker--52",
-    "canonical": "reg-rice-cracker--242",
-    "note": "auto: duplicate name「澳门米饼」→ reg-rice-cracker--242"
-  },
-  {
-    "alias": "snack-rice-cracker--72",
-    "canonical": "reg-rice-cracker--327",
-    "note": "auto: duplicate name「广西米饼」→ reg-rice-cracker--327"
-  },
-  {
-    "alias": "snack-rice-cracker--92",
-    "canonical": "reg-rice-cracker--412",
-    "note": "auto: duplicate name「福建米饼」→ reg-rice-cracker--412"
-  },
-  {
-    "alias": "snack-rice-dumpling-salty--106",
-    "canonical": "reg-rice-dumpling-salty--491",
-    "note": "auto: duplicate name「海南咸肉粽」→ reg-rice-dumpling-salty--491"
-  },
-  {
-    "alias": "snack-rice-dumpling-salty--26",
-    "canonical": "reg-rice-dumpling-salty--151",
-    "note": "auto: duplicate name「香港咸肉粽」→ reg-rice-dumpling-salty--151"
-  },
-  {
-    "alias": "snack-rice-dumpling-salty--46",
-    "canonical": "reg-rice-dumpling-salty--236",
-    "note": "auto: duplicate name「澳门咸肉粽」→ reg-rice-dumpling-salty--236"
-  },
-  {
-    "alias": "snack-rice-dumpling-salty--6",
-    "canonical": "reg-rice-dumpling-salty--66",
-    "note": "auto: duplicate name「广东咸肉粽」→ reg-rice-dumpling-salty--66"
-  },
-  {
-    "alias": "snack-rice-dumpling-salty--66",
-    "canonical": "reg-rice-dumpling-salty--321",
-    "note": "auto: duplicate name「广西咸肉粽」→ reg-rice-dumpling-salty--321"
-  },
-  {
-    "alias": "snack-rice-dumpling-salty--86",
-    "canonical": "reg-rice-dumpling-salty--406",
-    "note": "auto: duplicate name「福建咸肉粽」→ reg-rice-dumpling-salty--406"
-  },
-  {
-    "alias": "snack-rice-dumpling-sweet--107",
-    "canonical": "reg-rice-dumpling-sweet--492",
-    "note": "auto: duplicate name「海南碱水粽」→ reg-rice-dumpling-sweet--492"
-  },
-  {
-    "alias": "snack-rice-dumpling-sweet--27",
-    "canonical": "reg-rice-dumpling-sweet--152",
-    "note": "auto: duplicate name「香港碱水粽」→ reg-rice-dumpling-sweet--152"
-  },
-  {
-    "alias": "snack-rice-dumpling-sweet--47",
-    "canonical": "reg-rice-dumpling-sweet--237",
-    "note": "auto: duplicate name「澳门碱水粽」→ reg-rice-dumpling-sweet--237"
-  },
-  {
-    "alias": "snack-rice-dumpling-sweet--67",
-    "canonical": "reg-rice-dumpling-sweet--322",
-    "note": "auto: duplicate name「广西碱水粽」→ reg-rice-dumpling-sweet--322"
-  },
-  {
-    "alias": "snack-rice-dumpling-sweet--7",
-    "canonical": "reg-rice-dumpling-sweet--67",
-    "note": "auto: duplicate name「广东碱水粽」→ reg-rice-dumpling-sweet--67"
-  },
-  {
-    "alias": "snack-rice-dumpling-sweet--87",
-    "canonical": "reg-rice-dumpling-sweet--407",
-    "note": "auto: duplicate name「福建碱水粽」→ reg-rice-dumpling-sweet--407"
-  },
-  {
-    "alias": "snack-rice-flour-cake--1",
-    "canonical": "reg-rice-flour-cake--61",
-    "note": "auto: duplicate name「广东米糕」→ reg-rice-flour-cake--61"
-  },
-  {
-    "alias": "snack-rice-flour-cake--101",
-    "canonical": "reg-rice-flour-cake--486",
-    "note": "auto: duplicate name「海南米糕」→ reg-rice-flour-cake--486"
-  },
-  {
-    "alias": "snack-rice-flour-cake--21",
-    "canonical": "reg-rice-flour-cake--146",
-    "note": "auto: duplicate name「香港米糕」→ reg-rice-flour-cake--146"
-  },
-  {
-    "alias": "snack-rice-flour-cake--41",
-    "canonical": "reg-rice-flour-cake--231",
-    "note": "auto: duplicate name「澳门米糕」→ reg-rice-flour-cake--231"
-  },
-  {
-    "alias": "snack-rice-flour-cake--61",
-    "canonical": "reg-rice-flour-cake--316",
-    "note": "auto: duplicate name「广西米糕」→ reg-rice-flour-cake--316"
-  },
-  {
-    "alias": "snack-rice-flour-cake--81",
-    "canonical": "reg-rice-flour-cake--401",
-    "note": "auto: duplicate name「福建米糕」→ reg-rice-flour-cake--401"
-  },
-  {
-    "alias": "snack-rice-noodle-roll--0",
-    "canonical": "reg-rice-noodle-roll--60",
-    "note": "auto: duplicate name「广东卷粉」→ reg-rice-noodle-roll--60"
-  },
-  {
-    "alias": "snack-rice-noodle-roll--100",
-    "canonical": "reg-rice-noodle-roll--485",
-    "note": "auto: duplicate name「海南卷粉」→ reg-rice-noodle-roll--485"
-  },
-  {
-    "alias": "snack-rice-noodle-roll--20",
-    "canonical": "reg-rice-noodle-roll--145",
-    "note": "auto: duplicate name「香港卷粉」→ reg-rice-noodle-roll--145"
-  },
-  {
-    "alias": "snack-rice-noodle-roll--40",
-    "canonical": "reg-rice-noodle-roll--230",
-    "note": "auto: duplicate name「澳门卷粉」→ reg-rice-noodle-roll--230"
-  },
-  {
-    "alias": "snack-rice-noodle-roll--60",
-    "canonical": "reg-rice-noodle-roll--315",
-    "note": "auto: duplicate name「广西卷粉」→ reg-rice-noodle-roll--315"
-  },
-  {
-    "alias": "snack-rice-noodle-roll--80",
-    "canonical": "reg-rice-noodle-roll--400",
-    "note": "auto: duplicate name「福建卷粉」→ reg-rice-noodle-roll--400"
-  },
-  {
-    "alias": "snack-scallion-pancake--10",
-    "canonical": "reg-scallion-pancake--70",
-    "note": "auto: duplicate name「广东葱油饼」→ reg-scallion-pancake--70"
-  },
-  {
-    "alias": "snack-scallion-pancake--110",
-    "canonical": "reg-scallion-pancake--495",
-    "note": "auto: duplicate name「海南葱油饼」→ reg-scallion-pancake--495"
-  },
-  {
-    "alias": "snack-scallion-pancake--30",
-    "canonical": "reg-scallion-pancake--155",
-    "note": "auto: duplicate name「香港葱油饼」→ reg-scallion-pancake--155"
-  },
-  {
-    "alias": "snack-scallion-pancake--50",
-    "canonical": "reg-scallion-pancake--240",
-    "note": "auto: duplicate name「澳门葱油饼」→ reg-scallion-pancake--240"
-  },
-  {
-    "alias": "snack-scallion-pancake--70",
-    "canonical": "reg-scallion-pancake--325",
-    "note": "auto: duplicate name「广西葱油饼」→ reg-scallion-pancake--325"
-  },
-  {
-    "alias": "snack-scallion-pancake--90",
-    "canonical": "reg-scallion-pancake--410",
-    "note": "auto: duplicate name「福建葱油饼」→ reg-scallion-pancake--410"
-  },
-  {
-    "alias": "snack-sesame-ball--103",
-    "canonical": "reg-sesame-ball--488",
-    "note": "auto: duplicate name「海南煎堆」→ reg-sesame-ball--488"
-  },
-  {
-    "alias": "snack-sesame-ball--23",
-    "canonical": "reg-sesame-ball--148",
-    "note": "auto: duplicate name「香港煎堆」→ reg-sesame-ball--148"
-  },
-  {
-    "alias": "snack-sesame-ball--3",
-    "canonical": "reg-sesame-ball--63",
-    "note": "auto: duplicate name「广东煎堆」→ reg-sesame-ball--63"
-  },
-  {
-    "alias": "snack-sesame-ball--43",
-    "canonical": "reg-sesame-ball--233",
-    "note": "auto: duplicate name「澳门煎堆」→ reg-sesame-ball--233"
-  },
-  {
-    "alias": "snack-sesame-ball--63",
-    "canonical": "reg-sesame-ball--318",
-    "note": "auto: duplicate name「广西煎堆」→ reg-sesame-ball--318"
-  },
-  {
-    "alias": "snack-sesame-ball--83",
-    "canonical": "reg-sesame-ball--403",
-    "note": "auto: duplicate name「福建煎堆」→ reg-sesame-ball--403"
-  },
-  {
-    "alias": "snack-soy-milk-hot--113",
-    "canonical": "reg-soy-milk-hot--498",
-    "note": "auto: duplicate name「海南热豆浆」→ reg-soy-milk-hot--498"
-  },
-  {
-    "alias": "snack-soy-milk-hot--13",
-    "canonical": "reg-soy-milk-hot--73",
-    "note": "auto: duplicate name「广东热豆浆」→ reg-soy-milk-hot--73"
-  },
-  {
-    "alias": "snack-soy-milk-hot--33",
-    "canonical": "reg-soy-milk-hot--158",
-    "note": "auto: duplicate name「香港热豆浆」→ reg-soy-milk-hot--158"
-  },
-  {
-    "alias": "snack-soy-milk-hot--53",
-    "canonical": "reg-soy-milk-hot--243",
-    "note": "auto: duplicate name「澳门热豆浆」→ reg-soy-milk-hot--243"
-  },
-  {
-    "alias": "snack-soy-milk-hot--73",
-    "canonical": "reg-soy-milk-hot--328",
-    "note": "auto: duplicate name「广西热豆浆」→ reg-soy-milk-hot--328"
-  },
-  {
-    "alias": "snack-soy-milk-hot--93",
-    "canonical": "reg-soy-milk-hot--413",
-    "note": "auto: duplicate name「福建热豆浆」→ reg-soy-milk-hot--413"
-  },
-  {
-    "alias": "snack-steamed-bun--108",
-    "canonical": "reg-steamed-bun--493",
-    "note": "auto: duplicate name「海南包子」→ reg-steamed-bun--493"
-  },
-  {
-    "alias": "snack-steamed-bun--28",
-    "canonical": "reg-steamed-bun--153",
-    "note": "auto: duplicate name「香港包子」→ reg-steamed-bun--153"
-  },
-  {
-    "alias": "snack-steamed-bun--48",
-    "canonical": "reg-steamed-bun--238",
-    "note": "auto: duplicate name「澳门包子」→ reg-steamed-bun--238"
-  },
-  {
-    "alias": "snack-steamed-bun--68",
-    "canonical": "reg-steamed-bun--323",
-    "note": "auto: duplicate name「广西包子」→ reg-steamed-bun--323"
-  },
-  {
-    "alias": "snack-steamed-bun--8",
-    "canonical": "reg-steamed-bun--68",
-    "note": "auto: duplicate name「广东包子」→ reg-steamed-bun--68"
-  },
-  {
-    "alias": "snack-steamed-bun--88",
-    "canonical": "reg-steamed-bun--408",
-    "note": "auto: duplicate name「福建包子」→ reg-steamed-bun--408"
-  },
-  {
-    "alias": "snack-sweet-potato-ginger--116",
-    "canonical": "reg-sweet-potato-ginger--501",
-    "note": "auto: duplicate name「海南番薯姜糖水」→ reg-sweet-potato-ginger--501"
-  },
-  {
-    "alias": "snack-sweet-potato-ginger--16",
-    "canonical": "reg-sweet-potato-ginger--76",
-    "note": "auto: duplicate name「广东番薯姜糖水」→ reg-sweet-potato-ginger--76"
-  },
-  {
-    "alias": "snack-sweet-potato-ginger--36",
-    "canonical": "reg-sweet-potato-ginger--161",
-    "note": "auto: duplicate name「香港番薯姜糖水」→ reg-sweet-potato-ginger--161"
-  },
-  {
-    "alias": "snack-sweet-potato-ginger--56",
-    "canonical": "reg-sweet-potato-ginger--246",
-    "note": "auto: duplicate name「澳门番薯姜糖水」→ reg-sweet-potato-ginger--246"
-  },
-  {
-    "alias": "snack-sweet-potato-ginger--76",
-    "canonical": "reg-sweet-potato-ginger--331",
-    "note": "auto: duplicate name「广西番薯姜糖水」→ reg-sweet-potato-ginger--331"
-  },
-  {
-    "alias": "snack-sweet-potato-ginger--96",
-    "canonical": "reg-sweet-potato-ginger--416",
-    "note": "auto: duplicate name「福建番薯姜糖水」→ reg-sweet-potato-ginger--416"
-  },
-  {
-    "alias": "snack-taro-pudding--105",
-    "canonical": "reg-taro-pudding--490",
-    "note": "auto: duplicate name「海南芋头糕」→ reg-taro-pudding--490"
-  },
-  {
-    "alias": "snack-taro-pudding--25",
-    "canonical": "reg-taro-pudding--150",
-    "note": "auto: duplicate name「香港芋头糕」→ reg-taro-pudding--150"
-  },
-  {
-    "alias": "snack-taro-pudding--45",
-    "canonical": "reg-taro-pudding--235",
-    "note": "auto: duplicate name「澳门芋头糕」→ reg-taro-pudding--235"
-  },
-  {
-    "alias": "snack-taro-pudding--5",
-    "canonical": "reg-taro-pudding--65",
-    "note": "auto: duplicate name「广东芋头糕」→ reg-taro-pudding--65"
-  },
-  {
-    "alias": "snack-taro-pudding--65",
-    "canonical": "reg-taro-pudding--320",
-    "note": "auto: duplicate name「广西芋头糕」→ reg-taro-pudding--320"
-  },
-  {
-    "alias": "snack-taro-pudding--85",
-    "canonical": "reg-taro-pudding--405",
-    "note": "auto: duplicate name「福建芋头糕」→ reg-taro-pudding--405"
-  },
-  {
-    "alias": "snack-tofu-pudding--114",
-    "canonical": "reg-tofu-pudding--499",
-    "note": "auto: duplicate name「海南豆腐花」→ reg-tofu-pudding--499"
-  },
-  {
-    "alias": "snack-tofu-pudding--14",
-    "canonical": "reg-tofu-pudding--74",
-    "note": "auto: duplicate name「广东豆腐花」→ reg-tofu-pudding--74"
-  },
-  {
-    "alias": "snack-tofu-pudding--34",
-    "canonical": "reg-tofu-pudding--159",
-    "note": "auto: duplicate name「香港豆腐花」→ reg-tofu-pudding--159"
-  },
-  {
-    "alias": "snack-tofu-pudding--54",
-    "canonical": "reg-tofu-pudding--244",
-    "note": "auto: duplicate name「澳门豆腐花」→ reg-tofu-pudding--244"
-  },
-  {
-    "alias": "snack-tofu-pudding--74",
-    "canonical": "reg-tofu-pudding--329",
-    "note": "auto: duplicate name「广西豆腐花」→ reg-tofu-pudding--329"
-  },
-  {
-    "alias": "snack-tofu-pudding--94",
-    "canonical": "reg-tofu-pudding--414",
-    "note": "auto: duplicate name「福建豆腐花」→ reg-tofu-pudding--414"
-  },
-  {
-    "alias": "snack-turnip-pudding--104",
-    "canonical": "reg-turnip-pudding--489",
-    "note": "auto: duplicate name「海南萝卜糕」→ reg-turnip-pudding--489"
-  },
-  {
-    "alias": "snack-turnip-pudding--24",
-    "canonical": "reg-turnip-pudding--149",
-    "note": "auto: duplicate name「香港萝卜糕」→ reg-turnip-pudding--149"
-  },
-  {
-    "alias": "snack-turnip-pudding--4",
-    "canonical": "reg-turnip-pudding--64",
-    "note": "auto: duplicate name「广东萝卜糕」→ reg-turnip-pudding--64"
-  },
-  {
-    "alias": "snack-turnip-pudding--44",
-    "canonical": "reg-turnip-pudding--234",
-    "note": "auto: duplicate name「澳门萝卜糕」→ reg-turnip-pudding--234"
-  },
-  {
-    "alias": "snack-turnip-pudding--64",
-    "canonical": "reg-turnip-pudding--319",
-    "note": "auto: duplicate name「广西萝卜糕」→ reg-turnip-pudding--319"
-  },
-  {
-    "alias": "snack-turnip-pudding--84",
-    "canonical": "reg-turnip-pudding--404",
-    "note": "auto: duplicate name「福建萝卜糕」→ reg-turnip-pudding--404"
-  },
-  {
-    "alias": "snack-wife-cake--119",
-    "canonical": "reg-wife-cake--504",
-    "note": "auto: duplicate name「海南老婆饼」→ reg-wife-cake--504"
-  },
-  {
-    "alias": "snack-wife-cake--19",
-    "canonical": "reg-wife-cake--79",
-    "note": "auto: duplicate name「广东老婆饼」→ reg-wife-cake--79"
-  },
-  {
-    "alias": "snack-wife-cake--39",
-    "canonical": "reg-wife-cake--164",
-    "note": "auto: duplicate name「香港老婆饼」→ reg-wife-cake--164"
-  },
-  {
-    "alias": "snack-wife-cake--59",
-    "canonical": "reg-wife-cake--249",
-    "note": "auto: duplicate name「澳门老婆饼」→ reg-wife-cake--249"
-  },
-  {
-    "alias": "snack-wife-cake--79",
-    "canonical": "reg-wife-cake--334",
-    "note": "auto: duplicate name「广西老婆饼」→ reg-wife-cake--334"
-  },
-  {
-    "alias": "snack-wife-cake--99",
-    "canonical": "reg-wife-cake--419",
-    "note": "auto: duplicate name「福建老婆饼」→ reg-wife-cake--419"
+    "alias": "snack-wife-cake--519",
+    "canonical": "reg-wife-cake--2204",
+    "note": "auto: duplicate name「新疆老婆饼」→ reg-wife-cake--2204"
   },
   {
     "alias": "snail",
@@ -5663,6 +5353,16 @@
     "alias": "taro-corm",
     "canonical": "taro",
     "note": "auto: duplicate name「芋头」→ taro"
+  },
+  {
+    "alias": "th-fish-sauce",
+    "canonical": "fish-sauce",
+    "note": "auto: duplicate name「鱼露」→ fish-sauce"
+  },
+  {
+    "alias": "th-lemongrass",
+    "canonical": "lemongrass",
+    "note": "auto: duplicate name「香茅」→ lemongrass"
   },
   {
     "alias": "tianjin-mahua",

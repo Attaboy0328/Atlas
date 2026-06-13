@@ -1,0 +1,30 @@
+[
+  {
+    "term": "塔可",
+    "foodId": "mx-taco"
+  },
+  {
+    "term": "墨西哥卷饼",
+    "foodId": "mx-burrito"
+  },
+  {
+    "term": "牛油果酱",
+    "foodId": "mx-guacamole"
+  },
+  {
+    "term": "巴西烤肉",
+    "foodId": "br-churrasco"
+  },
+  {
+    "term": "阿根廷烤肉",
+    "foodId": "ar-asado"
+  },
+  {
+    "term": "枫糖浆",
+    "foodId": "ca-maple-syrup"
+  },
+  {
+    "term": "凯撒沙拉",
+    "foodId": "us-caesar-salad"
+  }
+]

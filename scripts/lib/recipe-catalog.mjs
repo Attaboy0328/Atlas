@@ -13,7 +13,9 @@ export const RECIPE_JSON_SOURCES = [
   "regional-recipes-batch.json",
   "regional-recipes-batch2.json",
   "regional-recipes-batch3.json",
-  "regional-recipes-batch4.json"
+  "regional-recipes-batch4.json",
+  "regional-recipes-batch5.json",
+  "regional-recipes-batch6.json"
 ];
 
 export function readRecipeJson(name, fallback = []) {

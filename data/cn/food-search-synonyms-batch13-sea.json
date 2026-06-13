@@ -1,0 +1,30 @@
+[
+  {
+    "term": "冬阴功",
+    "foodId": "th-tom-yum"
+  },
+  {
+    "term": "越南河粉",
+    "foodId": "vn-pho"
+  },
+  {
+    "term": "海南鸡饭",
+    "foodId": "sg-hainanese-chicken"
+  },
+  {
+    "term": "叻沙",
+    "foodId": "my-laksa"
+  },
+  {
+    "term": "沙爹",
+    "foodId": "my-satay"
+  },
+  {
+    "term": "芒果糯米饭",
+    "foodId": "th-mango-sticky"
+  },
+  {
+    "term": "印尼炒饭",
+    "foodId": "id-nasi-goreng"
+  }
+]

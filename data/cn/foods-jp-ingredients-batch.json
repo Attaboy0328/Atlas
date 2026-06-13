@@ -1,0 +1,1161 @@
+[
+  {
+    "id": "jp-sake",
+    "name": "日本清酒",
+    "en": "日本清酒",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "清酒",
+      "米酒"
+    ],
+    "pinyin": "jpsake",
+    "initials": "jp-",
+    "searchTerms": [
+      "日本清酒",
+      "清酒",
+      "米酒",
+      "jp-sake"
+    ],
+    "summary": "日本清酒，温胃少量佐餐。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-matcha",
+    "name": "抹茶粉",
+    "en": "抹茶粉",
+    "category": "茶饮",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "抹茶",
+      "碾茶"
+    ],
+    "pinyin": "jpmatcha",
+    "initials": "jp-",
+    "searchTerms": [
+      "抹茶粉",
+      "抹茶",
+      "碾茶",
+      "jp-matcha"
+    ],
+    "summary": "日本抹茶粉，清热提神适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-sushi-rice",
+    "name": "寿司醋饭",
+    "en": "寿司醋饭",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "醋饭",
+      "寿司米"
+    ],
+    "pinyin": "jpsushirice",
+    "initials": "jp-",
+    "searchTerms": [
+      "寿司醋饭",
+      "醋饭",
+      "寿司米",
+      "jp-sushi-rice"
+    ],
+    "summary": "日本寿司醋饭，健脾充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-ramen",
+    "name": "日式拉面",
+    "en": "日式拉面",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "拉面",
+      "豚骨面"
+    ],
+    "pinyin": "jpramen",
+    "initials": "jp-",
+    "searchTerms": [
+      "日式拉面",
+      "拉面",
+      "豚骨面",
+      "jp-ramen"
+    ],
+    "summary": "日本拉面，温胃主食适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-teriyaki",
+    "name": "照烧酱",
+    "en": "照烧酱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "照烧汁",
+      "甜酱油"
+    ],
+    "pinyin": "jpteriyaki",
+    "initials": "jp-",
+    "searchTerms": [
+      "照烧酱",
+      "照烧汁",
+      "甜酱油",
+      "jp-teriyaki"
+    ],
+    "summary": "日本照烧酱，调味增香。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-tempura",
+    "name": "天妇罗",
+    "en": "天妇罗",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "炸虾",
+      "炸蔬菜"
+    ],
+    "pinyin": "jptempura",
+    "initials": "jp-",
+    "searchTerms": [
+      "天妇罗",
+      "炸虾",
+      "炸蔬菜",
+      "jp-tempura"
+    ],
+    "summary": "日本天妇罗，油炸适量控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-wasabi",
+    "name": "山葵",
+    "en": "山葵",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "芥末",
+      "青芥"
+    ],
+    "pinyin": "jpwasabi",
+    "initials": "jp-",
+    "searchTerms": [
+      "山葵",
+      "芥末",
+      "青芥",
+      "jp-wasabi"
+    ],
+    "summary": "日本山葵，辛温开窍少量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-edamame",
+    "name": "枝豆",
+    "en": "枝豆",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "毛豆",
+      "盐水豆"
+    ],
+    "pinyin": "jpedamame",
+    "initials": "jp-",
+    "searchTerms": [
+      "枝豆",
+      "毛豆",
+      "盐水豆",
+      "jp-edamame"
+    ],
+    "summary": "日本枝豆，健脾高蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-tamari",
+    "name": "浓口酱油",
+    "en": "浓口酱油",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "酱油",
+      "日式酱油"
+    ],
+    "pinyin": "jptamari",
+    "initials": "jp-",
+    "searchTerms": [
+      "浓口酱油",
+      "酱油",
+      "日式酱油",
+      "jp-tamari"
+    ],
+    "summary": "日本浓口酱油，调味适量控盐。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-umeboshi",
+    "name": "梅干",
+    "en": "梅干",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "梅干",
+      "酸梅"
+    ],
+    "pinyin": "jpumeboshi",
+    "initials": "jp-",
+    "searchTerms": [
+      "梅干",
+      "酸梅",
+      "jp-umeboshi"
+    ],
+    "summary": "日本梅干，生津开胃少量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-shirataki",
+    "name": "白滝",
+    "en": "白滝",
+    "category": "薯类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "魔芋丝",
+      "白滝"
+    ],
+    "pinyin": "jpshirataki",
+    "initials": "jp-",
+    "searchTerms": [
+      "白滝",
+      "魔芋丝",
+      "jp-shirataki"
+    ],
+    "summary": "日本魔芋丝，低卡饱腹。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-konnyaku",
+    "name": "蒟蒻",
+    "en": "蒟蒻",
+    "category": "薯类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "魔芋",
+      "蒟蒻块"
+    ],
+    "pinyin": "jpkonnyaku",
+    "initials": "jp-",
+    "searchTerms": [
+      "蒟蒻",
+      "魔芋",
+      "蒟蒻块",
+      "jp-konnyaku"
+    ],
+    "summary": "日本蒟蒻，低卡高纤。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-panko",
+    "name": "面包糠",
+    "en": "面包糠",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "日式面包糠"
+    ],
+    "pinyin": "jppanko",
+    "initials": "jp-",
+    "searchTerms": [
+      "面包糠",
+      "日式面包糠",
+      "jp-panko"
+    ],
+    "summary": "日本面包糠，炸物裹粉。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-furikake",
+    "name": "拌饭香松",
+    "en": "拌饭香松",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "香松",
+      "拌饭料"
+    ],
+    "pinyin": "jpfurikake",
+    "initials": "jp-",
+    "searchTerms": [
+      "拌饭香松",
+      "香松",
+      "拌饭料",
+      "jp-furikake"
+    ],
+    "summary": "日本拌饭香松，增香开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-wagyu",
+    "name": "和牛",
+    "en": "和牛",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "和牛",
+      "雪花牛"
+    ],
+    "pinyin": "jpwagyu",
+    "initials": "jp-",
+    "searchTerms": [
+      "和牛",
+      "雪花牛",
+      "jp-wagyu"
+    ],
+    "summary": "日本和牛，温补气血适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-unagi",
+    "name": "蒲烧鳗鱼",
+    "en": "蒲烧鳗鱼",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "鳗鱼",
+      "烤鳗"
+    ],
+    "pinyin": "jpunagi",
+    "initials": "jp-",
+    "searchTerms": [
+      "蒲烧鳗鱼",
+      "鳗鱼",
+      "烤鳗",
+      "jp-unagi"
+    ],
+    "summary": "日本蒲烧鳗鱼，滋阴补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-takoyaki",
+    "name": "章鱼烧",
+    "en": "章鱼烧",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "章鱼小丸子"
+    ],
+    "pinyin": "jptakoyaki",
+    "initials": "jp-",
+    "searchTerms": [
+      "章鱼烧",
+      "章鱼小丸子",
+      "jp-takoyaki"
+    ],
+    "summary": "日本章鱼烧，温胃小食适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-okonomiyaki",
+    "name": "大阪烧",
+    "en": "大阪烧",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "御好烧",
+      "关西烧"
+    ],
+    "pinyin": "jpokonomiyaki",
+    "initials": "jp-",
+    "searchTerms": [
+      "大阪烧",
+      "御好烧",
+      "关西烧",
+      "jp-okonomiyaki"
+    ],
+    "summary": "日本大阪烧，健脾充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-curry-roux",
+    "name": "日式咖喱块",
+    "en": "日式咖喱块",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "咖喱块",
+      "咖喱酱"
+    ],
+    "pinyin": "jpcurryroux",
+    "initials": "jp-",
+    "searchTerms": [
+      "日式咖喱块",
+      "咖喱块",
+      "咖喱酱",
+      "jp-curry-roux"
+    ],
+    "summary": "日本咖喱块，温胃调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-genmaicha",
+    "name": "玄米茶",
+    "en": "玄米茶",
+    "category": "茶饮",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "糙米茶"
+    ],
+    "pinyin": "jpgenmaicha",
+    "initials": "jp-",
+    "searchTerms": [
+      "玄米茶",
+      "糙米茶",
+      "jp-genmaicha"
+    ],
+    "summary": "日本玄米茶，健脾消食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-tonkatsu",
+    "name": "炸猪排",
+    "en": "炸猪排",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "猪排",
+      "炸猪扒"
+    ],
+    "pinyin": "jptonkatsu",
+    "initials": "jp-",
+    "searchTerms": [
+      "炸猪排",
+      "猪排",
+      "炸猪扒",
+      "jp-tonkatsu"
+    ],
+    "summary": "日本炸猪排，温中补虚适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-yakitori",
+    "name": "烤鸡肉串",
+    "en": "烤鸡肉串",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "烧鸟",
+      "烤鸡串"
+    ],
+    "pinyin": "jpyakitori",
+    "initials": "jp-",
+    "searchTerms": [
+      "烤鸡肉串",
+      "烧鸟",
+      "烤鸡串",
+      "jp-yakitori"
+    ],
+    "summary": "日本烤鸡肉串，温中益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-mochi",
+    "name": "麻糬",
+    "en": "麻糬",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "糯米团",
+      "年糕"
+    ],
+    "pinyin": "jpmochi",
+    "initials": "jp-",
+    "searchTerms": [
+      "麻糬",
+      "糯米团",
+      "年糕",
+      "jp-mochi"
+    ],
+    "summary": "日本麻糬，糯米主食适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-somen",
+    "name": "素面",
+    "en": "素面",
+    "category": "主食",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "冷面",
+      "细面"
+    ],
+    "pinyin": "jpsomen",
+    "initials": "jp-",
+    "searchTerms": [
+      "素面",
+      "冷面",
+      "细面",
+      "jp-somen"
+    ],
+    "summary": "日本素面，清热解暑夏季。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-abura-age",
+    "name": "油豆腐",
+    "en": "油豆腐",
+    "category": "豆制品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "炸豆腐",
+      "豆皮"
+    ],
+    "pinyin": "jpaburaage",
+    "initials": "jp-",
+    "searchTerms": [
+      "油豆腐",
+      "炸豆腐",
+      "豆皮",
+      "jp-abura-age"
+    ],
+    "summary": "日本油豆腐，健脾吸汁。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-pickled-ginger",
+    "name": "红姜丝",
+    "en": "红姜丝",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "姜渍",
+      "寿司姜"
+    ],
+    "pinyin": "jppickledginger",
+    "initials": "jp-",
+    "searchTerms": [
+      "红姜丝",
+      "姜渍",
+      "寿司姜",
+      "jp-pickled-ginger"
+    ],
+    "summary": "日本红姜丝，温胃解腻。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-dashi-powder",
+    "name": "日式高汤粉",
+    "en": "日式高汤粉",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "高汤粉",
+      "出汁粉"
+    ],
+    "pinyin": "jpdashipowder",
+    "initials": "jp-",
+    "searchTerms": [
+      "日式高汤粉",
+      "高汤粉",
+      "出汁粉",
+      "jp-dashi-powder"
+    ],
+    "summary": "日本高汤粉，鲜味基底。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-onigiri",
+    "name": "饭团",
+    "en": "饭团",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "御饭团",
+      "三角饭团"
+    ],
+    "pinyin": "jponigiri",
+    "initials": "jp-",
+    "searchTerms": [
+      "饭团",
+      "御饭团",
+      "三角饭团",
+      "jp-onigiri"
+    ],
+    "summary": "日本饭团，便携主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-miso-soup-base",
+    "name": "味噌汤料",
+    "en": "味噌汤料",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "味噌汤包"
+    ],
+    "pinyin": "jpmisosoupbase",
+    "initials": "jp-",
+    "searchTerms": [
+      "味噌汤料",
+      "味噌汤包",
+      "jp-miso-soup-base"
+    ],
+    "summary": "日本味噌汤料，温胃暖胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-sesame-dressing",
+    "name": "芝麻沙拉酱",
+    "en": "芝麻沙拉酱",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "和风酱",
+      "芝麻酱"
+    ],
+    "pinyin": "jpsesamedressing",
+    "initials": "jp-",
+    "searchTerms": [
+      "芝麻沙拉酱",
+      "和风酱",
+      "芝麻酱",
+      "jp-sesame-dressing"
+    ],
+    "summary": "日本芝麻沙拉酱，润燥调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-sashimi-salmon",
+    "name": "三文鱼刺身",
+    "en": "三文鱼刺身",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "刺身",
+      "生鱼片"
+    ],
+    "pinyin": "jpsashimisalmon",
+    "initials": "jp-",
+    "searchTerms": [
+      "三文鱼刺身",
+      "刺身",
+      "生鱼片",
+      "jp-sashimi-salmon"
+    ],
+    "summary": "日本三文鱼刺身，滋阴适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-chawanmushi",
+    "name": "茶碗蒸",
+    "en": "茶碗蒸",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "蒸蛋羹"
+    ],
+    "pinyin": "jpchawanmushi",
+    "initials": "jp-",
+    "searchTerms": [
+      "茶碗蒸",
+      "蒸蛋羹",
+      "jp-chawanmushi"
+    ],
+    "summary": "日本茶碗蒸，滋阴易消化。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-oden",
+    "name": "关东煮",
+    "en": "关东煮",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "御田",
+      "煮物"
+    ],
+    "pinyin": "jpoden",
+    "initials": "jp-",
+    "searchTerms": [
+      "关东煮",
+      "御田",
+      "煮物",
+      "jp-oden"
+    ],
+    "summary": "日本关东煮，温胃暖身冬季。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-sukiyaki",
+    "name": "寿喜烧",
+    "en": "寿喜烧",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "涮牛肉"
+    ],
+    "pinyin": "jpsukiyaki",
+    "initials": "jp-",
+    "searchTerms": [
+      "寿喜烧",
+      "涮牛肉",
+      "jp-sukiyaki"
+    ],
+    "summary": "日本寿喜烧，温补气血适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-tsukemono",
+    "name": "日式渍菜",
+    "en": "日式渍菜",
+    "category": "腌菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "腌萝卜",
+      "渍物"
+    ],
+    "pinyin": "jptsukemono",
+    "initials": "jp-",
+    "searchTerms": [
+      "日式渍菜",
+      "腌萝卜",
+      "渍物",
+      "jp-tsukemono"
+    ],
+    "summary": "日本渍菜，开胃消食适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-soba-fresh",
+    "name": "日式荞麦凉面",
+    "en": "日式荞麦凉面",
+    "category": "主食",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "冷荞麦面"
+    ],
+    "pinyin": "jpsobafresh",
+    "initials": "jp-",
+    "searchTerms": [
+      "日式荞麦凉面",
+      "冷荞麦面",
+      "jp-soba-fresh"
+    ],
+    "summary": "日本荞麦凉面，清热健脾夏季。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-katsu-sauce",
+    "name": "炸猪排酱",
+    "en": "炸猪排酱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "猪排酱",
+      "中浓酱"
+    ],
+    "pinyin": "jpkatsusauce",
+    "initials": "jp-",
+    "searchTerms": [
+      "炸猪排酱",
+      "猪排酱",
+      "中浓酱",
+      "jp-katsu-sauce"
+    ],
+    "summary": "日本炸猪排酱，酸甜调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "jp-yuzu-kosho",
+    "name": "柚子胡椒",
+    "en": "柚子胡椒",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "柚子胡椒酱"
+    ],
+    "pinyin": "jpyuzukosho",
+    "initials": "jp-",
+    "searchTerms": [
+      "柚子胡椒",
+      "柚子胡椒酱",
+      "jp-yuzu-kosho"
+    ],
+    "summary": "日本柚子胡椒，辛温开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

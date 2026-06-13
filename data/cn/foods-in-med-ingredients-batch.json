@@ -1,0 +1,1308 @@
+[
+  {
+    "id": "in-dal",
+    "name": "印度豆糊",
+    "en": "印度豆糊",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "Dal",
+      "扁豆糊"
+    ],
+    "pinyin": "indal",
+    "initials": "in-",
+    "searchTerms": [
+      "印度豆糊",
+      "Dal",
+      "扁豆糊",
+      "in-dal"
+    ],
+    "summary": "印度豆糊，健脾高蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "in-naan",
+    "name": "印度烤饼",
+    "en": "印度烤饼",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "馕",
+      "烤饼"
+    ],
+    "pinyin": "innaan",
+    "initials": "in-",
+    "searchTerms": [
+      "印度烤饼",
+      "馕",
+      "烤饼",
+      "in-naan"
+    ],
+    "summary": "印度烤饼，温胃主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "in-biryani",
+    "name": "印度香饭",
+    "en": "印度香饭",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "香料饭",
+      "Biryani"
+    ],
+    "pinyin": "inbiryani",
+    "initials": "in-",
+    "searchTerms": [
+      "印度香饭",
+      "香料饭",
+      "Biryani",
+      "in-biryani"
+    ],
+    "summary": "印度香饭，温中充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "in-tandoori",
+    "name": "坦都里烤鸡",
+    "en": "坦都里烤鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "烤鸡",
+      "Tandoori"
+    ],
+    "pinyin": "intandoori",
+    "initials": "in-",
+    "searchTerms": [
+      "坦都里烤鸡",
+      "烤鸡",
+      "Tandoori",
+      "in-tandoori"
+    ],
+    "summary": "印度坦都里烤鸡，温中益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "in-paneer",
+    "name": "印度奶酪",
+    "en": "印度奶酪",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "奶豆腐",
+      "Paneer"
+    ],
+    "pinyin": "inpaneer",
+    "initials": "in-",
+    "searchTerms": [
+      "印度奶酪",
+      "奶豆腐",
+      "Paneer",
+      "in-paneer"
+    ],
+    "summary": "印度奶酪，滋阴高蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "in-ghee",
+    "name": "印度酥油",
+    "en": "印度酥油",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "澄清黄油",
+      "Ghee"
+    ],
+    "pinyin": "inghee",
+    "initials": "in-",
+    "searchTerms": [
+      "印度酥油",
+      "澄清黄油",
+      "Ghee",
+      "in-ghee"
+    ],
+    "summary": "印度酥油，温中润燥适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "in-curry-powder",
+    "name": "印度咖喱粉",
+    "en": "印度咖喱粉",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "马萨拉",
+      "香料粉"
+    ],
+    "pinyin": "incurrypowder",
+    "initials": "in-",
+    "searchTerms": [
+      "印度咖喱粉",
+      "马萨拉",
+      "香料粉",
+      "in-curry-powder"
+    ],
+    "summary": "印度咖喱粉，温香调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "in-samosa",
+    "name": "印度咖喱角",
+    "en": "印度咖喱角",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "三角饺",
+      "Samosa"
+    ],
+    "pinyin": "insamosa",
+    "initials": "in-",
+    "searchTerms": [
+      "印度咖喱角",
+      "三角饺",
+      "Samosa",
+      "in-samosa"
+    ],
+    "summary": "印度咖喱角，温胃小食油炸控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "in-chapati",
+    "name": "恰巴提",
+    "en": "恰巴提",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "全麦薄饼"
+    ],
+    "pinyin": "inchapati",
+    "initials": "in-",
+    "searchTerms": [
+      "恰巴提",
+      "全麦薄饼",
+      "in-chapati"
+    ],
+    "summary": "印度恰巴提，健脾粗粮主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "in-lassi",
+    "name": "印度酸奶饮",
+    "en": "印度酸奶饮",
+    "category": "饮品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "酸奶昔",
+      "Lassi"
+    ],
+    "pinyin": "inlassi",
+    "initials": "in-",
+    "searchTerms": [
+      "印度酸奶饮",
+      "酸奶昔",
+      "Lassi",
+      "in-lassi"
+    ],
+    "summary": "印度酸奶饮，健脾润肠。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "in-chutney",
+    "name": "印度酸辣酱",
+    "en": "印度酸辣酱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "芒果酱",
+      "Chutney"
+    ],
+    "pinyin": "inchutney",
+    "initials": "in-",
+    "searchTerms": [
+      "印度酸辣酱",
+      "芒果酱",
+      "Chutney",
+      "in-chutney"
+    ],
+    "summary": "印度酸辣酱，开胃调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "in-turmeric-milk",
+    "name": "黄金奶",
+    "en": "黄金奶",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "姜黄奶"
+    ],
+    "pinyin": "inturmericmilk",
+    "initials": "in-",
+    "searchTerms": [
+      "黄金奶",
+      "姜黄奶",
+      "in-turmeric-milk"
+    ],
+    "summary": "印度黄金奶，温胃抗炎适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "it-risotto",
+    "name": "意大利烩饭",
+    "en": "意大利烩饭",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "aliases": [
+      "Risotto",
+      "奶油饭"
+    ],
+    "pinyin": "itrisotto",
+    "initials": "it-",
+    "searchTerms": [
+      "意大利烩饭",
+      "Risotto",
+      "奶油饭",
+      "it-risotto"
+    ],
+    "summary": "意大利烩饭，健脾充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "it-bruschetta",
+    "name": "意式烤面包",
+    "en": "意式烤面包",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "aliases": [
+      "Bruschetta"
+    ],
+    "pinyin": "itbruschetta",
+    "initials": "it-",
+    "searchTerms": [
+      "意式烤面包",
+      "Bruschetta",
+      "it-bruschetta"
+    ],
+    "summary": "意大利烤面包，健脾开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "it-pesto",
+    "name": "青酱",
+    "en": "青酱",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "aliases": [
+      "罗勒酱",
+      "Pesto"
+    ],
+    "pinyin": "itpesto",
+    "initials": "it-",
+    "searchTerms": [
+      "青酱",
+      "罗勒酱",
+      "Pesto",
+      "it-pesto"
+    ],
+    "summary": "意大利青酱，理气调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "it-prosciutto",
+    "name": "意大利火腿",
+    "en": "意大利火腿",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "aliases": [
+      "风干火腿"
+    ],
+    "pinyin": "itprosciutto",
+    "initials": "it-",
+    "searchTerms": [
+      "意大利火腿",
+      "风干火腿",
+      "it-prosciutto"
+    ],
+    "summary": "意大利火腿，温补适量高盐控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "it-bolognese",
+    "name": "肉酱面",
+    "en": "肉酱面",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "aliases": [
+      "番茄肉酱意面"
+    ],
+    "pinyin": "itbolognese",
+    "initials": "it-",
+    "searchTerms": [
+      "肉酱面",
+      "番茄肉酱意面",
+      "it-bolognese"
+    ],
+    "summary": "意大利肉酱面，温胃主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "it-tiramisu",
+    "name": "提拉米苏",
+    "en": "提拉米苏",
+    "category": "发酵食品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "aliases": [
+      "咖啡甜点"
+    ],
+    "pinyin": "ittiramisu",
+    "initials": "it-",
+    "searchTerms": [
+      "提拉米苏",
+      "咖啡甜点",
+      "it-tiramisu"
+    ],
+    "summary": "意大利提拉米苏，甜点适量控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "it-caprese",
+    "name": "卡普雷塞沙拉",
+    "en": "卡普雷塞沙拉",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "aliases": [
+      "番茄芝士沙拉"
+    ],
+    "pinyin": "itcaprese",
+    "initials": "it-",
+    "searchTerms": [
+      "卡普雷塞沙拉",
+      "番茄芝士沙拉",
+      "it-caprese"
+    ],
+    "summary": "意大利卡普雷塞，清热开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "it-minestrone",
+    "name": "意式蔬菜汤",
+    "en": "意式蔬菜汤",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "aliases": [
+      "杂菜汤"
+    ],
+    "pinyin": "itminestrone",
+    "initials": "it-",
+    "searchTerms": [
+      "意式蔬菜汤",
+      "杂菜汤",
+      "it-minestrone"
+    ],
+    "summary": "意大利蔬菜汤，健脾润燥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "fr-baguette",
+    "name": "法棍",
+    "en": "法棍",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "FR"
+    ],
+    "provinces": [
+      "法国"
+    ],
+    "aliases": [
+      "长棍面包"
+    ],
+    "pinyin": "frbaguette",
+    "initials": "fr-",
+    "searchTerms": [
+      "法棍",
+      "长棍面包",
+      "fr-baguette"
+    ],
+    "summary": "法国法棍，健脾主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "fr-ratatouille",
+    "name": "普罗旺斯炖菜",
+    "en": "普罗旺斯炖菜",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "FR"
+    ],
+    "provinces": [
+      "法国"
+    ],
+    "aliases": [
+      "杂蔬炖"
+    ],
+    "pinyin": "frratatouille",
+    "initials": "fr-",
+    "searchTerms": [
+      "普罗旺斯炖菜",
+      "杂蔬炖",
+      "fr-ratatouille"
+    ],
+    "summary": "法国普罗旺斯炖菜，健脾润燥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "fr-onion-soup",
+    "name": "法式洋葱汤",
+    "en": "法式洋葱汤",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "FR"
+    ],
+    "provinces": [
+      "法国"
+    ],
+    "aliases": [
+      "洋葱汤"
+    ],
+    "pinyin": "fronionsoup",
+    "initials": "fr-",
+    "searchTerms": [
+      "法式洋葱汤",
+      "洋葱汤",
+      "fr-onion-soup"
+    ],
+    "summary": "法国洋葱汤，温胃散寒冬季。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "fr-crepe",
+    "name": "可丽饼",
+    "en": "可丽饼",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "FR"
+    ],
+    "provinces": [
+      "法国"
+    ],
+    "aliases": [
+      "薄饼",
+      "Crêpe"
+    ],
+    "pinyin": "frcrepe",
+    "initials": "fr-",
+    "searchTerms": [
+      "可丽饼",
+      "薄饼",
+      "Crêpe",
+      "fr-crepe"
+    ],
+    "summary": "法国可丽饼，健脾主食控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "fr-coq-au-vin",
+    "name": "红酒炖鸡",
+    "en": "红酒炖鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "FR"
+    ],
+    "provinces": [
+      "法国"
+    ],
+    "aliases": [
+      "红酒鸡"
+    ],
+    "pinyin": "frcoqauvin",
+    "initials": "fr-",
+    "searchTerms": [
+      "红酒炖鸡",
+      "红酒鸡",
+      "fr-coq-au-vin"
+    ],
+    "summary": "法国红酒炖鸡，温中益气适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gr-tzatziki",
+    "name": "希腊酸奶黄瓜酱",
+    "en": "希腊酸奶黄瓜酱",
+    "category": "发酵食品",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "GR"
+    ],
+    "provinces": [
+      "希腊"
+    ],
+    "aliases": [
+      "Tzatziki"
+    ],
+    "pinyin": "grtzatziki",
+    "initials": "gr-",
+    "searchTerms": [
+      "希腊酸奶黄瓜酱",
+      "Tzatziki",
+      "gr-tzatziki"
+    ],
+    "summary": "希腊酸奶黄瓜酱，清热开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gr-souvlaki",
+    "name": "希腊烤肉串",
+    "en": "希腊烤肉串",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "GR"
+    ],
+    "provinces": [
+      "希腊"
+    ],
+    "aliases": [
+      "烤肉串"
+    ],
+    "pinyin": "grsouvlaki",
+    "initials": "gr-",
+    "searchTerms": [
+      "希腊烤肉串",
+      "烤肉串",
+      "gr-souvlaki"
+    ],
+    "summary": "希腊烤肉串，温中益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gr-greek-salad",
+    "name": "希腊沙拉",
+    "en": "希腊沙拉",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "GR"
+    ],
+    "provinces": [
+      "希腊"
+    ],
+    "aliases": [
+      "羊奶酪沙拉"
+    ],
+    "pinyin": "grgreeksalad",
+    "initials": "gr-",
+    "searchTerms": [
+      "希腊沙拉",
+      "羊奶酪沙拉",
+      "gr-greek-salad"
+    ],
+    "summary": "希腊沙拉，清热开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gr-moussaka",
+    "name": "慕萨卡",
+    "en": "慕萨卡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "GR"
+    ],
+    "provinces": [
+      "希腊"
+    ],
+    "aliases": [
+      "茄子千层"
+    ],
+    "pinyin": "grmoussaka",
+    "initials": "gr-",
+    "searchTerms": [
+      "慕萨卡",
+      "茄子千层",
+      "gr-moussaka"
+    ],
+    "summary": "希腊慕萨卡，温胃主食适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "gr-feta",
+    "name": "羊奶酪",
+    "en": "羊奶酪",
+    "category": "肉蛋奶",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "GR"
+    ],
+    "provinces": [
+      "希腊"
+    ],
+    "aliases": [
+      "Feta",
+      "羊乳酪"
+    ],
+    "pinyin": "grfeta",
+    "initials": "gr-",
+    "searchTerms": [
+      "羊奶酪",
+      "Feta",
+      "羊乳酪",
+      "gr-feta"
+    ],
+    "summary": "希腊羊奶酪，滋阴适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "tr-kebab",
+    "name": "土耳其烤肉",
+    "en": "土耳其烤肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "TR"
+    ],
+    "provinces": [
+      "土耳其"
+    ],
+    "aliases": [
+      "Kebab",
+      "烤肉卷"
+    ],
+    "pinyin": "trkebab",
+    "initials": "tr-",
+    "searchTerms": [
+      "土耳其烤肉",
+      "Kebab",
+      "烤肉卷",
+      "tr-kebab"
+    ],
+    "summary": "土耳其烤肉，温补气血适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "tr-baklava",
+    "name": "果仁蜜饼",
+    "en": "果仁蜜饼",
+    "category": "坚果种子",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "TR"
+    ],
+    "provinces": [
+      "土耳其"
+    ],
+    "aliases": [
+      "Baklava"
+    ],
+    "pinyin": "trbaklava",
+    "initials": "tr-",
+    "searchTerms": [
+      "果仁蜜饼",
+      "Baklava",
+      "tr-baklava"
+    ],
+    "summary": "土耳其果仁蜜饼，甜点控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "tr-hummus-tr",
+    "name": "土耳其鹰嘴豆泥",
+    "en": "土耳其鹰嘴豆泥",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "TR"
+    ],
+    "provinces": [
+      "土耳其"
+    ],
+    "aliases": [
+      "豆泥"
+    ],
+    "pinyin": "trhummustr",
+    "initials": "tr-",
+    "searchTerms": [
+      "土耳其鹰嘴豆泥",
+      "豆泥",
+      "tr-hummus-tr"
+    ],
+    "summary": "土耳其鹰嘴豆泥，健脾高蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "tr-pide",
+    "name": "土耳其披萨",
+    "en": "土耳其披萨",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "TR"
+    ],
+    "provinces": [
+      "土耳其"
+    ],
+    "aliases": [
+      "船形饼"
+    ],
+    "pinyin": "trpide",
+    "initials": "tr-",
+    "searchTerms": [
+      "土耳其披萨",
+      "船形饼",
+      "tr-pide"
+    ],
+    "summary": "土耳其披萨，温胃主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "tr-ayran",
+    "name": "土耳其酸奶饮",
+    "en": "土耳其酸奶饮",
+    "category": "饮品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "TR"
+    ],
+    "provinces": [
+      "土耳其"
+    ],
+    "aliases": [
+      "咸酸奶"
+    ],
+    "pinyin": "trayran",
+    "initials": "tr-",
+    "searchTerms": [
+      "土耳其酸奶饮",
+      "咸酸奶",
+      "tr-ayran"
+    ],
+    "summary": "土耳其酸奶饮，健脾解暑。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sa-kabsa",
+    "name": "卡布萨饭",
+    "en": "卡布萨饭",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "SA"
+    ],
+    "provinces": [
+      "沙特阿拉伯"
+    ],
+    "aliases": [
+      "香料饭"
+    ],
+    "pinyin": "sakabsa",
+    "initials": "sa-",
+    "searchTerms": [
+      "卡布萨饭",
+      "香料饭",
+      "sa-kabsa"
+    ],
+    "summary": "沙特卡布萨饭，温中主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sa-falafel",
+    "name": "法拉费",
+    "en": "法拉费",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "SA"
+    ],
+    "provinces": [
+      "沙特阿拉伯"
+    ],
+    "aliases": [
+      "炸豆丸"
+    ],
+    "pinyin": "safalafel",
+    "initials": "sa-",
+    "searchTerms": [
+      "法拉费",
+      "炸豆丸",
+      "sa-falafel"
+    ],
+    "summary": "中东法拉费，健脾素食油炸控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sa-shawarma",
+    "name": "沙威玛",
+    "en": "沙威玛",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "SA"
+    ],
+    "provinces": [
+      "沙特阿拉伯"
+    ],
+    "aliases": [
+      "烤肉卷"
+    ],
+    "pinyin": "sashawarma",
+    "initials": "sa-",
+    "searchTerms": [
+      "沙威玛",
+      "烤肉卷",
+      "sa-shawarma"
+    ],
+    "summary": "中东沙威玛，温补适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sa-tahini",
+    "name": "芝麻酱中东版",
+    "en": "芝麻酱中东版",
+    "category": "坚果种子",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "SA"
+    ],
+    "provinces": [
+      "沙特阿拉伯"
+    ],
+    "aliases": [
+      "Tahini"
+    ],
+    "pinyin": "satahini",
+    "initials": "sa-",
+    "searchTerms": [
+      "芝麻酱中东版",
+      "Tahini",
+      "sa-tahini"
+    ],
+    "summary": "中东芝麻酱，润燥调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sa-hummus",
+    "name": "鹰嘴豆泥",
+    "en": "鹰嘴豆泥",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "SA"
+    ],
+    "provinces": [
+      "沙特阿拉伯"
+    ],
+    "aliases": [
+      "Hummus"
+    ],
+    "pinyin": "sahummus",
+    "initials": "sa-",
+    "searchTerms": [
+      "鹰嘴豆泥",
+      "Hummus",
+      "sa-hummus"
+    ],
+    "summary": "中东鹰嘴豆泥，健脾高蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "il-shakshuka",
+    "name": "北非蛋",
+    "en": "北非蛋",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "IL"
+    ],
+    "provinces": [
+      "以色列"
+    ],
+    "aliases": [
+      "番茄炖蛋"
+    ],
+    "pinyin": "ilshakshuka",
+    "initials": "il-",
+    "searchTerms": [
+      "北非蛋",
+      "番茄炖蛋",
+      "il-shakshuka"
+    ],
+    "summary": "以色列北非蛋，温胃早餐。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "il-falafel-il",
+    "name": "以色列法拉费",
+    "en": "以色列法拉费",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IL"
+    ],
+    "provinces": [
+      "以色列"
+    ],
+    "aliases": [
+      "炸豆饼"
+    ],
+    "pinyin": "ilfalafelil",
+    "initials": "il-",
+    "searchTerms": [
+      "以色列法拉费",
+      "炸豆饼",
+      "il-falafel-il"
+    ],
+    "summary": "以色列法拉费，健脾素食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "eg-koshari",
+    "name": "埃及杂饭",
+    "en": "埃及杂饭",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "EG"
+    ],
+    "provinces": [
+      "埃及"
+    ],
+    "aliases": [
+      "扁豆米饭"
+    ],
+    "pinyin": "egkoshari",
+    "initials": "eg-",
+    "searchTerms": [
+      "埃及杂饭",
+      "扁豆米饭",
+      "eg-koshari"
+    ],
+    "summary": "埃及杂饭，健脾充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "eg-ful-medames",
+    "name": "埃及蚕豆",
+    "en": "埃及蚕豆",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "EG"
+    ],
+    "provinces": [
+      "埃及"
+    ],
+    "aliases": [
+      "炖蚕豆"
+    ],
+    "pinyin": "egfulmedames",
+    "initials": "eg-",
+    "searchTerms": [
+      "埃及蚕豆",
+      "炖蚕豆",
+      "eg-ful-medames"
+    ],
+    "summary": "埃及炖蚕豆，健脾高蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

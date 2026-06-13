@@ -1,0 +1,1017 @@
+[
+  {
+    "id": "c23-jp-miso-soup",
+    "name": "味噌汤",
+    "en": "味噌汤",
+    "category": "豆制品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "味噌汁"
+    ],
+    "pinyin": "c23jpmisosoup",
+    "initials": "c23",
+    "searchTerms": [
+      "味噌汤",
+      "味噌汁",
+      "c23-jp-miso-soup"
+    ],
+    "summary": "日式味噌汤，温胃暖胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-kr-kimchi-stew",
+    "name": "韩式泡菜汤",
+    "en": "韩式泡菜汤",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "泡菜汤"
+    ],
+    "pinyin": "c23krkimchistew",
+    "initials": "c23",
+    "searchTerms": [
+      "韩式泡菜汤",
+      "泡菜汤",
+      "c23-kr-kimchi-stew"
+    ],
+    "summary": "韩式泡菜汤，温胃开胃适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-th-coconut-curry",
+    "name": "椰奶咖喱",
+    "en": "椰奶咖喱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "椰浆咖喱"
+    ],
+    "pinyin": "c23thcoconutcurry",
+    "initials": "c23",
+    "searchTerms": [
+      "椰奶咖喱",
+      "椰浆咖喱",
+      "c23-th-coconut-curry"
+    ],
+    "summary": "泰式椰奶咖喱，温香调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-vn-pho-lite",
+    "name": "清炖河粉",
+    "en": "清炖河粉",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "VN"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "aliases": [
+      "牛肉河粉"
+    ],
+    "pinyin": "c23vnpholite",
+    "initials": "c23",
+    "searchTerms": [
+      "清炖河粉",
+      "牛肉河粉",
+      "c23-vn-pho-lite"
+    ],
+    "summary": "越南清炖河粉，温胃易消化。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-in-dal-rice",
+    "name": "豆糊配饭",
+    "en": "豆糊配饭",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "Dal米饭"
+    ],
+    "pinyin": "c23indalrice",
+    "initials": "c23",
+    "searchTerms": [
+      "豆糊配饭",
+      "Dal米饭",
+      "c23-in-dal-rice"
+    ],
+    "summary": "印度豆糊配饭，健脾素食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-it-pasta-marinara",
+    "name": "番茄意面",
+    "en": "番茄意面",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "aliases": [
+      "Marinara"
+    ],
+    "pinyin": "c23itpastamarinara",
+    "initials": "c23",
+    "searchTerms": [
+      "番茄意面",
+      "Marinara",
+      "c23-it-pasta-marinara"
+    ],
+    "summary": "意大利番茄意面，健脾主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-fr-quiche",
+    "name": "法式咸派",
+    "en": "法式咸派",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "FR"
+    ],
+    "provinces": [
+      "法国"
+    ],
+    "aliases": [
+      "Quiche"
+    ],
+    "pinyin": "c23frquiche",
+    "initials": "c23",
+    "searchTerms": [
+      "法式咸派",
+      "Quiche",
+      "c23-fr-quiche"
+    ],
+    "summary": "法式咸派，健脾早餐适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-gr-yogurt-honey",
+    "name": "希腊酸奶蜂蜜",
+    "en": "希腊酸奶蜂蜜",
+    "category": "发酵食品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "GR"
+    ],
+    "provinces": [
+      "希腊"
+    ],
+    "aliases": [
+      "酸奶碗"
+    ],
+    "pinyin": "c23gryogurthoney",
+    "initials": "c23",
+    "searchTerms": [
+      "希腊酸奶蜂蜜",
+      "酸奶碗",
+      "c23-gr-yogurt-honey"
+    ],
+    "summary": "希腊酸奶蜂蜜，滋阴润肠。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-tr-lentil-soup",
+    "name": "土耳其扁豆汤",
+    "en": "土耳其扁豆汤",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "TR"
+    ],
+    "provinces": [
+      "土耳其"
+    ],
+    "aliases": [
+      "扁豆汤"
+    ],
+    "pinyin": "c23trlentilsoup",
+    "initials": "c23",
+    "searchTerms": [
+      "土耳其扁豆汤",
+      "扁豆汤",
+      "c23-tr-lentil-soup"
+    ],
+    "summary": "土耳其扁豆汤，健脾高蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-mx-bean-soup",
+    "name": "墨西哥豆汤",
+    "en": "墨西哥豆汤",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "MX"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "aliases": [
+      "黑豆汤"
+    ],
+    "pinyin": "c23mxbeansoup",
+    "initials": "c23",
+    "searchTerms": [
+      "墨西哥豆汤",
+      "黑豆汤",
+      "c23-mx-bean-soup"
+    ],
+    "summary": "墨西哥豆汤，健脾充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-us-oatmeal",
+    "name": "美式燕麦粥",
+    "en": "美式燕麦粥",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "US"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "aliases": [
+      "Oatmeal"
+    ],
+    "pinyin": "c23usoatmeal",
+    "initials": "c23",
+    "searchTerms": [
+      "美式燕麦粥",
+      "Oatmeal",
+      "c23-us-oatmeal"
+    ],
+    "summary": "美式燕麦粥，健脾早餐。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-br-black-bean",
+    "name": "巴西黑豆",
+    "en": "巴西黑豆",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "BR"
+    ],
+    "provinces": [
+      "巴西"
+    ],
+    "aliases": [
+      "黑豆"
+    ],
+    "pinyin": "c23brblackbean",
+    "initials": "c23",
+    "searchTerms": [
+      "巴西黑豆",
+      "黑豆",
+      "c23-br-black-bean"
+    ],
+    "summary": "巴西黑豆，健脾高蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-sg-chicken-rice",
+    "name": "新加坡鸡饭",
+    "en": "新加坡鸡饭",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "SG"
+    ],
+    "provinces": [
+      "新加坡"
+    ],
+    "aliases": [
+      "鸡饭"
+    ],
+    "pinyin": "c23sgchickenrice",
+    "initials": "c23",
+    "searchTerms": [
+      "新加坡鸡饭",
+      "鸡饭",
+      "c23-sg-chicken-rice"
+    ],
+    "summary": "新加坡鸡饭，健脾益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-my-coconut-rice",
+    "name": "马来椰饭",
+    "en": "马来椰饭",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "MY"
+    ],
+    "provinces": [
+      "马来西亚"
+    ],
+    "aliases": [
+      "椰浆饭"
+    ],
+    "pinyin": "c23mycoconutrice",
+    "initials": "c23",
+    "searchTerms": [
+      "马来椰饭",
+      "椰浆饭",
+      "c23-my-coconut-rice"
+    ],
+    "summary": "马来椰浆饭，健脾主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-id-peanut-sauce",
+    "name": "印尼花生酱",
+    "en": "印尼花生酱",
+    "category": "坚果种子",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "ID"
+    ],
+    "provinces": [
+      "印度尼西亚"
+    ],
+    "aliases": [
+      "沙爹酱"
+    ],
+    "pinyin": "c23idpeanutsauce",
+    "initials": "c23",
+    "searchTerms": [
+      "印尼花生酱",
+      "沙爹酱",
+      "c23-id-peanut-sauce"
+    ],
+    "summary": "印尼花生酱，润燥调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-ph-vinegar-adobo",
+    "name": "醋焖鸡",
+    "en": "醋焖鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "PH"
+    ],
+    "provinces": [
+      "菲律宾"
+    ],
+    "aliases": [
+      "Adobo鸡"
+    ],
+    "pinyin": "c23phvinegaradobo",
+    "initials": "c23",
+    "searchTerms": [
+      "醋焖鸡",
+      "Adobo鸡",
+      "c23-ph-vinegar-adobo"
+    ],
+    "summary": "菲律宾醋焖鸡，温中开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-jp-salmon-don",
+    "name": "三文鱼盖饭",
+    "en": "三文鱼盖饭",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "鲑鱼丼"
+    ],
+    "pinyin": "c23jpsalmondon",
+    "initials": "c23",
+    "searchTerms": [
+      "三文鱼盖饭",
+      "鲑鱼丼",
+      "c23-jp-salmon-don"
+    ],
+    "summary": "日式三文鱼盖饭，滋阴主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-kr-seaweed-soup",
+    "name": "韩式海带汤",
+    "en": "韩式海带汤",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "海带汤"
+    ],
+    "pinyin": "c23krseaweedsoup",
+    "initials": "c23",
+    "searchTerms": [
+      "韩式海带汤",
+      "海带汤",
+      "c23-kr-seaweed-soup"
+    ],
+    "summary": "韩式海带汤，清热软坚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-th-basil-fried-rice",
+    "name": "罗勒炒饭",
+    "en": "罗勒炒饭",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "打抛炒饭"
+    ],
+    "pinyin": "c23thbasilfriedrice",
+    "initials": "c23",
+    "searchTerms": [
+      "罗勒炒饭",
+      "打抛炒饭",
+      "c23-th-basil-fried-rice"
+    ],
+    "summary": "泰式罗勒炒饭，温胃主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-in-yogurt-curry",
+    "name": "酸奶咖喱",
+    "en": "酸奶咖喱",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "酸奶咖喱酱"
+    ],
+    "pinyin": "c23inyogurtcurry",
+    "initials": "c23",
+    "searchTerms": [
+      "酸奶咖喱",
+      "酸奶咖喱酱",
+      "c23-in-yogurt-curry"
+    ],
+    "summary": "印度酸奶咖喱，健脾调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-it-olive-tapenade",
+    "name": "橄榄酱",
+    "en": "橄榄酱",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "aliases": [
+      "Tapenade"
+    ],
+    "pinyin": "c23itolivetapenade",
+    "initials": "c23",
+    "searchTerms": [
+      "橄榄酱",
+      "Tapenade",
+      "c23-it-olive-tapenade"
+    ],
+    "summary": "意大利橄榄酱，开胃调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-sa-tabouleh",
+    "name": "塔博勒沙拉",
+    "en": "塔博勒沙拉",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "SA"
+    ],
+    "provinces": [
+      "沙特阿拉伯"
+    ],
+    "aliases": [
+      "Tabbouleh"
+    ],
+    "pinyin": "c23satabouleh",
+    "initials": "c23",
+    "searchTerms": [
+      "塔博勒沙拉",
+      "Tabbouleh",
+      "c23-sa-tabouleh"
+    ],
+    "summary": "中东塔博勒沙拉，清热开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-eg-lentil-stew",
+    "name": "埃及扁豆炖",
+    "en": "埃及扁豆炖",
+    "category": "豆类",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "EG"
+    ],
+    "provinces": [
+      "埃及"
+    ],
+    "aliases": [
+      "炖扁豆"
+    ],
+    "pinyin": "c23eglentilstew",
+    "initials": "c23",
+    "searchTerms": [
+      "埃及扁豆炖",
+      "炖扁豆",
+      "c23-eg-lentil-stew"
+    ],
+    "summary": "埃及扁豆炖，健脾充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-ca-peameal-bacon",
+    "name": "加拿大腌里脊",
+    "en": "加拿大腌里脊",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "CA"
+    ],
+    "provinces": [
+      "加拿大"
+    ],
+    "aliases": [
+      "Peameal Bacon"
+    ],
+    "pinyin": "c23capeamealbacon",
+    "initials": "c23",
+    "searchTerms": [
+      "加拿大腌里脊",
+      "Peameal Bacon",
+      "c23-ca-peameal-bacon"
+    ],
+    "summary": "加拿大腌里脊，温补适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-ar-milanesa",
+    "name": "阿根廷炸肉排",
+    "en": "阿根廷炸肉排",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "AR"
+    ],
+    "provinces": [
+      "阿根廷"
+    ],
+    "aliases": [
+      "Milanesa"
+    ],
+    "pinyin": "c23armilanesa",
+    "initials": "c23",
+    "searchTerms": [
+      "阿根廷炸肉排",
+      "Milanesa",
+      "c23-ar-milanesa"
+    ],
+    "summary": "阿根廷炸肉排，温胃适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-jp-tofu-salad",
+    "name": "日式豆腐沙拉",
+    "en": "日式豆腐沙拉",
+    "category": "豆制品",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "JP"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "aliases": [
+      "冷奴"
+    ],
+    "pinyin": "c23jptofusalad",
+    "initials": "c23",
+    "searchTerms": [
+      "日式豆腐沙拉",
+      "冷奴",
+      "c23-jp-tofu-salad"
+    ],
+    "summary": "日式豆腐沙拉，清热易消化。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-kr-seaweed-rice",
+    "name": "韩式海苔饭",
+    "en": "韩式海苔饭",
+    "category": "海产",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "海苔包饭"
+    ],
+    "pinyin": "c23krseaweedrice",
+    "initials": "c23",
+    "searchTerms": [
+      "韩式海苔饭",
+      "海苔包饭",
+      "c23-kr-seaweed-rice"
+    ],
+    "summary": "韩式海苔饭，健脾主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-th-mango-salad",
+    "name": "泰式芒果沙拉",
+    "en": "泰式芒果沙拉",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "芒果沙律"
+    ],
+    "pinyin": "c23thmangosalad",
+    "initials": "c23",
+    "searchTerms": [
+      "泰式芒果沙拉",
+      "芒果沙律",
+      "c23-th-mango-salad"
+    ],
+    "summary": "泰式芒果沙拉，清热开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-vn-vermicelli",
+    "name": "越南米线",
+    "en": "越南米线",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "VN"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "aliases": [
+      "米粉"
+    ],
+    "pinyin": "c23vnvermicelli",
+    "initials": "c23",
+    "searchTerms": [
+      "越南米线",
+      "米粉",
+      "c23-vn-vermicelli"
+    ],
+    "summary": "越南米线，健脾主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-in-spinach-paneer",
+    "name": "菠菜奶酪",
+    "en": "菠菜奶酪",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IN"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "aliases": [
+      "Palak Paneer"
+    ],
+    "pinyin": "c23inspinachpaneer",
+    "initials": "c23",
+    "searchTerms": [
+      "菠菜奶酪",
+      "Palak Paneer",
+      "c23-in-spinach-paneer"
+    ],
+    "summary": "印度菠菜奶酪，滋阴健脾。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-it-risotto-mushroom",
+    "name": "蘑菇烩饭",
+    "en": "蘑菇烩饭",
+    "category": "菌菇",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "IT"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "aliases": [
+      "蘑菇Risotto"
+    ],
+    "pinyin": "c23itrisottomushroom",
+    "initials": "c23",
+    "searchTerms": [
+      "蘑菇烩饭",
+      "蘑菇Risotto",
+      "c23-it-risotto-mushroom"
+    ],
+    "summary": "意大利蘑菇烩饭，益气健脾。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-mx-corn-soup",
+    "name": "墨西哥玉米汤",
+    "en": "墨西哥玉米汤",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "MX"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "aliases": [
+      "玉米浓汤"
+    ],
+    "pinyin": "c23mxcornsoup",
+    "initials": "c23",
+    "searchTerms": [
+      "墨西哥玉米汤",
+      "玉米浓汤",
+      "c23-mx-corn-soup"
+    ],
+    "summary": "墨西哥玉米汤，健脾润燥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-us-turkey-sandwich",
+    "name": "火鸡三明治",
+    "en": "火鸡三明治",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "US"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "aliases": [
+      "Turkey Sandwich"
+    ],
+    "pinyin": "c23usturkeysandwich",
+    "initials": "c23",
+    "searchTerms": [
+      "火鸡三明治",
+      "Turkey Sandwich",
+      "c23-us-turkey-sandwich"
+    ],
+    "summary": "美式火鸡三明治，健脾轻食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-br-coconut-water",
+    "name": "巴西椰青",
+    "en": "巴西椰青",
+    "category": "饮品",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "BR"
+    ],
+    "provinces": [
+      "巴西"
+    ],
+    "aliases": [
+      "椰子水"
+    ],
+    "pinyin": "c23brcoconutwater",
+    "initials": "c23",
+    "searchTerms": [
+      "巴西椰青",
+      "椰子水",
+      "c23-br-coconut-water"
+    ],
+    "summary": "巴西椰青，清热生津。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "c23-sg-laksa-lite",
+    "name": "叻沙清汤",
+    "en": "叻沙清汤",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "SG"
+    ],
+    "provinces": [
+      "新加坡"
+    ],
+    "aliases": [
+      "清汤叻沙"
+    ],
+    "pinyin": "c23sglaksalite",
+    "initials": "c23",
+    "searchTerms": [
+      "叻沙清汤",
+      "清汤叻沙",
+      "c23-sg-laksa-lite"
+    ],
+    "summary": "新加坡叻沙清汤，温胃适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

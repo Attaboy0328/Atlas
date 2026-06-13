@@ -1,0 +1,1315 @@
+[
+  {
+    "id": "th-pad-thai",
+    "name": "泰式炒河粉",
+    "en": "泰式炒河粉",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "Pad Thai",
+      "炒粉"
+    ],
+    "pinyin": "thpadthai",
+    "initials": "th-",
+    "searchTerms": [
+      "泰式炒河粉",
+      "Pad Thai",
+      "炒粉",
+      "th-pad-thai"
+    ],
+    "summary": "泰国炒河粉，健脾充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "th-tom-yum",
+    "name": "冬阴功汤",
+    "en": "冬阴功汤",
+    "category": "海产",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "酸辣虾汤",
+      "冬荫功"
+    ],
+    "pinyin": "thtomyum",
+    "initials": "th-",
+    "searchTerms": [
+      "冬阴功汤",
+      "酸辣虾汤",
+      "冬荫功",
+      "th-tom-yum"
+    ],
+    "summary": "泰国冬阴功，辛热开胃祛湿。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "th-green-curry",
+    "name": "泰式绿咖喱",
+    "en": "泰式绿咖喱",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "绿咖喱酱"
+    ],
+    "pinyin": "thgreencurry",
+    "initials": "th-",
+    "searchTerms": [
+      "泰式绿咖喱",
+      "绿咖喱酱",
+      "th-green-curry"
+    ],
+    "summary": "泰国绿咖喱，辛热调味辛辣控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "th-red-curry",
+    "name": "泰式红咖喱",
+    "en": "泰式红咖喱",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "红咖喱酱"
+    ],
+    "pinyin": "thredcurry",
+    "initials": "th-",
+    "searchTerms": [
+      "泰式红咖喱",
+      "红咖喱酱",
+      "th-red-curry"
+    ],
+    "summary": "泰国红咖喱，辛热调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "th-massaman",
+    "name": "马沙曼咖喱",
+    "en": "马沙曼咖喱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "马萨曼咖喱"
+    ],
+    "pinyin": "thmassaman",
+    "initials": "th-",
+    "searchTerms": [
+      "马沙曼咖喱",
+      "马萨曼咖喱",
+      "th-massaman"
+    ],
+    "summary": "泰国马沙曼咖喱，温香调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "th-som-tam",
+    "name": "青木瓜沙拉",
+    "en": "青木瓜沙拉",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "木瓜沙律",
+      "舂木瓜"
+    ],
+    "pinyin": "thsomtam",
+    "initials": "th-",
+    "searchTerms": [
+      "青木瓜沙拉",
+      "木瓜沙律",
+      "舂木瓜",
+      "th-som-tam"
+    ],
+    "summary": "泰国青木瓜沙拉，清热开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "th-sticky-rice",
+    "name": "泰式糯米饭",
+    "en": "泰式糯米饭",
+    "category": "谷物",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "糯米饭",
+      "芒果糯米饭"
+    ],
+    "pinyin": "thstickyrice",
+    "initials": "th-",
+    "searchTerms": [
+      "泰式糯米饭",
+      "糯米饭",
+      "芒果糯米饭",
+      "th-sticky-rice"
+    ],
+    "summary": "泰国糯米饭，健脾主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "th-fish-sauce",
+    "name": "鱼露",
+    "en": "鱼露",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "Nam Pla",
+      "鱼酱油"
+    ],
+    "pinyin": "thfishsauce",
+    "initials": "th-",
+    "searchTerms": [
+      "鱼露",
+      "Nam Pla",
+      "鱼酱油",
+      "th-fish-sauce"
+    ],
+    "summary": "泰国鱼露，鲜味调味控盐。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "th-palm-sugar",
+    "name": "棕榈糖",
+    "en": "棕榈糖",
+    "category": "调料",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "椰糖",
+      "棕榈糖"
+    ],
+    "pinyin": "thpalmsugar",
+    "initials": "th-",
+    "searchTerms": [
+      "棕榈糖",
+      "椰糖",
+      "th-palm-sugar"
+    ],
+    "summary": "泰国棕榈糖，甘平调味控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "th-lemongrass",
+    "name": "香茅",
+    "en": "香茅",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "柠檬草"
+    ],
+    "pinyin": "thlemongrass",
+    "initials": "th-",
+    "searchTerms": [
+      "香茅",
+      "柠檬草",
+      "th-lemongrass"
+    ],
+    "summary": "泰国香茅，理气祛湿调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
+    "hiddenFromLibrary": true
+  },
+  {
+    "id": "th-galangal",
+    "name": "南姜",
+    "en": "南姜",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "高良姜",
+      "泰国姜"
+    ],
+    "pinyin": "thgalangal",
+    "initials": "th-",
+    "searchTerms": [
+      "南姜",
+      "高良姜",
+      "泰国姜",
+      "th-galangal"
+    ],
+    "summary": "泰国南姜，温中散寒调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "th-kaffir-lime",
+    "name": "青柠叶",
+    "en": "青柠叶",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "泰国柠檬叶"
+    ],
+    "pinyin": "thkaffirlime",
+    "initials": "th-",
+    "searchTerms": [
+      "青柠叶",
+      "泰国柠檬叶",
+      "th-kaffir-lime"
+    ],
+    "summary": "泰国青柠叶，理气开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "th-mango-sticky",
+    "name": "芒果糯米饭",
+    "en": "芒果糯米饭",
+    "category": "水果",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "芒果饭"
+    ],
+    "pinyin": "thmangosticky",
+    "initials": "th-",
+    "searchTerms": [
+      "芒果糯米饭",
+      "芒果饭",
+      "th-mango-sticky"
+    ],
+    "summary": "泰国芒果糯米饭，健脾甜点控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "th-papaya-salad",
+    "name": "泰式凉拌木瓜",
+    "en": "泰式凉拌木瓜",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "凉拌木瓜"
+    ],
+    "pinyin": "thpapayasalad",
+    "initials": "th-",
+    "searchTerms": [
+      "泰式凉拌木瓜",
+      "凉拌木瓜",
+      "th-papaya-salad"
+    ],
+    "summary": "泰国凉拌木瓜，清热消食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "th-basil-chicken",
+    "name": "罗勒炒鸡",
+    "en": "罗勒炒鸡",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "TH"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "aliases": [
+      "打抛鸡",
+      "九层塔炒鸡"
+    ],
+    "pinyin": "thbasilchicken",
+    "initials": "th-",
+    "searchTerms": [
+      "罗勒炒鸡",
+      "打抛鸡",
+      "九层塔炒鸡",
+      "th-basil-chicken"
+    ],
+    "summary": "泰国罗勒炒鸡，温中开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "vn-pho",
+    "name": "越南河粉",
+    "en": "越南河粉",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "VN"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "aliases": [
+      "牛肉粉",
+      "Pho"
+    ],
+    "pinyin": "vnpho",
+    "initials": "vn-",
+    "searchTerms": [
+      "越南河粉",
+      "牛肉粉",
+      "Pho",
+      "vn-pho"
+    ],
+    "summary": "越南河粉，温胃主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "vn-banh-mi",
+    "name": "越南法棍",
+    "en": "越南法棍",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "VN"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "aliases": [
+      "法棍三明治"
+    ],
+    "pinyin": "vnbanhmi",
+    "initials": "vn-",
+    "searchTerms": [
+      "越南法棍",
+      "法棍三明治",
+      "vn-banh-mi"
+    ],
+    "summary": "越南法棍，健脾便携主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "vn-spring-roll",
+    "name": "越南春卷",
+    "en": "越南春卷",
+    "category": "蔬菜",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "VN"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "aliases": [
+      "米纸卷",
+      "生春卷"
+    ],
+    "pinyin": "vnspringroll",
+    "initials": "vn-",
+    "searchTerms": [
+      "越南春卷",
+      "米纸卷",
+      "生春卷",
+      "vn-spring-roll"
+    ],
+    "summary": "越南春卷，清热轻食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "vn-bun-cha",
+    "name": "烤肉米粉",
+    "en": "烤肉米粉",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "VN"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "aliases": [
+      "烤肉米线"
+    ],
+    "pinyin": "vnbuncha",
+    "initials": "vn-",
+    "searchTerms": [
+      "烤肉米粉",
+      "烤肉米线",
+      "vn-bun-cha"
+    ],
+    "summary": "越南烤肉米粉，温胃主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "vn-nuoc-mam",
+    "name": "越南鱼露",
+    "en": "越南鱼露",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "VN"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "aliases": [
+      "鱼酱油"
+    ],
+    "pinyin": "vnnuocmam",
+    "initials": "vn-",
+    "searchTerms": [
+      "越南鱼露",
+      "鱼酱油",
+      "vn-nuoc-mam"
+    ],
+    "summary": "越南鱼露，鲜味调味控盐。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "vn-coffee",
+    "name": "越南滴漏咖啡",
+    "en": "越南滴漏咖啡",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "VN"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "aliases": [
+      "滴漏咖啡"
+    ],
+    "pinyin": "vncoffee",
+    "initials": "vn-",
+    "searchTerms": [
+      "越南滴漏咖啡",
+      "滴漏咖啡",
+      "vn-coffee"
+    ],
+    "summary": "越南咖啡，提神适量失眠少饮。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "vn-banh-xeo",
+    "name": "越南煎饼",
+    "en": "越南煎饼",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "VN"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "aliases": [
+      "椰浆煎饼"
+    ],
+    "pinyin": "vnbanhxeo",
+    "initials": "vn-",
+    "searchTerms": [
+      "越南煎饼",
+      "椰浆煎饼",
+      "vn-banh-xeo"
+    ],
+    "summary": "越南煎饼，温胃小食适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "vn-goi-cuon",
+    "name": "鲜虾米纸卷",
+    "en": "鲜虾米纸卷",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "VN"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "aliases": [
+      "虾卷"
+    ],
+    "pinyin": "vngoicuon",
+    "initials": "vn-",
+    "searchTerms": [
+      "鲜虾米纸卷",
+      "虾卷",
+      "vn-goi-cuon"
+    ],
+    "summary": "越南鲜虾米纸卷，清热高蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "my-nasi-lemak",
+    "name": "椰浆饭",
+    "en": "椰浆饭",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "MY"
+    ],
+    "provinces": [
+      "马来西亚"
+    ],
+    "aliases": [
+      "椰饭",
+      "Nasi Lemak"
+    ],
+    "pinyin": "mynasilemak",
+    "initials": "my-",
+    "searchTerms": [
+      "椰浆饭",
+      "椰饭",
+      "Nasi Lemak",
+      "my-nasi-lemak"
+    ],
+    "summary": "马来椰浆饭，健脾主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "my-rendang",
+    "name": "仁当牛肉",
+    "en": "仁当牛肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "MY"
+    ],
+    "provinces": [
+      "马来西亚"
+    ],
+    "aliases": [
+      "干咖喱牛肉"
+    ],
+    "pinyin": "myrendang",
+    "initials": "my-",
+    "searchTerms": [
+      "仁当牛肉",
+      "干咖喱牛肉",
+      "my-rendang"
+    ],
+    "summary": "马来仁当牛肉，温补气血适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "my-satay",
+    "name": "沙爹",
+    "en": "沙爹",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "MY"
+    ],
+    "provinces": [
+      "马来西亚"
+    ],
+    "aliases": [
+      "烤肉串",
+      "沙爹串"
+    ],
+    "pinyin": "mysatay",
+    "initials": "my-",
+    "searchTerms": [
+      "沙爹",
+      "烤肉串",
+      "沙爹串",
+      "my-satay"
+    ],
+    "summary": "马来沙爹，温中益气适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "my-laksa",
+    "name": "叻沙",
+    "en": "叻沙",
+    "category": "主食",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "MY"
+    ],
+    "provinces": [
+      "马来西亚"
+    ],
+    "aliases": [
+      "咖喱面",
+      "Laksa"
+    ],
+    "pinyin": "mylaksa",
+    "initials": "my-",
+    "searchTerms": [
+      "叻沙",
+      "咖喱面",
+      "Laksa",
+      "my-laksa"
+    ],
+    "summary": "马来叻沙，辛热开胃辛辣控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "my-sambal",
+    "name": "叁巴酱",
+    "en": "叁巴酱",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "MY"
+    ],
+    "provinces": [
+      "马来西亚"
+    ],
+    "aliases": [
+      "辣椒酱",
+      "Sambal"
+    ],
+    "pinyin": "mysambal",
+    "initials": "my-",
+    "searchTerms": [
+      "叁巴酱",
+      "辣椒酱",
+      "Sambal",
+      "my-sambal"
+    ],
+    "summary": "马来叁巴酱，辛热调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "my-teh-tarik",
+    "name": "拉茶",
+    "en": "拉茶",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "MY"
+    ],
+    "provinces": [
+      "马来西亚"
+    ],
+    "aliases": [
+      "奶茶",
+      "Teh Tarik"
+    ],
+    "pinyin": "mytehtarik",
+    "initials": "my-",
+    "searchTerms": [
+      "拉茶",
+      "奶茶",
+      "Teh Tarik",
+      "my-teh-tarik"
+    ],
+    "summary": "马来拉茶，温胃饮品控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sg-chili-crab",
+    "name": "辣椒螃蟹",
+    "en": "辣椒螃蟹",
+    "category": "海产",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "SG"
+    ],
+    "provinces": [
+      "新加坡"
+    ],
+    "aliases": [
+      "黑胡椒蟹",
+      "辣椒蟹"
+    ],
+    "pinyin": "sgchilicrab",
+    "initials": "sg-",
+    "searchTerms": [
+      "辣椒螃蟹",
+      "黑胡椒蟹",
+      "辣椒蟹",
+      "sg-chili-crab"
+    ],
+    "summary": "新加坡辣椒蟹，辛热开胃适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sg-hainanese-chicken",
+    "name": "海南鸡饭",
+    "en": "海南鸡饭",
+    "category": "肉蛋奶",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "SG"
+    ],
+    "provinces": [
+      "新加坡"
+    ],
+    "aliases": [
+      "鸡饭"
+    ],
+    "pinyin": "sghainanesechicken",
+    "initials": "sg-",
+    "searchTerms": [
+      "海南鸡饭",
+      "鸡饭",
+      "sg-hainanese-chicken"
+    ],
+    "summary": "新加坡海南鸡饭，健脾益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sg-laksa-singapore",
+    "name": "新加坡叻沙",
+    "en": "新加坡叻沙",
+    "category": "主食",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "SG"
+    ],
+    "provinces": [
+      "新加坡"
+    ],
+    "aliases": [
+      "咖喱米粉"
+    ],
+    "pinyin": "sglaksasingapore",
+    "initials": "sg-",
+    "searchTerms": [
+      "新加坡叻沙",
+      "咖喱米粉",
+      "sg-laksa-singapore"
+    ],
+    "summary": "新加坡叻沙，辛热开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sg-kaya-toast",
+    "name": "咖椰吐司",
+    "en": "咖椰吐司",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "SG"
+    ],
+    "provinces": [
+      "新加坡"
+    ],
+    "aliases": [
+      "咖椰面包"
+    ],
+    "pinyin": "sgkayatoast",
+    "initials": "sg-",
+    "searchTerms": [
+      "咖椰吐司",
+      "咖椰面包",
+      "sg-kaya-toast"
+    ],
+    "summary": "新加坡咖椰吐司，早餐主食控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "sg-fish-head-curry",
+    "name": "鱼头咖喱",
+    "en": "鱼头咖喱",
+    "category": "海产",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "SG"
+    ],
+    "provinces": [
+      "新加坡"
+    ],
+    "aliases": [
+      "咖喱鱼头"
+    ],
+    "pinyin": "sgfishheadcurry",
+    "initials": "sg-",
+    "searchTerms": [
+      "鱼头咖喱",
+      "咖喱鱼头",
+      "sg-fish-head-curry"
+    ],
+    "summary": "新加坡鱼头咖喱，辛热开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "id-nasi-goreng",
+    "name": "印尼炒饭",
+    "en": "印尼炒饭",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "ID"
+    ],
+    "provinces": [
+      "印度尼西亚"
+    ],
+    "aliases": [
+      "炒饭"
+    ],
+    "pinyin": "idnasigoreng",
+    "initials": "id-",
+    "searchTerms": [
+      "印尼炒饭",
+      "炒饭",
+      "id-nasi-goreng"
+    ],
+    "summary": "印尼炒饭，健脾充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "id-sate",
+    "name": "印尼沙爹",
+    "en": "印尼沙爹",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "ID"
+    ],
+    "provinces": [
+      "印度尼西亚"
+    ],
+    "aliases": [
+      "烤肉串"
+    ],
+    "pinyin": "idsate",
+    "initials": "id-",
+    "searchTerms": [
+      "印尼沙爹",
+      "烤肉串",
+      "id-sate"
+    ],
+    "summary": "印尼沙爹，温中益气。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "id-gado-gado",
+    "name": "加多加多",
+    "en": "加多加多",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "ID"
+    ],
+    "provinces": [
+      "印度尼西亚"
+    ],
+    "aliases": [
+      "花生酱沙拉"
+    ],
+    "pinyin": "idgadogado",
+    "initials": "id-",
+    "searchTerms": [
+      "加多加多",
+      "花生酱沙拉",
+      "id-gado-gado"
+    ],
+    "summary": "印尼加多加多，健脾素食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "id-rendang-id",
+    "name": "印尼仁当",
+    "en": "印尼仁当",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "ID"
+    ],
+    "provinces": [
+      "印度尼西亚"
+    ],
+    "aliases": [
+      "干咖喱"
+    ],
+    "pinyin": "idrendangid",
+    "initials": "id-",
+    "searchTerms": [
+      "印尼仁当",
+      "干咖喱",
+      "id-rendang-id"
+    ],
+    "summary": "印尼仁当，温补适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "id-tempeh-goreng",
+    "name": "炸天贝",
+    "en": "炸天贝",
+    "category": "豆制品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "ID"
+    ],
+    "provinces": [
+      "印度尼西亚"
+    ],
+    "aliases": [
+      "炸发酵豆饼"
+    ],
+    "pinyin": "idtempehgoreng",
+    "initials": "id-",
+    "searchTerms": [
+      "炸天贝",
+      "炸发酵豆饼",
+      "id-tempeh-goreng"
+    ],
+    "summary": "印尼炸天贝，健脾高蛋白。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ph-adobo",
+    "name": "菲律宾阿斗波",
+    "en": "菲律宾阿斗波",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "PH"
+    ],
+    "provinces": [
+      "菲律宾"
+    ],
+    "aliases": [
+      "醋焖鸡",
+      "Adobo"
+    ],
+    "pinyin": "phadobo",
+    "initials": "ph-",
+    "searchTerms": [
+      "菲律宾阿斗波",
+      "醋焖鸡",
+      "Adobo",
+      "ph-adobo"
+    ],
+    "summary": "菲律宾阿斗波，温中开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ph-sinigang",
+    "name": "酸汤",
+    "en": "酸汤",
+    "category": "海产",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "PH"
+    ],
+    "provinces": [
+      "菲律宾"
+    ],
+    "aliases": [
+      "酸汤鱼",
+      "Sinigang"
+    ],
+    "pinyin": "phsinigang",
+    "initials": "ph-",
+    "searchTerms": [
+      "酸汤",
+      "酸汤鱼",
+      "Sinigang",
+      "ph-sinigang"
+    ],
+    "summary": "菲律宾酸汤，清热开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ph-lechon",
+    "name": "烤乳猪",
+    "en": "烤乳猪",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "PH"
+    ],
+    "provinces": [
+      "菲律宾"
+    ],
+    "aliases": [
+      "烤猪"
+    ],
+    "pinyin": "phlechon",
+    "initials": "ph-",
+    "searchTerms": [
+      "烤乳猪",
+      "烤猪",
+      "ph-lechon"
+    ],
+    "summary": "菲律宾烤乳猪，温补适量高脂控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ph-halo-halo",
+    "name": "哈罗哈罗",
+    "en": "哈罗哈罗",
+    "category": "水果",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "PH"
+    ],
+    "provinces": [
+      "菲律宾"
+    ],
+    "aliases": [
+      "刨冰甜品"
+    ],
+    "pinyin": "phhalohalo",
+    "initials": "ph-",
+    "searchTerms": [
+      "哈罗哈罗",
+      "刨冰甜品",
+      "ph-halo-halo"
+    ],
+    "summary": "菲律宾哈罗哈罗，清热甜点控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "ph-lumpia",
+    "name": "菲律宾春卷",
+    "en": "菲律宾春卷",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "PH"
+    ],
+    "provinces": [
+      "菲律宾"
+    ],
+    "aliases": [
+      "炸春卷"
+    ],
+    "pinyin": "phlumpia",
+    "initials": "ph-",
+    "searchTerms": [
+      "菲律宾春卷",
+      "炸春卷",
+      "ph-lumpia"
+    ],
+    "summary": "菲律宾春卷，温胃小食适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]

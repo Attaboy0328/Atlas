@@ -16076,5 +16076,3086 @@ const HANDCRAFTED_RECIPES = [
       }
     ],
     "draft": false
+  },
+  {
+    "id": "jp-miso-soup-lite",
+    "name": "味噌汤清版",
+    "nature": "温",
+    "syndromes": [
+      "胃寒",
+      "脾阳虚"
+    ],
+    "foodIds": [
+      "miso",
+      "tofu",
+      "wakame"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "cuisine": "日式",
+    "recipeTopic": "温胃散寒",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "家常汤品",
+    "ingredients": [
+      "味噌 1 汤匙",
+      "豆腐 100 克",
+      "裙带菜少许"
+    ],
+    "steps": [
+      "水烧开",
+      "溶入味噌与豆腐裙带菜"
+    ],
+    "note": "高血压控盐，胃热减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "味噌汤清版为日式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "jp-salmon-don-lite",
+    "name": "三文鱼盖饭少酱",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "jp-sashimi-salmon",
+      "ginger"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "cuisine": "日式",
+    "recipeTopic": "滋阴补虚",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "盖饭",
+    "ingredients": [
+      "米饭 1 碗",
+      "三文鱼 80 克",
+      "姜丝"
+    ],
+    "steps": [
+      "米饭铺底",
+      "放三文鱼与姜丝"
+    ],
+    "note": "生鱼须新鲜，消化弱者适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "三文鱼盖饭少酱为日式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "jp-oden-winter",
+    "name": "关东煮暖身",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "寒湿困脾"
+    ],
+    "foodIds": [
+      "tofu",
+      "ginger"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "cuisine": "日式",
+    "recipeTopic": "温胃暖身",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "煮物",
+    "ingredients": [
+      "豆腐 2 块",
+      "鱼糕 3 片",
+      "高汤 500 毫升"
+    ],
+    "steps": [
+      "高汤煮开",
+      "下料煮 15 分钟"
+    ],
+    "note": "冬季畏寒暖胃，高钠控量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "关东煮暖身为日式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "jp-soba-summer",
+    "name": "荞麦凉面",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "暑湿"
+    ],
+    "foodIds": [
+      "soba-noodles",
+      "ginger",
+      "vinegar"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "cuisine": "日式",
+    "recipeTopic": "清热健脾",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "冷面",
+    "ingredients": [
+      "荞麦面 150 克",
+      "陈醋少许",
+      "姜丝"
+    ],
+    "steps": [
+      "面煮熟过冷",
+      "蘸汁食用"
+    ],
+    "note": "暑热烦渴时，胃寒减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "荞麦凉面为日式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "jp-chawanmushi-soft",
+    "name": "茶碗蒸软嫩版",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "egg",
+      "chicken"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "cuisine": "日式",
+    "recipeTopic": "滋阴易消化",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "蒸蛋",
+    "ingredients": [
+      "鸡蛋 2 个",
+      "鸡肉末 30 克"
+    ],
+    "steps": [
+      "蛋液加高汤",
+      "蒸 12 分钟"
+    ],
+    "note": "病后体虚易消化。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "茶碗蒸软嫩版为日式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "jp-ume-kombu-tea",
+    "name": "梅干昆布茶",
+    "nature": "温",
+    "syndromes": [
+      "肝郁气滞",
+      "食欲不振"
+    ],
+    "foodIds": [
+      "jp-umeboshi",
+      "dashi-kombu",
+      "green-tea"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "cuisine": "日式",
+    "recipeTopic": "开胃生津",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "茶饮",
+    "ingredients": [
+      "梅干 1 颗",
+      "昆布高汤 200 毫升"
+    ],
+    "steps": [
+      "梅干去核",
+      "冲入热汤"
+    ],
+    "note": "胃口差时少量，胃酸过多减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "梅干昆布茶为日式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "jp-sukiyaki-lite",
+    "name": "寿喜烧少油",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "beef",
+      "tofu",
+      "scallion"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "cuisine": "日式",
+    "recipeTopic": "温补气血",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "涮锅",
+    "ingredients": [
+      "牛肉片 150 克",
+      "豆腐 100 克"
+    ],
+    "steps": [
+      "少油煎香",
+      "加汤涮食"
+    ],
+    "note": "冬季温补，高脂控量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "寿喜烧少油为日式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "jp-onigiri-ginger",
+    "name": "姜味饭团",
+    "nature": "温",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "ginger",
+      "jp-furikake"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "cuisine": "日式",
+    "recipeTopic": "温胃充饥",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "便携主食",
+    "ingredients": [
+      "米饭 1 碗",
+      "姜丝少许",
+      "香松 1 茶匙"
+    ],
+    "steps": [
+      "拌入姜丝",
+      "捏成饭团"
+    ],
+    "note": "日常暖胃便携主食。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "姜味饭团为日式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "jp-tofu-miso-salad",
+    "name": "豆腐味噌沙拉",
+    "nature": "凉",
+    "syndromes": [
+      "胃阴虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "tofu",
+      "miso",
+      "cucumber"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "cuisine": "日式",
+    "recipeTopic": "清热润燥",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "凉拌",
+    "ingredients": [
+      "豆腐 150 克",
+      "味噌 1 茶匙",
+      "黄瓜丝"
+    ],
+    "steps": [
+      "豆腐切块",
+      "拌味噌酱"
+    ],
+    "note": "暑热口干时适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "豆腐味噌沙拉为日式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "jp-genmaicha-aftermeal",
+    "name": "玄米茶饭后",
+    "nature": "平",
+    "syndromes": [
+      "脾胃气滞",
+      "食积"
+    ],
+    "foodIds": [
+      "jp-genmaicha",
+      "ginger"
+    ],
+    "provinces": [
+      "日本"
+    ],
+    "cuisine": "日式",
+    "recipeTopic": "消食解腻",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "茶饮",
+    "ingredients": [
+      "玄米茶 1 包",
+      "温水 300 毫升"
+    ],
+    "steps": [
+      "冲泡温热",
+      "饭后饮用"
+    ],
+    "note": "油腻后消食，失眠晚间少饮。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "玄米茶饭后为日式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "kr-kimchi-jjigae-lite",
+    "name": "泡菜锅少辣",
+    "nature": "温",
+    "syndromes": [
+      "脾胃气滞",
+      "寒湿困脾"
+    ],
+    "foodIds": [
+      "kimchi-kr",
+      "tofu",
+      "pork"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "cuisine": "韩式",
+    "recipeTopic": "温胃开胃",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "炖锅",
+    "ingredients": [
+      "泡菜 100 克",
+      "豆腐 100 克",
+      "猪肉 50 克"
+    ],
+    "steps": [
+      "泡菜炒香",
+      "加水炖 15 分钟"
+    ],
+    "note": "开胃祛湿，胃热辛辣减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "泡菜锅少辣为韩式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "kr-bibimbap-veg",
+    "name": "石锅拌饭素食",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "rice",
+      "egg",
+      "spinach"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "cuisine": "韩式",
+    "recipeTopic": "健脾充饥",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "拌饭",
+    "ingredients": [
+      "米饭 1 碗",
+      "鸡蛋 1 个",
+      "菠菜 50 克"
+    ],
+    "steps": [
+      "蔬菜焯水",
+      "与饭蛋拌匀"
+    ],
+    "note": "日常健脾主食。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "石锅拌饭素食为韩式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "kr-seaweed-soup-lite",
+    "name": "海带汤清版",
+    "nature": "凉",
+    "syndromes": [
+      "甲状腺肿大",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "wakame",
+      "tofu",
+      "ginger"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "cuisine": "韩式",
+    "recipeTopic": "清热软坚",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "汤品",
+    "ingredients": [
+      "海带 20 克",
+      "豆腐 100 克"
+    ],
+    "steps": [
+      "海带泡发",
+      "与豆腐同煮"
+    ],
+    "note": "甲状腺问题遵医嘱，胃寒减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "海带汤清版为韩式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "kr-doenjang-soup",
+    "name": "大酱汤",
+    "nature": "温",
+    "syndromes": [
+      "胃寒",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "doenjang",
+      "tofu",
+      "cucumber"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "cuisine": "韩式",
+    "recipeTopic": "温胃健脾",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "酱汤",
+    "ingredients": [
+      "大酱 1 汤匙",
+      "豆腐 100 克",
+      "黄瓜 50 克"
+    ],
+    "steps": [
+      "大酱化开",
+      "下料煮 10 分钟"
+    ],
+    "note": "冬季暖胃，控盐适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "大酱汤为韩式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "kr-naengmyeon-summer",
+    "name": "荞麦冷面",
+    "nature": "凉",
+    "syndromes": [
+      "暑湿",
+      "肝郁气滞"
+    ],
+    "foodIds": [
+      "soba-noodles",
+      "vinegar",
+      "cucumber"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "cuisine": "韩式",
+    "recipeTopic": "清热解暑",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "冷面",
+    "ingredients": [
+      "荞麦面 150 克",
+      "陈醋少许",
+      "黄瓜丝"
+    ],
+    "steps": [
+      "面煮熟过冰",
+      "配冷汤"
+    ],
+    "note": "暑热食欲差时，胃寒减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "荞麦冷面为韩式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "kr-gimbap-lite",
+    "name": "紫菜包饭",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "egg",
+      "carrot"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "cuisine": "韩式",
+    "recipeTopic": "健脾充饥",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "饭卷",
+    "ingredients": [
+      "米饭 1 碗",
+      "鸡蛋 1 个",
+      "胡萝卜丝"
+    ],
+    "steps": [
+      "铺海苔卷饭",
+      "切段食用"
+    ],
+    "note": "便携健脾主食。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "紫菜包饭为韩式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "kr-bossam-lite",
+    "name": "包肉生菜",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "pork",
+      "kr-perilla-leaf",
+      "garlic"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "cuisine": "韩式",
+    "recipeTopic": "温补适量",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "包肉",
+    "ingredients": [
+      "五花肉 150 克",
+      "苏子叶 6 片"
+    ],
+    "steps": [
+      "肉煮熟切片",
+      "包叶蘸酱"
+    ],
+    "note": "冬季温补，高脂控量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "包肉生菜为韩式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "kr-yukgaejang-lite",
+    "name": "辣牛肉汤少辣",
+    "nature": "热",
+    "syndromes": [
+      "肾阳虚",
+      "寒湿困脾"
+    ],
+    "foodIds": [
+      "beef",
+      "mung-bean-sprout",
+      "ginger"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "cuisine": "韩式",
+    "recipeTopic": "温阳散寒",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "辣汤",
+    "ingredients": [
+      "牛肉 150 克",
+      "豆芽 50 克",
+      "姜丝"
+    ],
+    "steps": [
+      "牛肉煮汤",
+      "下豆芽"
+    ],
+    "note": "畏寒冬季，辛辣胃热减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "辣牛肉汤少辣为韩式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "th-tom-yum-lite",
+    "name": "冬阴功少辣",
+    "nature": "热",
+    "syndromes": [
+      "寒湿困脾",
+      "食欲不振"
+    ],
+    "foodIds": [
+      "shrimp",
+      "th-lemongrass",
+      "ginger"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "cuisine": "泰式",
+    "recipeTopic": "祛湿开胃",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "酸辣汤",
+    "ingredients": [
+      "虾仁 100 克",
+      "香茅 2 根",
+      "姜丝"
+    ],
+    "steps": [
+      "香茅煮水",
+      "下虾煮 5 分钟"
+    ],
+    "note": "湿重开胃，辛辣控量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "冬阴功少辣为泰式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "th-pad-thai-lite",
+    "name": "泰式炒河粉少油",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "rice",
+      "egg",
+      "mung-bean-sprout"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "cuisine": "泰式",
+    "recipeTopic": "健脾充饥",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "炒粉",
+    "ingredients": [
+      "河粉 150 克",
+      "鸡蛋 1 个",
+      "豆芽 50 克"
+    ],
+    "steps": [
+      "少油快炒",
+      "调味出锅"
+    ],
+    "note": "日常主食，控油盐。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "泰式炒河粉少油为泰式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "th-green-curry-chicken",
+    "name": "绿咖喱鸡",
+    "nature": "热",
+    "syndromes": [
+      "脾阳虚",
+      "寒湿困脾"
+    ],
+    "foodIds": [
+      "chicken",
+      "th-green-curry",
+      "coconut-milk"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "cuisine": "泰式",
+    "recipeTopic": "温中祛湿",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "咖喱",
+    "ingredients": [
+      "鸡肉 200 克",
+      "绿咖喱 1 汤匙",
+      "椰浆 100 毫升"
+    ],
+    "steps": [
+      "咖喱炒香",
+      "下鸡炖 20 分钟"
+    ],
+    "note": "辛辣控量，胃热减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "绿咖喱鸡为泰式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "th-mango-sticky-lite",
+    "name": "芒果糯米饭",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "th-mango-sticky",
+      "honey"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "cuisine": "泰式",
+    "recipeTopic": "健脾润肠",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "甜点",
+    "ingredients": [
+      "糯米饭 100 克",
+      "芒果 半个",
+      "蜂蜜少许"
+    ],
+    "steps": [
+      "糯米饭蒸熟",
+      "配芒果"
+    ],
+    "note": "控糖适量，糖尿病慎用。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "芒果糯米饭为泰式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "th-som-tam-lite",
+    "name": "青木瓜沙拉",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "肝郁气滞"
+    ],
+    "foodIds": [
+      "th-som-tam",
+      "vinegar",
+      "peanut"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "cuisine": "泰式",
+    "recipeTopic": "清热开胃",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "凉拌",
+    "ingredients": [
+      "青木瓜 150 克",
+      "青柠汁",
+      "花生碎"
+    ],
+    "steps": [
+      "木瓜切丝",
+      "拌汁食用"
+    ],
+    "note": "暑热开胃，胃寒减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "青木瓜沙拉为泰式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "th-basil-chicken-lite",
+    "name": "罗勒炒鸡",
+    "nature": "温",
+    "syndromes": [
+      "脾胃气滞",
+      "食欲不振"
+    ],
+    "foodIds": [
+      "chicken",
+      "th-basil-chicken",
+      "garlic"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "cuisine": "泰式",
+    "recipeTopic": "理气开胃",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "小炒",
+    "ingredients": [
+      "鸡肉 200 克",
+      "罗勒叶 1 把",
+      "蒜末"
+    ],
+    "steps": [
+      "鸡肉滑炒",
+      "下罗勒快炒"
+    ],
+    "note": "胃口差时开胃小炒。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "罗勒炒鸡为泰式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "th-coconut-soup",
+    "name": "椰奶南瓜汤",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "pumpkin",
+      "coconut-milk",
+      "ginger"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "cuisine": "泰式",
+    "recipeTopic": "润燥健脾",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "浓汤",
+    "ingredients": [
+      "南瓜 200 克",
+      "椰浆 100 毫升"
+    ],
+    "steps": [
+      "南瓜煮软",
+      "加椰浆打匀"
+    ],
+    "note": "秋燥口干时适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "椰奶南瓜汤为泰式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "th-fish-sauce-veg",
+    "name": "鱼露拌时蔬",
+    "nature": "平",
+    "syndromes": [
+      "脾胃气滞",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "cucumber",
+      "fish-sauce",
+      "vinegar"
+    ],
+    "provinces": [
+      "泰国"
+    ],
+    "cuisine": "泰式",
+    "recipeTopic": "开胃消食",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "凉拌",
+    "ingredients": [
+      "黄瓜 1 根",
+      "鱼露 1 茶匙",
+      "青柠汁"
+    ],
+    "steps": [
+      "黄瓜拍碎",
+      "拌汁食用"
+    ],
+    "note": "控盐适量，高血压减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "鱼露拌时蔬为泰式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "vn-pho-lite",
+    "name": "越南河粉清汤",
+    "nature": "温",
+    "syndromes": [
+      "胃气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "beef",
+      "rice",
+      "ginger"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "cuisine": "越式",
+    "recipeTopic": "温胃补虚",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "汤粉",
+    "ingredients": [
+      "牛肉 100 克",
+      "米粉 150 克",
+      "姜丝"
+    ],
+    "steps": [
+      "牛肉煮汤",
+      "下粉煮软"
+    ],
+    "note": "病后体虚易消化。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "越南河粉清汤为越式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "vn-spring-roll-fresh",
+    "name": "鲜虾米纸卷",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "肝郁气滞"
+    ],
+    "foodIds": [
+      "vn-spring-roll",
+      "shrimp",
+      "mint"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "cuisine": "越式",
+    "recipeTopic": "清热轻食",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "生食",
+    "ingredients": [
+      "米纸 4 张",
+      "虾仁 6 只",
+      "薄荷叶"
+    ],
+    "steps": [
+      "米纸泡软",
+      "卷馅切段"
+    ],
+    "note": "暑热轻食，生冷适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "鲜虾米纸卷为越式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "vn-bun-cha-lite",
+    "name": "烤肉米粉",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "pork",
+      "rice",
+      "vinegar"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "cuisine": "越式",
+    "recipeTopic": "健脾充饥",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "米粉",
+    "ingredients": [
+      "烤肉 100 克",
+      "米粉 150 克"
+    ],
+    "steps": [
+      "烤肉配米粉",
+      "蘸鱼露醋"
+    ],
+    "note": "日常主食适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "烤肉米粉为越式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "vn-ginger-chicken",
+    "name": "姜鸡越式",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "胃寒"
+    ],
+    "foodIds": [
+      "chicken",
+      "ginger",
+      "fish-sauce"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "cuisine": "越式",
+    "recipeTopic": "温中散寒",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "炖鸡",
+    "ingredients": [
+      "鸡腿 2 只",
+      "生姜 5 片"
+    ],
+    "steps": [
+      "姜鸡同炖",
+      "炖 40 分钟"
+    ],
+    "note": "畏寒冬季暖胃。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "姜鸡越式为越式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "vn-lotus-tea",
+    "name": "莲花茶",
+    "nature": "平",
+    "syndromes": [
+      "肝郁气滞",
+      "心烦失眠"
+    ],
+    "foodIds": [
+      "lotus-seed",
+      "green-tea",
+      "honey"
+    ],
+    "provinces": [
+      "越南"
+    ],
+    "cuisine": "越式",
+    "recipeTopic": "清心解郁",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "茶饮",
+    "ingredients": [
+      "莲子 10 克",
+      "绿茶 3 克"
+    ],
+    "steps": [
+      "莲子煮水",
+      "泡绿茶"
+    ],
+    "note": "情绪郁结时适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "莲花茶为越式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "my-nasi-lemak-lite",
+    "name": "椰浆饭清版",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "my-nasi-lemak",
+      "egg",
+      "cucumber"
+    ],
+    "provinces": [
+      "马来西亚"
+    ],
+    "cuisine": "马来式",
+    "recipeTopic": "健脾充饥",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "主食",
+    "ingredients": [
+      "椰浆饭 1 碗",
+      "鸡蛋 1 个",
+      "黄瓜片"
+    ],
+    "steps": [
+      "配蛋黄瓜",
+      "同食"
+    ],
+    "note": "日常健脾主食。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "椰浆饭清版为马来式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "my-satay-lite",
+    "name": "沙爹少油",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "chicken",
+      "my-satay",
+      "peanut"
+    ],
+    "provinces": [
+      "马来西亚"
+    ],
+    "cuisine": "马来式",
+    "recipeTopic": "温补益气",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "烤肉",
+    "ingredients": [
+      "鸡肉 200 克",
+      "花生酱 1 汤匙"
+    ],
+    "steps": [
+      "鸡肉腌制",
+      "烤熟蘸酱"
+    ],
+    "note": "冬季温补适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "沙爹少油为马来式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "my-laksa-lite",
+    "name": "叻沙清汤",
+    "nature": "热",
+    "syndromes": [
+      "寒湿困脾",
+      "食欲不振"
+    ],
+    "foodIds": [
+      "my-laksa",
+      "shrimp",
+      "coconut-milk"
+    ],
+    "provinces": [
+      "马来西亚"
+    ],
+    "cuisine": "马来式",
+    "recipeTopic": "祛湿开胃",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "咖喱面",
+    "ingredients": [
+      "叻沙酱 1 汤匙",
+      "虾仁 80 克"
+    ],
+    "steps": [
+      "汤底煮开",
+      "下面煮软"
+    ],
+    "note": "辛辣控量，胃热减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "叻沙清汤为马来式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sg-hainan-chicken-lite",
+    "name": "海南鸡饭清版",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "sg-hainanese-chicken",
+      "rice",
+      "ginger"
+    ],
+    "provinces": [
+      "新加坡"
+    ],
+    "cuisine": "新式",
+    "recipeTopic": "健脾益气",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "鸡饭",
+    "ingredients": [
+      "鸡肉 200 克",
+      "米饭 1 碗",
+      "姜蓉"
+    ],
+    "steps": [
+      "白切鸡配饭",
+      "蘸姜蓉"
+    ],
+    "note": "日常健脾益气。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "海南鸡饭清版为新式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sg-fish-curry-lite",
+    "name": "鱼头咖喱少辣",
+    "nature": "热",
+    "syndromes": [
+      "寒湿困脾",
+      "脾胃气滞"
+    ],
+    "foodIds": [
+      "coconut-milk",
+      "ginger"
+    ],
+    "provinces": [
+      "新加坡"
+    ],
+    "cuisine": "新式",
+    "recipeTopic": "祛湿开胃",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "咖喱",
+    "ingredients": [
+      "鱼头 1 个",
+      "椰浆 100 毫升",
+      "姜丝"
+    ],
+    "steps": [
+      "咖喱煮鱼头",
+      "炖 20 分钟"
+    ],
+    "note": "开胃祛湿，辛辣控量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "鱼头咖喱少辣为新式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sg-kaya-toast-lite",
+    "name": "咖椰吐司早餐",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "sg-kaya-toast",
+      "egg"
+    ],
+    "provinces": [
+      "新加坡"
+    ],
+    "cuisine": "新式",
+    "recipeTopic": "健脾早餐",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "早餐",
+    "ingredients": [
+      "吐司 2 片",
+      "鸡蛋 1 个"
+    ],
+    "steps": [
+      "吐司烤热",
+      "配水煮蛋"
+    ],
+    "note": "控糖适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "咖椰吐司早餐为新式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "in-dal-rice-lite",
+    "name": "印度豆糊配饭",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "chickpea",
+      "rice",
+      "ginger"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "cuisine": "印式",
+    "recipeTopic": "健脾充饥",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "素食",
+    "ingredients": [
+      "鹰嘴豆 80 克",
+      "米饭 1 碗",
+      "姜丝"
+    ],
+    "steps": [
+      "豆煮烂",
+      "配米饭"
+    ],
+    "note": "素食健脾高蛋白。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "印度豆糊配饭为印式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "in-tandoori-lite",
+    "name": "坦都里烤鸡少油",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "chicken",
+      "in-curry-powder",
+      "yogurt"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "cuisine": "印式",
+    "recipeTopic": "温中益气",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "烤鸡",
+    "ingredients": [
+      "鸡腿 2 只",
+      "咖喱粉 1 茶匙"
+    ],
+    "steps": [
+      "酸奶腌鸡",
+      "烤熟"
+    ],
+    "note": "冬季温补适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "坦都里烤鸡少油为印式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "in-lassi-cooling",
+    "name": "芒果酸奶饮",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "in-lassi",
+      "mango",
+      "honey"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "cuisine": "印式",
+    "recipeTopic": "滋阴润肠",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "饮品",
+    "ingredients": [
+      "酸奶 200 毫升",
+      "芒果 半个"
+    ],
+    "steps": [
+      "打匀饮用"
+    ],
+    "note": "暑热口干时适量控糖。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "芒果酸奶饮为印式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "in-turmeric-milk-lite",
+    "name": "黄金奶少姜",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "寒湿困脾"
+    ],
+    "foodIds": [
+      "turmeric",
+      "milk",
+      "ginger"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "cuisine": "印式",
+    "recipeTopic": "温胃抗炎",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "热饮",
+    "ingredients": [
+      "姜黄粉 1 茶匙",
+      "牛奶 200 毫升"
+    ],
+    "steps": [
+      "牛奶加热",
+      "拌姜黄"
+    ],
+    "note": "冬季暖胃，孕妇慎用。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "黄金奶少姜为印式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "in-paneer-spinach",
+    "name": "菠菜奶酪",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "in-paneer",
+      "spinach",
+      "garlic"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "cuisine": "印式",
+    "recipeTopic": "滋阴健脾",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "素菜",
+    "ingredients": [
+      "奶酪 100 克",
+      "菠菜 150 克"
+    ],
+    "steps": [
+      "菠菜炒软",
+      "下奶酪"
+    ],
+    "note": "素食滋阴参考。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "菠菜奶酪为印式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "in-naan-garlic",
+    "name": "蒜香烤饼",
+    "nature": "温",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "in-naan",
+      "garlic",
+      "butter"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "cuisine": "印式",
+    "recipeTopic": "温胃主食",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "烤饼",
+    "ingredients": [
+      "烤饼 2 张",
+      "蒜末",
+      "黄油少许"
+    ],
+    "steps": [
+      "烤热刷蒜黄油"
+    ],
+    "note": "日常主食适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "蒜香烤饼为印式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "in-biryani-lite",
+    "name": "印度香饭清版",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "in-biryani",
+      "chicken",
+      "ginger"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "cuisine": "印式",
+    "recipeTopic": "温中充饥",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "香料饭",
+    "ingredients": [
+      "香饭 1 碗",
+      "鸡肉 100 克"
+    ],
+    "steps": [
+      "鸡肉炒香",
+      "与饭同焖"
+    ],
+    "note": "冬季温补主食。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "印度香饭清版为印式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "in-chutney-snack",
+    "name": "芒果酸辣酱",
+    "nature": "温",
+    "syndromes": [
+      "脾胃气滞",
+      "食欲不振"
+    ],
+    "foodIds": [
+      "in-chutney",
+      "mango",
+      "ginger"
+    ],
+    "provinces": [
+      "印度"
+    ],
+    "cuisine": "印式",
+    "recipeTopic": "开胃消食",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "蘸酱",
+    "ingredients": [
+      "芒果酱 2 汤匙",
+      "姜丝少许"
+    ],
+    "steps": [
+      "配烤饼或蔬菜"
+    ],
+    "note": "胃口差时开胃。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "芒果酸辣酱为印式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "it-minestrone-lite",
+    "name": "意式蔬菜汤",
+    "nature": "平",
+    "syndromes": [
+      "胃气虚",
+      "脾气虚"
+    ],
+    "foodIds": [
+      "it-minestrone",
+      "tomato"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "cuisine": "意式",
+    "recipeTopic": "健脾润燥",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "杂菜汤",
+    "ingredients": [
+      "杂菜 200 克",
+      "番茄 1 个",
+      "豆类 50 克"
+    ],
+    "steps": [
+      "蔬菜同煮",
+      "炖 30 分钟"
+    ],
+    "note": "秋季润燥健脾汤。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "意式蔬菜汤为意式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "it-pasta-olive",
+    "name": "橄榄油意面",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "pasta-dry",
+      "olive-oil",
+      "garlic"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "cuisine": "意式",
+    "recipeTopic": "健脾润燥",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "主食",
+    "ingredients": [
+      "意面 150 克",
+      "橄榄油 1 汤匙",
+      "蒜末"
+    ],
+    "steps": [
+      "煮面拌油蒜"
+    ],
+    "note": "日常健脾主食控油。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "橄榄油意面为意式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "it-caprese-salad",
+    "name": "卡普雷塞沙拉",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "肝郁气滞"
+    ],
+    "foodIds": [
+      "tomato",
+      "mozzarella",
+      "basil-fresh"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "cuisine": "意式",
+    "recipeTopic": "清热开胃",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "沙拉",
+    "ingredients": [
+      "番茄 2 个",
+      "马苏里拉 80 克",
+      "罗勒叶"
+    ],
+    "steps": [
+      "切片摆盘",
+      "淋橄榄油"
+    ],
+    "note": "暑热食欲差时清鲜。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "卡普雷塞沙拉为意式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "it-risotto-mushroom",
+    "name": "蘑菇烩饭",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "it-risotto"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "cuisine": "意式",
+    "recipeTopic": "益气健脾",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "烩饭",
+    "ingredients": [
+      "烩饭米 100 克",
+      "蘑菇 80 克"
+    ],
+    "steps": [
+      "蘑菇炒香",
+      "与米同烩"
+    ],
+    "note": "秋季菌菇益气参考。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "蘑菇烩饭为意式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "it-pesto-pasta",
+    "name": "青酱意面",
+    "nature": "平",
+    "syndromes": [
+      "肝郁气滞",
+      "脾胃气滞"
+    ],
+    "foodIds": [
+      "pasta-dry",
+      "it-pesto",
+      "pine-nut-snack"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "cuisine": "意式",
+    "recipeTopic": "理气开胃",
+    "seasonTags": [
+      "春"
+    ],
+    "subtitle": "意面",
+    "ingredients": [
+      "意面 150 克",
+      "青酱 2 汤匙"
+    ],
+    "steps": [
+      "煮面拌青酱"
+    ],
+    "note": "春困食欲差时开胃。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "青酱意面为意式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "it-bolognese-lite",
+    "name": "肉酱面少油",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "it-bolognese",
+      "tomato",
+      "beef"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "cuisine": "意式",
+    "recipeTopic": "温胃主食",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "肉酱面",
+    "ingredients": [
+      "肉酱 100 克",
+      "意面 150 克"
+    ],
+    "steps": [
+      "煮面拌酱"
+    ],
+    "note": "冬季温补主食适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "肉酱面少油为意式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "it-tiramisu-lite",
+    "name": "提拉米苏小份",
+    "nature": "温",
+    "syndromes": [
+      "气血不足",
+      "心脾两虚"
+    ],
+    "foodIds": [
+      "it-tiramisu",
+      "coffee",
+      "egg"
+    ],
+    "provinces": [
+      "意大利"
+    ],
+    "cuisine": "意式",
+    "recipeTopic": "补益适量",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "甜点",
+    "ingredients": [
+      "提拉米苏 1 小块",
+      "咖啡 1 杯"
+    ],
+    "steps": [
+      "小份食用"
+    ],
+    "note": "控糖适量，失眠少咖啡。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "提拉米苏小份为意式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "fr-onion-soup-lite",
+    "name": "法式洋葱汤",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "胃寒"
+    ],
+    "foodIds": [
+      "onion",
+      "fr-onion-soup",
+      "mozzarella"
+    ],
+    "provinces": [
+      "法国"
+    ],
+    "cuisine": "法式",
+    "recipeTopic": "温胃散寒",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "浓汤",
+    "ingredients": [
+      "洋葱 2 个",
+      "芝士少许"
+    ],
+    "steps": [
+      "洋葱炒焦糖色",
+      "煮汤"
+    ],
+    "note": "冬季暖胃，高钠控量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "法式洋葱汤为法式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "fr-ratatouille-lite",
+    "name": "普罗旺斯炖菜",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "fr-ratatouille",
+      "tomato",
+      "eggplant"
+    ],
+    "provinces": [
+      "法国"
+    ],
+    "cuisine": "法式",
+    "recipeTopic": "润燥健脾",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "炖菜",
+    "ingredients": [
+      "茄子 1 个",
+      "番茄 2 个",
+      "西葫芦 1 根"
+    ],
+    "steps": [
+      "蔬菜同炖",
+      "炖 40 分钟"
+    ],
+    "note": "夏燥口干时适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "普罗旺斯炖菜为法式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "fr-crepe-honey",
+    "name": "可丽饼蜂蜜",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "fr-crepe",
+      "honey",
+      "butter"
+    ],
+    "provinces": [
+      "法国"
+    ],
+    "cuisine": "法式",
+    "recipeTopic": "健脾甜点",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "薄饼",
+    "ingredients": [
+      "可丽饼 1 张",
+      "蜂蜜 1 汤匙"
+    ],
+    "steps": [
+      "饼煎热",
+      "淋蜂蜜"
+    ],
+    "note": "控糖适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "可丽饼蜂蜜为法式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "gr-greek-salad-lite",
+    "name": "希腊沙拉",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "肝郁气滞"
+    ],
+    "foodIds": [
+      "gr-greek-salad",
+      "cucumber",
+      "olive-oil"
+    ],
+    "provinces": [
+      "希腊"
+    ],
+    "cuisine": "地中海式",
+    "recipeTopic": "清热开胃",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "沙拉",
+    "ingredients": [
+      "沙拉 1 碗",
+      "橄榄油 1 汤匙"
+    ],
+    "steps": [
+      "拌匀食用"
+    ],
+    "note": "暑热开胃轻食。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "希腊沙拉为地中海式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "gr-tzatziki-veg",
+    "name": "酸奶黄瓜蘸酱",
+    "nature": "凉",
+    "syndromes": [
+      "胃阴虚",
+      "暑湿"
+    ],
+    "foodIds": [
+      "gr-tzatziki",
+      "cucumber",
+      "garlic"
+    ],
+    "provinces": [
+      "希腊"
+    ],
+    "cuisine": "地中海式",
+    "recipeTopic": "清热开胃",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "蘸酱",
+    "ingredients": [
+      "酸奶黄瓜酱 3 汤匙",
+      "蔬菜条"
+    ],
+    "steps": [
+      "蔬菜蘸酱"
+    ],
+    "note": "暑热口干时适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "酸奶黄瓜蘸酱为地中海式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "gr-souvlaki-lite",
+    "name": "希腊烤肉串",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "gr-souvlaki",
+      "lamb",
+      "vinegar"
+    ],
+    "provinces": [
+      "希腊"
+    ],
+    "cuisine": "地中海式",
+    "recipeTopic": "温补气血",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "烤肉",
+    "ingredients": [
+      "羊肉 200 克",
+      "柠檬汁"
+    ],
+    "steps": [
+      "腌制烤熟"
+    ],
+    "note": "冬季温补适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "希腊烤肉串为地中海式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "gr-feta-salad",
+    "name": "羊奶酪沙拉",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "gr-feta",
+      "spinach",
+      "olive-oil"
+    ],
+    "provinces": [
+      "希腊"
+    ],
+    "cuisine": "地中海式",
+    "recipeTopic": "滋阴健脾",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "沙拉",
+    "ingredients": [
+      "羊奶酪 50 克",
+      "菠菜 100 克"
+    ],
+    "steps": [
+      "拌匀食用"
+    ],
+    "note": "素食滋阴参考。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "羊奶酪沙拉为地中海式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "tr-kebab-lite",
+    "name": "土耳其烤肉卷",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "tr-kebab",
+      "lamb",
+      "onion"
+    ],
+    "provinces": [
+      "土耳其"
+    ],
+    "cuisine": "土耳其式",
+    "recipeTopic": "温补气血",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "烤肉",
+    "ingredients": [
+      "羊肉 200 克",
+      "洋葱 半个"
+    ],
+    "steps": [
+      "烤肉配饼"
+    ],
+    "note": "冬季温补适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "土耳其烤肉卷为土耳其式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "tr-hummus-pita",
+    "name": "鹰嘴豆泥配饼",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "sa-hummus",
+      "chickpea",
+      "olive-oil"
+    ],
+    "provinces": [
+      "土耳其"
+    ],
+    "cuisine": "土耳其式",
+    "recipeTopic": "健脾高蛋白",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "素食",
+    "ingredients": [
+      "鹰嘴豆泥 3 汤匙",
+      "烤饼 1 张"
+    ],
+    "steps": [
+      "蘸食"
+    ],
+    "note": "素食健脾参考。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "鹰嘴豆泥配饼为土耳其式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "tr-lentil-soup",
+    "name": "土耳其扁豆汤",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "lentil",
+      "carrot"
+    ],
+    "provinces": [
+      "土耳其"
+    ],
+    "cuisine": "土耳其式",
+    "recipeTopic": "健脾充饥",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "汤品",
+    "ingredients": [
+      "扁豆 80 克",
+      "胡萝卜 1 根"
+    ],
+    "steps": [
+      "扁豆煮汤",
+      "炖 40 分钟"
+    ],
+    "note": "冬季健脾汤品。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "土耳其扁豆汤为土耳其式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "tr-ayran-cooling",
+    "name": "咸酸奶饮",
+    "nature": "平",
+    "syndromes": [
+      "暑湿",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "tr-ayran",
+      "yogurt",
+      "salt"
+    ],
+    "provinces": [
+      "土耳其"
+    ],
+    "cuisine": "土耳其式",
+    "recipeTopic": "健脾解暑",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "饮品",
+    "ingredients": [
+      "酸奶 200 毫升",
+      "盐少许",
+      "冰水"
+    ],
+    "steps": [
+      "打匀冰镇"
+    ],
+    "note": "暑热解暑控盐。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "咸酸奶饮为土耳其式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sa-shawarma-lite",
+    "name": "沙威玛少酱",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "sa-shawarma",
+      "chicken",
+      "cucumber"
+    ],
+    "provinces": [
+      "沙特阿拉伯"
+    ],
+    "cuisine": "中东式",
+    "recipeTopic": "温补适量",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "卷饼",
+    "ingredients": [
+      "鸡肉 150 克",
+      "黄瓜丝",
+      "卷饼 1 张"
+    ],
+    "steps": [
+      "鸡肉卷饼"
+    ],
+    "note": "日常温补适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "沙威玛少酱为中东式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sa-falafel-pita",
+    "name": "法拉费配饼",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "sa-falafel",
+      "chickpea",
+      "tahini"
+    ],
+    "provinces": [
+      "沙特阿拉伯"
+    ],
+    "cuisine": "中东式",
+    "recipeTopic": "健脾素食",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "素食",
+    "ingredients": [
+      "法拉费 4 个",
+      "烤饼 1 张"
+    ],
+    "steps": [
+      "夹饼蘸芝麻酱"
+    ],
+    "note": "素食健脾油炸控量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "法拉费配饼为中东式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "sa-tabouleh-lite",
+    "name": "塔博勒沙拉",
+    "nature": "凉",
+    "syndromes": [
+      "湿热内蕴",
+      "肝郁气滞"
+    ],
+    "foodIds": [
+      "c23-sa-tabouleh",
+      "parsley",
+      "vinegar"
+    ],
+    "provinces": [
+      "沙特阿拉伯"
+    ],
+    "cuisine": "中东式",
+    "recipeTopic": "清热开胃",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "沙拉",
+    "ingredients": [
+      "沙拉 1 碗",
+      "柠檬汁"
+    ],
+    "steps": [
+      "拌匀食用"
+    ],
+    "note": "暑热开胃轻食。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "塔博勒沙拉为中东式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "il-shakshuka-lite",
+    "name": "北非番茄炖蛋",
+    "nature": "温",
+    "syndromes": [
+      "胃气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "il-shakshuka",
+      "tomato",
+      "egg"
+    ],
+    "provinces": [
+      "以色列"
+    ],
+    "cuisine": "中东式",
+    "recipeTopic": "温胃早餐",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "炖蛋",
+    "ingredients": [
+      "番茄 2 个",
+      "鸡蛋 2 个"
+    ],
+    "steps": [
+      "番茄煮软",
+      "打入鸡蛋"
+    ],
+    "note": "早餐温胃易消化。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "北非番茄炖蛋为中东式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "mx-taco-lite",
+    "name": "塔可清版",
+    "nature": "温",
+    "syndromes": [
+      "脾气虚",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "mx-taco",
+      "beef",
+      "tomato"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "cuisine": "墨西哥式",
+    "recipeTopic": "温胃主食",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "玉米饼",
+    "ingredients": [
+      "玉米饼 2 张",
+      "牛肉末 80 克"
+    ],
+    "steps": [
+      "牛肉炒香",
+      "夹饼食用"
+    ],
+    "note": "日常主食适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "塔可清版为墨西哥式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "mx-guacamole-salad",
+    "name": "牛油果沙拉",
+    "nature": "平",
+    "syndromes": [
+      "胃阴虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "mx-guacamole",
+      "avocado",
+      "vinegar"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "cuisine": "墨西哥式",
+    "recipeTopic": "润燥开胃",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "沙拉",
+    "ingredients": [
+      "牛油果 1 个",
+      "青柠汁",
+      "番茄丁"
+    ],
+    "steps": [
+      "捣成泥拌蔬菜"
+    ],
+    "note": "秋燥口干时适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "牛油果沙拉为墨西哥式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "mx-bean-soup-lite",
+    "name": "墨西哥豆汤",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "black-bean",
+      "cumin"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "cuisine": "墨西哥式",
+    "recipeTopic": "健脾充饥",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "豆汤",
+    "ingredients": [
+      "黑豆 80 克",
+      "孜然少许"
+    ],
+    "steps": [
+      "豆子煮汤",
+      "炖 50 分钟"
+    ],
+    "note": "冬季健脾汤品。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "墨西哥豆汤为墨西哥式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "mx-enchilada-lite",
+    "name": "辣酱卷饼少辣",
+    "nature": "热",
+    "syndromes": [
+      "寒湿困脾",
+      "食欲不振"
+    ],
+    "foodIds": [
+      "mx-enchilada",
+      "chicken"
+    ],
+    "provinces": [
+      "墨西哥"
+    ],
+    "cuisine": "墨西哥式",
+    "recipeTopic": "祛湿开胃",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "卷饼",
+    "ingredients": [
+      "鸡肉 150 克",
+      "辣酱少许"
+    ],
+    "steps": [
+      "卷饼烤热"
+    ],
+    "note": "辛辣控量，胃热减量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "辣酱卷饼少辣为墨西哥式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "us-gumbo-lite",
+    "name": "秋葵浓汤",
+    "nature": "温",
+    "syndromes": [
+      "寒湿困脾",
+      "脾阳虚"
+    ],
+    "foodIds": [
+      "us-gumbo",
+      "shrimp",
+      "okra"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "cuisine": "美式",
+    "recipeTopic": "温胃祛湿",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "浓汤",
+    "ingredients": [
+      "虾仁 80 克",
+      "秋葵 100 克"
+    ],
+    "steps": [
+      "同煮浓汤",
+      "炖 25 分钟"
+    ],
+    "note": "冬季祛湿暖胃。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "秋葵浓汤为美式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "us-oatmeal-breakfast",
+    "name": "美式燕麦粥",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "肠燥便秘"
+    ],
+    "foodIds": [
+      "c23-us-oatmeal",
+      "honey",
+      "apple"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "cuisine": "美式",
+    "recipeTopic": "健脾润肠",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "早餐",
+    "ingredients": [
+      "燕麦 50 克",
+      "苹果丁",
+      "蜂蜜少许"
+    ],
+    "steps": [
+      "燕麦煮粥",
+      "拌苹果"
+    ],
+    "note": "秋季润肠早餐控糖。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "美式燕麦粥为美式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "us-clam-chowder-lite",
+    "name": "蛤蜊浓汤清版",
+    "nature": "温",
+    "syndromes": [
+      "气血不足",
+      "胃气虚"
+    ],
+    "foodIds": [
+      "us-clam-chowder",
+      "clam"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "cuisine": "美式",
+    "recipeTopic": "益气补虚",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "浓汤",
+    "ingredients": [
+      "蛤蜊 150 克",
+      "土豆 1 个"
+    ],
+    "steps": [
+      "蛤蜊煮汤",
+      "加土豆"
+    ],
+    "note": "体虚乏力时适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "蛤蜊浓汤清版为美式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "us-caesar-salad-lite",
+    "name": "凯撒沙拉少酱",
+    "nature": "平",
+    "syndromes": [
+      "脾胃气滞",
+      "湿热内蕴"
+    ],
+    "foodIds": [
+      "us-caesar-salad",
+      "lettuce",
+      "chicken"
+    ],
+    "provinces": [
+      "美国"
+    ],
+    "cuisine": "美式",
+    "recipeTopic": "健脾轻食",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "沙拉",
+    "ingredients": [
+      "生菜 150 克",
+      "鸡肉 80 克"
+    ],
+    "steps": [
+      "拌沙拉酱食用"
+    ],
+    "note": "控油适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "凯撒沙拉少酱为美式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "br-feijoada-lite",
+    "name": "巴西黑豆炖肉",
+    "nature": "温",
+    "syndromes": [
+      "脾阳虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "br-feijoada",
+      "black-bean",
+      "pork"
+    ],
+    "provinces": [
+      "巴西"
+    ],
+    "cuisine": "巴西式",
+    "recipeTopic": "温中补虚",
+    "seasonTags": [
+      "冬"
+    ],
+    "subtitle": "炖菜",
+    "ingredients": [
+      "黑豆 80 克",
+      "猪肉 100 克"
+    ],
+    "steps": [
+      "豆子炖肉",
+      "炖 60 分钟"
+    ],
+    "note": "冬季温补适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "巴西黑豆炖肉为巴西式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "br-acai-bowl-lite",
+    "name": "巴西莓碗",
+    "nature": "凉",
+    "syndromes": [
+      "肝郁气滞",
+      "暑湿"
+    ],
+    "foodIds": [
+      "br-acai-bowl",
+      "banana",
+      "honey"
+    ],
+    "provinces": [
+      "巴西"
+    ],
+    "cuisine": "巴西式",
+    "recipeTopic": "清热抗氧化",
+    "seasonTags": [
+      "夏"
+    ],
+    "subtitle": "早餐碗",
+    "ingredients": [
+      "巴西莓泥 100 克",
+      "香蕉 半根"
+    ],
+    "steps": [
+      "装碗配水果"
+    ],
+    "note": "控糖适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "巴西莓碗为巴西式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "ca-maple-oat",
+    "name": "枫糖燕麦",
+    "nature": "平",
+    "syndromes": [
+      "脾气虚",
+      "气血不足"
+    ],
+    "foodIds": [
+      "ca-maple-syrup",
+      "oats",
+      "milk"
+    ],
+    "provinces": [
+      "加拿大"
+    ],
+    "cuisine": "加式",
+    "recipeTopic": "健脾早餐",
+    "seasonTags": [
+      "秋"
+    ],
+    "subtitle": "早餐",
+    "ingredients": [
+      "燕麦 50 克",
+      "枫糖浆 1 茶匙"
+    ],
+    "steps": [
+      "燕麦煮粥",
+      "淋枫糖"
+    ],
+    "note": "控糖适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "枫糖燕麦为加式常见食养方。"
+      }
+    ],
+    "draft": false
+  },
+  {
+    "id": "ca-salmon-smoked",
+    "name": "熏三文鱼轻食",
+    "nature": "平",
+    "syndromes": [
+      "气血不足",
+      "胃阴虚"
+    ],
+    "foodIds": [
+      "ca-smoked-salmon",
+      "cucumber",
+      "rice"
+    ],
+    "provinces": [
+      "加拿大"
+    ],
+    "cuisine": "加式",
+    "recipeTopic": "滋阴补虚",
+    "seasonTags": [
+      "四季"
+    ],
+    "subtitle": "轻食",
+    "ingredients": [
+      "熏三文鱼 80 克",
+      "黄瓜片",
+      "米饭少许"
+    ],
+    "steps": [
+      "摆盘同食"
+    ],
+    "note": "高蛋白适量。",
+    "sources": [
+      {
+        "title": "地域食疗整理",
+        "summary": "熏三文鱼轻食为加式常见食养方。"
+      }
+    ],
+    "draft": false
   }
 ];

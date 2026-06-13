@@ -1,0 +1,972 @@
+[
+  {
+    "id": "kr-ssamjang",
+    "name": "韩式包饭酱",
+    "en": "韩式包饭酱",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "包饭酱",
+      "蘸酱"
+    ],
+    "pinyin": "krssamjang",
+    "initials": "kr-",
+    "searchTerms": [
+      "韩式包饭酱",
+      "包饭酱",
+      "蘸酱",
+      "kr-ssamjang"
+    ],
+    "summary": "韩国包饭酱，辛温开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-gochugaru",
+    "name": "韩式辣椒粉",
+    "en": "韩式辣椒粉",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "粗辣椒粉",
+      "辣椒面"
+    ],
+    "pinyin": "krgochugaru",
+    "initials": "kr-",
+    "searchTerms": [
+      "韩式辣椒粉",
+      "粗辣椒粉",
+      "辣椒面",
+      "kr-gochugaru"
+    ],
+    "summary": "韩国辣椒粉，辛热开胃适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-perilla-leaf",
+    "name": "苏子叶",
+    "en": "苏子叶",
+    "category": "蔬菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "紫苏叶",
+      "包饭叶"
+    ],
+    "pinyin": "krperillaleaf",
+    "initials": "kr-",
+    "searchTerms": [
+      "苏子叶",
+      "紫苏叶",
+      "包饭叶",
+      "kr-perilla-leaf"
+    ],
+    "summary": "韩国苏子叶，理气开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-bulgogi",
+    "name": "韩式烤牛肉",
+    "en": "韩式烤牛肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "烤肉",
+      "烤牛肉"
+    ],
+    "pinyin": "krbulgogi",
+    "initials": "kr-",
+    "searchTerms": [
+      "韩式烤牛肉",
+      "烤肉",
+      "烤牛肉",
+      "kr-bulgogi"
+    ],
+    "summary": "韩国烤牛肉，温补气血适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-bibimbap",
+    "name": "石锅拌饭",
+    "en": "石锅拌饭",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "拌饭",
+      "石锅饭"
+    ],
+    "pinyin": "krbibimbap",
+    "initials": "kr-",
+    "searchTerms": [
+      "石锅拌饭",
+      "拌饭",
+      "石锅饭",
+      "kr-bibimbap"
+    ],
+    "summary": "韩国石锅拌饭，健脾充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-japchae",
+    "name": "杂菜",
+    "en": "杂菜",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "粉丝杂菜",
+      "炒粉丝"
+    ],
+    "pinyin": "krjapchae",
+    "initials": "kr-",
+    "searchTerms": [
+      "杂菜",
+      "粉丝杂菜",
+      "炒粉丝",
+      "kr-japchae"
+    ],
+    "summary": "韩国杂菜，健脾润燥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-kimchi-jjigae",
+    "name": "泡菜锅",
+    "en": "泡菜锅",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "泡菜汤",
+      "泡菜锅"
+    ],
+    "pinyin": "krkimchijjigae",
+    "initials": "kr-",
+    "searchTerms": [
+      "泡菜锅",
+      "泡菜汤",
+      "kr-kimchi-jjigae"
+    ],
+    "summary": "韩国泡菜锅，温胃开胃适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-sundubu",
+    "name": "嫩豆腐锅",
+    "en": "嫩豆腐锅",
+    "category": "豆制品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "豆腐锅",
+      "辣豆腐汤"
+    ],
+    "pinyin": "krsundubu",
+    "initials": "kr-",
+    "searchTerms": [
+      "嫩豆腐锅",
+      "豆腐锅",
+      "辣豆腐汤",
+      "kr-sundubu"
+    ],
+    "summary": "韩国嫩豆腐锅，温胃补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-samgyeopsal",
+    "name": "五花肉烤肉",
+    "en": "五花肉烤肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "烤五花肉"
+    ],
+    "pinyin": "krsamgyeopsal",
+    "initials": "kr-",
+    "searchTerms": [
+      "五花肉烤肉",
+      "烤五花肉",
+      "kr-samgyeopsal"
+    ],
+    "summary": "韩国烤五花肉，温中补虚适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-gimbap",
+    "name": "紫菜包饭",
+    "en": "紫菜包饭",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "饭卷",
+      "韩式寿司"
+    ],
+    "pinyin": "krgimbap",
+    "initials": "kr-",
+    "searchTerms": [
+      "紫菜包饭",
+      "饭卷",
+      "韩式寿司",
+      "kr-gimbap"
+    ],
+    "summary": "韩国紫菜包饭，便携主食。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-tteokbokki",
+    "name": "辣炒年糕",
+    "en": "辣炒年糕",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "炒年糕",
+      "辣年糕"
+    ],
+    "pinyin": "krtteokbokki",
+    "initials": "kr-",
+    "searchTerms": [
+      "辣炒年糕",
+      "炒年糕",
+      "辣年糕",
+      "kr-tteokbokki"
+    ],
+    "summary": "韩国辣炒年糕，温胃小食辛辣控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-galbi",
+    "name": "韩式烤排骨",
+    "en": "韩式烤排骨",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "烤排骨",
+      "牛小排"
+    ],
+    "pinyin": "krgalbi",
+    "initials": "kr-",
+    "searchTerms": [
+      "韩式烤排骨",
+      "烤排骨",
+      "牛小排",
+      "kr-galbi"
+    ],
+    "summary": "韩国烤排骨，温补气血适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-jjajangmyeon",
+    "name": "炸酱面",
+    "en": "炸酱面",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "韩式炸酱面"
+    ],
+    "pinyin": "krjjajangmyeon",
+    "initials": "kr-",
+    "searchTerms": [
+      "炸酱面",
+      "韩式炸酱面",
+      "kr-jjajangmyeon"
+    ],
+    "summary": "韩国炸酱面，健脾充饥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-naengmyeon",
+    "name": "冷面",
+    "en": "冷面",
+    "category": "主食",
+    "nature": "凉",
+    "effects": [
+      "清热",
+      "清润"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "荞麦冷面",
+      "冰面"
+    ],
+    "pinyin": "krnaengmyeon",
+    "initials": "kr-",
+    "searchTerms": [
+      "冷面",
+      "荞麦冷面",
+      "冰面",
+      "kr-naengmyeon"
+    ],
+    "summary": "韩国冷面，清热解暑夏季。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-hotteok",
+    "name": "糖饼",
+    "en": "糖饼",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "甜煎饼",
+      "韩式糖饼"
+    ],
+    "pinyin": "krhotteok",
+    "initials": "kr-",
+    "searchTerms": [
+      "糖饼",
+      "甜煎饼",
+      "韩式糖饼",
+      "kr-hotteok"
+    ],
+    "summary": "韩国糖饼，温胃甜点适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-makgeolli",
+    "name": "马格利酒",
+    "en": "马格利酒",
+    "category": "饮品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "米酒",
+      "浊酒"
+    ],
+    "pinyin": "krmakgeolli",
+    "initials": "kr-",
+    "searchTerms": [
+      "马格利酒",
+      "米酒",
+      "浊酒",
+      "kr-makgeolli"
+    ],
+    "summary": "韩国马格利酒，温胃少量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-soju",
+    "name": "烧酒",
+    "en": "烧酒",
+    "category": "饮品",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "韩国烧酒"
+    ],
+    "pinyin": "krsoju",
+    "initials": "kr-",
+    "searchTerms": [
+      "烧酒",
+      "韩国烧酒",
+      "kr-soju"
+    ],
+    "summary": "韩国烧酒，辛热少量，孕妇禁用。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-doenjang-jjigae",
+    "name": "大酱汤",
+    "en": "大酱汤",
+    "category": "豆制品",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "味噌汤",
+      "大酱锅"
+    ],
+    "pinyin": "krdoenjangjjigae",
+    "initials": "kr-",
+    "searchTerms": [
+      "大酱汤",
+      "味噌汤",
+      "大酱锅",
+      "kr-doenjang-jjigae"
+    ],
+    "summary": "韩国大酱汤，温胃健脾。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-kongnamul",
+    "name": "豆芽拌菜",
+    "en": "豆芽拌菜",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "凉拌豆芽"
+    ],
+    "pinyin": "krkongnamul",
+    "initials": "kr-",
+    "searchTerms": [
+      "豆芽拌菜",
+      "凉拌豆芽",
+      "kr-kongnamul"
+    ],
+    "summary": "韩国豆芽拌菜，清热健脾。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-pajeon",
+    "name": "葱煎饼",
+    "en": "葱煎饼",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "海鲜葱饼",
+      "煎饼"
+    ],
+    "pinyin": "krpajeon",
+    "initials": "kr-",
+    "searchTerms": [
+      "葱煎饼",
+      "海鲜葱饼",
+      "煎饼",
+      "kr-pajeon"
+    ],
+    "summary": "韩国葱煎饼，温胃小食适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-haemul-pajeon",
+    "name": "海鲜葱饼",
+    "en": "海鲜葱饼",
+    "category": "海产",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "海鲜煎饼"
+    ],
+    "pinyin": "krhaemulpajeon",
+    "initials": "kr-",
+    "searchTerms": [
+      "海鲜葱饼",
+      "海鲜煎饼",
+      "kr-haemul-pajeon"
+    ],
+    "summary": "韩国海鲜葱饼，益气鲜味适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-yukgaejang",
+    "name": "辣牛肉汤",
+    "en": "辣牛肉汤",
+    "category": "肉蛋奶",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "牛肉辣汤"
+    ],
+    "pinyin": "kryukgaejang",
+    "initials": "kr-",
+    "searchTerms": [
+      "辣牛肉汤",
+      "牛肉辣汤",
+      "kr-yukgaejang"
+    ],
+    "summary": "韩国辣牛肉汤，温阳散寒冬季。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-seolleongtang",
+    "name": "雪浓汤",
+    "en": "雪浓汤",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "牛骨汤",
+      "雪浓汤"
+    ],
+    "pinyin": "krseolleongtang",
+    "initials": "kr-",
+    "searchTerms": [
+      "雪浓汤",
+      "牛骨汤",
+      "kr-seolleongtang"
+    ],
+    "summary": "韩国牛骨汤，温胃补虚。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-bossam",
+    "name": "包肉",
+    "en": "包肉",
+    "category": "肉蛋奶",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "白切肉",
+      "包生菜"
+    ],
+    "pinyin": "krbossam",
+    "initials": "kr-",
+    "searchTerms": [
+      "包肉",
+      "白切肉",
+      "包生菜",
+      "kr-bossam"
+    ],
+    "summary": "韩国包肉，温补适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-kimchi-pancake",
+    "name": "泡菜煎饼",
+    "en": "泡菜煎饼",
+    "category": "腌菜",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "泡菜饼"
+    ],
+    "pinyin": "krkimchipancake",
+    "initials": "kr-",
+    "searchTerms": [
+      "泡菜煎饼",
+      "泡菜饼",
+      "kr-kimchi-pancake"
+    ],
+    "summary": "韩国泡菜煎饼，开胃小食适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-rice-cake",
+    "name": "韩式年糕",
+    "en": "韩式年糕",
+    "category": "主食",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "年糕",
+      "打糕"
+    ],
+    "pinyin": "krricecake",
+    "initials": "kr-",
+    "searchTerms": [
+      "韩式年糕",
+      "年糕",
+      "打糕",
+      "kr-rice-cake"
+    ],
+    "summary": "韩国年糕，糯米主食适量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-perilla-oil",
+    "name": "苏子油",
+    "en": "苏子油",
+    "category": "调料",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "紫苏油"
+    ],
+    "pinyin": "krperillaoil",
+    "initials": "kr-",
+    "searchTerms": [
+      "苏子油",
+      "紫苏油",
+      "kr-perilla-oil"
+    ],
+    "summary": "韩国苏子油，润燥调味。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-red-pepper-paste-soup",
+    "name": "辣酱汤",
+    "en": "辣酱汤",
+    "category": "调料",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "辣酱汤底"
+    ],
+    "pinyin": "krredpepperpastesoup",
+    "initials": "kr-",
+    "searchTerms": [
+      "辣酱汤",
+      "辣酱汤底",
+      "kr-red-pepper-paste-soup"
+    ],
+    "summary": "韩国辣酱汤底，辛热开胃。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-dakgalbi",
+    "name": "辣炒鸡排",
+    "en": "辣炒鸡排",
+    "category": "肉蛋奶",
+    "nature": "热",
+    "effects": [
+      "温阳",
+      "散寒"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "炒鸡排",
+      "辣鸡"
+    ],
+    "pinyin": "krdakgalbi",
+    "initials": "kr-",
+    "searchTerms": [
+      "辣炒鸡排",
+      "炒鸡排",
+      "辣鸡",
+      "kr-dakgalbi"
+    ],
+    "summary": "韩国辣炒鸡排，温阳开胃辛辣控量。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-sikhye",
+    "name": "甜米露",
+    "en": "甜米露",
+    "category": "饮品",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "米露",
+      "甜饮"
+    ],
+    "pinyin": "krsikhye",
+    "initials": "kr-",
+    "searchTerms": [
+      "甜米露",
+      "米露",
+      "甜饮",
+      "kr-sikhye"
+    ],
+    "summary": "韩国甜米露，健脾甜点控糖。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-banchan-spinach",
+    "name": "凉拌菠菜",
+    "en": "凉拌菠菜",
+    "category": "蔬菜",
+    "nature": "平",
+    "effects": [
+      "健脾",
+      "补虚"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "菠菜小菜"
+    ],
+    "pinyin": "krbanchanspinach",
+    "initials": "kr-",
+    "searchTerms": [
+      "凉拌菠菜",
+      "菠菜小菜",
+      "kr-banchan-spinach"
+    ],
+    "summary": "韩国凉拌菠菜，滋阴润燥。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  },
+  {
+    "id": "kr-instant-ramyeon",
+    "name": "韩式方便面",
+    "en": "韩式方便面",
+    "category": "主食",
+    "nature": "温",
+    "effects": [
+      "暖胃",
+      "补气"
+    ],
+    "regions": [
+      "KR"
+    ],
+    "provinces": [
+      "韩国"
+    ],
+    "aliases": [
+      "辛拉面",
+      "方便面"
+    ],
+    "pinyin": "krinstantramyeon",
+    "initials": "kr-",
+    "searchTerms": [
+      "韩式方便面",
+      "辛拉面",
+      "方便面",
+      "kr-instant-ramyeon"
+    ],
+    "summary": "韩国方便面，温胃速食适量控盐。",
+    "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。"
+  }
+]
