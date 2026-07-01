@@ -65,7 +65,8 @@ const aliasMap = loadFoodIdAliasMap();
 
 Object.entries(aliasMap).forEach(([alias, canonical]) => {
   if (alias === canonical) errors.push(`Alias maps to itself: ${alias}`);
-  if (!allFoodIds.has(canonical)) errors.push(`Alias canonical missing from catalog: ${alias} -> ${canonical}`);
+  const resolved = resolveFoodId(canonical, aliasMap);
+  if (!allFoodIds.has(resolved)) errors.push(`Alias canonical missing from catalog: ${alias} -> ${canonical}`);
 });
 
 function collectRecipeFoodRefs(sources) {
