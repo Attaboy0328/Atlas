@@ -1724,6 +1724,7 @@ function collectTagCounts(items, tagKey) {
 }
 
 let libraryCatalog = [];
+let libraryVisibleIds = new Set();
 let libraryItemsCache = { key: "", items: [] };
 let recipesItemsCache = { key: "", items: [] };
 let PROVINCE_COUNTS = {};
@@ -1889,7 +1890,7 @@ function rebuildAppIndexes() {
     (item) => item.region
   );
   rebuildFoodSearchSynonymMap();
-  libraryCatalog = foods.filter((food) => !food.hiddenFromLibrary);
+  ({ catalog: libraryCatalog, visibleIds: libraryVisibleIds } = buildLibraryCatalog(foods));
   PROVINCE_COUNTS = collectTagCounts(libraryCatalog, "provinces");
   ETHNIC_COUNTS = collectTagCounts(libraryCatalog, "ethnicGroups");
   PROVINCES_IN_CATALOG = Object.keys(PROVINCE_COUNTS)
@@ -2944,7 +2945,18 @@ function saveJson(key, value) {
 }
 
 function navigate(view) {
-  if (state.view === view) return;
+  const sameView = state.view === view;
+  if (sameView) {
+    if (state.sheet) {
+      state.sheet = null;
+      dismissSheetChrome();
+    }
+    syncNav();
+    render();
+    app.scrollTop = 0;
+    updateTopbarOnScroll();
+    return;
+  }
 
   if (view === "recipes" && typeof window.atlasEnsureDeferredBundles === "function") {
     window.atlasEnsureDeferredBundles();
@@ -2966,7 +2978,9 @@ function navigate(view) {
     updateTopbarOnScroll();
   };
 
-  if (document.startViewTransition) {
+  const skipViewTransition = view === "library" || view === "recipes";
+
+  if (document.startViewTransition && !skipViewTransition) {
     document.documentElement.classList.add("ios-silk-transition");
     state.isNavigating = false; // Disable children stagger to let startViewTransition animate perfectly
     const vt = document.startViewTransition(() => {
@@ -2979,6 +2993,9 @@ function navigate(view) {
         appContainer.classList.remove("ios-navigation-active");
       }
     });
+  } else if (skipViewTransition) {
+    state.isNavigating = false;
+    transitionUpdate();
   } else {
     state.isNavigating = true; // Enabled for beautiful fallback card-rise animation
     const appContainer = document.getElementById("app");
@@ -5338,12 +5355,24 @@ function isKitFormVariant(food) {
   return hasVisibleFoodNamed(base, food.id);
 }
 
-function shouldHideLinkedDaoDiOriginInLibrary(food) {
-  if (food.hiddenFromLibrary) return true;
-  if (isPoolVariantSuffixNoise(food)) return true;
-  if (isParentheticalFormVariant(food)) return true;
-  if (isKitFormVariant(food)) return true;
-  return isLinkedDaoDiOriginDuplicate(food, foods.filter((item) => !item.hiddenFromLibrary && !item.isOriginProduct));
+function buildLibraryCatalog(allFoods) {
+  const nonOriginVisible = allFoods.filter((item) => !item.hiddenFromLibrary && !item.isOriginProduct);
+  const catalog = [];
+  const visibleIds = new Set();
+  allFoods.forEach((food) => {
+    if (food.hiddenFromLibrary) return;
+    if (isPoolVariantSuffixNoise(food)) return;
+    if (isParentheticalFormVariant(food)) return;
+    if (isKitFormVariant(food)) return;
+    if (isLinkedDaoDiOriginDuplicate(food, nonOriginVisible)) return;
+    catalog.push(food);
+    visibleIds.add(food.id);
+  });
+  return { catalog, visibleIds };
+}
+
+function isLibraryVisibleFood(food) {
+  return Boolean(food?.id && libraryVisibleIds.has(food.id));
 }
 
 function matchDietaryScene(food, scene) {
@@ -5355,7 +5384,7 @@ function filterFoods() {
   const term = cleanString(state.libraryQuery).toLowerCase();
   const base = term ? searchFoods(state.libraryQuery) : libraryCatalog;
   return base.filter((food) => {
-    if (shouldHideLinkedDaoDiOriginInLibrary(food)) return false;
+    if (!isLibraryVisibleFood(food)) return false;
     const byKind = matchLibraryKind(food, state.libraryKind);
     const byCert = !state.libraryCertFilter || matchCertFilter(food, state.libraryCertFilter);
     const byDaoDiSystem = matchDaoDiSystem(food, state.libraryDaoDiSystem);
