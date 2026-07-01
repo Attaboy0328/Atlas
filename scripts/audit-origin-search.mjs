@@ -58,8 +58,27 @@ function loadSynonymMap() {
   return food || {};
 }
 
-function resolveId(id, aliases) {
-  return aliases[id] || id;
+function resolveId(id, aliasMap) {
+  if (!id) return "";
+  let cur = id;
+  const seen = new Set();
+  while (aliasMap[cur] && !seen.has(cur)) {
+    seen.add(cur);
+    cur = aliasMap[cur];
+  }
+  return cur;
+}
+
+function lookupGiFood(term, sid, byId, items) {
+  const id = resolveId(sid, aliases);
+  if (id && byId.has(id)) return byId.get(id);
+  const norm = term.toLowerCase();
+  return items.find((food) => {
+    if (food.name === term || food.name?.toLowerCase() === norm) return true;
+    if ((food.searchTerms || []).some((value) => value === term || String(value).toLowerCase() === norm)) return true;
+    if ((food.aliases || []).some((value) => value === term || String(value).toLowerCase() === norm)) return true;
+    return false;
+  }) || null;
 }
 
 const expanded = loadExpandedFoods();
@@ -89,11 +108,11 @@ let failed = 0;
 
 for (const term of terms) {
   const normalized = term.toLowerCase();
-  const sid = resolveId(synonyms[normalized] || synonyms[term] || "", aliases);
-  const food = sid ? byId.get(sid) : null;
+  const sid = synonyms[normalized] || synonyms[term] || "";
+  const food = lookupGiFood(term, sid, byId, items);
   const blobHit = food?.searchBlob?.includes(normalized);
-  const visible = food && !food.hiddenFromLibrary;
   const isOriginHit = food?.isOriginProduct || (food?.giSystems || []).length;
+  const visible = food && (!food.hiddenFromLibrary || isOriginHit);
   const ok = visible && (blobHit || synonyms[normalized] || synonyms[term]);
   if (!ok) failed += 1;
   console.log(

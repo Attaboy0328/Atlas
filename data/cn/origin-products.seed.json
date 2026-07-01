@@ -325,5 +325,45 @@
       "fetchedAt": "2026-06-08",
       "note": "PEOP 为历史认证体系示例条目；现行认证以公开登记机关公告为准。"
     }
+  },
+  {
+    "id": "yangcheng-lake-crab",
+    "name": "阳澄湖大闸蟹",
+    "baseFoodId": "crab",
+    "category": "海产",
+    "nature": "寒",
+    "provinces": ["江苏", "苏州"],
+    "aliases": ["大闸蟹", "阳澄湖蟹"],
+    "searchTerms": ["yangchenghu", "大闸蟹", "阳澄湖大闸蟹", "阳澄湖蟹"],
+    "giSystems": [
+      { "system": "mara", "type": "农产品地理标志", "label": "农业农村部农产品地理标志" }
+    ],
+    "summary": "阳澄湖大闸蟹为江浙常见地理标志水产。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "https://www.moa.gov.cn/",
+      "sourceId": "seed-yangcheng-lake-crab",
+      "fetchedAt": "2026-06-08"
+    }
+  },
+  {
+    "id": "fuling-mustard-tuber",
+    "name": "涪陵榨菜",
+    "baseFoodId": "zhacai",
+    "category": "腌菜",
+    "nature": "温",
+    "provinces": ["重庆", "涪陵"],
+    "aliases": ["榨菜"],
+    "searchTerms": ["fuling", "涪陵榨菜", "榨菜"],
+    "giSystems": [
+      { "system": "mara", "type": "农产品地理标志", "label": "农业农村部农产品地理标志" }
+    ],
+    "summary": "涪陵榨菜为重庆涪陵地理标志腌菜。",
+    "provenance": {
+      "source": "mara",
+      "sourceUrl": "https://www.moa.gov.cn/",
+      "sourceId": "seed-fuling-mustard-tuber",
+      "fetchedAt": "2026-06-08"
+    }
   }
 ]
