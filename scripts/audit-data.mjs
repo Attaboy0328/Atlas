@@ -6,9 +6,11 @@
 import fs from "fs";
 import path from "path";
 import {
+  CN_JSON_SOURCES,
   loadFoodCatalogMeta,
   loadFoodIdAliasMap,
   loadFoodCatalogIds,
+  readCnJson,
   resolveFoodId,
   root
 } from "./lib/food-catalog.mjs";
@@ -29,21 +31,36 @@ const foods = loadFoodCatalogMeta();
 // Orphan aliases
 Object.entries(aliasMap).forEach(([alias, canonical]) => {
   if (alias === canonical) warnings.push(`Alias self-map: ${alias}`);
-  if (!catalogIds.has(canonical)) warnings.push(`Alias canonical missing from catalog: ${alias} -> ${canonical}`);
+  const resolved = resolveFoodId(canonical, aliasMap);
+  if (!catalogIds.has(resolved)) warnings.push(`Alias canonical missing from catalog: ${alias} -> ${canonical}`);
 });
 
-// Duplicate names, different ids (after alias resolve)
-const byName = new Map();
-foods.forEach((food) => {
-  const key = food.name;
-  if (!byName.has(key)) byName.set(key, new Set());
-  byName.get(key).add(resolveFoodId(food.id, aliasMap));
+const hiddenCnIds = new Set();
+CN_JSON_SOURCES.flatMap((file) => readCnJson(file)).forEach((food) => {
+  if (food?.hiddenFromLibrary && food?.id) hiddenCnIds.add(food.id);
 });
-const dupNames = [...byName.entries()].filter(([, ids]) => ids.size > 1);
+const visibleFoods = foods.filter((food) => !hiddenCnIds.has(food.id));
+
+function countDuplicateNames(foodRows) {
+  const byName = new Map();
+  foodRows.forEach((food) => {
+    const key = food.name;
+    if (!byName.has(key)) byName.set(key, new Set());
+    byName.get(key).add(resolveFoodId(food.id, aliasMap));
+  });
+  return [...byName.entries()].filter(([, ids]) => ids.size > 1);
+}
+
+// Duplicate names, different ids (after alias resolve)
+const dupNames = countDuplicateNames(foods);
+const visibleDupNames = countDuplicateNames(visibleFoods);
 if (dupNames.length) {
   info.push(`duplicate food names (different ids): ${dupNames.length} (see alias table to consolidate)`);
-  if (dupNames.length >= 300) {
-    warnings.push(`duplicate food names ${dupNames.length} >= 300 — run consolidate:aliases`);
+  if (visibleDupNames.length) {
+    info.push(`visible duplicate food names: ${visibleDupNames.length}`);
+  }
+  if (visibleDupNames.length >= 300) {
+    warnings.push(`visible duplicate food names ${visibleDupNames.length} >= 300 — run consolidate:aliases`);
   }
 }
 
