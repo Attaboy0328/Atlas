@@ -1,83 +1,326 @@
 [
-  { "term": "龙井", "foodId": "xihu-longjing" },
-  { "term": "longjing", "foodId": "xihu-longjing" },
-  { "term": "西湖龙井", "foodId": "xihu-longjing" },
-  { "term": "铁观音", "foodId": "anxi-tieguanyin" },
-  { "term": "tieguanyin", "foodId": "anxi-tieguanyin" },
-  { "term": "安溪铁观音", "foodId": "anxi-tieguanyin" },
-  { "term": "普洱", "foodId": "yunnan-puer-gi" },
-  { "term": "普洱茶", "foodId": "yunnan-puer-gi" },
-  { "term": "puer", "foodId": "yunnan-puer-gi" },
-  { "term": "岩茶", "foodId": "wuyi-rock-tea" },
-  { "term": "武夷岩茶", "foodId": "wuyi-rock-tea" },
-  { "term": "大闸蟹", "foodId": "yangcheng-lake-crab" },
-  { "term": "阳澄湖大闸蟹", "foodId": "yangcheng-lake-crab" },
-  { "term": "阳澄湖蟹", "foodId": "yangcheng-lake-crab" },
-  { "term": "yangchenghu", "foodId": "yangcheng-lake-crab" },
-  { "term": "赣南脐橙", "foodId": "gannan-navel-orange" },
-  { "term": "脐橙", "foodId": "gannan-navel-orange" },
-  { "term": "gannan", "foodId": "gannan-navel-orange" },
-  { "term": "五常大米", "foodId": "wuchang-rice" },
-  { "term": "五常米", "foodId": "wuchang-rice" },
-  { "term": "wuchang", "foodId": "wuchang-rice" },
-  { "term": "新会陈皮", "foodId": "xinhui-chenpi-gi" },
-  { "term": "陈皮", "foodId": "chenpi" },
-  { "term": "xinhui", "foodId": "xinhui-chenpi-gi" },
-  { "term": "宁夏枸杞", "foodId": "ningxia-goji-origin" },
-  { "term": "中宁枸杞", "foodId": "ningxia-goji-origin" },
-  { "term": "文山三七", "foodId": "wenshan-sanqi" },
-  { "term": "三七", "foodId": "panax-notoginseng" },
-  { "term": "霍山石斛", "foodId": "huoshan-shihu-gi" },
-  { "term": "石斛", "foodId": "dendrobium-officinale" },
-  { "term": "建宁莲子", "foodId": "jianning-lotus-seed" },
-  { "term": "建莲", "foodId": "jianning-lotus-seed" },
-  { "term": "岷县当归", "foodId": "minxian-angelica-gi" },
-  { "term": "当归", "foodId": "angelica-sinensis" },
-  { "term": "陇西黄芪", "foodId": "longxi-astragalus-gi" },
-  { "term": "黄芪", "foodId": "astragalus-membranaceus" },
-  { "term": "怀山药", "foodId": "huai-yam-gi" },
-  { "term": "温县怀山药", "foodId": "mara-wenxian-yam-gi" },
-  { "term": "库尔勒香梨", "foodId": "korla-pear-gi" },
-  { "term": "香梨", "foodId": "korla-pear-gi" },
-  { "term": "哈密瓜", "foodId": "hami-melon-gi" },
-  { "term": "吐鲁番葡萄", "foodId": "turpan-grape-gi" },
-  { "term": "金华火腿", "foodId": "jinhua-ham-gi" },
-  { "term": "宣威火腿", "foodId": "xuanwei-ham-gi" },
-  { "term": "涪陵榨菜", "foodId": "fuling-mustard-tuber" },
-  { "term": "章丘大葱", "foodId": "zhangqiu-scallion-gi" },
-  { "term": "龙口粉丝", "foodId": "longkou-vermicelli-gi" },
-  { "term": "安吉白茶", "foodId": "anji-white-tea-gi" },
-  { "term": "黄山毛峰", "foodId": "huangshan-maofeng-gi" },
-  { "term": "祁门红茶", "foodId": "keemun-black-tea-gi" },
-  { "term": "都匀毛尖", "foodId": "duyun-maojian-gi" },
-  { "term": "茅台酒", "foodId": "moutai-gi" },
-  { "term": "茅台", "foodId": "moutai-gi" },
-  { "term": "五粮液", "foodId": "wuliangye-gi" },
-  { "term": "绍兴黄酒", "foodId": "shaoxing-rice-wine-gi" },
-  { "term": "脆肉鲩", "foodId": "zhongshan-crisp-grass-carp" },
-  { "term": "peop", "foodId": "zhongshan-crisp-grass-carp" },
-  { "term": "生态原产地", "foodId": "zhongshan-crisp-grass-carp" },
-  { "term": "西峡香菇", "foodId": "cnipa-xixia-shiitake-gi" },
-  { "term": "白毫银针", "foodId": "cnipa-baihao-yinzhen-gi" },
-  { "term": "滇红", "foodId": "cnipa-dianhong-tea-gi" },
-  { "term": "英德红茶", "foodId": "cnipa-yingde-black-tea-gi" },
-  { "term": "安化黑茶", "foodId": "cnipa-anhua-dark-tea-gi" },
-  { "term": "响水大米", "foodId": "mara-xiangshui-rice-gi" },
-  { "term": "阿克苏苹果", "foodId": "mara-akesu-apple-gi" },
-  { "term": "仙居杨梅", "foodId": "mara-xianju-bayberry-gi" },
-  { "term": "舟山小黄鱼", "foodId": "mara-zhoushan-small-yellow-croaker-gi" },
-  { "term": "湛江对虾", "foodId": "mara-zhanjiang-shrimp-gi" },
-  { "term": "如皋火腿", "foodId": "mara-rugao-ham-gi" },
-  { "term": "罗平小黄姜", "foodId": "mara-luoping-ginger-gi" },
-  { "term": "温县怀山药", "foodId": "mara-wenxian-yam-gi" },
-  { "term": "亳州菊花", "foodId": "mara-bozhou-chrysanthemum-gi" },
-  { "term": "陇西当归", "foodId": "mara-longxi-angelica-gi" },
-  { "term": "宁夏甘草", "foodId": "mara-ningxia-licorice-gi" },
-  { "term": "竹叶青", "foodId": "cnipa-zhuye-qing-green-tea-gi" },
-  { "term": "政和白茶", "foodId": "cnipa-zhenghe-white-tea-gi" },
-  { "term": "青岛啤酒", "foodId": "cnipa-qingdao-beer-gi" },
-  { "term": "容县沙田柚", "foodId": "prov-gd-rongxian-pomelo-gi" },
-  { "term": "阳山水蜜桃", "foodId": "prov-zj-yangshan-peach-gi" },
-  { "term": "永川豆豉", "foodId": "prov-sc-yongchuan-douchi-gi" },
-  { "term": "婺源绿茶", "foodId": "peop-wuyuan-green-tea-gi" }
+  {
+    "term": "龙井",
+    "foodId": "xihu-longjing"
+  },
+  {
+    "term": "longjing",
+    "foodId": "xihu-longjing"
+  },
+  {
+    "term": "西湖龙井",
+    "foodId": "xihu-longjing"
+  },
+  {
+    "term": "铁观音",
+    "foodId": "anxi-tieguanyin"
+  },
+  {
+    "term": "tieguanyin",
+    "foodId": "anxi-tieguanyin"
+  },
+  {
+    "term": "安溪铁观音",
+    "foodId": "anxi-tieguanyin"
+  },
+  {
+    "term": "普洱",
+    "foodId": "yunnan-puer-gi"
+  },
+  {
+    "term": "普洱茶",
+    "foodId": "yunnan-puer-gi"
+  },
+  {
+    "term": "puer",
+    "foodId": "yunnan-puer-gi"
+  },
+  {
+    "term": "岩茶",
+    "foodId": "wuyi-rock-tea"
+  },
+  {
+    "term": "武夷岩茶",
+    "foodId": "wuyi-rock-tea"
+  },
+  {
+    "term": "大闸蟹",
+    "foodId": "yangcheng-lake-crab"
+  },
+  {
+    "term": "阳澄湖大闸蟹",
+    "foodId": "yangcheng-lake-crab"
+  },
+  {
+    "term": "阳澄湖蟹",
+    "foodId": "yangcheng-lake-crab"
+  },
+  {
+    "term": "yangchenghu",
+    "foodId": "yangcheng-lake-crab"
+  },
+  {
+    "term": "赣南脐橙",
+    "foodId": "gannan-navel-orange"
+  },
+  {
+    "term": "脐橙",
+    "foodId": "gannan-navel-orange"
+  },
+  {
+    "term": "gannan",
+    "foodId": "gannan-navel-orange"
+  },
+  {
+    "term": "五常大米",
+    "foodId": "wuchang-rice"
+  },
+  {
+    "term": "五常米",
+    "foodId": "wuchang-rice"
+  },
+  {
+    "term": "wuchang",
+    "foodId": "wuchang-rice"
+  },
+  {
+    "term": "新会陈皮",
+    "foodId": "xinhui-chenpi-gi"
+  },
+  {
+    "term": "陈皮",
+    "foodId": "chenpi"
+  },
+  {
+    "term": "xinhui",
+    "foodId": "xinhui-chenpi-gi"
+  },
+  {
+    "term": "宁夏枸杞",
+    "foodId": "ningxia-goji-origin"
+  },
+  {
+    "term": "中宁枸杞",
+    "foodId": "ningxia-goji-origin"
+  },
+  {
+    "term": "文山三七",
+    "foodId": "wenshan-sanqi"
+  },
+  {
+    "term": "三七",
+    "foodId": "panax-notoginseng"
+  },
+  {
+    "term": "霍山石斛",
+    "foodId": "huoshan-shihu-gi"
+  },
+  {
+    "term": "石斛",
+    "foodId": "dendrobium-officinale"
+  },
+  {
+    "term": "建宁莲子",
+    "foodId": "jianning-lotus-seed"
+  },
+  {
+    "term": "建莲",
+    "foodId": "jianning-lotus-seed"
+  },
+  {
+    "term": "岷县当归",
+    "foodId": "minxian-angelica-gi"
+  },
+  {
+    "term": "当归",
+    "foodId": "angelica-sinensis"
+  },
+  {
+    "term": "陇西黄芪",
+    "foodId": "longxi-astragalus-gi"
+  },
+  {
+    "term": "黄芪",
+    "foodId": "astragalus-membranaceus"
+  },
+  {
+    "term": "怀山药",
+    "foodId": "huai-yam-gi"
+  },
+  {
+    "term": "温县怀山药",
+    "foodId": "mara-wenxian-yam-gi"
+  },
+  {
+    "term": "库尔勒香梨",
+    "foodId": "korla-pear-gi"
+  },
+  {
+    "term": "香梨",
+    "foodId": "korla-pear-gi"
+  },
+  {
+    "term": "哈密瓜",
+    "foodId": "hami-melon-gi"
+  },
+  {
+    "term": "吐鲁番葡萄",
+    "foodId": "turpan-grape-gi"
+  },
+  {
+    "term": "金华火腿",
+    "foodId": "jinhua-ham-gi"
+  },
+  {
+    "term": "宣威火腿",
+    "foodId": "xuanwei-ham-gi"
+  },
+  {
+    "term": "涪陵榨菜",
+    "foodId": "fuling-mustard-tuber"
+  },
+  {
+    "term": "章丘大葱",
+    "foodId": "zhangqiu-scallion-gi"
+  },
+  {
+    "term": "龙口粉丝",
+    "foodId": "longkou-vermicelli-gi"
+  },
+  {
+    "term": "安吉白茶",
+    "foodId": "anji-white-tea-gi"
+  },
+  {
+    "term": "黄山毛峰",
+    "foodId": "huangshan-maofeng-gi"
+  },
+  {
+    "term": "祁门红茶",
+    "foodId": "keemun-black-tea-gi"
+  },
+  {
+    "term": "都匀毛尖",
+    "foodId": "duyun-maojian-gi"
+  },
+  {
+    "term": "茅台酒",
+    "foodId": "moutai-gi"
+  },
+  {
+    "term": "茅台",
+    "foodId": "moutai-gi"
+  },
+  {
+    "term": "五粮液",
+    "foodId": "wuliangye-gi"
+  },
+  {
+    "term": "绍兴黄酒",
+    "foodId": "shaoxing-rice-wine-gi"
+  },
+  {
+    "term": "脆肉鲩",
+    "foodId": "zhongshan-crisp-grass-carp"
+  },
+  {
+    "term": "peop",
+    "foodId": "zhongshan-crisp-grass-carp"
+  },
+  {
+    "term": "生态原产地",
+    "foodId": "zhongshan-crisp-grass-carp"
+  },
+  {
+    "term": "西峡香菇",
+    "foodId": "cnipa-xixia-shiitake-gi"
+  },
+  {
+    "term": "白毫银针",
+    "foodId": "cnipa-baihao-yinzhen-gi"
+  },
+  {
+    "term": "滇红",
+    "foodId": "cnipa-dianhong-tea-gi"
+  },
+  {
+    "term": "英德红茶",
+    "foodId": "cnipa-yingde-black-tea-gi"
+  },
+  {
+    "term": "安化黑茶",
+    "foodId": "cnipa-anhua-dark-tea-gi"
+  },
+  {
+    "term": "响水大米",
+    "foodId": "mara-xiangshui-rice-gi"
+  },
+  {
+    "term": "阿克苏苹果",
+    "foodId": "mara-akesu-apple-gi"
+  },
+  {
+    "term": "仙居杨梅",
+    "foodId": "mara-xianju-bayberry-gi"
+  },
+  {
+    "term": "舟山小黄鱼",
+    "foodId": "mara-zhoushan-small-yellow-croaker-gi"
+  },
+  {
+    "term": "湛江对虾",
+    "foodId": "mara-zhanjiang-shrimp-gi"
+  },
+  {
+    "term": "如皋火腿",
+    "foodId": "mara-rugao-ham-gi"
+  },
+  {
+    "term": "罗平小黄姜",
+    "foodId": "mara-luoping-ginger-gi"
+  },
+  {
+    "term": "温县怀山药",
+    "foodId": "mara-wenxian-yam-gi"
+  },
+  {
+    "term": "亳州菊花",
+    "foodId": "mara-bozhou-chrysanthemum-gi"
+  },
+  {
+    "term": "陇西当归",
+    "foodId": "mara-longxi-angelica-gi"
+  },
+  {
+    "term": "宁夏甘草",
+    "foodId": "mara-ningxia-licorice-gi"
+  },
+  {
+    "term": "竹叶青",
+    "foodId": "cnipa-zhuye-qing-green-tea-gi"
+  },
+  {
+    "term": "政和白茶",
+    "foodId": "cnipa-zhenghe-white-tea-gi"
+  },
+  {
+    "term": "青岛啤酒",
+    "foodId": "cnipa-qingdao-beer-gi"
+  },
+  {
+    "term": "容县沙田柚",
+    "foodId": "prov-gd-rongxian-pomelo-gi"
+  },
+  {
+    "term": "阳山水蜜桃",
+    "foodId": "prov-zj-yangshan-peach-gi"
+  },
+  {
+    "term": "永川豆豉",
+    "foodId": "prov-sc-yongchuan-douchi-gi"
+  },
+  {
+    "term": "婺源绿茶",
+    "foodId": "peop-wuyuan-green-tea-gi"
+  }
 ]
