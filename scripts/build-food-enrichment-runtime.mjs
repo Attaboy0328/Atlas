@@ -117,7 +117,10 @@ function deriveFoodEatingGuide(food) {
   else if (category === "腌菜") caution = "钠含量高，高血压、肾病水肿者严控份量。";
   else if (category === "菌菇") caution = "须彻底煮熟；菌菇过敏、痛风急性期不宜大量浓汤。";
   else if (food.officialFoodMedicine) caution = "药食同源不等于人人适宜，孕妇、慢病用药期请咨询医生。";
-  return { eatingIntro: name + "：" + intro, alone, timing, pair, caution };
+  const natureNote = (food.natureConfidence === "low" || food.natureSource === "category-default")
+    ? "食性按品类与名称规则整理，供日常参考，不替代个体化辨证。"
+    : "";
+  return { eatingIntro: name + "：" + intro, alone, timing, pair, caution, natureNote };
 }
 
 function enrichFoodContent(food) {
@@ -130,6 +133,7 @@ function enrichFoodContent(food) {
     pair: food.pair || guide.pair,
     caution: isGenericFoodCaution(food.caution) ? guide.caution : food.caution,
     eatingIntro: food.eatingIntro || guide.eatingIntro,
+    natureNote: food.natureNote || guide.natureNote || "",
     sources: food.sources?.length ? food.sources.filter((s) => s?.title !== "地域食疗整理") : sources
   };
 }

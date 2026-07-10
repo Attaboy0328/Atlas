@@ -1,5 +1,15 @@
 [
   {
+    "alias": "松花",
+    "canonical": "pinus-massoniana-pollen",
+    "note": "道地药材站点别名归并到松花粉"
+  },
+  {
+    "alias": "蛹虫草",
+    "canonical": "cordyceps-flower",
+    "note": "道地药材站点别名归并到虫草花"
+  },
+  {
     "alias": "amaranth",
     "canonical": "amaranth-greens",
     "note": "auto: duplicate name「苋菜」→ amaranth-greens"
@@ -10878,15 +10888,5 @@
     "alias": "zj-west-lake-fish",
     "canonical": "c22-zj-westlake-fish",
     "note": "auto: duplicate name「西湖醋鱼」→ c22-zj-westlake-fish"
-  },
-  {
-    "alias": "松花",
-    "canonical": "pinus-massoniana-pollen",
-    "note": "道地药材站点别名归并到松花粉"
-  },
-  {
-    "alias": "蛹虫草",
-    "canonical": "cordyceps-flower",
-    "note": "道地药材站点别名归并到虫草花"
   }
 ]

@@ -6,6 +6,10 @@
     "generated/classic-diet-recipes.js"
   ];
 
+  const ORIGIN_DEFERRED_BUNDLES = [
+    "generated/origin-products.js"
+  ];
+
   const loaded = new Set();
   let deferredPromise = null;
 
@@ -31,7 +35,7 @@
 
   function loadDeferredBundles() {
     if (!deferredPromise) {
-      deferredPromise = RECIPE_DEFERRED_BUNDLES.reduce(
+      deferredPromise = [...ORIGIN_DEFERRED_BUNDLES, ...RECIPE_DEFERRED_BUNDLES].reduce(
         (chain, src) => chain.then(() => loadScript(src)),
         Promise.resolve()
       ).then(() => {
@@ -75,7 +79,6 @@
     "generated/food-medicine-catalog.js",
     "generated/pairing-rules-extra.js",
     "generated/handcrafted-recipes.js",
-    "generated/origin-products.js",
     "generated/dao-di-regions.js",
     "generated/dao-di-systems.js",
     "generated/dao-di-herb-profiles.js"

@@ -195,6 +195,8 @@ function buildPoolBatch(pool, category, fileLabel, catalog, seenInBatch, targetS
       summary: item.summary || `${name}为${province}民间常见${category}，食养整理条目。`
     });
     food.hiddenFromLibrary = true;
+    food.natureSource = "pool-inherit";
+    food.natureConfidence = "medium";
     pushUniqueFood(out, food, catalog, seenInBatch);
     i += 1;
   }

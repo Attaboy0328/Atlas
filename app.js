@@ -708,6 +708,7 @@ const state = {
   libraryEthnic: "全部",
   libraryTopic: "",
   libraryCertFilter: "",
+  libraryHighNatureOnly: false,
   libraryDaoDiSystem: "",
   libraryDietaryScene: "",
   libraryKind: "全部",
@@ -742,6 +743,7 @@ const state = {
   recipesCuisine: "全部",
   recipesTopic: "全部",
   recipesSeasonTag: "全部",
+  recipesShowReference: false,
   profile: loadJson("foodwise-profile", {}),
   themeMode: loadJson("foodwise-profile", {}).themeMode || "system",
   themeAccent: loadJson("foodwise-profile", {}).themeAccent || "pine",
@@ -1943,6 +1945,7 @@ function libraryFilterCacheKey() {
     state.libraryEthnic,
     state.libraryTopic,
     state.libraryCertFilter,
+    state.libraryHighNatureOnly,
     state.libraryDaoDiSystem,
     state.libraryDietaryScene,
     state.libraryOfficialBatch
@@ -1972,7 +1975,8 @@ function recipesFilterCacheKey() {
     state.recipesProvince,
     state.recipesCuisine,
     state.recipesTopic,
-    state.recipesSeasonTag
+    state.recipesSeasonTag,
+    state.recipesShowReference
   ].join("\u0001");
 }
 
@@ -3409,6 +3413,14 @@ function bindLibraryFilterControls(root) {
     });
   });
 
+  root.querySelectorAll("[data-library-high-nature]").forEach((button) => {
+    button.addEventListener("click", () => {
+      triggerHapticFeedback();
+      state.libraryHighNatureOnly = !state.libraryHighNatureOnly;
+      afterLibraryFilterChange({ scrollToResults: true });
+    });
+  });
+
   root.querySelectorAll("[data-library-daodi-system]").forEach((button) => {
     button.addEventListener("click", () => {
       triggerHapticFeedback();
@@ -3625,6 +3637,14 @@ function bindRecipeFilterControls(root, options = {}) {
       button.addEventListener("click", () => {
         triggerHapticFeedback();
         state.recipesSeasonTag = button.dataset.recipesSeasontag;
+        afterRecipeFilterChange({ scrollToResults: true });
+      });
+    });
+
+    root.querySelectorAll("[data-recipes-show-reference]").forEach((button) => {
+      button.addEventListener("click", () => {
+        triggerHapticFeedback();
+        state.recipesShowReference = !state.recipesShowReference;
         afterRecipeFilterChange({ scrollToResults: true });
       });
     });
@@ -4518,6 +4538,9 @@ function renderRecipesFilterDrawerContent(resultCount) {
     ${renderRecipeSolarTermSection()}
     ${renderBrowseFilterChipSection("补气益气", RECIPE_TONIFY_OPTIONS, "data-recipes-tonify", state.recipesTonify, "grid")}
     ${renderBrowseFilterChipSection("清热/祛湿", RECIPE_CLEAR_OPTIONS, "data-recipes-clear", state.recipesClear, "grid")}
+    <div class="filter-chip-row">
+      <button type="button" class="filter-chip${state.recipesShowReference ? " is-active" : ""}" data-recipes-show-reference="1">显示参考方（bulk）</button>
+    </div>
   `;
 
   return `
@@ -4839,6 +4862,12 @@ function renderLibraryFilterSections() {
       <p class="filter-hint">按国家目录公布批次筛选；目录共 ${CATALOG_OFFICIAL_COUNT} 项可追溯条目。</p>
     </div>
     ` : ""}
+    <div class="filter-subsection">
+      <div class="filter-label">食性可信度</div>
+      <div class="filter-group filter-group-scroll quick-filter-row recipe-filter-scroll-row">
+        ${chip("仅精校食性", "1", "data-library-high-nature", state.libraryHighNatureOnly, compact)}
+      </div>
+    </div>
     <div class="filter-subsection">
       <div class="filter-label">气机术语</div>
       <div class="filter-group filter-group-scroll quick-filter-row recipe-filter-scroll-row">
@@ -5400,7 +5429,10 @@ function filterFoods() {
     const byEthnic = state.libraryEthnic === "全部"
       || (food.ethnicGroups || []).includes(state.libraryEthnic);
     const byTopic = !state.libraryTopic || matchTopic(food, state.libraryTopic);
-    return byNature && byCategory && byCert && byDaoDiSystem && byRegion && byProvince && byEthnic && byTopic && byKind && byOfficialBatch && byDietaryScene;
+    const byNatureConfidence = !state.libraryHighNatureOnly
+      || food.natureConfidence === "high"
+      || food.natureSource === "manual";
+    return byNature && byCategory && byCert && byDaoDiSystem && byRegion && byProvince && byEthnic && byTopic && byKind && byOfficialBatch && byDietaryScene && byNatureConfidence;
   });
 }
 
@@ -5615,7 +5647,8 @@ function filterRecipes() {
     const byTopic = state.recipesTopic === "全部" || item.recipeTopic === state.recipesTopic;
     const bySeasonTag = state.recipesSeasonTag === "全部" || (item.seasonTags || []).includes(state.recipesSeasonTag);
     const byQuery = !query || (item.searchBlob || buildRecipeSearchBlob(item)).includes(query);
-    return byNature && bySyndrome && byDietaryScene && byUseFor && byAvoidFor && byTiming && byCooking && byCoreFood && bySeason && bySolarTerm && byBodyFeel && byTonify && byClear && byProvince && byCuisine && byTopic && bySeasonTag && byQuery;
+    const byTier = state.recipesShowReference || isPremiumRecipe(item);
+    return byNature && bySyndrome && byDietaryScene && byUseFor && byAvoidFor && byTiming && byCooking && byCoreFood && bySeason && bySolarTerm && byBodyFeel && byTonify && byClear && byProvince && byCuisine && byTopic && bySeasonTag && byQuery && byTier;
   });
 }
 
@@ -5987,6 +6020,25 @@ function renderRecipeFilterTagSection(label, tags, dataAttr, activeValue) {
       </div>
     </div>
   `;
+}
+
+function recipeQualityTier(item) {
+  if (item.draft) return "c";
+  if (item.bulkTier === 2 || item.id?.startsWith("restored-recipe-")) return "b";
+  if (item.classicTier === 1 || item.id?.startsWith("classic-") || item.solarTerm || item.id?.startsWith("solar-")) return "a";
+  if (item.sources?.length) return "a";
+  return "a";
+}
+
+function isPremiumRecipe(item) {
+  return recipeQualityTier(item) === "a";
+}
+
+function natureConfidenceLabel(food) {
+  if (food.natureConfidence === "low" || food.natureSource === "category-default") return "按品类整理";
+  if (food.natureConfidence === "medium") return "整理参考";
+  if (food.natureSource === "manual" || food.natureConfidence === "high") return "精校条目";
+  return "";
 }
 
 function getRecipeTierMeta(item) {
@@ -6472,6 +6524,7 @@ function renderFoodDetail(food) {
       <div class="filter-group filter-group-wrap">
         <span class="pill-badge">${food.category}</span>
         ${food.officialFoodMedicine ? '<span class="pill-badge">药食同源</span>' : ""}
+        ${natureConfidenceLabel(food) ? `<span class="pill-badge nature-confidence-badge">${natureConfidenceLabel(food)}</span>` : ""}
         ${(food.giSystems || []).length ? '<span class="pill-badge origin-gi-badge">地理标志</span>' : ""}
         ${food.peop ? '<span class="pill-badge">PEOP</span>' : ""}
         ${(food.daoDi?.isAuthentic || DAO_DI_BY_CANONICAL.has(resolveFoodId(food.id)) || DAO_DI_PROFILE_BY_CANONICAL.has(resolveFoodId(food.id))) ? '<span class="pill-badge">道地产区</span>' : ""}
@@ -6489,7 +6542,7 @@ function renderFoodDetail(food) {
     <section class="detail-section">
       <h3 id="sheet-nature">${isTcmHerb ? "传统中药属性" : "传统食养属性"}</h3>
       <div class="detail-grid">
-        <div class="detail-block"><strong>性</strong><p>${food.nature} · ${(NATURE_META[food.nature] || NATURE_META.复合).label}</p></div>
+        <div class="detail-block"><strong>性</strong><p>${food.nature} · ${(NATURE_META[food.nature] || NATURE_META.复合).label}${natureConfidenceLabel(food) ? ` · ${natureConfidenceLabel(food)}` : ""}</p></div>
         <div class="detail-block"><strong>味</strong><p>${food.flavor || "未标注"}</p></div>
         ${isTcmHerb ? `<div class="detail-block"><strong>归经</strong><p>${food.meridians.length ? food.meridians.join("、") : "未标注"}</p></div>` : ""}
         ${isTcmHerb ? `<div class="detail-block"><strong>药用部位</strong><p>${food.partUsed || "未标注"}</p></div>` : ""}
@@ -6505,6 +6558,7 @@ function renderFoodDetail(food) {
     <section class="detail-section" id="sheet-eating">
       <h3>${isTcmHerb ? "使用与食养提示" : "食用建议"}</h3>
       ${food.eatingIntro && !isTcmHerb ? `<p class="section-copy eating-intro">${food.eatingIntro}</p>` : ""}
+      ${food.natureNote && !isTcmHerb ? `<p class="section-copy nature-note">${food.natureNote}</p>` : ""}
       <div class="detail-grid">
         ${isTcmHerb
           ? `<div class="detail-block"><strong>适用范围</strong><p>${isReferenceOnly ? "中药信息参考，非日常食材目录。" : "可在药食同源场景下少量入膳。"}</p></div>`

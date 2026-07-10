@@ -146,7 +146,10 @@ export function deriveEatingGuide(food) {
     alone,
     timing,
     pair,
-    caution
+    caution,
+    natureNote: food.natureConfidence === "low" || food.natureSource === "category-default"
+      ? "食性按品类与名称规则整理，供日常参考，不替代个体化辨证。"
+      : ""
   };
 }
 
@@ -161,6 +164,7 @@ export function enrichFoodEatingFields(food) {
     timing: food.timing || guide.timing,
     pair: food.pair || guide.pair,
     caution: isGenericCaution(food.caution) ? guide.caution : food.caution,
-    eatingIntro: food.eatingIntro || guide.eatingIntro
+    eatingIntro: food.eatingIntro || guide.eatingIntro,
+    natureNote: food.natureNote || guide.natureNote || ""
   };
 }

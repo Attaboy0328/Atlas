@@ -163,7 +163,9 @@ export function buildPoolCanonicalFoods(existingIds = new Set(), existingNames =
       nature: item.nature || "平",
       regions: ["CN"],
       provinces: [],
-      summary: `${item.name}常见于中式饮食与地方菜，各地品种与做法有别。`
+      summary: `${item.name}常见于中式饮食与地方菜，各地品种与做法有别。`,
+      natureSource: "pool-inherit",
+      natureConfidence: "medium"
     }));
   });
   return foods;

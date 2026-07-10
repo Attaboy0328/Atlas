@@ -21,6 +21,8 @@ export function makeFood({
   name,
   category = "蔬菜",
   nature = "平",
+  natureSource = "",
+  natureConfidence = "",
   provinces = ["广东"],
   regions = ["CN"],
   aliases = [],
@@ -57,7 +59,9 @@ export function makeFood({
     initials: initials || id.slice(0, 3),
     searchTerms: terms,
     summary: autoSummary,
-    caution: autoCaution
+    caution: autoCaution,
+    ...(natureSource ? { natureSource } : {}),
+    ...(natureConfidence ? { natureConfidence } : {})
   };
 }
 

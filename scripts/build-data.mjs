@@ -17,6 +17,7 @@ import {
 } from "./lib/food-catalog.mjs";
 import { enrichFoodEatingFields } from "./lib/food-eating-guide.mjs";
 import { enrichFoodClassicSources } from "./lib/food-classic-sources.mjs";
+import { assignFoodNatureMetadata } from "./lib/food-nature.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataDir = path.join(root, "data", "cn");
@@ -212,10 +213,11 @@ function writeJs(outPath, constName, data) {
 
 function mergeCnFoods() {
   const byId = new Map();
-  CN_JSON_SOURCES.flatMap((file) => readJson(file)).forEach((food) => {
+  CN_JSON_SOURCES.flatMap((file) => readJson(file).map((food) => ({ ...food, __sourceFile: file }))).forEach((food) => {
     byId.set(food.id, food);
   });
   return [...byId.values()]
+    .map((food) => assignFoodNatureMetadata(food))
     .map((food) => enrichFoodClassicSources(enrichFoodEatingFields(food)))
     .sort((a, b) => a.name.localeCompare(b.name, "zh-CN"));
 }

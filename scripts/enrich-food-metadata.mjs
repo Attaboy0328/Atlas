@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 /**
  * Fill missing summary/caution on foods-ingredients.json thin entries.
+ * Lock curated ingredient 食性 as manual/high confidence.
  */
 import fs from "fs";
 import path from "path";
@@ -18,6 +19,11 @@ foods.forEach((food) => {
   }
   if (!food.caution) {
     food.caution = "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。";
+    changed = true;
+  }
+  if (food.natureSource !== "manual" || food.natureConfidence !== "high") {
+    food.natureSource = "manual";
+    food.natureConfidence = "high";
     changed = true;
   }
   if (changed) updated += 1;

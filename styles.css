@@ -2545,6 +2545,18 @@ button {
   text-wrap: pretty;
 }
 
+.nature-note {
+  font-size: 13px;
+  color: var(--ink-muted, #6b7280);
+  border-left: 2px solid rgba(120, 113, 108, 0.35);
+  padding-left: 10px;
+}
+
+.nature-confidence-badge {
+  background: rgba(120, 113, 108, 0.12);
+  color: var(--ink-soft);
+}
+
 .nature-grid {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));

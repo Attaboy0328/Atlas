@@ -1,4 +1,4 @@
-const CACHE_NAME = "atlas-v67";
+const CACHE_NAME = "atlas-v68";
 const PRECACHE = [
   "./",
   "./index.html",
@@ -19,10 +19,7 @@ const PRECACHE = [
   "./generated/pairing-rules-extra.js",
   "./generated/handcrafted-recipes.js",
   "./generated/tcm-herbs-bundle.js",
-  "./generated/recipes-bulk.js",
-  "./generated/classic-diet-recipes.js",
   "./generated/food-medicine-catalog.js",
-  "./generated/origin-products.js",
   "./generated/dao-di-regions.js",
   "./generated/dao-di-systems.js",
   "./generated/dao-di-herb-profiles.js"

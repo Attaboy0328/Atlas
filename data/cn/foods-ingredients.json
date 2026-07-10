@@ -32,7 +32,9 @@
       "蒌蒿"
     ],
     "summary": "春季江南常见野菜，清香脆嫩，多炒腊肉或清炒。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "water-bamboo",
@@ -67,7 +69,9 @@
       "茭笋"
     ],
     "summary": "茭白，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "water-shield",
@@ -100,7 +104,9 @@
       "水葵"
     ],
     "summary": "莼菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "fish-mint",
@@ -135,7 +141,9 @@
       "折耳根菜"
     ],
     "summary": "折耳根，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "bracken",
@@ -164,7 +172,9 @@
       "蕨菜"
     ],
     "summary": "山野蕨类嫩尖，需充分焯水去涩。",
-    "caution": "不宜长期大量生食；注意采摘来源与处理方式。"
+    "caution": "不宜长期大量生食；注意采摘来源与处理方式。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "chrysanthemum-greens",
@@ -198,7 +208,9 @@
       "菊花叶"
     ],
     "summary": "菊花脑，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "goji-shoots",
@@ -233,7 +245,9 @@
       "枸杞嫩头"
     ],
     "summary": "枸杞头，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "malantou",
@@ -268,7 +282,9 @@
       "鸡儿肠"
     ],
     "summary": "马兰头，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "water-spinach",
@@ -302,7 +318,9 @@
       "通菜"
     ],
     "summary": "蕹菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "watercress",
@@ -334,7 +352,9 @@
       "豆瓣菜"
     ],
     "summary": "西洋菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "celery",
@@ -365,7 +385,9 @@
       "西芹"
     ],
     "summary": "西洋芹，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "child-mustard",
@@ -400,7 +422,9 @@
     ],
     "summary": "儿菜，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "brussels-sprouts",
@@ -431,7 +455,9 @@
       "小卷心菜"
     ],
     "summary": "抱子甘蓝，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "chinese-artichoke",
@@ -464,7 +490,9 @@
       "甘露子"
     ],
     "summary": "宝塔菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "arrowhead",
@@ -498,7 +526,9 @@
       "燕尾菇"
     ],
     "summary": "慈姑，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "water-chestnut",
@@ -533,7 +563,9 @@
       "地栗"
     ],
     "summary": "荸荠，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "water-caltrop",
@@ -566,7 +598,9 @@
       "菱实"
     ],
     "summary": "菱角，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "lotus-shoot",
@@ -600,7 +634,9 @@
       "藕鞭"
     ],
     "summary": "藕带，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "wild-lotus-root",
@@ -630,7 +666,9 @@
       "野藕"
     ],
     "summary": "野藕，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "cattail-shoot",
@@ -663,7 +701,9 @@
       "蒲笋"
     ],
     "summary": "蒲菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "cauliflower",
@@ -696,7 +736,9 @@
       "花椰菜"
     ],
     "summary": "花菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "broccoli",
@@ -728,7 +770,9 @@
       "绿花菜"
     ],
     "summary": "西兰花，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "purple-cabbage",
@@ -759,7 +803,9 @@
       "紫包菜"
     ],
     "summary": "紫甘蓝，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "cabbage",
@@ -793,7 +839,9 @@
       "圆白菜"
     ],
     "summary": "包菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "flat-cabbage",
@@ -824,7 +872,9 @@
       "牛心白"
     ],
     "summary": "牛心菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "baby-cabbage",
@@ -855,7 +905,9 @@
       "小白菜心"
     ],
     "summary": "娃娃菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "a-choy",
@@ -886,7 +938,9 @@
       "莴笋尖菜"
     ],
     "summary": "油麦菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "lettuce",
@@ -918,7 +972,9 @@
       "叶用莴苣"
     ],
     "summary": "生菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "romaine",
@@ -949,7 +1005,9 @@
       "长叶生菜"
     ],
     "summary": "罗马生菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "endive",
@@ -980,7 +1038,9 @@
       "苦苣菜"
     ],
     "summary": "苦菊，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "chicory",
@@ -1008,7 +1068,9 @@
       "菊苣"
     ],
     "summary": "菊苣，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "arugula",
@@ -1039,7 +1101,9 @@
       "火箭菜"
     ],
     "summary": "芝麻菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "perilla-leaf",
@@ -1071,7 +1135,9 @@
       "苏叶"
     ],
     "summary": "紫苏叶，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "mint",
@@ -1103,7 +1169,9 @@
       "银丹草"
     ],
     "summary": "薄荷，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "basil",
@@ -1137,7 +1205,9 @@
       "金不换"
     ],
     "summary": "罗勒，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "chinese-celery",
@@ -1168,7 +1238,9 @@
       "本芹"
     ],
     "summary": "香芹，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "celery-stalk",
@@ -1196,7 +1268,9 @@
       "西芹"
     ],
     "summary": "西芹，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "leaf-celery",
@@ -1227,7 +1301,9 @@
       "药芹"
     ],
     "summary": "旱芹，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "water-celery",
@@ -1255,7 +1331,9 @@
       "水芹"
     ],
     "summary": "水芹，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "fennel-herb",
@@ -1288,7 +1366,9 @@
     ],
     "summary": "小茴香，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "star-anise",
@@ -1322,7 +1402,9 @@
       "大料"
     ],
     "summary": "大茴香，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "tsaoko",
@@ -1351,7 +1433,9 @@
       "草果"
     ],
     "summary": "草果，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "amomum",
@@ -1380,7 +1464,9 @@
       "砂仁"
     ],
     "summary": "砂仁，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "white-cardamom",
@@ -1412,7 +1498,9 @@
       "豆蔻"
     ],
     "summary": "白豆蔻，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "red-bean",
@@ -1446,7 +1534,9 @@
       "红小豆"
     ],
     "summary": "红豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "mung-bean",
@@ -1475,7 +1565,9 @@
       "绿豆"
     ],
     "summary": "绿豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "black-bean",
@@ -1507,7 +1599,9 @@
       "乌豆"
     ],
     "summary": "黑豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "kidney-bean",
@@ -1540,7 +1634,9 @@
       "四季豆"
     ],
     "summary": "芸豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "yardlong-bean",
@@ -1589,7 +1685,9 @@
       "长豆角"
     ],
     "summary": "豇豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "sword-bean",
@@ -1617,7 +1715,9 @@
       "刀豆"
     ],
     "summary": "刀豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "chickpea",
@@ -1648,7 +1748,9 @@
       "鸡心豆"
     ],
     "summary": "鹰嘴豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "quinoa",
@@ -1677,7 +1779,9 @@
       "藜麦"
     ],
     "summary": "藜麦，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "oats",
@@ -1709,7 +1813,9 @@
       "莜麦片原料"
     ],
     "summary": "燕麦，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "buckwheat",
@@ -1741,7 +1847,9 @@
       "三角麦"
     ],
     "summary": "荞麦，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "highland-barley",
@@ -1772,7 +1880,9 @@
       "裸大麦"
     ],
     "summary": "青稞，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "proso-millet",
@@ -1804,7 +1914,9 @@
       "黍子"
     ],
     "summary": "糜子，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "sorghum",
@@ -1835,7 +1947,9 @@
       "蜀黍"
     ],
     "summary": "高粱，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "corn",
@@ -1868,7 +1982,9 @@
       "棒子"
     ],
     "summary": "玉米，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "fresh-corn",
@@ -1902,7 +2018,9 @@
       "水果玉米"
     ],
     "summary": "鲜玉米，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "bamboo-shoot",
@@ -1934,7 +2052,9 @@
       "竹笋"
     ],
     "summary": "笋，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "winter-bamboo-shoot",
@@ -1962,7 +2082,9 @@
       "冬笋"
     ],
     "summary": "冬笋，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "spring-bamboo-shoot",
@@ -1990,7 +2112,9 @@
       "春笋"
     ],
     "summary": "春笋，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "hairy-bamboo-shoot",
@@ -2021,7 +2145,9 @@
       "毛竹笋"
     ],
     "summary": "毛笋，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "arrowhead-bamboo-shoot",
@@ -2049,7 +2175,9 @@
       "慈竹笋"
     ],
     "summary": "慈竹笋，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "river-shrimp",
@@ -2081,7 +2209,9 @@
       "草虾"
     ],
     "summary": "河虾，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "jizha-shrimp",
@@ -2112,7 +2242,9 @@
       "基围"
     ],
     "summary": "基围虾，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "crayfish",
@@ -2143,7 +2275,9 @@
       "克氏原螯虾"
     ],
     "summary": "夏季高频水产，调味偏重。",
-    "caution": "痛风、过敏体质者慎食；务必煮熟。"
+    "caution": "痛风、过敏体质者慎食；务必煮熟。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "crab",
@@ -2175,7 +2309,9 @@
       "河蟹"
     ],
     "summary": "常见淡水蟹，多秋季食用。",
-    "caution": "脾胃虚寒、孕妇慎食。"
+    "caution": "脾胃虚寒、孕妇慎食。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "hairy-crab",
@@ -2208,7 +2344,9 @@
       "中华绒螯蟹"
     ],
     "summary": "大闸蟹，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "swimming-crab",
@@ -2239,7 +2377,9 @@
       "海蟹"
     ],
     "summary": "梭子蟹，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "mud-crab",
@@ -2270,7 +2410,9 @@
       "锯缘青蟹"
     ],
     "summary": "青蟹，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "yellow-croaker",
@@ -2304,7 +2446,9 @@
       "小黄鱼"
     ],
     "summary": "黄鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "hairtail",
@@ -2336,7 +2480,9 @@
       "刀鱼"
     ],
     "summary": "带鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "sea-bass",
@@ -2368,7 +2514,9 @@
       "花鲈"
     ],
     "summary": "鲈鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "mandarin-fish",
@@ -2402,7 +2550,9 @@
       "季花鱼"
     ],
     "summary": "鳜鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "carp",
@@ -2431,7 +2581,9 @@
       "鲤鱼"
     ],
     "summary": "鲤鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "grass-carp",
@@ -2468,7 +2620,9 @@
       "脆肉皖"
     ],
     "summary": "草鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "crucian-carp",
@@ -2497,7 +2651,9 @@
       "鲫鱼"
     ],
     "summary": "鲫鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "snakehead",
@@ -2531,7 +2687,9 @@
       "生鱼"
     ],
     "summary": "黑鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "eel",
@@ -2563,7 +2721,9 @@
       "黄鳝"
     ],
     "summary": "鳝鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "loach",
@@ -2592,7 +2752,9 @@
       "泥鳅"
     ],
     "summary": "泥鳅，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "pufferfish",
@@ -2623,7 +2785,9 @@
       "河鲀"
     ],
     "summary": "江鲜名品，需专业处理。",
-    "caution": "有剧毒风险，严禁自行处理与食用野生河豚；须持牌餐饮渠道。"
+    "caution": "有剧毒风险，严禁自行处理与食用野生河豚；须持牌餐饮渠道。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "whitebait",
@@ -2655,7 +2819,9 @@
       "面条鱼"
     ],
     "summary": "银鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "pomfret",
@@ -2717,7 +2883,9 @@
       "平鱼"
     ],
     "summary": "鲳鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "grouper",
@@ -2748,7 +2916,9 @@
       "石斑鱼"
     ],
     "summary": "石斑，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "octopus",
@@ -2780,7 +2950,9 @@
       "八爪鱼"
     ],
     "summary": "章鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "cuttlefish",
@@ -2812,7 +2984,9 @@
       "乌贼"
     ],
     "summary": "墨鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "squid",
@@ -2844,7 +3018,9 @@
       "枪乌贼"
     ],
     "summary": "鱿鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "sea-cucumber",
@@ -2875,7 +3051,9 @@
       "海参"
     ],
     "summary": "海参，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "abalone",
@@ -2904,7 +3082,9 @@
       "鲍鱼"
     ],
     "summary": "鲍鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "scallop",
@@ -2933,7 +3113,9 @@
       "扇贝"
     ],
     "summary": "扇贝，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "oyster",
@@ -2967,7 +3149,9 @@
       "海蛎"
     ],
     "summary": "生食与烧烤均常见。",
-    "caution": "生食有微生物风险；痛风者慎食。"
+    "caution": "生食有微生物风险；痛风者慎食。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "clam",
@@ -3005,7 +3189,9 @@
       "文蛤"
     ],
     "summary": "蛤蜊，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "razor-clam",
@@ -3033,7 +3219,9 @@
       "蛏子"
     ],
     "summary": "蛏子，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "river-snail",
@@ -3061,7 +3249,9 @@
       "田螺"
     ],
     "summary": "需充分煮熟。",
-    "caution": "寄生虫风险，忌生食。"
+    "caution": "寄生虫风险，忌生食。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "river-mussel",
@@ -3093,7 +3283,9 @@
       "蚌肉"
     ],
     "summary": "河蚌，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "mussel",
@@ -3127,7 +3319,9 @@
       "青口"
     ],
     "summary": "淡菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "kelp",
@@ -3159,7 +3353,9 @@
       "昆布"
     ],
     "summary": "海带，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "wakame",
@@ -3190,7 +3386,9 @@
       "裙带"
     ],
     "summary": "裙带菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "nori",
@@ -3250,7 +3448,9 @@
       "紫菜"
     ],
     "summary": "紫菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "jellyfish",
@@ -3279,7 +3479,9 @@
       "海蜇"
     ],
     "summary": "海蜇，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "shark-fin",
@@ -3307,7 +3509,9 @@
       "鱼翅"
     ],
     "summary": "传统宴席食材，现代多倡导替代。",
-    "caution": "保护野生动物，不建议购买与食用；市面多为养殖或替代料。"
+    "caution": "保护野生动物，不建议购买与食用；市面多为养殖或替代料。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "fish-maw",
@@ -3341,7 +3545,9 @@
       "鱼肚"
     ],
     "summary": "花胶，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "termitomyces",
@@ -3373,7 +3579,9 @@
       "鸡枞菌"
     ],
     "summary": "鸡枞，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "matsutake",
@@ -3405,7 +3613,9 @@
       "松蕈"
     ],
     "summary": "松茸，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "boletus",
@@ -3434,7 +3644,9 @@
       "牛肝菌"
     ],
     "summary": "牛肝菌，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "morel",
@@ -3465,7 +3677,9 @@
       "羊肚菌"
     ],
     "summary": "羊肚菌，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "bamboo-fungus",
@@ -3497,7 +3711,9 @@
       "竹笙"
     ],
     "summary": "竹荪，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "lion-mane-mushroom",
@@ -3530,7 +3746,9 @@
     ],
     "summary": "猴头菇，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "tea-tree-mushroom",
@@ -3562,7 +3780,9 @@
       "柱状田头菇"
     ],
     "summary": "茶树菇，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "king-oyster-mushroom",
@@ -3591,7 +3811,9 @@
       "杏鲍菇"
     ],
     "summary": "杏鲍菇，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "button-mushroom",
@@ -3623,7 +3845,9 @@
       "白蘑菇"
     ],
     "summary": "口蘑，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "oyster-mushroom",
@@ -3655,7 +3879,9 @@
       "侧耳"
     ],
     "summary": "平菇，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "enoki-mushroom",
@@ -3687,7 +3913,9 @@
       "金菇"
     ],
     "summary": "金针菇，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "shiitake",
@@ -3721,7 +3949,9 @@
       "花菇"
     ],
     "summary": "香菇，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "wood-ear",
@@ -3755,7 +3985,9 @@
       "云耳"
     ],
     "summary": "木耳，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "white-fungus",
@@ -3789,7 +4021,9 @@
       "雪耳"
     ],
     "summary": "银耳，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "blackberry",
@@ -3817,7 +4051,9 @@
       "黑莓"
     ],
     "summary": "黑莓，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "raspberry",
@@ -3849,7 +4085,9 @@
       "覆盆子"
     ],
     "summary": "树莓，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "blueberry",
@@ -3878,7 +4116,9 @@
       "蓝莓"
     ],
     "summary": "蓝莓，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "cranberry",
@@ -3906,7 +4146,9 @@
       "蔓越莓"
     ],
     "summary": "蔓越莓，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "fig",
@@ -3935,7 +4177,9 @@
       "无花果"
     ],
     "summary": "无花果，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "pomegranate",
@@ -3964,7 +4208,9 @@
       "石榴"
     ],
     "summary": "石榴，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "loquat",
@@ -3993,7 +4239,9 @@
       "枇杷"
     ],
     "summary": "枇杷，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "bayberry",
@@ -4022,7 +4270,9 @@
       "杨梅"
     ],
     "summary": "杨梅，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "mulberry",
@@ -4056,7 +4306,9 @@
       "桑甚"
     ],
     "summary": "桑葚，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "plum",
@@ -4085,7 +4337,9 @@
       "李子"
     ],
     "summary": "李子，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "apricot",
@@ -4114,7 +4368,9 @@
       "杏"
     ],
     "summary": "杏，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "peach",
@@ -4146,7 +4402,9 @@
       "桃"
     ],
     "summary": "桃子，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "cherry",
@@ -4178,7 +4436,9 @@
       "车厘子"
     ],
     "summary": "樱桃，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "strawberry",
@@ -4207,7 +4467,9 @@
       "草莓"
     ],
     "summary": "草莓，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "watermelon",
@@ -4236,7 +4498,9 @@
       "西瓜"
     ],
     "summary": "西瓜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "hami-melon",
@@ -4268,7 +4532,9 @@
       "甜瓜之王"
     ],
     "summary": "哈密瓜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "sweet-melon",
@@ -4297,7 +4563,9 @@
       "甜瓜"
     ],
     "summary": "甜瓜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "muskmelon",
@@ -4325,7 +4593,9 @@
       "香瓜"
     ],
     "summary": "香瓜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "papaya-fruit",
@@ -4357,7 +4627,9 @@
       "番木瓜"
     ],
     "summary": "木瓜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "starfruit",
@@ -4389,7 +4661,9 @@
       "羊桃"
     ],
     "summary": "杨桃，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "guava",
@@ -4421,7 +4695,9 @@
       "芭乐"
     ],
     "summary": "番石榴，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "wax-apple",
@@ -4453,7 +4729,9 @@
       "洋蒲桃"
     ],
     "summary": "莲雾，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "mangosteen",
@@ -4482,7 +4760,9 @@
       "山竹"
     ],
     "summary": "山竹，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "durian",
@@ -4511,7 +4791,9 @@
       "榴莲"
     ],
     "summary": "气味浓烈，适量食用。",
-    "caution": "湿热体质、糖尿病患者慎食。"
+    "caution": "湿热体质、糖尿病患者慎食。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "longan",
@@ -4545,7 +4827,9 @@
       "桂圆肉"
     ],
     "summary": "龙眼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "lychee",
@@ -4574,7 +4858,9 @@
       "荔枝"
     ],
     "summary": "甜美多汁，不宜过量。",
-    "caution": "阴虚火旺、糖尿病患者慎食。"
+    "caution": "阴虚火旺、糖尿病患者慎食。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "rambutan",
@@ -4602,7 +4888,9 @@
       "红毛丹"
     ],
     "summary": "红毛丹，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "avocado",
@@ -4636,7 +4924,9 @@
       "油梨"
     ],
     "summary": "牛油果，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "prickly-pear-fruit",
@@ -4668,7 +4958,9 @@
       "仙人果"
     ],
     "summary": "仙人掌果，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "lotus-root",
@@ -4702,7 +4994,9 @@
       "藕节"
     ],
     "summary": "莲藕，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "yam",
@@ -4736,7 +5030,9 @@
       "薯蓣"
     ],
     "summary": "山药，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "taro",
@@ -4768,7 +5064,9 @@
       "芋艿"
     ],
     "summary": "芋头，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "sweet-potato",
@@ -4802,7 +5100,9 @@
       "番薯"
     ],
     "summary": "红薯，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "winter-melon",
@@ -4832,7 +5132,9 @@
     ],
     "summary": "冬瓜，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "bitter-melon",
@@ -4864,7 +5166,9 @@
       "凉瓜"
     ],
     "summary": "苦瓜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "cucumber",
@@ -4896,7 +5200,9 @@
       "胡瓜"
     ],
     "summary": "黄瓜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "eggplant",
@@ -4928,7 +5234,9 @@
       "矮瓜"
     ],
     "summary": "茄子，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "green-pepper",
@@ -4962,7 +5270,9 @@
       "菜椒"
     ],
     "summary": "青椒，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "white-radish",
@@ -4994,7 +5304,9 @@
       "萝卜"
     ],
     "summary": "白萝卜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "carrot",
@@ -5026,7 +5338,9 @@
       "红萝卜"
     ],
     "summary": "胡萝卜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "pumpkin",
@@ -5061,7 +5375,9 @@
       "番瓜"
     ],
     "summary": "南瓜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "luffa",
@@ -5109,7 +5425,9 @@
       "丝瓜"
     ],
     "summary": "丝瓜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "chayote",
@@ -5159,7 +5477,9 @@
       "合掌瓜"
     ],
     "summary": "佛手瓜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "asparagus",
@@ -5188,7 +5508,9 @@
       "芦笋"
     ],
     "summary": "芦笋，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "snow-pea",
@@ -5238,7 +5560,9 @@
       "甜豆"
     ],
     "summary": "荷兰豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "edamame",
@@ -5269,7 +5593,9 @@
       "青大豆"
     ],
     "summary": "毛豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "green-pea",
@@ -5297,7 +5623,9 @@
       "豌豆"
     ],
     "summary": "豌豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "broad-bean",
@@ -5328,7 +5656,9 @@
       "胡豆"
     ],
     "summary": "蚕豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "soybean",
@@ -5360,7 +5690,9 @@
       "大豆"
     ],
     "summary": "黄豆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "peanut",
@@ -5392,7 +5724,9 @@
       "落花生"
     ],
     "summary": "花生，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "walnut",
@@ -5424,7 +5758,9 @@
       "胡桃"
     ],
     "summary": "核桃，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "sesame",
@@ -5456,7 +5792,9 @@
       "胡麻"
     ],
     "summary": "芝麻，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "spinach",
@@ -5485,7 +5823,9 @@
       "菠菜"
     ],
     "summary": "菠菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "garlic-chive",
@@ -5533,7 +5873,9 @@
       "韭菜"
     ],
     "summary": "韭菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "chinese-chive",
@@ -5562,7 +5904,9 @@
       "韭黄"
     ],
     "summary": "韭黄，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "scallion",
@@ -5594,7 +5938,9 @@
       "葱白"
     ],
     "summary": "大葱，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "shallot",
@@ -5626,7 +5972,9 @@
       "香葱"
     ],
     "summary": "小葱，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "onion",
@@ -5655,7 +6003,9 @@
       "洋葱"
     ],
     "summary": "洋葱，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "garlic",
@@ -5687,7 +6037,9 @@
       "蒜头"
     ],
     "summary": "大蒜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "ginger",
@@ -5719,7 +6071,9 @@
       "姜"
     ],
     "summary": "生姜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "chinese-cabbage",
@@ -5769,7 +6123,9 @@
       "白菜"
     ],
     "summary": "大白菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "bok-choy",
@@ -5821,7 +6177,9 @@
       "油菜"
     ],
     "summary": "青菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "choy-sum",
@@ -5852,7 +6210,9 @@
       "菜薹"
     ],
     "summary": "菜心，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "shepherds-purse",
@@ -5881,7 +6241,9 @@
       "荠菜"
     ],
     "summary": "荠菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "purslane",
@@ -5910,7 +6272,9 @@
       "马齿苋"
     ],
     "summary": "马齿苋，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "dandelion-greens",
@@ -5943,7 +6307,9 @@
     ],
     "summary": "蒲公英，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "amaranth-greens",
@@ -5995,7 +6361,9 @@
       "青苋"
     ],
     "summary": "苋菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "turnip",
@@ -6027,7 +6395,9 @@
       "圆萝卜"
     ],
     "summary": "芜菁，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "daikon-leaf",
@@ -6058,7 +6428,9 @@
       "萝卜叶"
     ],
     "summary": "萝卜缨，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "mustard-greens",
@@ -6108,7 +6480,9 @@
       "大叶芥"
     ],
     "summary": "芥菜，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "pickled-mustard",
@@ -6140,7 +6514,9 @@
       "雪菜"
     ],
     "summary": "雪里蕻，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "tender-bamboo",
@@ -6171,7 +6547,9 @@
       "笋尖"
     ],
     "summary": "竹笋尖，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "prawn",
@@ -6204,7 +6582,9 @@
       "大虾"
     ],
     "summary": "对虾，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "shrimp",
@@ -6236,7 +6616,9 @@
       "海虾"
     ],
     "summary": "明虾，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "silver-carp",
@@ -6268,7 +6650,9 @@
       "白鲢"
     ],
     "summary": "鲢鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "bighead-carp",
@@ -6302,7 +6686,9 @@
       "花鲢"
     ],
     "summary": "鳙鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "catfish",
@@ -6334,7 +6720,9 @@
       "鲇鱼"
     ],
     "summary": "鲶鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "tilapia",
@@ -6366,7 +6754,9 @@
       "非洲鲫鱼"
     ],
     "summary": "罗非鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "yellow-catfish",
@@ -6400,7 +6790,9 @@
       "昂刺鱼"
     ],
     "summary": "黄颡鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "anchovy",
@@ -6459,7 +6851,9 @@
       "凤尾鱼"
     ],
     "summary": "凤尾鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "sardine",
@@ -6487,7 +6881,9 @@
       "沙丁鱼"
     ],
     "summary": "沙丁鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "mackerel",
@@ -6519,7 +6915,9 @@
       "青花鱼"
     ],
     "summary": "鲭鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "saury",
@@ -6547,7 +6945,9 @@
       "秋刀鱼"
     ],
     "summary": "秋刀鱼，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "conch",
@@ -6575,7 +6975,9 @@
       "海螺"
     ],
     "summary": "海螺，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "whelk",
@@ -6603,7 +7005,9 @@
       "香螺"
     ],
     "summary": "香螺，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "geoduck",
@@ -6631,7 +7035,9 @@
       "象拔蚌"
     ],
     "summary": "象拔蚌，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "sea-urchin",
@@ -6659,7 +7065,9 @@
       "海胆"
     ],
     "summary": "海胆，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "seaweed-salad",
@@ -6691,7 +7099,9 @@
       "海藻"
     ],
     "summary": "海草，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "agar",
@@ -6722,7 +7132,9 @@
       "洋菜"
     ],
     "summary": "琼脂，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "cordyceps-flower",
@@ -6756,7 +7168,9 @@
       "蛹虫草"
     ],
     "summary": "虫草花，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "cloud-ear",
@@ -6788,7 +7202,9 @@
       "毛木耳"
     ],
     "summary": "云耳，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "straw-mushroom",
@@ -6817,7 +7233,9 @@
       "草菇"
     ],
     "summary": "草菇，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "shimeji-mushroom",
@@ -6848,7 +7266,9 @@
       "真姬菇"
     ],
     "summary": "蟹味菇，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "nameko-mushroom",
@@ -6876,7 +7296,9 @@
       "滑子菇"
     ],
     "summary": "滑子菇，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "grape",
@@ -6905,7 +7327,9 @@
       "葡萄"
     ],
     "summary": "葡萄，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "apple",
@@ -6934,7 +7358,9 @@
       "苹果"
     ],
     "summary": "苹果，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "pear",
@@ -6968,7 +7394,9 @@
       "鸭梨"
     ],
     "summary": "梨，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "orange",
@@ -7000,7 +7428,9 @@
       "甜橙"
     ],
     "summary": "橙子，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "tangerine",
@@ -7034,7 +7464,9 @@
       "柑橘"
     ],
     "summary": "橘子，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "pomelo",
@@ -7084,7 +7516,9 @@
       "文旦"
     ],
     "summary": "柚子，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "kiwi",
@@ -7116,7 +7550,9 @@
       "奇异果"
     ],
     "summary": "猕猴桃，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "persimmon",
@@ -7145,7 +7581,9 @@
       "柿子"
     ],
     "summary": "柿子，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "jujube-fruit",
@@ -7179,7 +7617,9 @@
       "大枣"
     ],
     "summary": "枣，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "hawthorn-fruit",
@@ -7212,7 +7652,9 @@
     ],
     "summary": "山楂，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "coconut",
@@ -7241,7 +7683,9 @@
       "椰子"
     ],
     "summary": "椰子，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "mango",
@@ -7270,7 +7714,9 @@
       "芒果"
     ],
     "summary": "芒果，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "pineapple",
@@ -7302,7 +7748,9 @@
       "凤梨"
     ],
     "summary": "菠萝，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "banana",
@@ -7331,7 +7779,9 @@
       "香蕉"
     ],
     "summary": "香蕉，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "passion-fruit",
@@ -7363,7 +7813,9 @@
       "鸡蛋果"
     ],
     "summary": "百香果，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "dragon-fruit",
@@ -7395,7 +7847,9 @@
       "红龙果"
     ],
     "summary": "火龙果，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "sugarcane",
@@ -7424,7 +7878,9 @@
       "甘蔗"
     ],
     "summary": "甘蔗，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "sugar-apple",
@@ -7455,7 +7911,9 @@
       "番荔枝"
     ],
     "summary": "释迦，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "custard-apple",
@@ -7483,7 +7941,9 @@
       "番荔枝"
     ],
     "summary": "番荔枝，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "pitaya-leaf",
@@ -7514,7 +7974,9 @@
       "菠萝蜜"
     ],
     "summary": "木菠萝，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "tangerine-peel",
@@ -7544,7 +8006,9 @@
     ],
     "summary": "陈皮，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "sichuan-peppercorn",
@@ -7577,7 +8041,9 @@
     ],
     "summary": "花椒，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "cinnamon",
@@ -7609,7 +8075,9 @@
       "桂皮"
     ],
     "summary": "肉桂，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "clove",
@@ -7638,7 +8106,9 @@
       "丁香"
     ],
     "summary": "丁香，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "dried-chili",
@@ -7670,7 +8140,9 @@
       "辣椒干"
     ],
     "summary": "干辣椒，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "black-pepper",
@@ -7699,7 +8171,9 @@
       "黑胡椒"
     ],
     "summary": "黑胡椒，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "white-pepper",
@@ -7728,7 +8202,9 @@
       "白胡椒"
     ],
     "summary": "白胡椒，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "cumin",
@@ -7757,7 +8233,9 @@
       "孜然"
     ],
     "summary": "孜然，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "turmeric",
@@ -7786,7 +8264,9 @@
       "姜黄"
     ],
     "summary": "姜黄，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "saffron",
@@ -7818,7 +8298,9 @@
       "西红花"
     ],
     "summary": "藏红花，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "goji-berry",
@@ -7850,7 +8332,9 @@
       "枸杞子"
     ],
     "summary": "枸杞，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "red-dates",
@@ -7882,7 +8366,9 @@
       "大枣"
     ],
     "summary": "红枣，常见于中式饮食与地方菜。",
-    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。"
+    "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "dried-longan",
@@ -7915,7 +8401,9 @@
     ],
     "summary": "桂圆干，常见于中式饮食与地方菜。",
     "caution": "请结合份量、加工方式与个人耐受综合判断；传统食性不替代现代医学结论。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "pigeon",
@@ -7947,7 +8435,9 @@
       "young pigeon"
     ],
     "summary": "广东常见滋补禽类，多用于炖汤、红烧；体质偏热、感冒发热时适量。",
-    "caution": "高嘌呤，痛风急性期慎食；须彻底做熟。"
+    "caution": "高嘌呤，痛风急性期慎食；须彻底做熟。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   },
   {
     "id": "chestnut",
@@ -7985,6 +8475,8 @@
       "糖炒栗子"
     ],
     "summary": "秋冬常见坚果，偏温，宜炒食、炖肉或做糕点。",
-    "caution": "胃胀、积食、糖尿病者适量；生吃难消化宜熟食。"
+    "caution": "胃胀、积食、糖尿病者适量；生吃难消化宜熟食。",
+    "natureSource": "manual",
+    "natureConfidence": "high"
   }
 ]
