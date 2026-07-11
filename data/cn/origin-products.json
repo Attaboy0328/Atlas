@@ -30816,8 +30816,8 @@
       "note": "整理自公开登记公告或抓取缓存，以登记机关最新公告为准。"
     },
     "aliases": [],
-    "baseFoodId": "prod-lotus-seedpod--98",
-    "natureSource": "catalog-id",
+    "baseFoodId": null,
+    "natureSource": "catalog-name",
     "searchTerms": [
       "建莲"
     ]
@@ -243378,6 +243378,14 @@
       "江西",
       "赣州"
     ],
+    "aliases": [
+      "脐橙"
+    ],
+    "searchTerms": [
+      "赣南脐橙",
+      "脐橙",
+      "mara-gannan-orange-manifest"
+    ],
     "giSystems": [
       {
         "system": "mara",
@@ -243430,11 +243438,6 @@
         "mara-gannan-orange-manifest"
       ]
     },
-    "aliases": [],
-    "searchTerms": [
-      "赣南脐橙",
-      "mara-gannan-orange-manifest"
-    ],
     "baseFoodId": "orange",
     "natureSource": "catalog-id",
     "registryStatus": "historical"

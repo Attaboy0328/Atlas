@@ -89,7 +89,7 @@
   },
   {
     "term": "陈皮",
-    "foodId": "chenpi"
+    "foodId": "daodi-chenpi-origin"
   },
   {
     "term": "xinhui",
@@ -109,7 +109,7 @@
   },
   {
     "term": "三七",
-    "foodId": "panax-notoginseng"
+    "foodId": "daodi-panax-notoginseng-origin"
   },
   {
     "term": "霍山石斛",
@@ -117,7 +117,7 @@
   },
   {
     "term": "石斛",
-    "foodId": "dendrobium-officinale"
+    "foodId": "daodi-dendrobium-nobile-origin"
   },
   {
     "term": "建宁莲子",
@@ -133,7 +133,7 @@
   },
   {
     "term": "当归",
-    "foodId": "angelica-sinensis"
+    "foodId": "mara-longxi-angelica-gi"
   },
   {
     "term": "陇西黄芪",
@@ -141,7 +141,7 @@
   },
   {
     "term": "黄芪",
-    "foodId": "astragalus-membranaceus"
+    "foodId": "daodi-astragalus-origin"
   },
   {
     "term": "怀山药",

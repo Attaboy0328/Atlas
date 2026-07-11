@@ -24,7 +24,7 @@ function item(row) {
 
 const maraItems = [
   item({ id: "yangcheng-lake-crab", name: "阳澄湖大闸蟹", category: "海产", nature: "寒", provinces: ["江苏", "苏州"], baseFoodId: "crab", giSystems: [gi("mara", "农产品地理标志", "农业农村部农产品地理标志")], summary: "阳澄湖大闸蟹为江浙常见地理标志水产。", provenance: prov("mara", "https://www.moa.gov.cn/", "mara-yangcheng-crab") }),
-  item({ id: "gannan-navel-orange", name: "赣南脐橙", category: "水果", nature: "凉", provinces: ["江西", "赣州"], giSystems: [gi("mara", "农产品地理标志", "农业农村部农产品地理标志")], summary: "赣南脐橙为江西赣州地理标志柑橘。", provenance: prov("mara", "https://www.moa.gov.cn/", "mara-gannan-orange") }),
+  item({ id: "gannan-navel-orange", name: "赣南脐橙", category: "水果", nature: "凉", provinces: ["江西", "赣州"], aliases: ["脐橙"], searchTerms: ["赣南脐橙", "脐橙"], giSystems: [gi("mara", "农产品地理标志", "农业农村部农产品地理标志")], summary: "赣南脐橙为江西赣州地理标志柑橘。", provenance: prov("mara", "https://www.moa.gov.cn/", "mara-gannan-orange") }),
   item({ id: "zigui-navel-orange", name: "秭归脐橙", category: "水果", nature: "凉", provinces: ["湖北", "宜昌"], giSystems: [gi("mara", "农产品地理标志", "农业农村部农产品地理标志")], summary: "秭归脐橙为湖北宜昌地理标志柑橘。", provenance: prov("mara", "https://www.moa.gov.cn/", "mara-zigui-orange") }),
   item({ id: "yantai-apple-gi", name: "烟台苹果", category: "水果", nature: "凉", provinces: ["山东", "烟台"], baseFoodId: "apple", giSystems: [gi("mara", "农产品地理标志", "农业农村部农产品地理标志")], summary: "烟台苹果为山东沿海常见地理标志水果。", provenance: prov("mara", "https://www.moa.gov.cn/", "mara-yantai-apple") }),
   item({ id: "luochuan-apple-gi", name: "洛川苹果", category: "水果", nature: "凉", provinces: ["陕西", "延安"], giSystems: [gi("mara", "农产品地理标志", "农业农村部农产品地理标志")], summary: "洛川苹果为陕北黄土高原地理标志苹果。", provenance: prov("mara", "https://www.moa.gov.cn/", "mara-luochuan-apple") }),

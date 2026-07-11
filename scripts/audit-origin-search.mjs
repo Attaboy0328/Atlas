@@ -73,12 +73,21 @@ function lookupGiFood(term, sid, byId, items) {
   const id = resolveId(sid, aliases);
   if (id && byId.has(id)) return byId.get(id);
   const norm = term.toLowerCase();
-  return items.find((food) => {
+  const exact = items.find((food) => {
     if (food.name === term || food.name?.toLowerCase() === norm) return true;
     if ((food.searchTerms || []).some((value) => value === term || String(value).toLowerCase() === norm)) return true;
     if ((food.aliases || []).some((value) => value === term || String(value).toLowerCase() === norm)) return true;
     return false;
-  }) || null;
+  });
+  if (exact) return exact;
+  if (term.length >= 2) {
+    return items.find((food) => {
+      const name = String(food.name || "");
+      if (!name.includes(term)) return false;
+      return food.isOriginProduct || (food.giSystems || []).length;
+    }) || null;
+  }
+  return null;
 }
 
 const expanded = loadExpandedFoods();

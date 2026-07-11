@@ -319159,9 +319159,12 @@ const ORIGIN_PRODUCT_FOODS = [
       "江西",
       "赣州"
     ],
-    "aliases": [],
+    "aliases": [
+      "脐橙"
+    ],
     "searchTerms": [
       "赣南脐橙",
+      "脐橙",
       "mara-gannan-orange-manifest",
       "农业农村部农产品地理标志",
       "江西",
