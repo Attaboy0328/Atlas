@@ -23,7 +23,9 @@
     ],
     "summary": "湖南拉面为湖南地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--591",
@@ -49,7 +51,9 @@
     ],
     "summary": "湖南家常主食湖南刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--592",
@@ -75,7 +79,9 @@
     ],
     "summary": "湖南凉皮在湖南饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--593",
@@ -101,7 +107,9 @@
     ],
     "summary": "湖南肉夹馍属湖南类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--594",
@@ -127,7 +135,9 @@
     ],
     "summary": "湖南产区湖南发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--675",
@@ -153,7 +163,9 @@
     ],
     "summary": "湖北拉面为湖北地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--676",
@@ -179,7 +191,9 @@
     ],
     "summary": "湖北家常主食湖北刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--677",
@@ -205,7 +219,9 @@
     ],
     "summary": "湖北凉皮在湖北饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--678",
@@ -231,7 +247,9 @@
     ],
     "summary": "湖北肉夹馍属湖北类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--679",
@@ -257,7 +275,9 @@
     ],
     "summary": "湖北产区湖北发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--760",
@@ -283,7 +303,9 @@
     ],
     "summary": "江西拉面为江西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--761",
@@ -309,7 +331,9 @@
     ],
     "summary": "江西家常主食江西刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--762",
@@ -335,7 +359,9 @@
     ],
     "summary": "江西凉皮在江西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--763",
@@ -361,7 +387,9 @@
     ],
     "summary": "江西肉夹馍属江西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--764",
@@ -387,7 +415,9 @@
     ],
     "summary": "江西产区江西发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--845",
@@ -413,7 +443,9 @@
     ],
     "summary": "四川拉面为四川地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--846",
@@ -439,7 +471,9 @@
     ],
     "summary": "四川家常主食四川刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--847",
@@ -465,7 +499,9 @@
     ],
     "summary": "四川凉皮在四川饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--848",
@@ -491,7 +527,9 @@
     ],
     "summary": "四川肉夹馍属四川类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--849",
@@ -517,7 +555,9 @@
     ],
     "summary": "四川产区四川发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--930",
@@ -543,7 +583,9 @@
     ],
     "summary": "重庆拉面为重庆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--931",
@@ -569,7 +611,9 @@
     ],
     "summary": "重庆家常主食重庆刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--932",
@@ -595,7 +639,9 @@
     ],
     "summary": "重庆凉皮在重庆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--933",
@@ -621,7 +667,9 @@
     ],
     "summary": "重庆肉夹馍属重庆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--934",
@@ -647,7 +695,9 @@
     ],
     "summary": "重庆产区重庆发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--1015",
@@ -673,7 +723,9 @@
     ],
     "summary": "云南拉面为云南地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--1016",
@@ -699,7 +751,9 @@
     ],
     "summary": "云南家常主食云南刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--1017",
@@ -725,7 +779,9 @@
     ],
     "summary": "云南凉皮在云南饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--1018",
@@ -751,7 +807,9 @@
     ],
     "summary": "云南肉夹馍属云南类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--1019",
@@ -777,7 +835,9 @@
     ],
     "summary": "云南产区云南发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--1100",
@@ -803,7 +863,9 @@
     ],
     "summary": "贵州拉面为贵州地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--1101",
@@ -829,7 +891,9 @@
     ],
     "summary": "贵州家常主食贵州刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--1102",
@@ -855,7 +919,9 @@
     ],
     "summary": "贵州凉皮在贵州饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--1103",
@@ -881,7 +947,9 @@
     ],
     "summary": "贵州肉夹馍属贵州类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--1104",
@@ -907,7 +975,9 @@
     ],
     "summary": "贵州产区贵州发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--1185",
@@ -933,7 +1003,9 @@
     ],
     "summary": "浙江拉面为浙江地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--1186",
@@ -959,7 +1031,9 @@
     ],
     "summary": "浙江家常主食浙江刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--1187",
@@ -985,7 +1059,9 @@
     ],
     "summary": "浙江凉皮在浙江饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--1188",
@@ -1011,7 +1087,9 @@
     ],
     "summary": "浙江肉夹馍属浙江类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--1189",
@@ -1037,7 +1115,9 @@
     ],
     "summary": "浙江产区浙江发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--1270",
@@ -1063,7 +1143,9 @@
     ],
     "summary": "江苏拉面为江苏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--1271",
@@ -1089,7 +1171,9 @@
     ],
     "summary": "江苏家常主食江苏刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--1272",
@@ -1115,7 +1199,9 @@
     ],
     "summary": "江苏凉皮在江苏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--1273",
@@ -1141,7 +1227,9 @@
     ],
     "summary": "江苏肉夹馍属江苏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--1274",
@@ -1167,7 +1255,9 @@
     ],
     "summary": "江苏产区江苏发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--1355",
@@ -1193,7 +1283,9 @@
     ],
     "summary": "上海拉面为上海地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--1356",
@@ -1219,7 +1311,9 @@
     ],
     "summary": "上海家常主食上海刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--1357",
@@ -1245,7 +1339,9 @@
     ],
     "summary": "上海凉皮在上海饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--1358",
@@ -1271,7 +1367,9 @@
     ],
     "summary": "上海肉夹馍属上海类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--1359",
@@ -1297,7 +1395,9 @@
     ],
     "summary": "上海产区上海发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--1440",
@@ -1323,7 +1423,9 @@
     ],
     "summary": "安徽拉面为安徽地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--1441",
@@ -1349,7 +1451,9 @@
     ],
     "summary": "安徽家常主食安徽刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--1442",
@@ -1375,7 +1479,9 @@
     ],
     "summary": "安徽凉皮在安徽饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--1443",
@@ -1401,7 +1507,9 @@
     ],
     "summary": "安徽肉夹馍属安徽类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--1444",
@@ -1427,7 +1535,9 @@
     ],
     "summary": "安徽产区安徽发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--1525",
@@ -1453,7 +1563,9 @@
     ],
     "summary": "山东拉面为山东地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--1526",
@@ -1479,7 +1591,9 @@
     ],
     "summary": "山东家常主食山东刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--1527",
@@ -1505,7 +1619,9 @@
     ],
     "summary": "山东凉皮在山东饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--1528",
@@ -1531,7 +1647,9 @@
     ],
     "summary": "山东肉夹馍属山东类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--1529",
@@ -1557,7 +1675,9 @@
     ],
     "summary": "山东产区山东发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bean-paste--1530",
@@ -1583,7 +1703,9 @@
     ],
     "summary": "河南黄豆酱为河南地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sweet-bean-sauce--1531",
@@ -1609,7 +1731,9 @@
     ],
     "summary": "河南家常主食河南甜面酱，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-bean-paste--1532",
@@ -1635,7 +1759,9 @@
     ],
     "summary": "河南辣豆瓣酱在河南饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-white--1533",
@@ -1661,7 +1787,9 @@
     ],
     "summary": "河南白腐乳属河南类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-rose--1534",
@@ -1687,7 +1815,9 @@
     ],
     "summary": "河南产区河南玫瑰腐乳，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sesame-oil--1535",
@@ -1713,7 +1843,9 @@
     ],
     "summary": "河南芝麻油为河南地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-oil--1536",
@@ -1739,7 +1871,9 @@
     ],
     "summary": "河南家常主食河南辣椒油，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sichuan-pepper-oil--1537",
@@ -1765,7 +1899,9 @@
     ],
     "summary": "河南花椒油在河南饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-sauce--1538",
@@ -1791,7 +1927,9 @@
     ],
     "summary": "河南蚝油属河南类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-sauce--1539",
@@ -1817,7 +1955,9 @@
     ],
     "summary": "河南产区河南虾酱，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-sauce-gd--1540",
@@ -1843,7 +1983,9 @@
     ],
     "summary": "河南鱼露为河南地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-wine-cooking--1541",
@@ -1869,7 +2011,9 @@
     ],
     "summary": "河南家常主食河南料酒，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-rice-wine--1542",
@@ -1895,7 +2039,9 @@
     ],
     "summary": "河南黄酒在河南饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rose-fermented-wine--1543",
@@ -1921,7 +2067,9 @@
     ],
     "summary": "河南玫瑰露酒属河南类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-preserved-plum--1544",
@@ -1947,7 +2095,9 @@
     ],
     "summary": "河南产区河南咸酸梅，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-master-stock--1545",
@@ -1973,7 +2123,9 @@
     ],
     "summary": "河南卤水汁为河南地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-five-spice-powder--1546",
@@ -1999,7 +2151,9 @@
     ],
     "summary": "河南家常主食河南五香粉，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-curry-powder-cn--1547",
@@ -2025,7 +2179,9 @@
     ],
     "summary": "河南咖喱粉在河南饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-satay-sauce--1548",
@@ -2051,7 +2207,9 @@
     ],
     "summary": "河南沙茶酱属河南类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bbq-sauce-cn--1549",
@@ -2077,7 +2235,9 @@
     ],
     "summary": "河南产区河南叉烧酱，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hairtail--1550",
@@ -2103,7 +2263,9 @@
     ],
     "summary": "河南带鱼为河南地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-spanish-mackerel--1551",
@@ -2129,7 +2291,9 @@
     ],
     "summary": "河南家常主食河南马鲛鱼，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-pomfret--1552",
@@ -2155,7 +2319,9 @@
     ],
     "summary": "河南鲳鱼在河南饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-fin-tuna--1553",
@@ -2181,7 +2347,9 @@
     ],
     "summary": "河南黄鳍金枪鱼属河南类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-squid-tube--1554",
@@ -2207,7 +2375,9 @@
     ],
     "summary": "河南产区河南鱿鱼筒，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-cuttlefish--1555",
@@ -2233,7 +2403,9 @@
     ],
     "summary": "河南墨鱼为河南地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-squid--1556",
@@ -2259,7 +2431,9 @@
     ],
     "summary": "河南家常主食河南鱿鱼干，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-cuttlefish--1557",
@@ -2285,7 +2459,9 @@
     ],
     "summary": "河南墨鱼干在河南饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-clams--1558",
@@ -2311,7 +2487,9 @@
     ],
     "summary": "河南花甲属河南类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-razor-clam--1559",
@@ -2337,7 +2515,9 @@
     ],
     "summary": "河南产区河南蛏子，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-meat--1560",
@@ -2363,7 +2543,9 @@
     ],
     "summary": "河南生蚝肉为河南地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-abalone-small--1561",
@@ -2389,7 +2571,9 @@
     ],
     "summary": "河南家常主食河南鲍鱼仔，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sea-cucumber-dried--1562",
@@ -2415,7 +2599,9 @@
     ],
     "summary": "河南海参干在河南饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-seaweed-sheet--1563",
@@ -2441,7 +2627,9 @@
     ],
     "summary": "河南紫菜属河南类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-kelp-knot--1564",
@@ -2467,7 +2655,9 @@
     ],
     "summary": "河南产区河南海带结，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-whitebait--1565",
@@ -2493,7 +2683,9 @@
     ],
     "summary": "河南银鱼为河南地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-anchovy--1566",
@@ -2519,7 +2711,9 @@
     ],
     "summary": "河南家常主食河南凤尾鱼，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-croaker-dried--1567",
@@ -2545,7 +2739,9 @@
     ],
     "summary": "河南黄花鱼干在河南饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-ball--1568",
@@ -2571,7 +2767,9 @@
     ],
     "summary": "河南鱼丸属河南类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-paste-ball--1569",
@@ -2597,7 +2795,9 @@
     ],
     "summary": "河南产区河南虾滑，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--1610",
@@ -2623,7 +2823,9 @@
     ],
     "summary": "河南拉面为河南地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--1611",
@@ -2649,7 +2851,9 @@
     ],
     "summary": "河南家常主食河南刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--1612",
@@ -2675,7 +2879,9 @@
     ],
     "summary": "河南凉皮在河南饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--1613",
@@ -2701,7 +2907,9 @@
     ],
     "summary": "河南肉夹馍属河南类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--1614",
@@ -2727,7 +2935,9 @@
     ],
     "summary": "河南产区河南发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bean-paste--1615",
@@ -2753,7 +2963,9 @@
     ],
     "summary": "河北黄豆酱为河北地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sweet-bean-sauce--1616",
@@ -2779,7 +2991,9 @@
     ],
     "summary": "河北家常主食河北甜面酱，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-bean-paste--1617",
@@ -2805,7 +3019,9 @@
     ],
     "summary": "河北辣豆瓣酱在河北饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-white--1618",
@@ -2831,7 +3047,9 @@
     ],
     "summary": "河北白腐乳属河北类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-rose--1619",
@@ -2857,7 +3075,9 @@
     ],
     "summary": "河北产区河北玫瑰腐乳，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sesame-oil--1620",
@@ -2883,7 +3103,9 @@
     ],
     "summary": "河北芝麻油为河北地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-oil--1621",
@@ -2909,7 +3131,9 @@
     ],
     "summary": "河北家常主食河北辣椒油，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sichuan-pepper-oil--1622",
@@ -2935,7 +3159,9 @@
     ],
     "summary": "河北花椒油在河北饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-sauce--1623",
@@ -2961,7 +3187,9 @@
     ],
     "summary": "河北蚝油属河北类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-sauce--1624",
@@ -2987,7 +3215,9 @@
     ],
     "summary": "河北产区河北虾酱，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-sauce-gd--1625",
@@ -3013,7 +3243,9 @@
     ],
     "summary": "河北鱼露为河北地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-wine-cooking--1626",
@@ -3039,7 +3271,9 @@
     ],
     "summary": "河北家常主食河北料酒，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-rice-wine--1627",
@@ -3065,7 +3299,9 @@
     ],
     "summary": "河北黄酒在河北饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rose-fermented-wine--1628",
@@ -3091,7 +3327,9 @@
     ],
     "summary": "河北玫瑰露酒属河北类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-preserved-plum--1629",
@@ -3117,7 +3355,9 @@
     ],
     "summary": "河北产区河北咸酸梅，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-master-stock--1630",
@@ -3143,7 +3383,9 @@
     ],
     "summary": "河北卤水汁为河北地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-five-spice-powder--1631",
@@ -3169,7 +3411,9 @@
     ],
     "summary": "河北家常主食河北五香粉，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-curry-powder-cn--1632",
@@ -3195,7 +3439,9 @@
     ],
     "summary": "河北咖喱粉在河北饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-satay-sauce--1633",
@@ -3221,7 +3467,9 @@
     ],
     "summary": "河北沙茶酱属河北类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bbq-sauce-cn--1634",
@@ -3247,7 +3495,9 @@
     ],
     "summary": "河北产区河北叉烧酱，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hairtail--1635",
@@ -3273,7 +3523,9 @@
     ],
     "summary": "河北带鱼为河北地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-spanish-mackerel--1636",
@@ -3299,7 +3551,9 @@
     ],
     "summary": "河北家常主食河北马鲛鱼，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-pomfret--1637",
@@ -3325,7 +3579,9 @@
     ],
     "summary": "河北鲳鱼在河北饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-fin-tuna--1638",
@@ -3351,7 +3607,9 @@
     ],
     "summary": "河北黄鳍金枪鱼属河北类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-squid-tube--1639",
@@ -3377,7 +3635,9 @@
     ],
     "summary": "河北产区河北鱿鱼筒，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-cuttlefish--1640",
@@ -3403,7 +3663,9 @@
     ],
     "summary": "河北墨鱼为河北地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-squid--1641",
@@ -3429,7 +3691,9 @@
     ],
     "summary": "河北家常主食河北鱿鱼干，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-cuttlefish--1642",
@@ -3455,7 +3719,9 @@
     ],
     "summary": "河北墨鱼干在河北饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-clams--1643",
@@ -3481,7 +3747,9 @@
     ],
     "summary": "河北花甲属河北类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-razor-clam--1644",
@@ -3507,7 +3775,9 @@
     ],
     "summary": "河北产区河北蛏子，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-meat--1645",
@@ -3533,7 +3803,9 @@
     ],
     "summary": "河北生蚝肉为河北地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-abalone-small--1646",
@@ -3559,7 +3831,9 @@
     ],
     "summary": "河北家常主食河北鲍鱼仔，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sea-cucumber-dried--1647",
@@ -3585,7 +3859,9 @@
     ],
     "summary": "河北海参干在河北饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-seaweed-sheet--1648",
@@ -3611,7 +3887,9 @@
     ],
     "summary": "河北紫菜属河北类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-kelp-knot--1649",
@@ -3637,7 +3915,9 @@
     ],
     "summary": "河北产区河北海带结，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-whitebait--1650",
@@ -3663,7 +3943,9 @@
     ],
     "summary": "河北银鱼为河北地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-anchovy--1651",
@@ -3689,7 +3971,9 @@
     ],
     "summary": "河北家常主食河北凤尾鱼，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-croaker-dried--1652",
@@ -3715,7 +3999,9 @@
     ],
     "summary": "河北黄花鱼干在河北饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-ball--1653",
@@ -3741,7 +4027,9 @@
     ],
     "summary": "河北鱼丸属河北类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-paste-ball--1654",
@@ -3767,7 +4055,9 @@
     ],
     "summary": "河北产区河北虾滑，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--1695",
@@ -3793,7 +4083,9 @@
     ],
     "summary": "河北拉面为河北地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--1696",
@@ -3819,7 +4111,9 @@
     ],
     "summary": "河北家常主食河北刀削面，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--1697",
@@ -3845,7 +4139,9 @@
     ],
     "summary": "河北凉皮在河北饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--1698",
@@ -3871,7 +4167,9 @@
     ],
     "summary": "河北肉夹馍属河北类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--1699",
@@ -3897,7 +4195,9 @@
     ],
     "summary": "河北产区河北发糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bean-paste--1700",
@@ -3923,7 +4223,9 @@
     ],
     "summary": "山西黄豆酱为山西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sweet-bean-sauce--1701",
@@ -3949,7 +4251,9 @@
     ],
     "summary": "山西家常主食山西甜面酱，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-bean-paste--1702",
@@ -3975,7 +4279,9 @@
     ],
     "summary": "山西辣豆瓣酱在山西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-white--1703",
@@ -4001,7 +4307,9 @@
     ],
     "summary": "山西白腐乳属山西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-rose--1704",
@@ -4027,7 +4335,9 @@
     ],
     "summary": "山西产区山西玫瑰腐乳，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sesame-oil--1705",
@@ -4053,7 +4363,9 @@
     ],
     "summary": "山西芝麻油为山西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-oil--1706",
@@ -4079,7 +4391,9 @@
     ],
     "summary": "山西家常主食山西辣椒油，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sichuan-pepper-oil--1707",
@@ -4105,7 +4419,9 @@
     ],
     "summary": "山西花椒油在山西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-sauce--1708",
@@ -4131,7 +4447,9 @@
     ],
     "summary": "山西蚝油属山西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-sauce--1709",
@@ -4157,7 +4475,9 @@
     ],
     "summary": "山西产区山西虾酱，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-sauce-gd--1710",
@@ -4183,7 +4503,9 @@
     ],
     "summary": "山西鱼露为山西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-wine-cooking--1711",
@@ -4209,7 +4531,9 @@
     ],
     "summary": "山西家常主食山西料酒，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-rice-wine--1712",
@@ -4235,7 +4559,9 @@
     ],
     "summary": "山西黄酒在山西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rose-fermented-wine--1713",
@@ -4261,7 +4587,9 @@
     ],
     "summary": "山西玫瑰露酒属山西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-preserved-plum--1714",
@@ -4287,7 +4615,9 @@
     ],
     "summary": "山西产区山西咸酸梅，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-master-stock--1715",
@@ -4313,7 +4643,9 @@
     ],
     "summary": "山西卤水汁为山西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-five-spice-powder--1716",
@@ -4339,7 +4671,9 @@
     ],
     "summary": "山西家常主食山西五香粉，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-curry-powder-cn--1717",
@@ -4365,7 +4699,9 @@
     ],
     "summary": "山西咖喱粉在山西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-satay-sauce--1718",
@@ -4391,7 +4727,9 @@
     ],
     "summary": "山西沙茶酱属山西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bbq-sauce-cn--1719",
@@ -4417,7 +4755,9 @@
     ],
     "summary": "山西产区山西叉烧酱，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hairtail--1720",
@@ -4443,7 +4783,9 @@
     ],
     "summary": "山西带鱼为山西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-spanish-mackerel--1721",
@@ -4469,7 +4811,9 @@
     ],
     "summary": "山西家常主食山西马鲛鱼，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-pomfret--1722",
@@ -4495,7 +4839,9 @@
     ],
     "summary": "山西鲳鱼在山西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-fin-tuna--1723",
@@ -4521,7 +4867,9 @@
     ],
     "summary": "山西黄鳍金枪鱼属山西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-squid-tube--1724",
@@ -4547,7 +4895,9 @@
     ],
     "summary": "山西产区山西鱿鱼筒，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-cuttlefish--1725",
@@ -4573,7 +4923,9 @@
     ],
     "summary": "山西墨鱼为山西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-squid--1726",
@@ -4599,7 +4951,9 @@
     ],
     "summary": "山西家常主食山西鱿鱼干，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-cuttlefish--1727",
@@ -4625,7 +4979,9 @@
     ],
     "summary": "山西墨鱼干在山西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-clams--1728",
@@ -4651,7 +5007,9 @@
     ],
     "summary": "山西花甲属山西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-razor-clam--1729",
@@ -4677,7 +5035,9 @@
     ],
     "summary": "山西产区山西蛏子，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-meat--1730",
@@ -4703,7 +5063,9 @@
     ],
     "summary": "山西生蚝肉为山西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-abalone-small--1731",
@@ -4729,7 +5091,9 @@
     ],
     "summary": "山西家常主食山西鲍鱼仔，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sea-cucumber-dried--1732",
@@ -4755,7 +5119,9 @@
     ],
     "summary": "山西海参干在山西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-seaweed-sheet--1733",
@@ -4781,7 +5147,9 @@
     ],
     "summary": "山西紫菜属山西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-kelp-knot--1734",
@@ -4807,7 +5175,9 @@
     ],
     "summary": "山西产区山西海带结，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-whitebait--1735",
@@ -4833,7 +5203,9 @@
     ],
     "summary": "山西银鱼为山西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-anchovy--1736",
@@ -4859,7 +5231,9 @@
     ],
     "summary": "山西家常主食山西凤尾鱼，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-croaker-dried--1737",
@@ -4885,7 +5259,9 @@
     ],
     "summary": "山西黄花鱼干在山西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-ball--1738",
@@ -4911,7 +5287,9 @@
     ],
     "summary": "山西鱼丸属山西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-paste-ball--1739",
@@ -4937,7 +5315,9 @@
     ],
     "summary": "山西产区山西虾滑，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--1780",
@@ -4963,7 +5343,9 @@
     ],
     "summary": "山西拉面为山西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--1782",
@@ -4989,7 +5371,9 @@
     ],
     "summary": "山西家常主食山西凉皮，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--1783",
@@ -5015,7 +5399,9 @@
     ],
     "summary": "山西肉夹馍在山西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--1784",
@@ -5041,7 +5427,9 @@
     ],
     "summary": "山西发糕属山西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bean-paste--1785",
@@ -5067,7 +5455,9 @@
     ],
     "summary": "陕西产区陕西黄豆酱，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sweet-bean-sauce--1786",
@@ -5093,7 +5483,9 @@
     ],
     "summary": "陕西甜面酱为陕西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-bean-paste--1787",
@@ -5119,7 +5511,9 @@
     ],
     "summary": "陕西家常主食陕西辣豆瓣酱，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-white--1788",
@@ -5145,7 +5539,9 @@
     ],
     "summary": "陕西白腐乳在陕西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-rose--1789",
@@ -5171,7 +5567,9 @@
     ],
     "summary": "陕西玫瑰腐乳属陕西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sesame-oil--1790",
@@ -5197,7 +5595,9 @@
     ],
     "summary": "陕西产区陕西芝麻油，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-oil--1791",
@@ -5223,7 +5623,9 @@
     ],
     "summary": "陕西辣椒油为陕西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sichuan-pepper-oil--1792",
@@ -5249,7 +5651,9 @@
     ],
     "summary": "陕西家常主食陕西花椒油，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-sauce--1793",
@@ -5275,7 +5679,9 @@
     ],
     "summary": "陕西蚝油在陕西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-sauce--1794",
@@ -5301,7 +5707,9 @@
     ],
     "summary": "陕西虾酱属陕西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-sauce-gd--1795",
@@ -5327,7 +5735,9 @@
     ],
     "summary": "陕西产区陕西鱼露，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-wine-cooking--1796",
@@ -5353,7 +5763,9 @@
     ],
     "summary": "陕西料酒为陕西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-rice-wine--1797",
@@ -5379,7 +5791,9 @@
     ],
     "summary": "陕西家常主食陕西黄酒，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rose-fermented-wine--1798",
@@ -5405,7 +5819,9 @@
     ],
     "summary": "陕西玫瑰露酒在陕西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-preserved-plum--1799",
@@ -5431,7 +5847,9 @@
     ],
     "summary": "陕西咸酸梅属陕西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-master-stock--1800",
@@ -5457,7 +5875,9 @@
     ],
     "summary": "陕西产区陕西卤水汁，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-five-spice-powder--1801",
@@ -5483,7 +5903,9 @@
     ],
     "summary": "陕西五香粉为陕西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-curry-powder-cn--1802",
@@ -5509,7 +5931,9 @@
     ],
     "summary": "陕西家常主食陕西咖喱粉，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-satay-sauce--1803",
@@ -5535,7 +5959,9 @@
     ],
     "summary": "陕西沙茶酱在陕西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bbq-sauce-cn--1804",
@@ -5561,7 +5987,9 @@
     ],
     "summary": "陕西叉烧酱属陕西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hairtail--1805",
@@ -5587,7 +6015,9 @@
     ],
     "summary": "陕西产区陕西带鱼，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-spanish-mackerel--1806",
@@ -5613,7 +6043,9 @@
     ],
     "summary": "陕西马鲛鱼为陕西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-pomfret--1807",
@@ -5639,7 +6071,9 @@
     ],
     "summary": "陕西家常主食陕西鲳鱼，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-fin-tuna--1808",
@@ -5665,7 +6099,9 @@
     ],
     "summary": "陕西黄鳍金枪鱼在陕西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-squid-tube--1809",
@@ -5691,7 +6127,9 @@
     ],
     "summary": "陕西鱿鱼筒属陕西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-cuttlefish--1810",
@@ -5717,7 +6155,9 @@
     ],
     "summary": "陕西产区陕西墨鱼，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-squid--1811",
@@ -5743,7 +6183,9 @@
     ],
     "summary": "陕西鱿鱼干为陕西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-cuttlefish--1812",
@@ -5769,7 +6211,9 @@
     ],
     "summary": "陕西家常主食陕西墨鱼干，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-clams--1813",
@@ -5795,7 +6239,9 @@
     ],
     "summary": "陕西花甲在陕西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-razor-clam--1814",
@@ -5821,7 +6267,9 @@
     ],
     "summary": "陕西蛏子属陕西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-meat--1815",
@@ -5847,7 +6295,9 @@
     ],
     "summary": "陕西产区陕西生蚝肉，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-abalone-small--1816",
@@ -5873,7 +6323,9 @@
     ],
     "summary": "陕西鲍鱼仔为陕西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sea-cucumber-dried--1817",
@@ -5899,7 +6351,9 @@
     ],
     "summary": "陕西家常主食陕西海参干，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-seaweed-sheet--1818",
@@ -5925,7 +6379,9 @@
     ],
     "summary": "陕西紫菜在陕西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-kelp-knot--1819",
@@ -5951,7 +6407,9 @@
     ],
     "summary": "陕西海带结属陕西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-whitebait--1820",
@@ -5977,7 +6435,9 @@
     ],
     "summary": "陕西产区陕西银鱼，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-anchovy--1821",
@@ -6003,7 +6463,9 @@
     ],
     "summary": "陕西凤尾鱼为陕西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-croaker-dried--1822",
@@ -6029,7 +6491,9 @@
     ],
     "summary": "陕西家常主食陕西黄花鱼干，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-ball--1823",
@@ -6055,7 +6519,9 @@
     ],
     "summary": "陕西鱼丸在陕西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-paste-ball--1824",
@@ -6081,7 +6547,9 @@
     ],
     "summary": "陕西虾滑属陕西类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--1865",
@@ -6107,7 +6575,9 @@
     ],
     "summary": "陕西产区陕西拉面，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--1866",
@@ -6133,7 +6603,9 @@
     ],
     "summary": "陕西刀削面为陕西地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--1868",
@@ -6159,7 +6631,9 @@
     ],
     "summary": "陕西家常主食陕西肉夹馍，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--1869",
@@ -6185,7 +6659,9 @@
     ],
     "summary": "陕西发糕在陕西饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bean-paste--1870",
@@ -6211,7 +6687,9 @@
     ],
     "summary": "甘肃黄豆酱属甘肃类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sweet-bean-sauce--1871",
@@ -6237,7 +6715,9 @@
     ],
     "summary": "甘肃产区甘肃甜面酱，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-bean-paste--1872",
@@ -6263,7 +6743,9 @@
     ],
     "summary": "甘肃辣豆瓣酱为甘肃地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-white--1873",
@@ -6289,7 +6771,9 @@
     ],
     "summary": "甘肃家常主食甘肃白腐乳，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-rose--1874",
@@ -6315,7 +6799,9 @@
     ],
     "summary": "甘肃玫瑰腐乳在甘肃饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sesame-oil--1875",
@@ -6341,7 +6827,9 @@
     ],
     "summary": "甘肃芝麻油属甘肃类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-oil--1876",
@@ -6367,7 +6855,9 @@
     ],
     "summary": "甘肃产区甘肃辣椒油，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sichuan-pepper-oil--1877",
@@ -6393,7 +6883,9 @@
     ],
     "summary": "甘肃花椒油为甘肃地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-sauce--1878",
@@ -6419,7 +6911,9 @@
     ],
     "summary": "甘肃家常主食甘肃蚝油，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-sauce--1879",
@@ -6445,7 +6939,9 @@
     ],
     "summary": "甘肃虾酱在甘肃饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-sauce-gd--1880",
@@ -6471,7 +6967,9 @@
     ],
     "summary": "甘肃鱼露属甘肃类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-wine-cooking--1881",
@@ -6497,7 +6995,9 @@
     ],
     "summary": "甘肃产区甘肃料酒，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-rice-wine--1882",
@@ -6523,7 +7023,9 @@
     ],
     "summary": "甘肃黄酒为甘肃地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rose-fermented-wine--1883",
@@ -6549,7 +7051,9 @@
     ],
     "summary": "甘肃家常主食甘肃玫瑰露酒，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-preserved-plum--1884",
@@ -6575,7 +7079,9 @@
     ],
     "summary": "甘肃咸酸梅在甘肃饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-master-stock--1885",
@@ -6601,7 +7107,9 @@
     ],
     "summary": "甘肃卤水汁属甘肃类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-five-spice-powder--1886",
@@ -6627,7 +7135,9 @@
     ],
     "summary": "甘肃产区甘肃五香粉，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-curry-powder-cn--1887",
@@ -6653,7 +7163,9 @@
     ],
     "summary": "甘肃咖喱粉为甘肃地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-satay-sauce--1888",
@@ -6679,7 +7191,9 @@
     ],
     "summary": "甘肃家常主食甘肃沙茶酱，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bbq-sauce-cn--1889",
@@ -6705,7 +7219,9 @@
     ],
     "summary": "甘肃叉烧酱在甘肃饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hairtail--1890",
@@ -6731,7 +7247,9 @@
     ],
     "summary": "甘肃带鱼属甘肃类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-spanish-mackerel--1891",
@@ -6757,7 +7275,9 @@
     ],
     "summary": "甘肃产区甘肃马鲛鱼，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-pomfret--1892",
@@ -6783,7 +7303,9 @@
     ],
     "summary": "甘肃鲳鱼为甘肃地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-fin-tuna--1893",
@@ -6809,7 +7331,9 @@
     ],
     "summary": "甘肃家常主食甘肃黄鳍金枪鱼，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-squid-tube--1894",
@@ -6835,7 +7359,9 @@
     ],
     "summary": "甘肃鱿鱼筒在甘肃饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-cuttlefish--1895",
@@ -6861,7 +7387,9 @@
     ],
     "summary": "甘肃墨鱼属甘肃类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-squid--1896",
@@ -6887,7 +7415,9 @@
     ],
     "summary": "甘肃产区甘肃鱿鱼干，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-cuttlefish--1897",
@@ -6913,7 +7443,9 @@
     ],
     "summary": "甘肃墨鱼干为甘肃地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-clams--1898",
@@ -6939,7 +7471,9 @@
     ],
     "summary": "甘肃家常主食甘肃花甲，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-razor-clam--1899",
@@ -6965,7 +7499,9 @@
     ],
     "summary": "甘肃蛏子在甘肃饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-meat--1900",
@@ -6991,7 +7527,9 @@
     ],
     "summary": "甘肃生蚝肉属甘肃类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-abalone-small--1901",
@@ -7017,7 +7555,9 @@
     ],
     "summary": "甘肃产区甘肃鲍鱼仔，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sea-cucumber-dried--1902",
@@ -7043,7 +7583,9 @@
     ],
     "summary": "甘肃海参干为甘肃地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-seaweed-sheet--1903",
@@ -7069,7 +7611,9 @@
     ],
     "summary": "甘肃家常主食甘肃紫菜，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-kelp-knot--1904",
@@ -7095,7 +7639,9 @@
     ],
     "summary": "甘肃海带结在甘肃饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-whitebait--1905",
@@ -7121,7 +7667,9 @@
     ],
     "summary": "甘肃银鱼属甘肃类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-anchovy--1906",
@@ -7147,7 +7695,9 @@
     ],
     "summary": "甘肃产区甘肃凤尾鱼，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-croaker-dried--1907",
@@ -7173,7 +7723,9 @@
     ],
     "summary": "甘肃黄花鱼干为甘肃地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-ball--1908",
@@ -7199,7 +7751,9 @@
     ],
     "summary": "甘肃家常主食甘肃鱼丸，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-paste-ball--1909",
@@ -7225,7 +7779,9 @@
     ],
     "summary": "甘肃虾滑在甘肃饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--1950",
@@ -7251,7 +7807,9 @@
     ],
     "summary": "甘肃拉面属甘肃类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--1951",
@@ -7277,7 +7835,9 @@
     ],
     "summary": "甘肃产区甘肃刀削面，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--1952",
@@ -7303,7 +7863,9 @@
     ],
     "summary": "甘肃凉皮为甘肃地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--1953",
@@ -7329,7 +7891,9 @@
     ],
     "summary": "甘肃家常主食甘肃肉夹馍，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--1954",
@@ -7355,7 +7919,9 @@
     ],
     "summary": "甘肃发糕在甘肃饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bean-paste--1955",
@@ -7381,7 +7947,9 @@
     ],
     "summary": "青海黄豆酱属青海类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sweet-bean-sauce--1956",
@@ -7407,7 +7975,9 @@
     ],
     "summary": "青海产区青海甜面酱，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-bean-paste--1957",
@@ -7433,7 +8003,9 @@
     ],
     "summary": "青海辣豆瓣酱为青海地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-white--1958",
@@ -7459,7 +8031,9 @@
     ],
     "summary": "青海家常主食青海白腐乳，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-rose--1959",
@@ -7485,7 +8059,9 @@
     ],
     "summary": "青海玫瑰腐乳在青海饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sesame-oil--1960",
@@ -7511,7 +8087,9 @@
     ],
     "summary": "青海芝麻油属青海类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-oil--1961",
@@ -7537,7 +8115,9 @@
     ],
     "summary": "青海产区青海辣椒油，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sichuan-pepper-oil--1962",
@@ -7563,7 +8143,9 @@
     ],
     "summary": "青海花椒油为青海地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-sauce--1963",
@@ -7589,7 +8171,9 @@
     ],
     "summary": "青海家常主食青海蚝油，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-sauce--1964",
@@ -7615,7 +8199,9 @@
     ],
     "summary": "青海虾酱在青海饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-sauce-gd--1965",
@@ -7641,7 +8227,9 @@
     ],
     "summary": "青海鱼露属青海类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-wine-cooking--1966",
@@ -7667,7 +8255,9 @@
     ],
     "summary": "青海产区青海料酒，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-rice-wine--1967",
@@ -7693,7 +8283,9 @@
     ],
     "summary": "青海黄酒为青海地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rose-fermented-wine--1968",
@@ -7719,7 +8311,9 @@
     ],
     "summary": "青海家常主食青海玫瑰露酒，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-preserved-plum--1969",
@@ -7745,7 +8339,9 @@
     ],
     "summary": "青海咸酸梅在青海饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-master-stock--1970",
@@ -7771,7 +8367,9 @@
     ],
     "summary": "青海卤水汁属青海类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-five-spice-powder--1971",
@@ -7797,7 +8395,9 @@
     ],
     "summary": "青海产区青海五香粉，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-curry-powder-cn--1972",
@@ -7823,7 +8423,9 @@
     ],
     "summary": "青海咖喱粉为青海地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-satay-sauce--1973",
@@ -7849,7 +8451,9 @@
     ],
     "summary": "青海家常主食青海沙茶酱，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bbq-sauce-cn--1974",
@@ -7875,7 +8479,9 @@
     ],
     "summary": "青海叉烧酱在青海饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hairtail--1975",
@@ -7901,7 +8507,9 @@
     ],
     "summary": "青海带鱼属青海类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-spanish-mackerel--1976",
@@ -7927,7 +8535,9 @@
     ],
     "summary": "青海产区青海马鲛鱼，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-pomfret--1977",
@@ -7953,7 +8563,9 @@
     ],
     "summary": "青海鲳鱼为青海地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-fin-tuna--1978",
@@ -7979,7 +8591,9 @@
     ],
     "summary": "青海家常主食青海黄鳍金枪鱼，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-squid-tube--1979",
@@ -8005,7 +8619,9 @@
     ],
     "summary": "青海鱿鱼筒在青海饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-cuttlefish--1980",
@@ -8031,7 +8647,9 @@
     ],
     "summary": "青海墨鱼属青海类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-squid--1981",
@@ -8057,7 +8675,9 @@
     ],
     "summary": "青海产区青海鱿鱼干，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-cuttlefish--1982",
@@ -8083,7 +8703,9 @@
     ],
     "summary": "青海墨鱼干为青海地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-clams--1983",
@@ -8109,7 +8731,9 @@
     ],
     "summary": "青海家常主食青海花甲，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-razor-clam--1984",
@@ -8135,7 +8759,9 @@
     ],
     "summary": "青海蛏子在青海饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-meat--1985",
@@ -8161,7 +8787,9 @@
     ],
     "summary": "青海生蚝肉属青海类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-abalone-small--1986",
@@ -8187,7 +8815,9 @@
     ],
     "summary": "青海产区青海鲍鱼仔，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sea-cucumber-dried--1987",
@@ -8213,7 +8843,9 @@
     ],
     "summary": "青海海参干为青海地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-seaweed-sheet--1988",
@@ -8239,7 +8871,9 @@
     ],
     "summary": "青海家常主食青海紫菜，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-kelp-knot--1989",
@@ -8265,7 +8899,9 @@
     ],
     "summary": "青海海带结在青海饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-whitebait--1990",
@@ -8291,7 +8927,9 @@
     ],
     "summary": "青海银鱼属青海类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-anchovy--1991",
@@ -8317,7 +8955,9 @@
     ],
     "summary": "青海产区青海凤尾鱼，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-croaker-dried--1992",
@@ -8343,7 +8983,9 @@
     ],
     "summary": "青海黄花鱼干为青海地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-ball--1993",
@@ -8369,7 +9011,9 @@
     ],
     "summary": "青海家常主食青海鱼丸，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-paste-ball--1994",
@@ -8395,7 +9039,9 @@
     ],
     "summary": "青海虾滑在青海饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--2035",
@@ -8421,7 +9067,9 @@
     ],
     "summary": "青海拉面属青海类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--2036",
@@ -8447,7 +9095,9 @@
     ],
     "summary": "青海产区青海刀削面，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--2037",
@@ -8473,7 +9123,9 @@
     ],
     "summary": "青海凉皮为青海地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--2038",
@@ -8499,7 +9151,9 @@
     ],
     "summary": "青海家常主食青海肉夹馍，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--2039",
@@ -8525,7 +9179,9 @@
     ],
     "summary": "青海发糕在青海饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bean-paste--2040",
@@ -8551,7 +9207,9 @@
     ],
     "summary": "宁夏黄豆酱属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sweet-bean-sauce--2041",
@@ -8577,7 +9235,9 @@
     ],
     "summary": "宁夏产区宁夏甜面酱，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-bean-paste--2042",
@@ -8603,7 +9263,9 @@
     ],
     "summary": "宁夏辣豆瓣酱为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-white--2043",
@@ -8629,7 +9291,9 @@
     ],
     "summary": "宁夏家常主食宁夏白腐乳，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-rose--2044",
@@ -8655,7 +9319,9 @@
     ],
     "summary": "宁夏玫瑰腐乳在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sesame-oil--2045",
@@ -8681,7 +9347,9 @@
     ],
     "summary": "宁夏芝麻油属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-oil--2046",
@@ -8707,7 +9375,9 @@
     ],
     "summary": "宁夏产区宁夏辣椒油，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sichuan-pepper-oil--2047",
@@ -8733,7 +9403,9 @@
     ],
     "summary": "宁夏花椒油为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-sauce--2048",
@@ -8759,7 +9431,9 @@
     ],
     "summary": "宁夏家常主食宁夏蚝油，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-sauce--2049",
@@ -8785,7 +9459,9 @@
     ],
     "summary": "宁夏虾酱在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-sauce-gd--2050",
@@ -8811,7 +9487,9 @@
     ],
     "summary": "宁夏鱼露属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-wine-cooking--2051",
@@ -8837,7 +9515,9 @@
     ],
     "summary": "宁夏产区宁夏料酒，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-rice-wine--2052",
@@ -8863,7 +9543,9 @@
     ],
     "summary": "宁夏黄酒为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rose-fermented-wine--2053",
@@ -8889,7 +9571,9 @@
     ],
     "summary": "宁夏家常主食宁夏玫瑰露酒，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-preserved-plum--2054",
@@ -8915,7 +9599,9 @@
     ],
     "summary": "宁夏咸酸梅在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-master-stock--2055",
@@ -8941,7 +9627,9 @@
     ],
     "summary": "宁夏卤水汁属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-five-spice-powder--2056",
@@ -8967,7 +9655,9 @@
     ],
     "summary": "宁夏产区宁夏五香粉，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-curry-powder-cn--2057",
@@ -8993,7 +9683,9 @@
     ],
     "summary": "宁夏咖喱粉为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-satay-sauce--2058",
@@ -9019,7 +9711,9 @@
     ],
     "summary": "宁夏家常主食宁夏沙茶酱，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bbq-sauce-cn--2059",
@@ -9045,7 +9739,9 @@
     ],
     "summary": "宁夏叉烧酱在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hairtail--2060",
@@ -9071,7 +9767,9 @@
     ],
     "summary": "宁夏带鱼属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-spanish-mackerel--2061",
@@ -9097,7 +9795,9 @@
     ],
     "summary": "宁夏产区宁夏马鲛鱼，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-pomfret--2062",
@@ -9123,7 +9823,9 @@
     ],
     "summary": "宁夏鲳鱼为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-fin-tuna--2063",
@@ -9149,7 +9851,9 @@
     ],
     "summary": "宁夏家常主食宁夏黄鳍金枪鱼，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-squid-tube--2064",
@@ -9175,7 +9879,9 @@
     ],
     "summary": "宁夏鱿鱼筒在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-cuttlefish--2065",
@@ -9201,7 +9907,9 @@
     ],
     "summary": "宁夏墨鱼属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-squid--2066",
@@ -9227,7 +9935,9 @@
     ],
     "summary": "宁夏产区宁夏鱿鱼干，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-cuttlefish--2067",
@@ -9253,7 +9963,9 @@
     ],
     "summary": "宁夏墨鱼干为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-clams--2068",
@@ -9279,7 +9991,9 @@
     ],
     "summary": "宁夏家常主食宁夏花甲，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-razor-clam--2069",
@@ -9305,7 +10019,9 @@
     ],
     "summary": "宁夏蛏子在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-meat--2070",
@@ -9331,7 +10047,9 @@
     ],
     "summary": "宁夏生蚝肉属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-abalone-small--2071",
@@ -9357,7 +10075,9 @@
     ],
     "summary": "宁夏产区宁夏鲍鱼仔，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sea-cucumber-dried--2072",
@@ -9383,7 +10103,9 @@
     ],
     "summary": "宁夏海参干为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-seaweed-sheet--2073",
@@ -9409,7 +10131,9 @@
     ],
     "summary": "宁夏家常主食宁夏紫菜，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-kelp-knot--2074",
@@ -9435,7 +10159,9 @@
     ],
     "summary": "宁夏海带结在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-whitebait--2075",
@@ -9461,7 +10187,9 @@
     ],
     "summary": "宁夏银鱼属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-anchovy--2076",
@@ -9487,7 +10215,9 @@
     ],
     "summary": "宁夏产区宁夏凤尾鱼，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-croaker-dried--2077",
@@ -9513,7 +10243,9 @@
     ],
     "summary": "宁夏黄花鱼干为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-ball--2078",
@@ -9539,7 +10271,9 @@
     ],
     "summary": "宁夏家常主食宁夏鱼丸，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-paste-ball--2079",
@@ -9565,7 +10299,9 @@
     ],
     "summary": "宁夏虾滑在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bok-choy--2080",
@@ -9591,7 +10327,9 @@
     ],
     "summary": "宁夏小白菜属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shanghai-greens--2081",
@@ -9617,7 +10355,9 @@
     ],
     "summary": "宁夏产区宁夏上海青，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chinese-cabbage--2082",
@@ -9643,7 +10383,9 @@
     ],
     "summary": "宁夏大白菜为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-mustard-greens--2083",
@@ -9669,7 +10411,9 @@
     ],
     "summary": "宁夏家常主食宁夏芥菜，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-amaranth--2084",
@@ -9695,7 +10439,9 @@
     ],
     "summary": "宁夏苋菜在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-malabar-spinach--2085",
@@ -9721,7 +10467,9 @@
     ],
     "summary": "宁夏木耳菜属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-water-spinach-tip--2086",
@@ -9747,7 +10495,9 @@
     ],
     "summary": "宁夏产区宁夏空心菜苗，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-garlic-chive--2087",
@@ -9773,7 +10523,9 @@
     ],
     "summary": "宁夏韭菜为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chive-flower--2088",
@@ -9799,7 +10551,9 @@
     ],
     "summary": "宁夏家常主食宁夏韭菜花，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-winter-gourd--2089",
@@ -9825,7 +10579,9 @@
     ],
     "summary": "宁夏节瓜在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bitter-gourd--2090",
@@ -9851,7 +10607,9 @@
     ],
     "summary": "宁夏凉瓜属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-luffa--2091",
@@ -9877,7 +10635,9 @@
     ],
     "summary": "宁夏产区宁夏丝瓜，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-snake-gourd--2092",
@@ -9903,7 +10663,9 @@
     ],
     "summary": "宁夏蛇瓜为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chayote--2093",
@@ -9929,7 +10691,9 @@
     ],
     "summary": "宁夏家常主食宁夏佛手瓜，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-okra--2094",
@@ -9955,7 +10719,9 @@
     ],
     "summary": "宁夏秋葵在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yardlong-bean--2095",
@@ -9981,7 +10747,9 @@
     ],
     "summary": "宁夏长豆角属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-snow-pea--2096",
@@ -10007,7 +10775,9 @@
     ],
     "summary": "宁夏产区宁夏荷兰豆，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sugar-snap--2097",
@@ -10033,7 +10803,9 @@
     ],
     "summary": "宁夏甜豆为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-lotus-seedpod--2098",
@@ -10059,7 +10831,9 @@
     ],
     "summary": "宁夏家常主食宁夏莲蓬，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-pomelo--2099",
@@ -10085,7 +10859,9 @@
     ],
     "summary": "宁夏柚子在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-noodle-roll--2100",
@@ -10111,7 +10887,9 @@
     ],
     "summary": "宁夏卷粉属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-flour-cake--2101",
@@ -10137,7 +10915,9 @@
     ],
     "summary": "宁夏产区宁夏米糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-glutinous-rice-ball--2102",
@@ -10163,7 +10943,9 @@
     ],
     "summary": "宁夏糯米糍为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sesame-ball--2103",
@@ -10189,7 +10971,9 @@
     ],
     "summary": "宁夏家常主食宁夏煎堆，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-turnip-pudding--2104",
@@ -10215,7 +10999,9 @@
     ],
     "summary": "宁夏萝卜糕在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-taro-pudding--2105",
@@ -10241,7 +11027,9 @@
     ],
     "summary": "宁夏芋头糕属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-dumpling-salty--2106",
@@ -10267,7 +11055,9 @@
     ],
     "summary": "宁夏产区宁夏咸肉粽，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-dumpling-sweet--2107",
@@ -10293,7 +11083,9 @@
     ],
     "summary": "宁夏碱水粽为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bun--2108",
@@ -10319,7 +11111,9 @@
     ],
     "summary": "宁夏家常主食宁夏包子，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-mantou--2109",
@@ -10345,7 +11139,9 @@
     ],
     "summary": "宁夏馒头在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-scallion-pancake--2110",
@@ -10371,7 +11167,9 @@
     ],
     "summary": "宁夏葱油饼属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fried-dough-twist--2111",
@@ -10397,7 +11195,9 @@
     ],
     "summary": "宁夏产区宁夏麻花，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-cracker--2112",
@@ -10423,7 +11223,9 @@
     ],
     "summary": "宁夏米饼为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-soy-milk-hot--2113",
@@ -10449,7 +11251,9 @@
     ],
     "summary": "宁夏家常主食宁夏热豆浆，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-tofu-pudding--2114",
@@ -10475,7 +11279,9 @@
     ],
     "summary": "宁夏豆腐花在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-grass-jelly--2115",
@@ -10501,7 +11307,9 @@
     ],
     "summary": "宁夏凉粉属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sweet-potato-ginger--2116",
@@ -10527,7 +11335,9 @@
     ],
     "summary": "宁夏产区宁夏番薯姜糖水，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-egg-waffle--2117",
@@ -10553,7 +11363,9 @@
     ],
     "summary": "宁夏鸡蛋仔为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-pineapple-bun--2118",
@@ -10579,7 +11391,9 @@
     ],
     "summary": "宁夏家常主食宁夏菠萝包，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-wife-cake--2119",
@@ -10605,7 +11419,9 @@
     ],
     "summary": "宁夏老婆饼在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--2120",
@@ -10631,7 +11447,9 @@
     ],
     "summary": "宁夏拉面属宁夏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--2121",
@@ -10657,7 +11475,9 @@
     ],
     "summary": "宁夏产区宁夏刀削面，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--2122",
@@ -10683,7 +11503,9 @@
     ],
     "summary": "宁夏凉皮为宁夏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--2123",
@@ -10709,7 +11531,9 @@
     ],
     "summary": "宁夏家常主食宁夏肉夹馍，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--2124",
@@ -10735,7 +11559,9 @@
     ],
     "summary": "宁夏发糕在宁夏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bean-paste--2125",
@@ -10761,7 +11587,9 @@
     ],
     "summary": "新疆黄豆酱属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sweet-bean-sauce--2126",
@@ -10787,7 +11615,9 @@
     ],
     "summary": "新疆产区新疆甜面酱，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-bean-paste--2127",
@@ -10813,7 +11643,9 @@
     ],
     "summary": "新疆辣豆瓣酱为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-white--2128",
@@ -10839,7 +11671,9 @@
     ],
     "summary": "新疆家常主食新疆白腐乳，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-rose--2129",
@@ -10865,7 +11699,9 @@
     ],
     "summary": "新疆玫瑰腐乳在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sesame-oil--2130",
@@ -10891,7 +11727,9 @@
     ],
     "summary": "新疆芝麻油属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-oil--2131",
@@ -10917,7 +11755,9 @@
     ],
     "summary": "新疆产区新疆辣椒油，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sichuan-pepper-oil--2132",
@@ -10943,7 +11783,9 @@
     ],
     "summary": "新疆花椒油为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-sauce--2133",
@@ -10969,7 +11811,9 @@
     ],
     "summary": "新疆家常主食新疆蚝油，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-sauce--2134",
@@ -10995,7 +11839,9 @@
     ],
     "summary": "新疆虾酱在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-sauce-gd--2135",
@@ -11021,7 +11867,9 @@
     ],
     "summary": "新疆鱼露属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-wine-cooking--2136",
@@ -11047,7 +11895,9 @@
     ],
     "summary": "新疆产区新疆料酒，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-rice-wine--2137",
@@ -11073,7 +11923,9 @@
     ],
     "summary": "新疆黄酒为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rose-fermented-wine--2138",
@@ -11099,7 +11951,9 @@
     ],
     "summary": "新疆家常主食新疆玫瑰露酒，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-preserved-plum--2139",
@@ -11125,7 +11979,9 @@
     ],
     "summary": "新疆咸酸梅在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-master-stock--2140",
@@ -11151,7 +12007,9 @@
     ],
     "summary": "新疆卤水汁属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-five-spice-powder--2141",
@@ -11177,7 +12035,9 @@
     ],
     "summary": "新疆产区新疆五香粉，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-curry-powder-cn--2142",
@@ -11203,7 +12063,9 @@
     ],
     "summary": "新疆咖喱粉为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-satay-sauce--2143",
@@ -11229,7 +12091,9 @@
     ],
     "summary": "新疆家常主食新疆沙茶酱，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bbq-sauce-cn--2144",
@@ -11255,7 +12119,9 @@
     ],
     "summary": "新疆叉烧酱在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hairtail--2145",
@@ -11281,7 +12147,9 @@
     ],
     "summary": "新疆带鱼属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-spanish-mackerel--2146",
@@ -11307,7 +12175,9 @@
     ],
     "summary": "新疆产区新疆马鲛鱼，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-pomfret--2147",
@@ -11333,7 +12203,9 @@
     ],
     "summary": "新疆鲳鱼为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-fin-tuna--2148",
@@ -11359,7 +12231,9 @@
     ],
     "summary": "新疆家常主食新疆黄鳍金枪鱼，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-squid-tube--2149",
@@ -11385,7 +12259,9 @@
     ],
     "summary": "新疆鱿鱼筒在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-cuttlefish--2150",
@@ -11411,7 +12287,9 @@
     ],
     "summary": "新疆墨鱼属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-squid--2151",
@@ -11437,7 +12315,9 @@
     ],
     "summary": "新疆产区新疆鱿鱼干，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-dried-cuttlefish--2152",
@@ -11463,7 +12343,9 @@
     ],
     "summary": "新疆墨鱼干为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-clams--2153",
@@ -11489,7 +12371,9 @@
     ],
     "summary": "新疆家常主食新疆花甲，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-razor-clam--2154",
@@ -11515,7 +12399,9 @@
     ],
     "summary": "新疆蛏子在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-meat--2155",
@@ -11541,7 +12427,9 @@
     ],
     "summary": "新疆生蚝肉属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-abalone-small--2156",
@@ -11567,7 +12455,9 @@
     ],
     "summary": "新疆产区新疆鲍鱼仔，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sea-cucumber-dried--2157",
@@ -11593,7 +12483,9 @@
     ],
     "summary": "新疆海参干为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-seaweed-sheet--2158",
@@ -11619,7 +12511,9 @@
     ],
     "summary": "新疆家常主食新疆紫菜，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-kelp-knot--2159",
@@ -11645,7 +12539,9 @@
     ],
     "summary": "新疆海带结在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-whitebait--2160",
@@ -11671,7 +12567,9 @@
     ],
     "summary": "新疆银鱼属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-anchovy--2161",
@@ -11697,7 +12595,9 @@
     ],
     "summary": "新疆产区新疆凤尾鱼，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-croaker-dried--2162",
@@ -11723,7 +12623,9 @@
     ],
     "summary": "新疆黄花鱼干为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-ball--2163",
@@ -11749,7 +12651,9 @@
     ],
     "summary": "新疆家常主食新疆鱼丸，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-paste-ball--2164",
@@ -11775,7 +12679,9 @@
     ],
     "summary": "新疆虾滑在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bok-choy--2165",
@@ -11801,7 +12707,9 @@
     ],
     "summary": "新疆小白菜属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shanghai-greens--2166",
@@ -11827,7 +12735,9 @@
     ],
     "summary": "新疆产区新疆上海青，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chinese-cabbage--2167",
@@ -11853,7 +12763,9 @@
     ],
     "summary": "新疆大白菜为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-mustard-greens--2168",
@@ -11879,7 +12791,9 @@
     ],
     "summary": "新疆家常主食新疆芥菜，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-amaranth--2169",
@@ -11905,7 +12819,9 @@
     ],
     "summary": "新疆苋菜在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-malabar-spinach--2170",
@@ -11931,7 +12847,9 @@
     ],
     "summary": "新疆木耳菜属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-water-spinach-tip--2171",
@@ -11957,7 +12875,9 @@
     ],
     "summary": "新疆产区新疆空心菜苗，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-garlic-chive--2172",
@@ -11983,7 +12903,9 @@
     ],
     "summary": "新疆韭菜为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chive-flower--2173",
@@ -12009,7 +12931,9 @@
     ],
     "summary": "新疆家常主食新疆韭菜花，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-winter-gourd--2174",
@@ -12035,7 +12959,9 @@
     ],
     "summary": "新疆节瓜在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bitter-gourd--2175",
@@ -12061,7 +12987,9 @@
     ],
     "summary": "新疆凉瓜属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-luffa--2176",
@@ -12087,7 +13015,9 @@
     ],
     "summary": "新疆产区新疆丝瓜，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-snake-gourd--2177",
@@ -12113,7 +13043,9 @@
     ],
     "summary": "新疆蛇瓜为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chayote--2178",
@@ -12139,7 +13071,9 @@
     ],
     "summary": "新疆家常主食新疆佛手瓜，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-okra--2179",
@@ -12165,7 +13099,9 @@
     ],
     "summary": "新疆秋葵在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yardlong-bean--2180",
@@ -12191,7 +13127,9 @@
     ],
     "summary": "新疆长豆角属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-snow-pea--2181",
@@ -12217,7 +13155,9 @@
     ],
     "summary": "新疆产区新疆荷兰豆，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sugar-snap--2182",
@@ -12243,7 +13183,9 @@
     ],
     "summary": "新疆甜豆为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-lotus-seedpod--2183",
@@ -12269,7 +13211,9 @@
     ],
     "summary": "新疆家常主食新疆莲蓬，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-pomelo--2184",
@@ -12295,7 +13239,9 @@
     ],
     "summary": "新疆柚子在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-noodle-roll--2185",
@@ -12321,7 +13267,9 @@
     ],
     "summary": "新疆卷粉属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-flour-cake--2186",
@@ -12347,7 +13295,9 @@
     ],
     "summary": "新疆产区新疆米糕，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-glutinous-rice-ball--2187",
@@ -12373,7 +13323,9 @@
     ],
     "summary": "新疆糯米糍为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sesame-ball--2188",
@@ -12399,7 +13351,9 @@
     ],
     "summary": "新疆家常主食新疆煎堆，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-turnip-pudding--2189",
@@ -12425,7 +13379,9 @@
     ],
     "summary": "新疆萝卜糕在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-taro-pudding--2190",
@@ -12451,7 +13407,9 @@
     ],
     "summary": "新疆芋头糕属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-dumpling-salty--2191",
@@ -12477,7 +13435,9 @@
     ],
     "summary": "新疆产区新疆咸肉粽，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-dumpling-sweet--2192",
@@ -12503,7 +13463,9 @@
     ],
     "summary": "新疆碱水粽为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bun--2193",
@@ -12529,7 +13491,9 @@
     ],
     "summary": "新疆家常主食新疆包子，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-mantou--2194",
@@ -12555,7 +13519,9 @@
     ],
     "summary": "新疆馒头在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-scallion-pancake--2195",
@@ -12581,7 +13547,9 @@
     ],
     "summary": "新疆葱油饼属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fried-dough-twist--2196",
@@ -12607,7 +13575,9 @@
     ],
     "summary": "新疆产区新疆麻花，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-cracker--2197",
@@ -12633,7 +13603,9 @@
     ],
     "summary": "新疆米饼为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-soy-milk-hot--2198",
@@ -12659,7 +13631,9 @@
     ],
     "summary": "新疆家常主食新疆热豆浆，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-tofu-pudding--2199",
@@ -12685,7 +13659,9 @@
     ],
     "summary": "新疆豆腐花在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-grass-jelly--2200",
@@ -12711,7 +13687,9 @@
     ],
     "summary": "新疆凉粉属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sweet-potato-ginger--2201",
@@ -12737,7 +13715,9 @@
     ],
     "summary": "新疆产区新疆番薯姜糖水，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-egg-waffle--2202",
@@ -12763,7 +13743,9 @@
     ],
     "summary": "新疆鸡蛋仔为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-pineapple-bun--2203",
@@ -12789,7 +13771,9 @@
     ],
     "summary": "新疆家常主食新疆菠萝包，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-wife-cake--2204",
@@ -12815,7 +13799,9 @@
     ],
     "summary": "新疆老婆饼在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hand-pulled-noodle--2205",
@@ -12841,7 +13827,9 @@
     ],
     "summary": "新疆拉面属新疆类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-knife-cut-noodle--2206",
@@ -12867,7 +13855,9 @@
     ],
     "summary": "新疆产区新疆刀削面，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-liangpi--2207",
@@ -12893,7 +13883,9 @@
     ],
     "summary": "新疆凉皮为新疆地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-roujiamo--2208",
@@ -12919,7 +13911,9 @@
     ],
     "summary": "新疆家常主食新疆肉夹馍，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-steamed-bread--2209",
@@ -12945,7 +13939,9 @@
     ],
     "summary": "新疆发糕在新疆饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bean-paste--2210",
@@ -12971,7 +13967,9 @@
     ],
     "summary": "西藏黄豆酱属西藏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sweet-bean-sauce--2211",
@@ -12997,7 +13995,9 @@
     ],
     "summary": "西藏产区西藏甜面酱，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-bean-paste--2212",
@@ -13023,7 +14023,9 @@
     ],
     "summary": "西藏辣豆瓣酱为西藏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-white--2213",
@@ -13049,7 +14051,9 @@
     ],
     "summary": "西藏家常主食西藏白腐乳，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fermented-tofu-rose--2214",
@@ -13075,7 +14079,9 @@
     ],
     "summary": "西藏玫瑰腐乳在西藏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sesame-oil--2215",
@@ -13101,7 +14107,9 @@
     ],
     "summary": "西藏芝麻油属西藏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-chili-oil--2216",
@@ -13127,7 +14135,9 @@
     ],
     "summary": "西藏产区西藏辣椒油，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-sichuan-pepper-oil--2217",
@@ -13153,7 +14163,9 @@
     ],
     "summary": "西藏花椒油为西藏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-oyster-sauce--2218",
@@ -13179,7 +14191,9 @@
     ],
     "summary": "西藏家常主食西藏蚝油，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-shrimp-sauce--2219",
@@ -13205,7 +14219,9 @@
     ],
     "summary": "西藏虾酱在西藏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-fish-sauce-gd--2220",
@@ -13231,7 +14247,9 @@
     ],
     "summary": "西藏鱼露属西藏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rice-wine-cooking--2221",
@@ -13257,7 +14275,9 @@
     ],
     "summary": "西藏产区西藏料酒，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-yellow-rice-wine--2222",
@@ -13283,7 +14303,9 @@
     ],
     "summary": "西藏黄酒为西藏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-rose-fermented-wine--2223",
@@ -13309,7 +14331,9 @@
     ],
     "summary": "西藏家常主食西藏玫瑰露酒，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-preserved-plum--2224",
@@ -13335,7 +14359,9 @@
     ],
     "summary": "西藏咸酸梅在西藏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-master-stock--2225",
@@ -13361,7 +14387,9 @@
     ],
     "summary": "西藏卤水汁属西藏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-five-spice-powder--2226",
@@ -13387,7 +14415,9 @@
     ],
     "summary": "西藏产区西藏五香粉，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-curry-powder-cn--2227",
@@ -13413,7 +14443,9 @@
     ],
     "summary": "西藏咖喱粉为西藏地方主食，日常食养参考条目。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-satay-sauce--2228",
@@ -13439,7 +14471,9 @@
     ],
     "summary": "西藏家常主食西藏沙茶酱，性味与用量因人而异。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-bbq-sauce-cn--2229",
@@ -13465,7 +14499,9 @@
     ],
     "summary": "西藏叉烧酱在西藏饮食文化中常见，作调理参考而非医疗建议。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-hairtail--2230",
@@ -13491,7 +14527,9 @@
     ],
     "summary": "西藏带鱼属西藏类，传统食养整理供查阅搭配。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   },
   {
     "id": "reg-spanish-mackerel--2231",
@@ -13517,6 +14555,8 @@
     ],
     "summary": "西藏产区西藏马鲛鱼，性味归经按民间经验整理。",
     "caution": "因人而异，消化弱者适量；过敏或慢病用药期请咨询医生。",
-    "hiddenFromLibrary": true
+    "hiddenFromLibrary": true,
+    "natureSource": "pool-inherit",
+    "natureConfidence": "medium"
   }
 ]

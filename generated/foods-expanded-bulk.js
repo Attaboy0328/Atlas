@@ -64,7 +64,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "甲鱼：甲鱼是常见海产。传统食养中常见关键词为“滋补、和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "甲鱼：甲鱼是常见海产。传统食养中常见关键词为“滋补、和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "tilapia",
@@ -128,7 +129,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "罗非鱼：罗非鱼是常见海产。传统食养中常见关键词为“高蛋白、和中”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "罗非鱼：罗非鱼是常见海产。传统食养中常见关键词为“高蛋白、和中”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "snakehead-fish",
@@ -195,7 +197,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "黑鱼：黑鱼是常见海产。传统食养中常见关键词为“高蛋白、滋养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "黑鱼：黑鱼是常见海产。传统食养中常见关键词为“高蛋白、滋养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "crucian-carp",
@@ -258,7 +261,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鲫鱼：鲫鱼是常见海产。传统食养中常见关键词为“和中、滋养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鲫鱼：鲫鱼是常见海产。传统食养中常见关键词为“和中、滋养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "carp",
@@ -315,7 +319,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鲤鱼：鲤鱼是常见海产。传统食养中常见关键词为“和中、滋养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鲤鱼：鲤鱼是常见海产。传统食养中常见关键词为“和中、滋养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "grass-carp",
@@ -374,7 +379,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "草鱼：草鱼是常见海产。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "草鱼：草鱼是常见海产。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "mandarin-fish",
@@ -436,7 +442,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鳜鱼：鳜鱼是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鳜鱼：鳜鱼是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "catfish",
@@ -494,7 +501,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鲶鱼：鲶鱼是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鲶鱼：鲶鱼是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "yellow-catfish",
@@ -559,7 +567,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黄骨鱼：黄骨鱼是常见海产。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黄骨鱼：黄骨鱼是常见海产。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "donkey-meat",
@@ -619,7 +628,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "驴肉：驴肉是常见肉蛋奶。传统食养中常见关键词为“补益”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "驴肉：驴肉是常见肉蛋奶。传统食养中常见关键词为“补益”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "rabbit-meat",
@@ -679,7 +689,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "兔肉：兔肉是常见肉蛋奶。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "兔肉：兔肉是常见肉蛋奶。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "pigeon",
@@ -743,7 +754,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "乳鸽：乳鸽是常见肉蛋奶。传统食养中常见关键词为“补益”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "乳鸽：乳鸽是常见肉蛋奶。传统食养中常见关键词为“补益”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "button-mushroom",
@@ -806,7 +818,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "白蘑菇：白蘑菇是常见菌菇。传统食养中常见关键词为“和中、增鲜”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "白蘑菇：白蘑菇是常见菌菇。传统食养中常见关键词为“和中、增鲜”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "straw-mushroom",
@@ -866,7 +879,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "草菇：草菇是常见菌菇。传统食养中常见关键词为“和中、增鲜”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "草菇：草菇是常见菌菇。传统食养中常见关键词为“和中、增鲜”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "termitomyces",
@@ -927,7 +941,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鸡枞：鸡枞是常见菌菇。传统食养中常见关键词为“增鲜、和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鸡枞：鸡枞是常见菌菇。传统食养中常见关键词为“增鲜、和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "matsutake",
@@ -987,7 +1002,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "松茸：松茸是常见菌菇。传统食养中常见关键词为“增鲜、滋养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "松茸：松茸是常见菌菇。传统食养中常见关键词为“增鲜、滋养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "boletus",
@@ -1045,7 +1061,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "牛肝菌：牛肝菌是常见菌菇。传统食养中常见关键词为“增鲜”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "牛肝菌：牛肝菌是常见菌菇。传统食养中常见关键词为“增鲜”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "caitai",
@@ -1108,7 +1125,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "红菜苔：红菜苔是常见蔬菜。传统食养中常见关键词为“清利、和中”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "红菜苔：红菜苔是常见蔬菜。传统食养中常见关键词为“清利、和中”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "night-blooming-flower",
@@ -1170,7 +1188,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "夜香花：夜香花是常见蔬菜。传统食养中常见关键词为“清润、增香”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "夜香花：夜香花是常见蔬菜。传统食养中常见关键词为“清润、增香”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "gai-lan",
@@ -1235,7 +1254,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "芥兰：芥兰是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芥兰：芥兰是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "red-stem-gai-lan",
@@ -1295,7 +1315,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "红脚芥兰：红脚芥兰是常见蔬菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "红脚芥兰：红脚芥兰是常见蔬菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "sesame-leaf",
@@ -1359,7 +1380,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "麻叶：麻叶是常见野菜。传统食养中常见关键词为“和中、增香”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "麻叶：麻叶是常见野菜。传统食养中常见关键词为“和中、增香”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "fish-mint",
@@ -1425,7 +1447,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "折耳根：折耳根是常见野菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "折耳根：折耳根是常见野菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "celtuce",
@@ -1483,7 +1506,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "莴笋：莴笋是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "莴笋：莴笋是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "water-chestnut",
@@ -1547,7 +1571,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "荸荠：荸荠是常见蔬菜。传统食养中常见关键词为“清利、生津”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "荸荠：荸荠是常见蔬菜。传统食养中常见关键词为“清利、生津”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "water-shield",
@@ -1608,7 +1633,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "莼菜：莼菜是常见蔬菜。传统食养中常见关键词为“清润”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "莼菜：莼菜是常见蔬菜。传统食养中常见关键词为“清润”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "toon-bud",
@@ -1670,7 +1696,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "香椿：香椿是常见野菜。传统食养中常见关键词为“开胃、增香”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "香椿：香椿是常见野菜。传统食养中常见关键词为“开胃、增香”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "water-bamboo",
@@ -1731,7 +1758,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "茭白：茭白是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "茭白：茭白是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "sour-bamboo-shoot",
@@ -1793,7 +1821,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "酸笋：酸笋是常见腌菜。传统食养中常见关键词为“开胃”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "酸笋：酸笋是常见腌菜。传统食养中常见关键词为“开胃”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "hami-melon",
@@ -1852,7 +1881,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "哈密瓜：哈密瓜是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "哈密瓜：哈密瓜是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "wax-apple",
@@ -1912,7 +1942,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "莲雾：莲雾是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "莲雾：莲雾是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "pineapple-honey",
@@ -1974,7 +2005,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "菠萝蜜：菠萝蜜是常见水果。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "菠萝蜜：菠萝蜜是常见水果。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "bamboo-fungus",
@@ -2036,7 +2068,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "竹荪：竹荪是常见菌菇。传统食养中常见关键词为“和中、增鲜”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "竹荪：竹荪是常见菌菇。传统食养中常见关键词为“和中、增鲜”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "termite-mushroom",
@@ -2094,7 +2127,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "干巴菌：干巴菌是常见菌菇。传统食养中常见关键词为“增鲜”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "干巴菌：干巴菌是常见菌菇。传统食养中常见关键词为“增鲜”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "morel",
@@ -2154,7 +2188,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "羊肚菌：羊肚菌是常见菌菇。传统食养中常见关键词为“增鲜、滋养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "羊肚菌：羊肚菌是常见菌菇。传统食养中常见关键词为“增鲜、滋养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "wild-pepper-leaf",
@@ -2219,7 +2254,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "木姜叶：木姜叶是常见野菜。传统食养中常见关键词为“行气、增香”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "木姜叶：木姜叶是常见野菜。传统食养中常见关键词为“行气、增香”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "red-sour-soup",
@@ -2285,7 +2321,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "红酸汤：红酸汤是常见调料。传统食养中常见关键词为“调味、开胃”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "红酸汤：红酸汤是常见调料。传统食养中常见关键词为“调味、开胃”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "ciba-pepper",
@@ -2347,7 +2384,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "糍粑辣椒：糍粑辣椒是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "糍粑辣椒：糍粑辣椒是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "zhacai",
@@ -2408,7 +2446,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "榨菜：榨菜是常见腌菜。传统食养中常见关键词为“开胃”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "榨菜：榨菜是常见腌菜。传统食养中常见关键词为“开胃”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "yibin-yacai",
@@ -2471,7 +2510,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芽菜：芽菜是常见腌菜。传统食养中常见关键词为“开胃、调味”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芽菜：芽菜是常见腌菜。传统食养中常见关键词为“开胃、调味”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "pickled-chili",
@@ -2534,7 +2574,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "泡椒：泡椒是常见腌菜。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "泡椒：泡椒是常见腌菜。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "caixin",
@@ -2595,7 +2636,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "菜心：菜心是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "菜心：菜心是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "watercress",
@@ -2656,7 +2698,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "西洋菜：西洋菜是常见蔬菜。传统食养中常见关键词为“清润”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "西洋菜：西洋菜是常见蔬菜。传统食养中常见关键词为“清润”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "wolfberry-leaf",
@@ -2718,7 +2761,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "枸杞叶：枸杞叶是常见蔬菜。传统食养中常见关键词为“清润”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "枸杞叶：枸杞叶是常见蔬菜。传统食养中常见关键词为“清润”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "wuzhi-maotao",
@@ -2783,7 +2827,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "五指毛桃：五指毛桃是常见滋补食材。传统食养中常见关键词为“和中、煲汤”，实际影响更取决于份量、加工方式和个…"
+    "eatingIntro": "五指毛桃：五指毛桃是常见滋补食材。传统食养中常见关键词为“和中、煲汤”，实际影响更取决于份量、加工方式和个…",
+    "natureNote": ""
   },
   {
     "id": "tufuling",
@@ -2846,7 +2891,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "土茯苓：土茯苓是常见食药物质。传统食养中常见关键词为“和中、清利”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "土茯苓：土茯苓是常见食药物质。传统食养中常见关键词为“和中、清利”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "sand-ginger",
@@ -2909,7 +2955,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "沙姜：沙姜是常见调料。传统食养中常见关键词为“调味、温中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "沙姜：沙姜是常见调料。传统食养中常见关键词为“调味、温中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "oyster",
@@ -2975,7 +3022,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "生蚝：生蚝是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "生蚝：生蚝是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "clam",
@@ -3040,7 +3088,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "花甲：花甲是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "花甲：花甲是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "razor-clam",
@@ -3103,7 +3152,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蛏子：蛏子是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蛏子：蛏子是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "mud-snail",
@@ -3165,7 +3215,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "泥螺：泥螺是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "泥螺：泥螺是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "river-shrimp",
@@ -3225,7 +3276,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "河虾：河虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "河虾：河虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "knife-fish",
@@ -3286,7 +3338,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "刀鱼：刀鱼是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "刀鱼：刀鱼是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "malantou",
@@ -3346,7 +3399,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "马兰头：马兰头是常见野菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "马兰头：马兰头是常见野菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "shepherds-purse",
@@ -3406,7 +3460,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "荠菜：荠菜是常见野菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "荠菜：荠菜是常见野菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "loquat",
@@ -3465,7 +3520,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "枇杷：枇杷是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "枇杷：枇杷是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "red-yeast-rice",
@@ -3526,7 +3582,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "红糟：红糟是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "红糟：红糟是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "perilla-nine-layer",
@@ -3590,7 +3647,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "九层塔：九层塔是常见调料。传统食养中常见关键词为“增香、行气”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "九层塔：九层塔是常见调料。传统食养中常见关键词为“增香、行气”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "po-bu-zi",
@@ -3653,7 +3711,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "破布子：破布子是常见腌菜。传统食养中常见关键词为“开胃、调味”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "破布子：破布子是常见腌菜。传统食养中常见关键词为“开胃、调味”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "yam-bean",
@@ -3715,7 +3774,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "沙葛：沙葛是常见蔬菜。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "沙葛：沙葛是常见蔬菜。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "hazel-mushroom",
@@ -3773,7 +3833,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "榛蘑：榛蘑是常见菌菇。传统食养中常见关键词为“增鲜”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "榛蘑：榛蘑是常见菌菇。传统食养中常见关键词为“增鲜”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "yuanmo",
@@ -3830,7 +3891,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "元蘑：元蘑是常见菌菇。传统食养中常见关键词为“增鲜”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "元蘑：元蘑是常见菌菇。传统食养中常见关键词为“增鲜”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "pine-nut-kernel",
@@ -3889,7 +3951,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "松子仁：松子仁是常见坚果种子。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "松子仁：松子仁是常见坚果种子。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "sour-cabbage",
@@ -3953,7 +4016,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "酸菜：酸菜是常见腌菜。传统食养中常见关键词为“开胃”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "酸菜：酸菜是常见腌菜。传统食养中常见关键词为“开胃”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "sea-buckthorn-fruit",
@@ -4012,7 +4076,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "沙棘果：沙棘果是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "沙棘果：沙棘果是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "seabuckthorn-juice",
@@ -4070,7 +4135,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "沙棘汁：沙棘汁是常见饮品。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "沙棘汁：沙棘汁是常见饮品。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "naked-oats",
@@ -4130,7 +4196,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "莜麦：莜麦是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "莜麦：莜麦是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "buckwheat-noodle",
@@ -4190,7 +4257,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "荞面：荞面是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "荞面：荞面是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "sorghum-rice",
@@ -4249,7 +4317,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "高粱米：高粱米是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "高粱米：高粱米是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "millet-noodle",
@@ -4310,7 +4379,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "糜子：糜子是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "糜子：糜子是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "daylily",
@@ -4371,7 +4441,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "黄花菜：黄花菜是常见蔬菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黄花菜：黄花菜是常见蔬菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "wood-ginger-oil",
@@ -4435,7 +4506,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "木姜油：木姜油是常见调料。传统食养中常见关键词为“调味、增香”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "木姜油：木姜油是常见调料。传统食养中常见关键词为“调味、增香”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "green-sour-soup",
@@ -4498,7 +4570,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "白酸汤：白酸汤是常见调料。传统食养中常见关键词为“调味、开胃”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "白酸汤：白酸汤是常见调料。传统食养中常见关键词为“调味、开胃”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "miao-dipping-water",
@@ -4565,7 +4638,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蘸水：蘸水是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蘸水：蘸水是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "thorn-vine-pepper",
@@ -4630,7 +4704,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "刺芫荽：刺芫荽是常见野菜。传统食养中常见关键词为“增香、行气”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "刺芫荽：刺芫荽是常见野菜。传统食养中常见关键词为“增香、行气”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "water-fern",
@@ -4690,7 +4765,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "水蕨菜：水蕨菜是常见野菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "水蕨菜：水蕨菜是常见野菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "fiddlehead",
@@ -4750,7 +4826,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蕨菜尖：蕨菜尖是常见野菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蕨菜尖：蕨菜尖是常见野菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "larou",
@@ -4818,7 +4895,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "腊肉：腊肉是常见肉蛋奶。传统食养中常见关键词为“温中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "腊肉：腊肉是常见肉蛋奶。传统食养中常见关键词为“温中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "lapork-ribs",
@@ -4880,7 +4958,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "腊排骨：腊排骨是常见肉蛋奶。传统食养中常见关键词为“温中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "腊排骨：腊排骨是常见肉蛋奶。传统食养中常见关键词为“温中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "la-bean-curd",
@@ -4942,7 +5021,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "腊豆腐：腊豆腐是常见豆制品。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "腊豆腐：腊豆腐是常见豆制品。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "mesona",
@@ -5004,7 +5084,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "凉粉草：凉粉草是常见食药物质。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "凉粉草：凉粉草是常见食药物质。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "kapok-flower",
@@ -5063,7 +5144,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "木棉花：木棉花是常见食药物质。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "木棉花：木棉花是常见食药物质。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "chikung-tea-herb",
@@ -5123,7 +5205,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "鸡骨草：鸡骨草是常见食药物质。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鸡骨草：鸡骨草是常见食药物质。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "selfheal-spike",
@@ -5184,7 +5267,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "夏枯草：夏枯草是常见食药物质。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "夏枯草：夏枯草是常见食药物质。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "patchouli",
@@ -5244,7 +5328,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "藿香：藿香是常见食药物质。传统食养中常见关键词为“化湿、和中”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "藿香：藿香是常见食药物质。传统食养中常见关键词为“化湿、和中”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "wormgrass-flower",
@@ -5304,7 +5389,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "虫草花：虫草花是常见菌菇。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "虫草花：虫草花是常见菌菇。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "dried-scallop",
@@ -5368,7 +5454,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "瑶柱：瑶柱是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "瑶柱：瑶柱是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "dried-oyster",
@@ -5429,7 +5516,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蚝豉：蚝豉是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蚝豉：蚝豉是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "water-spinach-stem",
@@ -5488,7 +5576,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "通菜梗：通菜梗是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "通菜梗：通菜梗是常见蔬菜。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "mustard-tuber",
@@ -5552,7 +5641,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "大头菜：大头菜是常见腌菜。传统食养中常见关键词为“开胃”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "大头菜：大头菜是常见腌菜。传统食养中常见关键词为“开胃”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "taro-stem",
@@ -5612,7 +5702,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芋荷梗：芋荷梗是常见蔬菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芋荷梗：芋荷梗是常见蔬菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "eel",
@@ -5678,7 +5769,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鳝鱼：鳝鱼是常见海产。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鳝鱼：鳝鱼是常见海产。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "river-eel",
@@ -5742,7 +5834,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鳗鱼：鳗鱼是常见海产。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鳗鱼：鳗鱼是常见海产。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "pomfret",
@@ -5806,7 +5899,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鲳鱼：鲳鱼是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鲳鱼：鲳鱼是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "hairtail",
@@ -5868,7 +5962,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "带鱼：带鱼是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "带鱼：带鱼是常见海产。传统食养中常见关键词为“鲜补”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "seaweed-greens",
@@ -5927,7 +6022,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "海白菜：海白菜是常见海产。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "海白菜：海白菜是常见海产。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "laver",
@@ -5994,7 +6090,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "紫菜：紫菜是常见海产。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "紫菜：紫菜是常见海产。传统食养中常见关键词为“清利”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "fennel-shoot",
@@ -6053,7 +6150,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "茴香苗：茴香苗是常见蔬菜。传统食养中常见关键词为“行气”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "茴香苗：茴香苗是常见蔬菜。传统食养中常见关键词为“行气”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "wild-rice-stem",
@@ -6112,7 +6210,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "茨菇：茨菇是常见蔬菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "茨菇：茨菇是常见蔬菜。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "bergamot-fruit",
@@ -6171,7 +6270,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "香橼：香橼是常见水果。传统食养中常见关键词为“行气”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "香橼：香橼是常见水果。传统食养中常见关键词为“行气”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "fermented-rice-wine",
@@ -6233,7 +6333,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "酒酿：酒酿是常见发酵食品。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "酒酿：酒酿是常见发酵食品。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "muscovy-duck",
@@ -6293,7 +6394,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "番鸭：番鸭是常见肉蛋奶。传统食养中常见关键词为“补益”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "番鸭：番鸭是常见肉蛋奶。传统食养中常见关键词为“补益”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "yam-leaf",
@@ -6353,7 +6455,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "山药豆：山药豆是常见薯类。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "山药豆：山药豆是常见薯类。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cattail-pollen",
@@ -6412,7 +6515,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蒲黄：蒲黄是常见食药物质。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蒲黄：蒲黄是常见食药物质。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "lily-root",
@@ -6471,7 +6575,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "百合根：百合根是常见食药物质。传统食养中常见关键词为“清润”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "百合根：百合根是常见食药物质。传统食养中常见关键词为“清润”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "sea-buckthorn-leaf",
@@ -6529,7 +6634,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "沙棘叶：沙棘叶是常见食药物质。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "沙棘叶：沙棘叶是常见食药物质。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "wild-onion",
@@ -6591,7 +6697,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "沙葱：沙葱是常见野菜。传统食养中常见关键词为“增香、行气”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "沙葱：沙葱是常见野菜。传统食养中常见关键词为“增香、行气”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "yellow-millet",
@@ -6651,7 +6758,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黄米：黄米是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黄米：黄米是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "millet-paste",
@@ -6713,7 +6821,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "炒米：炒米是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "炒米：炒米是常见谷物。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "blood-sausage",
@@ -6774,7 +6883,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "血肠：血肠是常见肉蛋奶。传统食养中常见关键词为“补益”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "血肠：血肠是常见肉蛋奶。传统食养中常见关键词为“补益”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "venison",
@@ -6835,7 +6945,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "鹿肉：鹿肉是常见肉蛋奶。传统食养中常见关键词为“温补”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鹿肉：鹿肉是常见肉蛋奶。传统食养中常见关键词为“温补”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "hazelnut",
@@ -6894,7 +7005,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "榛子：榛子是常见坚果种子。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "榛子：榛子是常见坚果种子。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "goblet-mushroom",
@@ -6952,7 +7064,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "猴头蘑：猴头蘑是常见菌菇。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "猴头蘑：猴头蘑是常见菌菇。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "fern-root-starch",
@@ -7014,7 +7127,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "厥麻：厥麻是常见薯类。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "厥麻：厥麻是常见薯类。传统食养中常见关键词为“和中”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "goat-milk",
@@ -7074,7 +7188,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "羊奶：羊奶是常见饮品。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "羊奶：羊奶是常见饮品。传统食养中常见关键词为“滋养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "official-ginseng",
@@ -7133,7 +7248,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "人参：人参是常见食药物质。传统食养中常见关键词为“补气、扶正”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "人参：人参是常见食药物质。传统食养中常见关键词为“补气、扶正”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-american-ginseng",
@@ -7192,7 +7308,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "西洋参：西洋参是常见食药物质。传统食养中常见关键词为“益气、生津”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "西洋参：西洋参是常见食药物质。传统食养中常见关键词为“益气、生津”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-licorice",
@@ -7247,7 +7364,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "甘草：甘草是常见食药物质。传统食养中常见关键词为“和中、调和”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "甘草：甘草是常见食药物质。传统食养中常见关键词为“和中、调和”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-dried-ginger",
@@ -7302,7 +7420,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "干姜：干姜是常见食药物质。传统食养中常见关键词为“温中、散寒”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "干姜：干姜是常见食药物质。传统食养中常见关键词为“温中、散寒”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-cinnamon",
@@ -7361,7 +7480,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "肉桂：肉桂是常见食药物质。传统食养中常见关键词为“温阳、散寒”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "肉桂：肉桂是常见食药物质。传统食养中常见关键词为“温阳、散寒”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-fennel",
@@ -7420,7 +7540,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "小茴香：小茴香是常见食药物质。传统食养中常见关键词为“温中、理气”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "小茴香：小茴香是常见食药物质。传统食养中常见关键词为“温中、理气”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-cardamom",
@@ -7475,7 +7596,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "白豆蔻：白豆蔻是常见食药物质。传统食养中常见关键词为“化湿、行气”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "白豆蔻：白豆蔻是常见食药物质。传统食养中常见关键词为“化湿、行气”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-amomum",
@@ -7530,7 +7652,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "砂仁：砂仁是常见食药物质。传统食养中常见关键词为“行气、和中”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "砂仁：砂仁是常见食药物质。传统食养中常见关键词为“行气、和中”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-clove",
@@ -7585,7 +7708,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "丁香：丁香是常见食药物质。传统食养中常见关键词为“温中、降逆”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "丁香：丁香是常见食药物质。传统食养中常见关键词为“温中、降逆”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-nutmeg",
@@ -7640,7 +7764,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "肉豆蔻：肉豆蔻是常见食药物质。传统食养中常见关键词为“温中、涩肠”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "肉豆蔻：肉豆蔻是常见食药物质。传统食养中常见关键词为“温中、涩肠”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-gardenia",
@@ -7695,7 +7820,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "栀子：栀子是常见食药物质。传统食养中常见关键词为“清利、除烦”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "栀子：栀子是常见食药物质。传统食养中常见关键词为“清利、除烦”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-cassia-seed",
@@ -7750,7 +7876,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "决明子：决明子是常见食药物质。传统食养中常见关键词为“清利、润肠”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "决明子：决明子是常见食药物质。传统食养中常见关键词为“清利、润肠”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-honeysuckle",
@@ -7809,7 +7936,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "金银花：金银花是常见食药物质。传统食养中常见关键词为“清利、解暑”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "金银花：金银花是常见食药物质。传统食养中常见关键词为“清利、解暑”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-dandelion",
@@ -7868,7 +7996,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "蒲公英：蒲公英是常见食药物质。传统食养中常见关键词为“清利、和中”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "蒲公英：蒲公英是常见食药物质。传统食养中常见关键词为“清利、和中”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-houttuynia",
@@ -7927,7 +8056,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "鱼腥草：鱼腥草是常见食药物质。传统食养中常见关键词为“清利、生津”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "鱼腥草：鱼腥草是常见食药物质。传统食养中常见关键词为“清利、生津”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-reed-rhizome",
@@ -7982,7 +8112,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "芦根：芦根是常见食药物质。传统食养中常见关键词为“生津、清利”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "芦根：芦根是常见食药物质。传统食养中常见关键词为“生津、清利”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-lotus-leaf",
@@ -8041,7 +8172,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "荷叶：荷叶是常见食药物质。传统食养中常见关键词为“和中、清暑”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "荷叶：荷叶是常见食药物质。传统食养中常见关键词为“和中、清暑”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-mulberry-leaf",
@@ -8100,7 +8232,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "桑叶：桑叶是常见食药物质。传统食养中常见关键词为“清利、润燥”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "桑叶：桑叶是常见食药物质。传统食养中常见关键词为“清利、润燥”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-perilla-leaf",
@@ -8159,7 +8292,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "紫苏叶：紫苏叶是常见食药物质。传统食养中常见关键词为“解表、行气”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "紫苏叶：紫苏叶是常见食药物质。传统食养中常见关键词为“解表、行气”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-perilla-seed",
@@ -8218,7 +8352,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "紫苏子：紫苏子是常见食药物质。传统食养中常见关键词为“降气、润肠”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "紫苏子：紫苏子是常见食药物质。传统食养中常见关键词为“降气、润肠”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-plum",
@@ -8277,7 +8412,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "乌梅：乌梅是常见食药物质。传统食养中常见关键词为“生津、敛藏”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "乌梅：乌梅是常见食药物质。传统食养中常见关键词为“生津、敛藏”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-sea-buckthorn",
@@ -8332,7 +8468,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "沙棘：沙棘是常见食药物质。传统食养中常见关键词为“生津、和中”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "沙棘：沙棘是常见食药物质。传统食养中常见关键词为“生津、和中”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-goji-berry",
@@ -8386,7 +8523,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "枸杞子：枸杞子是常见食药物质。传统食养中常见关键词为“滋补、养阴”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "枸杞子：枸杞子是常见食药物质。传统食养中常见关键词为“滋补、养阴”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-morinda",
@@ -8441,7 +8579,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "巴戟天：巴戟天是常见食药物质。传统食养中常见关键词为“温补、强筋”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "巴戟天：巴戟天是常见食药物质。传统食养中常见关键词为“温补、强筋”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-euryale",
@@ -8496,7 +8635,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "芡实：芡实是常见食药物质。传统食养中常见关键词为“补脾、固摄”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "芡实：芡实是常见食药物质。传统食养中常见关键词为“补脾、固摄”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-polygoni-odorati",
@@ -8555,7 +8695,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "玉竹：玉竹是常见食药物质。传统食养中常见关键词为“养阴、润燥”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "玉竹：玉竹是常见食药物质。传统食养中常见关键词为“养阴、润燥”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-dendrobium",
@@ -8610,7 +8751,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "石斛：石斛是常见食药物质。传统食养中常见关键词为“养阴、生津”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "石斛：石斛是常见食药物质。传统食养中常见关键词为“养阴、生津”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-olive",
@@ -8664,7 +8806,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "橄榄：橄榄是常见食药物质。传统食养中常见关键词为“生津、利咽”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "橄榄：橄榄是常见食药物质。传统食养中常见关键词为“生津、利咽”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-sour-jujube-seed",
@@ -8719,7 +8862,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "酸枣仁：酸枣仁是常见食药物质。传统食养中常见关键词为“养心、安神”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "酸枣仁：酸枣仁是常见食药物质。传统食养中常见关键词为“养心、安神”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-broomcorn",
@@ -8774,7 +8918,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "高良姜：高良姜是常见食药物质。传统食养中常见关键词为“温中、散寒”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "高良姜：高良姜是常见食药物质。传统食养中常见关键词为“温中、散寒”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-cyperus",
@@ -8829,7 +8974,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "香附：香附是常见食药物质。传统食养中常见关键词为“理气、解郁”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "香附：香附是常见食药物质。传统食养中常见关键词为“理气、解郁”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-angelica",
@@ -8884,7 +9030,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "当归：当归是常见食药物质。传统食养中常见关键词为“养血、活络”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "当归：当归是常见食药物质。传统食养中常见关键词为“养血、活络”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-longan-pulp",
@@ -8943,7 +9090,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "桂圆肉：桂圆肉是常见食药物质。传统食养中常见关键词为“养血、安神”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "桂圆肉：桂圆肉是常见食药物质。传统食养中常见关键词为“养血、安神”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-safflower",
@@ -8998,7 +9146,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "红花：红花是常见食药物质。传统食养中常见关键词为“活络、行散”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "红花：红花是常见食药物质。传统食养中常见关键词为“活络、行散”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-peach-kernel",
@@ -9053,7 +9202,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "桃仁：桃仁是常见食药物质。传统食养中常见关键词为“润肠、活络”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "桃仁：桃仁是常见食药物质。传统食养中常见关键词为“润肠、活络”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-black-sesame",
@@ -9112,7 +9262,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "黑芝麻：黑芝麻是常见食药物质。传统食养中常见关键词为“滋补、润燥”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "黑芝麻：黑芝麻是常见食药物质。传统食养中常见关键词为“滋补、润燥”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-walnut",
@@ -9171,7 +9322,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "核桃仁：核桃仁是常见食药物质。传统食养中常见关键词为“温补、润肠”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "核桃仁：核桃仁是常见食药物质。传统食养中常见关键词为“温补、润肠”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-almond",
@@ -9236,7 +9388,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "杏仁：杏仁是常见食药物质。传统食养中常见关键词为“降气、润燥”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "杏仁：杏仁是常见食药物质。传统食养中常见关键词为“降气、润燥”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-pine-nut",
@@ -9290,7 +9443,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "松子仁：松子仁是常见食药物质。传统食养中常见关键词为“润燥、滋养”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "松子仁：松子仁是常见食药物质。传统食养中常见关键词为“润燥、滋养”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-bitter-almond",
@@ -9345,7 +9499,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "苦杏仁：苦杏仁是常见食药物质。传统食养中常见关键词为“降气、润燥”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "苦杏仁：苦杏仁是常见食药物质。传统食养中常见关键词为“降气、润燥”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-chinese-olive",
@@ -9400,7 +9555,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "青果：青果是常见食药物质。传统食养中常见关键词为“利咽、生津”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "青果：青果是常见食药物质。传统食养中常见关键词为“利咽、生津”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-bamboo-leaf",
@@ -9455,7 +9611,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "淡竹叶：淡竹叶是常见食药物质。传统食养中常见关键词为“清利、除烦”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "淡竹叶：淡竹叶是常见食药物质。传统食养中常见关键词为“清利、除烦”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-cordia-fruit",
@@ -9510,7 +9667,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "胖大海：胖大海是常见食药物质。传统食养中常见关键词为“利咽、润燥”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "胖大海：胖大海是常见食药物质。传统食养中常见关键词为“利咽、润燥”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-lotus-heart",
@@ -9565,7 +9723,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "莲子心：莲子心是常见食药物质。传统食养中常见关键词为“清利、安神”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "莲子心：莲子心是常见食药物质。传统食养中常见关键词为“清利、安神”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-gingko",
@@ -9619,7 +9778,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "银杏：银杏是常见食药物质。传统食养中常见关键词为“敛肺、益气”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "银杏：银杏是常见食药物质。传统食养中常见关键词为“敛肺、益气”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-turmeric",
@@ -9674,7 +9834,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "姜黄：姜黄是常见食药物质。传统食养中常见关键词为“行气、活络”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "姜黄：姜黄是常见食药物质。传统食养中常见关键词为“行气、活络”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-galanga",
@@ -9728,7 +9889,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "良姜：良姜是常见食药物质。传统食养中常见关键词为“温中、散寒”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "良姜：良姜是常见食药物质。传统食养中常见关键词为“温中、散寒”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-tsaoko",
@@ -9783,7 +9945,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "草果：草果是常见食药物质。传统食养中常见关键词为“燥湿、和中”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "草果：草果是常见食药物质。传统食养中常见关键词为“燥湿、和中”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-kaempferia",
@@ -9837,7 +10000,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "山奈：山奈是常见食药物质。传统食养中常见关键词为“温中、调香”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "山奈：山奈是常见食药物质。传统食养中常见关键词为“温中、调香”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-lemongrass",
@@ -9892,7 +10056,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "香茅：香茅是常见食药物质。传统食养中常见关键词为“行气、醒脾”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "香茅：香茅是常见食药物质。传统食养中常见关键词为“行气、醒脾”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-citron",
@@ -9947,7 +10112,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "香橼：香橼是常见食药物质。传统食养中常见关键词为“理气、和中”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "香橼：香橼是常见食药物质。传统食养中常见关键词为“理气、和中”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-medlar-leaf",
@@ -10002,7 +10168,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "枸杞叶：枸杞叶是常见食药物质。传统食养中常见关键词为“清补、和中”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "枸杞叶：枸杞叶是常见食药物质。传统食养中常见关键词为“清补、和中”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-mulberry",
@@ -10057,7 +10224,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "桑葚：桑葚是常见食药物质。传统食养中常见关键词为“养阴、生津”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "桑葚：桑葚是常见食药物质。传统食养中常见关键词为“养阴、生津”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-fig",
@@ -10112,7 +10280,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "无花果：无花果是常见食药物质。传统食养中常见关键词为“润燥、和中”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "无花果：无花果是常见食药物质。传统食养中常见关键词为“润燥、和中”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-date",
@@ -10171,7 +10340,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "大枣：大枣是常见食药物质。传统食养中常见关键词为“补中、养血”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "大枣：大枣是常见食药物质。传统食养中常见关键词为“补中、养血”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-dragon-eye",
@@ -10226,7 +10396,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "龙眼肉：龙眼肉是常见食药物质。传统食养中常见关键词为“养心、补血”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "龙眼肉：龙眼肉是常见食药物质。传统食养中常见关键词为“养心、补血”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-chive-seed",
@@ -10281,7 +10452,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "韭菜子：韭菜子是常见食药物质。传统食养中常见关键词为“温补、助阳”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "韭菜子：韭菜子是常见食药物质。传统食养中常见关键词为“温补、助阳”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-quince",
@@ -10336,7 +10508,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "木瓜：木瓜是常见食药物质。传统食养中常见关键词为“和胃、舒展”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "木瓜：木瓜是常见食药物质。传统食养中常见关键词为“和胃、舒展”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-ophiopogon",
@@ -10391,7 +10564,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "麦冬：麦冬是常见食药物质。传统食养中常见关键词为“养阴、生津”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "麦冬：麦冬是常见食药物质。传统食养中常见关键词为“养阴、生津”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-raspberry",
@@ -10446,7 +10620,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "覆盆子：覆盆子是常见食药物质。传统食养中常见关键词为“固摄、补养”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "覆盆子：覆盆子是常见食药物质。传统食养中常见关键词为“固摄、补养”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-rehmannia",
@@ -10501,7 +10676,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "生地黄：生地黄是常见食药物质。传统食养中常见关键词为“养阴、生津”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "生地黄：生地黄是常见食药物质。传统食养中常见关键词为“养阴、生津”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-solomon-seal",
@@ -10556,7 +10732,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "黄精：黄精是常见食药物质。传统食养中常见关键词为“滋补、养阴”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "黄精：黄精是常见食药物质。传统食养中常见关键词为“滋补、养阴”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-white-peony",
@@ -10611,7 +10788,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "白芍：白芍是常见食药物质。传统食养中常见关键词为“养阴、和营”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "白芍：白芍是常见食药物质。传统食养中常见关键词为“养阴、和营”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-imperata-root",
@@ -10666,7 +10844,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "白茅根：白茅根是常见食药物质。传统食养中常见关键词为“清利、生津”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "白茅根：白茅根是常见食药物质。传统食养中常见关键词为“清利、生津”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-bupleurum-tip",
@@ -10720,7 +10899,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "柴胡苗：柴胡苗是常见食药物质。传统食养中常见关键词为“舒展、理气”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "柴胡苗：柴胡苗是常见食药物质。传统食养中常见关键词为“舒展、理气”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-rose",
@@ -10775,7 +10955,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "玫瑰花：玫瑰花是常见食药物质。传统食养中常见关键词为“理气、和中”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "玫瑰花：玫瑰花是常见食药物质。传统食养中常见关键词为“理气、和中”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-jasmine",
@@ -10829,7 +11010,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "茉莉花：茉莉花是常见食药物质。传统食养中常见关键词为“理气、调香”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "茉莉花：茉莉花是常见食药物质。传统食养中常见关键词为“理气、调香”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-osmanthus",
@@ -10884,7 +11066,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "桂花：桂花是常见食药物质。传统食养中常见关键词为“调香、和中”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "桂花：桂花是常见食药物质。传统食养中常见关键词为“调香、和中”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-kudzu",
@@ -10939,7 +11122,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "葛根：葛根是常见食药物质。传统食养中常见关键词为“生津、舒展”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "葛根：葛根是常见食药物质。传统食养中常见关键词为“生津、舒展”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-kudzu-flower",
@@ -10993,7 +11177,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "葛花：葛花是常见食药物质。传统食养中常见关键词为“和中、醒脾”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "葛花：葛花是常见食药物质。传统食养中常见关键词为“和中、醒脾”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-tangerine-white",
@@ -11047,7 +11232,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "橘络：橘络是常见食药物质。传统食养中常见关键词为“和络、理气”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "橘络：橘络是常见食药物质。传统食养中常见关键词为“和络、理气”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-tangerine-kernel",
@@ -11102,7 +11288,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "橘核：橘核是常见食药物质。传统食养中常见关键词为“理气、散结”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "橘核：橘核是常见食药物质。传统食养中常见关键词为“理气、散结”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-orange-blossom",
@@ -11156,7 +11343,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "橙花：橙花是常见食药物质。传统食养中常见关键词为“理气、调香”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "橙花：橙花是常见食药物质。传统食养中常见关键词为“理气、调香”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-burdock-seed",
@@ -11211,7 +11399,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "牛蒡子：牛蒡子是常见食药物质。传统食养中常见关键词为“疏利、清爽”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "牛蒡子：牛蒡子是常见食药物质。传统食养中常见关键词为“疏利、清爽”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-sweet-osmanthus",
@@ -11265,7 +11454,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "甜桂花：甜桂花是常见食药物质。传统食养中常见关键词为“调香、和中”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "甜桂花：甜桂花是常见食药物质。传统食养中常见关键词为“调香、和中”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-basil-seed",
@@ -11319,7 +11509,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "罗勒子：罗勒子是常见食药物质。传统食养中常见关键词为“和中、调香”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "罗勒子：罗勒子是常见食药物质。传统食养中常见关键词为“和中、调香”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-fragrant-leaf",
@@ -11373,7 +11564,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "香叶：香叶是常见食药物质。传统食养中常见关键词为“调香、和中”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "香叶：香叶是常见食药物质。传统食养中常见关键词为“调香、和中”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-lotus-plum",
@@ -11427,7 +11619,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "梅子：梅子是常见食药物质。传统食养中常见关键词为“生津、开胃”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "梅子：梅子是常见食药物质。传统食养中常见关键词为“生津、开胃”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-sand-ginger",
@@ -11482,7 +11675,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "沙姜：沙姜是常见食药物质。传统食养中常见关键词为“行气、温中”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "沙姜：沙姜是常见食药物质。传统食养中常见关键词为“行气、温中”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-bellflower",
@@ -11537,7 +11731,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "桔梗：桔梗是常见食药物质。传统食养中常见关键词为“宣利、和中”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "桔梗：桔梗是常见食药物质。传统食养中常见关键词为“宣利、和中”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-caper-spurge",
@@ -11592,7 +11787,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "霸王花：霸王花是常见食药物质。传统食养中常见关键词为“清润、和中”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "霸王花：霸王花是常见食药物质。传统食养中常见关键词为“清润、和中”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-red-bean",
@@ -11651,7 +11847,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "赤小豆：赤小豆是常见食药物质。传统食养中常见关键词为“利水、和中”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "赤小豆：赤小豆是常见食药物质。传统食养中常见关键词为“利水、和中”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-foxnut",
@@ -11705,7 +11902,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鸡头米：鸡头米是常见食药物质。传统食养中常见关键词为“补脾、固摄”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "鸡头米：鸡头米是常见食药物质。传统食养中常见关键词为“补脾、固摄”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-pear-dry",
@@ -11760,7 +11958,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "雪梨干：雪梨干是常见食药物质。传统食养中常见关键词为“生津、润燥”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "雪梨干：雪梨干是常见食药物质。传统食养中常见关键词为“生津、润燥”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-loquat-leaf",
@@ -11815,7 +12014,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "枇杷叶：枇杷叶是常见食药物质。传统食养中常见关键词为“和胃、润燥”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "枇杷叶：枇杷叶是常见食药物质。传统食养中常见关键词为“和胃、润燥”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "official-perilla-stem",
@@ -11869,7 +12069,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "苏梗：苏梗是常见食药物质。传统食养中常见关键词为“理气、和中”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "苏梗：苏梗是常见食药物质。传统食养中常见关键词为“理气、和中”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-fermented-rice",
@@ -11924,7 +12125,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "醪糟：醪糟是常见食药物质。传统食养中常见关键词为“和中、调味”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "醪糟：醪糟是常见食药物质。传统食养中常见关键词为“和中、调味”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-chinese-barley",
@@ -11983,7 +12185,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "大麦：大麦是常见食药物质。传统食养中常见关键词为“和中、助运”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "大麦：大麦是常见食药物质。传统食养中常见关键词为“和中、助运”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "official-snow-lotus-fruit",
@@ -12037,7 +12240,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "皂角米：皂角米是常见食药物质。传统食养中常见关键词为“润养、和中”，实际影响更取决于份量、加工方式和个人…"
+    "eatingIntro": "皂角米：皂角米是常见食药物质。传统食养中常见关键词为“润养、和中”，实际影响更取决于份量、加工方式和个人…",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-001",
@@ -12094,7 +12298,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "花椒：花椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "花椒：花椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-002",
@@ -12147,7 +12352,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "八角：八角是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "八角：八角是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-003",
@@ -12200,7 +12406,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "桂皮：桂皮是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "桂皮：桂皮是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-004",
@@ -12253,7 +12460,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "白胡椒：白胡椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "白胡椒：白胡椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-005",
@@ -12306,7 +12514,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黑胡椒：黑胡椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黑胡椒：黑胡椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-006",
@@ -12359,7 +12568,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "辣椒：辣椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "辣椒：辣椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-007",
@@ -12412,7 +12622,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "干辣椒：干辣椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "干辣椒：干辣椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-008",
@@ -12465,7 +12676,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "泡椒：泡椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "泡椒：泡椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-009",
@@ -12518,7 +12730,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆瓣酱：豆瓣酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆瓣酱：豆瓣酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-010",
@@ -12571,7 +12784,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黄豆酱：黄豆酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黄豆酱：黄豆酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-011",
@@ -12624,7 +12838,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "甜面酱：甜面酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "甜面酱：甜面酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-012",
@@ -12677,7 +12892,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芝麻酱：芝麻酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芝麻酱：芝麻酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-013",
@@ -12730,7 +12946,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "花生酱：花生酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "花生酱：花生酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-014",
@@ -12783,7 +13000,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蒜蓉酱：蒜蓉酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蒜蓉酱：蒜蓉酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-015",
@@ -12836,7 +13054,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "虾酱：虾酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "虾酱：虾酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-016",
@@ -12889,7 +13108,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "沙茶酱：沙茶酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "沙茶酱：沙茶酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-017",
@@ -12942,7 +13162,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "腐乳：腐乳是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "腐乳：腐乳是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-018",
@@ -12995,7 +13216,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "韭菜花：韭菜花是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "韭菜花：韭菜花是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-019",
@@ -13048,7 +13270,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "剁椒：剁椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "剁椒：剁椒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-020",
@@ -13101,7 +13324,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "糟卤：糟卤是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "糟卤：糟卤是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-021",
@@ -13154,7 +13378,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "料酒：料酒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "料酒：料酒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-022",
@@ -13207,7 +13432,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黄酒：黄酒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黄酒：黄酒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-023",
@@ -13260,7 +13486,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "米酒：米酒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "米酒：米酒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-024",
@@ -13313,7 +13540,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "陈醋：陈醋是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "陈醋：陈醋是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-025",
@@ -13366,7 +13594,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "香醋：香醋是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "香醋：香醋是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-026",
@@ -13419,7 +13648,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "白醋：白醋是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "白醋：白醋是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-027",
@@ -13472,7 +13702,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "米醋：米醋是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "米醋：米醋是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-028",
@@ -13525,7 +13756,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "酱油：酱油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "酱油：酱油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-029",
@@ -13578,7 +13810,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "生抽：生抽是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "生抽：生抽是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-030",
@@ -13631,7 +13864,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "老抽：老抽是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "老抽：老抽是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-031",
@@ -13684,7 +13918,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蚝油：蚝油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蚝油：蚝油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-032",
@@ -13737,7 +13972,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鱼露：鱼露是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鱼露：鱼露是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-033",
@@ -13790,7 +14026,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "味噌：味噌是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "味噌：味噌是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-034",
@@ -13843,7 +14080,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芥末：芥末是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芥末：芥末是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-035",
@@ -13896,7 +14134,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "孜然：孜然是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "孜然：孜然是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-036",
@@ -13949,7 +14188,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "咖喱粉：咖喱粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "咖喱粉：咖喱粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-037",
@@ -14002,7 +14242,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "五香粉：五香粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "五香粉：五香粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-038",
@@ -14055,7 +14296,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "十三香：十三香是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "十三香：十三香是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-039",
@@ -14108,7 +14350,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "椒盐：椒盐是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "椒盐：椒盐是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-040",
@@ -14161,7 +14404,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黑糖：黑糖是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黑糖：黑糖是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-041",
@@ -14214,7 +14458,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "冰糖：冰糖是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "冰糖：冰糖是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-042",
@@ -14267,7 +14512,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "红糖：红糖是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "红糖：红糖是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-043",
@@ -14324,7 +14570,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蜂蜜：蜂蜜是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蜂蜜：蜂蜜是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-044",
@@ -14377,7 +14624,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "麦芽糖：麦芽糖是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "麦芽糖：麦芽糖是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-045",
@@ -14430,7 +14678,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "枫糖浆：枫糖浆是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "枫糖浆：枫糖浆是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-046",
@@ -14483,7 +14732,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "酸梅膏：酸梅膏是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "酸梅膏：酸梅膏是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-047",
@@ -14536,7 +14786,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "花生碎：花生碎是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "花生碎：花生碎是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-048",
@@ -14589,7 +14840,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芝麻碎：芝麻碎是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芝麻碎：芝麻碎是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-049",
@@ -14642,7 +14894,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "葱油：葱油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "葱油：葱油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-050",
@@ -14695,7 +14948,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "花椒油：花椒油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "花椒油：花椒油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-051",
@@ -14748,7 +15002,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "辣椒油：辣椒油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "辣椒油：辣椒油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-052",
@@ -14801,7 +15056,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芝麻油：芝麻油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芝麻油：芝麻油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-053",
@@ -14854,7 +15110,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "菜籽油：菜籽油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "菜籽油：菜籽油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-054",
@@ -14907,7 +15164,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "猪油：猪油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "猪油：猪油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-055",
@@ -14960,7 +15218,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "牛油：牛油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "牛油：牛油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-056",
@@ -15013,7 +15272,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鸡油：鸡油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鸡油：鸡油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-057",
@@ -15066,7 +15326,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黄油：黄油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黄油：黄油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-058",
@@ -15119,7 +15380,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "奶油：奶油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "奶油：奶油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-059",
@@ -15172,7 +15434,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "炼乳：炼乳是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "炼乳：炼乳是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-060",
@@ -15225,7 +15488,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "奶酪粉：奶酪粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "奶酪粉：奶酪粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-061",
@@ -15278,7 +15542,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "番茄酱：番茄酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "番茄酱：番茄酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-062",
@@ -15331,7 +15596,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蛋黄酱：蛋黄酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蛋黄酱：蛋黄酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-063",
@@ -15384,7 +15650,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "沙拉酱：沙拉酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "沙拉酱：沙拉酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-064",
@@ -15437,7 +15704,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "凯撒酱：凯撒酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "凯撒酱：凯撒酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-065",
@@ -15490,7 +15758,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "塔塔酱：塔塔酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "塔塔酱：塔塔酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-066",
@@ -15543,7 +15812,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蒜香黄油：蒜香黄油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "蒜香黄油：蒜香黄油是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-067",
@@ -15596,7 +15866,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "松露酱：松露酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "松露酱：松露酱是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-068",
@@ -15649,7 +15920,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "香草荚：香草荚是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "香草荚：香草荚是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-069",
@@ -15702,7 +15974,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "迷迭香：迷迭香是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "迷迭香：迷迭香是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-070",
@@ -15755,7 +16028,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "百里香：百里香是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "百里香：百里香是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-071",
@@ -15808,7 +16082,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鼠尾草：鼠尾草是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鼠尾草：鼠尾草是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-072",
@@ -15861,7 +16136,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "牛至：牛至是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "牛至：牛至是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-073",
@@ -15914,7 +16190,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "罗勒：罗勒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "罗勒：罗勒是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-074",
@@ -15967,7 +16244,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "欧芹：欧芹是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "欧芹：欧芹是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-075",
@@ -16020,7 +16298,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "月桂叶：月桂叶是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "月桂叶：月桂叶是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-076",
@@ -16073,7 +16352,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芫荽籽：芫荽籽是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芫荽籽：芫荽籽是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-077",
@@ -16126,7 +16406,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "葛缕子：葛缕子是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "葛缕子：葛缕子是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-078",
@@ -16179,7 +16460,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "烟熏红椒粉：烟熏红椒粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "烟熏红椒粉：烟熏红椒粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-079",
@@ -16232,7 +16514,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芥菜籽：芥菜籽是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芥菜籽：芥菜籽是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-080",
@@ -16285,7 +16568,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "椰浆粉：椰浆粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "椰浆粉：椰浆粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-condiment-081",
@@ -16338,7 +16622,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "可可粉：可可粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "可可粉：可可粉是常见调料。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-082",
@@ -16391,7 +16676,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "椰子水：椰子水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "椰子水：椰子水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-083",
@@ -16444,7 +16730,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "柠檬水：柠檬水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "柠檬水：柠檬水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-084",
@@ -16497,7 +16784,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蜂蜜水：蜂蜜水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蜂蜜水：蜂蜜水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-085",
@@ -16550,7 +16838,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "苏打水：苏打水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "苏打水：苏打水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-086",
@@ -16603,7 +16892,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "矿泉水：矿泉水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "矿泉水：矿泉水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-087",
@@ -16656,7 +16946,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "气泡水：气泡水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "气泡水：气泡水是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-088",
@@ -16709,7 +17000,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "果蔬汁：果蔬汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "果蔬汁：果蔬汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-089",
@@ -16762,7 +17054,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "甘蔗汁：甘蔗汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "甘蔗汁：甘蔗汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-090",
@@ -16815,7 +17108,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "玉米汁：玉米汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "玉米汁：玉米汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-091",
@@ -16868,7 +17162,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "杏仁露：杏仁露是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "杏仁露：杏仁露是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-092",
@@ -16921,7 +17216,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "核桃露：核桃露是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "核桃露：核桃露是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-093",
@@ -16974,7 +17270,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "酸奶饮：酸奶饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "酸奶饮：酸奶饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-094",
@@ -17027,7 +17324,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "奶昔：奶昔是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "奶昔：奶昔是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-095",
@@ -17080,7 +17378,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "米乳：米乳是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "米乳：米乳是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-096",
@@ -17133,7 +17432,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆乳：豆乳是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆乳：豆乳是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-097",
@@ -17186,7 +17486,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "植物奶：植物奶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "植物奶：植物奶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-098",
@@ -17239,7 +17540,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "牛乳：牛乳是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "牛乳：牛乳是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-099",
@@ -17292,7 +17594,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "羊乳：羊乳是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "羊乳：羊乳是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-100",
@@ -17345,7 +17648,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "马奶：马奶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "马奶：马奶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-101",
@@ -17398,7 +17702,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "拿铁：拿铁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "拿铁：拿铁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-102",
@@ -17451,7 +17756,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "美式咖啡：美式咖啡是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "美式咖啡：美式咖啡是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-103",
@@ -17504,7 +17810,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "可可：可可是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "可可：可可是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-104",
@@ -17557,7 +17864,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "热巧克力：热巧克力是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "热巧克力：热巧克力是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-105",
@@ -17610,7 +17918,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "酸奶昔：酸奶昔是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "酸奶昔：酸奶昔是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-106",
@@ -17663,7 +17972,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "奶茶：奶茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "奶茶：奶茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-107",
@@ -17716,7 +18026,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "水果茶：水果茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "水果茶：水果茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-108",
@@ -17769,7 +18080,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "花草茶：花草茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "花草茶：花草茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-109",
@@ -17822,7 +18134,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "乌梅饮：乌梅饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "乌梅饮：乌梅饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-110",
@@ -17875,7 +18188,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "雪梨汁：雪梨汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "雪梨汁：雪梨汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-111",
@@ -17928,7 +18242,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "洛神花饮：洛神花饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "洛神花饮：洛神花饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-112",
@@ -17981,7 +18296,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "菊花露：菊花露是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "菊花露：菊花露是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-113",
@@ -18034,7 +18350,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "薄荷饮：薄荷饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "薄荷饮：薄荷饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-114",
@@ -18087,7 +18404,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "柚子茶：柚子茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "柚子茶：柚子茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-115",
@@ -18140,7 +18458,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "姜茶：姜茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "姜茶：姜茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-116",
@@ -18193,7 +18512,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "红糖姜饮：红糖姜饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "红糖姜饮：红糖姜饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-117",
@@ -18246,7 +18566,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "银耳饮：银耳饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "银耳饮：银耳饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-118",
@@ -18299,7 +18620,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "米汤：米汤是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "米汤：米汤是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-119",
@@ -18352,7 +18674,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "酸角汁：酸角汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "酸角汁：酸角汁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-120",
@@ -18405,7 +18728,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "罗望子饮：罗望子饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "罗望子饮：罗望子饮是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-121",
@@ -18458,7 +18782,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "椰奶：椰奶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "椰奶：椰奶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-122",
@@ -18511,7 +18836,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "燕麦奶：燕麦奶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "燕麦奶：燕麦奶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-123",
@@ -18564,7 +18890,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "抹茶拿铁：抹茶拿铁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "抹茶拿铁：抹茶拿铁是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-drink-124",
@@ -18617,7 +18944,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "康普茶：康普茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "康普茶：康普茶是常见饮品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-125",
@@ -18670,7 +18998,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黑米：黑米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黑米：黑米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-126",
@@ -18723,7 +19052,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "紫米：紫米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "紫米：紫米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-127",
@@ -18776,7 +19106,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "高粱：高粱是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "高粱：高粱是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-128",
@@ -18829,7 +19160,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "青稞：青稞是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "青稞：青稞是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-129",
@@ -18882,7 +19214,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "藜麦：藜麦是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "藜麦：藜麦是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-130",
@@ -18935,7 +19268,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "薏米饭：薏米饭是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "薏米饭：薏米饭是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-131",
@@ -18988,7 +19322,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "糙米：糙米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "糙米：糙米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-132",
@@ -19041,7 +19376,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "小麦：小麦是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "小麦：小麦是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-133",
@@ -19094,7 +19430,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "西米：西米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "西米：西米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-134",
@@ -19151,7 +19488,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "粳米：粳米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "粳米：粳米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-135",
@@ -19204,7 +19542,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "籼米：籼米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "籼米：籼米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-136",
@@ -19257,7 +19596,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黍米：黍米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黍米：黍米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-137",
@@ -19310,7 +19650,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "糜子：糜子是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "糜子：糜子是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-138",
@@ -19363,7 +19704,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "燕麦片：燕麦片是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "燕麦片：燕麦片是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-139",
@@ -19416,7 +19758,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "玉米碴：玉米碴是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "玉米碴：玉米碴是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-140",
@@ -19469,7 +19812,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "米皮糖：米皮糖是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "米皮糖：米皮糖是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-141",
@@ -19522,7 +19866,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "米花：米花是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "米花：米花是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-142",
@@ -19575,7 +19920,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "米线：米线是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "米线：米线是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-143",
@@ -19628,7 +19974,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "米粉：米粉是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "米粉：米粉是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-144",
@@ -19681,7 +20028,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "河粉：河粉是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "河粉：河粉是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-145",
@@ -19734,7 +20082,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "粿条：粿条是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "粿条：粿条是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-146",
@@ -19787,7 +20136,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "年糕米：年糕米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "年糕米：年糕米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-grain-147",
@@ -19840,7 +20190,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "粽米：粽米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "粽米：粽米是常见谷物。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-148",
@@ -19893,7 +20244,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芸豆：芸豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芸豆：芸豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-149",
@@ -19946,7 +20298,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "眉豆：眉豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "眉豆：眉豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-150",
@@ -19999,7 +20352,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鹰嘴豆：鹰嘴豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鹰嘴豆：鹰嘴豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-151",
@@ -20052,7 +20406,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "扁豆：扁豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "扁豆：扁豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-152",
@@ -20105,7 +20460,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "刀豆：刀豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "刀豆：刀豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-153",
@@ -20158,7 +20514,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豌豆：豌豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豌豆：豌豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-154",
@@ -20211,7 +20568,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蚕豆：蚕豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蚕豆：蚕豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-155",
@@ -20264,7 +20622,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "四季豆：四季豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "四季豆：四季豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-156",
@@ -20317,7 +20676,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "荷兰豆：荷兰豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "荷兰豆：荷兰豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-157",
@@ -20370,7 +20730,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "毛豆：毛豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "毛豆：毛豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-158",
@@ -20423,7 +20784,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "菜豆：菜豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "菜豆：菜豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-159",
@@ -20476,7 +20838,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "花豆：花豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "花豆：花豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-160",
@@ -20529,7 +20892,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "斑豆：斑豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "斑豆：斑豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-161",
@@ -20582,7 +20946,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "白芸豆：白芸豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "白芸豆：白芸豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-162",
@@ -20635,7 +21000,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "青豆：青豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "青豆：青豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-163",
@@ -20688,7 +21054,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黑眼豆：黑眼豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黑眼豆：黑眼豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-164",
@@ -20747,7 +21114,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "小扁豆：小扁豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "小扁豆：小扁豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-165",
@@ -20800,7 +21168,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆荚米：豆荚米是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆荚米：豆荚米是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-166",
@@ -20853,7 +21222,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆苗豆：豆苗豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆苗豆：豆苗豆是常见豆类。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-167",
@@ -20906,7 +21276,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆皮：豆皮是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆皮：豆皮是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-168",
@@ -20959,7 +21330,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "腐竹：腐竹是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "腐竹：腐竹是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-169",
@@ -21012,7 +21384,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆干：豆干是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆干：豆干是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-170",
@@ -21065,7 +21438,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "香干：香干是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "香干：香干是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-171",
@@ -21118,7 +21492,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "千张：千张是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "千张：千张是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-172",
@@ -21171,7 +21546,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆泡：豆泡是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆泡：豆泡是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-173",
@@ -21224,7 +21600,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆花：豆花是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆花：豆花是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-174",
@@ -21277,7 +21654,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆乳皮：豆乳皮是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "豆乳皮：豆乳皮是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-175",
@@ -21330,7 +21708,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "纳豆：纳豆是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "纳豆：纳豆是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-176",
@@ -21383,7 +21762,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆豉：豆豉是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆豉：豆豉是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-177",
@@ -21436,7 +21816,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆瓣：豆瓣是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆瓣：豆瓣是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-178",
@@ -21489,7 +21870,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆沙：豆沙是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆沙：豆沙是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-179",
@@ -21542,7 +21924,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆泥：豆泥是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆泥：豆泥是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-180",
@@ -21595,7 +21978,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆腐脑：豆腐脑是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "豆腐脑：豆腐脑是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-181",
@@ -21648,7 +22032,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆腐丝：豆腐丝是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "豆腐丝：豆腐丝是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-182",
@@ -21701,7 +22086,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆肠：豆肠是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆肠：豆肠是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-183",
@@ -21754,7 +22140,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "油豆腐：油豆腐是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "油豆腐：油豆腐是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-184",
@@ -21807,7 +22194,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "冻豆腐：冻豆腐是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "冻豆腐：冻豆腐是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-185",
@@ -21860,7 +22248,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "内酯豆腐：内酯豆腐是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐…"
+    "eatingIntro": "内酯豆腐：内酯豆腐是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐…",
+    "natureNote": ""
   },
   {
     "id": "cat-bean-product-186",
@@ -21913,7 +22302,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "老豆腐：老豆腐是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "老豆腐：老豆腐是常见豆制品。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-187",
@@ -21970,7 +22360,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "白菜：白菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "白菜：白菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-188",
@@ -22023,7 +22414,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "油菜：油菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "油菜：油菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-189",
@@ -22076,7 +22468,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "生菜：生菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "生菜：生菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-190",
@@ -22129,7 +22522,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芹菜：芹菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芹菜：芹菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-191",
@@ -22182,7 +22576,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "韭菜：韭菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "韭菜：韭菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-192",
@@ -22235,7 +22630,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "大葱：大葱是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "大葱：大葱是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-193",
@@ -22288,7 +22684,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "小葱：小葱是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "小葱：小葱是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-194",
@@ -22341,7 +22738,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "洋葱：洋葱是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "洋葱：洋葱是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-195",
@@ -22398,7 +22796,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "大蒜：大蒜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "大蒜：大蒜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-196",
@@ -22451,7 +22850,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蒜苗：蒜苗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蒜苗：蒜苗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-197",
@@ -22504,7 +22904,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "青椒：青椒是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "青椒：青椒是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-198",
@@ -22557,7 +22958,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "彩椒：彩椒是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "彩椒：彩椒是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-199",
@@ -22614,7 +23016,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "茄子：茄子是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "茄子：茄子是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-200",
@@ -22667,7 +23070,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "西葫芦：西葫芦是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "西葫芦：西葫芦是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-201",
@@ -22720,7 +23124,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "丝瓜：丝瓜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "丝瓜：丝瓜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-202",
@@ -22773,7 +23178,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "苦菊：苦菊是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "苦菊：苦菊是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-203",
@@ -22826,7 +23232,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "油麦菜：油麦菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "油麦菜：油麦菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-204",
@@ -22879,7 +23286,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "莴笋：莴笋是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "莴笋：莴笋是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-205",
@@ -22932,7 +23340,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芥蓝：芥蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芥蓝：芥蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-206",
@@ -22985,7 +23394,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "菜心：菜心是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "菜心：菜心是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-207",
@@ -23038,7 +23448,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "上海青：上海青是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "上海青：上海青是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-208",
@@ -23091,7 +23502,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "苋菜：苋菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "苋菜：苋菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-209",
@@ -23148,7 +23560,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "菠菜：菠菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "菠菜：菠菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-210",
@@ -23201,7 +23614,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "茼蒿：茼蒿是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "茼蒿：茼蒿是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-211",
@@ -23254,7 +23668,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "苜蓿芽：苜蓿芽是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "苜蓿芽：苜蓿芽是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-212",
@@ -23307,7 +23722,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "包菜：包菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "包菜：包菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-213",
@@ -23360,7 +23776,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "紫甘蓝：紫甘蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "紫甘蓝：紫甘蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-214",
@@ -23413,7 +23830,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "花椰菜：花椰菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "花椰菜：花椰菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-215",
@@ -23466,7 +23884,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "西兰花：西兰花是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "西兰花：西兰花是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-216",
@@ -23519,7 +23938,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "胡萝卜：胡萝卜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "胡萝卜：胡萝卜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-217",
@@ -23572,7 +23992,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "青萝卜：青萝卜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "青萝卜：青萝卜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-218",
@@ -23625,7 +24046,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "樱桃萝卜：樱桃萝卜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "樱桃萝卜：樱桃萝卜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-219",
@@ -23678,7 +24100,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "萝卜缨：萝卜缨是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "萝卜缨：萝卜缨是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-220",
@@ -23731,7 +24154,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "萝卜干：萝卜干是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "萝卜干：萝卜干是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-221",
@@ -23788,7 +24212,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "土豆：土豆是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "土豆：土豆是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-222",
@@ -23841,7 +24266,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "山药豆：山药豆是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "山药豆：山药豆是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-223",
@@ -23894,7 +24320,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芋头：芋头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芋头：芋头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-224",
@@ -23947,7 +24374,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芋苗：芋苗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芋苗：芋苗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-225",
@@ -24004,7 +24432,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "红薯：红薯是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "红薯：红薯是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-226",
@@ -24057,7 +24486,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "紫薯：紫薯是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "紫薯：紫薯是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-227",
@@ -24110,7 +24540,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "木薯：木薯是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "木薯：木薯是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-228",
@@ -24163,7 +24594,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "莲藕带：莲藕带是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "莲藕带：莲藕带是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-229",
@@ -24216,7 +24648,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "茭白：茭白是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "茭白：茭白是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-230",
@@ -24269,7 +24702,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "慈菇：慈菇是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "慈菇：慈菇是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-231",
@@ -24322,7 +24756,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "荸荠：荸荠是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "荸荠：荸荠是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-232",
@@ -24375,7 +24810,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芦笋尖：芦笋尖是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芦笋尖：芦笋尖是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-233",
@@ -24428,7 +24864,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豇豆：豇豆是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豇豆：豇豆是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-234",
@@ -24481,7 +24918,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆角：豆角是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆角：豆角是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-235",
@@ -24534,7 +24972,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "秋葵：秋葵是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "秋葵：秋葵是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-236",
@@ -24587,7 +25026,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "佛手瓜：佛手瓜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "佛手瓜：佛手瓜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-237",
@@ -24640,7 +25080,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黄花菜：黄花菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黄花菜：黄花菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-238",
@@ -24693,7 +25134,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "菜花：菜花是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "菜花：菜花是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-239",
@@ -24746,7 +25188,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "羽衣甘蓝：羽衣甘蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "羽衣甘蓝：羽衣甘蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-240",
@@ -24799,7 +25242,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鸡毛菜：鸡毛菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鸡毛菜：鸡毛菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-241",
@@ -24852,7 +25296,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "苕尖：苕尖是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "苕尖：苕尖是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-242",
@@ -24905,7 +25350,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "苜蓿菜：苜蓿菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "苜蓿菜：苜蓿菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-243",
@@ -24958,7 +25404,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "空心菜梗：空心菜梗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "空心菜梗：空心菜梗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-244",
@@ -25011,7 +25458,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "苤蓝：苤蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "苤蓝：苤蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-245",
@@ -25064,7 +25512,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "榨菜头：榨菜头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "榨菜头：榨菜头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-246",
@@ -25117,7 +25566,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "甜玉米：甜玉米是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "甜玉米：甜玉米是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-247",
@@ -25170,7 +25620,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "玉米笋：玉米笋是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "玉米笋：玉米笋是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-248",
@@ -25223,7 +25674,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "番薯叶：番薯叶是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "番薯叶：番薯叶是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-249",
@@ -25276,7 +25728,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "地瓜叶：地瓜叶是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "地瓜叶：地瓜叶是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-250",
@@ -25329,7 +25782,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "南瓜花：南瓜花是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "南瓜花：南瓜花是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-251",
@@ -25382,7 +25836,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "西葫芦花：西葫芦花是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "西葫芦花：西葫芦花是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-252",
@@ -25435,7 +25890,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "冬寒菜：冬寒菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "冬寒菜：冬寒菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-253",
@@ -25488,7 +25944,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "萝卜苗：萝卜苗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "萝卜苗：萝卜苗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-254",
@@ -25541,7 +25998,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆苗：豆苗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆苗：豆苗是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-255",
@@ -25594,7 +26052,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "青蒜：青蒜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "青蒜：青蒜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-256",
@@ -25647,7 +26106,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蒜苔：蒜苔是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蒜苔：蒜苔是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-257",
@@ -25700,7 +26160,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "马兰头：马兰头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "马兰头：马兰头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-258",
@@ -25753,7 +26214,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "香椿头：香椿头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "香椿头：香椿头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-259",
@@ -25806,7 +26268,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "龙须菜：龙须菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "龙须菜：龙须菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-260",
@@ -25859,7 +26322,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "白菜苔：白菜苔是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "白菜苔：白菜苔是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-261",
@@ -25912,7 +26376,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芥菜头：芥菜头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芥菜头：芥菜头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-262",
@@ -25965,7 +26430,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "油菜苔：油菜苔是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "油菜苔：油菜苔是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-263",
@@ -26018,7 +26484,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "枸杞头：枸杞头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "枸杞头：枸杞头是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-264",
@@ -26071,7 +26538,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "枸杞芽：枸杞芽是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "枸杞芽：枸杞芽是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-265",
@@ -26124,7 +26592,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黄秋葵：黄秋葵是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黄秋葵：黄秋葵是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-266",
@@ -26177,7 +26646,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "豆瓣菜：豆瓣菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "豆瓣菜：豆瓣菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-267",
@@ -26230,7 +26700,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "朝鲜蓟：朝鲜蓟是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "朝鲜蓟：朝鲜蓟是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-268",
@@ -26283,7 +26754,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "芜菁：芜菁是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "芜菁：芜菁是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-269",
@@ -26336,7 +26808,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "球茎甘蓝：球茎甘蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "球茎甘蓝：球茎甘蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-270",
@@ -26389,7 +26862,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "抱子甘蓝：抱子甘蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "抱子甘蓝：抱子甘蓝是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-271",
@@ -26442,7 +26916,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "洋姜：洋姜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "洋姜：洋姜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-272",
@@ -26495,7 +26970,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "牛蒡：牛蒡是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "牛蒡：牛蒡是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-273",
@@ -26548,7 +27024,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蒿子秆：蒿子秆是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蒿子秆：蒿子秆是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-veg-274",
@@ -26601,7 +27078,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "菱角菜：菱角菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "菱角菜：菱角菜是常见蔬菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-275",
@@ -26654,7 +27132,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "荠菜：荠菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "荠菜：荠菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-276",
@@ -26707,7 +27186,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "香椿：香椿是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "香椿：香椿是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-277",
@@ -26760,7 +27240,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "马兰头：马兰头是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "马兰头：马兰头是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-278",
@@ -26813,7 +27294,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "灰灰菜：灰灰菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "灰灰菜：灰灰菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-279",
@@ -26866,7 +27348,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蒲公英叶：蒲公英叶是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "蒲公英叶：蒲公英叶是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-280",
@@ -26919,7 +27402,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "刺儿菜：刺儿菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "刺儿菜：刺儿菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-281",
@@ -26972,7 +27456,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "苦菜：苦菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "苦菜：苦菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-282",
@@ -27025,7 +27510,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "车前草：车前草是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "车前草：车前草是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-283",
@@ -27078,7 +27564,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "枸杞头：枸杞头是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "枸杞头：枸杞头是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-284",
@@ -27131,7 +27618,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "苜蓿：苜蓿是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "苜蓿：苜蓿是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-285",
@@ -27184,7 +27672,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "野芹菜：野芹菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "野芹菜：野芹菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-286",
@@ -27237,7 +27726,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "野韭菜：野韭菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "野韭菜：野韭菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-287",
@@ -27290,7 +27780,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "野葱：野葱是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "野葱：野葱是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-288",
@@ -27343,7 +27834,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "地皮菜：地皮菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "地皮菜：地皮菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-289",
@@ -27396,7 +27888,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "榆钱：榆钱是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "榆钱：榆钱是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-290",
@@ -27449,7 +27942,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "槐花：槐花是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "槐花：槐花是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-291",
@@ -27502,7 +27996,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "洋槐花：洋槐花是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "洋槐花：洋槐花是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-292",
@@ -27555,7 +28050,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蕨根：蕨根是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蕨根：蕨根是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-293",
@@ -27608,7 +28104,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "野蒜：野蒜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "野蒜：野蒜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-294",
@@ -27661,7 +28158,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "折耳根：折耳根是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "折耳根：折耳根是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-295",
@@ -27714,7 +28212,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蕨根粉：蕨根粉是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蕨根粉：蕨根粉是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-296",
@@ -27767,7 +28266,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "观音菜：观音菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "观音菜：观音菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-297",
@@ -27820,7 +28320,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "野苋菜：野苋菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "野苋菜：野苋菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-298",
@@ -27873,7 +28374,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "山野菜：山野菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "山野菜：山野菜是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-wild-299",
@@ -27926,7 +28428,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蕨麻：蕨麻是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蕨麻：蕨麻是常见野菜。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-300",
@@ -27983,7 +28486,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "香菇：香菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "香菇：香菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-301",
@@ -28036,7 +28540,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "平菇：平菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "平菇：平菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-302",
@@ -28089,7 +28594,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "金针菇：金针菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "金针菇：金针菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-303",
@@ -28142,7 +28648,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "杏鲍菇：杏鲍菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "杏鲍菇：杏鲍菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-304",
@@ -28195,7 +28702,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鸡腿菇：鸡腿菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鸡腿菇：鸡腿菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-305",
@@ -28248,7 +28756,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "口蘑：口蘑是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "口蘑：口蘑是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-306",
@@ -28301,7 +28810,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "茶树菇：茶树菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "茶树菇：茶树菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-307",
@@ -28354,7 +28864,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "滑子菇：滑子菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "滑子菇：滑子菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-308",
@@ -28407,7 +28918,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "海鲜菇：海鲜菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "海鲜菇：海鲜菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-309",
@@ -28460,7 +28972,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "姬菇：姬菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "姬菇：姬菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-310",
@@ -28513,7 +29026,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "虫草花：虫草花是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "虫草花：虫草花是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-311",
@@ -28566,7 +29080,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "羊肚菌：羊肚菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "羊肚菌：羊肚菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-312",
@@ -28619,7 +29134,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "松茸：松茸是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "松茸：松茸是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-313",
@@ -28672,7 +29188,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "牛肝菌：牛肝菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "牛肝菌：牛肝菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-314",
@@ -28725,7 +29242,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鸡枞菌：鸡枞菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鸡枞菌：鸡枞菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-315",
@@ -28778,7 +29296,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "竹荪：竹荪是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "竹荪：竹荪是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-316",
@@ -28835,7 +29354,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "木耳：木耳是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "木耳：木耳是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-317",
@@ -28888,7 +29408,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "银耳花：银耳花是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "银耳花：银耳花是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-318",
@@ -28945,7 +29466,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蘑菇：蘑菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蘑菇：蘑菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-319",
@@ -28998,7 +29520,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "白玉菇：白玉菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "白玉菇：白玉菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-320",
@@ -29051,7 +29574,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蟹味菇：蟹味菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "蟹味菇：蟹味菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-321",
@@ -29104,7 +29628,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鹿茸菇：鹿茸菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鹿茸菇：鹿茸菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-322",
@@ -29157,7 +29682,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鹿肚菌：鹿肚菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鹿肚菌：鹿肚菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-323",
@@ -29210,7 +29736,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "珊瑚菌：珊瑚菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "珊瑚菌：珊瑚菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-324",
@@ -29263,7 +29790,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "榛蘑：榛蘑是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "榛蘑：榛蘑是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-325",
@@ -29316,7 +29844,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "元蘑：元蘑是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "元蘑：元蘑是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-326",
@@ -29369,7 +29898,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "真姬菇：真姬菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "真姬菇：真姬菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-327",
@@ -29422,7 +29952,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "秀珍菇：秀珍菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "秀珍菇：秀珍菇是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-328",
@@ -29479,7 +30010,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黑木耳：黑木耳是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黑木耳：黑木耳是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-329",
@@ -29532,7 +30064,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黄伞菌：黄伞菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黄伞菌：黄伞菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-330",
@@ -29585,7 +30118,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "黄牛肝菌：黄牛肝菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "黄牛肝菌：黄牛肝菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-331",
@@ -29638,7 +30172,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "青头菌：青头菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "青头菌：青头菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-332",
@@ -29691,7 +30226,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "铜绿菌：铜绿菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "铜绿菌：铜绿菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-333",
@@ -29744,7 +30280,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "奶浆菌：奶浆菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "奶浆菌：奶浆菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-334",
@@ -29797,7 +30334,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "扫把菌：扫把菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "扫把菌：扫把菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fungi-335",
@@ -29850,7 +30388,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鸡油菌：鸡油菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鸡油菌：鸡油菌是常见菌菇。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cat-fruit-336",
@@ -29907,7 +30446,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "葡萄：葡萄是常见水果。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "葡萄：葡萄是常见水果。传统食养中常见关键词为“日常食养”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cistanche-roucongrong",
@@ -29976,7 +30516,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "肉苁蓉：肉苁蓉多见于补肾、润肠类传统食养语境，不宜当作普通调味料长期随意叠加。"
+    "eatingIntro": "肉苁蓉：肉苁蓉多见于补肾、润肠类传统食养语境，不宜当作普通调味料长期随意叠加。",
+    "natureNote": ""
   },
   {
     "id": "dendrobium-tiepi",
@@ -30046,7 +30587,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "铁皮石斛：铁皮石斛是石斛类中常见的细分称呼，传统上多放在养阴、生津、清润的食养框架里。"
+    "eatingIntro": "铁皮石斛：铁皮石斛是石斛类中常见的细分称呼，传统上多放在养阴、生津、清润的食养框架里。",
+    "natureNote": ""
   },
   {
     "id": "baizhu",
@@ -30109,7 +30651,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "白术：白术多见于健脾、燥湿类方药语境，作为食养信息仅作辨识与搭配提醒，不建议自行长期食用。"
+    "eatingIntro": "白术：白术多见于健脾、燥湿类方药语境，作为食养信息仅作辨识与搭配提醒，不建议自行长期食用。",
+    "natureNote": ""
   },
   {
     "id": "crab",
@@ -30178,7 +30721,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "螃蟹：螃蟹是常见海产。传统食养中常见关键词为“清鲜、高蛋白”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "螃蟹：螃蟹是常见海产。传统食养中常见关键词为“清鲜、高蛋白”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "shrimp",
@@ -30245,7 +30789,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "虾：虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "虾：虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "lobster",
@@ -30310,7 +30855,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "龙虾：龙虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "龙虾：龙虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "black-tiger-shrimp",
@@ -30373,7 +30919,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "黑虎虾：黑虎虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "黑虎虾：黑虎虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "whiteleg-shrimp",
@@ -30436,7 +30983,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "南美白对虾：南美白对虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "南美白对虾：南美白对虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "kuruma-prawn",
@@ -30499,7 +31047,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "竹节虾：竹节虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "竹节虾：竹节虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "ming-prawn",
@@ -30561,7 +31110,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "明虾：明虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "明虾：明虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "argentine-red-shrimp",
@@ -30623,7 +31173,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "阿根廷红虾：阿根廷红虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "阿根廷红虾：阿根廷红虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "greasyback-shrimp",
@@ -30685,7 +31236,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "基围虾：基围虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "基围虾：基围虾是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "fish-generic",
@@ -30747,7 +31299,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "鱼：鱼是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "鱼：鱼是常见海产。传统食养中常见关键词为“高蛋白”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "pandan-leaf",
@@ -30812,7 +31365,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "斑斓叶：斑斓叶是常见调料。传统食养中常见关键词为“芳香、调味”，实际影响更取决于份量、加工方式和个人耐受…"
+    "eatingIntro": "斑斓叶：斑斓叶是常见调料。传统食养中常见关键词为“芳香、调味”，实际影响更取决于份量、加工方式和个人耐受…",
+    "natureNote": ""
   },
   {
     "id": "peach",
@@ -30873,7 +31427,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "桃：桃是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "桃：桃是常见水果。传统食养中常见关键词为“生津”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "durian",
@@ -30937,7 +31492,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "榴莲：榴莲是常见水果。传统食养中常见关键词为“温补”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "榴莲：榴莲是常见水果。传统食养中常见关键词为“温补”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "rice-mi",
@@ -31001,7 +31557,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "米：米是常见谷物。传统食养中常见关键词为“主食”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "米：米是常见谷物。传统食养中常见关键词为“主食”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cooking-oil",
@@ -31062,7 +31619,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "油：油是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "油：油是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "salt",
@@ -31122,7 +31680,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "盐：盐是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "盐：盐是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "sauce-jiang",
@@ -31184,7 +31743,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "酱：酱是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "酱：酱是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "vinegar-cu",
@@ -31250,7 +31810,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "hiddenFromLibrary": true,
-    "eatingIntro": "醋：醋是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。"
+    "eatingIntro": "醋：醋是常见调料。传统食养中常见关键词为“调味”，实际影响更取决于份量、加工方式和个人耐受。",
+    "natureNote": ""
   },
   {
     "id": "cili-fruit",
@@ -31311,7 +31872,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "刺梨：贵州等地常见野果，味酸涩，多用于泡酒、制汁或蜜饯。"
+    "eatingIntro": "刺梨：贵州等地常见野果，味酸涩，多用于泡酒、制汁或蜜饯。",
+    "natureNote": ""
   },
   {
     "id": "preserved-fruit",
@@ -31370,7 +31932,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "蜜饯：糖渍或盐渍果脯类零食，偏甜偏温，宜少量佐餐。"
+    "eatingIntro": "蜜饯：糖渍或盐渍果脯类零食，偏甜偏温，宜少量佐餐。",
+    "natureNote": ""
   },
   {
     "id": "chia-seed",
@@ -31430,7 +31993,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "奇亚籽：进口超级食物种子，吸水膨胀，常见于早餐、酸奶搭配。"
+    "eatingIntro": "奇亚籽：进口超级食物种子，吸水膨胀，常见于早餐、酸奶搭配。",
+    "natureNote": ""
   },
   {
     "id": "sunflower-seed",
@@ -31492,7 +32056,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "葵花籽：常见炒货零食，偏平，宜少量；盐焗、奶油口味注意钠与添加糖。"
+    "eatingIntro": "葵花籽：常见炒货零食，偏平，宜少量；盐焗、奶油口味注意钠与添加糖。",
+    "natureNote": ""
   },
   {
     "id": "watermelon-seed",
@@ -31549,7 +32114,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "西瓜子：常见炒货零食，偏平，宜少量；盐焗口味注意钠摄入。"
+    "eatingIntro": "西瓜子：常见炒货零食，偏平，宜少量；盐焗口味注意钠摄入。",
+    "natureNote": ""
   },
   {
     "id": "bamboo-rat",
@@ -31610,7 +32176,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "usageScope": "reference-only",
-    "eatingIntro": "竹鼠：华南地方物产参考条目，传统上偶有入馔记载，非日常食材。"
+    "eatingIntro": "竹鼠：华南地方物产参考条目，传统上偶有入馔记载，非日常食材。",
+    "natureNote": ""
   },
   {
     "id": "field-mouse",
@@ -31670,7 +32237,8 @@ const EXPANDED_FOODS_BULK = [
     ],
     "safetyNote": "",
     "usageScope": "reference-only",
-    "eatingIntro": "田鼠：部分地方饮食中的参考条目，非日常食材。"
+    "eatingIntro": "田鼠：部分地方饮食中的参考条目，非日常食材。",
+    "natureNote": ""
   },
   {
     "id": "youtiao",
@@ -31731,7 +32299,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "油条：常见油炸面食，偏温热油腻，早餐宜少量。"
+    "eatingIntro": "油条：常见油炸面食，偏温热油腻，早餐宜少量。",
+    "natureNote": ""
   },
   {
     "id": "zongzi",
@@ -31791,7 +32360,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "粽子：糯米包裹馅料的节令食品，偏温黏腻，宜热食、适量。"
+    "eatingIntro": "粽子：糯米包裹馅料的节令食品，偏温黏腻，宜热食、适量。",
+    "natureNote": ""
   },
   {
     "id": "mooncake",
@@ -31851,7 +32421,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "月饼：中秋常见糕点，偏甜偏油，宜分次少量。"
+    "eatingIntro": "月饼：中秋常见糕点，偏甜偏油，宜分次少量。",
+    "natureNote": ""
   },
   {
     "id": "tangyuan",
@@ -31913,7 +32484,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "汤圆：糯米制圆子，多煮糖水食用，偏温黏。"
+    "eatingIntro": "汤圆：糯米制圆子，多煮糖水食用，偏温黏。",
+    "natureNote": ""
   },
   {
     "id": "shumai",
@@ -31974,7 +32546,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "烧麦：面皮包馅蒸制点心，南北做法不一，宜热食。"
+    "eatingIntro": "烧麦：面皮包馅蒸制点心，南北做法不一，宜热食。",
+    "natureNote": ""
   },
   {
     "id": "liangpi",
@@ -32053,7 +32626,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "凉皮：小麦淀粉或面筋制凉拌主食，偏凉爽口。"
+    "eatingIntro": "凉皮：小麦淀粉或面筋制凉拌主食，偏凉爽口。",
+    "natureNote": ""
   },
   {
     "id": "spring-roll",
@@ -32112,7 +32686,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "春卷：面皮裹馅炸或蒸的点心，宜热食、控油。"
+    "eatingIntro": "春卷：面皮裹馅炸或蒸的点心，宜热食、控油。",
+    "natureNote": ""
   },
   {
     "id": "rice-roll",
@@ -32173,7 +32748,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "肠粉：米浆蒸制卷粉，粤菜早茶常见，宜热食。"
+    "eatingIntro": "肠粉：米浆蒸制卷粉，粤菜早茶常见，宜热食。",
+    "natureNote": ""
   },
   {
     "id": "wonton",
@@ -32237,7 +32813,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "馄饨：薄皮裹馅煮汤面食，南北叫法不同，宜热食。"
+    "eatingIntro": "馄饨：薄皮裹馅煮汤面食，南北叫法不同，宜热食。",
+    "natureNote": ""
   },
   {
     "id": "glutinous-rice-cake",
@@ -32297,7 +32874,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "糍粑：糯米捶打或蒸制的黏食，宜热食、少量。"
+    "eatingIntro": "糍粑：糯米捶打或蒸制的黏食，宜热食、少量。",
+    "natureNote": ""
   },
   {
     "id": "qingtuan",
@@ -32358,7 +32936,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "青团：艾草或麦青汁和糯米粉制成的节令点心。"
+    "eatingIntro": "青团：艾草或麦青汁和糯米粉制成的节令点心。",
+    "natureNote": ""
   },
   {
     "id": "cashew",
@@ -32417,7 +32996,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "腰果：常见坚果炒货，偏平，宜少量。"
+    "eatingIntro": "腰果：常见坚果炒货，偏平，宜少量。",
+    "natureNote": ""
   },
   {
     "id": "pistachio",
@@ -32477,7 +33057,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "开心果：常见坚果炒货，偏温香，宜少量。"
+    "eatingIntro": "开心果：常见坚果炒货，偏温香，宜少量。",
+    "natureNote": ""
   },
   {
     "id": "pecan",
@@ -32537,7 +33118,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "碧根果：进口坚果炒货，油脂含量高，宜少量。"
+    "eatingIntro": "碧根果：进口坚果炒货，油脂含量高，宜少量。",
+    "natureNote": ""
   },
   {
     "id": "macadamia",
@@ -32598,7 +33180,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "夏威夷果：奶油香坚果，油脂丰富，宜少量。"
+    "eatingIntro": "夏威夷果：奶油香坚果，油脂丰富，宜少量。",
+    "natureNote": ""
   },
   {
     "id": "pine-nut-snack",
@@ -32659,7 +33242,8 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "松子：常见炒货坚果，偏温润，宜少量。"
+    "eatingIntro": "松子：常见炒货坚果，偏温润，宜少量。",
+    "natureNote": ""
   },
   {
     "id": "spicy-strip",
@@ -32717,6 +33301,7 @@ const EXPANDED_FOODS_BULK = [
       }
     ],
     "safetyNote": "",
-    "eatingIntro": "辣条：调味面筋零食，辛辣重口，宜偶尔少量。"
+    "eatingIntro": "辣条：调味面筋零食，辛辣重口，宜偶尔少量。",
+    "natureNote": ""
   }
 ];

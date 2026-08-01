@@ -452,7 +452,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "安徽刀削面",
     "en": "安徽刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -470,13 +470,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--1441"
     ],
     "summary": "安徽家常主食安徽刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "安徽刀削面：安徽家常主食安徽刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -3110,7 +3110,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "北京白腐乳",
     "en": "北京白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -3128,13 +3128,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--623"
     ],
     "summary": "北京白腐乳属北京类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "北京白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "北京白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "北京白腐乳：北京白腐乳属北京类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -5949,7 +5949,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "北京小白菜",
     "en": "北京小白菜",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "清热",
       "清润"
@@ -5967,13 +5967,13 @@ const CN_SUPPLEMENT_FOODS = [
       "prod-bok-choy--620"
     ],
     "summary": "北京小白菜为北京地方蔬菜，日常食养参考条目。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "北京小白菜：北京小白菜为北京地方蔬菜，日常食养参考条目。",
     "natureNote": "",
     "sources": [
@@ -6339,7 +6339,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "北京紫菜",
     "en": "北京紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -6361,8 +6361,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "北京紫菜：北京紫菜属北京类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -10620,7 +10620,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "重庆刀削面",
     "en": "重庆刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -10638,13 +10638,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--931"
     ],
     "summary": "重庆家常主食重庆刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "重庆刀削面：重庆家常主食重庆刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -18503,7 +18503,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "甘肃白腐乳",
     "en": "甘肃白腐乳",
     "category": "主食",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -18521,13 +18521,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-fermented-tofu-white--1873"
     ],
     "summary": "甘肃家常主食甘肃白腐乳，性味与用量因人而异。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "甘肃白腐乳：甘肃家常主食甘肃白腐乳，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -18542,7 +18542,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "甘肃白腐乳",
     "en": "甘肃白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -18560,13 +18560,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--443"
     ],
     "summary": "甘肃白腐乳属甘肃类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "甘肃白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "甘肃白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "甘肃白腐乳：甘肃白腐乳属甘肃类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -18971,7 +18971,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "甘肃刀削面",
     "en": "甘肃刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -18989,13 +18989,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--1951"
     ],
     "summary": "甘肃产区甘肃刀削面，性味归经按民间经验整理。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "甘肃刀削面：甘肃产区甘肃刀削面，性味归经按民间经验整理。",
     "natureNote": "",
     "sources": [
@@ -21784,7 +21784,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "甘肃紫菜",
     "en": "甘肃紫菜",
     "category": "主食",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -21802,12 +21802,12 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-seaweed-sheet--1903"
     ],
     "summary": "甘肃家常主食甘肃紫菜，性味与用量因人而异。",
-    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
+    "caution": "脾胃虚寒、腹泻、痛经怕冷者不宜生食或大量食用。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "甘肃紫菜：甘肃家常主食甘肃紫菜，性味与用量因人而异。",
     "natureNote": "",
@@ -21823,7 +21823,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "甘肃紫菜",
     "en": "甘肃紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -21845,8 +21845,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "甘肃紫菜：甘肃紫菜属甘肃类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -24070,7 +24070,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "贵州刀削面",
     "en": "贵州刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -24088,13 +24088,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--1101"
     ],
     "summary": "贵州家常主食贵州刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "贵州刀削面：贵州家常主食贵州刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -27923,7 +27923,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "河北白腐乳",
     "en": "河北白腐乳",
     "category": "主食",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -27941,13 +27941,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-fermented-tofu-white--1618"
     ],
     "summary": "河北白腐乳属河北类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "河北白腐乳：河北白腐乳属河北类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -27962,7 +27962,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "河北白腐乳",
     "en": "河北白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -27980,13 +27980,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--383"
     ],
     "summary": "河北白腐乳属河北类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "河北白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "河北白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "河北白腐乳：河北白腐乳属河北类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -28391,7 +28391,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "河北刀削面",
     "en": "河北刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -28409,13 +28409,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--1696"
     ],
     "summary": "河北家常主食河北刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "河北刀削面：河北家常主食河北刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -31160,7 +31160,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "河北紫菜",
     "en": "河北紫菜",
     "category": "主食",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -31178,12 +31178,12 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-seaweed-sheet--1648"
     ],
     "summary": "河北紫菜属河北类，传统食养整理供查阅搭配。",
-    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
+    "caution": "脾胃虚寒、腹泻、痛经怕冷者不宜生食或大量食用。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "河北紫菜：河北紫菜属河北类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -31199,7 +31199,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "河北紫菜",
     "en": "河北紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -31221,8 +31221,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "河北紫菜：河北紫菜属河北类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -31283,7 +31283,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "河南白腐乳",
     "en": "河南白腐乳",
     "category": "主食",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -31301,13 +31301,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-fermented-tofu-white--1533"
     ],
     "summary": "河南白腐乳属河南类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "河南白腐乳：河南白腐乳属河南类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -31322,7 +31322,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "河南白腐乳",
     "en": "河南白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -31340,13 +31340,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--363"
     ],
     "summary": "河南白腐乳属河南类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "河南白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "河南白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "河南白腐乳：河南白腐乳属河南类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -31751,7 +31751,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "河南刀削面",
     "en": "河南刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -31769,13 +31769,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--1611"
     ],
     "summary": "河南家常主食河南刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "河南刀削面：河南家常主食河南刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -34520,7 +34520,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "河南紫菜",
     "en": "河南紫菜",
     "category": "主食",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -34538,12 +34538,12 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-seaweed-sheet--1563"
     ],
     "summary": "河南紫菜属河南类，传统食养整理供查阅搭配。",
-    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
+    "caution": "脾胃虚寒、腹泻、痛经怕冷者不宜生食或大量食用。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "河南紫菜：河南紫菜属河南类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -34559,7 +34559,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "河南紫菜",
     "en": "河南紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -34581,8 +34581,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "河南紫菜：河南紫菜属河南类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -35323,7 +35323,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "黑龙江白腐乳",
     "en": "黑龙江白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -35341,13 +35341,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--603"
     ],
     "summary": "黑龙江白腐乳属黑龙江类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "黑龙江白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "黑龙江白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "黑龙江白腐乳：黑龙江白腐乳属黑龙江类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -38014,7 +38014,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "黑龙江小白菜",
     "en": "黑龙江小白菜",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "清热",
       "清润"
@@ -38032,13 +38032,13 @@ const CN_SUPPLEMENT_FOODS = [
       "prod-bok-choy--600"
     ],
     "summary": "黑龙江小白菜为黑龙江地方蔬菜，日常食养参考条目。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "黑龙江小白菜：黑龙江小白菜为黑龙江地方蔬菜，日常食养参考条目。",
     "natureNote": "",
     "sources": [
@@ -38404,7 +38404,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "黑龙江紫菜",
     "en": "黑龙江紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -38426,8 +38426,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "黑龙江紫菜：黑龙江紫菜属黑龙江类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -40029,7 +40029,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "湖北刀削面",
     "en": "湖北刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -40047,13 +40047,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--676"
     ],
     "summary": "湖北家常主食湖北刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "湖北刀削面：湖北家常主食湖北刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -40224,7 +40224,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "湖南刀削面",
     "en": "湖南刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -40242,13 +40242,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--591"
     ],
     "summary": "湖南家常主食湖南刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "湖南刀削面：湖南家常主食湖南刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -44411,7 +44411,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "吉林白腐乳",
     "en": "吉林白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -44429,13 +44429,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--583"
     ],
     "summary": "吉林白腐乳属吉林类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "吉林白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "吉林白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "吉林白腐乳：吉林白腐乳属吉林类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -47102,7 +47102,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "吉林小白菜",
     "en": "吉林小白菜",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "清热",
       "清润"
@@ -47120,13 +47120,13 @@ const CN_SUPPLEMENT_FOODS = [
       "prod-bok-choy--580"
     ],
     "summary": "吉林小白菜为吉林地方蔬菜，日常食养参考条目。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "吉林小白菜：吉林小白菜为吉林地方蔬菜，日常食养参考条目。",
     "natureNote": "",
     "sources": [
@@ -47492,7 +47492,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "吉林紫菜",
     "en": "吉林紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -47514,8 +47514,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "吉林紫菜：吉林紫菜属吉林类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -48176,7 +48176,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "江苏刀削面",
     "en": "江苏刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -48194,13 +48194,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--1271"
     ],
     "summary": "江苏家常主食江苏刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "江苏刀削面：江苏家常主食江苏刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -48371,7 +48371,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "江西刀削面",
     "en": "江西刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -48389,13 +48389,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--761"
     ],
     "summary": "江西家常主食江西刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "江西刀削面：江西家常主食江西刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -56445,7 +56445,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "辽宁白腐乳",
     "en": "辽宁白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -56463,13 +56463,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--563"
     ],
     "summary": "辽宁白腐乳属辽宁类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "辽宁白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "辽宁白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "辽宁白腐乳：辽宁白腐乳属辽宁类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -59136,7 +59136,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "辽宁小白菜",
     "en": "辽宁小白菜",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "清热",
       "清润"
@@ -59154,13 +59154,13 @@ const CN_SUPPLEMENT_FOODS = [
       "prod-bok-choy--560"
     ],
     "summary": "辽宁小白菜为辽宁地方蔬菜，日常食养参考条目。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "辽宁小白菜：辽宁小白菜为辽宁地方蔬菜，日常食养参考条目。",
     "natureNote": "",
     "sources": [
@@ -59526,7 +59526,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "辽宁紫菜",
     "en": "辽宁紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -59548,8 +59548,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "辽宁紫菜：辽宁紫菜属辽宁类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -68950,7 +68950,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "内蒙古白腐乳",
     "en": "内蒙古白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -68968,13 +68968,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--543"
     ],
     "summary": "内蒙古白腐乳属内蒙古类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "内蒙古白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "内蒙古白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "内蒙古白腐乳：内蒙古白腐乳属内蒙古类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -71641,7 +71641,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "内蒙古小白菜",
     "en": "内蒙古小白菜",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "清热",
       "清润"
@@ -71659,13 +71659,13 @@ const CN_SUPPLEMENT_FOODS = [
       "prod-bok-choy--540"
     ],
     "summary": "内蒙古小白菜为内蒙古地方蔬菜，日常食养参考条目。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "内蒙古小白菜：内蒙古小白菜为内蒙古地方蔬菜，日常食养参考条目。",
     "natureNote": "",
     "sources": [
@@ -72031,7 +72031,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "内蒙古紫菜",
     "en": "内蒙古紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -72053,8 +72053,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "内蒙古紫菜：内蒙古紫菜属内蒙古类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -72408,7 +72408,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "宁夏白腐乳",
     "en": "宁夏白腐乳",
     "category": "主食",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -72426,13 +72426,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-fermented-tofu-white--2043"
     ],
     "summary": "宁夏家常主食宁夏白腐乳，性味与用量因人而异。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "宁夏白腐乳：宁夏家常主食宁夏白腐乳，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -72447,7 +72447,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "宁夏白腐乳",
     "en": "宁夏白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -72465,13 +72465,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--483"
     ],
     "summary": "宁夏白腐乳属宁夏类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "宁夏白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "宁夏白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "宁夏白腐乳：宁夏白腐乳属宁夏类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -73188,7 +73188,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "宁夏刀削面",
     "en": "宁夏刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -73206,13 +73206,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--2121"
     ],
     "summary": "宁夏产区宁夏刀削面，性味归经按民间经验整理。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "宁夏刀削面：宁夏产区宁夏刀削面，性味归经按民间经验整理。",
     "natureNote": "",
     "sources": [
@@ -78069,7 +78069,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "宁夏小白菜",
     "en": "宁夏小白菜",
     "category": "主食",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "清热",
       "清润"
@@ -78087,13 +78087,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-bok-choy--2080"
     ],
     "summary": "宁夏小白菜属宁夏类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "宁夏小白菜：宁夏小白菜属宁夏类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -78108,7 +78108,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "宁夏小白菜",
     "en": "宁夏小白菜",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "清热",
       "清润"
@@ -78126,13 +78126,13 @@ const CN_SUPPLEMENT_FOODS = [
       "prod-bok-choy--480"
     ],
     "summary": "宁夏小白菜为宁夏地方蔬菜，日常食养参考条目。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "宁夏小白菜：宁夏小白菜为宁夏地方蔬菜，日常食养参考条目。",
     "natureNote": "",
     "sources": [
@@ -78849,7 +78849,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "宁夏紫菜",
     "en": "宁夏紫菜",
     "category": "主食",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -78867,12 +78867,12 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-seaweed-sheet--2073"
     ],
     "summary": "宁夏家常主食宁夏紫菜，性味与用量因人而异。",
-    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
+    "caution": "脾胃虚寒、腹泻、痛经怕冷者不宜生食或大量食用。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "宁夏紫菜：宁夏家常主食宁夏紫菜，性味与用量因人而异。",
     "natureNote": "",
@@ -78888,7 +78888,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "宁夏紫菜",
     "en": "宁夏紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -78910,8 +78910,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "宁夏紫菜：宁夏紫菜属宁夏类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -82430,7 +82430,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "青海白腐乳",
     "en": "青海白腐乳",
     "category": "主食",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -82448,13 +82448,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-fermented-tofu-white--1958"
     ],
     "summary": "青海家常主食青海白腐乳，性味与用量因人而异。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "青海白腐乳：青海家常主食青海白腐乳，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -82469,7 +82469,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "青海白腐乳",
     "en": "青海白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -82487,13 +82487,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--463"
     ],
     "summary": "青海白腐乳属青海类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "青海白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "青海白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "青海白腐乳：青海白腐乳属青海类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -82898,7 +82898,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "青海刀削面",
     "en": "青海刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -82916,13 +82916,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--2036"
     ],
     "summary": "青海产区青海刀削面，性味归经按民间经验整理。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "青海刀削面：青海产区青海刀削面，性味归经按民间经验整理。",
     "natureNote": "",
     "sources": [
@@ -86171,7 +86171,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "青海紫菜",
     "en": "青海紫菜",
     "category": "主食",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -86189,12 +86189,12 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-seaweed-sheet--1988"
     ],
     "summary": "青海家常主食青海紫菜，性味与用量因人而异。",
-    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
+    "caution": "脾胃虚寒、腹泻、痛经怕冷者不宜生食或大量食用。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "青海紫菜：青海家常主食青海紫菜，性味与用量因人而异。",
     "natureNote": "",
@@ -86210,7 +86210,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "青海紫菜",
     "en": "青海紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -86232,8 +86232,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "青海紫菜：青海紫菜属青海类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -89999,7 +89999,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "山东刀削面",
     "en": "山东刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -90017,13 +90017,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--1526"
     ],
     "summary": "山东家常主食山东刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "山东刀削面：山东家常主食山东刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -90357,7 +90357,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "山西白腐乳",
     "en": "山西白腐乳",
     "category": "主食",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -90375,13 +90375,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-fermented-tofu-white--1703"
     ],
     "summary": "山西白腐乳属山西类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "山西白腐乳：山西白腐乳属山西类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -90396,7 +90396,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "山西白腐乳",
     "en": "山西白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -90414,13 +90414,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--403"
     ],
     "summary": "山西白腐乳属山西类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "山西白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "山西白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "山西白腐乳：山西白腐乳属山西类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -93628,7 +93628,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "山西紫菜",
     "en": "山西紫菜",
     "category": "主食",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -93646,12 +93646,12 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-seaweed-sheet--1733"
     ],
     "summary": "山西紫菜属山西类，传统食养整理供查阅搭配。",
-    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
+    "caution": "脾胃虚寒、腹泻、痛经怕冷者不宜生食或大量食用。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "山西紫菜：山西紫菜属山西类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -93667,7 +93667,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "山西紫菜",
     "en": "山西紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -93689,8 +93689,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "山西紫菜：山西紫菜属山西类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -93873,7 +93873,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "陕西白腐乳",
     "en": "陕西白腐乳",
     "category": "主食",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -93891,13 +93891,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-fermented-tofu-white--1788"
     ],
     "summary": "陕西白腐乳在陕西饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "陕西白腐乳：陕西白腐乳在陕西饮食文化中常见，作调理参考而非医疗建议。",
     "natureNote": "",
     "sources": [
@@ -93912,7 +93912,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "陕西白腐乳",
     "en": "陕西白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -93930,13 +93930,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--423"
     ],
     "summary": "陕西白腐乳属陕西类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "陕西白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "陕西白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "陕西白腐乳：陕西白腐乳属陕西类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -94341,7 +94341,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "陕西刀削面",
     "en": "陕西刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -94359,13 +94359,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--1866"
     ],
     "summary": "陕西刀削面为陕西地方主食，日常食养参考条目。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "陕西刀削面：陕西刀削面为陕西地方主食，日常食养参考条目。",
     "natureNote": "",
     "sources": [
@@ -97109,7 +97109,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "陕西紫菜",
     "en": "陕西紫菜",
     "category": "主食",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -97127,12 +97127,12 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-seaweed-sheet--1818"
     ],
     "summary": "陕西紫菜在陕西饮食文化中常见，作调理参考而非医疗建议。",
-    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
+    "caution": "脾胃虚寒、腹泻、痛经怕冷者不宜生食或大量食用。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "陕西紫菜：陕西紫菜在陕西饮食文化中常见，作调理参考而非医疗建议。",
     "natureNote": "",
@@ -97148,7 +97148,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "陕西紫菜",
     "en": "陕西紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -97170,8 +97170,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "陕西紫菜：陕西紫菜属陕西类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -97267,7 +97267,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "上海刀削面",
     "en": "上海刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -97285,13 +97285,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--1356"
     ],
     "summary": "上海家常主食上海刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "上海刀削面：上海家常主食上海刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -99633,7 +99633,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "四川刀削面",
     "en": "四川刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -99651,13 +99651,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--846"
     ],
     "summary": "四川家常主食四川刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "四川刀削面：四川家常主食四川刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -103102,7 +103102,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "天津白腐乳",
     "en": "天津白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -103120,13 +103120,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--643"
     ],
     "summary": "天津白腐乳属天津类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "天津白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "天津白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "天津白腐乳：天津白腐乳属天津类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -105828,7 +105828,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "天津小白菜",
     "en": "天津小白菜",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "清热",
       "清润"
@@ -105846,13 +105846,13 @@ const CN_SUPPLEMENT_FOODS = [
       "prod-bok-choy--640"
     ],
     "summary": "天津小白菜为天津地方蔬菜，日常食养参考条目。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "天津小白菜：天津小白菜为天津地方蔬菜，日常食养参考条目。",
     "natureNote": "",
     "sources": [
@@ -106218,7 +106218,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "天津紫菜",
     "en": "天津紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -106240,8 +106240,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "天津紫菜：天津紫菜属天津类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -110119,7 +110119,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "西藏白腐乳",
     "en": "西藏白腐乳",
     "category": "主食",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -110137,13 +110137,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-fermented-tofu-white--2213"
     ],
     "summary": "西藏家常主食西藏白腐乳，性味与用量因人而异。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "西藏白腐乳：西藏家常主食西藏白腐乳，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -110158,7 +110158,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "西藏白腐乳",
     "en": "西藏白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -110176,13 +110176,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--523"
     ],
     "summary": "西藏白腐乳属西藏类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "西藏白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "西藏白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "西藏白腐乳：西藏白腐乳属西藏类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -113590,7 +113590,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "西藏小白菜",
     "en": "西藏小白菜",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "清热",
       "清润"
@@ -113608,13 +113608,13 @@ const CN_SUPPLEMENT_FOODS = [
       "prod-bok-choy--520"
     ],
     "summary": "西藏小白菜为西藏地方蔬菜，日常食养参考条目。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "西藏小白菜：西藏小白菜为西藏地方蔬菜，日常食养参考条目。",
     "natureNote": "",
     "sources": [
@@ -114058,7 +114058,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "西藏紫菜",
     "en": "西藏紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -114080,8 +114080,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "西藏紫菜：西藏紫菜属西藏类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -117599,7 +117599,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "新疆白腐乳",
     "en": "新疆白腐乳",
     "category": "主食",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -117617,13 +117617,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-fermented-tofu-white--2128"
     ],
     "summary": "新疆家常主食新疆白腐乳，性味与用量因人而异。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
+    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "新疆白腐乳：新疆家常主食新疆白腐乳，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -117638,7 +117638,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "新疆白腐乳",
     "en": "新疆白腐乳",
     "category": "调料",
-    "nature": "平",
+    "nature": "温",
     "effects": [
       "暖胃",
       "补气"
@@ -117656,13 +117656,13 @@ const CN_SUPPLEMENT_FOODS = [
       "cond-fermented-tofu-white--503"
     ],
     "summary": "新疆白腐乳属新疆类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "新疆白腐乳偏平，宜少量调味，不宜大量单独食用。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "仅作调味少量使用，不宜当作主要食材大量摄入。",
+    "alone": "新疆白腐乳偏温，宜少量调味，不宜大量单独食用。",
+    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
+    "pair": "偏温热，仅作调味少量使用，不宜当作主要食材大量摄入。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
     "eatingIntro": "新疆白腐乳：新疆白腐乳属新疆类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -118503,7 +118503,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "新疆刀削面",
     "en": "新疆刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -118521,13 +118521,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--2206"
     ],
     "summary": "新疆产区新疆刀削面，性味归经按民间经验整理。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "新疆刀削面：新疆产区新疆刀削面，性味归经按民间经验整理。",
     "natureNote": "",
     "sources": [
@@ -124186,7 +124186,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "新疆小白菜",
     "en": "新疆小白菜",
     "category": "主食",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "清热",
       "清润"
@@ -124204,13 +124204,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-bok-choy--2165"
     ],
     "summary": "新疆小白菜属新疆类，传统食养整理供查阅搭配。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "新疆小白菜：新疆小白菜属新疆类，传统食养整理供查阅搭配。",
     "natureNote": "",
     "sources": [
@@ -124225,7 +124225,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "新疆小白菜",
     "en": "新疆小白菜",
     "category": "蔬菜",
-    "nature": "平",
+    "nature": "凉",
     "effects": [
       "清热",
       "清润"
@@ -124243,13 +124243,13 @@ const CN_SUPPLEMENT_FOODS = [
       "prod-bok-choy--500"
     ],
     "summary": "新疆小白菜为新疆地方蔬菜，日常食养参考条目。",
-    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
+    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
-    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
-    "pair": "与主食、豆制品或瘦肉同烹，比单吃更均衡。",
+    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
+    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "pair": "偏寒凉，与主食、豆制品或瘦肉同烹，比单吃更均衡。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "新疆小白菜：新疆小白菜为新疆地方蔬菜，日常食养参考条目。",
     "natureNote": "",
     "sources": [
@@ -125092,7 +125092,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "新疆紫菜",
     "en": "新疆紫菜",
     "category": "主食",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -125110,12 +125110,12 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-seaweed-sheet--2158"
     ],
     "summary": "新疆家常主食新疆紫菜，性味与用量因人而异。",
-    "caution": "胃寒便溏、产后体弱者宜熟食、少量，不宜长期当主食。",
+    "caution": "脾胃虚寒、腹泻、痛经怕冷者不宜生食或大量食用。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "新疆紫菜：新疆家常主食新疆紫菜，性味与用量因人而异。",
     "natureNote": "",
@@ -125131,7 +125131,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "新疆紫菜",
     "en": "新疆紫菜",
     "category": "海产",
-    "nature": "凉",
+    "nature": "寒",
     "effects": [
       "清热",
       "清利"
@@ -125153,8 +125153,8 @@ const CN_SUPPLEMENT_FOODS = [
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏凉清爽，可作配菜或汤品，胃寒腹泻时不宜生食或过量。",
-    "timing": "春夏或油腻后更适宜；冬季畏寒、病后体虚时宜温热烹调。",
+    "alone": "性偏寒凉，不宜长期大量单独当主食，熟食更稳妥。",
+    "timing": "暑热、身重口腻时可适量；畏寒腹泻、经期怕冷时减量。",
     "pair": "偏寒凉，与姜葱、蔬菜同烹，海鲜过敏、痛风急性期、孕期须谨慎。 可配姜葱、胡椒等温性配料平衡。",
     "eatingIntro": "新疆紫菜：新疆紫菜属新疆类，传统食养整理供查阅搭配。",
     "natureNote": "",
@@ -133622,7 +133622,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "云南刀削面",
     "en": "云南刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -133640,13 +133640,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--1016"
     ],
     "summary": "云南家常主食云南刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "云南刀削面：云南家常主食云南刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
@@ -135109,7 +135109,7 @@ const CN_SUPPLEMENT_FOODS = [
     "name": "浙江刀削面",
     "en": "浙江刀削面",
     "category": "主食",
-    "nature": "温",
+    "nature": "平",
     "effects": [
       "健脾",
       "补虚"
@@ -135127,13 +135127,13 @@ const CN_SUPPLEMENT_FOODS = [
       "reg-knife-cut-noodle--1186"
     ],
     "summary": "浙江家常主食浙江刀削面，性味与用量因人而异。",
-    "caution": "口干咽痛、便秘上火、外感发热时不宜多吃。",
+    "caution": "仍需注意个体过敏与消化耐受，特殊疾病用药期遵医嘱。",
     "hiddenFromLibrary": true,
     "natureSource": "pool-inherit",
     "natureConfidence": "medium",
-    "alone": "偏温补益，适合入正餐或炖汤，实热上火时不宜多吃。",
-    "timing": "秋冬或畏寒肢冷时更适宜；夏季烦热、口干上火时减量。",
-    "pair": "偏温热，与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。 宜配清淡蔬菜，避免与大量辛辣烧烤同餐。",
+    "alone": "性偏平和，日常适量食用一般问题不大，仍建议熟食为主。",
+    "timing": "四季皆可，更适合放在规律正餐里，而非空腹大量食用。",
+    "pair": "与蛋白、蔬菜搭配，避免单吃精制主食造成血糖波动。",
     "eatingIntro": "浙江刀削面：浙江家常主食浙江刀削面，性味与用量因人而异。",
     "natureNote": "",
     "sources": [
